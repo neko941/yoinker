@@ -1,0 +1,118 @@
+{
+    "url": "https://writing9.com/text/5cda2f0b35f0353b5c44e0cf",
+    "file": "data\\8\\5cda2f0b35f0353b5c44e0cf.json",
+    "topics": [
+        "crime",
+        "rate",
+        "teenagers",
+        "countries"
+    ],
+    "question": "The crime rate among teenagers has increased dramatically in many countries.\nDiscuss some possible reasons for this increase and suggest solutions.\nGive reasons for your answer and include any relevant examples from your own experience or knowledge.Write at least 250 words.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In contemporary societies, the alarming rise in youth crime is, without doubt, of great concern to the public. In this essay, causes and solutions for teenage criminality will be discussed.",
+        "There is a myriad of reasons why this phenomenon has arisen. First and foremost, many children have been brought up in one-parent families due to the breakdown in the nuclear family and the high divorce rates. In other words, the loss of the father role model may have been detrimental to the child development.  As a proof of this, news shows that boys without male guidance are easily led astray by bad influences such as drugs and crime. Secondly, boredom is often the cause of teenage offences against the law. By way of explanation, young people find their own entertainment when they lack of duties. As seen in many UK television programs about this issue, a great number of teenagers hang around in the evenings with little to do.",
+        "",
+        "Nevertheless, viable solutions to this extremely complex problem might alleviate the situation.  Governmental investments to build youth centers would enable teenagers to focus their attention on sport and other activities.  In addition, parents should be encouraged to take more responsibility for their children. Ultimately, the onus is on them to ensure their children are brought up in a loving environment which would make them less likely to turn to crime.  They could, for example, find a male relative to act as a role model.",
+        "In summary, it is clear that there are various reasons for this rise in teenage crime, but solutions are available.  If we begin to tackle the issue now, we may be able to prevent the situation from declining further."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 352,
+                "end_idx": 354,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "youth centers",
+                "start_idx": 1066,
+                "end_idx": 1079,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a youth centre",
+                    "youth centre",
+                    "youth centres",
+                    "youth Centers"
+                ]
+            }
+        ]
+    },
+    "submitter": "vogepawuye",
+    "num_words": 282,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "in addition",
+            "such",
+            "secondly",
+            "first",
+            "nevertheless",
+            "further",
+            "this",
+            "in other words",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "crime",
+                "occurrences": [
+                    {
+                        "start_idx": 54,
+                        "end_idx": 59
+                    },
+                    {
+                        "start_idx": 624,
+                        "end_idx": 629
+                    },
+                    {
+                        "start_idx": 1385,
+                        "end_idx": 1390
+                    },
+                    {
+                        "start_idx": 1543,
+                        "end_idx": 1548
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-14T02:59:23.000Z"
+}

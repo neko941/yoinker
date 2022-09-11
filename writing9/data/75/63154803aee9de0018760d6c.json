@@ -1,0 +1,124 @@
+{
+    "url": "https://writing9.com/text/63154803aee9de0018760d6c-in-spite-of-the-advances-made-in-agriculture-many-people",
+    "file": "data\\75\\63154803aee9de0018760d6c.json",
+    "topics": [
+        "spite",
+        "advances",
+        "agriculture",
+        "people",
+        "world",
+        "case"
+    ],
+    "question": "In spite of the advances made in agriculture, many people around the world still go hungry. Why is this the case? What can be done about this problem?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the past few decades, significant development has been observed in the field of agriculture . Besides, to reach the demand of the increasing population throughout the world, modern technologies are used in every part of the world. Nevertheless, a huge number of people on earth, especially the folk in Africa are still suffering from a lack of adequate food supply. Some probable reasons and solutions pertaining to this problem will be explored in the following section.",
+        "Initially, there lacks a proper distribution system of food products worldwide. Some regions are rich in agricultural land and they are capable of producing edibles more than the local demand. On the other hand, in the region where adverse weather resides, for example, the countries in Africa are not capable of reaching the food demand. Likewise, even in a particular ,,country there are problems in the food distribution process. The rich people waste a lot of food while the poor go hungry. At the same time, every now and then various types of pests and diseases attack the harvests and result in a shortage of food.",
+        "Every problem has a solution. One of the possible solutions can be that the world leader should reach a common ground to ensure a proper and effective distribution system for food products. For example,  countries capable of producing more edibles should  donate or sell their shares at a nominal price. Moreover, in ,countries voluntary organizations can raise funds from  wealthy citizens and utilize them to fulfil the necessities of the low-income population. Similarly, with the aid of newly invented treatment for  disease-affected crops, the risk of heavy damage to crops can be mitigated.",
+        "In conclusion, it can be said that if the leaders of the different regions become more concerned and serious about the problem and start working together, this problematic situation can be overcome. Thus, ensuring food safety for all the folk around the globe."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 846,
+                "end_idx": 847,
+                "error": "Change the punctuation",
+                "error_des": "The punctuation in ,, is incorrect. Consider changing the punctuation.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "dia_civil03",
+    "num_words": 319,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "thus",
+            "likewise",
+            "initially",
+            "nevertheless",
+            "moreover",
+            "this",
+            "besides",
+            "then",
+            "for example",
+            "similarly",
+            "on the other hand"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 356,
+                        "end_idx": 360
+                    },
+                    {
+                        "start_idx": 530,
+                        "end_idx": 534
+                    },
+                    {
+                        "start_idx": 801,
+                        "end_idx": 805
+                    },
+                    {
+                        "start_idx": 881,
+                        "end_idx": 885
+                    },
+                    {
+                        "start_idx": 939,
+                        "end_idx": 943
+                    },
+                    {
+                        "start_idx": 1091,
+                        "end_idx": 1095
+                    },
+                    {
+                        "start_idx": 1272,
+                        "end_idx": 1276
+                    },
+                    {
+                        "start_idx": 1908,
+                        "end_idx": 1912
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-05T00:57:21.582Z"
+}

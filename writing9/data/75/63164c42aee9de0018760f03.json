@@ -1,0 +1,109 @@
+{
+    "url": "https://writing9.com/text/63164c42aee9de0018760f03-many-parents-today-employ-private-tutors-to-teach-their-children",
+    "file": "data\\75\\63164c42aee9de0018760f03.json",
+    "topics": [
+        "parents",
+        "tutors",
+        "children",
+        "school",
+        "hours",
+        "development"
+    ],
+    "question": "Many parents today employ private tutors to teach their children school hours. Do you think this is a positive or negative development?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Admittedly, consistent practice and revision are the two major constraints of educational success. Certain demographics of society appoint personal teachers to train their children to boost academic performance. From my point of view, although it has a positive effect in the initial stages, there are potential impacts in a long run, which is a negative development. My reasoning is analysed in the ensuing paragraphs.",
+        "Firstly, receiving personal mentorship regarding academic topics helps students to understand the subject deeply; they can acquire better scores in the final exams. To explain further, although pupils are provided with theory as well as practical classes from the school, a repeat of the same session gets absorbed by the younger mind much quicker. Moreover, even though some of them miss a lecture, they can sort it from the secondary teacher without any hassle. For instance, over the past few years, the popularity of online tuition platforms has increased substantially in many countries, which is clear proof of the increased number of toppers and better grades. Therefore, individual training plays a crucial role in supporting the children to accomplish their preferred scores on the tests.",
+        "However, although there are meritorious aspects involved in issuing private tutors, there are many demerits involved in it. Initially, the learners might build a dependency on a second trainer to learn everything after schooling. To make it more clear, if students cannot learn from a single class, they tend to rely on a personal trainer to learn everything they learn. As a result, they might find it very difficult to pursue a degree without a second help, which is not practical. Therefore, a sheer number of youngsters might end up in a situation where they struggle to learn from universities. Furthermore, practical courses like engineering and diploma might be a perplexing task for the sprouts of society to accomplish because there will be a few educational professionals who have a license to handle certain machinaries and tools. Rather than learning the skills from the trainers provided by the universities, educators may fail in the exams. Indeed, many people in India have reported a lack of repeated classes because of the tuition strategy they followed in schools. Therefore, not only theory classes but also skilled education might get affected by the tuition methods.",
+        "To conclude, although providing personal classes in schools have advantageous factors during schooling, the future of the kid might be complex and hectic."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "machinaries",
+                "start_idx": 2039,
+                "end_idx": 2050,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want machinaries to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "machineries"
+                ]
+            }
+        ]
+    },
+    "submitter": "rlnambiar98",
+    "num_words": 404,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "however",
+            "also",
+            "therefore",
+            "as a result",
+            "furthermore",
+            "second",
+            "for instance",
+            "initially",
+            "moreover",
+            "further",
+            "although",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "classes",
+                "occurrences": [
+                    {
+                        "start_idx": 667,
+                        "end_idx": 674
+                    },
+                    {
+                        "start_idx": 2235,
+                        "end_idx": 2242
+                    },
+                    {
+                        "start_idx": 2328,
+                        "end_idx": 2335
+                    },
+                    {
+                        "start_idx": 2447,
+                        "end_idx": 2454
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-05T19:21:40.041Z"
+}
