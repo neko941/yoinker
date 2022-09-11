@@ -1,0 +1,204 @@
+{
+    "url": "https://writing9.com/text/5d17e3526ce6160017056a5f",
+    "file": "data\\45\\5d17e3526ce6160017056a5f.json",
+    "topics": [
+        "sports",
+        "professionals",
+        "money",
+        "people",
+        "professions"
+    ],
+    "question": "Successful sports professionals can earn a great deal more money than people in other important professions. Some people think this is fully justified while others think is unfair.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Top elite athletes can receive enormous remunerations, while those whose occupations are also important sometimes obtain lower wages. Although it is difficult to become a renowned sports professional, and those who achieve it must be rewarded, I believe that professional athletes are overpaid, indeed overated, and other careers should receive more recognition.",
+        "Nearly all successful athetes have dedicated all their lives to the sport they practice. Disciplines like gymnastics, football and boxing demand their trainees to invest a lot of time and money in improving themselves to become more competitive, which is why some would consider they should be rewarded when reaching the elite level. For example, a research made by the International Olympic Comittee revealed that sport professionals spend, out of their pockets, around $50,000 dollars on equipment, trainers and nutritionists per year while amateurs. However, they are not the only professionals who invest time and money for improving their skills, therfore, that reason is not good enough for the exorbitant salaries they have.",
+        "Other careers, like medicine or architecture, are also very demanding for those who want to become doctors or architects, and in many occasions these people are not as supported as those on sports, even though what they do is much more important than what an athlete can offer for the common good of society, because kicking a ball or jumping higher than others is not as significant as building a secure building or saving a life. For example, the Brazilian football player Neymar Jr. makes around $100,000 euros per week, whereas an average Mexican Anesthesiologist makes nearly $400 euros in the same time.",
+        "In conclusion, although elite sports professionals deserve recognition for the time and money invested into developing and improving their skills, other more important occupations should also be recognized and rewarded properly."
+    ],
+    "errors": {
+        "num_error": "11",
+        "error_list": [
+            {
+                "word": "sports",
+                "start_idx": 180,
+                "end_idx": 186,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "sport"
+                ]
+            },
+            {
+                "word": "professional",
+                "start_idx": 187,
+                "end_idx": 199,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "professionally"
+                ]
+            },
+            {
+                "word": "overated",
+                "start_idx": 302,
+                "end_idx": 310,
+                "error": "make too high an estimate of",
+                "error_des": "",
+                "suggetions": [
+                    "overrated"
+                ]
+            },
+            {
+                "word": "athetes",
+                "start_idx": 386,
+                "end_idx": 393,
+                "error": "a person trained to compete in sports",
+                "error_des": "",
+                "suggetions": [
+                    "athletes"
+                ]
+            },
+            {
+                "word": "Comittee",
+                "start_idx": 756,
+                "end_idx": 764,
+                "error": "a special group delegated to consider some matter",
+                "error_des": "",
+                "suggetions": [
+                    "Committee"
+                ]
+            },
+            {
+                "word": "therfore",
+                "start_idx": 1016,
+                "end_idx": 1024,
+                "error": "(used to introduce a logical conclusion) from that fact or reason or as a result",
+                "error_des": "",
+                "suggetions": [
+                    "therefore"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 1223,
+                "end_idx": 1225,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "occasions these",
+                "start_idx": 1231,
+                "end_idx": 1246,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "occasions, these"
+                ]
+            },
+            {
+                "word": "makes",
+                "start_idx": 1583,
+                "end_idx": 1588,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Makes"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 1689,
+                "end_idx": 1691,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "into",
+                "start_idx": 1811,
+                "end_idx": 1815,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "Daniela",
+    "num_words": 299,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "although",
+            "also",
+            "for example",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 108,
+                        "end_idx": 112
+                    },
+                    {
+                        "start_idx": 542,
+                        "end_idx": 546
+                    },
+                    {
+                        "start_idx": 972,
+                        "end_idx": 976
+                    },
+                    {
+                        "start_idx": 1699,
+                        "end_idx": 1703
+                    },
+                    {
+                        "start_idx": 1784,
+                        "end_idx": 1788
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-29T22:16:50.000Z"
+}

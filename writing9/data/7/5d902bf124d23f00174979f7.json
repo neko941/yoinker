@@ -1,0 +1,168 @@
+{
+    "url": "https://writing9.com/text/5d902bf124d23f00174979f7",
+    "file": "data\\7\\5d902bf124d23f00174979f7.json",
+    "topics": [
+        "demand",
+        "food",
+        "measures",
+        "community"
+    ],
+    "question": "Demand for food is increasing worldwide. What is the cause of this? What measures can the international community take to meet this demand?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Food is deemed as the basic necessity for living beings and it\u2019s demand is growing globally. This essay will discuss that the increasing population and the climate change are the main reasons for high demand of food and suggest that adopting new farming methods can help the international community to meet this requirement.",
+        "Over the last century, global population has quadrupled and according to the most recent estimate by the UN, there are 7.3 billion people which may reach 9.7 billion by 2050. This growth along with rising incomes in developing countries may cause dietary changes such as consumption of more protein and meat. As a consequence, this may lead to driving up more worldwide food demand. Furthermore, rise in temperature due to climate change will have severe long-term effects on the crop fields. For example, a recent research exhibits that countries which are located near the equator, will face huge reduction in crop output because of alterations in weather and temperature. Hence, increasing number of citizens and changing climatic conditions are the main causes of growing necessity of sustenance in numerous countries around the world.",
+        "The be-all and end-all solution to this problem is to increase the amount of agricultural land for growing grains. Farmers should allocate more areas to cultivate plants, fruits and vegetables to encounter the requirement of people. Moreover, farmers should enhance the productivity by using irrigation methods and latest techniques, such as precision farming. Therefore, the most viable solution to this issue of meeting global food demand can be achieved by either using large area for cultivating crops or improving the farming strategies in the existing land.",
+        "In conclusion, population increase and climate change are directly proportional to the high demand of sustenance. It is recommended that governments should provide more land to the agriculturalists and educate them about the latest technologies which are useful in agriculture."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "it\u2019s",
+                "start_idx": 60,
+                "end_idx": 64,
+                "error": "of a thing, of it; possessive form of \"it\"",
+                "error_des": "",
+                "suggetions": [
+                    "its"
+                ]
+            },
+            {
+                "word": "high ",
+                "start_idx": 196,
+                "end_idx": 201,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the high demand"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 208,
+                "end_idx": 210,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "people which",
+                "start_idx": 457,
+                "end_idx": 469,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "people, which"
+                ]
+            },
+            {
+                "word": "rise",
+                "start_idx": 722,
+                "end_idx": 726,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the rise",
+                    "a rise"
+                ]
+            },
+            {
+                "word": "huge reduction",
+                "start_idx": 920,
+                "end_idx": 934,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a huge reduction"
+                ]
+            },
+            {
+                "word": "to encounter",
+                "start_idx": 1360,
+                "end_idx": 1372,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "encounter"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 312,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "hence",
+            "furthermore",
+            "for example",
+            "moreover",
+            "therefore",
+            "this",
+            "last",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "demand",
+                "occurrences": [
+                    {
+                        "start_idx": 65,
+                        "end_idx": 71
+                    },
+                    {
+                        "start_idx": 201,
+                        "end_idx": 207
+                    },
+                    {
+                        "start_idx": 700,
+                        "end_idx": 706
+                    },
+                    {
+                        "start_idx": 1599,
+                        "end_idx": 1605
+                    },
+                    {
+                        "start_idx": 1821,
+                        "end_idx": 1827
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-29T03:58:41.368Z"
+}

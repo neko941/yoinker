@@ -1,0 +1,157 @@
+{
+    "url": "https://writing9.com/text/5ea76f0af0f7120011fbfbb5",
+    "file": "data\\55\\5ea76f0af0f7120011fbfbb5.json",
+    "topics": [
+        "countries",
+        "people",
+        "work",
+        "travel",
+        "year",
+        "school",
+        "university",
+        "studies"
+    ],
+    "question": "Question: In some countries young people are encouraged to work or travel for a year between finishing high school and starting university studies. Discuss the advantages and disadvantages for young people who decide to do this?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Answer:",
+        "Considering job or journey for 12 months is preferred to arouse the youth generation prior to their University education in certain countries. This essay will discuss both negative and positive aspects of work after completing secondary school. Undoubtedly, the major advantage of working succeeding to high school is to explore practical approach.",
+        "Firstly, academic studies provide teachings in a theoretical way divided into distinct subjects that contains limited exposed to real life performance in a form of labs or small level of experiments. Secondly, secondary stage of education trains students the managerial skills at limited stage that do not include effective dealing, handling or communication skills in such a way that could lead a person to implement in practical life properly. For example, if a student does job prior to University education, he will learn skills related to leadership, common employee and differentiate between academic and real knowledge.",
+        "Consequently, exposure to work drives a person to understand the realistic approach of his studies. Nevertheless, there are also drawbacks to this matter. Firstly, it consumes a time that could be invested on specializing in Education, which could lead him to become an expert in his field and could merge with practical work simpler. Secondly, insufficient knowledge of this role creates trouble for student because he does not know appropriate information to handle a task in proper at specific work place. For example, if he has not studied using AutoCAD software, he will not be able to draw any map. Hence, lack of information diverts a mind or thinking approach and proceeds to take wrong decisions.",
+        "To conclude, working prior to University study guides a student to utilize his academic knowledge experimental, but it lacks awareness and lead to seize incorrect steps for organizations"
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "working succeeding",
+                "start_idx": 289,
+                "end_idx": 307,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "working, succeeding"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 308,
+                "end_idx": 310,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "appropriate information",
+                "start_idx": 1422,
+                "end_idx": 1445,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the appropriate information"
+                ]
+            },
+            {
+                "word": "specific ",
+                "start_idx": 1476,
+                "end_idx": 1485,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the specific work place"
+                ]
+            },
+            {
+                "word": "emic knowledge experim",
+                "start_idx": 1778,
+                "end_idx": 1800,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "knowledge, experimental"
+                ]
+            }
+        ]
+    },
+    "submitter": "fzainab497",
+    "num_words": 293,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "hence",
+            "consequently",
+            "nevertheless",
+            "for example",
+            "secondly",
+            "this",
+            "also",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 213,
+                        "end_idx": 217
+                    },
+                    {
+                        "start_idx": 289,
+                        "end_idx": 293
+                    },
+                    {
+                        "start_idx": 1010,
+                        "end_idx": 1014
+                    },
+                    {
+                        "start_idx": 1305,
+                        "end_idx": 1309
+                    },
+                    {
+                        "start_idx": 1481,
+                        "end_idx": 1485
+                    },
+                    {
+                        "start_idx": 1703,
+                        "end_idx": 1707
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-04-27T23:47:22.037Z"
+}

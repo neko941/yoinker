@@ -1,0 +1,117 @@
+{
+    "url": "https://writing9.com/text/5ee4c58f0975a50018a6732a",
+    "file": "data\\75\\5ee4c58f0975a50018a6732a.json",
+    "topics": [
+        "people",
+        "information",
+        "research",
+        "business",
+        "world"
+    ],
+    "question": "Some people believe that it is good to share as much information as possible in scientific research,business and the academic world. others believe that some information is too important or too valuable to be shared freely.discuss both the views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "According to some people, we should actively take part in research purposes, of sharing information whether it is science, business or academic field, While others hold the opinion that this should not be shared so easily as it is very personal and valuable information. In my opinion, we should participate in studies by giving away important information as it will be beneficial for us in the long run.",
+        "On the one hand, it is argued by some and I agree that we should share information for various studies as it will aid the analysis process and will be beneficial for the humanity in the long run.  In other words, successful research in various fields was only possible because of the cooperation of people in different parts of the world. For instance, our knowledge of understanding of the prevalence of ailments in different climatic regions is mainly possible because of the cross sectional surveys and people agreeing to share info. It has consequently, resulted in the vaccination of the local population against the diseases endemic in that area.  BCG vaccination for instance, has eliminated tuberculosis in various countries. Hence, people should actively part in surveys.",
+        "On the other had, some people believe that some information should not be shared freely as it may breach their security and personal lives. According to them, this data about their age and various diseases may be leaked and procured by the insurance companies which, later on, may result in difficulties in getting insurance.  Moreover, this clue can be embarrassing for them if seen by relatives, especially if they have sexually transmitted diseases. As the exploration of these venereal diseases involves the contact tracing as well that is the person from whom the disease was acquired. Hence, in order to avoid this embarrassment, one may not share material in the first place.",
+        "In conclusion, while people may vary in their opinions, sharing data and assistance in the process of research can help alleviate various ailments prevalent in our society and this should be encouraged."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "information whether",
+                "start_idx": 88,
+                "end_idx": 107,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "information, whether"
+                ]
+            },
+            {
+                "word": "consequently",
+                "start_idx": 949,
+                "end_idx": 961,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "consequences"
+                ]
+            }
+        ]
+    },
+    "submitter": "eden2029",
+    "num_words": 338,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "for instance",
+            "hence",
+            "moreover",
+            "in other words",
+            "that is",
+            "this",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 88,
+                        "end_idx": 99
+                    },
+                    {
+                        "start_idx": 258,
+                        "end_idx": 269
+                    },
+                    {
+                        "start_idx": 344,
+                        "end_idx": 355
+                    },
+                    {
+                        "start_idx": 476,
+                        "end_idx": 487
+                    },
+                    {
+                        "start_idx": 1234,
+                        "end_idx": 1245
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-06-13T12:30:21.593Z"
+}

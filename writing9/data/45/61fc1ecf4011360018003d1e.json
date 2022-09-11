@@ -1,0 +1,184 @@
+{
+    "url": "https://writing9.com/text/61fc1ecf4011360018003d1e-the-personal-information-of-many-individuals-is-held-by-large",
+    "file": "data\\45\\61fc1ecf4011360018003d1e.json",
+    "topics": [
+        "information",
+        "individuals",
+        "internet",
+        "companies",
+        "organizations",
+        "outweigh"
+    ],
+    "question": "The personal information of many individuals is held by large internet companies and organizations.Do you think the advantages of this outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Recently, giant internet entities adopted an approach of recording and tracking people private information, these information are used to build a huge database that contains maybe every aspect of our life, starting from minor and general information up to very specific detailed information. I believe that the advantages of such approach doesn't outweigh the disadvantage, although the former might be beneficial from different perspectives.",
+        "One of the main advantages of recording general information like name, age, gender, etc. is that some smart web pages are using this age data to block some web contents which are not suitable to the user age, some other employs the gender information to select what type of advertisements to be presented to the user, and so on.",
+        "On the other hand, collecting and saving users private information requires a serious level of protection and security since now we are living in a digital world. These days burglars are not wearing a black striped T-shirt and waiting you to get outside of your home, today internet theifs are called hackers and can hack into any software no matter the level of security is being used, hackers can access users private information and apply phishy tricks to steal valuable things on the personal level like your credit card information and clean your bank account.",
+        "In my personal opinion, recording users personal information has some advantages but the associated risks are far surpasses and can not be mitigated or tolerated. The disadvantage of exposing recorded user information is impairable and badly serious, Organizations shouldn't proceed to collect this information unless they are capable of protecting them."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "approach",
+                "start_idx": 330,
+                "end_idx": 338,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "an approach"
+                ]
+            },
+            {
+                "word": "doesn't",
+                "start_idx": 339,
+                "end_idx": 346,
+                "error": "Change the verb form",
+                "error_des": "The singular verb does does not appear to agree with the plural subject the advantages of such approach. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "don't"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 671,
+                "end_idx": 675,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "waiting",
+                "start_idx": 1001,
+                "end_idx": 1008,
+                "error": "Add the preposition",
+                "error_des": "The phrase following the intransitive verb waiting seems to be missing a preposition. Consider adding one.",
+                "suggetions": [
+                    "forwaiting"
+                ]
+            },
+            {
+                "word": "are far surpasses",
+                "start_idx": 1446,
+                "end_idx": 1463,
+                "error": "Change the verb form",
+                "error_des": "It appears that the form of the verb surpasses does not work with are in this sentence.",
+                "suggetions": [
+                    "are far surpassed",
+                    "are far surpassing"
+                ]
+            },
+            {
+                "word": "impairable",
+                "start_idx": 1561,
+                "end_idx": 1571,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want impairable to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "comparable"
+                ]
+            }
+        ]
+    },
+    "submitter": "eng.ahmed.mohamed.2007",
+    "num_words": 269,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "although",
+            "on the other hand",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 95,
+                        "end_idx": 106
+                    },
+                    {
+                        "start_idx": 114,
+                        "end_idx": 125
+                    },
+                    {
+                        "start_idx": 238,
+                        "end_idx": 249
+                    },
+                    {
+                        "start_idx": 279,
+                        "end_idx": 290
+                    },
+                    {
+                        "start_idx": 491,
+                        "end_idx": 502
+                    },
+                    {
+                        "start_idx": 682,
+                        "end_idx": 693
+                    },
+                    {
+                        "start_idx": 827,
+                        "end_idx": 838
+                    },
+                    {
+                        "start_idx": 1192,
+                        "end_idx": 1203
+                    },
+                    {
+                        "start_idx": 1297,
+                        "end_idx": 1308
+                    },
+                    {
+                        "start_idx": 1387,
+                        "end_idx": 1398
+                    },
+                    {
+                        "start_idx": 1544,
+                        "end_idx": 1555
+                    },
+                    {
+                        "start_idx": 1637,
+                        "end_idx": 1648
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-02-03T18:53:38.780Z"
+}

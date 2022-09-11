@@ -1,0 +1,198 @@
+{
+    "url": "https://writing9.com/text/5dbd901ded6fd8001810ce90",
+    "file": "data\\6\\5dbd901ded6fd8001810ce90.json",
+    "topics": [
+        "accessibility",
+        "university"
+    ],
+    "question": "Both the poor and the rich find the accessibility into university difficult.do you agree or disagree",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Needless to emphasise, education is considered as the window to the outer world. However, whether the tertiary level education is accessible to everyone regardless of their financial status? A lion's share of society argues that both wealthy and needy people are facing difficulty in pursuing higher education. I strongly disagree with this notion and in this essay. Will support my opinion with examples.",
+        "Indeed, University education required higher amount of tuition fee. It would not affordable for  student who are from low-income background. For example, professional study courses such as engineering , Bsc nursing are demanding a large amount of admission fee as well as monthly tuition fee. It would not possible for many students from poor financial background to pay huge amount to seek higher education.",
+        "Secondly, most of the universities are situated only in metropolitan cities. It is therefore hard for the pupil to access university education since they are residing in  village or countryside. They have to spend a large amount of money for transportation and foster services. Moreover, these people wanted to leave their hometown and loved ones for a significant period of time. Hence it is difficult to follow higher-level education due to the lack of professional institution in smaller cities.",
+        "On the other hand, some people believe that both rich and needy are struggling to get higher education due to strict entrance criteria such as examinations and interviews. However, there are more corruptions in validation of paper and it is possible for wealthy people to pay and get the enhance in their interested universities.",
+        "In conclusion, although universities are keeping  tough entrance examinations for admission, there are more corruptions in those criteria and the high educational fee and shortage of universities in smaller cities make difficult to avail tertiary level studies for pupil from low income status."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "low-income background",
+                "start_idx": 524,
+                "end_idx": 545,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a low - income background",
+                    "low - income backgrounds"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 606,
+                "end_idx": 608,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "monthly tuition ",
+                "start_idx": 678,
+                "end_idx": 694,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the monthly tuition fee",
+                    "a monthly tuition fee"
+                ]
+            },
+            {
+                "word": "village",
+                "start_idx": 986,
+                "end_idx": 993,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the village"
+                ]
+            }
+        ]
+    },
+    "submitter": "sheenavj91194",
+    "num_words": 303,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "on the other hand",
+            "hence",
+            "for example",
+            "such",
+            "moreover",
+            "although",
+            "however",
+            "therefore",
+            "this",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 23,
+                        "end_idx": 32
+                    },
+                    {
+                        "start_idx": 117,
+                        "end_idx": 126
+                    },
+                    {
+                        "start_idx": 300,
+                        "end_idx": 309
+                    },
+                    {
+                        "start_idx": 425,
+                        "end_idx": 434
+                    },
+                    {
+                        "start_idx": 804,
+                        "end_idx": 813
+                    },
+                    {
+                        "start_idx": 948,
+                        "end_idx": 957
+                    },
+                    {
+                        "start_idx": 1241,
+                        "end_idx": 1250
+                    },
+                    {
+                        "start_idx": 1407,
+                        "end_idx": 1416
+                    },
+                    {
+                        "start_idx": 1795,
+                        "end_idx": 1804
+                    }
+                ]
+            },
+            {
+                "word": "fee",
+                "occurrences": [
+                    {
+                        "start_idx": 469,
+                        "end_idx": 472
+                    },
+                    {
+                        "start_idx": 663,
+                        "end_idx": 666
+                    },
+                    {
+                        "start_idx": 694,
+                        "end_idx": 697
+                    },
+                    {
+                        "start_idx": 1807,
+                        "end_idx": 1810
+                    }
+                ]
+            },
+            {
+                "word": "amount",
+                "occurrences": [
+                    {
+                        "start_idx": 451,
+                        "end_idx": 457
+                    },
+                    {
+                        "start_idx": 643,
+                        "end_idx": 649
+                    },
+                    {
+                        "start_idx": 782,
+                        "end_idx": 788
+                    },
+                    {
+                        "start_idx": 1037,
+                        "end_idx": 1043
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-02T14:18:05.884Z"
+}

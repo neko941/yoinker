@@ -1,0 +1,142 @@
+{
+    "url": "https://writing9.com/text/5e0b019ebfa196001179d5b6",
+    "file": "data\\7\\5e0b019ebfa196001179d5b6.json",
+    "topics": [
+        "people",
+        "cost",
+        "fuel"
+    ],
+    "question": "Some people think the best way to solve global environmental problems is to increase the cost of fuel.\nTo what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some consider raising fuel prices as the most effective method to resolve global environmental issues. In my opinion, I firmly disagree with this argument as it has the potential to disrupt world economy and global peace severely.",
+        "To begin with, transportation, industrial production, and even energy generation sectors run their operations on oil. If the oil prices are increased, it raises the prices of the products and services of these sectors as well. As a result, this affects the general public\u2019s ability to afford basic products and services which is known as inflation. This does not only affects the households but also slows down the overall growth of the economy. For instance, in developing countries, it is often observed that whenever the petrol price jumps up, the economic growth jumps down.",
+        "Moreover, increasing the fuel cost not just disturbs the economy, it can promote instability as well. When people are unable to afford the basic necessities, they get frustrated. This often leads to protest and sometimes these protests are converted into violent demonstrations, which not only results in the loss of public property, but also human lives. For example, in recent days, a protest against oil prices increase in Iran spread across the country which compelled the authorities to contain it by force and restricting mobile and internet services in the affected areas.",
+        "In conclusion, I think that without any alternative options for fuel, increasing the fuel prices is not the solution to the global environmental issues, but a trigger to affect the world economy and global peace and stability."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "sectors run",
+                "start_idx": 312,
+                "end_idx": 323,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "sectors, run"
+                ]
+            },
+            {
+                "word": "increased",
+                "start_idx": 371,
+                "end_idx": 380,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "increasing"
+                ]
+            },
+            {
+                "word": "households but",
+                "start_idx": 611,
+                "end_idx": 625,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "households, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 260,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for instance",
+            "as a result",
+            "for example",
+            "moreover",
+            "this",
+            "to begin",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "fuel",
+                "occurrences": [
+                    {
+                        "start_idx": 22,
+                        "end_idx": 26
+                    },
+                    {
+                        "start_idx": 835,
+                        "end_idx": 839
+                    },
+                    {
+                        "start_idx": 1454,
+                        "end_idx": 1458
+                    },
+                    {
+                        "start_idx": 1475,
+                        "end_idx": 1479
+                    }
+                ]
+            },
+            {
+                "word": "economy",
+                "occurrences": [
+                    {
+                        "start_idx": 196,
+                        "end_idx": 203
+                    },
+                    {
+                        "start_idx": 668,
+                        "end_idx": 675
+                    },
+                    {
+                        "start_idx": 867,
+                        "end_idx": 874
+                    },
+                    {
+                        "start_idx": 1577,
+                        "end_idx": 1584
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-12-31T08:06:54.359Z"
+}

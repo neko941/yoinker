@@ -1,0 +1,209 @@
+{
+    "url": "https://writing9.com/text/62a85b0abddc390018145d38-write-expalanation-letter-for-visa",
+    "file": "data\\45\\62a85b0abddc390018145d38.json",
+    "topics": [
+        "expalanation",
+        "visa"
+    ],
+    "question": "Write expalanation letter for visa",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 6.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 5.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "To,",
+        "Visa Officer,",
+        "The Canadian High Commission",
+        "Respected Sir/Madam,",
+        "Sub - Explanation for Proof of Funds",
+        "I, Prachi Vipulbhai Goyani received a letter of acceptance (LOA) from the University of Guelph for my Master of Arts in French Studies. The letter reveals that I have been accepted as a student for the fall semester starting on September 8th, 2022.",
+        "To be eligible to apply for a study permit, I need to fulfil the following criteria:",
+        "1.\u00a0 Proof of acceptance- Proof of acceptance from DLI",
+        "I have attached the LOA from the University of Guelph, which is a DLI # O19305391192.",
+        "2. Proof of Identity- Valid passport as a proof of Identity. I have uploaded\u00a0 my passport which shows Mauritius Citizenship because of this I am not able to take benefit of SDS Scheme and hence although my IELTS score (L-8 , R- 8.5, W- 7.0 , S-8.0 , Overall \u2013 8.0) permitting me for SDS I could not.",
+        "3. Right now I am living in India and applying visa from India itself. I have a Status of Overseas Citizen of India (OCI) proof of that also attached.",
+        "4. Proof of Financial Support- As I am a citizen of Mauritius I cannot open my GIC account in Recommended Banks on IRCC website.",
+        "My LOA does not mention the amount of tuition fees I have to deposit in the bank account of the university.",
+        "I communicated with the university representative but did not get a final answer. But the official says that you have to deposit the fees in August-2022 itself after registration.",
+        "Looking to this hunch I could not complete the payment of fees as well as assurance of living expenses in the form of GIC.",
+        "To provide evidence that I have sufficient funds available in my savings bank. I have prepared an EXPENSE SHEET and submitted it with the bank statement etc. showing financial capacity.",
+        "5. My father is stationed in Mauritius, and as a family we are all citizens of Mauritius. My Grandpa and other relatives live in India. I live with my grandpa in India. My Grandpa is bearing all my study expenses in Canada. I have produced all the types of requisite financial proof and an affidavit of financial support from him. Please take note of this.",
+        "Sincerely,",
+        "Goyani Prachi Vipulbhai"
+    ],
+    "errors": {
+        "num_error": "9",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 620,
+                "end_idx": 622,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "SDS",
+                "start_idx": 753,
+                "end_idx": 756,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the SDS"
+                ]
+            },
+            {
+                "word": "permitting",
+                "start_idx": 845,
+                "end_idx": 855,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb permitting. Consider changing it.",
+                "suggetions": [
+                    "permits"
+                ]
+            },
+            {
+                "word": "applying",
+                "start_idx": 918,
+                "end_idx": 926,
+                "error": "Add the preposition",
+                "error_des": "The phrase following the intransitive verb applying seems to be missing a preposition. Consider adding one.",
+                "suggetions": [
+                    "forapplying"
+                ]
+            },
+            {
+                "word": "IRCC",
+                "start_idx": 1146,
+                "end_idx": 1150,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the IRCC"
+                ]
+            },
+            {
+                "word": "amount",
+                "start_idx": 1188,
+                "end_idx": 1194,
+                "error": "Change the quantifier",
+                "error_des": "It appears that the quantifier the amount does not fit with the countable noun fees. Consider changing the quantifier or the noun.",
+                "suggetions": [
+                    "number"
+                ]
+            },
+            {
+                "word": "assurance",
+                "start_idx": 1522,
+                "end_idx": 1531,
+                "error": "Add an article",
+                "error_des": "The noun phrase assurance seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the assurance",
+                    "an assurance"
+                ]
+            },
+            {
+                "word": "family",
+                "start_idx": 1806,
+                "end_idx": 1812,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase as a family. Consider adding a comma.",
+                "suggetions": [
+                    ",family"
+                ]
+            },
+            {
+                "word": "Goyani",
+                "start_idx": 2126,
+                "end_idx": 2132,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Goyani to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "Golani"
+                ]
+            }
+        ]
+    },
+    "submitter": "theracevarsity",
+    "num_words": 384,
+    "num_paragraphs": 19,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "also",
+            "hence",
+            "although"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "india",
+                "occurrences": []
+            },
+            {
+                "word": "university",
+                "occurrences": [
+                    {
+                        "start_idx": 1255,
+                        "end_idx": 1265
+                    },
+                    {
+                        "start_idx": 1291,
+                        "end_idx": 1301
+                    }
+                ]
+            },
+            {
+                "word": "proof",
+                "occurrences": [
+                    {
+                        "start_idx": 621,
+                        "end_idx": 626
+                    },
+                    {
+                        "start_idx": 1001,
+                        "end_idx": 1006
+                    },
+                    {
+                        "start_idx": 2033,
+                        "end_idx": 2038
+                    }
+                ]
+            },
+            {
+                "word": "mauritius",
+                "occurrences": []
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-14T09:55:24.014Z"
+}

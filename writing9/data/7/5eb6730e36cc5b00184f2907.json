@@ -1,0 +1,116 @@
+{
+    "url": "https://writing9.com/text/5eb6730e36cc5b00184f2907",
+    "file": "data\\7\\5eb6730e36cc5b00184f2907.json",
+    "topics": [
+        "people",
+        "music",
+        "cultures",
+        "ages"
+    ],
+    "question": "Some people say music is a good way of bringing people of different cultures and ages together. To what extent do you agree or disagree with this opinion?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some people suggest that music is a vital way in terms of connecting people with different cultures and ages. I partly agree with this idea as I believe that although music can be seemed as a very effective way in linking people together, sometimes it can also fail to connect people with different background due to many reasons.",
+        "",
+        "On one hand, it is no doubt that music can certainly bring people together regardless of the culture they obey. Many globally-known pieces have proven that they can be appreciated and enjoyed by different people around the world. For example, Mozart, a worldwide famous pianist and composer, have created many pieces which are familiar to basically everyone around the world. Thousands of piano learner as well as contemporary musicians have all studied and played his creations regardless of their personal background and age. Another example is the legendary figure Michael Jackson. Undoubtedly, his irreplaceable position as well as his great achievements all indicates that music can be favoured by people in different cultural and age groups.",
+        "",
+        "However, songs may also fail to encourage communication among people in some cases. This could happen when the understanding of a song is highly depended on one's knowledge on a particular story or culture. For instance, a person from the U.S is unlikely to understand the national anthem of China simply because this person is expected to know very little about the language as well as the historical events behind the song. In addition, it is also quite common that some songs will be recomposed in the relative local language before it is introduced in another country. This suggests that people do sometimes need to reedit a song in order to make sure the its meaning can be fully delivered to people living in another community.",
+        "In conclusion, I partly agree with the suggestion that although in most cases music can be a very effective way of connecting people of various cultures and ages, sometime it can still fail to link people with different backgrounds, especially for music pieces which require deeper understanding of the culture."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "music",
+                "start_idx": 167,
+                "end_idx": 172,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the music"
+                ]
+            }
+        ]
+    },
+    "submitter": "wangqiuk14",
+    "num_words": 350,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "although",
+            "however",
+            "in addition",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "music",
+                "occurrences": [
+                    {
+                        "start_idx": 25,
+                        "end_idx": 30
+                    },
+                    {
+                        "start_idx": 167,
+                        "end_idx": 172
+                    },
+                    {
+                        "start_idx": 365,
+                        "end_idx": 370
+                    },
+                    {
+                        "start_idx": 759,
+                        "end_idx": 764
+                    },
+                    {
+                        "start_idx": 1010,
+                        "end_idx": 1015
+                    },
+                    {
+                        "start_idx": 1893,
+                        "end_idx": 1898
+                    },
+                    {
+                        "start_idx": 2063,
+                        "end_idx": 2068
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-05-09T09:08:30.636Z"
+}

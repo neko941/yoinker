@@ -1,0 +1,121 @@
+{
+    "url": "https://writing9.com/text/5f5f52aa07d0d0001800b650-a-friend-has-written-to-you-asking-for-advice-about",
+    "file": "data\\7\\5f5f52aa07d0d0001800b650.json",
+    "topics": [
+        "friend",
+        "advice",
+        "work"
+    ],
+    "question": "A friend has written to you asking for advice about a problem at work. You have had a similar problem in the past.Write a reply to your friend. In your letter:\u2022 tell your friend you understand the problem\u2022 explain what happened to you in the past\u2022 suggest possible solutions to the problem",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear, Mike",
+        "I am writing concerning your difficulties with the latest release of navigation maps. As you know, I was preparing maps for Garmin devices over the course of 3 years. That is why I am completely aware ofwhat kind of problem may occur during compilation and how to tackle them.",
+        "In fact, I had a problem similar to yours, when I was doing a map product compilation in July and there was an error related to restrictions, where mentioned in the restriction links do not share a common vertex.",
+        "Thus, the first thing to do is to find a log file in a compilation folder. In the log file, you can find a description of all errors, which were met. Secondly, look for a list of link IDs in the file that are unique identifiers of problematic links and then open the map and use the \u201cSQL-search\u201d option in order to find links and fix the restriction. After all these operations, launch the compilation again.",
+        "If you have any other questions, do not hesitate to write to me again.",
+        "Best regards,",
+        "Maria"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "ofwhat",
+                "start_idx": 212,
+                "end_idx": 218,
+                "error": "Correct your spelling",
+                "error_des": "The word ofwhat is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "of what"
+                ]
+            },
+            {
+                "word": "problem",
+                "start_idx": 227,
+                "end_idx": 234,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that problem may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "problems"
+                ]
+            },
+            {
+                "word": "open",
+                "start_idx": 762,
+                "end_idx": 766,
+                "error": "Change the verb form",
+                "error_des": "The plural verb open does not appear to agree with the singular subject the file. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "opens"
+                ]
+            }
+        ]
+    },
+    "submitter": "mariya.vlassova",
+    "num_words": 183,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "thus",
+            "then",
+            "that is",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "compilation",
+                "occurrences": [
+                    {
+                        "start_idx": 252,
+                        "end_idx": 263
+                    },
+                    {
+                        "start_idx": 362,
+                        "end_idx": 373
+                    },
+                    {
+                        "start_idx": 556,
+                        "end_idx": 567
+                    },
+                    {
+                        "start_idx": 891,
+                        "end_idx": 902
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-12T11:53:44.260Z"
+}

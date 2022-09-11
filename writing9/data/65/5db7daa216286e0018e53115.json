@@ -1,0 +1,179 @@
+{
+    "url": "https://writing9.com/text/5db7daa216286e0018e53115-you-are-working-for-a-company-you-need-to-take",
+    "file": "data\\65\\5db7daa216286e0018e53115.json",
+    "topics": [
+        "company",
+        "time",
+        "work",
+        "manager",
+        "amount"
+    ],
+    "question": "You are working for a company. You need to take some time off work and want to ask your manager about this.\nWrite a letter to your manager. In this letter\n\u2022\tExplain why you want to take time off work?\n\u2022\tGive details of the amount of time you need.\n\u2022\tSuggest how your work could be covered while you are away?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr. Khan,",
+        "I am Muaj Momin, an assistant manager in front office department. I am writing in regards to request some time off for our upcoming Eid festival.",
+        "Firstly, I have not seen my family since I have joined here in Mumbai branch. I am really looking forward to see my family on this auspicious occasion of Eid, as my family lives in Banglore, and my sister\u2019s wedding is also fixed, which is right after Eid celebrations.",
+        "Secondly, I need 10 days time off dated 15th of November to 25th of November, and I would like to resume work from 26th of November. If I get this 10 days off, I will be helpful to take some decisions on wedding arrangements like, booking a venue, arranging decorations and food and beverage services.",
+        "Finally, on the work front, I have already spoken to my colleague Mr. Javed Ali, who is another assistant manager, he will be looking after my shifts during my time off. Nevertheless, after coming back from holiday I will have completed my month end report just before the submission date, which is the 30th of November.",
+        "Kindly allow me to take a time off, this will suit my purpose. Looking forward to hearing from you.",
+        "Yours Sincerely,",
+        "Muaj Momin."
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "Mr.",
+                "start_idx": 5,
+                "end_idx": 8,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": "front",
+                "start_idx": 57,
+                "end_idx": 62,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the front"
+                ]
+            },
+            {
+                "word": "see",
+                "start_idx": 272,
+                "end_idx": 275,
+                "error": "Change the verb form",
+                "error_des": "The verb see is usually in the gerund form when following the word looking forward to. Consider replacing it with the -ing form.",
+                "suggetions": [
+                    "seeing"
+                ]
+            },
+            {
+                "word": "this",
+                "start_idx": 576,
+                "end_idx": 580,
+                "error": "Correct determiner usage",
+                "error_des": "It seems that determiner use may be incorrect here.",
+                "suggetions": [
+                    "these"
+                ]
+            },
+            {
+                "word": "I",
+                "start_idx": 594,
+                "end_idx": 595,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "it"
+                ]
+            },
+            {
+                "word": "take",
+                "start_idx": 615,
+                "end_idx": 619,
+                "error": "Correct your spelling",
+                "error_des": "The word take doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "make"
+                ]
+            },
+            {
+                "word": "Mr.",
+                "start_idx": 806,
+                "end_idx": 809,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": "month end",
+                "start_idx": 980,
+                "end_idx": 989,
+                "error": "Add a hyphen",
+                "error_des": "It appears that month end is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "month-end"
+                ]
+            }
+        ]
+    },
+    "submitter": "naziya.bustani",
+    "num_words": 212,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "nevertheless",
+            "finally",
+            "this",
+            "also",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 121,
+                        "end_idx": 125
+                    },
+                    {
+                        "start_idx": 455,
+                        "end_idx": 459
+                    },
+                    {
+                        "start_idx": 892,
+                        "end_idx": 896
+                    },
+                    {
+                        "start_idx": 1079,
+                        "end_idx": 1083
+                    }
+                ]
+            },
+            {
+                "word": "november",
+                "occurrences": []
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T17:32:31.027Z"
+}

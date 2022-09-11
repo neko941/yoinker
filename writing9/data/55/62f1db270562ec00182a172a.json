@@ -1,0 +1,208 @@
+{
+    "url": "https://writing9.com/text/62f1db270562ec00182a172a-some-people-think-that-the-best-way-to-learn-is",
+    "file": "data\\55\\62f1db270562ec00182a172a.json",
+    "topics": [
+        "people",
+        "newspaper",
+        "media"
+    ],
+    "question": "Some people think that the best way to learn is from a newspaper, others think that the best way to learn is through media. Discuss both and give opinion.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "People have different views about which way is the best to learn about news, the media or newspaper. In my opinion, although social media can give out data quicker and easier, newspapers are more accurate and trustworthy.",
+        "Since TV was invented, it has become a common way for citizens to collect informed on the latest news and compared with reading articles, sounds and moving images on TV can better convey the information. In recent years, with universal access to the Internet, more crowds turn to read on the web. Online reading saves the time of printing and distribution and more importantly, most of the information on the web is free. Another advantage of new media is their less impact on the environment. The paper-making industry associated with printing newspapers is a heavy polluter and large consumer of wood resources.",
+        "Sending posts on the internet doesn't cause so much damage to the environment as paperwork.",
+        "However, some still support newspapers. The system of publishing is more rigorous, which means the Information people gain from the printed media is more reliable than that from the Internet. It is true that in many cases, the news turns out to be false after it spreads widely on the web. Also, they are more popular among younger and elder citizens, since most of them are not familiar with the media.",
+        "This is also a more traditional way of gaining news, so it still remains a popular choice among places that have poverty problems.",
+        "In conclusion, the media is an efficient and also more convenient way of spreading information, but  the newspapers are more reliable and easier for elder ones."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "read",
+                "start_idx": 502,
+                "end_idx": 506,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb read. Consider changing it.",
+                "suggetions": [
+                    "reading"
+                ]
+            }
+        ]
+    },
+    "submitter": "xmchen0925",
+    "num_words": 274,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "although",
+            "also",
+            "this",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "5",
+        "list_repeated_words": [
+            {
+                "word": "news",
+                "occurrences": [
+                    {
+                        "start_idx": 71,
+                        "end_idx": 75
+                    },
+                    {
+                        "start_idx": 90,
+                        "end_idx": 94
+                    },
+                    {
+                        "start_idx": 176,
+                        "end_idx": 180
+                    },
+                    {
+                        "start_idx": 319,
+                        "end_idx": 323
+                    },
+                    {
+                        "start_idx": 767,
+                        "end_idx": 771
+                    },
+                    {
+                        "start_idx": 956,
+                        "end_idx": 960
+                    },
+                    {
+                        "start_idx": 1155,
+                        "end_idx": 1159
+                    },
+                    {
+                        "start_idx": 1379,
+                        "end_idx": 1383
+                    },
+                    {
+                        "start_idx": 1568,
+                        "end_idx": 1572
+                    }
+                ]
+            },
+            {
+                "word": "media",
+                "occurrences": [
+                    {
+                        "start_idx": 81,
+                        "end_idx": 86
+                    },
+                    {
+                        "start_idx": 132,
+                        "end_idx": 137
+                    },
+                    {
+                        "start_idx": 669,
+                        "end_idx": 674
+                    },
+                    {
+                        "start_idx": 1068,
+                        "end_idx": 1073
+                    },
+                    {
+                        "start_idx": 1325,
+                        "end_idx": 1330
+                    },
+                    {
+                        "start_idx": 1482,
+                        "end_idx": 1487
+                    }
+                ]
+            },
+            {
+                "word": "newspapers",
+                "occurrences": [
+                    {
+                        "start_idx": 176,
+                        "end_idx": 186
+                    },
+                    {
+                        "start_idx": 767,
+                        "end_idx": 777
+                    },
+                    {
+                        "start_idx": 956,
+                        "end_idx": 966
+                    },
+                    {
+                        "start_idx": 1568,
+                        "end_idx": 1578
+                    }
+                ]
+            },
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 413,
+                        "end_idx": 424
+                    },
+                    {
+                        "start_idx": 612,
+                        "end_idx": 623
+                    },
+                    {
+                        "start_idx": 1546,
+                        "end_idx": 1557
+                    }
+                ]
+            },
+            {
+                "word": "way",
+                "occurrences": [
+                    {
+                        "start_idx": 40,
+                        "end_idx": 43
+                    },
+                    {
+                        "start_idx": 268,
+                        "end_idx": 271
+                    },
+                    {
+                        "start_idx": 1364,
+                        "end_idx": 1367
+                    },
+                    {
+                        "start_idx": 1529,
+                        "end_idx": 1532
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-09T04:08:15.706Z"
+}

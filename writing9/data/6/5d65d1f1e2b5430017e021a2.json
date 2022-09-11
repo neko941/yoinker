@@ -1,0 +1,173 @@
+{
+    "url": "https://writing9.com/text/5d65d1f1e2b5430017e021a2",
+    "file": "data\\6\\5d65d1f1e2b5430017e021a2.json",
+    "topics": [
+        "salary",
+        "job",
+        "satisfaction"
+    ],
+    "question": "Big salary is much more important than job satisfaction. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Huge pay is very significant to work contentment. Some people value earning more than being happy with their jobs. In my opnion, I value the work fulfillment more than large remuneration because it drives productivity and improves work-life balance.",
+        "Firstly, the core inputs required to deliver quality output at work are employee motivation and loyalty which are by-products of job satisfaction. Happy employees are very committed to their daily tasks as they feel they are contributing to the overall achievement of the company. These people are self-energised to support the organisations vision and they are willing to go the extra mile to meet the agreed targets. For instance in my work, I face a lot of difficulties with the number of tasks that I need to complete in a short duration but I am driven to deliver an outcome that will help my team achieve their targets and put smiles on the faces of our final consumers.",
+        "Furthermore, people who enjoy their jobs tend to see work as less stressful and as a way to make a difference in the society instead of a means to make ends meet. This is key to ensuring that they have reserved energy for their families and hobbies after their daily work. It is pertinent for companies to have employees that are fresh and re-energised on daily basis to drive their goals and help them achieve more competitive advantage. From my experiences at work and reports from online journals, it is clear that happy workers tend to stay very long with their employers and thereby providing the needed team stability, maintaining  the organisation's culture and ultimately saving the company resources in backfilling and re-training replacement employees.",
+        "In summary, while big remuneration is key to fulfilling short term human needs and wants, it is  the derived work contentment that has the long term benefits of keeping us energised, happy, motivated, passionate and less-stressed. I will always value being happy with my job than earning more because my needs will always catch up with my salary."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "opnion",
+                "start_idx": 121,
+                "end_idx": 127,
+                "error": "a personal belief or judgment that is not founded on proof or certainty",
+                "error_des": "",
+                "suggetions": [
+                    "opinion"
+                ]
+            },
+            {
+                "word": "fulfillment",
+                "start_idx": 146,
+                "end_idx": 157,
+                "error": "a feeling of satisfaction at having achieved your desires",
+                "error_des": "",
+                "suggetions": [
+                    "fulfilment"
+                ]
+            },
+            {
+                "word": "organisations",
+                "start_idx": 579,
+                "end_idx": 592,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "organisation's"
+                ]
+            },
+            {
+                "word": "instance in",
+                "start_idx": 674,
+                "end_idx": 685,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "instance, in"
+                ]
+            },
+            {
+                "word": "duration but",
+                "start_idx": 784,
+                "end_idx": 796,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "duration, but"
+                ]
+            },
+            {
+                "word": "daily basis",
+                "start_idx": 1286,
+                "end_idx": 1297,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a daily basis"
+                ]
+            }
+        ]
+    },
+    "submitter": "bennytaker",
+    "num_words": 340,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "furthermore",
+            "for ",
+            "instead",
+            "this",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 32,
+                        "end_idx": 36
+                    },
+                    {
+                        "start_idx": 141,
+                        "end_idx": 145
+                    },
+                    {
+                        "start_idx": 231,
+                        "end_idx": 235
+                    },
+                    {
+                        "start_idx": 313,
+                        "end_idx": 317
+                    },
+                    {
+                        "start_idx": 688,
+                        "end_idx": 692
+                    },
+                    {
+                        "start_idx": 980,
+                        "end_idx": 984
+                    },
+                    {
+                        "start_idx": 1194,
+                        "end_idx": 1198
+                    },
+                    {
+                        "start_idx": 1389,
+                        "end_idx": 1393
+                    },
+                    {
+                        "start_idx": 1451,
+                        "end_idx": 1455
+                    },
+                    {
+                        "start_idx": 1799,
+                        "end_idx": 1803
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-28T00:59:29.782Z"
+}

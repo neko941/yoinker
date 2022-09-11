@@ -1,0 +1,314 @@
+{
+    "url": "https://writing9.com/text/6111ab02d510c300193eb948-in-some-cities-and-towns-all-over-the-world-the",
+    "file": "data\\5\\6111ab02d510c300193eb948.json",
+    "topics": [
+        "cities",
+        "towns",
+        "world",
+        "volume",
+        "traffic",
+        "actions"
+    ],
+    "question": "In some cities and towns all over the world, the high volume of traffic is a problem.\n\nWhat are the causes of this and what actions can be taken to solve this problem?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is indeed the fact that few cities across the globe experience the severe challenges of the high amount of traffic on their roads. This essay will discuss the potential reasons of this issue followed by the solutions to tackle them.",
+        "Firstly, the reason why some towns suffer from the increasing number of vehicles on the streets is no existence of a law related to driving restrictions. It means a law that prohibits people to drive their vehicle on a specific day or at a certain time does not exist which provides a liberty to drive anytime and anywhere. In addition, the inefficient public transport is the another major reason. It means that the distances across different destinations are not efficiently connected via public transport. As a result, people experience inconvenience while availing public transport to travel whereas opting to drive a private vehicle becomes a feasible option for them. For instance, due to the absense of direct connectivity of Delhi with Gurgaon, millions of employees residing in Delhi, drive to Gurgaon every day to work in their private vehicles which causes longer hours of traffic congestion at toll.",
+        "However, the above-mentioned concerns are certainly be dealt by implementing the following methods. Firstly, public transporttransport can be improved which should connect all the major destinations in a city effectively and efficiently. This will definitely encourage commuters to shift to public transport which can increase their possibility of on-time arrival at their desired destination. Secondly, a law that prohibits people to drive their vehicles on roads, can be issued in which a driver must be penalized with the heavy challans upon violation. Consequently, the number of vehicle on the roads of a city will decline drastically. For instance, considering the concerning increment of vehicles on the roads of Delhi, the government implemented an even-odd rule which reduced a traffic by 40 to 45 per cent.",
+        "Consequently, although the increasing traffic in many cities is the result of the absence of required regulations and an effective public transportation, the improvement of the transportation system and implementing driving regulations can certainly address the issues."
+    ],
+    "errors": {
+        "num_error": "11",
+        "error_list": [
+            {
+                "word": "of",
+                "start_idx": 180,
+                "end_idx": 182,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 519,
+                "end_idx": 521,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun liberty in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 573,
+                "end_idx": 577,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 609,
+                "end_idx": 613,
+                "error": "Remove the article",
+                "error_des": "It is unlikely that your sentence needs the article the before another. Consider deleting the article.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "absense",
+                "start_idx": 935,
+                "end_idx": 942,
+                "error": "Correct your spelling",
+                "error_des": "The word absense is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "absence"
+                ]
+            },
+            {
+                "word": "by",
+                "start_idx": 1210,
+                "end_idx": 1212,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with by"
+                ]
+            },
+            {
+                "word": "transporttransport",
+                "start_idx": 1265,
+                "end_idx": 1283,
+                "error": "Correct your spelling",
+                "error_des": "The word transporttransport is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "transport transport"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1670,
+                "end_idx": 1674,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "vehicle",
+                "start_idx": 1733,
+                "end_idx": 1740,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that vehicle may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "vehicles"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 1934,
+                "end_idx": 1936,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun traffic in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "an ",
+                "start_idx": 2084,
+                "end_idx": 2087,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, an, may be redundant when used with the uncountable noun transportation in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "ankit.hart",
+    "num_words": 351,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "for instance",
+            "as a result",
+            "consequently",
+            "although",
+            "however",
+            "in addition",
+            "this",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "5",
+        "list_repeated_words": [
+            {
+                "word": "transport",
+                "occurrences": [
+                    {
+                        "start_idx": 596,
+                        "end_idx": 605
+                    },
+                    {
+                        "start_idx": 734,
+                        "end_idx": 743
+                    },
+                    {
+                        "start_idx": 812,
+                        "end_idx": 821
+                    },
+                    {
+                        "start_idx": 1264,
+                        "end_idx": 1273
+                    },
+                    {
+                        "start_idx": 1273,
+                        "end_idx": 1282
+                    },
+                    {
+                        "start_idx": 1446,
+                        "end_idx": 1455
+                    },
+                    {
+                        "start_idx": 2103,
+                        "end_idx": 2112
+                    },
+                    {
+                        "start_idx": 2142,
+                        "end_idx": 2151
+                    }
+                ]
+            },
+            {
+                "word": "roads",
+                "occurrences": [
+                    {
+                        "start_idx": 127,
+                        "end_idx": 132
+                    },
+                    {
+                        "start_idx": 1607,
+                        "end_idx": 1612
+                    },
+                    {
+                        "start_idx": 1747,
+                        "end_idx": 1752
+                    },
+                    {
+                        "start_idx": 1859,
+                        "end_idx": 1864
+                    }
+                ]
+            },
+            {
+                "word": "drive",
+                "occurrences": [
+                    {
+                        "start_idx": 430,
+                        "end_idx": 435
+                    },
+                    {
+                        "start_idx": 532,
+                        "end_idx": 537
+                    },
+                    {
+                        "start_idx": 850,
+                        "end_idx": 855
+                    },
+                    {
+                        "start_idx": 1030,
+                        "end_idx": 1035
+                    },
+                    {
+                        "start_idx": 1583,
+                        "end_idx": 1588
+                    },
+                    {
+                        "start_idx": 1639,
+                        "end_idx": 1644
+                    }
+                ]
+            },
+            {
+                "word": "vehicles",
+                "occurrences": [
+                    {
+                        "start_idx": 308,
+                        "end_idx": 316
+                    },
+                    {
+                        "start_idx": 1082,
+                        "end_idx": 1090
+                    },
+                    {
+                        "start_idx": 1595,
+                        "end_idx": 1603
+                    },
+                    {
+                        "start_idx": 1843,
+                        "end_idx": 1851
+                    }
+                ]
+            },
+            {
+                "word": "traffic",
+                "occurrences": [
+                    {
+                        "start_idx": 110,
+                        "end_idx": 117
+                    },
+                    {
+                        "start_idx": 1120,
+                        "end_idx": 1127
+                    },
+                    {
+                        "start_idx": 1935,
+                        "end_idx": 1942
+                    },
+                    {
+                        "start_idx": 2003,
+                        "end_idx": 2010
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-08-09T22:43:29.701Z"
+}

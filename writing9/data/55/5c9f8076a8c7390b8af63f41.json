@@ -1,0 +1,127 @@
+{
+    "url": "https://writing9.com/text/5c9f8076a8c7390b8af63f41",
+    "file": "data\\55\\5c9f8076a8c7390b8af63f41.json",
+    "topics": [
+        "people",
+        "support",
+        "aid",
+        "organizations",
+        "attention",
+        "celebrities"
+    ],
+    "question": "Some people believe famous people's support towards international aid organizations draws attention to problems. Others think celebrities make the problems less important. Discuss both views and give your opinion",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is argued that well-known people\u2019s involvement in global aid organizations attracts the attention of the community. While some people suppose that their participation may downplay the significance of problems, I would argue that this trend could bring about enormous and positive changes to society.",
+        "On the one hand, famous people can lessen the importance of problems. One reason is that most people often consider the main purpose of celebrities\u2019 support as a way to enhance their reputations. In an effort to attract the attention of society, a number of important people try to be involved in as many volunteer projects as possible without any particular passion or interest in those. Furthermore, the association with celebrities may trivialize the serious work of international aid organizations since the focus of the public may be shifted away from this endeavour to the fame and public image of the celebrity concerned. Consequently, we sometimes have to question their motives for involvement.",
+        "On the other hand, I strongly believe that celebrities can bring meaningful changes to social activities. Firstly, they have a huge number of fans who are inspired by their actions. For example, when My Tam- a Vietnamese legendary singer - took part in a project to help underprivileged children in mountainous areas, thousands of youngsters from her fan clubs joined in this project by donating money and working as volunteers thanks to her encouragement. Secondly, celebrities are often trusted by both local and international communities, which may lead to success in raising the profile of aid organizations. As a result , more people learn about projects and donate money or volunteer to help either practically or in fund-raising.",
+        "In conclusion, although there are some drawbacks to celebrity participation in",
+        "international aid organizations, it seems to me that it is more advantageous for the community that they take part in voluntary activities"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "to",
+                "start_idx": 1442,
+                "end_idx": 1444,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 1631,
+                "end_idx": 1633,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "practically",
+                "start_idx": 1712,
+                "end_idx": 1723,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "practical"
+                ]
+            }
+        ]
+    },
+    "submitter": "hoangvuphg89",
+    "num_words": 309,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "on the other hand",
+            "as a result",
+            "consequently",
+            "furthermore",
+            "for example",
+            "although",
+            "this",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "aid",
+                "occurrences": [
+                    {
+                        "start_idx": 60,
+                        "end_idx": 63
+                    },
+                    {
+                        "start_idx": 787,
+                        "end_idx": 790
+                    },
+                    {
+                        "start_idx": 1601,
+                        "end_idx": 1604
+                    },
+                    {
+                        "start_idx": 1837,
+                        "end_idx": 1840
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-30T14:43:02.000Z"
+}

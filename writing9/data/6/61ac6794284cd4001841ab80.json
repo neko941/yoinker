@@ -1,0 +1,364 @@
+{
+    "url": "https://writing9.com/text/61ac6794284cd4001841ab80-you-arranged-to-visit-a-friend-in-england-but-an",
+    "file": "data\\6\\61ac6794284cd4001841ab80.json",
+    "topics": [
+        "visit",
+        "friend",
+        "england",
+        "event",
+        "home",
+        "change",
+        "date",
+        "situation",
+        "arrangement"
+    ],
+    "question": "You arranged to visit a friend in England but an important event at home happened, which means that you must change the date of the visit. Write a letter to your friend. In your letter, \u2022 explain the important event \u2022 apologize for the situation \u2022 suggest a new arrangement",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Gary,",
+        "How are you?I hope you are good.you know I arranged to stay Apply  city but an important event at home so I must change the date of the talk.",
+        "I am visiting from  your city England on 3.12.2021. Actually my elder brother come in the home after a long time on a same date because he is living in USA about a study and now he is completely a study and come to the home .that is important to me because he come in to visit a long time so this happened i not come in england .",
+        "I apologize this happen because you waiting for me this day and you leave the work because i come your home .I change the date of the visit while you all things raddy to me meet. So i will come next month because next week my eldar brother come at home after i will come .I hope 1.2.2022 this date i will come on ytor city.",
+        "I give you family members regards . You very well know me i am not cancel the any argument but this time I change it. So i am very sorry about this.",
+        "Your friend",
+        "Yz"
+    ],
+    "errors": {
+        "num_error": "24",
+        "error_list": [
+            {
+                "word": " ",
+                "start_idx": 85,
+                "end_idx": 86,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "Actually",
+                "start_idx": 220,
+                "end_idx": 228,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Actually. Consider adding a comma.",
+                "suggetions": [
+                    ",Actually"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 251,
+                "end_idx": 253,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 284,
+                "end_idx": 285,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase a same date does not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "USA",
+                "start_idx": 320,
+                "end_idx": 323,
+                "error": "Correct article usage",
+                "error_des": "Your article usage with the geographic name USA may be incorrect.",
+                "suggetions": [
+                    "the USA"
+                ]
+            },
+            {
+                "word": "come",
+                "start_idx": 428,
+                "end_idx": 432,
+                "error": "Change the form of the verb",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb come. Consider changing it.",
+                "suggetions": [
+                    "came"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 474,
+                "end_idx": 475,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "not come",
+                "start_idx": 476,
+                "end_idx": 484,
+                "error": "Change the verb form",
+                "error_des": "It appears that the negative verb form not come is incorrect. Consider changing the verb form.",
+                "suggetions": [
+                    "did not come",
+                    "have not come"
+                ]
+            },
+            {
+                "word": "england",
+                "start_idx": 488,
+                "end_idx": 495,
+                "error": "Change the capitalization",
+                "error_des": "It appears that the word england may be a proper noun in this context. Consider capitalizing the word.",
+                "suggetions": [
+                    "England"
+                ]
+            },
+            {
+                "word": "leave",
+                "start_idx": 566,
+                "end_idx": 571,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb leave. Consider changing it.",
+                "suggetions": [
+                    "left"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 572,
+                "end_idx": 576,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 589,
+                "end_idx": 590,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "your",
+                "start_idx": 596,
+                "end_idx": 600,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to your"
+                ]
+            },
+            {
+                "word": "raddy",
+                "start_idx": 659,
+                "end_idx": 664,
+                "error": "Correct your spelling",
+                "error_des": "The word raddy is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "ready"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 680,
+                "end_idx": 681,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "eldar",
+                "start_idx": 724,
+                "end_idx": 729,
+                "error": "Change the capitalization",
+                "error_des": "It appears that the word eldar may be a proper noun in this context. Consider capitalizing the word.",
+                "suggetions": [
+                    "Eldar",
+                    "elder"
+                ]
+            },
+            {
+                "word": "at ",
+                "start_idx": 743,
+                "end_idx": 746,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 757,
+                "end_idx": 758,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 796,
+                "end_idx": 797,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "ytor",
+                "start_idx": 811,
+                "end_idx": 815,
+                "error": "Correct your spelling",
+                "error_des": "The word ytor is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "your",
+                    "you",
+                    "to"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 880,
+                "end_idx": 881,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "cancel",
+                "start_idx": 889,
+                "end_idx": 895,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb cancel. Consider changing it.",
+                "suggetions": [
+                    "canceling"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 896,
+                "end_idx": 900,
+                "error": "Remove the article",
+                "error_des": "It is unlikely that your sentence needs the article the before any. Consider deleting the article.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 943,
+                "end_idx": 944,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            }
+        ]
+    },
+    "submitter": "gsant95",
+    "num_words": 201,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "next",
+            "that is"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "date",
+                "occurrences": [
+                    {
+                        "start_idx": 135,
+                        "end_idx": 139
+                    },
+                    {
+                        "start_idx": 276,
+                        "end_idx": 280
+                    },
+                    {
+                        "start_idx": 605,
+                        "end_idx": 609
+                    },
+                    {
+                        "start_idx": 776,
+                        "end_idx": 780
+                    }
+                ]
+            },
+            {
+                "word": "home",
+                "occurrences": [
+                    {
+                        "start_idx": 109,
+                        "end_idx": 113
+                    },
+                    {
+                        "start_idx": 243,
+                        "end_idx": 247
+                    },
+                    {
+                        "start_idx": 372,
+                        "end_idx": 376
+                    },
+                    {
+                        "start_idx": 586,
+                        "end_idx": 590
+                    },
+                    {
+                        "start_idx": 731,
+                        "end_idx": 735
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-12-05T07:22:01.248Z"
+}

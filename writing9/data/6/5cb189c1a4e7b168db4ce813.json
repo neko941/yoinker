@@ -1,0 +1,135 @@
+{
+    "url": "https://writing9.com/text/5cb189c1a4e7b168db4ce813",
+    "file": "data\\6\\5cb189c1a4e7b168db4ce813.json",
+    "topics": [
+        "professionals",
+        "doctors",
+        "nurses",
+        "countries",
+        "work",
+        "situation",
+        "measure"
+    ],
+    "question": "Medical professionals such as doctors and nurses from poor countries often migrate to richer countries to work.\n\nWhat problems arise from this situation? What measure can be taken to deal with it?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Medical workers in less developed countries have the tendency to migrate to more developed nations for economic purposes. This may result in a few challenges. This essay will discuss the problems arisen from this type of migration as well as possible solutions.",
+        "There are two main problems associated with the migration of medical professionals. Firstly, the people in the country where the doctors and nurses come from will experience a lack of access to medical treatment. If there is an insufficient number of trained doctors, many highly specialised medical treatments such as brain surgery will be delayed. Secondly, the costs of medical services may increase. Patients might have to pay considerably more than the normal medical fees when there is a shortage of healthcare providers.",
+        "Two recommendations can be made to tackle the aforementioned problems. One measure is to restrict the number of skill migration. For example, policy makers may allow only 200 doctors and nurses to migrate per year. This helps to control the drop in medical professionals in the home country. In addition, it is also a possible solution to incentivise these professionals to stay by reducing their income taxes or providing them with better and more affordable training.",
+        "In conclusion, skill migration among medical professionals is an on-going challenge. This essays discussed both the problems and solutions associated with this issue."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "healthcare",
+                "start_idx": 769,
+                "end_idx": 779,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "health care"
+                ]
+            },
+            {
+                "word": "taxes or",
+                "start_idx": 1197,
+                "end_idx": 1205,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "taxes, or"
+                ]
+            },
+            {
+                "word": "essays",
+                "start_idx": 1355,
+                "end_idx": 1361,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "essay"
+                ]
+            },
+            {
+                "word": "discussed",
+                "start_idx": 1362,
+                "end_idx": 1371,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "discusses"
+                ]
+            }
+        ]
+    },
+    "submitter": "evanmbt",
+    "num_words": 224,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for example",
+            "such",
+            "in addition",
+            "this",
+            "also",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "migration",
+                "occurrences": [
+                    {
+                        "start_idx": 221,
+                        "end_idx": 230
+                    },
+                    {
+                        "start_idx": 310,
+                        "end_idx": 319
+                    },
+                    {
+                        "start_idx": 908,
+                        "end_idx": 917
+                    },
+                    {
+                        "start_idx": 1281,
+                        "end_idx": 1290
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-13T07:03:29.000Z"
+}

@@ -1,0 +1,138 @@
+{
+    "url": "https://writing9.com/text/5e01cd7abfa196001176845e",
+    "file": "data\\7\\5e01cd7abfa196001176845e.json",
+    "topics": [
+        "say",
+        "music",
+        "art",
+        "drama",
+        "school",
+        "subjects",
+        "level"
+    ],
+    "question": "Some say that music, art and drama are as important as other school subjects, especially at the primary level. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is often argued that music, art and drama are imperative like other academic subjects and should be taught at the primary level. I am in favour of this idea because it will help children to release their stress and it provides overall development of the child.",
+        "Introducing extra-curricular subjects like music, art and drama is essential as other subjects because it will help children to be stress-free. That is to say, children are often engrossed and burdened by studies, and taking time-off from academics will help them to express and enjoy themselves. This will relax their mind and they will rejuvenate themselves to study even better and secure high grades. For instance, the Government of India has made it mandatory for all the primary level children to participate in music or theatre class as they found the benefits of less stressed children performing better in studies.",
+        "Another reason why children should be made to study these subjects is that it will help children to grow academically and non-academically. In other words, children will feel confident about themselves when they are not only academically strong but also have sound knowledge about any dance form or an instrument. Thus, they will be happy about themselves which will make them grow as a socially accepted person. To illustrate, many parents opt for International Baccalaureate schools because their curriculum focuses on the overall development of child in sports, academics and extra-curricular activities such that children receive 360 degree of development.",
+        "In conclusion, introducing subjects in the field of music, drama and theatre is as vital as other course subjects at the junior level as it will be conducive for children to be less stressful and it aids the complete development of the child."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "child",
+                "start_idx": 1439,
+                "end_idx": 1444,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the child",
+                    "children",
+                    "a child"
+                ]
+            },
+            {
+                "word": "degree",
+                "start_idx": 1529,
+                "end_idx": 1535,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "degrees"
+                ]
+            }
+        ]
+    },
+    "submitter": "sg186023",
+    "num_words": 290,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "thus",
+            "for instance",
+            "in other words",
+            "that is",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "development",
+                "occurrences": [
+                    {
+                        "start_idx": 238,
+                        "end_idx": 249
+                    },
+                    {
+                        "start_idx": 1421,
+                        "end_idx": 1432
+                    },
+                    {
+                        "start_idx": 1536,
+                        "end_idx": 1547
+                    },
+                    {
+                        "start_idx": 1766,
+                        "end_idx": 1777
+                    }
+                ]
+            },
+            {
+                "word": "music",
+                "occurrences": [
+                    {
+                        "start_idx": 24,
+                        "end_idx": 29
+                    },
+                    {
+                        "start_idx": 307,
+                        "end_idx": 312
+                    },
+                    {
+                        "start_idx": 782,
+                        "end_idx": 787
+                    },
+                    {
+                        "start_idx": 1601,
+                        "end_idx": 1606
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-12-24T08:34:02.326Z"
+}

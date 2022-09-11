@@ -1,0 +1,272 @@
+{
+    "url": "https://writing9.com/text/63182b9daac8660018fa45c4-research-shows-that-some-activities-are-good-for-health-and",
+    "file": "data\\55\\63182b9daac8660018fa45c4.json",
+    "topics": [
+        "research",
+        "activities",
+        "health",
+        "millions",
+        "people"
+    ],
+    "question": "Research shows that some activities are good for health and others are bad. Despite knowing that, millions of people engage in unhealthy activities.\n\nWhat is the cause of this?\n\nWhat can be done?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In this modernized and globalised world every individual chooses to work at their own comfort level without knowing the consequences of such engagement. However, some people know about the repercussions of being involved in these delirious happenings but they still go on. There are a plethora of reasons as to why people like to engross in the easy goings activities and a number of solutions to such unhealthy activities will be discussed.",
+        "To begin with, every individual opt for the work which is easily available and has a secure income. Moreover, working while sitting on the couch and a moderate movement of the body is the ideal activity which a person would select for living. For example, remote working has become a new trend nowadays and the employees sit on a particular place for 3 to 4 hours regularly resulting in many harmful health issues. Therefore, the technology and comforts at home had lead to these",
+        "The problem can be tackled by making the people aware about the detrimental effects on the health and engaging them in other activities. Furthermore, the government as well as the employers ought to take the initiative to handle this problem. For instance, the illicit drugs and harmful toxicants should be banned and on the other hand the employers must engage the workers in outdoor activities so that their mental and physical ability is not affected.",
+        "In conclusion, although there are a myriad of causes of engaging in unhealthy activities, the people have to take care of themselves and be aware about the pros and cons of such involvements."
+    ],
+    "errors": {
+        "num_error": "15",
+        "error_list": [
+            {
+                "word": "world",
+                "start_idx": 34,
+                "end_idx": 39,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase In this modernized and globalised world. Consider adding a comma.",
+                "suggetions": [
+                    ",world"
+                ]
+            },
+            {
+                "word": "as to ",
+                "start_idx": 305,
+                "end_idx": 311,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "opt",
+                "start_idx": 474,
+                "end_idx": 477,
+                "error": "Change the verb form",
+                "error_des": "The plural verb opt does not appear to agree with the singular subject every individual. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "opts"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 482,
+                "end_idx": 486,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 767,
+                "end_idx": 769,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "lead",
+                "start_idx": 908,
+                "end_idx": 912,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb lead. Consider changing it.",
+                "suggetions": [
+                    "led"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 959,
+                "end_idx": 963,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "about",
+                "start_idx": 976,
+                "end_idx": 981,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 1009,
+                "end_idx": 1012,
+                "error": "Change the word",
+                "error_des": "The word the may be incorrect in this context. Consider changing it.",
+                "suggetions": [
+                    "their"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1179,
+                "end_idx": 1183,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "hand",
+                "start_idx": 1253,
+                "end_idx": 1257,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase on the other hand. Consider adding a comma.",
+                "suggetions": [
+                    ",hand"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1258,
+                "end_idx": 1262,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 1407,
+                "end_idx": 1410,
+                "error": "Change the verb form",
+                "error_des": "The plural form of be are does not seem to agree with the singular subject a myriad. Consider changing the verb form.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1467,
+                "end_idx": 1471,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "about",
+                "start_idx": 1523,
+                "end_idx": 1528,
+                "error": "Change the preposition",
+                "error_des": "The preposition about after the adjective aware may be incorrect. Consider changing it to another preposition.",
+                "suggetions": [
+                    "of"
+                ]
+            }
+        ]
+    },
+    "submitter": "tarankaur15",
+    "num_words": 264,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "for instance",
+            "on the other ",
+            "furthermore",
+            "for example",
+            "moreover",
+            "although",
+            "however",
+            "therefore",
+            "this",
+            "to begin",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "activities",
+                "occurrences": [
+                    {
+                        "start_idx": 357,
+                        "end_idx": 367
+                    },
+                    {
+                        "start_idx": 412,
+                        "end_idx": 422
+                    },
+                    {
+                        "start_idx": 1047,
+                        "end_idx": 1057
+                    },
+                    {
+                        "start_idx": 1307,
+                        "end_idx": 1317
+                    },
+                    {
+                        "start_idx": 1455,
+                        "end_idx": 1465
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 167,
+                        "end_idx": 173
+                    },
+                    {
+                        "start_idx": 315,
+                        "end_idx": 321
+                    },
+                    {
+                        "start_idx": 963,
+                        "end_idx": 969
+                    },
+                    {
+                        "start_idx": 1471,
+                        "end_idx": 1477
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-07T05:26:55.734Z"
+}

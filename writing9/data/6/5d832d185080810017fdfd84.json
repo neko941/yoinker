@@ -1,0 +1,152 @@
+{
+    "url": "https://writing9.com/text/5d832d185080810017fdfd84",
+    "file": "data\\6\\5d832d185080810017fdfd84.json",
+    "topics": [
+        "scientist",
+        "technology",
+        "experts",
+        "society",
+        "musicians",
+        "artist"
+    ],
+    "question": "Scientist and technology experts seem to be more valued by modern society than musicians and artist. To what extent do you agree.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "According to a recent survey by Time magazine, 60 percent of people said the contribution of scientists and technology experts are more essential compared to musicians and artists. I am convinced that men of science are definitely more valuable in our society than artists, for we live in the era when various technological inventions and scientific developments have noticeably enhanced our lives, and only technologists and scientific researchers can make sure that the future generations will have a better lifestyle than the current.",
+        "In the first place, I am certain that scientific researchers are more beneficial than artists because we live in a world where scientists have significantly improved our lives. In other words, nowadays we are totally dependent on technological inventions and scientific discoveries that bring comfort to our life. Simply put, because of their work and achievements, we have various vehicles for quickly overcoming long distances, different devices, like phone or computer that simplify all we do. Also, due to scientists, we have medicines that improve our health and make our lives longer. It's hard to imagine our life without these devices, and if no scientists, we would not have such opportunities and therefore people really appreciate scientists and technology masters.",
+        "In the second place, people also understand that they can improve their lifestyle and make sure that the future generation will have better living conditions only through the development of science and technology. To explain, due to scientists, we are able to achieve longevity or discover new forms of energy. For example, scientists are trying to invent new kinds of transport with lower environmental damage and manufacturing costs or medicines for fatal diseases. Meanwhile, all huge machines that we use now in our daily life, or devices that we will use in the future have a scientist's effort behind. All in all, people realize that scientists come up with new ideas to improve our quality of life and aid society in overcoming the obstacles and therefore they consider that scientists are more valuable than artists.",
+        "So from the above discussion, my conscientious allows me to favor a scientist than an artist with regards to their contributions to our society. Both these as mentioned earlier are vital for us. An artist acts as a source of inspiration and information, whereas a scientist works as a source of innovations and inventions."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "life",
+                "start_idx": 847,
+                "end_idx": 851,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "lives"
+                ]
+            },
+            {
+                "word": "phone",
+                "start_idx": 993,
+                "end_idx": 998,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a phone"
+                ]
+            },
+            {
+                "word": "masters",
+                "start_idx": 1307,
+                "end_idx": 1314,
+                "error": "a vaguely specified concern",
+                "error_des": "",
+                "suggetions": [
+                    "matters"
+                ]
+            },
+            {
+                "word": "conscientious",
+                "start_idx": 2176,
+                "end_idx": 2189,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "conscience"
+                ]
+            },
+            {
+                "word": "favor",
+                "start_idx": 2203,
+                "end_idx": 2208,
+                "error": "promote over another",
+                "error_des": "",
+                "suggetions": [
+                    "favour"
+                ]
+            }
+        ]
+    },
+    "submitter": "darshanm1510",
+    "num_words": 392,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "second",
+            "for example",
+            "in other words",
+            "therefore",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 510,
+                        "end_idx": 514
+                    },
+                    {
+                        "start_idx": 846,
+                        "end_idx": 850
+                    },
+                    {
+                        "start_idx": 1154,
+                        "end_idx": 1158
+                    },
+                    {
+                        "start_idx": 1387,
+                        "end_idx": 1391
+                    },
+                    {
+                        "start_idx": 1841,
+                        "end_idx": 1845
+                    },
+                    {
+                        "start_idx": 2015,
+                        "end_idx": 2019
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-19T07:24:08.539Z"
+}

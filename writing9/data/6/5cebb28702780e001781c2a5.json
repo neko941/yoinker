@@ -1,0 +1,128 @@
+{
+    "url": "https://writing9.com/text/5cebb28702780e001781c2a5",
+    "file": "data\\6\\5cebb28702780e001781c2a5.json",
+    "topics": [
+        "talent",
+        "societies",
+        "method",
+        "people",
+        "entertainment"
+    ],
+    "question": "Televised talent shows have become popular in many societies today. Are these shows a good method of finding talented people, or are they just entertainment?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In many parts of the world, talent competitions on TV have massively grown in popularity as we see the rapidly rising number of audience of such programs. While some critics might consider them to be solely entertaining, I believe that these shows are an effective means of seeking for new talented artists, which will be discussed here in this essay.",
+        "In my opinion, televised gift shows can bring enormous benefits to both entrants and viewers. From the participant\u2019s perspective, entering a talent contest is a perfect way of getting noticed in the industry or exposure to a wider audience. For instance, singers can use televised stars sought after shows to earn more experience in the music industry as well as performing on stage. Without such experience, it would be extremely difficult for a singer to decide which songs work well for a fan and which don\u2019t. On a viewing level, those spectators who follow talent shows broadcasted on television could be absolutely entertained or even encouraged to chase their long-cherished dreams. Many of audience agree that some televised performances are remarkable and have never been done before. Perhaps this could explain why such entertaining shows always get high viewing figures. Besides, while watching those shows, people can imagine themselves on stage striving to be successful, believing that it is possible to make their aspiration come into reality. This seems to be the case of many thousands of people who have participated in such programs.",
+        "Personally, I can understand why some people might assume that those TV shows are useless not advantageous due to the high entertainment, but for many unknown talents, these competitions are enormous opportunities to show off their ability to the world.",
+        "In conclusion, it seems to me that talent shows can bring various merits to those who might concern in terms of recreation and profession"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "audience",
+                "start_idx": 1051,
+                "end_idx": 1059,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the audience"
+                ]
+            },
+            {
+                "word": "agree",
+                "start_idx": 1060,
+                "end_idx": 1065,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "agrees"
+                ]
+            },
+            {
+                "word": "stage striving",
+                "start_idx": 1305,
+                "end_idx": 1319,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "stage, striving"
+                ]
+            }
+        ]
+    },
+    "submitter": "littleangel5",
+    "num_words": 308,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "for instance",
+            "besides",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "talent",
+                "occurrences": [
+                    {
+                        "start_idx": 28,
+                        "end_idx": 34
+                    },
+                    {
+                        "start_idx": 290,
+                        "end_idx": 296
+                    },
+                    {
+                        "start_idx": 493,
+                        "end_idx": 499
+                    },
+                    {
+                        "start_idx": 913,
+                        "end_idx": 919
+                    },
+                    {
+                        "start_idx": 1663,
+                        "end_idx": 1669
+                    },
+                    {
+                        "start_idx": 1793,
+                        "end_idx": 1799
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-27T09:48:55.000Z"
+}

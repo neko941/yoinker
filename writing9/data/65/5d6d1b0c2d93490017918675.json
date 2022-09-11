@@ -1,0 +1,96 @@
+{
+    "url": "https://writing9.com/text/5d6d1b0c2d93490017918675-you-have-decided-to-leave-your-current-employment-write-a",
+    "file": "data\\65\\5d6d1b0c2d93490017918675.json",
+    "topics": [
+        "employment",
+        "employer",
+        "company",
+        "plan"
+    ],
+    "question": "You have decided to leave your current employment. Write a letter to your employer. Include the following in your letter:\n- Explain why you are writing\n- Explain why you have decided to leave the company\n- Tell your employer what you plan to do after leaving your present employment",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I\u2019m writing to you to inform you that I would like to resign from my position as Team Leader from your company. I had a wonderful experience here with the Jaypee family, but somehow I and my mom have decided to shift to Canada so have to leave this job within a month.",
+        "I applied for the Permanent Residency in Canada and finally I got the chance to shift there. I was preparing for the IELTS exam for a very long time and now my hard work has paid off now. After shifting to Canada I\u2019ll be searching for a new job as our new life will begin.",
+        "I\u2019ll be leaving after giving my 1 month notice period. I\u2019ll put my best efforts for this last month of the company and will be needing your blessings so that I can have a better life there.",
+        "Yours Faithfully",
+        "Vaishali"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "finally",
+                "start_idx": 331,
+                "end_idx": 338,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase finally. Consider adding a comma.",
+                "suggetions": [
+                    ",finally"
+                ]
+            },
+            {
+                "word": "month",
+                "start_idx": 587,
+                "end_idx": 592,
+                "error": "Replace the word",
+                "error_des": "The word month doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "monthly"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 633,
+                "end_idx": 636,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "into"
+                ]
+            }
+        ]
+    },
+    "submitter": "vaishalibhardwaj2010",
+    "num_words": 150,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "last"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T16:41:09.685Z"
+}

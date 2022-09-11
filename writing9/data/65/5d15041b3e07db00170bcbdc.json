@@ -1,0 +1,151 @@
+{
+    "url": "https://writing9.com/text/5d15041b3e07db00170bcbdc-your-friend-had-made-a-plan-for-you-to-see",
+    "file": "data\\65\\5d15041b3e07db00170bcbdc.json",
+    "topics": [
+        "friend",
+        "plan",
+        "movie",
+        "ve",
+        "person"
+    ],
+    "question": "Your friend had made a plan for you to see a movie together but you cannot now not join him. You've found another friend who can go instead of you.\n\nWrite a letter to your friend. In your letter:\n\nExplain why you cannot go anymore\nSay who can go instead of you\nSay why this person is a good person to go with",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Hi John,",
+        "How are you? Hope this letter finds you well.",
+        "I\u2019m writing this letter to you because I wouldn\u2019t be able to join you in watching a film you\u2019ve invited me for. This is due to the reason that I\u2019ve long working hours in my new employment. These days I\u2019m facing extreme burden of the newly taken projects by my company.",
+        "I\u2019ve think of one of my friend by the name of David, who could possibly join your company. He lives in my neighbor and I know him from the last five years. He would be a best choice for you.",
+        "I\u2019m suggesting David to you, as he\u2019s such a humorous guy like you. He\u2019s also a considerate person and can always be adjusted in every situation, which is the quality you are always looking in a person.",
+        "Give me a reply as soon as possible.",
+        "Yours Sincerely,",
+        "James"
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "working",
+                "start_idx": 210,
+                "end_idx": 217,
+                "error": "Change the verb form",
+                "error_des": "It appears that the verb working should be in the past participle form. Consider changing it.",
+                "suggetions": [
+                    "worked"
+                ]
+            },
+            {
+                "word": "extreme",
+                "start_idx": 268,
+                "end_idx": 275,
+                "error": "Add an article",
+                "error_des": "The noun phrase extreme burden seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the extreme"
+                ]
+            },
+            {
+                "word": "think",
+                "start_idx": 332,
+                "end_idx": 337,
+                "error": "Change the verb form",
+                "error_des": "It appears that the verb think should be in the past participle form. Consider changing it.",
+                "suggetions": [
+                    "thought"
+                ]
+            },
+            {
+                "word": "friend",
+                "start_idx": 351,
+                "end_idx": 357,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun friend follows the quantifier one of, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "friends"
+                ]
+            },
+            {
+                "word": "neighbor",
+                "start_idx": 433,
+                "end_idx": 441,
+                "error": "Replace the word",
+                "error_des": "The word neighbor doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "neighborhood"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 457,
+                "end_idx": 461,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 495,
+                "end_idx": 496,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase a best choice does not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 708,
+                "end_idx": 710,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for in"
+                ]
+            }
+        ]
+    },
+    "submitter": "srehaan59",
+    "num_words": 150,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "last",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T16:04:58.774Z"
+}

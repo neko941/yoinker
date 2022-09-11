@@ -1,0 +1,151 @@
+{
+    "url": "https://writing9.com/text/5dd2bbcfed6fd800181744e5",
+    "file": "data\\6\\5dd2bbcfed6fd800181744e5.json",
+    "topics": [
+        "people",
+        "groups",
+        "think",
+        "self",
+        "study",
+        "school",
+        "students"
+    ],
+    "question": "Some people think studying in groups is better, while some think self study is better for school students. Discuss both sides and give your opinion.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Reading generally requires concentration and commitment irrespective of whether it's done individually or in combination with others. While certain persons believe it is better to read alone, others prefer doing it with a group. This essay will discuss both opinions and state why it is better to study in the company of other people.",
+        "Firstly, as a student, studying with others makes learning easier and faster because an aspect of the study that isn't clear to one student may be clearer to the other and this fellow can explain that aspect in clear terms leading to quick understanding of others who don't understand. With this, the assimilation period is shortened and everyone can focus on another aspect. For example, in laboratory sessions, academicians can easily teach different sections of a practical work, making all to have a proper knowledge of the laboratory session. By learning with others, those who are lacking behind can easily catch up.",
+        "Secondly, by studying on your own, you will have a better and thorough background knowledge of a subject and with this, the learner can fully understand the topic of study when compared to studying with others where you only master an aspect. For example, a practical session carried out individually will help the learner to practise the entire steps and have total knowledge of the process. Doing this will help the person to study much better.",
+        "Thirdly, it is better to study in a group of others especially for courses that require practise. By doing so, students can see alternate methods of getting things done faster or better than how they think it should be done, leading to a shortened learning time frame",
+        "In conclusion, it is beneficiary to learn with others as this will foster good working relationship with colleagues and ensure that academicians are collaborating in a proper educational environment."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "quick understanding",
+                "start_idx": 569,
+                "end_idx": 588,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a quick understanding"
+                ]
+            },
+            {
+                "word": "subject and",
+                "start_idx": 1055,
+                "end_idx": 1066,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "subject, and"
+                ]
+            }
+        ]
+    },
+    "submitter": "ollydepo002",
+    "num_words": 308,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "thirdly",
+            "for example",
+            "this",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "aspect",
+                "occurrences": [
+                    {
+                        "start_idx": 423,
+                        "end_idx": 429
+                    },
+                    {
+                        "start_idx": 536,
+                        "end_idx": 542
+                    },
+                    {
+                        "start_idx": 703,
+                        "end_idx": 709
+                    },
+                    {
+                        "start_idx": 1193,
+                        "end_idx": 1199
+                    }
+                ]
+            },
+            {
+                "word": "study",
+                "occurrences": [
+                    {
+                        "start_idx": 297,
+                        "end_idx": 302
+                    },
+                    {
+                        "start_idx": 358,
+                        "end_idx": 363
+                    },
+                    {
+                        "start_idx": 437,
+                        "end_idx": 442
+                    },
+                    {
+                        "start_idx": 971,
+                        "end_idx": 976
+                    },
+                    {
+                        "start_idx": 1124,
+                        "end_idx": 1129
+                    },
+                    {
+                        "start_idx": 1147,
+                        "end_idx": 1152
+                    },
+                    {
+                        "start_idx": 1386,
+                        "end_idx": 1391
+                    },
+                    {
+                        "start_idx": 1430,
+                        "end_idx": 1435
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-18T15:42:07.662Z"
+}

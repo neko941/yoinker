@@ -1,0 +1,174 @@
+{
+    "url": "https://writing9.com/text/61eeccf14011360018002b2f-some-say-that-because-many-people-are-living-much-longer",
+    "file": "data\\65\\61eeccf14011360018002b2f.json",
+    "topics": [
+        "say",
+        "people",
+        "age",
+        "work"
+    ],
+    "question": "some say that because many people are living much longer , the age at which people retire from work should be raised considerably . \nto what extent do you agree or disagree ?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Part of the community thinks to extend the age of retirement  since many people are living longer than previously. As people need money to live and there are more job opportunities around the world , I strongly agree with that statement.",
+        "Firstly, due to various ,,reasons most populations expected maturity of life  had been extended worldwide . With this , they need to spend more money on various purposes and their requirement also high. Unfortunately, with the current age of ,retirement they spend most of their valuable time as  unemployed. For example, a recent survey done by American university shows , most people who retire from their previous jobs , seeks  new jobs since  arethey unable to cope  with the financial problems that they face.",
+        "At the same time , worldwide  there are many employees waiting for a skilled labour force to join with them to start production . With the  low retirement age currently practice in most countries , people waste their valuable job skills and most jobs opportunities are wane due to the unavailability of trained skilled workers. For instance  , recent research shows  , factories in  most European countries facing problems due to the unavailability of  skilled labourers . They propose the government  extend the retirement age of their employers to keep the production on.",
+        "In conclusion , people around the world live more years than previously and they are healthy and capable of working more than the current retirement age practice in most countries. At the same time, they need to work more to complete their requirements and most companies seek them to complete their requirement of a skilled workforce. Due to these ,reasons the writer strongly agrees with the given statement."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 263,
+                "end_idx": 264,
+                "error": "Change the punctuation",
+                "error_des": "The punctuation in ,, is incorrect. Consider changing the punctuation.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "also",
+                "start_idx": 430,
+                "end_idx": 434,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "are also"
+                ]
+            },
+            {
+                "word": "arethey",
+                "start_idx": 685,
+                "end_idx": 692,
+                "error": "Correct your spelling",
+                "error_des": "The word arethey is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "are they",
+                    "they"
+                ]
+            }
+        ]
+    },
+    "submitter": "mngldissanayaka",
+    "num_words": 286,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "this",
+            "for example",
+            "firstly",
+            "for instance"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 73,
+                        "end_idx": 79
+                    },
+                    {
+                        "start_idx": 118,
+                        "end_idx": 124
+                    },
+                    {
+                        "start_idx": 617,
+                        "end_idx": 623
+                    },
+                    {
+                        "start_idx": 951,
+                        "end_idx": 957
+                    },
+                    {
+                        "start_idx": 1343,
+                        "end_idx": 1349
+                    }
+                ]
+            },
+            {
+                "word": "age",
+                "occurrences": [
+                    {
+                        "start_idx": 43,
+                        "end_idx": 46
+                    },
+                    {
+                        "start_idx": 473,
+                        "end_idx": 476
+                    },
+                    {
+                        "start_idx": 908,
+                        "end_idx": 911
+                    },
+                    {
+                        "start_idx": 1277,
+                        "end_idx": 1280
+                    },
+                    {
+                        "start_idx": 1476,
+                        "end_idx": 1479
+                    }
+                ]
+            },
+            {
+                "word": "retirement",
+                "occurrences": [
+                    {
+                        "start_idx": 50,
+                        "end_idx": 60
+                    },
+                    {
+                        "start_idx": 481,
+                        "end_idx": 491
+                    },
+                    {
+                        "start_idx": 897,
+                        "end_idx": 907
+                    },
+                    {
+                        "start_idx": 1266,
+                        "end_idx": 1276
+                    },
+                    {
+                        "start_idx": 1465,
+                        "end_idx": 1475
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-01-24T16:06:40.949Z"
+}

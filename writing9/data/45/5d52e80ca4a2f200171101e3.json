@@ -1,0 +1,200 @@
+{
+    "url": "https://writing9.com/text/5d52e80ca4a2f200171101e3",
+    "file": "data\\45\\5d52e80ca4a2f200171101e3.json",
+    "topics": [
+        "people",
+        "governments",
+        "money",
+        "arts",
+        "education"
+    ],
+    "question": "Some people think governments should spend less money on arts and invest more in education.\nHow far do you agree or disagree with this opinion?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The health of a country is dependent on the education level of its residents and without it a country's progress can be crippled in comparison to other countries. The arts are essential in terms of hobby and can be used as an addendum. But having artistic skills with no education can throw our life into darkness. For example, recently a daily newspaper reported about a person who was exceptionally well in playing the violin and wanted to build a career in that field failed to achieve his goal because he had no formal inculcation and no one to talk about his artistic skills who could give him the required platform to flourish. His son had recorded all his works and his work became prominent after his death.",
+        "All the troubles could have been reduced if the man had been educated as he could have known and talked with many emeriti in his field, thereby enhancing his skill and popularity. Education makes a complete person, who is capable of expressing himself to the entire world. Not all people can be better in arts and only a handful can make their living from it but the entire nation needs the education to sustain their livelihood. People can make their daily life easy and comfortable with education as they get to know about their surrounding situations more clearly",
+        "In my opinion, education should be promoted in each and every homes. The government should invest more in education than arts to help their nation prosper forward. Arts should also be promoted but not at the cost of education. Education should be made compulsory for all individuals.",
+        "At last, I want to say that, education and arts are an essential part of human life and both should be present in a human being. Life without arts can be sustainable but life without education is similar to death"
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "emeriti",
+                "start_idx": 830,
+                "end_idx": 837,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Emeriti"
+                ]
+            },
+            {
+                "word": "it but",
+                "start_idx": 1072,
+                "end_idx": 1078,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "it, but"
+                ]
+            },
+            {
+                "word": "easy",
+                "start_idx": 1179,
+                "end_idx": 1183,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "easier"
+                ]
+            },
+            {
+                "word": "education as",
+                "start_idx": 1205,
+                "end_idx": 1217,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "education, as"
+                ]
+            },
+            {
+                "word": "homes",
+                "start_idx": 1345,
+                "end_idx": 1350,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "home"
+                ]
+            },
+            {
+                "word": "promoted but",
+                "start_idx": 1467,
+                "end_idx": 1479,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "promoted, but"
+                ]
+            },
+            {
+                "word": "arts",
+                "start_idx": 1610,
+                "end_idx": 1614,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the arts"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 312,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "also",
+            "for example",
+            "last"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 44,
+                        "end_idx": 53
+                    },
+                    {
+                        "start_idx": 271,
+                        "end_idx": 280
+                    },
+                    {
+                        "start_idx": 1107,
+                        "end_idx": 1116
+                    },
+                    {
+                        "start_idx": 1205,
+                        "end_idx": 1214
+                    },
+                    {
+                        "start_idx": 1298,
+                        "end_idx": 1307
+                    },
+                    {
+                        "start_idx": 1389,
+                        "end_idx": 1398
+                    },
+                    {
+                        "start_idx": 1499,
+                        "end_idx": 1508
+                    },
+                    {
+                        "start_idx": 1596,
+                        "end_idx": 1605
+                    },
+                    {
+                        "start_idx": 1750,
+                        "end_idx": 1759
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 295,
+                        "end_idx": 299
+                    },
+                    {
+                        "start_idx": 1174,
+                        "end_idx": 1178
+                    },
+                    {
+                        "start_idx": 1646,
+                        "end_idx": 1650
+                    },
+                    {
+                        "start_idx": 1737,
+                        "end_idx": 1741
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-13T16:40:44.190Z"
+}

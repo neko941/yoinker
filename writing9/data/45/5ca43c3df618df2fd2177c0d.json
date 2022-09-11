@@ -1,0 +1,139 @@
+{
+    "url": "https://writing9.com/text/5ca43c3df618df2fd2177c0d",
+    "file": "data\\45\\5ca43c3df618df2fd2177c0d.json",
+    "topics": [
+        "computers",
+        "part",
+        "education"
+    ],
+    "question": "COMPUTERS ARE BECOMING AN ESSENTIAL PART OF EDUCATION. DISCUSS THE ADVANTAGES AND DISADVANTAGES AND GIVE YOUR OWN OPINION.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "As part of the school lessons, computers are playing an important role in each lesson and becoming the requirement. In my opinion, it is beneficial to students instant access to information on almost any subject. However, they get distracted easily by social media and computer gaming.",
+        "Using the computer at school, children have accessed every corner of the globe like online courses, free-book and they can more easily grasp the basics of science. Without the computer, pupils have to depend on books and tutors given in the classroom, if they have any questions or if they don\u2019t understand the details of lessons, they get only limited help. But the Internet has offered an unlimited amount of information that helps explain various topics, even tutorial and online courses that can be taken to help teach them about many different subjects.",
+        "To the contrary, using computers also bring some distractions for students, for example, social networking sites, game online which provide for users to studying and relaxing. While using computers, it is very easy to get off track as their teachers predicted. Many students begin watching different sorts of videos or playing online games for recreational purpose so they soon get addicted to them and spend most of their times on them. This is a huge wastage of time.",
+        "To consume, it seems to me that using the computer at school may cause the distraction to study, but in later like having good sources are undeniable to assist pupils with assignments."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "also bring",
+                "start_idx": 878,
+                "end_idx": 888,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to also bring"
+                ]
+            },
+            {
+                "word": "provide",
+                "start_idx": 977,
+                "end_idx": 984,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "provides"
+                ]
+            },
+            {
+                "word": "purpose so",
+                "start_idx": 1202,
+                "end_idx": 1212,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "purpose, so"
+                ]
+            },
+            {
+                "word": "times",
+                "start_idx": 1268,
+                "end_idx": 1273,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "time"
+                ]
+            }
+        ]
+    },
+    "submitter": "dgtuyen3011",
+    "num_words": 249,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "for example",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "computer",
+                "occurrences": [
+                    {
+                        "start_idx": 31,
+                        "end_idx": 39
+                    },
+                    {
+                        "start_idx": 269,
+                        "end_idx": 277
+                    },
+                    {
+                        "start_idx": 296,
+                        "end_idx": 304
+                    },
+                    {
+                        "start_idx": 462,
+                        "end_idx": 470
+                    },
+                    {
+                        "start_idx": 868,
+                        "end_idx": 876
+                    },
+                    {
+                        "start_idx": 1033,
+                        "end_idx": 1041
+                    },
+                    {
+                        "start_idx": 1357,
+                        "end_idx": 1365
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-03T04:53:17.000Z"
+}

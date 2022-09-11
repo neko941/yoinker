@@ -1,0 +1,132 @@
+{
+    "url": "https://writing9.com/text/614cd10b38762d0018fc1a77-some-people-believe-that-it-is-good-to-share-as",
+    "file": "data\\75\\614cd10b38762d0018fc1a77.json",
+    "topics": [
+        "people",
+        "information",
+        "research",
+        "business",
+        "world"
+    ],
+    "question": "Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important or too valuable to be shared freely.\n\n\nDiscuss both views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There is no doubt that in the era of the Internet, knowledge is power. While some people claim that it is good to share all information needed in scientific research, business, and the academic world, it is my opinion that some information is too crucial to be spread out freely.",
+        "On the one hand, sharing as much information as possible is required in some situations. This is because there are new issues or crises that might arise and the logical method to solve these issues is by collaboration and everyone shares their knowledge. For example, in the ongoing Corona Virus pandemic, every country shared its observations about virus symptoms as well as scientific studies about its nature. As a result, after one year, multiple vaccines were produced to protect people from this virus and the huge pressure on hospitals started to decrease.",
+        "On the other hand, I believe that it is pivotal to acknowledge the effect of sharing any information firstly. The reason for this is that there is some sensitive information if it falls in the wrong hands, this will lead to undesirable consequences. For instance, Facebook had given the personal information of some segments of its users to some companies, and these companies used this type of information illegally. Consequently, this caused a negative effect on these people\u2019s lives. What is more, if someone leaks information about a new confidential innovation that some country is working on, for example, this will lead to giving credits to the wrong people. As a consequence, that country that lost its innovation will suffer from economic losses.",
+        "In conclusion, it is true that sharing as much information as needed is worthwhile in a few situations, but there are some other types of information that cannot be shared freely. Therefore, I am inclined to support the idea of not allowing all information because this can cause a negative effect on society as a whole."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "this",
+                "start_idx": 1050,
+                "end_idx": 1054,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "which"
+                ]
+            }
+        ]
+    },
+    "submitter": "omarmohamed995",
+    "num_words": 321,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "on the other hand",
+            "for instance",
+            "as a result",
+            "consequently",
+            "for example",
+            "therefore",
+            "this",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 124,
+                        "end_idx": 135
+                    },
+                    {
+                        "start_idx": 228,
+                        "end_idx": 239
+                    },
+                    {
+                        "start_idx": 313,
+                        "end_idx": 324
+                    },
+                    {
+                        "start_idx": 933,
+                        "end_idx": 944
+                    },
+                    {
+                        "start_idx": 1006,
+                        "end_idx": 1017
+                    },
+                    {
+                        "start_idx": 1140,
+                        "end_idx": 1151
+                    },
+                    {
+                        "start_idx": 1239,
+                        "end_idx": 1250
+                    },
+                    {
+                        "start_idx": 1362,
+                        "end_idx": 1373
+                    },
+                    {
+                        "start_idx": 1647,
+                        "end_idx": 1658
+                    },
+                    {
+                        "start_idx": 1738,
+                        "end_idx": 1749
+                    },
+                    {
+                        "start_idx": 1845,
+                        "end_idx": 1856
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-09-23T19:10:05.849Z"
+}

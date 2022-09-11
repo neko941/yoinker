@@ -1,0 +1,156 @@
+{
+    "url": "https://writing9.com/text/5cf7f384bde8cf0017859ff1",
+    "file": "data\\6\\5cf7f384bde8cf0017859ff1.json",
+    "topics": [
+        "people",
+        "sports",
+        "part",
+        "school",
+        "life",
+        "children"
+    ],
+    "question": "Some people believe that sports is an essential part of school life for children, while others feel it should be purely optional. Discuss these opposing views and give your own opinion",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some people are of the view that sports should be compulsory for children in school while others argue that sports should be voluntary. This essay will explore both views and it will advocate my support for voluntary sporting activities for children in school",
+        "On the one hand, proponents of compulsory sports in school argue that it promote the health of young ones. This is because regular physical activities reduce childhood obesity and thus prevent health complications associated with obesity. Moreover, physical exercises will be in bribed in these young ones as they grow to become healthy teenagers and adults. Although children could participate in sports at home, many parents are busy and thus, they do not ensure their children participate in sports at home. Without regular physical exercises, many children will be obese and they may fall sick often. I however disagree with this view.",
+        "On the other hand, compulsory physical exercises in  schools will impair on the education of children. This is because children will have less time to learn in classroom since the time spent in school will be shared between academic pursuits and sports.  For example in Nigeria, many children spend an average of six hours daily in school, but if sports is made compulsory, they will spend less time in the classroom and this will result in poor academic performance for many children. Thus, I am of the opinion that sports should be made compulsory for children in school.",
+        "In conclusion, although children that participate regularly in sports in school are more healthy, I am of the view that sports should be made voluntary for children in schools so that their education is not impaired."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "promote",
+                "start_idx": 333,
+                "end_idx": 340,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "promotes"
+                ]
+            },
+            {
+                "word": "activities reduce",
+                "start_idx": 400,
+                "end_idx": 417,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "activities to reduce"
+                ]
+            },
+            {
+                "word": "classroom",
+                "start_idx": 1060,
+                "end_idx": 1069,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the classroom",
+                    "classrooms",
+                    "a classroom"
+                ]
+            },
+            {
+                "word": "example in",
+                "start_idx": 1159,
+                "end_idx": 1169,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "example, in"
+                ]
+            }
+        ]
+    },
+    "submitter": "Kenny",
+    "num_words": 279,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "moreover",
+            "although",
+            "for ",
+            "however",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "school",
+                "occurrences": [
+                    {
+                        "start_idx": 77,
+                        "end_idx": 83
+                    },
+                    {
+                        "start_idx": 253,
+                        "end_idx": 259
+                    },
+                    {
+                        "start_idx": 312,
+                        "end_idx": 318
+                    },
+                    {
+                        "start_idx": 953,
+                        "end_idx": 959
+                    },
+                    {
+                        "start_idx": 1094,
+                        "end_idx": 1100
+                    },
+                    {
+                        "start_idx": 1232,
+                        "end_idx": 1238
+                    },
+                    {
+                        "start_idx": 1466,
+                        "end_idx": 1472
+                    },
+                    {
+                        "start_idx": 1547,
+                        "end_idx": 1553
+                    },
+                    {
+                        "start_idx": 1642,
+                        "end_idx": 1648
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-05T16:53:24.000Z"
+}

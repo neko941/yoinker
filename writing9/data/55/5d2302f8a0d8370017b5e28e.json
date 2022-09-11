@@ -1,0 +1,158 @@
+{
+    "url": "https://writing9.com/text/5d2302f8a0d8370017b5e28e",
+    "file": "data\\55\\5d2302f8a0d8370017b5e28e.json",
+    "topics": [
+        "people",
+        "travel",
+        "tourist",
+        "destinations",
+        "holidays"
+    ],
+    "question": "It is becoming increasingly popular for people to travel to tourist destinations during public holidays.\nWhat problems does this cause?\nWhat solutions are there to these problems?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In local holidays travelling to exotic destinations is gaining fame among tourists. This essay will suggest that the primary problem this cause is litter and that possible solution is to provide extra bins.",
+        "The pressing problem of many people visiting the same places at any national holidays is throwing rubbishes. People drop thrashes such as plastic bottles, and chocolate wraps in public areas because of the lack of proper disposable litter bins. This resulted in the waste being scattered into the atmosphere causing hygienic issues and this even leads to serious damages to the public properties and that needs to employ labour force for proper removal of waste. For example, Phu Quoc island, known for white-sand beaches, reported in the local newspaper that it was severely littered its surroundings with rubbishes during the TET holidays in 2018.",
+        "A possible solution to littering is by providing extra litter bins during the season times when more people visit to spend their holidays. These additional bins could be made available for visitors namely where they sit to eat or they spend more time in any specific areas. Having placed litter cans at every few kilometer, it would be easily accessible to use the bins effectively. For instance, Sun World Lagoon in Malaysia, an attractive water theme park, is provided with nearly over 100 bins at various places to support their visitors to cope with extra refuse.",
+        "In conclusion, installing extra litter bins to manage tourists littering the public areas during the peak periods is a viable option. It is recommended to the government that it provides additional cans throughout the year and follow an effective thrash disposal method to protect tourist destinations."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "In",
+                "start_idx": 1,
+                "end_idx": 3,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "On",
+                    "During"
+                ]
+            },
+            {
+                "word": "rubbishes",
+                "start_idx": 308,
+                "end_idx": 317,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "rubbish"
+                ]
+            },
+            {
+                "word": "atmosphere causing",
+                "start_idx": 507,
+                "end_idx": 525,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "atmosphere, causing"
+                ]
+            },
+            {
+                "word": "visitors namely",
+                "start_idx": 1051,
+                "end_idx": 1066,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "visitors, namely"
+                ]
+            },
+            {
+                "word": "kilometer",
+                "start_idx": 1175,
+                "end_idx": 1184,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "kilometres",
+                    "kilometre"
+                ]
+            }
+        ]
+    },
+    "submitter": "JAYASHREE",
+    "num_words": 279,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "for example",
+            "for instance",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "litter",
+                "occurrences": [
+                    {
+                        "start_idx": 147,
+                        "end_idx": 153
+                    },
+                    {
+                        "start_idx": 439,
+                        "end_idx": 445
+                    },
+                    {
+                        "start_idx": 783,
+                        "end_idx": 789
+                    },
+                    {
+                        "start_idx": 880,
+                        "end_idx": 886
+                    },
+                    {
+                        "start_idx": 912,
+                        "end_idx": 918
+                    },
+                    {
+                        "start_idx": 1145,
+                        "end_idx": 1151
+                    },
+                    {
+                        "start_idx": 1457,
+                        "end_idx": 1463
+                    },
+                    {
+                        "start_idx": 1488,
+                        "end_idx": 1494
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-08T08:46:48.000Z"
+}

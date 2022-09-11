@@ -1,0 +1,131 @@
+{
+    "url": "https://writing9.com/text/5d7faf783d24740017256e3b",
+    "file": "data\\6\\5d7faf783d24740017256e3b.json",
+    "topics": [
+        "people",
+        "people\u2019s",
+        "support",
+        "aid",
+        "organizations",
+        "attention",
+        "celebrities",
+        "importance"
+    ],
+    "question": "Some people believe famous people\u2019s support for international aid organizations draw public attention. Others think celebrities reduce the importance of the problems. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Celebrities such as film stars and sportspersons support several charitable organizations. Some people argue that they are doing this to gain more publicity. I don\u2019t quite agree with this view. Celebrities are certainly interested in hogging the limelight and that may be the reason they get involved in charitable work. Even so, by openly supporting various humanitarian causes, they are also creating awareness and encouraging other people to get involved.",
+        "In my opinion, the argument that celebrities reduce the importance of problems does not hold water. They bring issues to public attention by lending their support to them. For example, countless celebrities endorse Green Peace and PETA. By doing so, they have created awareness about the need to protect the planet and wildlife. I doubt that PETA would have gained so much attention without the active support of celebrities.",
+        "Of course, celebrities do not do much other than just lending their support. But because of their popularity, the media follow them wherever they go and when they get involved in a cause, that makes headlines. This encourages the fans of these celebrities to also support those causes. This is how celebrities make a difference to the world. Because of their huge fan following they can encourage people to act by simply voicing their support for an organization or a cause. It does not really matter whether they are doing this for their own benefits or for the benefit of the charity.",
+        "In conclusion, I do not agree with the argument that celebrities belittle the importance of various humanitarian causes. They may be supporting charities for their own benefits, but by doing so they are also bringing these causes to the fore and getting the support of others."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "sportspersons",
+                "start_idx": 35,
+                "end_idx": 48,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "so they",
+                "start_idx": 1665,
+                "end_idx": 1672,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "so, they"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 287,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "also",
+            "for example",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "support",
+                "occurrences": [
+                    {
+                        "start_idx": 49,
+                        "end_idx": 56
+                    },
+                    {
+                        "start_idx": 340,
+                        "end_idx": 347
+                    },
+                    {
+                        "start_idx": 614,
+                        "end_idx": 621
+                    },
+                    {
+                        "start_idx": 861,
+                        "end_idx": 868
+                    },
+                    {
+                        "start_idx": 953,
+                        "end_idx": 960
+                    },
+                    {
+                        "start_idx": 1149,
+                        "end_idx": 1156
+                    },
+                    {
+                        "start_idx": 1320,
+                        "end_idx": 1327
+                    },
+                    {
+                        "start_idx": 1605,
+                        "end_idx": 1612
+                    },
+                    {
+                        "start_idx": 1730,
+                        "end_idx": 1737
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-16T15:51:20.101Z"
+}

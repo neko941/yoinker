@@ -1,0 +1,394 @@
+{
+    "url": "https://writing9.com/text/5cc35e9b348aa329a7d63cfa",
+    "file": "data\\5\\5cc35e9b348aa329a7d63cfa.json",
+    "topics": [
+        "medicine",
+        "life"
+    ],
+    "question": "Modern medicine helps to live a longer life. Do you agree?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The modern medicine is very important for living a long life. It is depend on new technology. People take very easy and quickly. Also modern medicine is very quick absorbing to human body. It is helps to back to normal for people health condition. Therefore I agree that the modern medicine is helps to live longer.",
+        "First of all, the modern medicine can prevent incurable diseases. Doctors can find some diseases very early. Then doctors can give suitable medicines to patients. New modern equipments are helps doctors is going to correct way. Also intelligent people in the world live a long life on helps from modern medicine. That is very important in the human society because their creative things are coming with them and they can help others for a longer time when they are living in long life with comfortably.",
+        "Beside, old population is increasing in the country. It is badly effect in country\u2019s economy and especially for third world countries. But old people are very important in human society because their experience definitely helps to living safely and planning to new project. \u2018Experience is better than qualifications\u2019 However, old people are living a long life; it is helping others to live a long life because we can get advice from them and they are covering our culture and society.",
+        "Moreover, modern medicine is being addictive for some people, so that they cannot live without medicine. They should take medicine all their lives. Also modern medicine is very expensive. Therefore most of poor countries couldn?t take modern medicine and it has taken a commercial shape, also it is depending on money. In the modern medicine have not facts of human kindness. People who have money can take modern medicine. But indigenous medicine has well human friendly shape. It does not depend on money.",
+        "To summarize; in my personal view, modern medicine is helping to live a long life with comfortably. Modern technologies are being supported to find unburnable diseases very early. So doctors can take correct path immediately. Therefore, may I not hesitate to agree with the above mentioned statement."
+    ],
+    "errors": {
+        "num_error": "22",
+        "error_list": [
+            {
+                "word": "is depend",
+                "start_idx": 65,
+                "end_idx": 74,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "has depended",
+                    "depends"
+                ]
+            },
+            {
+                "word": "Also modern",
+                "start_idx": 129,
+                "end_idx": 140,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Also, modern"
+                ]
+            },
+            {
+                "word": "human body",
+                "start_idx": 177,
+                "end_idx": 187,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the human body"
+                ]
+            },
+            {
+                "word": "is helps",
+                "start_idx": 192,
+                "end_idx": 200,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "helps",
+                    "has helped"
+                ]
+            },
+            {
+                "word": "Therefore I",
+                "start_idx": 248,
+                "end_idx": 259,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Therefore, I"
+                ]
+            },
+            {
+                "word": "is helps",
+                "start_idx": 291,
+                "end_idx": 299,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "helps",
+                    "has helped",
+                    "is helping"
+                ]
+            },
+            {
+                "word": "are helps",
+                "start_idx": 502,
+                "end_idx": 511,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are helping",
+                    "are helped",
+                    "help"
+                ]
+            },
+            {
+                "word": "longer",
+                "start_idx": 756,
+                "end_idx": 762,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "long"
+                ]
+            },
+            {
+                "word": "Beside",
+                "start_idx": 821,
+                "end_idx": 827,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Besides"
+                ]
+            },
+            {
+                "word": "old population",
+                "start_idx": 829,
+                "end_idx": 843,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the old population"
+                ]
+            },
+            {
+                "word": "effect",
+                "start_idx": 886,
+                "end_idx": 892,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "effected"
+                ]
+            },
+            {
+                "word": "country\u2019s economy",
+                "start_idx": 896,
+                "end_idx": 913,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the country\u2019s economy"
+                ]
+            },
+            {
+                "word": "living",
+                "start_idx": 1052,
+                "end_idx": 1058,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "be living",
+                    "have lived"
+                ]
+            },
+            {
+                "word": "new project",
+                "start_idx": 1082,
+                "end_idx": 1093,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "new projects",
+                    "the new project"
+                ]
+            },
+            {
+                "word": "old",
+                "start_idx": 1147,
+                "end_idx": 1150,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "older"
+                ]
+            },
+            {
+                "word": "Also modern",
+                "start_idx": 1454,
+                "end_idx": 1465,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Also, modern"
+                ]
+            },
+            {
+                "word": "Therefore most",
+                "start_idx": 1494,
+                "end_idx": 1508,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Therefore, most"
+                ]
+            },
+            {
+                "word": "couldn",
+                "start_idx": 1527,
+                "end_idx": 1533,
+                "error": "requests polite permission",
+                "error_des": "",
+                "suggetions": [
+                    "could"
+                ]
+            },
+            {
+                "word": "t",
+                "start_idx": 1534,
+                "end_idx": 1535,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "T"
+                ]
+            },
+            {
+                "word": "well human friendly shape",
+                "start_idx": 1758,
+                "end_idx": 1783,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a good human friendly shape",
+                    "good human friendly shape"
+                ]
+            },
+            {
+                "word": "unburnable",
+                "start_idx": 1963,
+                "end_idx": 1973,
+                "error": "incapable of being put up with",
+                "error_des": "",
+                "suggetions": [
+                    "unbearable"
+                ]
+            },
+            {
+                "word": "correct path",
+                "start_idx": 2015,
+                "end_idx": 2027,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the correct path"
+                ]
+            }
+        ]
+    },
+    "submitter": "avengerz.studygroup",
+    "num_words": 351,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "then",
+            "third",
+            "moreover",
+            "therefore",
+            "however",
+            "that is",
+            "also",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "medicine",
+                "occurrences": [
+                    {
+                        "start_idx": 11,
+                        "end_idx": 19
+                    },
+                    {
+                        "start_idx": 141,
+                        "end_idx": 149
+                    },
+                    {
+                        "start_idx": 282,
+                        "end_idx": 290
+                    },
+                    {
+                        "start_idx": 341,
+                        "end_idx": 349
+                    },
+                    {
+                        "start_idx": 456,
+                        "end_idx": 464
+                    },
+                    {
+                        "start_idx": 619,
+                        "end_idx": 627
+                    },
+                    {
+                        "start_idx": 1321,
+                        "end_idx": 1329
+                    },
+                    {
+                        "start_idx": 1399,
+                        "end_idx": 1407
+                    },
+                    {
+                        "start_idx": 1426,
+                        "end_idx": 1434
+                    },
+                    {
+                        "start_idx": 1464,
+                        "end_idx": 1472
+                    },
+                    {
+                        "start_idx": 1546,
+                        "end_idx": 1554
+                    },
+                    {
+                        "start_idx": 1637,
+                        "end_idx": 1645
+                    },
+                    {
+                        "start_idx": 1718,
+                        "end_idx": 1726
+                    },
+                    {
+                        "start_idx": 1743,
+                        "end_idx": 1751
+                    },
+                    {
+                        "start_idx": 1854,
+                        "end_idx": 1862
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 56,
+                        "end_idx": 60
+                    },
+                    {
+                        "start_idx": 593,
+                        "end_idx": 597
+                    },
+                    {
+                        "start_idx": 796,
+                        "end_idx": 800
+                    },
+                    {
+                        "start_idx": 1174,
+                        "end_idx": 1178
+                    },
+                    {
+                        "start_idx": 1216,
+                        "end_idx": 1220
+                    },
+                    {
+                        "start_idx": 1889,
+                        "end_idx": 1893
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-26T19:40:11.000Z"
+}

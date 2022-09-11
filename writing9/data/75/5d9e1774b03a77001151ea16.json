@@ -1,0 +1,119 @@
+{
+    "url": "https://writing9.com/text/5d9e1774b03a77001151ea16",
+    "file": "data\\75\\5d9e1774b03a77001151ea16.json",
+    "topics": [
+        "employers",
+        "people",
+        "jobs",
+        "information",
+        "hobbies",
+        "interests"
+    ],
+    "question": "Employers sometimes ask people applying for jobs for personal information, such as their hobbies and interests, and whether they are married or single. Some people say that this information may be relevant and useful. Others disagree.\nDiscuss both views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, employers often require applicants to provide personal details while applying for a job. While there are people who think that asking for such information is useless, others think it is necessary to gather such data, and I agree with this point of view.",
+        "On the one hand, collecting personal details from the job applicant is considered beneficial. Firstly, it helps the company to know the applicant in more depth such as the hobbies of the potential employee. This is useful to shortlist applications for jobs where requirements are strict such as night time shifts. Secondly, the company can understand the personality of the person to see if it he fits with the culture and values. Furthermore, this knowledge helps the organizations to build diverse and multicultural teams by hiring people with distinct backgrounds, personalities and skills.",
+        "On the other hand, collecting private details of people has numerous consequences for the society. In the first place, such data can result in bias towards specific groups. For example, an employer might give preference to the people with no disabilities rather than giving equal opportunity to everyone. Also, misuse can result in gender, color or race discrimination. Furthermore, if the company shares that data with third parties, then It can be misused to target people with misleading advertisements. Lastly, candidates can submit incorrect information to increase their chances of getting hired if the selection criteria includes personal qualities.",
+        "In conclusion, some employers feel comfortable in asking personal information during the job application. There are some downsides to this approach, but in my opinion, asking for such information can be beneficial if companies ensure safety and ethical usage of the collected data."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "color",
+                "start_idx": 1198,
+                "end_idx": 1203,
+                "error": "a visual attribute of things that results from the light they emit or transmit or reflect",
+                "error_des": "",
+                "suggetions": [
+                    "colour"
+                ]
+            },
+            {
+                "word": "includes",
+                "start_idx": 1486,
+                "end_idx": 1494,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "include"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 279,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "on the other hand",
+            "then",
+            "furthermore",
+            "for example",
+            "third",
+            "such",
+            "lastly",
+            "first",
+            "this",
+            "also",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 153,
+                        "end_idx": 164
+                    },
+                    {
+                        "start_idx": 1405,
+                        "end_idx": 1416
+                    },
+                    {
+                        "start_idx": 1581,
+                        "end_idx": 1592
+                    },
+                    {
+                        "start_idx": 1699,
+                        "end_idx": 1710
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-09T17:23:00.027Z"
+}

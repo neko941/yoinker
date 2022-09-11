@@ -1,0 +1,145 @@
+{
+    "url": "https://writing9.com/text/62d40d3e8ee1ab00180e2ecc-nowadays-people-depend-on-technology-for-leisure-activities-is-this",
+    "file": "data\\7\\62d40d3e8ee1ab00180e2ecc.json",
+    "topics": [
+        "people",
+        "technology",
+        "leisure",
+        "activities",
+        "development"
+    ],
+    "question": "Nowadays people depend on technology for leisure activities. Is this a positive or negative development?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the modern world, technology significantly plays an important role in many human activities, especially the pastime. This causes lives\u2019 dependence on most of the growth of smart equipment. In my perspective, I firmly believe that the purpose of technology initiatives is serving the residents\u2019 life qualifications. Once people rely on it, the back draw overweighs the benefit.",
+        "On the one hand, it doubtlessly persuades that the more innovative invention the more convenient residents\u2019 lives are. After sticking their eyes on the equipment all working day, more people enjoyed using digital for their free time because they find it easy to approach the diversity and interesting content. Moreover, this kind of entertainment is widespread accessibility. To illustrate, those, who are similarly used to technology will choose to go to the cinema, play video games, or even surf social media through smartphones, while those who are not would rather harmonize with the natural places.",
+        "On the other hand, there are more negative sites than positive ones for some reasonable reasons. Initially, the interesting and unstopped creative content which suits many audiences\u2019 insight may be obsessed if it is not controlled. These dues to life imbalance and lead to many diseases such as obesity, cardiovascular, and an extreme case of eating disorders or depression when people less communicate face to face and keep themselves isolated. Furthermore, the more contact with the technique the less touching the nature which is believed to effect against many psychological problems. For instance, some research demonstrate the higher and more critical mental diseases nowadays and the ways to transfer this suffering are by spending time for your inner spaces and society.",
+        "In conclusion, the increasing reliance on technology for recreation is beneficial in terms of its variety as well as accessibility. However, I strongly see the harm to health is not worthy to exchange."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "technology",
+                "start_idx": 21,
+                "end_idx": 31,
+                "error": "Add an article",
+                "error_des": "The noun phrase technology seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the technology"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1530,
+                "end_idx": 1530,
+                "error": "Correct your spelling",
+                "error_des": "The word effect doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "affect"
+                ]
+            },
+            {
+                "word": "effect",
+                "start_idx": 1530,
+                "end_idx": 1536,
+                "error": "Correct your spelling",
+                "error_des": "The word effect doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "affect"
+                ]
+            },
+            {
+                "word": "against ",
+                "start_idx": 1537,
+                "end_idx": 1545,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "demonstrate",
+                "start_idx": 1602,
+                "end_idx": 1613,
+                "error": "Change the verb form",
+                "error_des": "The plural verb demonstrate does not appear to agree with the singular subject some research. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "demonstrates"
+                ]
+            }
+        ]
+    },
+    "submitter": "trangngo79",
+    "num_words": 307,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "on the other hand",
+            "for instance",
+            "furthermore",
+            "similarly",
+            "moreover",
+            "however",
+            "initially",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "technology",
+                "occurrences": [
+                    {
+                        "start_idx": 21,
+                        "end_idx": 31
+                    },
+                    {
+                        "start_idx": 248,
+                        "end_idx": 258
+                    },
+                    {
+                        "start_idx": 804,
+                        "end_idx": 814
+                    },
+                    {
+                        "start_idx": 1806,
+                        "end_idx": 1816
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-17T13:23:11.742Z"
+}

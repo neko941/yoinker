@@ -1,0 +1,174 @@
+{
+    "url": "https://writing9.com/text/5d39d51a9e6ade00172cf950",
+    "file": "data\\6\\5d39d51a9e6ade00172cf950.json",
+    "topics": [
+        "regions",
+        "world",
+        "tourism",
+        "revenue",
+        "people"
+    ],
+    "question": "Many regions in the world rely on tourism for the revenue it generates. However, some people complain about the problems that come with tourism.\nWhat are some of these problems and how can they be solved?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, tourism is the prominent source of income for many countries. It is often argued by some people that the tourism activities create some serious issues to the hosting nation. This essay will first discuss the threats associated with the growing tourism, and then suggest the viable solution.",
+        "First of all, with the rise in the tourism industry, there comes a serious threat of the illegal immigration. While some of the bad elements of the society visit foreign countries with the agreed purpose of tourism only, on the other hand, they try to find unlawful ways to settle permanently in that particular area. For example, in year 2018, hundreds of the people from South Asia were arrested by the Federal Police of the United States who tried to become the permanent resident by wrong methods. Despite of the highly strict visa policies, such criminals enter foreign countries with the help of the visitor visas.",
+        "As a solution to the above stated problem associated with the growth of the tourism, the visa offices are required to be more strict and careful prior to the grant of the permit to the people of the suspected regions. Although visa officers keep an eye on such people, there is a significant need to maintain a black list in which suspicious parts of the world are marked and the grant of any kind of visa to the people who belong to any of these place should be blocked. For example, in the black list of the United States Immigration Agency, Iran and North Korea have been marked. Every immigration organisation should follow the same approach so that such harmful drawbacks can be overcome.",
+        "Tourism is ever growing sector which has enormous potential to make lucrative profits. While along with the tourists, there comes the issue of illegal immigration, which can be resolved by the implementation of strong visa policies by the visa authorities."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "of",
+                "start_idx": 721,
+                "end_idx": 723,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "grant",
+                "start_idx": 1302,
+                "end_idx": 1307,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "granting"
+                ]
+            },
+            {
+                "word": "place",
+                "start_idx": 1369,
+                "end_idx": 1374,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "places"
+                ]
+            },
+            {
+                "word": "sector which",
+                "start_idx": 1640,
+                "end_idx": 1652,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "sector, which"
+                ]
+            }
+        ]
+    },
+    "submitter": "Tarun",
+    "num_words": 318,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the other hand",
+            "then",
+            "for example",
+            "although",
+            "this",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "tourism",
+                "occurrences": [
+                    {
+                        "start_idx": 10,
+                        "end_idx": 17
+                    },
+                    {
+                        "start_idx": 115,
+                        "end_idx": 122
+                    },
+                    {
+                        "start_idx": 254,
+                        "end_idx": 261
+                    },
+                    {
+                        "start_idx": 336,
+                        "end_idx": 343
+                    },
+                    {
+                        "start_idx": 508,
+                        "end_idx": 515
+                    },
+                    {
+                        "start_idx": 998,
+                        "end_idx": 1005
+                    }
+                ]
+            },
+            {
+                "word": "visa",
+                "occurrences": [
+                    {
+                        "start_idx": 832,
+                        "end_idx": 836
+                    },
+                    {
+                        "start_idx": 915,
+                        "end_idx": 919
+                    },
+                    {
+                        "start_idx": 1011,
+                        "end_idx": 1015
+                    },
+                    {
+                        "start_idx": 1149,
+                        "end_idx": 1153
+                    },
+                    {
+                        "start_idx": 1323,
+                        "end_idx": 1327
+                    },
+                    {
+                        "start_idx": 1834,
+                        "end_idx": 1838
+                    },
+                    {
+                        "start_idx": 1855,
+                        "end_idx": 1859
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-25T16:13:14.623Z"
+}

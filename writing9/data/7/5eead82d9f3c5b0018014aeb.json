@@ -1,0 +1,156 @@
+{
+    "url": "https://writing9.com/text/5eead82d9f3c5b0018014aeb-you-have-had-a-bank-account-for-a-few-years",
+    "file": "data\\7\\5eead82d9f3c5b0018014aeb.json",
+    "topics": [
+        "bank",
+        "account",
+        "years",
+        "hank",
+        "information"
+    ],
+    "question": "You have had a bank account for a few years. Recently you received aletter from the hank stating that your account is $240 overdrawn and thatyou will he charged $70 which will he taken directly from your account.You know that this information is incorrect.Write a letter to the bank. Explain what has happened and say what youwould like them to do about it.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I am writing letter regarding my latest bank summary for which the account was credited $240 and received a letter for the payment instalment of $70 before the due date. I tried to contact the customer support, but did not receive the satisfactory explanation.",
+        "I have been a loyal customer of the Bank of Nova Scotia since year 2017 and recently  cancelled my credit card protection insurance policy under the account holder name Mr. Parth Shah but was really surprised when I saw my bank statement regarding the deduction, although it was mentioned that the cancellation charge was free. Also, I got the notice to pay $70 as an additional charge for that which was never mentioned in the conditions of the policy. I was hoping that the bank would reimburse the payment and cancel all the insurance policy before the payment due date after all the procedures.",
+        "I am willing to provide all the necessary documents as required for further action. Please feel to reach me out at my cell number +1 226-504-8207 for any questions.",
+        "Yours Faithfully,",
+        "Parth Shah"
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": " ",
+                "start_idx": 22,
+                "end_idx": 23,
+                "error": "Add an article",
+                "error_des": "The noun phrase letter seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 199,
+                "end_idx": 203,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 219,
+                "end_idx": 220,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound predicate. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 241,
+                "end_idx": 244,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "year",
+                "start_idx": 333,
+                "end_idx": 337,
+                "error": "Change the article",
+                "error_des": "It appears that the article usage before year is incorrect. Consider making a change.",
+                "suggetions": [
+                    "the year"
+                ]
+            },
+            {
+                "word": "Mr.",
+                "start_idx": 440,
+                "end_idx": 443,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": "policy",
+                "start_idx": 809,
+                "end_idx": 815,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that policy may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "policies"
+                ]
+            }
+        ]
+    },
+    "submitter": "bittu shah",
+    "num_words": 183,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "although",
+            "also",
+            "further"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "bank",
+                "occurrences": [
+                    {
+                        "start_idx": 50,
+                        "end_idx": 54
+                    },
+                    {
+                        "start_idx": 494,
+                        "end_idx": 498
+                    },
+                    {
+                        "start_idx": 747,
+                        "end_idx": 751
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-14T11:04:25.355Z"
+}

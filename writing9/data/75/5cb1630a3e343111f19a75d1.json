@@ -1,0 +1,102 @@
+{
+    "url": "https://writing9.com/text/5cb1630a3e343111f19a75d1",
+    "file": "data\\75\\5cb1630a3e343111f19a75d1.json",
+    "topics": [
+        "parents",
+        "mathematics",
+        "school",
+        "life"
+    ],
+    "question": "Some parents believe that learning mathematics at school is redundant and should not be taught while others believe that it should remain a foundational subject whether or not it is used later in life. \n\nDiscuss both sides.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Incorporating mathematics into the school curriculum has long been part of the traditional educational system. However, some parents argue that mathematics is not a necessary subject, while others still believe that it is. This essay will discuss both of these viewpoints.",
+        "To some parents, mathematics may appear redundant because its theories and applications only apply to a small group of people who want to specialise in the field of mathematics or other related areas. Apart from simple calculations, for most people, mathematical formulas and theories are rarely used in their daily life. For example, factory workers and artists do not need to know about complex algebra or trigonometry in order to make a living. Mathematics has little impact on one\u2019s emotional and social development as well as success in many occupations.",
+        "On the other hand, it is considered an important subject which lays the foundation for other relevant subjects in school. Chemistry, biology, physics, and business depend on a lot of mathematical knowledge. Whether or not mathematics is directly applied and utilised later in life, it is undeniably embedded in the development of science and technology. In addition, studying mathematics at school can help students develop critical and analytical thinking which may assist them in solving not only numerical problems but also practical life dilemmas. As they exercise their critical thinking by practicing mathematical questions, their problem solving skills are likely improved.",
+        "In conclusion, this essay discussed both sides of the debate about whether or not mathematics should be taught at school. It is clear that although mathematical knowledge is part of the foundation of science and other fields, it may not be useful to many people especially when their jobs do not require this knowledge."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "are likely improved",
+                "start_idx": 1495,
+                "end_idx": 1514,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is likely improved"
+                ]
+            }
+        ]
+    },
+    "submitter": "evanmbt",
+    "num_words": 286,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the other hand",
+            "for example",
+            "although",
+            "however",
+            "in addition",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "school",
+                "occurrences": [
+                    {
+                        "start_idx": 35,
+                        "end_idx": 41
+                    },
+                    {
+                        "start_idx": 947,
+                        "end_idx": 953
+                    },
+                    {
+                        "start_idx": 1224,
+                        "end_idx": 1230
+                    },
+                    {
+                        "start_idx": 1628,
+                        "end_idx": 1634
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-13T04:18:18.000Z"
+}

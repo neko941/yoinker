@@ -1,0 +1,482 @@
+{
+    "url": "https://writing9.com/text/62f2a073067a4e0018392160-some-scientist-think-that-there-are-intelligent-life-forms-on",
+    "file": "data\\55\\62f2a073067a4e0018392160.json",
+    "topics": [
+        "scientist",
+        "life",
+        "forms",
+        "planets",
+        "message",
+        "contact",
+        "idea"
+    ],
+    "question": "Some scientist think that there are intelligent life forms on other planets and message should be sent to contact them. Other scientist think it is a bad idea and would be dangerous. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The quest for knowledge and powers by the researcher bring in many ideas and assumption, many researcher are of the opinion that there are  intelligent life forms in other part of the world and a letter must be sent to get in touch with them. Few analyst are against the opinion and thought it will be disastrous. This essay will talk about both opinion.",
+        "",
+        "To begin, many researcher want to venture into a new  dimension to make life easier for individual, this in-turn bring about the suggestion of knowledge from other world. The quest for a new development will benefit individual and might make life easier. Moreover,  before the invention of a washing machine, to wash as being a difficult task, after the advent washing become more easier, this might be the thought of the researcher to invent another machine with the help of other knowledge.",
+        "",
+        "On the otherhand, this adventure might brought a great risk to individuals, communities and the nation at large. For instance according to Forbes magazine like two weeks ago report the incident of a failed electric circuit which was just launched like a month ago. The adverse effect of this might make the other researcher to think it will be disastrous to seek for knowledge in other world. Moreover it might put there life in danger and might lead to an outvreak of disease.",
+        "",
+        "In conclusion, it is important to venture into another development to make life more flexible and easier, considering the effect, in my opinion I think the quest for knowledge should be minimal to avoid a bad outcome."
+    ],
+    "errors": {
+        "num_error": "31",
+        "error_list": [
+            {
+                "word": "researcher",
+                "start_idx": 94,
+                "end_idx": 104,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun researcher follows the quantifier many, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "researchers"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 105,
+                "end_idx": 108,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject many researcher. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "other part",
+                "start_idx": 166,
+                "end_idx": 176,
+                "error": "Change the wording",
+                "error_des": "The adjective other appears to be modifying the singular noun part. Consider making a change.",
+                "suggetions": [
+                    "another part",
+                    "other parts"
+                ]
+            },
+            {
+                "word": "analyst",
+                "start_idx": 247,
+                "end_idx": 254,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun analyst follows the quantifier Few, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "analysts"
+                ]
+            },
+            {
+                "word": "opinion",
+                "start_idx": 346,
+                "end_idx": 353,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun opinion follows the quantifier both, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "opinions"
+                ]
+            },
+            {
+                "word": "researcher",
+                "start_idx": 384,
+                "end_idx": 394,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun researcher follows the quantifier many, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "researchers"
+                ]
+            },
+            {
+                "word": "want",
+                "start_idx": 395,
+                "end_idx": 399,
+                "error": "Change the verb form",
+                "error_des": "The plural verb want does not appear to agree with the singular subject many researcher. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "wants"
+                ]
+            },
+            {
+                "word": "in-turn",
+                "start_idx": 474,
+                "end_idx": 481,
+                "error": "Correct your spelling",
+                "error_des": "The word in-turn doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "in turn"
+                ]
+            },
+            {
+                "word": "bring",
+                "start_idx": 482,
+                "end_idx": 487,
+                "error": "Change the verb form",
+                "error_des": "The plural verb bring does not appear to agree with the singular subject this in-turn. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "brings"
+                ]
+            },
+            {
+                "word": "other",
+                "start_idx": 527,
+                "end_idx": 532,
+                "error": "Change the wording",
+                "error_des": "The adjective other appears to be modifying the singular noun world. Consider making a change.",
+                "suggetions": [
+                    "another"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 554,
+                "end_idx": 556,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun development in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "individual",
+                "start_idx": 585,
+                "end_idx": 595,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that individual may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "individuals"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 659,
+                "end_idx": 660,
+                "error": "Change the article",
+                "error_des": "It appears that the article usage in the phrase a washing machine is incorrect. Consider making a change.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "to wash",
+                "start_idx": 678,
+                "end_idx": 685,
+                "error": "Change the verb form",
+                "error_des": "To wash doesn\u2019t seem to work here.",
+                "suggetions": [
+                    "washing"
+                ]
+            },
+            {
+                "word": "being ",
+                "start_idx": 689,
+                "end_idx": 695,
+                "error": "Unnecessary verb",
+                "error_des": "The verb being appears to be unnecessary here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 711,
+                "end_idx": 712,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker after. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "after",
+                "start_idx": 713,
+                "end_idx": 718,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "but after"
+                ]
+            },
+            {
+                "word": "more ",
+                "start_idx": 745,
+                "end_idx": 750,
+                "error": "Change the word",
+                "error_des": "The double comparative more easier may be repetitive. Consider changing this to the appropriate comparative form.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "this",
+                "start_idx": 758,
+                "end_idx": 762,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and this"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 882,
+                "end_idx": 882,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want otherhand to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "other hand"
+                ]
+            },
+            {
+                "word": "otherhand",
+                "start_idx": 882,
+                "end_idx": 891,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want otherhand to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "other hand"
+                ]
+            },
+            {
+                "word": "brought",
+                "start_idx": 914,
+                "end_idx": 921,
+                "error": "Change the verb form",
+                "error_des": "The verb brought after the modal verb might does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "bring",
+                    "be brought"
+                ]
+            },
+            {
+                "word": "according to ",
+                "start_idx": 1001,
+                "end_idx": 1014,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "like ",
+                "start_idx": 1122,
+                "end_idx": 1127,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 1199,
+                "end_idx": 1202,
+                "error": "Change the verb form",
+                "error_des": "It appears that the verb to think should be in the bare infinitive form. Consider removing to from in front of this verb.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "for ",
+                "start_idx": 1238,
+                "end_idx": 1242,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "other",
+                "start_idx": 1255,
+                "end_idx": 1260,
+                "error": "Change the wording",
+                "error_des": "The adjective other appears to be modifying the singular noun world. Consider making a change.",
+                "suggetions": [
+                    "another"
+                ]
+            },
+            {
+                "word": "Moreover",
+                "start_idx": 1268,
+                "end_idx": 1276,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Moreover. Consider adding a comma.",
+                "suggetions": [
+                    ",Moreover"
+                ]
+            },
+            {
+                "word": "there",
+                "start_idx": 1290,
+                "end_idx": 1295,
+                "error": "Replace the word",
+                "error_des": "The word there may be used incorrectly. Review the following notes to determine the appropriate usage for your context.",
+                "suggetions": [
+                    "their"
+                ]
+            },
+            {
+                "word": "outvreak",
+                "start_idx": 1332,
+                "end_idx": 1340,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want outvreak to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "outbreak"
+                ]
+            },
+            {
+                "word": "opinion",
+                "start_idx": 1502,
+                "end_idx": 1509,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase in my opinion. Consider adding a comma.",
+                "suggetions": [
+                    ",opinion"
+                ]
+            }
+        ]
+    },
+    "submitter": "adedayoadesewa1",
+    "num_words": 266,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "to begin",
+            "moreover",
+            "for instance"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "opinion",
+                "occurrences": [
+                    {
+                        "start_idx": 116,
+                        "end_idx": 123
+                    },
+                    {
+                        "start_idx": 271,
+                        "end_idx": 278
+                    },
+                    {
+                        "start_idx": 346,
+                        "end_idx": 353
+                    },
+                    {
+                        "start_idx": 1465,
+                        "end_idx": 1472
+                    }
+                ]
+            },
+            {
+                "word": "knowledge",
+                "occurrences": [
+                    {
+                        "start_idx": 14,
+                        "end_idx": 23
+                    },
+                    {
+                        "start_idx": 499,
+                        "end_idx": 508
+                    },
+                    {
+                        "start_idx": 838,
+                        "end_idx": 847
+                    },
+                    {
+                        "start_idx": 1217,
+                        "end_idx": 1226
+                    },
+                    {
+                        "start_idx": 1495,
+                        "end_idx": 1504
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 152,
+                        "end_idx": 156
+                    },
+                    {
+                        "start_idx": 428,
+                        "end_idx": 432
+                    },
+                    {
+                        "start_idx": 598,
+                        "end_idx": 602
+                    },
+                    {
+                        "start_idx": 1271,
+                        "end_idx": 1275
+                    },
+                    {
+                        "start_idx": 1404,
+                        "end_idx": 1408
+                    }
+                ]
+            },
+            {
+                "word": "researcher",
+                "occurrences": [
+                    {
+                        "start_idx": 42,
+                        "end_idx": 52
+                    },
+                    {
+                        "start_idx": 94,
+                        "end_idx": 104
+                    },
+                    {
+                        "start_idx": 371,
+                        "end_idx": 381
+                    },
+                    {
+                        "start_idx": 778,
+                        "end_idx": 788
+                    },
+                    {
+                        "start_idx": 1163,
+                        "end_idx": 1173
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-09T17:59:16.716Z"
+}

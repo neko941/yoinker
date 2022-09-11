@@ -1,0 +1,121 @@
+{
+    "url": "https://writing9.com/text/5dea15d0b3b5840018dd63d0-a-friend-who-lives-in-a-different-city-has-invited",
+    "file": "data\\75\\5dea15d0b3b5840018dd63d0.json",
+    "topics": [
+        "friend",
+        "lives",
+        "city",
+        "daughter",
+        "birthday",
+        "invitation",
+        "party",
+        "offer"
+    ],
+    "question": "A friend who lives in a different city has invited you to his/her daughter's 8th birthday. However, you can not accept the invitation due to some personal reasons.\nWrite a letter to this friend. In your letter:\n\nthank him for the invitation\nmention why you can not attend the birthday party\noffer to meet him some other day",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Ruben,",
+        "I am so excited to hear from you after a long time. I cannot believe that Lissie is already turning 8. I thank you so much for inviting me to the birthday party on 15th of December, but I am really sorry to say that I will not be able to make it to the occasion.",
+        "I am travelling to Indonesia for a week from 12th to 17th of December for the annual offsite program at our office, along with my family. The tickets are already booked and my kids are looking forward to the trip. I really wish that my trip has not overlapped with Lissie\u2019s Birthday. I hope you understand my situation. Please covey my birthday wishes to Lissie in advance.",
+        "However, I would like to make it up for my absence on Lissie\u2019s birthday. What do you think about a family get together at my place on the weekend after my trip, that is, on 20th December? It will be a great opportunity for our kids to get along and my wife will also be excited to see you and Rebecca after so long. Please discuss with Rebecca on my invitation and convey my apologies for not making it to the party.",
+        "I look forward to a good news from you and Rebecca soon.",
+        "Yours lovingly",
+        "Sahana"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "15th",
+                "start_idx": 176,
+                "end_idx": 180,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the 15th"
+                ]
+            },
+            {
+                "word": "on ",
+                "start_idx": 995,
+                "end_idx": 998,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "a good news",
+                "start_idx": 1087,
+                "end_idx": 1098,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun news in your sentence. Consider removing it.",
+                "suggetions": [
+                    "good news",
+                    "a piece of good news"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 222,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "also",
+            "however",
+            "that is"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "birthday",
+                "occurrences": [
+                    {
+                        "start_idx": 158,
+                        "end_idx": 166
+                    },
+                    {
+                        "start_idx": 611,
+                        "end_idx": 619
+                    },
+                    {
+                        "start_idx": 712,
+                        "end_idx": 720
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T17:58:02.163Z"
+}

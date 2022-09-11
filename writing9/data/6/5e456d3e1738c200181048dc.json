@@ -1,0 +1,197 @@
+{
+    "url": "https://writing9.com/text/5e456d3e1738c200181048dc",
+    "file": "data\\6\\5e456d3e1738c200181048dc.json",
+    "topics": [
+        "people",
+        "items",
+        "cars",
+        "brands",
+        "development"
+    ],
+    "question": "more and more people want to own items, such as cars, clothing, and other things, that are made by famous brands.\nWhat are the reasons for this? Do you think or it is a positive or negative development?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Desiring for items such as cars, clothing, and other things that are made by well-known labels with expensive price and high quality is becoming a trend. And this problem is a topic of concern in today\u2019s society. In my opinion, there are both benefits and drawbacks to this trend and I think that the negative is overweight the positive.",
+        "There are some reasons why this trend is attracting attention more and more people. The first justification as well as the main advantage is high quality. Quality is one of the first priorities when you want to own some things. Luxurious products always guarantee the quality of products, many people, especially successful people are willing to spend large sum of money to own them. Secondly, owning expensive brand items is as a way to show status and success. it plays an important role in creating relationship network.",
+        "However, there are still many disadvantages in buying popular brand products. Firstly, the price of these products are too expensive. Not everyone can afford this large sum of money just to buy an item. People can use amount of this money on other priorities. For example, it will be more beneficial if people they put this money in learning or they can use it for volunteering activities because there are a lot of people who are in poverty. So we shouldn\u2019t use money on unnecessary things. Secondly, it may be an opportunity to stimulate crime rate. In fact, by wearing famous brand accessories in public places, you can be assaulted because of these things. You not only lose your things, but it also affects to your safety. The last one, that is financial problem. Some youngsters want to keep pace with the trend while not good at economy, they try to borrow money to own these expensive products. It is common to see a woman buying a dress that she never wears.",
+        "In summary, although there are many good reasons but I think it would be better if people consider carefully before buying luxurious brand items."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "it",
+                "start_idx": 801,
+                "end_idx": 803,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "It"
+                ]
+            },
+            {
+                "word": "financial problem",
+                "start_idx": 1613,
+                "end_idx": 1630,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a financial problem"
+                ]
+            },
+            {
+                "word": "economy",
+                "start_idx": 1699,
+                "end_idx": 1706,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the economy"
+                ]
+            },
+            {
+                "word": "reasons but",
+                "start_idx": 1872,
+                "end_idx": 1883,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "reasons, but"
+                ]
+            },
+            {
+                "word": "luxurious",
+                "start_idx": 1954,
+                "end_idx": 1963,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "luxury"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 342,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "for example",
+            "firstly",
+            "such",
+            "last",
+            "although",
+            "however",
+            "that is",
+            "this",
+            "also",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "brand",
+                "occurrences": [
+                    {
+                        "start_idx": 749,
+                        "end_idx": 754
+                    },
+                    {
+                        "start_idx": 924,
+                        "end_idx": 929
+                    },
+                    {
+                        "start_idx": 1441,
+                        "end_idx": 1446
+                    },
+                    {
+                        "start_idx": 1963,
+                        "end_idx": 1968
+                    }
+                ]
+            },
+            {
+                "word": "trend",
+                "occurrences": [
+                    {
+                        "start_idx": 147,
+                        "end_idx": 152
+                    },
+                    {
+                        "start_idx": 274,
+                        "end_idx": 279
+                    },
+                    {
+                        "start_idx": 370,
+                        "end_idx": 375
+                    },
+                    {
+                        "start_idx": 1674,
+                        "end_idx": 1679
+                    }
+                ]
+            },
+            {
+                "word": "money",
+                "occurrences": [
+                    {
+                        "start_idx": 703,
+                        "end_idx": 708
+                    },
+                    {
+                        "start_idx": 1038,
+                        "end_idx": 1043
+                    },
+                    {
+                        "start_idx": 1095,
+                        "end_idx": 1100
+                    },
+                    {
+                        "start_idx": 1186,
+                        "end_idx": 1191
+                    },
+                    {
+                        "start_idx": 1325,
+                        "end_idx": 1330
+                    },
+                    {
+                        "start_idx": 1726,
+                        "end_idx": 1731
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-13T15:37:34.732Z"
+}

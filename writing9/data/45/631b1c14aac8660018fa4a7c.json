@@ -1,0 +1,225 @@
+{
+    "url": "https://writing9.com/text/631b1c14aac8660018fa4a7c-many-people-cant-speak-or-present-well-in-public-an",
+    "file": "data\\45\\631b1c14aac8660018fa4a7c.json",
+    "topics": [
+        "people",
+        "cant",
+        "idea",
+        "school"
+    ],
+    "question": "Many people cant speak or present well in public, an idea is to start training from the school.State if it is important to speak well in public.Do you agree or disagree.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A suggestion is to start training from the school because the majority of the people cannot perform public speaking well. It is a great advantage to speak well in public, but I do definitely believe that it is not really important.",
+        "The institution is where the secondary learning can be achieved. Firstly, education can be taught in the house wherein the parents should be the first teacher. Secondly, the school is where the wider range of theoretical and practical knowledge could be acquired.",
+        "A good public speaker is a gift and a talent. There are few that is having a high intellectual capacity, but unfortunately not really good in speaking extemporaneously with the public. There are things to be considered such as the individuals self-esteem or capacity to express oneself when out of one's comfort zone. For example, one is having good performance in writing, but not really good in speaking due to poor self-esteem.",
+        "It is preferable an excellent idea if in school  there should be a balance of the oral and writing performance, in such a way to enhance or boost the confidence of the student. In this way, we are encouraging them to speak properly in public. But, we also have to consider those whose having problem with their speaking such as the way they pronounce which cause by medical problem.",
+        "It is highly appreciated if one could speak well in public in such a way to prevent miscommunication and misunderstanding. Good speaker as what they say can be a good leader."
+    ],
+    "errors": {
+        "num_error": "13",
+        "error_list": [
+            {
+                "word": "the ",
+                "start_idx": 258,
+                "end_idx": 262,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 423,
+                "end_idx": 426,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 637,
+                "end_idx": 639,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "individuals",
+                "start_idx": 729,
+                "end_idx": 740,
+                "error": "Change to a genitive case",
+                "error_des": "It appears that the word individuals should use the genitive case. Consider changing the noun.",
+                "suggetions": [
+                    "individual's",
+                    "individuals'"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1007,
+                "end_idx": 1011,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1221,
+                "end_idx": 1221,
+                "error": "Add an article",
+                "error_des": "The noun phrase problem seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a problem"
+                ]
+            },
+            {
+                "word": "problem",
+                "start_idx": 1221,
+                "end_idx": 1228,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that problem may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "problems"
+                ]
+            },
+            {
+                "word": "medical",
+                "start_idx": 1295,
+                "end_idx": 1302,
+                "error": "Add an article",
+                "error_des": "The noun phrase medical problem seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a medical"
+                ]
+            },
+            {
+                "word": "problem",
+                "start_idx": 1303,
+                "end_idx": 1310,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that problem may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "problems"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1386,
+                "end_idx": 1388,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "as to"
+                ]
+            },
+            {
+                "word": "Good",
+                "start_idx": 1436,
+                "end_idx": 1440,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "A good"
+                ]
+            },
+            {
+                "word": "speaker",
+                "start_idx": 1441,
+                "end_idx": 1448,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that speaker may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "speakers"
+                ]
+            },
+            {
+                "word": "what ",
+                "start_idx": 1452,
+                "end_idx": 1457,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "claire_cabf",
+    "num_words": 255,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "for example",
+            "firstly",
+            "secondly",
+            "that is",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "way",
+                "occurrences": [
+                    {
+                        "start_idx": 1049,
+                        "end_idx": 1052
+                    },
+                    {
+                        "start_idx": 1112,
+                        "end_idx": 1115
+                    },
+                    {
+                        "start_idx": 1259,
+                        "end_idx": 1262
+                    },
+                    {
+                        "start_idx": 1379,
+                        "end_idx": 1382
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-09T10:57:26.111Z"
+}

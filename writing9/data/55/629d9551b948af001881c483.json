@@ -1,0 +1,362 @@
+{
+    "url": "https://writing9.com/text/629d9551b948af001881c483-discuss-the-advantages-and-the-disdavantages-of-study-abroad",
+    "file": "data\\55\\629d9551b948af001881c483.json",
+    "topics": [
+        "disdavantages",
+        "study"
+    ],
+    "question": "Discuss the advantages and the disdavantages of study abroad",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Studying overseas is a dream for many adolescents. When they decide whether to complete their study in a foreign country or not, they consider many factors such as study fee, living cost, and personal development. This essay will further elaborate on the merits and demerits of this issue in the forthcoming paragraphs.",
+        "To begin with, there are a number of benefits of learning abroad. The most significant is that being an international student is a great chance to practice foreign language and enjoy different cultures. For instance, Australia is a multiculture country, their international students come from more than a hundred of countries, so that you can have numerous chance to understand culture of other places. Moreover, experience of studying abroad is a advantage for future career. During the journey, you can have widen worldview and build up your own values, all of these are precious for your future.",
+        "On the contrary, students may undergo some troubles in an unfamiliar nations. There is no denying the fact that you need to pay a considerable amount for your study fee and living cost. To cite an example, the study fee of international students in University of Auckland is fivefold of domestic students. Besides the study fee, students need to pay medical insurance for each year as well. Furthermore, discrimination is common in an university. Undoubtedly, some local citizens are not friendly to a foreigner.",
+        "To a nutshell, to recapitulate the aforementioned benefits and drawbacks. Needless to say, Students can obtain priceless experience when they study aboard, however, they may face many unexpected difficulties in their long journey."
+    ],
+    "errors": {
+        "num_error": "21",
+        "error_list": [
+            {
+                "word": "fee",
+                "start_idx": 170,
+                "end_idx": 173,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that fee may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "fees"
+                ]
+            },
+            {
+                "word": "cost",
+                "start_idx": 182,
+                "end_idx": 186,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that cost may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "costs"
+                ]
+            },
+            {
+                "word": "foreign",
+                "start_idx": 476,
+                "end_idx": 483,
+                "error": "Add an article",
+                "error_des": "The noun phrase foreign language seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a foreign"
+                ]
+            },
+            {
+                "word": "language",
+                "start_idx": 484,
+                "end_idx": 492,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that language may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "languages"
+                ]
+            },
+            {
+                "word": "multiculture",
+                "start_idx": 552,
+                "end_idx": 564,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want multiculture to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "multicultural",
+                    "multi culture"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 633,
+                "end_idx": 636,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 645,
+                "end_idx": 646,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker so that. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "that ",
+                "start_idx": 650,
+                "end_idx": 655,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "culture",
+                "start_idx": 698,
+                "end_idx": 705,
+                "error": "Add an article",
+                "error_des": "The noun phrase culture seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the culture"
+                ]
+            },
+            {
+                "word": "experience",
+                "start_idx": 733,
+                "end_idx": 743,
+                "error": "Add an article",
+                "error_des": "The noun phrase experience seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the experience"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 766,
+                "end_idx": 767,
+                "error": "Change the article",
+                "error_des": "The article a may be incorrect. Consider changing it to agree with the beginning sound of the following word advantage.",
+                "suggetions": [
+                    "an"
+                ]
+            },
+            {
+                "word": "future",
+                "start_idx": 782,
+                "end_idx": 788,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "my future"
+                ]
+            },
+            {
+                "word": "widen",
+                "start_idx": 830,
+                "end_idx": 835,
+                "error": "Change the verb form",
+                "error_des": "It appears that the verb widen should be in the past participle form. Consider changing it.",
+                "suggetions": [
+                    "widened"
+                ]
+            },
+            {
+                "word": "worldview",
+                "start_idx": 836,
+                "end_idx": 845,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "your worldview"
+                ]
+            },
+            {
+                "word": "an ",
+                "start_idx": 974,
+                "end_idx": 977,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "nations",
+                "start_idx": 988,
+                "end_idx": 995,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article an may not be required with the plural noun nations in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "nation"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 1165,
+                "end_idx": 1167,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "University",
+                "start_idx": 1168,
+                "end_idx": 1178,
+                "error": "Correct article usage",
+                "error_des": "Your article usage with the geographic name University of Auckland may be incorrect.",
+                "suggetions": [
+                    "the University"
+                ]
+            },
+            {
+                "word": "an",
+                "start_idx": 1351,
+                "end_idx": 1353,
+                "error": "Change the article",
+                "error_des": "The article an may be incorrect. Consider changing it to agree with the beginning sound of the following word university.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "To",
+                "start_idx": 1432,
+                "end_idx": 1434,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "In"
+                ]
+            },
+            {
+                "word": "experience",
+                "start_idx": 1553,
+                "end_idx": 1563,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that experience may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "experiences"
+                ]
+            }
+        ]
+    },
+    "submitter": "kuru",
+    "num_words": 266,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "on the contrary",
+            "for instance",
+            "furthermore",
+            "besides",
+            "moreover",
+            "further",
+            "however",
+            "this",
+            "to begin",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 594,
+                        "end_idx": 602
+                    },
+                    {
+                        "start_idx": 936,
+                        "end_idx": 944
+                    },
+                    {
+                        "start_idx": 1156,
+                        "end_idx": 1164
+                    },
+                    {
+                        "start_idx": 1215,
+                        "end_idx": 1223
+                    },
+                    {
+                        "start_idx": 1248,
+                        "end_idx": 1256
+                    }
+                ]
+            },
+            {
+                "word": "fee",
+                "occurrences": [
+                    {
+                        "start_idx": 170,
+                        "end_idx": 173
+                    },
+                    {
+                        "start_idx": 1084,
+                        "end_idx": 1087
+                    },
+                    {
+                        "start_idx": 1135,
+                        "end_idx": 1138
+                    },
+                    {
+                        "start_idx": 1243,
+                        "end_idx": 1246
+                    }
+                ]
+            },
+            {
+                "word": "study",
+                "occurrences": [
+                    {
+                        "start_idx": 94,
+                        "end_idx": 99
+                    },
+                    {
+                        "start_idx": 164,
+                        "end_idx": 169
+                    },
+                    {
+                        "start_idx": 747,
+                        "end_idx": 752
+                    },
+                    {
+                        "start_idx": 1078,
+                        "end_idx": 1083
+                    },
+                    {
+                        "start_idx": 1129,
+                        "end_idx": 1134
+                    },
+                    {
+                        "start_idx": 1237,
+                        "end_idx": 1242
+                    },
+                    {
+                        "start_idx": 1574,
+                        "end_idx": 1579
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-06T05:49:06.997Z"
+}

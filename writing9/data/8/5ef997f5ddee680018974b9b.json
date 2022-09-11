@@ -1,0 +1,120 @@
+{
+    "url": "https://writing9.com/text/5ef997f5ddee680018974b9b-your-child-is-going-on-a-school-trip-abroad-for",
+    "file": "data\\8\\5ef997f5ddee680018974b9b.json",
+    "topics": [
+        "child",
+        "school",
+        "trip",
+        "three",
+        "headmaster",
+        "parents",
+        "questions"
+    ],
+    "question": "Your child is going on a school trip abroad for three days and the headmaster of the school has asked any parents if they would like to come along to assist. You would like to go.Write a letter to the headmaster.In your letter:\u2022\tSay why you would like to go\u2022\tSuggest what you could do to help during the trip\u2022\tAsk some further questions about the trip",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I am the parent of Stephen from Grade 4. My child is joining the school trip which is planned next month. I am writing this letter to show my interest to join the trip so that I can assist the school and look after my son as well.",
+        "My child has a sinus problem and it requires an immediate action if he gets a sinus attack. My doctor has advised me that it would be great if I can be with him during the trip. So, I have decided to come along in order to take care of his health.",
+        "Apart from helping Steve, I can can handle the food for the whole group. Additionally, I can help staff with other arrangements that are required during the trip.",
+        "Furthermore, I would like to check the amount required to confirm my seat for the trip and the last date to submit my details.",
+        "Thank you for your kind attention. I am looking forward to your reply.",
+        "Yours faithfully,",
+        "Barry Richardson"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "an ",
+                "start_idx": 286,
+                "end_idx": 289,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, an, may be redundant when used with the uncountable noun action in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "can ",
+                "start_idx": 521,
+                "end_idx": 525,
+                "error": "Remove the redundancy",
+                "error_des": "Oops! It appears that you typed can twice in a row. Consider deleting one of them.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "JAZZ",
+    "num_words": 171,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "furthermore",
+            "next",
+            "this",
+            "additionally",
+            "last"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "trip",
+                "occurrences": [
+                    {
+                        "start_idx": 82,
+                        "end_idx": 86
+                    },
+                    {
+                        "start_idx": 173,
+                        "end_idx": 177
+                    },
+                    {
+                        "start_idx": 413,
+                        "end_idx": 417
+                    },
+                    {
+                        "start_idx": 646,
+                        "end_idx": 650
+                    },
+                    {
+                        "start_idx": 734,
+                        "end_idx": 738
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-12T14:48:53.365Z"
+}

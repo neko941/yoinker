@@ -1,0 +1,244 @@
+{
+    "url": "https://writing9.com/text/62fbb5f4a70b55001806da21-some-people-think-the-qualities-a-person-needs-to-become",
+    "file": "data\\55\\62fbb5f4a70b55001806da21.json",
+    "topics": [
+        "people",
+        "qualities",
+        "person",
+        "world",
+        "university",
+        "institution"
+    ],
+    "question": "Some people think the qualities a person needs to become successful in today's world cannotbe learned at a university or similar academic institution. To what extent do you agree ordisagree?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some people argue that the essential factors making a person successful cannot be gained at a university. What enables an individual to excel requires various qualities. I, personally, cannot fully agree with this statement.",
+        "To begin with, people can learn knowledge and equip themselves with specific skills from university. For example, Mark Zuckberg successfully founded Faecbook because he was well trained in computer science at Harvard University. Only by studying diligently at medical school can one medical students become a world-class physicians later. Some doctors spending several years at an academic institution, focusing on scientific research to pursue a physician-scientist pathway. They learn from other scientists and cooperate with peer researchers. It is what they have learned lead to their successful career.",
+        "However, I concede that only with the knowledge taught at a university cannot guarantee students to succeed in the workplace. For instance, university graduates might not be able to run a successful business without essential networking. Moreover, executive and organizational skills are crucial in promotion to higher positions, while training in these skills are not always included in higher education curriculums. People improve organizational abilities through daily work and sometimes learn from mistakes. Experience also plays an important role in leading to a successful career. For example, a fresh graduate from even a top university cannot be an outstanding banker without any working experience.",
+        "In conclusion, the contributing factors to become successful are not limited to what individuals can learn at a university, but also various skills and experience which are accumulated in practical work."
+    ],
+    "errors": {
+        "num_error": "12",
+        "error_list": [
+            {
+                "word": "Zuckberg",
+                "start_idx": 344,
+                "end_idx": 352,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Zuckberg to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "Zuckerberg"
+                ]
+            },
+            {
+                "word": "Faecbook",
+                "start_idx": 374,
+                "end_idx": 382,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Faecbook to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "Facebook"
+                ]
+            },
+            {
+                "word": "students",
+                "start_idx": 516,
+                "end_idx": 524,
+                "error": "Change to a singular noun",
+                "error_des": "The singular quantifier one is followed by the plural noun students. Consider changing the noun to the singular or using a different quantifier.",
+                "suggetions": [
+                    "student"
+                ]
+            },
+            {
+                "word": "a world-class physicians",
+                "start_idx": 532,
+                "end_idx": 556,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun physicians in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "a world-class physician",
+                    "world-class physicians"
+                ]
+            },
+            {
+                "word": "spending",
+                "start_idx": 577,
+                "end_idx": 585,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb spending. Consider changing it.",
+                "suggetions": [
+                    "spend"
+                ]
+            },
+            {
+                "word": "lead",
+                "start_idx": 800,
+                "end_idx": 804,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb lead does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "leads"
+                ]
+            },
+            {
+                "word": "with ",
+                "start_idx": 863,
+                "end_idx": 868,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 931,
+                "end_idx": 934,
+                "error": "Fix the infinitive",
+                "error_des": "It seems that the use of particle to may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "promotion",
+                "start_idx": 1133,
+                "end_idx": 1142,
+                "error": "Add an article",
+                "error_des": "The noun phrase promotion seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the promotion"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 1195,
+                "end_idx": 1198,
+                "error": "Change the verb form",
+                "error_des": "The verb are does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "become",
+                "start_idx": 1586,
+                "end_idx": 1592,
+                "error": "Change the verb form",
+                "error_des": "The verb become may be in the wrong form after the preposition to. Consider changing it to the gerund form.",
+                "suggetions": [
+                    "becoming"
+                ]
+            },
+            {
+                "word": "experience",
+                "start_idx": 1695,
+                "end_idx": 1705,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that experience may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "experiences"
+                ]
+            }
+        ]
+    },
+    "submitter": "1123747551",
+    "num_words": 257,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "moreover",
+            "however",
+            "this",
+            "to begin",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "skills",
+                "occurrences": [
+                    {
+                        "start_idx": 302,
+                        "end_idx": 308
+                    },
+                    {
+                        "start_idx": 1110,
+                        "end_idx": 1116
+                    },
+                    {
+                        "start_idx": 1187,
+                        "end_idx": 1193
+                    },
+                    {
+                        "start_idx": 1682,
+                        "end_idx": 1688
+                    }
+                ]
+            },
+            {
+                "word": "university",
+                "occurrences": [
+                    {
+                        "start_idx": 94,
+                        "end_idx": 104
+                    },
+                    {
+                        "start_idx": 314,
+                        "end_idx": 324
+                    },
+                    {
+                        "start_idx": 893,
+                        "end_idx": 903
+                    },
+                    {
+                        "start_idx": 973,
+                        "end_idx": 983
+                    },
+                    {
+                        "start_idx": 1466,
+                        "end_idx": 1476
+                    },
+                    {
+                        "start_idx": 1653,
+                        "end_idx": 1663
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-16T15:21:26.411Z"
+}

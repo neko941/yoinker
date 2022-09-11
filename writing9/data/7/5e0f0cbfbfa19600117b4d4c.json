@@ -1,0 +1,175 @@
+{
+    "url": "https://writing9.com/text/5e0f0cbfbfa19600117b4d4c-there-have-been-some-problems-with-the-public-transport-you",
+    "file": "data\\7\\5e0f0cbfbfa19600117b4d4c.json",
+    "topics": [
+        "transport",
+        "manager",
+        "company"
+    ],
+    "question": "There have been some problems with the public transport you use to commute daily.\nWrite a letter to the manager of the public transport company. In your letter:\n\ndescribe the problems\nexplain how these problems are affecting you and others\nsuggest what could be done about it",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "I am writing to express my discontent regarding the bus service, provided by your company in our area. The service is extremely terrible which has created unmanageable and unavoidable situation in the area of my residence.",
+        "My name is Sunny and I live in Salmiya, Block 10. The area is on the outskirts of the city. The residents of the area, including me, are daily commuters of the bus service provided by your establishment. However, during the last few weeks, your buses are making reoccurring delays and that is affecting our arrival at the workplace. To add more grief, some buses are not coming at all, resulting some of us to hail a taxi to reach our office. Sometimes, this situation forces me and some other commuters to take congested buses and stand all the way in miserable condition to reach our office.",
+        "I suggest you to look into this issue and add few more buses in our area. I look forward to hearing from you.",
+        "Yours faithfully",
+        "Sunny Bhat"
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "unmanageable",
+                "start_idx": 175,
+                "end_idx": 187,
+                "error": "Add an article",
+                "error_des": "The noun phrase unmanageable and unavoidable situation seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an unmanageable",
+                    "the unmanageable"
+                ]
+            },
+            {
+                "word": "situation",
+                "start_idx": 204,
+                "end_idx": 213,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that situation may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "situations"
+                ]
+            },
+            {
+                "word": "some",
+                "start_idx": 640,
+                "end_idx": 644,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in some"
+                ]
+            },
+            {
+                "word": "to hail",
+                "start_idx": 651,
+                "end_idx": 658,
+                "error": "Change the verb form",
+                "error_des": "To hail doesn\u2019t seem to work here.",
+                "suggetions": [
+                    "hailing"
+                ]
+            },
+            {
+                "word": "condition",
+                "start_idx": 807,
+                "end_idx": 816,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that condition may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "conditions"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 853,
+                "end_idx": 856,
+                "error": "Remove the particle",
+                "error_des": "The verb look appears to be in the subjunctive mood. Consider removing the particle to.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "bhatsunny089",
+    "num_words": 174,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "last",
+            "however",
+            "that is"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "area",
+                "occurrences": [
+                    {
+                        "start_idx": 116,
+                        "end_idx": 120
+                    },
+                    {
+                        "start_idx": 220,
+                        "end_idx": 224
+                    },
+                    {
+                        "start_idx": 296,
+                        "end_idx": 300
+                    },
+                    {
+                        "start_idx": 355,
+                        "end_idx": 359
+                    },
+                    {
+                        "start_idx": 904,
+                        "end_idx": 908
+                    }
+                ]
+            },
+            {
+                "word": "buses",
+                "occurrences": [
+                    {
+                        "start_idx": 487,
+                        "end_idx": 492
+                    },
+                    {
+                        "start_idx": 599,
+                        "end_idx": 604
+                    },
+                    {
+                        "start_idx": 764,
+                        "end_idx": 769
+                    },
+                    {
+                        "start_idx": 891,
+                        "end_idx": 896
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T18:14:56.411Z"
+}

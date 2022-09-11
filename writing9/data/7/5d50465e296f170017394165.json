@@ -1,0 +1,114 @@
+{
+    "url": "https://writing9.com/text/5d50465e296f170017394165",
+    "file": "data\\7\\5d50465e296f170017394165.json",
+    "topics": [
+        "people",
+        "books",
+        "importance",
+        "source",
+        "information",
+        "entertainment"
+    ],
+    "question": "Some people think that books are losing importance as a source of information and entertainment. To what extent do you agree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, reading books is an unpopular option as a source of knowledge and leisure. It is considered by some that books are losing its importance. In my opinion, I totally agree because advancement of technology has brought us an easier way to access information and a wide range of free visual entertainment.",
+        "Technology such as artificial intelligence helps us to gather all the data around the world and allow us to obtain it through surfing the Internet using the search engine, Google, which is totally free. For example, if we need information on a particular topic for the assignment, we just have to simply type in the keyword, then Google it, all the articles related will pop us within a short period of time. Furthermore, we no longer need to flip the thick book page by page, but at our fingertips. Thus, the demand of book as source of information decreases.",
+        "Moreover, people today think reading books are boring and uninteresting activity because there are many kinds of entertainment available such as remote game console, computer and mobile games, and sports, which are more exciting and fun. Moreover, some people enjoy watching video or reality show online using YouTube. Besides, it is considered by some that playing sports such as badminton and football enable toxic released through sweat, which can strengthen the body\u2019s immune system and keep fit.",
+        "In conclusion, technology has made our life a more comfortable, time-saving and money saving, making reading a replaceable option as a source of information and entertainment."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "knowledge and leisure",
+                "start_idx": 62,
+                "end_idx": 83,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "leisure and knowledge"
+                ]
+            },
+            {
+                "word": "advancement",
+                "start_idx": 187,
+                "end_idx": 198,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the advancement"
+                ]
+            }
+        ]
+    },
+    "submitter": "harpeng-456",
+    "num_words": 254,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "thus",
+            "then",
+            "furthermore",
+            "for example",
+            "besides",
+            "moreover",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 252,
+                        "end_idx": 263
+                    },
+                    {
+                        "start_idx": 538,
+                        "end_idx": 549
+                    },
+                    {
+                        "start_idx": 849,
+                        "end_idx": 860
+                    },
+                    {
+                        "start_idx": 1518,
+                        "end_idx": 1529
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-11T16:46:22.095Z"
+}

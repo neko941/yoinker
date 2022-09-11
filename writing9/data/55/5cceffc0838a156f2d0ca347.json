@@ -1,0 +1,131 @@
+{
+    "url": "https://writing9.com/text/5cceffc0838a156f2d0ca347-you-are-going-away-to-travel-for-the-summer-a",
+    "file": "data\\55\\5cceffc0838a156f2d0ca347.json",
+    "topics": [
+        "travel",
+        "summer",
+        "friend",
+        "house"
+    ],
+    "question": "You are going away to travel for the summer. A friend will be looking after your house while you are away. Write a letter to your friend.\n\nIn your letter:\n\n1)Say where you are going\n2)Describe your house\n3)Explain some of the things your friend must do to look after your house.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mene,",
+        "I trust you are keeping up fine and the new project is going on well. I am writing to inform you that I will be travelling for a 3 weeks vacation by Saturday.",
+        "I have been planning a take a break from work and my regular life, and I finally decided to visit  California, USA for the holiday. I will be staying at the Hallmark beach house for 3 weeks where I intend to relax and put my head together after the stressful season at work, I hear the environment is mind blowing.",
+        "As you are aware, I moved away from Ibidun street to Randle close, it's just 3 junctions away from my previous street. It's number 15 Randle close, a brown 2 storey building next to the popular Assemblies of God Church. My flat is the first on the left once you enter the compound.",
+        "While I'm away, I'll need your assistance in checking up on my cat Mikey, she sleep at my balcony and goes out early by 6am to play and comes back at around 8pm. Please help me put clean water in her pan every night and also help me warm my car at least three times in a week so as to preserve the battery. I will drop my keys with my security guard so you can pick it from him, I'd also inform him to you will be coming.",
+        "Please reach out to me once you receive my letter so I can finalize my plans.",
+        "Best regards,",
+        "Opum"
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "mind blowing",
+                "start_idx": 473,
+                "end_idx": 485,
+                "error": "Add a hyphen",
+                "error_des": "It appears that mind blowing is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "mind-blowing"
+                ]
+            },
+            {
+                "word": "sleep",
+                "start_idx": 849,
+                "end_idx": 854,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun she and the verb sleep are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "sleeps"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 855,
+                "end_idx": 857,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "in ",
+                "start_idx": 1037,
+                "end_idx": 1040,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 1137,
+                "end_idx": 1139,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "them"
+                ]
+            },
+            {
+                "word": "Opum",
+                "start_idx": 1288,
+                "end_idx": 1292,
+                "error": "Correct your spelling",
+                "error_des": "The word Opum is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "Opium",
+                    "Open"
+                ]
+            }
+        ]
+    },
+    "submitter": "edechloe",
+    "num_words": 256,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "next",
+            "first",
+            "also",
+            "finally"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T15:57:56.587Z"
+}

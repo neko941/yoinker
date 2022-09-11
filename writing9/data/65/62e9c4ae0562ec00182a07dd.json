@@ -1,0 +1,363 @@
+{
+    "url": "https://writing9.com/text/62e9c4ae0562ec00182a07dd-some-employers-want-to-be-able-to-contact-their-employees",
+    "file": "data\\65\\62e9c4ae0562ec00182a07dd.json",
+    "topics": [
+        "employers",
+        "contact",
+        "employees",
+        "times"
+    ],
+    "question": "Some Employers Want To Be Able To Contact Their Employees At All Times.Discuss advantages and disadvantages.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There are some companies that employers hope to contact their staffs all the time. I will discuss positive and negative aspects of this work style and suggest that the disadvantage outweigh the advantages.",
+        "One of the advantages of this style is that communication between management people and staffs can be enhanced. Many companies have been accelerating and improving the online tools to work from home considering the impact of COVID-19 since the ealry 2020. Therefore, everyone can easily communicate with each other whenever and wherever they want. Smooth communication is one of the most important features in building good relationships among the same community. For example, prompt actions to inquiries from customers would satisfy them. Also, quick reportings of a mistake to bosses may recover the company reputation immediately. Thus, these instant communication may result in higher performance in the company.",
+        "On the other hand, there are some disadvantages. First, employees may always feel a strong pressure even beyond their office hours. Everybody must have their private time such as family time and individual time. However, employees may not be able to enjoy their private time due to the all-the-time contacts from their employers. Second, both employers and employees may not be able to keep reliable and stable connections with too many contacts as employees may feel that employers may not trust their work and personality at all. It may translate into the smooth communication would be failed in the company.",
+        "In conclusion, there are both positive and negative aspects on employer's desire to contact employees all the time. I would aurgue that employers should have their employees feel free outside of the office hours."
+    ],
+    "errors": {
+        "num_error": "18",
+        "error_list": [
+            {
+                "word": "that",
+                "start_idx": 25,
+                "end_idx": 29,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "where"
+                ]
+            },
+            {
+                "word": "staffs",
+                "start_idx": 62,
+                "end_idx": 68,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that staffs may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "staff"
+                ]
+            },
+            {
+                "word": "positive",
+                "start_idx": 98,
+                "end_idx": 106,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the positive"
+                ]
+            },
+            {
+                "word": "staffs",
+                "start_idx": 294,
+                "end_idx": 300,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that staffs may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "staff"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 446,
+                "end_idx": 450,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 450,
+                "end_idx": 450,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want ealry to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "early"
+                ]
+            },
+            {
+                "word": "ealry",
+                "start_idx": 450,
+                "end_idx": 455,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want ealry to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "early"
+                ]
+            },
+            {
+                "word": "among",
+                "start_idx": 644,
+                "end_idx": 649,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "company",
+                "start_idx": 808,
+                "end_idx": 815,
+                "error": "Change noun form",
+                "error_des": "It seems that this noun form may be incorrect.",
+                "suggetions": [
+                    "company's"
+                ]
+            },
+            {
+                "word": "these instant ",
+                "start_idx": 846,
+                "end_idx": 860,
+                "error": "Change the determiner",
+                "error_des": "It appears that the plural demonstrative these is modifying the singular noun communication. Consider using a singular demonstrative or a plural noun instead.",
+                "suggetions": [
+                    "this instant communication",
+                    "these instant communications"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 1006,
+                "end_idx": 1008,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1478,
+                "end_idx": 1482,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1595,
+                "end_idx": 1595,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to on"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 1595,
+                "end_idx": 1597,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "employer's",
+                "start_idx": 1598,
+                "end_idx": 1608,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that employer's may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "employers'"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1659,
+                "end_idx": 1659,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want aurgue to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "argue"
+                ]
+            },
+            {
+                "word": "aurgue",
+                "start_idx": 1659,
+                "end_idx": 1665,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want aurgue to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "argue"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1730,
+                "end_idx": 1734,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "sayaislucky",
+    "num_words": 275,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "second",
+            "for example",
+            "however",
+            "therefore",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "employers",
+                "occurrences": [
+                    {
+                        "start_idx": 30,
+                        "end_idx": 39
+                    },
+                    {
+                        "start_idx": 1242,
+                        "end_idx": 1251
+                    },
+                    {
+                        "start_idx": 1266,
+                        "end_idx": 1275
+                    },
+                    {
+                        "start_idx": 1396,
+                        "end_idx": 1405
+                    },
+                    {
+                        "start_idx": 1670,
+                        "end_idx": 1679
+                    }
+                ]
+            },
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 77,
+                        "end_idx": 81
+                    },
+                    {
+                        "start_idx": 1089,
+                        "end_idx": 1093
+                    },
+                    {
+                        "start_idx": 1109,
+                        "end_idx": 1113
+                    },
+                    {
+                        "start_idx": 1129,
+                        "end_idx": 1133
+                    },
+                    {
+                        "start_idx": 1193,
+                        "end_idx": 1197
+                    },
+                    {
+                        "start_idx": 1217,
+                        "end_idx": 1221
+                    },
+                    {
+                        "start_idx": 1644,
+                        "end_idx": 1648
+                    }
+                ]
+            },
+            {
+                "word": "employees",
+                "occurrences": [
+                    {
+                        "start_idx": 979,
+                        "end_idx": 988
+                    },
+                    {
+                        "start_idx": 1144,
+                        "end_idx": 1153
+                    },
+                    {
+                        "start_idx": 1280,
+                        "end_idx": 1289
+                    },
+                    {
+                        "start_idx": 1372,
+                        "end_idx": 1381
+                    },
+                    {
+                        "start_idx": 1626,
+                        "end_idx": 1635
+                    },
+                    {
+                        "start_idx": 1698,
+                        "end_idx": 1707
+                    }
+                ]
+            },
+            {
+                "word": "communication",
+                "occurrences": [
+                    {
+                        "start_idx": 250,
+                        "end_idx": 263
+                    },
+                    {
+                        "start_idx": 561,
+                        "end_idx": 574
+                    },
+                    {
+                        "start_idx": 860,
+                        "end_idx": 873
+                    },
+                    {
+                        "start_idx": 1488,
+                        "end_idx": 1501
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-03T00:43:28.282Z"
+}

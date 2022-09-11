@@ -1,0 +1,167 @@
+{
+    "url": "https://writing9.com/text/5dd57eafed6fd8001818237c",
+    "file": "data\\6\\5dd57eafed6fd8001818237c.json",
+    "topics": [
+        "people",
+        "time",
+        "home",
+        "effects",
+        "society"
+    ],
+    "question": "Nowadays, many people spend less and less time at home. What are the causes of this? What are the effects of this on individual and on the society",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In recent times, people often spend avhuge amount of time away from home. This is due to long hours spent at work and traffic gridlock which eventually create a negative effect on the individuals and the society at large.",
+        "On one hand, several factors cause individuals to spend less time at home. One main reason is their job. This is because people need to make income in order to maintain a good standard of living. This is to say that they have to provide for their daily needs and that of their family. Also, traffic is another contributing factor. This can be as a result of a  large number of cars on the road and poor conditions of roads. People living far from their place of work can also be a causative factor as they spend a lot of time on the road. A recent research conducted in Lagos concluded that one third of an individual time is spent on traffic jam.",
+        "On the other hand, spending less time at home has a large effect on the individuals and society. Firstly, people will face lack of social life and communication which will affect their character negatively. Additionally, children from such homes often times feel neglected and withdrawn due to the fact that they feel unloved by their care givers. Furthermore, spending little time at home reduces productivity. This is to say that workers will not be able to deliver at their full capacity resulting from stress which can be gotten from spending huge amount of time away from home. Thus, affecting the economy of the society.",
+        "Conclusively, although there are reasons why people stay away from their residence, its effect can be felt on their character and work output and also on the nation's economy."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "vhuge amount ",
+                "start_idx": 37,
+                "end_idx": 50,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an average amount",
+                    "average amount"
+                ]
+            },
+            {
+                "word": "tress which ",
+                "start_idx": 1379,
+                "end_idx": 1391,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "stress, which"
+                ]
+            }
+        ]
+    },
+    "submitter": "mail4lisa04",
+    "num_words": 295,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "as a result",
+            "furthermore",
+            "third",
+            "although",
+            "this",
+            "additionally",
+            "also",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 10,
+                        "end_idx": 14
+                    },
+                    {
+                        "start_idx": 53,
+                        "end_idx": 57
+                    },
+                    {
+                        "start_idx": 283,
+                        "end_idx": 287
+                    },
+                    {
+                        "start_idx": 743,
+                        "end_idx": 747
+                    },
+                    {
+                        "start_idx": 840,
+                        "end_idx": 844
+                    },
+                    {
+                        "start_idx": 903,
+                        "end_idx": 907
+                    },
+                    {
+                        "start_idx": 1122,
+                        "end_idx": 1126
+                    },
+                    {
+                        "start_idx": 1247,
+                        "end_idx": 1251
+                    },
+                    {
+                        "start_idx": 1432,
+                        "end_idx": 1436
+                    }
+                ]
+            },
+            {
+                "word": "home",
+                "occurrences": [
+                    {
+                        "start_idx": 68,
+                        "end_idx": 72
+                    },
+                    {
+                        "start_idx": 291,
+                        "end_idx": 295
+                    },
+                    {
+                        "start_idx": 911,
+                        "end_idx": 915
+                    },
+                    {
+                        "start_idx": 1110,
+                        "end_idx": 1114
+                    },
+                    {
+                        "start_idx": 1255,
+                        "end_idx": 1259
+                    },
+                    {
+                        "start_idx": 1447,
+                        "end_idx": 1451
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-20T17:58:07.843Z"
+}

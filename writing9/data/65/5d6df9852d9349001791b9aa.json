@@ -1,0 +1,132 @@
+{
+    "url": "https://writing9.com/text/5d6df9852d9349001791b9aa",
+    "file": "data\\65\\5d6df9852d9349001791b9aa.json",
+    "topics": [
+        "people",
+        "money",
+        "development"
+    ],
+    "question": "Many people prefer to spend money and not save it. What are the reasons? Is this positive or negative development?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A lot of people these days do not keep any savings and spend a lot of money. First, this essay will discuss the positive impacts. Then, it will shed a light on the negative impacts.",
+        "On one hand, many people like to spend more because almost everyone today thinks it is necessary to live in the moment rather than save for the future. Many psychologists thing this way of living is essential as it keeps a person stress free. One of the best examples of this situation is that public today loves to travel, the need to explore has expanded, they see it as a way to invest in themselves. For example, travel and leisure magazine 2018 wrote that atleast 50% people prefer travelling to stay tension free and 40% of these, love living in the moment and without worrying about the future.",
+        "On the other hand, there are many drawbacks of this. A large number of people think that saving is very important because that money can be used for any emergencies like health issues. Climate change is also affecting the life of lots of people, most of them think that you never know what the future holds and what impacts it has on lives, savings is one such solution that can help anybody, even the rich or the poor to get through any situation. A survey by times now India found that atleast 70%-80% people in India save money, while the rest 20% don\u2019t. Same survey found that the 20% suffer more from problems.",
+        "In conclusion, spending has various impacts on the society and people have different opinions regarding it. In my view, it is necessary the save more and spend less because we never know what the future holds."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "person",
+                "start_idx": 405,
+                "end_idx": 411,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "person's"
+                ]
+            },
+            {
+                "word": "atleast",
+                "start_idx": 643,
+                "end_idx": 650,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "at least"
+                ]
+            },
+            {
+                "word": "atleast",
+                "start_idx": 1272,
+                "end_idx": 1279,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "at least"
+                ]
+            },
+            {
+                "word": "Same survey",
+                "start_idx": 1342,
+                "end_idx": 1353,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "The same survey",
+                    "A same survey"
+                ]
+            }
+        ]
+    },
+    "submitter": "namraimran",
+    "num_words": 292,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the other hand",
+            "then",
+            "for example",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "future",
+                "occurrences": [
+                    {
+                        "start_idx": 326,
+                        "end_idx": 332
+                    },
+                    {
+                        "start_idx": 776,
+                        "end_idx": 782
+                    },
+                    {
+                        "start_idx": 1078,
+                        "end_idx": 1084
+                    },
+                    {
+                        "start_idx": 1596,
+                        "end_idx": 1602
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-03T05:26:29.821Z"
+}

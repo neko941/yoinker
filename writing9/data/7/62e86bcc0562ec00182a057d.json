@@ -1,0 +1,115 @@
+{
+    "url": "https://writing9.com/text/62e86bcc0562ec00182a057d-some-people-believe-that-school-children-should-not-be-given",
+    "file": "data\\7\\62e86bcc0562ec00182a057d.json",
+    "topics": [
+        "people",
+        "school",
+        "children",
+        "homework",
+        "teachers",
+        "role",
+        "education"
+    ],
+    "question": "Some people believe that school children should not be given homework by their teachers, whereas others argue that homework plays an important role in the education of children.Discuss both of these views and give your own opinion.Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many parents think that homework provided by the teachers is critical for independent learning, while others argue that study should stay in the classroom. In my opinion, in today's competitive world, no extra study is not viable, and in this essay, I will discuss both aspects briefly.",
+        "To commence, normally each period of school is for 45minutes to one hour and during this time teacher can explain methods and some examples of a subject question, not the whole practice question. Also, according to a number of research, some subjects require practice and revision, for example, maths is the subject where a practice is necessary, and biology needs memorising the terminology. Moreover, a classroom contains many children and it's impossible to pay equal attention to each pupil. In all such scenarios to match up with the curriculum and class, tutees need to do extra work, which can be achieved by doing homework. Furthermore, homework is a very good way to teach disciples of independent study that helps them during their university education.",
+        "However, self-study also has some demerits, for instance, some education institute gives very lengthy homework, and by the time student finish it, they do not have any time left for themself. Along with it, at the early age of schooling, schoolers require some help from their parents to do the homework, and if both parents are working, it becomes difficult for the children and lag in the classroom.",
+        "In conclusion, homework should be given in a moderate quantity then only it can help to grow a child in a successful way."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 609,
+                "end_idx": 611,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun practice in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "A",
+    "num_words": 262,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "for instance",
+            "then",
+            "furthermore",
+            "for example",
+            "moreover",
+            "however",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "homework",
+                "occurrences": [
+                    {
+                        "start_idx": 24,
+                        "end_idx": 32
+                    },
+                    {
+                        "start_idx": 909,
+                        "end_idx": 917
+                    },
+                    {
+                        "start_idx": 932,
+                        "end_idx": 940
+                    },
+                    {
+                        "start_idx": 1153,
+                        "end_idx": 1161
+                    },
+                    {
+                        "start_idx": 1346,
+                        "end_idx": 1354
+                    },
+                    {
+                        "start_idx": 1468,
+                        "end_idx": 1476
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-02T00:13:33.771Z"
+}

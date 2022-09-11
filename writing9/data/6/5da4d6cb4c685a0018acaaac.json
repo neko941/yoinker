@@ -1,0 +1,122 @@
+{
+    "url": "https://writing9.com/text/5da4d6cb4c685a0018acaaac",
+    "file": "data\\6\\5da4d6cb4c685a0018acaaac.json",
+    "topics": [
+        "countries"
+    ],
+    "question": "In many countries the rich are becoming richer and the poor are becoming poorer.\nWhy is this problem?\nWhat solutions are there to tackle this problem?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It has been notable that there is an obvious economic gap between citizens, in several countries. While some individuals\u2019 fortunes grow significantly, others clearly become poorer. In my opinion the major cause of this trend is the lack of fairness. However, this issue could be mitigated by both education and regulations.",
+        "To begin with, unjust distribution of nations\u2019 resources has affected the economic standard of their citizens. To clarify, many countries give affluent people countless benefits to improve their business. This has been done with intent of enhancing the economical state of these countries. Not only do these countries facilitate governmental procedures for those wealthy people\u2019s businesses, but also offer them a myriad of facilities.  Naguib Saweras, a business tycoon in Egypt, who is counted as one of the most ten wealthy people all over the world, had bought about 3000 hectares of agricultural land in upper Egypt with the quarter of its price. This could not happen without a legal vacuum in the Egyptian law. Hence, these unfair give the perfect opportunity to these rich individuals to increase their fortune legally.",
+        "On the other hand, two possible measures can be taken to resolve this spreading issue. Firstly, ensure free charge education for citizens. To illustrate, Germany which provides education with no tuition fees to ensure prosperity for all country people. This could narrow the economical gap between these citizens by improving their academic qualities and enhancing their career opportunities. Secondly, strict rules should be enforced to encourage unemployed people to earn their living. Social aid, for example, helps workless people to meet their needs. Therefore, if authorities launch law to limit this aid for 6-month period, this would possibly motivate jobless people to do their best to get job and gain good income. Thus, if these measures were taken, the troubles by no means insurmountable.",
+        "To conclude, having discussed both major cause and solutions of the life standard gap in many countries, it seems to me that the lack of justice is the most effective cause to increase this trend. However, offering free education and updating aid regulations possibly alleviate this problem."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "Germany which",
+                "start_idx": 1306,
+                "end_idx": 1319,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Germany, which"
+                ]
+            },
+            {
+                "word": "workless",
+                "start_idx": 1671,
+                "end_idx": 1679,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "job",
+                "start_idx": 1851,
+                "end_idx": 1854,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the job",
+                    "a job"
+                ]
+            }
+        ]
+    },
+    "submitter": "g.fattah",
+    "num_words": 353,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "hence",
+            "for example",
+            "however",
+            "therefore",
+            "this",
+            "to begin",
+            "also",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 297,
+                        "end_idx": 306
+                    },
+                    {
+                        "start_idx": 1267,
+                        "end_idx": 1276
+                    },
+                    {
+                        "start_idx": 1329,
+                        "end_idx": 1338
+                    },
+                    {
+                        "start_idx": 2174,
+                        "end_idx": 2183
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-14T20:12:59.450Z"
+}

@@ -1,0 +1,164 @@
+{
+    "url": "https://writing9.com/text/5d9ce7a2b03a770011519696",
+    "file": "data\\55\\5d9ce7a2b03a770011519696.json",
+    "topics": [
+        "world",
+        "measures",
+        "governments",
+        "individuals"
+    ],
+    "question": "Global warning is one of the most serious issues that the world is facing today.\nWhat are the causes of global warming and what Measures can governments and individuals take to tackle the issue?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.5,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 4.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It has been discovered recently that the world has gradually increased which in turn has become a threat to people and their environment. This write up will discuss the likely causes in the world temperature, the necessary steps to be taken by the government and individual for better living.",
+        "Firstly, the global warming is as a result of increase in the concentration of carbon dioxide in the atmosphere which is as a result of many factors such as deforestation - a process by which trees are being cut down. For example, the cutting down of trees to make firewood, furniture and so on will reduce the utilization of carbon dioxide which the plants or tree needs to thrive.",
+        "In addition, the availability of more industries in our society has resulted in production of more carbon dioxide to the environment. For example, lack of of chimney in most industries has engrossed the surroundings with gases.",
+        "Furthermore, air pollution as a result of smoke generation from burning of waste, exhaust from fuel utilization and so on has has contributed predominantly to the depletion of the ozone layer thereby causing heat to the planet.",
+        "Nevertheless, the reason for change  in temperature needs to be urgently attended to by both the government and individual. For example, during the tenure of former Governor of Lagos state, Nigeria, in the person of Babatunde Fashola, encouraged and mandated the planting of flowers and trees all over the state, so as to reduce the level of carbon dioxide in the atmosphere.",
+        "Moreover, the government needs to put a policy in place to reduce the rate at which the trees in the forest are being cut down.",
+        "The use of cars by an individual should be minimized unless it is necessary, instead boarding of train or public transport will help to reduce air pollution. Also, constant power supply will reduce the consumption of fuel in generators.",
+        "In summary, the government and individual have a great role to play in order to live in a conducive environment. The general input to the depletion of the ozone layer needs immediate attention to minimize its detrimental effect. In conclusion, the planting of trees, constant power supply, solar utilization, good road and water transport system will help to combat the global warming and makes the planet more conducive to live in."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "change",
+                "start_idx": 1161,
+                "end_idx": 1167,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the change",
+                    "changes"
+                ]
+            },
+            {
+                "word": "train",
+                "start_idx": 1733,
+                "end_idx": 1738,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a train",
+                    "the train"
+                ]
+            }
+        ]
+    },
+    "submitter": "kunle.obisesan",
+    "num_words": 388,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "as a result",
+            "nevertheless",
+            "furthermore",
+            "for example",
+            "moreover",
+            "instead",
+            "in addition",
+            "this",
+            "also",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "dioxide",
+                "occurrences": [
+                    {
+                        "start_idx": 379,
+                        "end_idx": 386
+                    },
+                    {
+                        "start_idx": 626,
+                        "end_idx": 633
+                    },
+                    {
+                        "start_idx": 782,
+                        "end_idx": 789
+                    },
+                    {
+                        "start_idx": 1481,
+                        "end_idx": 1488
+                    }
+                ]
+            },
+            {
+                "word": "carbon",
+                "occurrences": [
+                    {
+                        "start_idx": 372,
+                        "end_idx": 378
+                    },
+                    {
+                        "start_idx": 619,
+                        "end_idx": 625
+                    },
+                    {
+                        "start_idx": 775,
+                        "end_idx": 781
+                    },
+                    {
+                        "start_idx": 1474,
+                        "end_idx": 1480
+                    }
+                ]
+            },
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 248,
+                        "end_idx": 258
+                    },
+                    {
+                        "start_idx": 1229,
+                        "end_idx": 1239
+                    },
+                    {
+                        "start_idx": 1522,
+                        "end_idx": 1532
+                    },
+                    {
+                        "start_idx": 1889,
+                        "end_idx": 1899
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-08T19:46:42.905Z"
+}

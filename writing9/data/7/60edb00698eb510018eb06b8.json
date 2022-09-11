@@ -1,0 +1,173 @@
+{
+    "url": "https://writing9.com/text/60edb00698eb510018eb06b8-in-many-countries-today-crime-novels-and-tv-crimes",
+    "file": "data\\7\\60edb00698eb510018eb06b8.json",
+    "topics": [
+        "countries",
+        "crime",
+        "novels",
+        "tv",
+        "crimes",
+        "dramas",
+        "books",
+        "fiction"
+    ],
+    "question": "In many countries today, crime novels and tv crimes dramas are becoming more and more popular. Why do you think these books and tv shows are popular? What is your opinion of crime fiction tv crime dramas?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In recent times, crime-related books and T.V shows are gaining more fame.There are a plethora of reasons for this. This essay shall discuss the reasons further in detail.I am of the opinion that crime stories should have  some restrictions on what is viewed and published.Additionally, it should be limited to adult viewers.",
+        "There is a number of factors for the popularity of crime stories.To begin with,common citizens are mostly law-abiding population and hence, are fascinated to know about the way the crime is being plotted and how it is solved.They try to get into the shoes of the detectives and solve the mystery of the whole illegal game.Moreover, society become aware of the ongoing crimes around them and safeguard themselves by all means. For example, a drama that portrays  cybercrime will make the audience know about the consequences of sharing any bank details and thus public will avoid doing so.",
+        "However, I am not in favour of crime fiction series as I believe, they make our mindset negative and also suspicious.Furthermore, Children learn quickly from such crimes and try to follow them.For instance, Young children think about an easy way of earning money by involving in robbery or murder.Therefore, the whole society will be affected by such an attitude on the whole.",
+        "In conclusion,The reasons for the popularity of crime stories include the fascination about those crimes and also to get aware regarding such incidences.Nevertheless, I do not favour  crime  fiction stories as I believe , these make people suspicious and children more violent"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "law-abiding",
+                "start_idx": 431,
+                "end_idx": 442,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "a law-abiding"
+                ]
+            },
+            {
+                "word": "become",
+                "start_idx": 665,
+                "end_idx": 671,
+                "error": "Change the verb form",
+                "error_des": "The plural verb become does not appear to agree with the singular subject society. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "becomes"
+                ]
+            }
+        ]
+    },
+    "submitter": "Leena Kapoor",
+    "num_words": 254,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "15",
+        "list_linking_words": [
+            "thus",
+            "for instance",
+            "hence",
+            "nevertheless",
+            "furthermore",
+            "for example",
+            "moreover",
+            "to begin",
+            "further",
+            "however",
+            "therefore",
+            "this",
+            "additionally",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "crime",
+                "occurrences": [
+                    {
+                        "start_idx": 17,
+                        "end_idx": 22
+                    },
+                    {
+                        "start_idx": 195,
+                        "end_idx": 200
+                    },
+                    {
+                        "start_idx": 376,
+                        "end_idx": 381
+                    },
+                    {
+                        "start_idx": 506,
+                        "end_idx": 511
+                    },
+                    {
+                        "start_idx": 693,
+                        "end_idx": 698
+                    },
+                    {
+                        "start_idx": 792,
+                        "end_idx": 797
+                    },
+                    {
+                        "start_idx": 945,
+                        "end_idx": 950
+                    },
+                    {
+                        "start_idx": 1077,
+                        "end_idx": 1082
+                    },
+                    {
+                        "start_idx": 1339,
+                        "end_idx": 1344
+                    },
+                    {
+                        "start_idx": 1389,
+                        "end_idx": 1394
+                    },
+                    {
+                        "start_idx": 1475,
+                        "end_idx": 1480
+                    }
+                ]
+            },
+            {
+                "word": "stories",
+                "occurrences": [
+                    {
+                        "start_idx": 201,
+                        "end_idx": 208
+                    },
+                    {
+                        "start_idx": 382,
+                        "end_idx": 389
+                    },
+                    {
+                        "start_idx": 1345,
+                        "end_idx": 1352
+                    },
+                    {
+                        "start_idx": 1490,
+                        "end_idx": 1497
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-07-13T15:26:47.322Z"
+}

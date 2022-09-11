@@ -1,0 +1,144 @@
+{
+    "url": "https://writing9.com/text/5ec3effc9d3173001835104c",
+    "file": "data\\7\\5ec3effc9d3173001835104c.json",
+    "topics": [
+        "humans",
+        "environment",
+        "governments",
+        "address",
+        "people"
+    ],
+    "question": "Explain some of the ways in which humans are damaging the environment. What can governments do to address these problems? What can individual people do?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Since several environmental problems have been caused by humans\u2019 force, we need to act responsibly to reduce the damage that we are doing to the earth. This essay will explain environmental problems and what governments and individuals can do to prevent these problems.",
+        "There are various ways that humans are doing to create negative impacts on the surroundings. The first source of harmful pollutants is gas emission from traffic and factories whose volume is gradually increasing without limitation being a significant threat to the ozone layer. Although international efforts to prevent this issue, greenhouse gas is regularly released into the atmosphere with the unstoppable tendency due to the growth of either global population or international consumption. Besides, disposed waste from industrial operations and household is also a source of poisonous pollutants that is devastating environment, marine ecosystem and contaminating natural sources of water, even ground water. Forest logging has become common since the growth of human civilisation that is the principal cause of severe disasters such as soil erosion and destructive floods.",
+        "However, there are various solutions that governments and individuals can take to tackle these problems and mitigate the situation of the earth. Firstly, governments can slow down the process of environment pollution by releasing policies that prevent exploitation of solid fuels in order to reduce carbon dioxin emission which causes acid rains. Moreover, encouraging companies both using alternative power sources such as solar, wind energy and creating sustainable solutions to deal with recent circumstances of pollution. An efficient public transport system could be useful in reducing private vehicles which occupy a significant portion of carbon dioxin emission. Individuals are promoted to use products produced by recycling materials in order to reduce household waste to environment that create a tendency of using sustainable solutions in society.",
+        "In conclusion, both national governments and individuals must understand the harmful impacts they have on the environment and be responsible to ease damages."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "Although",
+                "start_idx": 549,
+                "end_idx": 557,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Despite"
+                ]
+            },
+            {
+                "word": "environment",
+                "start_idx": 892,
+                "end_idx": 903,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the environment"
+                ]
+            },
+            {
+                "word": "environment",
+                "start_idx": 1346,
+                "end_idx": 1357,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "environmental"
+                ]
+            },
+            {
+                "word": "environment",
+                "start_idx": 1932,
+                "end_idx": 1943,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the environment",
+                    "environments"
+                ]
+            }
+        ]
+    },
+    "submitter": "anhminhnguyenbt1998",
+    "num_words": 320,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "firstly",
+            "besides",
+            "moreover",
+            "however",
+            "that is",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "environment",
+                "occurrences": [
+                    {
+                        "start_idx": 14,
+                        "end_idx": 25
+                    },
+                    {
+                        "start_idx": 176,
+                        "end_idx": 187
+                    },
+                    {
+                        "start_idx": 891,
+                        "end_idx": 902
+                    },
+                    {
+                        "start_idx": 1344,
+                        "end_idx": 1355
+                    },
+                    {
+                        "start_idx": 1930,
+                        "end_idx": 1941
+                    },
+                    {
+                        "start_idx": 2118,
+                        "end_idx": 2129
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-05-19T14:41:00.026Z"
+}

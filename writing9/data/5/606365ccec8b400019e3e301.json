@@ -1,0 +1,205 @@
+{
+    "url": "https://writing9.com/text/606365ccec8b400019e3e301-for-the-past-year-you-have-been-a-member-of",
+    "file": "data\\5\\606365ccec8b400019e3e301.json",
+    "topics": [
+        "year",
+        "member",
+        "club",
+        "membership",
+        "secretary",
+        "\u25cf",
+        "type"
+    ],
+    "question": "For the past year, you have been a member of a local club. Now you want to discontinue your membership.Write a letter to the club secretary. In your letter\u25cf state what type of membership you have and how you have paid for this\u25cf give details of how you have benefited from the club\u25cf explain why you want to leave",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 4.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "I am writing this letter in regards to the discontinuation of my membership at your club.",
+        "I have enjoyed my leisure time in your club and got privilege benefits as I have the Gold membership with you. That type of membership includes the free yoga classes on weekend along with regular activities. I remembered that I have paid for membership through my HSBC credit card and availed 15% discount on the price.",
+        "I was new to the Central London. My decision to join you club was absolutely perfect. It was great to spend a quality time and enjoy the activities, like gym and swimming pool. I got many new friends there. I never missed any yoga class, which is without any charges on weekend. I lose my weight and my body is in shape now.",
+        "Unfortunately, my work has decided to appoint me in Norway and I have to leave the country by end of this month. Hereby, I request you to cancel my membership and refund the remaining balance. In any case, I am back to the London, would love to join your club again.",
+        "Yours sincerely,"
+    ],
+    "errors": {
+        "num_error": "9",
+        "error_list": [
+            {
+                "word": "the ",
+                "start_idx": 250,
+                "end_idx": 254,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "weekend",
+                "start_idx": 275,
+                "end_idx": 282,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that weekend may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "weekends"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 440,
+                "end_idx": 444,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "you",
+                "start_idx": 480,
+                "end_idx": 483,
+                "error": "Change the pronoun",
+                "error_des": "It appears that the personal pronoun you should be in the possessive form. Consider changing it.",
+                "suggetions": [
+                    "your"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 535,
+                "end_idx": 537,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "gym",
+                "start_idx": 581,
+                "end_idx": 584,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the gym"
+                ]
+            },
+            {
+                "word": "weekend",
+                "start_idx": 697,
+                "end_idx": 704,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that weekend may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "weekends"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 968,
+                "end_idx": 970,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 971,
+                "end_idx": 975,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "MK",
+    "num_words": 190,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "1",
+        "list_linking_words": [
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "club",
+                "occurrences": [
+                    {
+                        "start_idx": 100,
+                        "end_idx": 104
+                    },
+                    {
+                        "start_idx": 145,
+                        "end_idx": 149
+                    },
+                    {
+                        "start_idx": 483,
+                        "end_idx": 487
+                    },
+                    {
+                        "start_idx": 1006,
+                        "end_idx": 1010
+                    }
+                ]
+            },
+            {
+                "word": "membership",
+                "occurrences": [
+                    {
+                        "start_idx": 81,
+                        "end_idx": 91
+                    },
+                    {
+                        "start_idx": 196,
+                        "end_idx": 206
+                    },
+                    {
+                        "start_idx": 230,
+                        "end_idx": 240
+                    },
+                    {
+                        "start_idx": 348,
+                        "end_idx": 358
+                    },
+                    {
+                        "start_idx": 899,
+                        "end_idx": 909
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-11T17:27:40.159Z"
+}

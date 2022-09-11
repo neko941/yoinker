@@ -1,0 +1,106 @@
+{
+    "url": "https://writing9.com/text/5f5ec31807d0d0001800b5c0",
+    "file": "data\\7\\5f5ec31807d0d0001800b5c0.json",
+    "topics": [
+        "countries",
+        "people",
+        "work",
+        "travel",
+        "year",
+        "school",
+        "university",
+        "studies"
+    ],
+    "question": "In some countries young people are encouraged to work or travel for a year between finishing high school and starting university studies. Discuss the advantages and disadvantages for young people who decide to do this.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In various nations, secondary school leavers are motivated to take a gap year before enrolling into college. This essay will discuss the merits and drawbacks of a taking a year break from studies to travel the world before college.",
+        "There are two main advantages for students who travel or work prior to starting their university education. The first one is that through the trip, students will be able to expand their horizons. For example, when these students travel abroad, they will be exposed to different cultures and customs, giving them a better understanding of the world around them. Another positive aspect is that these students will learn to appreciate the value of the money. This is because they will realize the value of the hard work needed to earn money, which means that they would need to think more carefully before purchasing anything they desire and may become less impulsive in their spending",
+        "On the other hand, there are some drawbacks when students take a gap year. The first problem is that travelling could have a negative impact on their emotional and mental health. This is because when travelling, those students will need to live far away from their family and close friends for a long time, which means that they may miss these people and feel homesick. In addition to this, students who work may not want to return to their studies. One explanation for this change is that they start to enjoy earning money and become financially independent, which makes them believe that they no longer have to study. Therefore, their whole future could be affected as it is essential to have a degree in order to become more competitive in the job market these days.",
+        "In conclusion, broadening the perspective of students and learning to better understand the value of money are two important positive aspects of taking a leave of absence. The problems for the students, however, are negative effects on the emotions and the reluctance to continue their higher education."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 161,
+                "end_idx": 163,
+                "error": "Remove the article",
+                "error_des": "It appears that a is unnecessary in this context. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "Andy",
+    "num_words": 335,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the other hand",
+            "for example",
+            "however",
+            "in addition",
+            "therefore",
+            "this",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "money",
+                "occurrences": [
+                    {
+                        "start_idx": 682,
+                        "end_idx": 687
+                    },
+                    {
+                        "start_idx": 765,
+                        "end_idx": 770
+                    },
+                    {
+                        "start_idx": 1434,
+                        "end_idx": 1439
+                    },
+                    {
+                        "start_idx": 1787,
+                        "end_idx": 1792
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-09-14T01:11:06.952Z"
+}

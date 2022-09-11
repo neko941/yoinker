@@ -1,0 +1,138 @@
+{
+    "url": "https://writing9.com/text/60ee5a9398eb510018eb0747-many-people-think-children-should-not-be-punished-at-early",
+    "file": "data\\75\\60ee5a9398eb510018eb0747.json",
+    "topics": [
+        "people",
+        "children",
+        "ages",
+        "sort",
+        "punishment"
+    ],
+    "question": "Many people think children should not be punished at early ages. To what extend do you agree or disagree?What sort of punishment may be applied for children?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "For some people, children at early ages should not be punished when they misbehave. I completely agree because in my opinion, a toddler does not have the ability to understand the reason for a punishment and it makes it simple violence. In the following essay, this idea will be analysed as well as some other ways of reprimands that are more suitable for children.",
+        "To begin, children at early ages should not be punished in any way, since they do not comprehend what they have done wrong. It has been proven that in the early stages of life humans lack long term memory, in other words, we forget what we have done and why we have got punished. For example, if a baby does something considered wrong and their parents shout at them, the child will be, certainly, scared, but they will not associate the shouting with their actions, therefore, it makes no sense to punish them. There will be a time to tell children what they have done wrong and why they should not do it again in the future.",
+        "However, at a certain age, there might be the case when children need to learn how to behave. In any given situation there is no room for physical or psychological punishment, instead, parents can give some pedagogical advice to their children. For instance, if a child starts a tantrum, the most appropriate option is to avoid giving them what they wanted in the first place, this way they will learn that their behaviour is pointless. The same principle can be applied to other situations of the like.",
+        "To conclude, I agree with the fact that toddlers should not be punished under any circumstances because they will not understand what they did wrong. Nonetheless, when children grow, there should be always alternatives to punishment and violence to make them understand their wrong actions."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "ages",
+                "start_idx": 35,
+                "end_idx": 39,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that ages may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "age"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 111,
+                "end_idx": 113,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter in my opinion. Consider adding the comma(s).",
+                "suggetions": [
+                    ",in"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 191,
+                "end_idx": 193,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun punishment in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "camiloko1989",
+    "num_words": 313,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "nonetheless",
+            "for instance",
+            "for example",
+            "in other words",
+            "instead",
+            "however",
+            "therefore",
+            "this",
+            "to begin",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "children",
+                "occurrences": [
+                    {
+                        "start_idx": 17,
+                        "end_idx": 25
+                    },
+                    {
+                        "start_idx": 356,
+                        "end_idx": 364
+                    },
+                    {
+                        "start_idx": 376,
+                        "end_idx": 384
+                    },
+                    {
+                        "start_idx": 907,
+                        "end_idx": 915
+                    },
+                    {
+                        "start_idx": 1049,
+                        "end_idx": 1057
+                    },
+                    {
+                        "start_idx": 1228,
+                        "end_idx": 1236
+                    },
+                    {
+                        "start_idx": 1665,
+                        "end_idx": 1673
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-07-14T03:35:21.075Z"
+}

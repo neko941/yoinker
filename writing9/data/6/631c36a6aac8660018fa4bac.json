@@ -1,0 +1,155 @@
+{
+    "url": "https://writing9.com/text/631c36a6aac8660018fa4bac-in-todays-world-people-spend-a-lot-of-money-on",
+    "file": "data\\6\\631c36a6aac8660018fa4bac.json",
+    "topics": [
+        "world",
+        "people",
+        "money",
+        "appearance",
+        "happen",
+        "development"
+    ],
+    "question": "In today's world, people spend a lot of money on appearance because they want to look younger.Why does this happen?Do you think this is a positive or negative development?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There has an opinion among commentators that the writers who work in freight transport have to check and examined  different aspects annually in order to have a safe roads. I am strongly agreed with this standpoint and I will justify my reason in the paragraphs below.",
+        "To commence, cargo vehicles usually are bigger and heavier than normal cars and these types of cars accidents are a nightmare because they accidents will be made multitudinous decease and injuries  compared to normal cars. For instance, the collision of a trailer which transported oil ended with an explosion in some cases.",
+        "Moreover, good transport drivers drive along time in road and it is a kind of living for them. as a result of this condition, they try to engage the living activities to their jobs such as drinking alcohol or having a partner while driving. making these behaviours and accustomed to them could make an immense consequences. Therefore, they have to undergo several tests and retraining courses in order to update their knowledge and comprehension of their crucial task in the transportation system.",
+        "In addition, driving for a long time on the road is  monotonous. Especially for whom do it as the only way to make money for their family. An increasing number of them struggling with mental illness for a long time.by regular driving ,test government will be able to find drivers with chronic illnesses and take the right action which is proper for both system and individuals. such as  voluntary redundancy",
+        "Finally testing  good transport driver is vital for having a safe transport system and this action has to repeat regularly under government supervision."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 159,
+                "end_idx": 161,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun roads in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "cars",
+                "start_idx": 364,
+                "end_idx": 368,
+                "error": "Change the noun form",
+                "error_des": "Your sentence appears to use the incorrect form of cars. Consider changing it to singular.",
+                "suggetions": [
+                    "car"
+                ]
+            },
+            {
+                "word": "they",
+                "start_idx": 403,
+                "end_idx": 407,
+                "error": "Correct your spelling",
+                "error_des": "The word they doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "an immense consequences",
+                "start_idx": 893,
+                "end_idx": 916,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article an may not be required with the plural noun consequences in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "an immense consequence",
+                    "immense consequences"
+                ]
+            },
+            {
+                "word": "driver",
+                "start_idx": 1532,
+                "end_idx": 1538,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that driver may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "drivers"
+                ]
+            }
+        ]
+    },
+    "submitter": "behzad.tahmouresi",
+    "num_words": 273,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "for instance",
+            "as a result",
+            "moreover",
+            "in addition",
+            "finally",
+            "therefore",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "transport",
+                "occurrences": [
+                    {
+                        "start_idx": 77,
+                        "end_idx": 86
+                    },
+                    {
+                        "start_idx": 539,
+                        "end_idx": 548
+                    },
+                    {
+                        "start_idx": 609,
+                        "end_idx": 618
+                    },
+                    {
+                        "start_idx": 1069,
+                        "end_idx": 1078
+                    },
+                    {
+                        "start_idx": 1522,
+                        "end_idx": 1531
+                    },
+                    {
+                        "start_idx": 1566,
+                        "end_idx": 1575
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-10T07:06:53.993Z"
+}

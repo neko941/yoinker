@@ -1,0 +1,110 @@
+{
+    "url": "https://writing9.com/text/5d46d1e5a1554d0017e601e4",
+    "file": "data\\65\\5d46d1e5a1554d0017e601e4.json",
+    "topics": [
+        "countries",
+        "people",
+        "visit",
+        "art",
+        "galleries"
+    ],
+    "question": "In some countries, the number of people who visit art galleries are declining. What are the reasons for this? How can we solve this problem?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that art museums are becoming unpopular in some countries. In the following paragraphs, I shall present reasons to why this is happening, and some possible solutions available to solve the issue.",
+        "There are two primary reasons for art galleries becoming less popular. Firstly, some of these galleries are outdated. Visitors may find it boring and less interesting when these are nothing out of the ordinary. For instance, there are no new exhibits to check on, nor new themes or arrangements at the venue. Moreover, the majority of these art galleries have expensive admission fees. Although these fees may seem to be cheaper for foreign visitors, as for locals this is already expensive. Hence, some art museums show a decline in the number of visitors.",
+        "Nevertheless, these can be addressed by some possible ways available. One way is for the government to invest in funding art galleries. By adding more collections for people's viewing, it can encourage more visitors. New monthly  exhibits are a good example of this. Another solution is to provide visitors with local discounts and privileges. That is to say that local people should have at least 30 - 50% discounts every weekend or free admission fees for children under 12 years old.",
+        "In conclusion, the reasons behind the decreased in the number of visitors to art museums are due to outdated collections and unaffordable entrance fees, but this can be worked out when the government supports financially on adding more collections and provide discounted fees for local who tend to visit it."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "unaffordable",
+                "start_idx": 1380,
+                "end_idx": 1392,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            }
+        ]
+    },
+    "submitter": "rhuge.k.t",
+    "num_words": 258,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "for instance",
+            "hence",
+            "nevertheless",
+            "moreover",
+            "although",
+            "that is",
+            "this",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "art",
+                "occurrences": [
+                    {
+                        "start_idx": 16,
+                        "end_idx": 19
+                    },
+                    {
+                        "start_idx": 241,
+                        "end_idx": 244
+                    },
+                    {
+                        "start_idx": 548,
+                        "end_idx": 551
+                    },
+                    {
+                        "start_idx": 711,
+                        "end_idx": 714
+                    },
+                    {
+                        "start_idx": 886,
+                        "end_idx": 889
+                    },
+                    {
+                        "start_idx": 1329,
+                        "end_idx": 1332
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-04T12:39:01.951Z"
+}

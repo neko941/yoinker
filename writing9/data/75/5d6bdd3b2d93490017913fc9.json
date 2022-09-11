@@ -1,0 +1,151 @@
+{
+    "url": "https://writing9.com/text/5d6bdd3b2d93490017913fc9",
+    "file": "data\\75\\5d6bdd3b2d93490017913fc9.json",
+    "topics": [
+        "countries",
+        "rates",
+        "crimes",
+        "people",
+        "measures"
+    ],
+    "question": "In some countries, even though the rates of serious crimes are decreasing, people feel less safe than ever before. What do you think are the causes of this problem and what measures could be taken to solve it?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In recent times, many people are concerned about their safety despite the reduction in grave crimes. While there is a remedy to this issue, I believe the increase in unemployment and the lack of the government\u2019s interest in the security sector  accounts for this trend.",
+        "One of the main reasons for people having great fears about their safety is the rising unemployment in recent times. In other words, graduate who does not have a means of livelihood are likely to result in heinous activities to provide for their basic needs. The recent statistics from the Bureau of Economics (BOE) has illustrated an increase in unemployment in the last three years, if this trend remains the same, these unemployed graduates might be left with no choice other than to involve themselves in criminal activities which would impose great fear in the mind of the rest of the people. Another reason is the government\u2019s lackadaisical attitude towards the security arm of the nation. As the human population continues to increase, it is expected that the necessary manpower and equipment needed to prevent crime increases as well. However, this does not seem to be the case, especially in many Western African countries where we have fewer security personnel and the little ones either do not have the proper technical know-how or do not possess an up-to-date equipment required to combat crimes. These  problems have reduced the level of confidence the citizens have in regards to their safety.",
+        "In order to solve this menace, the government should provide employment opportunities for its citizens. This could be done by providing soft loans and grants for the unemployed graduates with excellent business plans and also encouraging them to go into farming. To illustrate this, South Africa was able to reduce crime rates with a new policy called \u201czero poverty\u201d. This policy involved empowering graduates by educating them on the importance of fishing and granting them soft loans. As a result of this, the unemployment and crime rate reduced significantly. Another solution that can be inculcated is that government, whose primary responsibility is to protect its citizens, should invest in the armed forces. This could be done by employing capable security personnel, organising symposiums and providing them with the latest equipment in preventing crimes. With the aforementioned solutions, people would feel safer.",
+        "",
+        "In conclusion, although people fear for their safety, the issue can be solved through the government tackling unemployment issues and restructuring its armed forces."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "have in regards",
+                "start_idx": 1446,
+                "end_idx": 1461,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "regard in",
+                    "have in regards"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 409,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "also",
+            "as a result",
+            "in other words",
+            "although",
+            "however",
+            "this",
+            "last"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "unemployment",
+                "occurrences": [
+                    {
+                        "start_idx": 166,
+                        "end_idx": 178
+                    },
+                    {
+                        "start_idx": 357,
+                        "end_idx": 369
+                    },
+                    {
+                        "start_idx": 617,
+                        "end_idx": 629
+                    },
+                    {
+                        "start_idx": 1990,
+                        "end_idx": 2002
+                    },
+                    {
+                        "start_idx": 2513,
+                        "end_idx": 2525
+                    }
+                ]
+            },
+            {
+                "word": "safety",
+                "occurrences": [
+                    {
+                        "start_idx": 55,
+                        "end_idx": 61
+                    },
+                    {
+                        "start_idx": 336,
+                        "end_idx": 342
+                    },
+                    {
+                        "start_idx": 1470,
+                        "end_idx": 1476
+                    },
+                    {
+                        "start_idx": 2449,
+                        "end_idx": 2455
+                    }
+                ]
+            },
+            {
+                "word": "security",
+                "occurrences": [
+                    {
+                        "start_idx": 228,
+                        "end_idx": 236
+                    },
+                    {
+                        "start_idx": 938,
+                        "end_idx": 946
+                    },
+                    {
+                        "start_idx": 1222,
+                        "end_idx": 1230
+                    },
+                    {
+                        "start_idx": 2233,
+                        "end_idx": 2241
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-01T15:01:15.180Z"
+}

@@ -1,0 +1,249 @@
+{
+    "url": "https://writing9.com/text/5ee8c0429f3c5b001801460b",
+    "file": "data\\6\\5ee8c0429f3c5b001801460b.json",
+    "topics": [
+        "people",
+        "city",
+        "cities"
+    ],
+    "question": "Some people say that vertical city is best where people can live, while others say that horizontal cities are better. Discuss both the views and give your opinion.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "According to some people's preferences, the main reason for being successful in career is related to tertiary education. However, their opponents opt for choosing job after graduating the high school. The former thought is more sensible for me because of possessing enough chance to be recruited.",
+        "More and more people tend to set up jobs for themselves just after finishing their studies at high school. May be they are considering only money related sides in mind ,instead of continuing their academic life. It can bring more money for them so as to owning multi-flate houses or wealthy cars. It has advantegous side , being  more independent and  becoming the breadwinner of their family for instance. Moreover, they are highly likely to increase their experience. The eldest child in family is prone to pursue this type of career.",
+        "When it comes to people who chose academic path they are likely to possess flourishing future. Because in well- developed countries commercial companies employ only well-educated and qualified job seekers for the managerial duties. Such group of people can be promoted for their enthusiasm and productivity in their field, I guess. Furthermore, there are always higher level of competition in job market , so most of employees who are lacking some academic strategies correlated to their job will probably left their places for others, I think. Students, who have finished university or college studies with high marks as a foreigner recruited by \"ZTE\" company  because of insufficient number of well- educated native student in China 2012.",
+        "To conclude, both of way can be true for their owners because of needs or their willing to continue tertiary education. In my view, it will be smart choice."
+    ],
+    "errors": {
+        "num_error": "15",
+        "error_list": [
+            {
+                "word": "job",
+                "start_idx": 163,
+                "end_idx": 166,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a job"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 464,
+                "end_idx": 466,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "multi",
+                "start_idx": 558,
+                "end_idx": 563,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a multi"
+                ]
+            },
+            {
+                "word": "flate",
+                "start_idx": 564,
+                "end_idx": 569,
+                "error": "having a surface without slope, tilt in which no part is higher or lower than another",
+                "error_des": "",
+                "suggetions": [
+                    "flat",
+                    "float"
+                ]
+            },
+            {
+                "word": "advantegous",
+                "start_idx": 601,
+                "end_idx": 612,
+                "error": "giving an advantage",
+                "error_des": "",
+                "suggetions": [
+                    "advantageous",
+                    "advantages"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 617,
+                "end_idx": 619,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "academic path",
+                "start_idx": 868,
+                "end_idx": 881,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the academic path",
+                    "an academic path"
+                ]
+            },
+            {
+                "word": "higher level",
+                "start_idx": 1196,
+                "end_idx": 1208,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a higher level"
+                ]
+            },
+            {
+                "word": "job market",
+                "start_idx": 1227,
+                "end_idx": 1237,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the job market"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 1237,
+                "end_idx": 1239,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "most of employees who",
+                "start_idx": 1243,
+                "end_idx": 1264,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "most employees who"
+                ]
+            },
+            {
+                "word": "left",
+                "start_idx": 1340,
+                "end_idx": 1344,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "leave"
+                ]
+            },
+            {
+                "word": "needs",
+                "start_idx": 1640,
+                "end_idx": 1645,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the needs"
+                ]
+            },
+            {
+                "word": "their",
+                "start_idx": 1649,
+                "end_idx": 1654,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "they're"
+                ]
+            },
+            {
+                "word": "smart choice",
+                "start_idx": 1718,
+                "end_idx": 1730,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a smart choice",
+                    "the smart choice"
+                ]
+            }
+        ]
+    },
+    "submitter": "Jakhgir",
+    "num_words": 282,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "this",
+            "furthermore",
+            "moreover",
+            "instead",
+            "however",
+            "for instance",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "job",
+                "occurrences": [
+                    {
+                        "start_idx": 163,
+                        "end_idx": 166
+                    },
+                    {
+                        "start_idx": 333,
+                        "end_idx": 336
+                    },
+                    {
+                        "start_idx": 1027,
+                        "end_idx": 1030
+                    },
+                    {
+                        "start_idx": 1227,
+                        "end_idx": 1230
+                    },
+                    {
+                        "start_idx": 1322,
+                        "end_idx": 1325
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-06-16T12:51:19.429Z"
+}

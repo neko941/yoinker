@@ -1,0 +1,130 @@
+{
+    "url": "https://writing9.com/text/5e15068319e4bf0018a8b5b1",
+    "file": "data\\7\\5e15068319e4bf0018a8b5b1.json",
+    "topics": [
+        "people",
+        "punishments",
+        "type",
+        "crime",
+        "circumstances",
+        "motivation",
+        "account",
+        "punishment"
+    ],
+    "question": "Some people believe that there should be fixed punishments for each type of crime. Others, however, argue that the circumstances of an individual crime, and the motivation for committing it, should be taken into account when deciding on the punishment. \n\nDiscuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The rate at which individuals indulge in various social vices is quite alarming and this has led to some people insisting that there should be constant consequences for each kind of mischief one is involved in, while others argue that factors such as  the prevailing situation and the enthusiasm for carrying out such should be considered alongside. In my essay, I will discuss both views and state my opinion.",
+        "Establishing fixed penalties for any crime committed will help cut down the height at which social vices have reached and citizens will be cautious about engaging in crime. For instance, when one use guns and knives to forcefully obtain money from another, he or she when caught, should be locked up in jail for a year. In this situation, before an individual decides to go into robbery, he or she will have to think about it twice.",
+        "On the other hand, if the government enacts policies against crime involvement and putting into consideration variables such as the circumstances and motivation for committing it, it will further help to wipe out vices from the society. Take for example, the two criminals of which both stole money from the bank and were caught. When interviewed, one says he went into robbery because he wants to save his mother who is suffering from cancer while the other person went stealing because he had no food to eat. Weighing both circumstances, the punishment of the former will be lighter than that of the latter.",
+        "To conclude, both fixed punishments and considering the circumstances around such crime will help cut down the rate of crime"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "into robbery",
+                "start_idx": 1212,
+                "end_idx": 1224,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "into a robbery"
+                ]
+            }
+        ]
+    },
+    "submitter": "obiomaokobia1995",
+    "num_words": 269,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "on the other hand",
+            "for instance",
+            "for example",
+            "further",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "both",
+                "occurrences": [
+                    {
+                        "start_idx": 378,
+                        "end_idx": 382
+                    },
+                    {
+                        "start_idx": 1126,
+                        "end_idx": 1130
+                    },
+                    {
+                        "start_idx": 1364,
+                        "end_idx": 1368
+                    },
+                    {
+                        "start_idx": 1467,
+                        "end_idx": 1471
+                    }
+                ]
+            },
+            {
+                "word": "crime",
+                "occurrences": [
+                    {
+                        "start_idx": 448,
+                        "end_idx": 453
+                    },
+                    {
+                        "start_idx": 577,
+                        "end_idx": 582
+                    },
+                    {
+                        "start_idx": 905,
+                        "end_idx": 910
+                    },
+                    {
+                        "start_idx": 1536,
+                        "end_idx": 1541
+                    },
+                    {
+                        "start_idx": 1573,
+                        "end_idx": 1578
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-01-07T22:30:27.577Z"
+}

@@ -1,0 +1,199 @@
+{
+    "url": "https://writing9.com/text/5f3e9429b66d150018c2f14b-you-are-doing-an-evening-coursewrite-a-letter-to-the",
+    "file": "data\\6\\5f3e9429b66d150018c2f14b.json",
+    "topics": [
+        "course",
+        "school",
+        "suggestions"
+    ],
+    "question": "You are doing an evening course.Write a letter to the principal of your school and explain that the course that you are taking is slightly different in the way it is delivered from what the school offered.\nProvide the details of the course\nExplain what the problem is\nGive some suggestions to fix the problem",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I am writing this letter to express my dissatisfaction with an evening course which is being delivered in the school premises.",
+        "Actually, Sir, a seminar was conducted in the school campus to enhance awareness among the students regarding the extra-curricular activities, such as cooking.I took participation in a course of South Indian cooking.Because I urge to learn the art of their cookery skills.",
+        "Let me explain in detail the situation.First of all, when I attended these classes, our teacher started teaching North Indian food, and as a result, when I asked about the description of the course.She mentioned that it would be taught on the last weekend.However, I have already learnt these skills from my mother and grandmother who have an excellent culinary skills.",
+        "I would like to suggest you to transfer me to another course, which is completely based on the South Indian cuisines because I wish to acquire methods of preparing Idli, Dokla, and many more.If it would not be possible, then please reimburse my course fee.",
+        "Hoping for a considerable action in this regard.",
+        "Yours faithfully,",
+        "Gurpreet"
+    ],
+    "errors": {
+        "num_error": "10",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 114,
+                "end_idx": 116,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 177,
+                "end_idx": 179,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 248,
+                "end_idx": 252,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "participation",
+                "start_idx": 304,
+                "end_idx": 317,
+                "error": "Replace the word",
+                "error_des": "The word participation doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "participated"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 330,
+                "end_idx": 332,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "on ",
+                "start_idx": 647,
+                "end_idx": 650,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "an excellent culinary skills",
+                "start_idx": 751,
+                "end_idx": 779,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article an may not be required with the plural noun skills in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "excellent culinary skills",
+                    "an excellent culinary skill"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 809,
+                "end_idx": 812,
+                "error": "Remove the particle",
+                "error_des": "The verb transfer appears to be in the subjunctive mood. Consider removing the particle to.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "Dokla",
+                "start_idx": 951,
+                "end_idx": 956,
+                "error": "Correct your spelling",
+                "error_des": "The word Dokla is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "Dhokla"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 1049,
+                "end_idx": 1051,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "kajalmaan.16",
+    "num_words": 182,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "then",
+            "as a result",
+            "however",
+            "this",
+            "last",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "course",
+                "occurrences": [
+                    {
+                        "start_idx": 81,
+                        "end_idx": 87
+                    },
+                    {
+                        "start_idx": 322,
+                        "end_idx": 328
+                    },
+                    {
+                        "start_idx": 601,
+                        "end_idx": 607
+                    },
+                    {
+                        "start_idx": 834,
+                        "end_idx": 840
+                    },
+                    {
+                        "start_idx": 1025,
+                        "end_idx": 1031
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-14T12:25:22.269Z"
+}

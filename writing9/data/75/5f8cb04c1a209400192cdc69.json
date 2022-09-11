@@ -1,0 +1,154 @@
+{
+    "url": "https://writing9.com/text/5f8cb04c1a209400192cdc69-more-and-more-companies-are-allowing-employees-to-work-from",
+    "file": "data\\75\\5f8cb04c1a209400192cdc69.json",
+    "topics": [
+        "companies",
+        "employees",
+        "work",
+        "home",
+        "development"
+    ],
+    "question": "More and more companies are allowing employees to work from home. Do you think this is a positive or negative development?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "This Covid-19 pandemic situation has changed the world in uncountable ways. One of them is how can we keep working when there is no chance to get to the workplace? The answer is companies can offer some sort of ways that employees can work from anywhere. In my point of view, work from home or anywhere is a beneficial development for workers and companies, too.",
+        "To begin with, when companies are prompting with a remote option for employees, it brings various benefits onboard for the employees. The primary and foremost advantage is family time. While doing a emote job, employees have a chance to see their children in front of their eyes, which can help to maintain a strong relationship bond between parents and child. One more positive impact of mobile work is an employee can feel relaxed at home compared to the workplace. The surrounding of work environment plays a vital role in work\u2019s productivity. For example, if a software developer stuck at some difficult error, he can go out for open-air and maybe can think of a solution. Therefore, by doing flexible work, one can balance his/her personal and professional life easily.",
+        "Moreover, the company itself has a number of pros by taking a remote work into the action. Workplaces are always been expensive from ages, the company can cut out the cost of workplace building by being fully remote. On top of that, companies can reduce their pay scale as employees do not have extra expenses on their list such as travel expense, food for lunch, etc. Thus, companies can profit more by cutting down the cost of building and salary.",
+        "In conclusion, I must say if companies are able to provide remote work option to their employees then they should think of it. It brings fun and productivity with the work and the company can make more money."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "w",
+                "start_idx": 851,
+                "end_idx": 852,
+                "error": "Add an article",
+                "error_des": "It appears that an article is missing before the word work. Consider adding the article.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 1199,
+                "end_idx": 1201,
+                "error": "Remove the article",
+                "error_des": "It appears that a is unnecessary in this context. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "jinkaldudhat",
+    "num_words": 312,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "then",
+            "for example",
+            "moreover",
+            "therefore",
+            "this",
+            "to begin",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 107,
+                        "end_idx": 111
+                    },
+                    {
+                        "start_idx": 153,
+                        "end_idx": 157
+                    },
+                    {
+                        "start_idx": 235,
+                        "end_idx": 239
+                    },
+                    {
+                        "start_idx": 276,
+                        "end_idx": 280
+                    },
+                    {
+                        "start_idx": 335,
+                        "end_idx": 339
+                    },
+                    {
+                        "start_idx": 759,
+                        "end_idx": 763
+                    },
+                    {
+                        "start_idx": 820,
+                        "end_idx": 824
+                    },
+                    {
+                        "start_idx": 850,
+                        "end_idx": 854
+                    },
+                    {
+                        "start_idx": 889,
+                        "end_idx": 893
+                    },
+                    {
+                        "start_idx": 1069,
+                        "end_idx": 1073
+                    },
+                    {
+                        "start_idx": 1207,
+                        "end_idx": 1211
+                    },
+                    {
+                        "start_idx": 1313,
+                        "end_idx": 1317
+                    },
+                    {
+                        "start_idx": 1654,
+                        "end_idx": 1658
+                    },
+                    {
+                        "start_idx": 1755,
+                        "end_idx": 1759
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-10-19T14:39:14.858Z"
+}

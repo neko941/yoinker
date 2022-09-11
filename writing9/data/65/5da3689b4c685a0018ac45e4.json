@@ -1,0 +1,135 @@
+{
+    "url": "https://writing9.com/text/5da3689b4c685a0018ac45e4",
+    "file": "data\\65\\5da3689b4c685a0018ac45e4.json",
+    "topics": [
+        "animals",
+        "verge",
+        "extinction",
+        "list"
+    ],
+    "question": "More and more wild animals are on the verge of extinction and others are on the endangered list. What are the reasons for this? What can be done to solve this problem?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 4.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many wild animals are on the edge of extinction and others are on the endangered list. This essay first explains how occupying lands for cultivation and excessive hunting for luxury products are the main causes and secondly, discusses how these issues can be tackled by higher authorities promoting strict rules on occupying the land for cultivation purposes and spreading awareness about these endangered species to the public.",
+        "There are many reasons why wild animals are getting extinct. Firstly, occupying forest lands for farming such as growing poultry and cultivating food products are diminishing the homelands of wild animals. As a result, this is causing them to flee away from their sources of food and water which is resulting in being extinct. Secondly, people are over-hunting specific rare wild animals for producing luxury items such as woollen clothes and designer wearables. In other words, irrespective of the fact that they are getting extinct the methods and demands are still rising over the time period. For instance, a recent article in The Times has stated that there has been a whopping 67% decrease in the rate of polar bears in the Northern Canadian provinces because they are being hunted for their skin in return to produce woolen jackets.",
+        "These problems can be tackled by the government by opposing strict rules against limiting the lands for farming and cultivation where the majority of wild animals are living. This solution can tackle the issue of occupying less land near the wilderness. In addition to that, spreading awareness to the public about the extinction of animals and how this will affect our environment should be telecasted in news channels and articles. By implementing this, people will look for alternative sources of fashion and wearables which results in fewer killings of endangered species for luxury purposes. For instance, India had started a campaign called \u201cSave the tigers\u201d and it educated people about the problems human beings will face without this animal and as a result, it had decreased the hunting of these species by 87%. Therefore, it is patently clear that implementing these solutions is the key to tackle issues of wild animal extinction.",
+        "In conclusion, the problems of wild animal extinction such as occupying lands and hunting them can be tackled by the government opposing strict rules regarding their limitations and educating people about their importance in our environment."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "are diminishing",
+                "start_idx": 589,
+                "end_idx": 604,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is diminishing"
+                ]
+            },
+            {
+                "word": "skin",
+                "start_idx": 1228,
+                "end_idx": 1232,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "skins"
+                ]
+            },
+            {
+                "word": "woolen",
+                "start_idx": 1254,
+                "end_idx": 1260,
+                "error": "a fabric made from the hair of sheep",
+                "error_des": "",
+                "suggetions": [
+                    "woollen"
+                ]
+            },
+            {
+                "word": "extinction ",
+                "start_idx": 2257,
+                "end_idx": 2268,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "extinction, such"
+                ]
+            }
+        ]
+    },
+    "submitter": "avpraneeth93",
+    "num_words": 394,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "for instance",
+            "as a result",
+            "first",
+            "in other words",
+            "in addition",
+            "secondly",
+            "therefore",
+            "this",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "extinction",
+                "occurrences": [
+                    {
+                        "start_idx": 37,
+                        "end_idx": 47
+                    },
+                    {
+                        "start_idx": 1588,
+                        "end_idx": 1598
+                    },
+                    {
+                        "start_idx": 2199,
+                        "end_idx": 2209
+                    },
+                    {
+                        "start_idx": 2254,
+                        "end_idx": 2264
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-13T18:10:35.663Z"
+}

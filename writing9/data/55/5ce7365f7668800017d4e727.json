@@ -1,0 +1,182 @@
+{
+    "url": "https://writing9.com/text/5ce7365f7668800017d4e727",
+    "file": "data\\55\\5ce7365f7668800017d4e727.json",
+    "topics": [
+        "people",
+        "cities",
+        "face",
+        "life",
+        "government",
+        "move",
+        "towns"
+    ],
+    "question": "People living in large cities have to face many problems in everyday life. What are those problems? Should the government encourage people to move to regional towns?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is often argued that people have to deal with many issues when living in big cities. Two main problems are air pollution and petty crime because they really affect the quality of people\u2019s lives. To my mind, those people should be encouraged to move to regional areas.",
+        "",
+        "The increase in the amount of polluted air recently has created huge concerns of people in big cities. Due to traffic tram, motored engines such as bikes and cars are likely to release more smoke and gas which decrease the air quality. As a result, people feel unpleasant and find hardly to breath when participating in transportation. Moreover, they can easily get health problems such as lung diseases. Similarly, petty crime such as stealing phones or wallet, especially on the bus, is also a considerable issue that needs to be taken down. As a result, it makes residents feel insecure and it leads to a terrible issue about trust between the state and the citizens. Therefore, it eliminates the stability of the society.",
+        "To address with these problems, the government should find some way to attract people move to other towns. First of all, it definitely will reduce the number of vehicles in the cities, which improve the air quality and save people\u2019s time. Consequently, they can spend more time to recharge their batteries so they can feel more happier and more comfortable to work. Moreover, it is easier for government to manage the reasonable number of citizens so that they can prevent crime happening.",
+        "In conclusion, air pollution and petty crime certainly are well-known problems in big cities and there is no doubt that the government should encourage the citizens relocate to other areas to live."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "traffic tram",
+                "start_idx": 383,
+                "end_idx": 395,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "traffic, tram"
+                ]
+            },
+            {
+                "word": "transportation",
+                "start_idx": 593,
+                "end_idx": 607,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the transportation"
+                ]
+            },
+            {
+                "word": "with",
+                "start_idx": 1011,
+                "end_idx": 1015,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "move",
+                "start_idx": 1086,
+                "end_idx": 1090,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to move"
+                ]
+            },
+            {
+                "word": "more happier",
+                "start_idx": 1323,
+                "end_idx": 1335,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "happier"
+                ]
+            },
+            {
+                "word": "government",
+                "start_idx": 1393,
+                "end_idx": 1403,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the government"
+                ]
+            }
+        ]
+    },
+    "submitter": "Thanh",
+    "num_words": 285,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "as a result",
+            "consequently",
+            "similarly",
+            "moreover",
+            "therefore",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "crime",
+                "occurrences": [
+                    {
+                        "start_idx": 134,
+                        "end_idx": 139
+                    },
+                    {
+                        "start_idx": 694,
+                        "end_idx": 699
+                    },
+                    {
+                        "start_idx": 1471,
+                        "end_idx": 1476
+                    },
+                    {
+                        "start_idx": 1527,
+                        "end_idx": 1532
+                    }
+                ]
+            },
+            {
+                "word": "air",
+                "occurrences": [
+                    {
+                        "start_idx": 110,
+                        "end_idx": 113
+                    },
+                    {
+                        "start_idx": 311,
+                        "end_idx": 314
+                    },
+                    {
+                        "start_idx": 495,
+                        "end_idx": 498
+                    },
+                    {
+                        "start_idx": 1201,
+                        "end_idx": 1204
+                    },
+                    {
+                        "start_idx": 1503,
+                        "end_idx": 1506
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-24T00:10:07.000Z"
+}

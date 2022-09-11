@@ -1,0 +1,100 @@
+{
+    "url": "https://writing9.com/text/630351b60751a40019b4c9cb-many-students-find-it-difficult-to-focus-or-pay-attention",
+    "file": "data\\7\\630351b60751a40019b4c9cb.json",
+    "topics": [
+        "students",
+        "focus",
+        "attention",
+        "school"
+    ],
+    "question": "Many students find it difficult to focus or pay attention at school nowadays. What are the reasons for this? What can be done to solve this problem?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many students these days find it increasingly difficult to pay attention during lessons. In my opinion, this is partly a natural reaction that has been exacerbater by technology and the solutions lie in school reform.",
+        "Students struggle to stay engaged both due to a natural predisposition and the pervasive impact of screen time. Students throughout history have always wanted to escape their school lessons. This is because learning is difficult and provides little pleasure itself relative to both passive and active pastimes like hanging out with friends, watching TV, listening to music, or playing sports. Moreover, the advent of the ubiquitous internet era and portable devices such as smartphones has had an exponential effect on attention spans and diversionary priorities. Most students today are addicted to short videos and posts on social media networks and therefore struggle to follow the intricate arguments of lengthy lectures and extended readings.",
+        "On a small scale, individuals can remedy these problems through sheer willpower but for broader change schools must play an active role. The most immediate fix would be to ban phones. This is difficult since phones serve practical purposes such as allowing students to call their parents or book a ride home, but they could be taken at the beginning of the day and returned when school finishes. Another step schools could take would be to modernise the curriculum and account for reduced attention spans. Lessons could be shorter and could include more interactivity in order to stimulate learning. rather than the passive learning environment that has led to daydreaming students for generations.",
+        "In conclusion, although this trend is likely an irreversible part of human nature and progress, schools can implement changes. to curb its effects. It is important for parents and governments to be supportive of such reforms as well."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "exacerbater",
+                "start_idx": 152,
+                "end_idx": 163,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want exacerbater to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "exacerbated"
+                ]
+            }
+        ]
+    },
+    "submitter": "kars99",
+    "num_words": 299,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "moreover",
+            "although",
+            "therefore",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 5,
+                        "end_idx": 13
+                    },
+                    {
+                        "start_idx": 787,
+                        "end_idx": 795
+                    },
+                    {
+                        "start_idx": 1223,
+                        "end_idx": 1231
+                    },
+                    {
+                        "start_idx": 1639,
+                        "end_idx": 1647
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-22T09:51:52.011Z"
+}

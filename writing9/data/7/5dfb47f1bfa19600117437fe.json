@@ -1,0 +1,141 @@
+{
+    "url": "https://writing9.com/text/5dfb47f1bfa19600117437fe-you-have-seen-an-advertisement-for-part-time-job-at-a",
+    "file": "data\\7\\5dfb47f1bfa19600117437fe.json",
+    "topics": [
+        "advertisement",
+        "job",
+        "restaurant",
+        "manager"
+    ],
+    "question": "You have seen an advertisement for part-time job at a restaurant and want to apply for it.\n\nWrite a letter to the manager. In your letter:\ndescribe your experience\ntell him why you are interested in the job\nsay why you think you would be suitable for the job",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "My name is Valli, and I came across your recent advertisement regarding the position available for an assistant manager to work in the evening hours. So, I am writing to apply for this part-time job in your restaurant.",
+        "Certainly, I have been pursuing my masters in business administration because of my passion towards management field. Moreover, I have done my Diploma in hotel management. This gives me an adequate basic and informed knowledge about certain aspects of the hotel field.",
+        "Since, the working hours are after post lunch, I could be able to work after my study hours. In addition to that, this job would provide me with a certain practical experience, it would be highly helpful in studies as well as financial aspects.",
+        "On the whole, being an epitome of sincerity and diligence, I would be an efficient candidate for this respective position. Finally, nevertheless, I have a decent career qualification which I could use in order to enhance your restaurant's reputation.",
+        "I am looking forward to your reply and perhaps meeting for an interview.",
+        "Your sincerely,",
+        "Valli"
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "towards",
+                "start_idx": 323,
+                "end_idx": 330,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "management",
+                "start_idx": 331,
+                "end_idx": 341,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the management"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 506,
+                "end_idx": 507,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction Since. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "post lunch",
+                "start_idx": 536,
+                "end_idx": 546,
+                "error": "Add a hyphen",
+                "error_des": "It appears that post lunch is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "post-lunch"
+                ]
+            },
+            {
+                "word": "an",
+                "start_idx": 767,
+                "end_idx": 769,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1074,
+                "end_idx": 1074,
+                "error": "Correct the word",
+                "error_des": "It appears that the word Your is not the correct form of the possessive pronoun. Consider changing it.",
+                "suggetions": [
+                    "Yours"
+                ]
+            },
+            {
+                "word": "Your",
+                "start_idx": 1074,
+                "end_idx": 1078,
+                "error": "Correct your spelling",
+                "error_des": "The word Your doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "Yours"
+                ]
+            }
+        ]
+    },
+    "submitter": "valliananthi2101",
+    "num_words": 181,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "nevertheless",
+            "moreover",
+            "in addition",
+            "finally",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T18:06:40.635Z"
+}

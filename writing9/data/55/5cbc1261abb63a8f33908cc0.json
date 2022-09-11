@@ -1,0 +1,312 @@
+{
+    "url": "https://writing9.com/text/5cbc1261abb63a8f33908cc0",
+    "file": "data\\55\\5cbc1261abb63a8f33908cc0.json",
+    "topics": [
+        "people",
+        "planes",
+        "mode",
+        "transportation",
+        "cities",
+        "trains"
+    ],
+    "question": "Some people think planes are the better mode of transportation between cities, while others believe trains are better.\nDiscuss both the views and give your opinion.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some say that planes are better when travelling between cities while others argue that trains are the better ones. Though ticket fare in trains are cheaper, I believe that planes help people to reach the destination in short span of time.",
+        "On the one hand, it is believed that ticket cost in trains are economical and exceptionally low compared to airplanes. As the ticket cost in trains includes only the basic fare unlike the fare including of taxes such as goods and services taxes and other amenities charges to be paid in planes. For instance, the average train fare for a passenger between Chennai and Delhi is around 900 INR, whereas the same costs to around 15,000 INR in airplanes. However, I believe that though they costs low, planes are considered as fastest to travel between cities.",
+        "On the other hand, considering the time taken to travel between the cities, planes are always preferred as they travel at high speed. This is because of the speed they travel, they reach longer distance in less time compared to trains. For instance, the time taken to reach Chennai to Delhi in airplane is less than 3 hours whereas the same would take nearly 3 days when travelled in train. I am of the view that planes reduces people\u2019s travel time enabling them to reach longer distance in less time.",
+        "To conclude, while trains allow people to travel between cities in low cost, I believe that planes are considerably faster and saves people\u2019s travel time to a great extent."
+    ],
+    "errors": {
+        "num_error": "15",
+        "error_list": [
+            {
+                "word": "are",
+                "start_idx": 145,
+                "end_idx": 148,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 299,
+                "end_idx": 302,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "economical",
+                "start_idx": 303,
+                "end_idx": 313,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "economically"
+                ]
+            },
+            {
+                "word": "airplanes",
+                "start_idx": 348,
+                "end_idx": 357,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "fare including",
+                "start_idx": 428,
+                "end_idx": 442,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "fare, including"
+                ]
+            },
+            {
+                "word": "amenities",
+                "start_idx": 495,
+                "end_idx": 504,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "amenity"
+                ]
+            },
+            {
+                "word": "airplanes",
+                "start_idx": 680,
+                "end_idx": 689,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "they",
+                "start_idx": 722,
+                "end_idx": 726,
+                "error": "of them or themselves",
+                "error_des": "",
+                "suggetions": [
+                    "their"
+                ]
+            },
+            {
+                "word": "fastest",
+                "start_idx": 763,
+                "end_idx": 770,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "fast"
+                ]
+            },
+            {
+                "word": "airplane",
+                "start_idx": 1091,
+                "end_idx": 1099,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an airplane"
+                ]
+            },
+            {
+                "word": "hours whereas",
+                "start_idx": 1115,
+                "end_idx": 1128,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "hours, whereas"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 1178,
+                "end_idx": 1180,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "by"
+                ]
+            },
+            {
+                "word": "reduces",
+                "start_idx": 1217,
+                "end_idx": 1224,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "reduce"
+                ]
+            },
+            {
+                "word": "time enabling",
+                "start_idx": 1241,
+                "end_idx": 1254,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "time, enabling"
+                ]
+            },
+            {
+                "word": "distance",
+                "start_idx": 1276,
+                "end_idx": 1284,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "distances"
+                ]
+            }
+        ]
+    },
+    "submitter": "sivaelango2390",
+    "num_words": 256,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "on the other hand",
+            "this",
+            "however",
+            "for instance",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "travel",
+                "occurrences": [
+                    {
+                        "start_idx": 37,
+                        "end_idx": 43
+                    },
+                    {
+                        "start_idx": 773,
+                        "end_idx": 779
+                    },
+                    {
+                        "start_idx": 845,
+                        "end_idx": 851
+                    },
+                    {
+                        "start_idx": 908,
+                        "end_idx": 914
+                    },
+                    {
+                        "start_idx": 964,
+                        "end_idx": 970
+                    },
+                    {
+                        "start_idx": 1167,
+                        "end_idx": 1173
+                    },
+                    {
+                        "start_idx": 1233,
+                        "end_idx": 1239
+                    },
+                    {
+                        "start_idx": 1340,
+                        "end_idx": 1346
+                    },
+                    {
+                        "start_idx": 1440,
+                        "end_idx": 1446
+                    }
+                ]
+            },
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 233,
+                        "end_idx": 237
+                    },
+                    {
+                        "start_idx": 831,
+                        "end_idx": 835
+                    },
+                    {
+                        "start_idx": 1007,
+                        "end_idx": 1011
+                    },
+                    {
+                        "start_idx": 1050,
+                        "end_idx": 1054
+                    },
+                    {
+                        "start_idx": 1240,
+                        "end_idx": 1244
+                    },
+                    {
+                        "start_idx": 1292,
+                        "end_idx": 1296
+                    },
+                    {
+                        "start_idx": 1447,
+                        "end_idx": 1451
+                    }
+                ]
+            },
+            {
+                "word": "fare",
+                "occurrences": [
+                    {
+                        "start_idx": 129,
+                        "end_idx": 133
+                    },
+                    {
+                        "start_idx": 411,
+                        "end_idx": 415
+                    },
+                    {
+                        "start_idx": 427,
+                        "end_idx": 431
+                    },
+                    {
+                        "start_idx": 566,
+                        "end_idx": 570
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-21T06:49:05.000Z"
+}

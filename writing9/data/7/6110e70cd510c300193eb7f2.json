@@ -1,0 +1,105 @@
+{
+    "url": "https://writing9.com/text/6110e70cd510c300193eb7f2-most-large-companies-nowadays-operate-multinationally-to-what-extent-multinational",
+    "file": "data\\7\\6110e70cd510c300193eb7f2.json",
+    "topics": [
+        "companies",
+        "responsibility",
+        "communities"
+    ],
+    "question": "Most large companies nowadays operate multinationally. To what extent multinational companies have responsibility toward local communities in which they operate?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that, in the era of globalisation, many big corporations operate outside the borders of the country. While I agree that companies should maximise their profits, they must not be at the expense of the welfare of local communities where firms are based.",
+        "From a social perspective, there are some reasons why companies should have public responsibilities. Firstly, these enterprises should provide job opportunities for local people and ensure that workers and their families have adequate salaries and access to health care. The horrors of the industrial revolution must be avoided - child labour, starvation wages and poor working conditions. Secondly, it is the interest of companies, as skilled workers are more productive and alert about working conditions. An educated and skilled workforce are more flexible, since they can switch from one task to another quickly.",
+        "From an environmental perspective, factory production has resulted in some serious environmental problems. The first reason is that   the irresponsible disposal of chemical waste into rivers and oil extractions have polluted water resources on which local communities are dependent to survive. In addition, oil spills devastate the fishing industry in some areas. Thus, multinational firms should allocate resources to install waste treatment systems to solve wastes before discharging them into the sea. Another reason is that unstainable logging of timber for construction has resulted in the shortage of woods for buildings in the future and resultant soil erosions. Therefore, companies should give more jobs to local people and contribute to improving the quality of life in areas where they operate.",
+        "In conclusion, Although earning profits is the most fundamental principle, companies have a moral duty and interest in having social responsibilities."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 822,
+                "end_idx": 823,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker since. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "nhatrangthanyeu2013",
+    "num_words": 279,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "thus",
+            "firstly",
+            "although",
+            "in addition",
+            "therefore",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "companies",
+                "occurrences": [
+                    {
+                        "start_idx": 131,
+                        "end_idx": 140
+                    },
+                    {
+                        "start_idx": 317,
+                        "end_idx": 326
+                    },
+                    {
+                        "start_idx": 685,
+                        "end_idx": 694
+                    },
+                    {
+                        "start_idx": 1561,
+                        "end_idx": 1570
+                    },
+                    {
+                        "start_idx": 1761,
+                        "end_idx": 1770
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-08-09T08:29:25.358Z"
+}

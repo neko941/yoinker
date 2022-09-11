@@ -1,0 +1,115 @@
+{
+    "url": "https://writing9.com/text/5defabeebfa1960011703764",
+    "file": "data\\65\\5defabeebfa1960011703764.json",
+    "topics": [
+        "amount",
+        "traffic",
+        "cities",
+        "people",
+        "travel",
+        "home",
+        "work",
+        "education"
+    ],
+    "question": "The only way to reduce the amount of traffic in cities is by reducing the need for people to travel from home for work, education or shopping.\nTo what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Urbanization, the essential process of our modern world, gives many opportunities for people as well as causes issues related to space shortage. And traffic congestion is one of the biggest of these. Some people believe that movement demand reduction is the only solution to the problem. I do not agree with this opinion.",
+        "First of all, I am convinced that the people's need of travel is impossible to reduce, because the importance of being socialized is huge. Communication and building social networks help people to find a job, to make new friends, not to experience loneliness and merely to feel alive. Moreover, active lifestyle can prevent a number of diseases, such as heart diseases, hypertension, obesity and even depression.",
+        "On the other hand, to improve the situation relating to traffic jams in cities, government offers alternative ways, which I believe are more reasonable and human needs-oriented. For example, the mayor of Warsaw made all public transport free of charge to encourage citizens to use their private cars less. The instance of Oslo and London shows that increased fee for toll roads and paid parking in downtown reduces traffic. Some people practice car sharing, which sounds to be a wise idea, because it helps to save money on buying fuel, time on driving in turn, and decreases a number of vehicles on roads.",
+        "In conclusion, according to viewpoint of mine the limitation of human`s need for travelling does not work. There are implemented more suitable methods, which allow reducing traffic in cities, and leaving people the ability to be mobile."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "government",
+                "start_idx": 815,
+                "end_idx": 825,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the government"
+                ]
+            },
+            {
+                "word": "human`s need",
+                "start_idx": 1406,
+                "end_idx": 1418,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the human`s need"
+                ]
+            }
+        ]
+    },
+    "submitter": "laotzu40",
+    "num_words": 259,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "on the other hand",
+            "for example",
+            "moreover",
+            "this",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "traffic",
+                "occurrences": [
+                    {
+                        "start_idx": 149,
+                        "end_idx": 156
+                    },
+                    {
+                        "start_idx": 791,
+                        "end_idx": 798
+                    },
+                    {
+                        "start_idx": 1150,
+                        "end_idx": 1157
+                    },
+                    {
+                        "start_idx": 1515,
+                        "end_idx": 1522
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-12-10T14:30:06.237Z"
+}

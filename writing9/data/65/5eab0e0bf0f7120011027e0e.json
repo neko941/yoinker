@@ -1,0 +1,156 @@
+{
+    "url": "https://writing9.com/text/5eab0e0bf0f7120011027e0e",
+    "file": "data\\65\\5eab0e0bf0f7120011027e0e.json",
+    "topics": [
+        "people",
+        "money",
+        "happiness"
+    ],
+    "question": "Many people think that money promotes happiness. To what degree do you agree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Money is considered by many to be one of the most important contributing factors towards happiness. While I understand having material wealth could make one\u2019s life easier. However, there are also other factors that could bring joy and fulfilment.",
+        "Money could increase happiness when used to meet basic needs.(and health for people affected by poverty.) Money is a powerful universal tool that helps people access to health care, nutritious foods, and a home where people feel safe can improve mental and physical health and thus leading to increased happiness. Besides, for wealthy people, money makes them have more control over their life choices and have more freedom to say no to things they do not want to do. Being the boss of one\u2019s own life could bring a sense of security and satisfaction.",
+        "However, there are other factors contributing to happiness. Research shows that living a purposeful and meaningful life makes people feel happy. For example, volunteers who work around-the-clock during the coronavirus pandemic to save lives may be rewarded with only a little money, but helping people and doing the job they are good at, brings happiness and fulfilment. Furthermore, it is believed by many that exercise could bring short-term happiness. Exercise can release endorphins, which increase people\u2019s feelings of happiness, and it also helps people feel more confident or comfortable in one\u2019s own skin.",
+        "In conclusion, people could find happiness in money to an extent, but beyond that, people could also find happiness through other non-financial means, such as doing meaningful work or living a healthy lifestyle."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "and",
+                "start_idx": 309,
+                "end_idx": 312,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "And"
+                ]
+            },
+            {
+                "word": "coronavirus",
+                "start_idx": 1004,
+                "end_idx": 1015,
+                "error": "relating to or characteristic of carnivores",
+                "error_des": "",
+                "suggetions": [
+                    "carnivorous"
+                ]
+            }
+        ]
+    },
+    "submitter": "diandian.yuan",
+    "num_words": 259,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "thus",
+            "furthermore",
+            "for example",
+            "besides",
+            "however",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "happiness",
+                "occurrences": [
+                    {
+                        "start_idx": 89,
+                        "end_idx": 98
+                    },
+                    {
+                        "start_idx": 268,
+                        "end_idx": 277
+                    },
+                    {
+                        "start_idx": 550,
+                        "end_idx": 559
+                    },
+                    {
+                        "start_idx": 847,
+                        "end_idx": 856
+                    },
+                    {
+                        "start_idx": 1143,
+                        "end_idx": 1152
+                    },
+                    {
+                        "start_idx": 1242,
+                        "end_idx": 1251
+                    },
+                    {
+                        "start_idx": 1322,
+                        "end_idx": 1331
+                    },
+                    {
+                        "start_idx": 1445,
+                        "end_idx": 1454
+                    },
+                    {
+                        "start_idx": 1518,
+                        "end_idx": 1527
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 159,
+                        "end_idx": 163
+                    },
+                    {
+                        "start_idx": 636,
+                        "end_idx": 640
+                    },
+                    {
+                        "start_idx": 743,
+                        "end_idx": 747
+                    },
+                    {
+                        "start_idx": 913,
+                        "end_idx": 917
+                    },
+                    {
+                        "start_idx": 1613,
+                        "end_idx": 1617
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-04-30T17:42:35.879Z"
+}

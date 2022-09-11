@@ -1,0 +1,145 @@
+{
+    "url": "https://writing9.com/text/62b69015a21aef00182b6115-nowadays-parents-put-too-much-pressure-on-their-children-to",
+    "file": "data\\65\\62b69015a21aef00182b6115.json",
+    "topics": [
+        "parents",
+        "pressure",
+        "children",
+        "reason",
+        "development",
+        "explanation"
+    ],
+    "question": "Nowadays parents put too much pressure on their children to succeed. What is the reason for doing this? Is it a negative or positive development?Give your explanation using some relevant examples from your experience.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is perhaps human nature that parents always want their offspring to succeed. In contemporary society, this hope seems to have been magnified. In this essay, we will try to go through the reasons for this phenomenon.",
+        "Predominantly, never is the competition in the society that fierce and brutal in the eyes of parents. To armour their kids with the necessary skills which may be somewhat useful in the future, parents' have inevitably set high goals for their children.  Globalization is taking away tons of job opportunities from developed countries to the lower-cost developing countries, at a faster and faster pace. Strong labour unions as well as longer retirement ages have minimized the opportunities to get a decent job for young graduates. In order to stand out from the mass public, adolescents have to get flying colours in their studies, and plate some gold on their resume with various curricula as well. For example, a neighbour of mine forced his son to enrol in a private programming class, and he was only 12!",
+        "Additionally, income inequality in the society has grown unabatedly and this results in more rich people around and consequently more female bosses of such families are able to quit their jobs to become full-time moms. It is therefore not surprising that, these women are super enthusiastic about in enrolling lots of activities (or classes) for their kids, hoping to successfully raise a superman or a superwoman, to justify their sacrifice of career opportunities. The high hopes are of course perceived as pressure on the children. For example, a friend of mine, who grew up in a middle-class family, needed to learn the piano and dance at the age of six. Her mother did not go to work and had all the time to attend the lessons with her and checked all of her homework until she was 18.",
+        "In conclusion, the higher pressure imposed by parents is partly a result of the arduous competition ahead, and partly from the full-time moms who want to prove their sacrifices worthy. Despite the discernable difficult times children may encounter, I think letting children learn that life is realistic is not wrong, they will understand and appreciate this once they grow up."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 1283,
+                "end_idx": 1284,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction that. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "times",
+                "start_idx": 2039,
+                "end_idx": 2044,
+                "error": "Change to a genitive case",
+                "error_des": "It appears that the word times should use the genitive case. Consider changing the noun.",
+                "suggetions": [
+                    "time's",
+                    "times'"
+                ]
+            },
+            {
+                "word": "realistic",
+                "start_idx": 2113,
+                "end_idx": 2122,
+                "error": "Replace the word",
+                "error_des": "The word realistic doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "really"
+                ]
+            }
+        ]
+    },
+    "submitter": "ABC_XYZ",
+    "num_words": 371,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "consequently",
+            "for example",
+            "therefore",
+            "this",
+            "additionally",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "children",
+                "occurrences": [
+                    {
+                        "start_idx": 462,
+                        "end_idx": 470
+                    },
+                    {
+                        "start_idx": 1554,
+                        "end_idx": 1562
+                    },
+                    {
+                        "start_idx": 2045,
+                        "end_idx": 2053
+                    },
+                    {
+                        "start_idx": 2085,
+                        "end_idx": 2093
+                    }
+                ]
+            },
+            {
+                "word": "parents",
+                "occurrences": [
+                    {
+                        "start_idx": 32,
+                        "end_idx": 39
+                    },
+                    {
+                        "start_idx": 312,
+                        "end_idx": 319
+                    },
+                    {
+                        "start_idx": 412,
+                        "end_idx": 419
+                    },
+                    {
+                        "start_idx": 1866,
+                        "end_idx": 1873
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-25T04:41:21.542Z"
+}

@@ -1,0 +1,147 @@
+{
+    "url": "https://writing9.com/text/5d3b986121ee920017f53eea-you-have-a-full-time-job-and-you-are-also-doing",
+    "file": "data\\7\\5d3b986121ee920017f53eea.json",
+    "topics": [
+        "job",
+        "course",
+        "tutor",
+        "situation",
+        "time",
+        "action"
+    ],
+    "question": "You have a full-time job and you are also doing a part-time evening course. You now find that you cannot continue the course.\nWrite a letter to your tutor. In your letter\n\ndescribe the situation\nexplain why you cannot continue at this time\nsay what action you would like to take\nYou should write at least 150 words.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr Kaine,",
+        "I am a student of Microsoft Office Training (MST20) course in your institution. I am writing this letter to let you know that I would not be able to attend classes on 20th June onwards. I am hoping that you would allow me to continue the course with the next intake from October 2019.",
+        "I work with a telecom company as an assistant researcher and due to some recently assigned projects, my office demands more of my time. Besides, I have some strict deadlines ahead and to meet them, I will need to work a few extra hours each day. Also, I will travel to Australia at the beginning of July for some official tasks. All these new responsibilities in office force me to pause my course for the time being. However, I am willing to complete my course as it would be highly beneficial for my career.",
+        "Therefore I humbly request you to allow me to attend the next available batch. This would be helpful for me to manage my office work on the one hand and continue my course on the other hand.",
+        "I look forward to hearing from you soon.",
+        "Yours sincerely,",
+        "Namrata Jain"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "Microsoft",
+                "start_idx": 34,
+                "end_idx": 43,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the Microsoft"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 180,
+                "end_idx": 182,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "from"
+                ]
+            },
+            {
+                "word": "office",
+                "start_idx": 665,
+                "end_idx": 671,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the office"
+                ]
+            }
+        ]
+    },
+    "submitter": "Anu",
+    "num_words": 200,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the other hand",
+            "besides",
+            "however",
+            "next",
+            "therefore",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "course",
+                "occurrences": [
+                    {
+                        "start_idx": 67,
+                        "end_idx": 73
+                    },
+                    {
+                        "start_idx": 253,
+                        "end_idx": 259
+                    },
+                    {
+                        "start_idx": 691,
+                        "end_idx": 697
+                    },
+                    {
+                        "start_idx": 755,
+                        "end_idx": 761
+                    },
+                    {
+                        "start_idx": 975,
+                        "end_idx": 981
+                    }
+                ]
+            },
+            {
+                "word": "office",
+                "occurrences": [
+                    {
+                        "start_idx": 404,
+                        "end_idx": 410
+                    },
+                    {
+                        "start_idx": 663,
+                        "end_idx": 669
+                    },
+                    {
+                        "start_idx": 931,
+                        "end_idx": 937
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T16:16:13.843Z"
+}

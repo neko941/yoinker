@@ -1,0 +1,189 @@
+{
+    "url": "https://writing9.com/text/5cfe0f8cbde8cf001785a4fc-write-a-letter-to-your-local-municipality-about-the-difficulties",
+    "file": "data\\65\\5cfe0f8cbde8cf001785a4fc.json",
+    "topics": [
+        "municipality",
+        "difficulties",
+        "dust",
+        "bins",
+        "street"
+    ],
+    "question": "Write a letter to your local municipality about the difficulties with the dust bins in your street.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir \\ Madam,",
+        "I am writing this letter regarding the issues we are facing with the garbage collection system in our locality.",
+        "Our locality has around 80 houses, 9 streets and 10 garbage bins. The waste dumped in these bins are being collected twice a week, every Tuesdays and Saturdays. But this process does not work because the bins gets almost full before the collection day itself. This in turn leads to littering of waste bags in the areas around the bins.",
+        "The waste lying in and around the bins makes the streets look filthy and the foul smell it creates is causing breathing troubles to my family and my neighbours. Children and elderly people in our neighbourhood are particularly finding it difficult to walk around in our streets.",
+        "I would like to suggest a few measures for the betterment of the garbage collection system. Kindly ensure that the waste is being collected on alternate days. Instead of having common bins, we prefer having small and closed waste baskets on the sides of every house so that we can ensure that the bins are disposed and cleaned periodically.",
+        "Kindly consider this issue as a serious concern and take the necessary measures at the earliest.",
+        "Thank You,",
+        "Yours Faithfully,",
+        "Manju!"
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "are",
+                "start_idx": 228,
+                "end_idx": 231,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject waste. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "Tuesdays",
+                "start_idx": 268,
+                "end_idx": 276,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that Tuesdays may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "Tuesday"
+                ]
+            },
+            {
+                "word": "Saturdays",
+                "start_idx": 281,
+                "end_idx": 290,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that Saturdays may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "Saturday"
+                ]
+            },
+            {
+                "word": "gets",
+                "start_idx": 340,
+                "end_idx": 344,
+                "error": "Change the verb form",
+                "error_des": "The singular verb gets does not appear to agree with the plural subject bins. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "get"
+                ]
+            },
+            {
+                "word": "waste baskets",
+                "start_idx": 972,
+                "end_idx": 985,
+                "error": "Correct your spelling",
+                "error_des": "The word waste baskets seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "wastebaskets"
+                ]
+            },
+            {
+                "word": "and",
+                "start_idx": 1063,
+                "end_idx": 1066,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of and"
+                ]
+            }
+        ]
+    },
+    "submitter": "mmanju.b",
+    "num_words": 210,
+    "num_paragraphs": 9,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "this",
+            "instead"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "bins",
+                "occurrences": [
+                    {
+                        "start_idx": 190,
+                        "end_idx": 194
+                    },
+                    {
+                        "start_idx": 222,
+                        "end_idx": 226
+                    },
+                    {
+                        "start_idx": 334,
+                        "end_idx": 338
+                    },
+                    {
+                        "start_idx": 460,
+                        "end_idx": 464
+                    },
+                    {
+                        "start_idx": 500,
+                        "end_idx": 504
+                    },
+                    {
+                        "start_idx": 929,
+                        "end_idx": 933
+                    },
+                    {
+                        "start_idx": 1042,
+                        "end_idx": 1046
+                    }
+                ]
+            },
+            {
+                "word": "waste",
+                "occurrences": [
+                    {
+                        "start_idx": 200,
+                        "end_idx": 205
+                    },
+                    {
+                        "start_idx": 425,
+                        "end_idx": 430
+                    },
+                    {
+                        "start_idx": 470,
+                        "end_idx": 475
+                    },
+                    {
+                        "start_idx": 860,
+                        "end_idx": 865
+                    },
+                    {
+                        "start_idx": 969,
+                        "end_idx": 974
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T16:01:33.799Z"
+}

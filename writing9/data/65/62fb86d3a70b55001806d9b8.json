@@ -1,0 +1,120 @@
+{
+    "url": "https://writing9.com/text/62fb86d3a70b55001806d9b8-recent-advances-in-medicine-have-resulted-in-an-increase-in",
+    "file": "data\\65\\62fb86d3a70b55001806d9b8.json",
+    "topics": [
+        "advances",
+        "medicine",
+        "life",
+        "expectancy",
+        "four",
+        "years"
+    ],
+    "question": "Recent advances in medicine have resulted in an increase in life expectancy over the past four years. Do you think that the advantages outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is phenomenal development in the field of science and technology that provides more chances for people with underlying critical health conditions to survive. From my perspective, there are many positive sides to this development and fewer negative points. This essay will discuss both sides in detail with factual information.",
+        "The main benefit of this advancement is that now medication can help people to recover and bring them back to life. Many cancer patients died in the past centuries because it was uncurable, now scientists have found a solution to cure such disease, hence many precious lives are out of danger now. Another benefit is in the past four years there a drop in the death ration especially amount those who have underlying health conditions thus it is proven in previous research that it really beneficial development in this history of mankind and saved many precious lives.",
+        "However there are fewer drawbacks of this advanced development procedure is quite painful and in addition to it, it takes much time in curing the illness.",
+        "For a cancer patient, for example, therapies is much more painful than an individual and it takes 4-5 therapy sessions to recover fully. Furthermore, the procedure is too expensive not everyone can afford it, hence, much time and financial resources are required to get this treatment done.",
+        "To sum up, without any trouble it is an outstanding development made by the medical professionals and they are saving lives with a good percentage but not everyone can afford such expensive and painful treatment."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "is",
+                "start_idx": 1102,
+                "end_idx": 1104,
+                "error": "Change the verb form",
+                "error_des": "The singular verb is does not appear to agree with the plural subject therapies. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 1127,
+                "end_idx": 1128,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            }
+        ]
+    },
+    "submitter": "smkwarsi",
+    "num_words": 255,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "hence",
+            "furthermore",
+            "for example",
+            "however",
+            "in addition",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "development",
+                "occurrences": [
+                    {
+                        "start_idx": 17,
+                        "end_idx": 28
+                    },
+                    {
+                        "start_idx": 220,
+                        "end_idx": 231
+                    },
+                    {
+                        "start_idx": 830,
+                        "end_idx": 841
+                    },
+                    {
+                        "start_idx": 951,
+                        "end_idx": 962
+                    },
+                    {
+                        "start_idx": 1398,
+                        "end_idx": 1409
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-16T12:33:39.793Z"
+}

@@ -1,0 +1,113 @@
+{
+    "url": "https://writing9.com/text/5d860d1d5080810017feb22c-you-are-applying-for-a-job-and-need-a-letter",
+    "file": "data\\7\\5d860d1d5080810017feb22c.json",
+    "topics": [
+        "job",
+        "reference",
+        "someone",
+        "school",
+        "teachers",
+        "information",
+        "teacher"
+    ],
+    "question": "You are applying for a job and need a letter of reference from someone who knew you when you were at school. Write a letter to one of your old teachers asking for a reference. in your letter\n\u2022 Say what job you have applied for.\n\u2022 explain why you want this job.\n\u2022 Suggest what information the teacher should include.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr. Smith",
+        "",
+        "My name is Michael and you were my 300 level turbine and piston engine teacher when I was in school. I was hoping that you might remember me as I was the only black student in the class of year 2016. I recall that you mentioned that I could use you as a reference anytime because of your  high regards for my abilities",
+        "As you can see from the attached cover letter and resume, I am applying for a job in Premier Aviation as an Aircraft Maintenance Apprentice, which will help me gain enough experience to acquire my license. I will therefore appreciate if you could kindly write a reference letter on my behalf to the company. The company is one of the best maintenance, repair and overhaul companies in Quebec that operate several transport category aircraft such as Dash 8 Q400, ATR 72, Boeing 727 and ERJ 145.",
+        "Apart from the knowledge and exposure, I will get from the company, I would love to work there because they are offering a high salary rate and other benefits that the position would offer. Also, they offer the opportunity to travel to different locations outside Canada to repair some of their aircraft.",
+        "I would really appreciate it if you could write a letter showing my qualifications and your experience with me as your student.",
+        "Thank you for your help and look forward to hearing from you.",
+        "Sincerely,",
+        "Michael Esenwa"
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "Mr.",
+                "start_idx": 5,
+                "end_idx": 8,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": "year",
+                "start_idx": 206,
+                "end_idx": 210,
+                "error": "Change the article",
+                "error_des": "It appears that the article usage before year is incorrect. Consider making a change.",
+                "suggetions": [
+                    "the year"
+                ]
+            },
+            {
+                "word": "regards",
+                "start_idx": 311,
+                "end_idx": 318,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that regards may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "regard"
+                ]
+            },
+            {
+                "word": "if",
+                "start_idx": 571,
+                "end_idx": 573,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "it if"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 241,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "also",
+            "such",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T16:53:44.444Z"
+}

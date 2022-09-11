@@ -1,0 +1,137 @@
+{
+    "url": "https://writing9.com/text/5df13ab7bfa196001170be0c",
+    "file": "data\\65\\5df13ab7bfa196001170be0c.json",
+    "topics": [
+        "people",
+        "copy",
+        "magazines",
+        "tv",
+        "idea"
+    ],
+    "question": "Ordinary people try to copy famous people either reading magazines or watching TV. Why do they do this?  Do you think it is a good idea to copy famous people?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Regular individuals commonly use media to copy different aspects of stars, since several of these artists have become role models to the population. Nevertheless, I believe this trend is negative to both media people and society.",
+        "The first motivation to repeat other's habits is that famous people are role models to the ordinary population, thanks to their outstanding performances in the arts and sports, as a result, citizens feel encouraged to repeat their habits to achieve the same successful results. For example, many magazines publish athletes' diets trainnings when they have successful outcomes, which lead people to repeat. Secondly, the image of some artists are sold as perfect, which convince regular people to follow regular diets and exercising habits in order to have the perfect body.",
+        "Unfortunately, a permanent idea of copying artists affects citizens' mental health, since it is common to feel frustared and a loser when failing to achieve similar results, therefore, it increases anxiety and depression rates among the population. For instance, studies have shown that 80% of adult women have tried and failed to follow models' diets, which made them frustrated and insatisfied with their bodies. Additionally, consumers tend to purchase more because of people on media, as they are regularly launching new fashions to be followed, as a consequence, buyers might negatively affect personal budgets with unnecessary products.",
+        "To conclude, regular citizens repeat famous people's style and attitudes, because they aim to repeat the same goals. However, this is negative because not only do this behaviour affects their health, but also their finances."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "to",
+                "start_idx": 130,
+                "end_idx": 132,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for",
+                    "of"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 315,
+                "end_idx": 317,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "diets trainnings",
+                "start_idx": 555,
+                "end_idx": 571,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "diets, training",
+                    "diets training"
+                ]
+            },
+            {
+                "word": "are sold",
+                "start_idx": 673,
+                "end_idx": 681,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is sold"
+                ]
+            },
+            {
+                "word": "frustared",
+                "start_idx": 917,
+                "end_idx": 926,
+                "error": "disappointingly unsuccessful",
+                "error_des": "",
+                "suggetions": [
+                    "frustrated"
+                ]
+            },
+            {
+                "word": "insatisfied",
+                "start_idx": 1190,
+                "end_idx": 1201,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in satisfied"
+                ]
+            }
+        ]
+    },
+    "submitter": "bele_sales",
+    "num_words": 258,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "for instance",
+            "as a result",
+            "nevertheless",
+            "for example",
+            "however",
+            "therefore",
+            "this",
+            "additionally",
+            "also",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2019-12-11T18:51:35.475Z"
+}

@@ -1,0 +1,127 @@
+{
+    "url": "https://writing9.com/text/5cb5dabe9c5257dde02f7883",
+    "file": "data\\65\\5cb5dabe9c5257dde02f7883.json",
+    "topics": [
+        "countries",
+        "weight",
+        "people",
+        "levels",
+        "health",
+        "fitness",
+        "measures"
+    ],
+    "question": "In some countries the average weight of people is increasing and their levels of health and fitness are decreasing.\nWhat do you think are the causes of these problems and what measures could be taken to solve them?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The increase of overweight people in comparison with the fall of the activity levels that help them to have a good health as a concerning problem in recent years. To deal with this issue, I believe that both the government and individuals must be responsible to do it together.",
+        "The overweight leads to variety of inconveniences for people in their daily life and there are two main reasons of this issue. First of all, in some developed countries, the food sources are extremely expensive so people need to find out the other solution, it is junk food. Consequently, according to the analysis of many scientists, fast food contains lots of harmful substances which affect the health. Secondly, people are vulnerable to the public environment due to their asymmetric body. For instance, people do not want to go to gym rooms because they feel embarrassed when standing in front of others. As a result, they may suffer from many detrimental diseases such as stroke.",
+        "To handle with this problem, the government should add a high tax for junk food which bring some detrimental issues to their citizens. In addition, people ought to have a diet to control the amount of calories in their meals. Finally, playing some sports such as gymnastics, swimming and so on can bring benefits to their health and keep fit.",
+        "To conclude, the rise of overweight people is a debatable issue in many countries nowadays but I completely believe that if people are responsible for themselves, this number is able to reduce in the near future."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "variety",
+                "start_idx": 303,
+                "end_idx": 310,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a variety"
+                ]
+            },
+            {
+                "word": "expensive so",
+                "start_idx": 480,
+                "end_idx": 492,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "expensive, so"
+                ]
+            },
+            {
+                "word": "nowadays but",
+                "start_idx": 1392,
+                "end_idx": 1404,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "nowadays, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "datbo1998",
+    "num_words": 259,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "for instance",
+            "as a result",
+            "consequently",
+            "such",
+            "in addition",
+            "finally",
+            "this",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 452,
+                        "end_idx": 456
+                    },
+                    {
+                        "start_idx": 547,
+                        "end_idx": 551
+                    },
+                    {
+                        "start_idx": 618,
+                        "end_idx": 622
+                    },
+                    {
+                        "start_idx": 1039,
+                        "end_idx": 1043
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-16T13:38:06.000Z"
+}

@@ -1,0 +1,154 @@
+{
+    "url": "https://writing9.com/text/5c9b262746fa2c4fc9423e34",
+    "file": "data\\5\\5c9b262746fa2c4fc9423e34.json",
+    "topics": [
+        "celebrity",
+        "\u2013",
+        "film",
+        "star",
+        "sports",
+        "personality"
+    ],
+    "question": "Being a celebrity \u2013 such as a famous film star or sports personality \u2013 brings problems as well as benefits.\nDo you think that being a celebrity brings more benefits or more problems?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, many people try to follow by trends created by celebrity. Some people believe that is beneficially for them. However, others believe that may bring more problems in their life than positives. Thus, there are several advantages and there are several disadvantages to follow by celebrity trends.",
+        "There are several benefits about famous people may bring to society. Many people believe that celebrity lives are important for them. In addition, they believe that may create some abilities such as samples how they achieved which may help to other. Some people believe that famous people give them many ideas to live with others and they do not feel alone. For example, many famous celebrities are providing blogs on the internet where they write their own dairy to show their story and private life to others. Thus, there are several advantages begins with famous people.",
+        "However, there are several negatives which may be from celebrities. Many people believe that famous people may show to the public, not true live which usually is makeup. They believe that may create misunderstanding and some social problems. Some people believe that celebrities cannot give a good live sample which may be showing off to increase their popularity. For example, many rich celebrities organize expansive parties where people can come and meet them and experience how to be rich and famous. Thus, there are several disadvantages of being from famous people.",
+        "In conclusion, celebrities create new trends and people feelings. They may share some good values with others such as make people feel to belong to some social group. However, some celebrity may make misunderstanding in a society which may increase they unhappy."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "beneficially",
+                "start_idx": 96,
+                "end_idx": 108,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "beneficial"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 544,
+                "end_idx": 546,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "with",
+                    "in"
+                ]
+            },
+            {
+                "word": "dairy",
+                "start_idx": 762,
+                "end_idx": 767,
+                "error": "a daily written record of (usually personal) experiences and observations",
+                "error_des": "",
+                "suggetions": [
+                    "diary"
+                ]
+            },
+            {
+                "word": "live",
+                "start_idx": 1018,
+                "end_idx": 1022,
+                "error": "have a great affection or liking for",
+                "error_des": "",
+                "suggetions": [
+                    "love"
+                ]
+            },
+            {
+                "word": "makeup",
+                "start_idx": 1040,
+                "end_idx": 1046,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "make up"
+                ]
+            },
+            {
+                "word": "others ",
+                "start_idx": 1553,
+                "end_idx": 1560,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "others, such"
+                ]
+            }
+        ]
+    },
+    "submitter": "ewka85",
+    "num_words": 276,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "thus",
+            "for example",
+            "however",
+            "in addition",
+            "that is",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "celebrity",
+                "occurrences": [
+                    {
+                        "start_idx": 57,
+                        "end_idx": 66
+                    },
+                    {
+                        "start_idx": 286,
+                        "end_idx": 295
+                    },
+                    {
+                        "start_idx": 398,
+                        "end_idx": 407
+                    },
+                    {
+                        "start_idx": 1631,
+                        "end_idx": 1640
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-27T07:28:39.000Z"
+}

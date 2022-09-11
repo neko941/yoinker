@@ -1,0 +1,80 @@
+{
+    "url": "https://writing9.com/text/62d6836d8ee1ab00180e335a-write-a-letter-to-a-friend-who-you-spent-a",
+    "file": "data\\85\\62d6836d8ee1ab00180e335a.json",
+    "topics": [
+        "friend",
+        "weekend",
+        "move",
+        "party",
+        "apartment"
+    ],
+    "question": "Write a letter to a friend who you spent a weekend with helping to move and hosting a party. \n\n\nInclude in your letter\n\n\nWhat you like most about the new apartmentWhat you did over the weekendWhere and when you would like to meet again",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sam,",
+        "Hope you are doing fine. It was nice to have you over the weekend, and for being on your toes to shift my luggage to the new home and making arrangements for the housewarming party.",
+        "Initially, I was anxious and skeptical to move to a new location but now I feel comfortable in my new place. I like the neighbourhood and the plethora of recreational activities around me. In fact, I started hitting the gym and feel energetic. Last weekend was hectic and I am glad that we could unbox all the  household items and organise them neatly before the party. Moreover, the party was rocking and everyone savoured the scrumptious meal that you had ordered.",
+        "I have bought a brand new state-of-the-art television set to watch movies, however, I am bored watching them alone. Come over the weekend and we can watch any of your favourite movies while munching flavoured popcorn.",
+        "Looking forward to seeing you soon.",
+        "Best wishes,",
+        "Devika"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "skeptical",
+                "start_idx": 223,
+                "end_idx": 232,
+                "error": "Change the spelling",
+                "error_des": "The spelling of skeptical is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "sceptical"
+                ]
+            }
+        ]
+    },
+    "submitter": "vaidyadevika1",
+    "num_words": 163,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "moreover",
+            "last",
+            "however",
+            "initially"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-07-19T10:14:37.028Z"
+}

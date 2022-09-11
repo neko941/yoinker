@@ -1,0 +1,91 @@
+{
+    "url": "https://writing9.com/text/5cc65c58ddc52a56106eaefc-you-cannot-go-to-a-company-where-you-got-an",
+    "file": "data\\75\\5cc65c58ddc52a56106eaefc.json",
+    "topics": [
+        "company",
+        "offer",
+        "hr",
+        "supervisor",
+        "reason",
+        "decline",
+        "gratitude",
+        "job"
+    ],
+    "question": "You cannot go to a company where you got an offer. Write a letter to the HR supervisor to\n\nexplain the reason why you decline the offer\nexpress you gratitude\nexplain you like your current job very much",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I was a potential employee to whom you made a job offer. I would like to extend my thanks for such an offer, especially at such a company as yours. It is, however, with deepest regret that I must decline your generous invitation and apologize for any inconvenience I may have caused.",
+        "I appreciate immensely the interview organized by your company and the extensive effort made by all the staff involved. Their attitude was impressive and highly commendable. As such I must pass my sincerest apologies for any difficulties related to the extra work that must have been involved, and the time wasted on your behalf. Although the offer was substantial, it wasn\u2019t enough to encourage me to sever the bonds with my current employer. During my time at my present company my superiors supported me and fostered my career. In short, they made me the employee I am today.",
+        "I would like to keep the lines of communication open between our two parties, and look forward to further correspondence.",
+        "Yours sincerely"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "deepest",
+                "start_idx": 180,
+                "end_idx": 187,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase deepest regret does not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "the deepest"
+                ]
+            },
+            {
+                "word": "company",
+                "start_idx": 769,
+                "end_idx": 776,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase During my time at my present company. Consider adding a comma.",
+                "suggetions": [
+                    ",company"
+                ]
+            }
+        ]
+    },
+    "submitter": "hosseinowj",
+    "num_words": 174,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "although",
+            "however",
+            "further",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T15:57:05.449Z"
+}

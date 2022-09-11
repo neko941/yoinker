@@ -1,0 +1,137 @@
+{
+    "url": "https://writing9.com/text/5de030f9db52040018c0f54e",
+    "file": "data\\65\\5de030f9db52040018c0f54e.json",
+    "topics": [
+        "politician",
+        "lives",
+        "newspapers"
+    ],
+    "question": "Politician's private lives should not be published in newspapers. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "With the advancement in technology, anyone's private life can be published in a newspaper. I agree that politician\u2019s lives should not be published in newspapers or any other medium no matter what the story is. In the following paragraphs, I will discuss both scenarios on this serious issue.",
+        "Politicians private lives should not be discussed no matter how bad or good they are. Discussing someone's private life can be taken as a very personal matter and there are no benefits in discussing someone's life instead it backfires many times in terms of different controversies. For example, In first world countries, It is banned to publish any politician or celebrity life in the newspaper or any other medium to give them total control on their private life.",
+        "Furthermore, If it is published in the newspaper, then there might be some consequences. However, publishing the private life will demoralize the victim who is working day and night for the country resulting the resignation from the duty. For example, In Pakistan once there was a general who was very obedient to his country, but once his private life get published in the electronic media and other mediums resulting his resignation from the services right away.",
+        "To sum up, I believe it is better to avoid publishing anyone private lives on electronic media or any other medium either they are a politician or not. Despite the awareness and protection of this cause some media will still showcase politician\u2019s private life to increase their channel views and ratings."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "politician\u2019s",
+                "start_idx": 104,
+                "end_idx": 116,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "politicians\u2019"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 736,
+                "end_idx": 738,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "get",
+                "start_idx": 1113,
+                "end_idx": 1116,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "gets"
+                ]
+            }
+        ]
+    },
+    "submitter": "danish-madni",
+    "num_words": 253,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "then",
+            "furthermore",
+            "for example",
+            "instead",
+            "however",
+            "this",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 53,
+                        "end_idx": 57
+                    },
+                    {
+                        "start_idx": 407,
+                        "end_idx": 411
+                    },
+                    {
+                        "start_idx": 501,
+                        "end_idx": 505
+                    },
+                    {
+                        "start_idx": 666,
+                        "end_idx": 670
+                    },
+                    {
+                        "start_idx": 752,
+                        "end_idx": 756
+                    },
+                    {
+                        "start_idx": 879,
+                        "end_idx": 883
+                    },
+                    {
+                        "start_idx": 1106,
+                        "end_idx": 1110
+                    },
+                    {
+                        "start_idx": 1478,
+                        "end_idx": 1482
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-28T20:41:29.440Z"
+}

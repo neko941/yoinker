@@ -1,0 +1,143 @@
+{
+    "url": "https://writing9.com/text/62e95fa60562ec00182a0788-every-year-millions-of-people-move-from-the-countryside-to",
+    "file": "data\\75\\62e95fa60562ec00182a0788.json",
+    "topics": [
+        "year",
+        "millions",
+        "people",
+        "move",
+        "countryside",
+        "city",
+        "strain",
+        "environment"
+    ],
+    "question": "Every year millions of people move from the countryside to the city putting increasing strain on the urban environment. What do you think are the causes of this? What solutions can you suggest?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the past  decade, urbanisation has increased significantly. With each passing year, our cities are becoming more and more crowded which is putting a lot of pressure on the urban resources. This essay will elaborate on the possible causes for the migration and will outline actionable solutions for the same.",
+        "There are primarily two key reasons for this movement. Firstly, it is believed that the urban towns or the metro cities provide better employment opportunities, which is also true to a larger extent. Not only that, even the pay levels are significantly higher in developed towns. Gurugram, for instance, has become a hub of Multi-National Corporations in a very short span of time, and people from the nearby small towns have migrated to the metropolitan for better career prospects. Another reason is the presence of better schooling and healthcare facilities. Since every person wishes to provide a safe environment to their family and hope that their kids have a better future, they prefer to live in a close proximity to these amenities.",
+        "Although there are several reasons for people flocking the metropolis, there are some solutions to alleviate this problem. First of all, the government should work on the development of rural areas, and one way is to create a special economic zone in these places. It will eventually attract various companies to set up their offices or industries, which will subsequently generate employment, make people financially stable and improve the living standard of that community as a whole. In addition to this, the government should utilize tax-payer's money to provide better educational and medical facilities in every town or village in the country, irrespective of the level of commercialization at that place. Delhi government, for example, has started a concept of community clinics in and around the suburbs of the National Capital Region, which has solved many health-related issues for the people who earlier could not even afford their basic treatment.",
+        "In conclusion, undoubtedly, nowadays, many people prefer to leave their hometown in the countryside and move to the concrete jungle, urban cities. The more people migrate to metro cities, the higher the strain on their infrastructure. There are, however, a few government-led initiatives which can solve this problem to a much greater extent and will thereafter reduce the environmental and other economic issues in  developed cities."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 1015,
+                "end_idx": 1017,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun proximity in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "amanmalik640",
+    "num_words": 388,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "for instance",
+            "subsequently",
+            "for example",
+            "although",
+            "first",
+            "however",
+            "in addition",
+            "this",
+            "also",
+            "thereafter",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "cities",
+                "occurrences": [
+                    {
+                        "start_idx": 91,
+                        "end_idx": 97
+                    },
+                    {
+                        "start_idx": 424,
+                        "end_idx": 430
+                    },
+                    {
+                        "start_idx": 2152,
+                        "end_idx": 2158
+                    },
+                    {
+                        "start_idx": 2193,
+                        "end_idx": 2199
+                    },
+                    {
+                        "start_idx": 2440,
+                        "end_idx": 2446
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 697,
+                        "end_idx": 703
+                    },
+                    {
+                        "start_idx": 1092,
+                        "end_idx": 1098
+                    },
+                    {
+                        "start_idx": 1452,
+                        "end_idx": 1458
+                    },
+                    {
+                        "start_idx": 1949,
+                        "end_idx": 1955
+                    },
+                    {
+                        "start_idx": 2056,
+                        "end_idx": 2062
+                    },
+                    {
+                        "start_idx": 2169,
+                        "end_idx": 2175
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-02T18:19:21.227Z"
+}

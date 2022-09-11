@@ -1,0 +1,127 @@
+{
+    "url": "https://writing9.com/text/5e89e9032b106c00182c1260",
+    "file": "data\\5\\5e89e9032b106c00182c1260.json",
+    "topics": [
+        "school",
+        "children",
+        "history",
+        "world"
+    ],
+    "question": "It is more important for school children to learn about local history than world history. To what extent to you agree or disagree?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many people have valued the role of local history to schoolchildren over that of world history. In my opinion, I disagree with those people as both of them are equally essential for young learners. Studying the history of their hometown is for sure an indispensable part of school\u2019s curriculum during students\u2019 early education. I believe having thorough insights into what happened in the past at one\u2019s locality develops his patriotism. For example, children of primary and secondary schools in my village are taught about how their ancestors defended their land against outside intruders and reclaimed sovereignty. Therefore, those young children would take pride in their origin and treasure the life they have today. Additionally, I think it is not only students\u2019 privilege but also their responsibility to know about their own history to understand their hometown\u2019s traditional values and identity. From another angle, learning about world history shares equal importance just as local one. Acquiring knowledge about the world\u2019s past events equips students with a more well-rounded perspective of life. Lessons about the World War or Feminism protest against women\u2019s abuse and discrimination would help those learners enhance their understanding about various aspects of the world. Furthermore, I think that being taught about the other countries\u2019 historical backgrounds would benefit young learners in their future career. Students who accumulate knowledge of this particular field at an early age would possess a golden selling point to work for foreign enterprises, especially those who highly value company culture like Japan. In conclusion, I believe the significance of domestic and international history cannot be brought into comparison to see which one is more necessary because they have distinctively equal meanings to children."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "school\u2019s curriculum",
+                "start_idx": 274,
+                "end_idx": 293,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the school\u2019s curriculum",
+                    "a school\u2019s curriculum"
+                ]
+            },
+            {
+                "word": "develops",
+                "start_idx": 412,
+                "end_idx": 420,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "developed"
+                ]
+            },
+            {
+                "word": "privilege but",
+                "start_idx": 767,
+                "end_idx": 780,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "privilege, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 279,
+    "num_paragraphs": 1,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "furthermore",
+            "for example",
+            "therefore",
+            "this",
+            "additionally",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "history",
+                "occurrences": [
+                    {
+                        "start_idx": 42,
+                        "end_idx": 49
+                    },
+                    {
+                        "start_idx": 87,
+                        "end_idx": 94
+                    },
+                    {
+                        "start_idx": 211,
+                        "end_idx": 218
+                    },
+                    {
+                        "start_idx": 831,
+                        "end_idx": 838
+                    },
+                    {
+                        "start_idx": 944,
+                        "end_idx": 951
+                    },
+                    {
+                        "start_idx": 1707,
+                        "end_idx": 1714
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-04-05T14:19:47.892Z"
+}

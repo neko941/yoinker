@@ -1,0 +1,178 @@
+{
+    "url": "https://writing9.com/text/5dc17927ed6fd8001811f870",
+    "file": "data\\6\\5dc17927ed6fd8001811f870.json",
+    "topics": [
+        "amount",
+        "violence",
+        "television",
+        "impact",
+        "children",
+        "behaviour"
+    ],
+    "question": "These days, we are seeing an increasing amount of violence on\ntelevision, and this is having a negative impact on children's\nbehaviour. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There is an increasing amount of violence broadcasted on television nowadays which is having a negative effect on children's attitude. As children are very good learners they adapt what they see immediately, hence when they watch destruction and violence on the screens they learn from it which reflects in their behaviour. Therefore,  I completely agree with this statement that watching violence on TV has a bad impact on children's behaviour.",
+        "There is a school of thought which argues that the content shown on TV has minimal effects on children's attitude, the environment of the house has the biggest impact on them. For example, if they see parents and other siblings fighting and arguing they will learn from it and hence results in negative behaviour. Furthermore, home is the place where children learn basic manners, when they are taught to behave well they will never adopt from anything negative they see hence there won't be any change in their behaviour regardless of the increasing amount of violence shown on TV.",
+        "On the contrary, in recent times TV is the biggest source of learning in children. When the content telecasted on the tv is violent children are definitely affected by it. For example, a study was conducted in a school in Karachi which showed that 90% children who indulge in bullying and fighting learnt it from tv shows. In addition, kids are now extremely short-tempered and abusive, they want to be less answerable to their parents which is due to the content they see.TV shows and cartoons show fight scenes, destruction and violence which is seen by vulnerable minds of kids and is depicted in their behaviour.",
+        "In conclusion, negative change in children's attitude is due to the increasing amount of violence shown on television. I strongly agree with this as the screen time of children is more hence their behaviour reflects what they see on TV. The screen time should be decreased so that this changing behaviour has positive effects."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "nowadays which",
+                "start_idx": 68,
+                "end_idx": 82,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "nowadays, which"
+                ]
+            },
+            {
+                "word": "learners they",
+                "start_idx": 161,
+                "end_idx": 174,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "learners, they"
+                ]
+            },
+            {
+                "word": "is seen",
+                "start_idx": 1576,
+                "end_idx": 1583,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are seen"
+                ]
+            }
+        ]
+    },
+    "submitter": "mic.jan.thomas",
+    "num_words": 329,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the contrary",
+            "hence",
+            "furthermore",
+            "for example",
+            "in addition",
+            "therefore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "tv",
+                "occurrences": [
+                    {
+                        "start_idx": 1147,
+                        "end_idx": 1149
+                    },
+                    {
+                        "start_idx": 1342,
+                        "end_idx": 1344
+                    }
+                ]
+            },
+            {
+                "word": "behaviour",
+                "occurrences": [
+                    {
+                        "start_idx": 313,
+                        "end_idx": 322
+                    },
+                    {
+                        "start_idx": 435,
+                        "end_idx": 444
+                    },
+                    {
+                        "start_idx": 749,
+                        "end_idx": 758
+                    },
+                    {
+                        "start_idx": 958,
+                        "end_idx": 967
+                    },
+                    {
+                        "start_idx": 1635,
+                        "end_idx": 1644
+                    },
+                    {
+                        "start_idx": 1843,
+                        "end_idx": 1852
+                    },
+                    {
+                        "start_idx": 1941,
+                        "end_idx": 1950
+                    }
+                ]
+            },
+            {
+                "word": "violence",
+                "occurrences": [
+                    {
+                        "start_idx": 33,
+                        "end_idx": 41
+                    },
+                    {
+                        "start_idx": 246,
+                        "end_idx": 254
+                    },
+                    {
+                        "start_idx": 389,
+                        "end_idx": 397
+                    },
+                    {
+                        "start_idx": 1007,
+                        "end_idx": 1015
+                    },
+                    {
+                        "start_idx": 1559,
+                        "end_idx": 1567
+                    },
+                    {
+                        "start_idx": 1735,
+                        "end_idx": 1743
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-05T13:29:11.098Z"
+}

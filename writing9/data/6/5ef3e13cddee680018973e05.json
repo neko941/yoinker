@@ -1,0 +1,160 @@
+{
+    "url": "https://writing9.com/text/5ef3e13cddee680018973e05",
+    "file": "data\\6\\5ef3e13cddee680018973e05.json",
+    "topics": [
+        "people",
+        "houses",
+        "style",
+        "areas",
+        "freedom"
+    ],
+    "question": "Some people think that newly built houses should follow the style of old houses in local areas. Others think that people should have freedom to build houses of their own style. Discuss both views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "People\u2019s opinions differ as to whether or not houses in an area should be constructed in the same style. While there are several explanations for this idea, I am personally of the belief that people are free to make their own decisions on architectural styles of their houses.",
+        "Apparently, there are some justifications for people to argue that all new houses in a particular area should follow the same old style. First, this practice could be considered as an effective method to preserve cultural identity in architecture. Due to the increase in urbanization and cultural exchange these days, exotic and modern designs imported from foreign countries have gained in popularity, making traditional structures and cultural values fall into oblivion. Second, if local houses share a common style of classical architecture, this area will be more likely to become a tourist attraction and attract an influx of visitors, offering considerable benefits to the local residents. In fact, an array of old quarters in the world with distinctive architectures since time memorial have been embellished to serve tourism purposes which contributes to not only the national tourism sector but cultural preservation.",
+        "In spite of the above arguments, I strongly support the view that people should be given freedom of choice to build their own houses. Since the style of accommodation obviously depends on individual preference and many do not prefer vintage or ancient architectures, it would be unfair and irrational to force them to design their own houses with the old styles. Moreover, city dwellers these days, particularly young generation, tend to follow modern housing styles which are able to ensure their ultimate comfort and convenience, whereas the traditional building designs may no longer meet such demands. In addition, house owners\u2019 financial ability is also a key factor leading to their decision on house design and construction. It is obvious that a modern simple house would cost relatively cheaper than the one with complicated architectural details in the past.",
+        "In conclusion, although some advantages of following the building style of old houses could be identified, I believe that people should be allowed to decide the way their own houses will be built."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "have been embellished",
+                "start_idx": 1071,
+                "end_idx": 1092,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "has been embellished"
+                ]
+            },
+            {
+                "word": "dwellers these",
+                "start_idx": 1585,
+                "end_idx": 1599,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "dwellers, these"
+                ]
+            },
+            {
+                "word": "young",
+                "start_idx": 1619,
+                "end_idx": 1624,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the younger"
+                ]
+            },
+            {
+                "word": "house owners\u2019 financial ability",
+                "start_idx": 1826,
+                "end_idx": 1857,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the house owners\u2019 financial ability"
+                ]
+            },
+            {
+                "word": "modern simple",
+                "start_idx": 1960,
+                "end_idx": 1973,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "modern, simple"
+                ]
+            }
+        ]
+    },
+    "submitter": "Nguy\u1ec5n Thi\u1ec7n Thu\u1eadn",
+    "num_words": 360,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "second",
+            "moreover",
+            "although",
+            "in addition",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "style",
+                "occurrences": [
+                    {
+                        "start_idx": 98,
+                        "end_idx": 103
+                    },
+                    {
+                        "start_idx": 253,
+                        "end_idx": 258
+                    },
+                    {
+                        "start_idx": 407,
+                        "end_idx": 412
+                    },
+                    {
+                        "start_idx": 789,
+                        "end_idx": 794
+                    },
+                    {
+                        "start_idx": 1348,
+                        "end_idx": 1353
+                    },
+                    {
+                        "start_idx": 1559,
+                        "end_idx": 1564
+                    },
+                    {
+                        "start_idx": 1664,
+                        "end_idx": 1669
+                    },
+                    {
+                        "start_idx": 2138,
+                        "end_idx": 2143
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-06-24T23:41:19.202Z"
+}

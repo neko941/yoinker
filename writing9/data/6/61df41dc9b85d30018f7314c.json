@@ -1,0 +1,160 @@
+{
+    "url": "https://writing9.com/text/61df41dc9b85d30018f7314c-in-some-areas-of-the-us-a-curfew-is-imposed",
+    "file": "data\\6\\61df41dc9b85d30018f7314c.json",
+    "topics": [
+        "areas",
+        "curfew",
+        "teenagers",
+        "doors",
+        "time",
+        "night",
+        "adult"
+    ],
+    "question": "In some areas of the US, a curfew is imposed, in which teenagers are not allowed to be out of doors after a particular time at night unless they are accompanied by an adult",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It has been noticed in few areas of the United States to impose a curfew on the movements of adolescents at late hours unless and until they are accompanied by a guardian. In my ,opinion lawmakers should make proper regulations and control the crime rate rather than imposing restrictions on teenagers by not letting them move freely in their own country. This essay will further throw some light on the disadvantages of imposing curfews on teenagers and restricting their rights to freedom.",
+        "To begin with, a developed country like the United States is considered a safe country where individuals can step out safely at any given point in time. However, crime rates and substance abuse are all-time high in many cities of the United States.  Last month an 18-year-old teenager lost his life in a barroom brawl. It was later found that it all stemmed from drug consumption. Substance abuse leads to more crimes and the Government has not taken any substantial steps to limit the sale and consumption, ,instead they are planning on imposing a curfew on teenagers thereby causing more inconvenience. It is the responsibility of governing authorities to make the surroundings safe for its citizens to move around without any hesitation.",
+        "Furthermore, not letting a teen out at night will not be the solution to the current problem, ,instead children should be given ample amount of knowledge and awareness about the crimes happening in the neighbourhood from a very young age. Self-defence training should be introduced in their curriculum at school. Many parents may not be in a position to be around teenage kids at night, especially the ones who work during night shifts. Hence it may not be an effective and feasible solution to have all teenage kids under parental guidance every night.",
+        "To conclude, in my opinion, imposing curfew and restrictions on teenagers may not be the best solution and they should be allowed to go outdoors at night, ,instead they should be empowered with knowledge and basic skills to safeguard themselves. Government should take necessary steps to control the crime rates and create a secure environment to live in."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "instead",
+                "start_idx": 1001,
+                "end_idx": 1008,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase instead. Consider adding a comma.",
+                "suggetions": [
+                    ",instead"
+                ]
+            },
+            {
+                "word": "instead",
+                "start_idx": 1329,
+                "end_idx": 1336,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase instead. Consider adding a comma.",
+                "suggetions": [
+                    ",instead"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1944,
+                "end_idx": 1945,
+                "error": "Change the punctuation",
+                "error_des": "The punctuation in , , is incorrect. Consider changing the punctuation.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "instead",
+                "start_idx": 1945,
+                "end_idx": 1952,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase instead. Consider adding a comma.",
+                "suggetions": [
+                    ",instead"
+                ]
+            }
+        ]
+    },
+    "submitter": "neetagopal",
+    "num_words": 355,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "hence",
+            "furthermore",
+            "further",
+            "however",
+            "this",
+            "to begin",
+            "last"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "teenagers",
+                "occurrences": [
+                    {
+                        "start_idx": 292,
+                        "end_idx": 301
+                    },
+                    {
+                        "start_idx": 441,
+                        "end_idx": 450
+                    },
+                    {
+                        "start_idx": 1051,
+                        "end_idx": 1060
+                    },
+                    {
+                        "start_idx": 1851,
+                        "end_idx": 1860
+                    }
+                ]
+            },
+            {
+                "word": "night",
+                "occurrences": [
+                    {
+                        "start_idx": 1272,
+                        "end_idx": 1277
+                    },
+                    {
+                        "start_idx": 1613,
+                        "end_idx": 1618
+                    },
+                    {
+                        "start_idx": 1656,
+                        "end_idx": 1661
+                    },
+                    {
+                        "start_idx": 1780,
+                        "end_idx": 1785
+                    },
+                    {
+                        "start_idx": 1935,
+                        "end_idx": 1940
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-01-12T21:02:50.319Z"
+}

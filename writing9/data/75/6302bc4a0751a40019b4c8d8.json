@@ -1,0 +1,239 @@
+{
+    "url": "https://writing9.com/text/6302bc4a0751a40019b4c8d8-some-people-think-that-newspaper-are-best-media-to-learn",
+    "file": "data\\75\\6302bc4a0751a40019b4c8d8.json",
+    "topics": [
+        "people",
+        "newspaper",
+        "media",
+        "information",
+        "internet",
+        "source"
+    ],
+    "question": "Some people think that newspaper are best media to learn and get information from, while others believe that internet is a better source.Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In contemporary society, it has been contentious whether newspapers or the internet is a better source to absorb knowledge and information for the public. In this essay I will shed some light on  both means.",
+        "To begin with, newspapers have been, and still are, renowned for their trustworthiness. Most of them have been operating for decades, and have a reputation to withhold. Journalists and editors in news organizations are taught and required to protect their sources and verify their stories. Consequently, they can extract shocking stories which others cannot and still the public can believe, to the very least, the facts of the reports. Certainly, different papers have different stances and in some ways they tend to cherry-pick the news. For example, Fox is known to be friendly to Trump in its reporting. Still, the stance of a news organization is very much consistent and we can do our own discounting before deciding to believe its stories or not. Furthermore, newspapers are picky in their hiring process, so we can assume the language and spelling of words are correct, it is hence useful for students as far as learning is concerned.",
+        "On the other hand, information on the internet is multifarious. We can learn all we can imagine on the internet, notwithstanding the need to judge ourselves whether the materials are dependable. A lot of KOL (key opinion leaders) disseminating news and information on the internet are followed by readers or viewers,  yet there is no guarantee their information or understanding of the matter is correct. For instance, a lot of KOLs suddenly became military experts once the Ukraine war broke out and made quite some predictions, which had turned out to be incorrect. In addition, information online can even be dangerous. It is exemplified by the fact that previous Japanese prime minister Abe was killed by a man who learnt to make a gun from 3D printing by following online guidance. I must admit, however, the information on the internet can be faster and more useful to some groups of the public, like the investing community, very often the stock prices are different once a rumour is confirmed the next day.",
+        "In short, the information on the internet is fast, but not verified by trustworthy people like those employed by newspapers. In my opinion, both sources of information are needed by us but it is commendable for adolescents who may not yet develop good judgement ability to stick to newspapers."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "essay",
+                "start_idx": 163,
+                "end_idx": 168,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase In this essay. Consider adding a comma.",
+                "suggetions": [
+                    ",essay"
+                ]
+            },
+            {
+                "word": "ways",
+                "start_idx": 708,
+                "end_idx": 712,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase in some ways. Consider adding a comma.",
+                "suggetions": [
+                    ",ways"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 1433,
+                "end_idx": 1436,
+                "error": "Change the verb form",
+                "error_des": "The verb are does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "is"
+                ]
+            }
+        ]
+    },
+    "submitter": "ABC_XYZ",
+    "num_words": 411,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "on the other hand",
+            "for instance",
+            "hence",
+            "consequently",
+            "furthermore",
+            "for example",
+            "however",
+            "in addition",
+            "next",
+            "this",
+            "to begin"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "newspapers",
+                "occurrences": [
+                    {
+                        "start_idx": 57,
+                        "end_idx": 67
+                    },
+                    {
+                        "start_idx": 223,
+                        "end_idx": 233
+                    },
+                    {
+                        "start_idx": 975,
+                        "end_idx": 985
+                    },
+                    {
+                        "start_idx": 2279,
+                        "end_idx": 2289
+                    },
+                    {
+                        "start_idx": 2448,
+                        "end_idx": 2458
+                    }
+                ]
+            },
+            {
+                "word": "news",
+                "occurrences": [
+                    {
+                        "start_idx": 57,
+                        "end_idx": 61
+                    },
+                    {
+                        "start_idx": 223,
+                        "end_idx": 227
+                    },
+                    {
+                        "start_idx": 404,
+                        "end_idx": 408
+                    },
+                    {
+                        "start_idx": 742,
+                        "end_idx": 746
+                    },
+                    {
+                        "start_idx": 839,
+                        "end_idx": 843
+                    },
+                    {
+                        "start_idx": 975,
+                        "end_idx": 979
+                    },
+                    {
+                        "start_idx": 1395,
+                        "end_idx": 1399
+                    },
+                    {
+                        "start_idx": 2279,
+                        "end_idx": 2283
+                    },
+                    {
+                        "start_idx": 2448,
+                        "end_idx": 2452
+                    }
+                ]
+            },
+            {
+                "word": "internet",
+                "occurrences": [
+                    {
+                        "start_idx": 75,
+                        "end_idx": 83
+                    },
+                    {
+                        "start_idx": 1189,
+                        "end_idx": 1197
+                    },
+                    {
+                        "start_idx": 1254,
+                        "end_idx": 1262
+                    },
+                    {
+                        "start_idx": 1423,
+                        "end_idx": 1431
+                    },
+                    {
+                        "start_idx": 1984,
+                        "end_idx": 1992
+                    },
+                    {
+                        "start_idx": 2199,
+                        "end_idx": 2207
+                    }
+                ]
+            },
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 127,
+                        "end_idx": 138
+                    },
+                    {
+                        "start_idx": 1170,
+                        "end_idx": 1181
+                    },
+                    {
+                        "start_idx": 1404,
+                        "end_idx": 1415
+                    },
+                    {
+                        "start_idx": 1501,
+                        "end_idx": 1512
+                    },
+                    {
+                        "start_idx": 1732,
+                        "end_idx": 1743
+                    },
+                    {
+                        "start_idx": 1965,
+                        "end_idx": 1976
+                    },
+                    {
+                        "start_idx": 2180,
+                        "end_idx": 2191
+                    },
+                    {
+                        "start_idx": 2322,
+                        "end_idx": 2333
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-21T23:20:48.376Z"
+}

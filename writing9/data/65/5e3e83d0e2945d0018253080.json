@@ -1,0 +1,163 @@
+{
+    "url": "https://writing9.com/text/5e3e83d0e2945d0018253080",
+    "file": "data\\65\\5e3e83d0e2945d0018253080.json",
+    "topics": [
+        "people",
+        "space",
+        "exploration",
+        "humanity"
+    ],
+    "question": "Some people believe that space exploration is beneficial to humanity. Others, however, think that it is useless. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is often argued that space research is favorable trend for humans and the Earth, whereas others put forward the view that it is of no use and waste of money. I support the former statement because studying outer space is likely to resolve pressing issues on our planet.",
+        "On the one hand, space exploration is widely criticized as a waste of valuable money. Indeed, every year, governments around the world allocate billions of dollars for doing the research, creating and launching spacecraft. Unfortunately, many rockets fail to bring expected results to scientists. NASA, for instance, has sent about 10 rockets since 2000, none of which were able to find signs of life that sustain humans.",
+        "On the other hand, in my opinion, discovering life on another planet would be a back-up plan for humanity. To be more specific, if planet Earth becomes uninhabitable due to overpopulation or climate change, our civilization will have to colonize to alien space to survive. To illustrate, Elon Musk came up with an idea to create a city with a million inhabitants on Mars, which is the result of years of studies on the planet.",
+        "In addition, learning about space will provide in-depth knowledge on our planet itself and upcoming dangers. This can be handy in terms of natural disasters or meteors that can devastate life on Earth. Five years ago, there was an asteroid coming to collide with Earth, when Japanese scholars had already studied it and terminated with a nuclear bomb beyond our ozone layer.",
+        "To conclude, whether to study life beyond our planet or not is a controversial topic. Despite the huge amount of costs involved, I strongly believe that space exploration might facilitate to avoid disasters and help civilization to continue."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "favorable trend",
+                "start_idx": 42,
+                "end_idx": 57,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a favourable trend",
+                    "favourable trend"
+                ]
+            }
+        ]
+    },
+    "submitter": "mrsherkhanofficial",
+    "num_words": 291,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "for instance",
+            "on the other hand",
+            "this",
+            "in addition"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "planet",
+                "occurrences": [
+                    {
+                        "start_idx": 265,
+                        "end_idx": 271
+                    },
+                    {
+                        "start_idx": 757,
+                        "end_idx": 763
+                    },
+                    {
+                        "start_idx": 826,
+                        "end_idx": 832
+                    },
+                    {
+                        "start_idx": 1114,
+                        "end_idx": 1120
+                    },
+                    {
+                        "start_idx": 1195,
+                        "end_idx": 1201
+                    },
+                    {
+                        "start_idx": 1543,
+                        "end_idx": 1549
+                    }
+                ]
+            },
+            {
+                "word": "space",
+                "occurrences": [
+                    {
+                        "start_idx": 24,
+                        "end_idx": 29
+                    },
+                    {
+                        "start_idx": 215,
+                        "end_idx": 220
+                    },
+                    {
+                        "start_idx": 290,
+                        "end_idx": 295
+                    },
+                    {
+                        "start_idx": 484,
+                        "end_idx": 489
+                    },
+                    {
+                        "start_idx": 950,
+                        "end_idx": 955
+                    },
+                    {
+                        "start_idx": 1150,
+                        "end_idx": 1155
+                    },
+                    {
+                        "start_idx": 1650,
+                        "end_idx": 1655
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 669,
+                        "end_idx": 673
+                    },
+                    {
+                        "start_idx": 741,
+                        "end_idx": 745
+                    },
+                    {
+                        "start_idx": 1309,
+                        "end_idx": 1313
+                    },
+                    {
+                        "start_idx": 1527,
+                        "end_idx": 1531
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-08T09:48:00.554Z"
+}

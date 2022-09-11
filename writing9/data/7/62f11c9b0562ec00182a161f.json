@@ -1,0 +1,158 @@
+{
+    "url": "https://writing9.com/text/62f11c9b0562ec00182a161f-these-days-many-university-courses-are-offered-through-the-internet",
+    "file": "data\\7\\62f11c9b0562ec00182a161f.json",
+    "topics": [
+        "university",
+        "courses",
+        "internet",
+        "people",
+        "classroom",
+        "lectures"
+    ],
+    "question": "These days, many university courses are offered through the internet. Some people  think that online teaching has more advantages than conventional classroom teaching  or lectures, while others claim that there are significant disadvantages.  Do the benefits of online teaching outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There have been ongoing debates regarding whether or not some university curriculums should be taught in online classes. While doing so can be both negative and positive, I believe that there are more benefits than disadvantages.",
+        "To begin with, there are various benefits associated with online teaching after high school levels. Firstly, this allows students to study at home to take less risk of having colona virus because lectures in conventional classroom have to participate with many classmates during the pandemic. Secondly, another optimistic advantage is that students will not have confronted with traffic problems, as they can study at their home using their tablet or their computer. A number of scientific studies suggest that university crews who got opportunities to study online are more likely to reduce their stress and their anxiety from traffic congestion before the class.",
+        "On the other hand, some opponents of this idea might argue that allowing online lectures are not practical for some subjects such as chemistry. This is possibly because it believes that these subjects require experimental skills that can build up from real situations. However, this argument is simply invalid, given that numerous studies have proven that many university students in Thailand , for example, cannot access the laboratory equipment due to  not enough. In fact, this also revealed that the university's organization should encourage and balance students' schedules between online classes and reality classrooms.",
+        "In conclusion, although some are concerned that teaching online in universities might contribute to missing real practices, this essay demonstrated that its advantages outweigh its potential detrimental outcomes."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "colona",
+                "start_idx": 405,
+                "end_idx": 411,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want colona to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "colon"
+                ]
+            },
+            {
+                "word": "conventional",
+                "start_idx": 438,
+                "end_idx": 450,
+                "error": "Add an article",
+                "error_des": "The noun phrase conventional classroom seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the conventional"
+                ]
+            },
+            {
+                "word": "classroom",
+                "start_idx": 451,
+                "end_idx": 460,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that classroom may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "classrooms"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 884,
+                "end_idx": 888,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "toht.sirisithichote1",
+    "num_words": 261,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "on the other hand",
+            "for example",
+            "such",
+            "although",
+            "however",
+            "this",
+            "to begin",
+            "also",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "university",
+                "occurrences": [
+                    {
+                        "start_idx": 62,
+                        "end_idx": 72
+                    },
+                    {
+                        "start_idx": 741,
+                        "end_idx": 751
+                    },
+                    {
+                        "start_idx": 1256,
+                        "end_idx": 1266
+                    },
+                    {
+                        "start_idx": 1399,
+                        "end_idx": 1409
+                    }
+                ]
+            },
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 351,
+                        "end_idx": 359
+                    },
+                    {
+                        "start_idx": 570,
+                        "end_idx": 578
+                    },
+                    {
+                        "start_idx": 1267,
+                        "end_idx": 1275
+                    },
+                    {
+                        "start_idx": 1454,
+                        "end_idx": 1462
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-08T14:29:22.531Z"
+}

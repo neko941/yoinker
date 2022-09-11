@@ -1,0 +1,153 @@
+{
+    "url": "https://writing9.com/text/62e5718f8ee1ab00180e4d88-you-recently-broke-your-leg-and-your-colleagues-from-work",
+    "file": "data\\65\\62e5718f8ee1ab00180e4d88.json",
+    "topics": [
+        "leg",
+        "colleagues",
+        "work",
+        "get-well",
+        "cards",
+        "time",
+        "recovery",
+        "process"
+    ],
+    "question": "You recently broke your leg and your colleagues from work sent you get-well cards and presents. Write a letter to them and:\n\n\n- thank them for supporting you\n- describe how you spend your time\n- explain your recovery process",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear colleagues,",
+        "I hope you all are doing good. I'm just writing to thank you guys for your lovely wishes and presents which made my day.",
+        "When I got up yesterday, I was surprised to see my room full of presents, flowers and get-well cards. For a moment, I forgot all my pain and tried to grab the presents but soon realizing my condition, I asked my brother to show me the cards and the gifts. Frankly speaking, I became emotional after seeing so many wishes for my well-being. These prayers for sure will speed up my recovery process.",
+        "Without your presents, my routine here is pretty boring, thanks to my fractured leg. But, looking at the positive side, it has given me time to learn about my interest area which is financial planning. I spend most of my time reading about it. Other than this, I have also completed the web-series which you all were recommending me for quite some time now.",
+        "Today morning, the doctor visited for routine check-up and shared that I'll get discharge from the hospital next week, and I'll require three months bed rest before getting back to normal life. But if I take the services of physiotherapy, I will be able to walk in two months.",
+        "I'm waiting eagerly to get back to normalcy and once again thank you for your gifts and wishes. See you soon !",
+        "Regards",
+        "Aman"
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "at",
+                "start_idx": 634,
+                "end_idx": 636,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "web-series",
+                "start_idx": 823,
+                "end_idx": 833,
+                "error": "Correct your spelling",
+                "error_des": "The word web-series doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "web series"
+                ]
+            },
+            {
+                "word": "all",
+                "start_idx": 844,
+                "end_idx": 847,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "have all"
+                ]
+            },
+            {
+                "word": "were",
+                "start_idx": 848,
+                "end_idx": 852,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb were. Consider changing it.",
+                "suggetions": [
+                    "been"
+                ]
+            },
+            {
+                "word": "me",
+                "start_idx": 866,
+                "end_idx": 868,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to me"
+                ]
+            },
+            {
+                "word": "routine",
+                "start_idx": 932,
+                "end_idx": 939,
+                "error": "Add an article",
+                "error_des": "The noun phrase routine check-up seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a routine"
+                ]
+            },
+            {
+                "word": "discharge",
+                "start_idx": 974,
+                "end_idx": 983,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb discharge. Consider changing it.",
+                "suggetions": [
+                    "discharged"
+                ]
+            },
+            {
+                "word": "bed",
+                "start_idx": 1043,
+                "end_idx": 1046,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of bed"
+                ]
+            }
+        ]
+    },
+    "submitter": "amanmalik640",
+    "num_words": 236,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "also",
+            "next"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-07-30T18:32:21.685Z"
+}

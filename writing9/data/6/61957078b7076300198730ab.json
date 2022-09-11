@@ -1,0 +1,275 @@
+{
+    "url": "https://writing9.com/text/61957078b7076300198730ab-some-people-believe-that-the-fittest-and-strongest-individuals-and",
+    "file": "data\\6\\61957078b7076300198730ab.json",
+    "topics": [
+        "people",
+        "individuals",
+        "teams",
+        "sports",
+        "success",
+        "attitudes",
+        "bith"
+    ],
+    "question": "Some people believe that the fittest and strongest individuals and teams succeed in sports. Others think that success in sports depends on mental attitudes.Discuss bith the views and give your opinions",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Opinions differ regarding whether those  who are physically fit are the only  ones who succeed in sports .However, believe that a positive mental attitude is required for succeeding in sports.In this essay I will discuss both perspectives .I believe that both-physical fitness and mental attitude are needed  for success in sports.",
+        "Physical fitness is important when an individual joins  the sports career. This applies with outdoor games like football, baseball or basketball.These types of sports require  strength and physical  fit.With this regard, having these qualifications   are big factors to win the games. For instance, football games have a lot of contact with their opponents .If a player is not physically strong the chance  of being injured will most likely happen. This is not good for the player and even the teams .Accidental injuries sometimes can be life threatening. Furthermore, in   a sports career there are coaches and trainers. Their function  is to help  players to build their strength and stamina in order to win every competition.Therefore, being physically fit is very important in order to succeed in  a sports career.",
+        "Talking about good mental behavior , this qualification is equally important as physical fitness when playing any kind of games  in order to reach the pinnacles of success. In team sports ,players will be dealing with their co players and their leader . It can be stressful because pressures cannot be  avoided even in  the same team. If any conflicts  are  not resolved by group teams , their good relationship might be weakened . Apart from being weakened ,they might also lose their interest to achieve their goal which is to become  successful in  the sports profession.However, with the good mental behavior of sports players such as discipline they will succeed in their future. Their positive attitude will also open many opportunities .",
+        "In conclusion, being physically fit and in good spirits  play a pivotal role in becoming a successful sports player."
+    ],
+    "errors": {
+        "num_error": "11",
+        "error_list": [
+            {
+                "word": "essay",
+                "start_idx": 200,
+                "end_idx": 205,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase In this essay. Consider adding a comma.",
+                "suggetions": [
+                    ",essay"
+                ]
+            },
+            {
+                "word": "  the",
+                "start_idx": 386,
+                "end_idx": 391,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "with",
+                "start_idx": 420,
+                "end_idx": 424,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "With",
+                "start_idx": 535,
+                "end_idx": 539,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "In"
+                ]
+            },
+            {
+                "word": "life threatening",
+                "start_idx": 870,
+                "end_idx": 886,
+                "error": "Add a hyphen",
+                "error_des": "It appears that life threatening is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "life-threatening"
+                ]
+            },
+            {
+                "word": "career",
+                "start_idx": 915,
+                "end_idx": 921,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase in   a sports career. Consider adding a comma.",
+                "suggetions": [
+                    ",career"
+                ]
+            },
+            {
+                "word": "behavior ",
+                "start_idx": 1177,
+                "end_idx": 1186,
+                "error": "Change the spelling",
+                "error_des": "The spelling of behavior is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "behaviour"
+                ]
+            },
+            {
+                "word": "games  ",
+                "start_idx": 1273,
+                "end_idx": 1280,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that games may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "game"
+                ]
+            },
+            {
+                "word": "co ",
+                "start_idx": 1375,
+                "end_idx": 1378,
+                "error": "Add a hyphen",
+                "error_des": "It appears that co players is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "co-players"
+                ]
+            },
+            {
+                "word": "behavior",
+                "start_idx": 1755,
+                "end_idx": 1763,
+                "error": "Change the spelling",
+                "error_des": "The spelling of behavior is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "behaviour"
+                ]
+            },
+            {
+                "word": "discipline",
+                "start_idx": 1790,
+                "end_idx": 1800,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase with the good mental behavior of sports players such as discipline. Consider adding a comma.",
+                "suggetions": [
+                    ",discipline"
+                ]
+            }
+        ]
+    },
+    "submitter": "verica.pilar",
+    "num_words": 322,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for instance",
+            "furthermore",
+            "however",
+            "therefore",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "games",
+                "occurrences": [
+                    {
+                        "start_idx": 433,
+                        "end_idx": 438
+                    },
+                    {
+                        "start_idx": 610,
+                        "end_idx": 615
+                    },
+                    {
+                        "start_idx": 640,
+                        "end_idx": 645
+                    },
+                    {
+                        "start_idx": 1273,
+                        "end_idx": 1278
+                    }
+                ]
+            },
+            {
+                "word": "players",
+                "occurrences": [
+                    {
+                        "start_idx": 982,
+                        "end_idx": 989
+                    },
+                    {
+                        "start_idx": 1340,
+                        "end_idx": 1347
+                    },
+                    {
+                        "start_idx": 1378,
+                        "end_idx": 1385
+                    },
+                    {
+                        "start_idx": 1774,
+                        "end_idx": 1781
+                    }
+                ]
+            },
+            {
+                "word": "sports",
+                "occurrences": [
+                    {
+                        "start_idx": 98,
+                        "end_idx": 104
+                    },
+                    {
+                        "start_idx": 185,
+                        "end_idx": 191
+                    },
+                    {
+                        "start_idx": 324,
+                        "end_idx": 330
+                    },
+                    {
+                        "start_idx": 392,
+                        "end_idx": 398
+                    },
+                    {
+                        "start_idx": 492,
+                        "end_idx": 498
+                    },
+                    {
+                        "start_idx": 908,
+                        "end_idx": 914
+                    },
+                    {
+                        "start_idx": 1136,
+                        "end_idx": 1142
+                    },
+                    {
+                        "start_idx": 1332,
+                        "end_idx": 1338
+                    },
+                    {
+                        "start_idx": 1707,
+                        "end_idx": 1713
+                    },
+                    {
+                        "start_idx": 1767,
+                        "end_idx": 1773
+                    },
+                    {
+                        "start_idx": 1998,
+                        "end_idx": 2004
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-11-17T21:13:29.524Z"
+}

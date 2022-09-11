@@ -1,0 +1,146 @@
+{
+    "url": "https://writing9.com/text/5d4be93bf748ba0017f28ea2",
+    "file": "data\\6\\5d4be93bf748ba0017f28ea2.json",
+    "topics": [
+        "traffic",
+        "companies",
+        "factories",
+        "employees",
+        "countryside"
+    ],
+    "question": "Traffic and housing problems could be solved by moving large companies, factories and their employees to the countryside.\n\nDo you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Increased traffic and lack of housing supply are major concerns in many places. By relocating large businesses, including their factories and employees, to rural areas, these issues can be properly addressed. I personally find this idea justifiable; however, at the same time, some other initiatives should be implemented if we expect to solve traffic and housing problems effectively.",
+        "Moving businesses and their facilities to the countryside will cause urban population to shrink substantially as successful companies, such as Apple, provide work for thousands of people. This, as a result, will relieve pressure on urban housing supply systems. Another apparent advantage of a decreased population is lower volumes of traffic which help reduce traffic congestion. In Hanoi for example, most people travel to work by private vehicles, and this leads to overcrowded roads during the rush hour. If big companies are based in a rural area and offer accommodation to their employees near their workplaces, this will no longer be the case.",
+        "Nonetheless, I think the mentioned problems are rather complicated and can only be solved completely by the introduction of some other measures. One example involves the development of road systems because narrow roads largely contribute to traffic jams in major cities. Building wider roads and motorways will allow a greater number of vehicles, both private and public, and therefore reduce traffic congestion. Also, residential areas with small living spaces that can accommodate a growing population should be established in urban centers.",
+        "In conclusion, I agree that relocating businesses to the countryside is one way to deal with traffic and housing problems. I also believe that we need a combination of this approach and a number of other actions, as listed above, to tackle these problems in a more comprehensive manner."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "to",
+                "start_idx": 426,
+                "end_idx": 428,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "some",
+                "start_idx": 1163,
+                "end_idx": 1167,
+                "error": "one or some or every or all without specification",
+                "error_des": "",
+                "suggetions": [
+                    "any"
+                ]
+            },
+            {
+                "word": "centers",
+                "start_idx": 1574,
+                "end_idx": 1581,
+                "error": "an area that is approximately central within some larger region",
+                "error_des": "",
+                "suggetions": [
+                    "centres"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1634,
+                "end_idx": 1636,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "nvtr151013",
+    "num_words": 291,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "nonetheless",
+            "as a result",
+            "for example",
+            "however",
+            "therefore",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "traffic",
+                "occurrences": [
+                    {
+                        "start_idx": 10,
+                        "end_idx": 17
+                    },
+                    {
+                        "start_idx": 344,
+                        "end_idx": 351
+                    },
+                    {
+                        "start_idx": 721,
+                        "end_idx": 728
+                    },
+                    {
+                        "start_idx": 747,
+                        "end_idx": 754
+                    },
+                    {
+                        "start_idx": 1278,
+                        "end_idx": 1285
+                    },
+                    {
+                        "start_idx": 1430,
+                        "end_idx": 1437
+                    },
+                    {
+                        "start_idx": 1674,
+                        "end_idx": 1681
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-08T09:19:55.453Z"
+}

@@ -1,0 +1,107 @@
+{
+    "url": "https://writing9.com/text/5d8a55655080810017ffc48c",
+    "file": "data\\7\\5d8a55655080810017ffc48c.json",
+    "topics": [
+        "people",
+        "donot",
+        "support"
+    ],
+    "question": "Do you agree or disagree with the following statement:\nPeople should sometimes do things that they donot enjoy doing.\nUse specific reasons and details to support your answer",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Life is challenging. In order to be happy and successful, we need to prepare ourselves on many fronts. Although participating in enjoyable activities is always desirable, in my view it is also necessary at times to do things we do not enjoy. The bases for my view are personal, social and financial.",
+        "Personally, doing things we don\u2019t care for builds character and helps us mature. For instance, when parents have their first baby they are forced to give up their freedom in order to look after the child. There are times when parents barely get enough sleep and still have to get up and go to work in the morning. Similarly, when students are in school and university, they need to spend a lot of time studying. In spite of being tempted to go out with friends and attend parties, those who have self-control and keep their priorities straight are the ones who get high grades. Through such life experiences people become stronger, wiser and more responsible.",
+        "From a social perspective, we live in an interdependent world which imposes its obligations on us. Each person belongs to diverse social groups and plays various social roles. Each of us has to attend birthday parties, weddings and funerals to show we care about our fellow human beings. Participating in events for the sake of others teaches us to go beyond our own selfish needs and to share in the joys and sorrows of others.",
+        "Financially-speaking, people need to work - and spend - to keep the local, national and international economy growing. We need to support our own family in particular and our community in general. In fact, most of us work many more hours than we would like to work. What propels us to continue working is our financial needs, commitments and obligations. Only in this way are we able to live comfortable lifestyles and save for our retirement days.",
+        "In conclusion, life places huge demands on us. By participating in a wide variety of activities, both pleasant and unpleasant, we can discover more about our unique selves and live fuller lives."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "view it",
+                "start_idx": 177,
+                "end_idx": 184,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "view, it"
+                ]
+            }
+        ]
+    },
+    "submitter": "anindya.paul",
+    "num_words": 351,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "in particular",
+            "this",
+            "similarly",
+            "although",
+            "for instance",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 593,
+                        "end_idx": 597
+                    },
+                    {
+                        "start_idx": 1426,
+                        "end_idx": 1430
+                    },
+                    {
+                        "start_idx": 1606,
+                        "end_idx": 1610
+                    },
+                    {
+                        "start_idx": 1649,
+                        "end_idx": 1653
+                    },
+                    {
+                        "start_idx": 1683,
+                        "end_idx": 1687
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-24T17:41:57.532Z"
+}

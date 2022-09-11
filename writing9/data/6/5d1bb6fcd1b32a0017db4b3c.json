@@ -1,0 +1,164 @@
+{
+    "url": "https://writing9.com/text/5d1bb6fcd1b32a0017db4b3c",
+    "file": "data\\6\\5d1bb6fcd1b32a0017db4b3c.json",
+    "topics": [
+        "schools",
+        "tablets",
+        "laptop",
+        "computers",
+        "students",
+        "school",
+        "books",
+        "materials",
+        "exams",
+        "assignments",
+        "trend"
+    ],
+    "question": "An increasing number of schools provide tablets and laptop computers for students to use in school, replacing books and other printed materials like exams and assignments. What are the advantages and disadvantages of this trend?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, many schools are providing students with laptops and tablets to use for their home works and exams instead of printed books and materials. Like any other use of technology, this way of usage has its advantages and disadvantages which will be discussed below.",
+        "Firstly, one advantage of using tablets and computer laptops is that they are easier for students. This is due to the fact that these students will not be obligated to carry heavy bags on their shoulders, on a daily basis, when attending school. In addition, to that, carrying tablets or laptops not only organizes study materials, but also makes it easy for the student to access whatever he or she needs really quickly and without any effort. For example, let's think about the previous generations who suffered from sever back injuries and wasted a huge amount of time everyday searching for their homework pages and books. In addition, students will not longer be stressed about loosing pages thus loosing information because all will be stored in one single place.",
+        "Now, one disadvantage of using these kinds of stored materials is that they increase the risk of loosing data. This is because all materials of every subject are stored in only one single place which increases the chances of suddenly loosing everything. For instance, tablets and laptops are prone to viruses which can corrupt all the data stored in them. Not only that, but also tablets are very sensitive which increases their risk of being broken. If this happens, for example, the students will suffer the loss of his or her materials, and might also skip an exam until his or her tablet is fixed.",
+        "In conclusion, the new trend of using new and smart technologies to replace printed materials like books and assignments,has its advantages and disadvantages. They greatly turn the students' life easier, but it also puts his data at risk of being lost for good."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "sever",
+                "start_idx": 792,
+                "end_idx": 797,
+                "error": "intensely or extremely bad or unpleasant in degree or quality",
+                "error_des": "",
+                "suggetions": [
+                    "severe"
+                ]
+            },
+            {
+                "word": "pages ",
+                "start_idx": 964,
+                "end_idx": 970,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "pages, thus"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 1186,
+                "end_idx": 1188,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "suddenly",
+                "start_idx": 1270,
+                "end_idx": 1278,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "sudden"
+                ]
+            },
+            {
+                "word": "loosing",
+                "start_idx": 1279,
+                "end_idx": 1286,
+                "error": "fail to keep or to maintain; cease to have, either physically or in an abstract sense",
+                "error_des": "",
+                "suggetions": [
+                    "losing"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1768,
+                "end_idx": 1769,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            }
+        ]
+    },
+    "submitter": "lama.shamy",
+    "num_words": 321,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "for instance",
+            "for example",
+            "instead",
+            "in addition",
+            "this",
+            "also",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "one",
+                "occurrences": [
+                    {
+                        "start_idx": 278,
+                        "end_idx": 281
+                    },
+                    {
+                        "start_idx": 1021,
+                        "end_idx": 1024
+                    },
+                    {
+                        "start_idx": 1044,
+                        "end_idx": 1047
+                    },
+                    {
+                        "start_idx": 1216,
+                        "end_idx": 1219
+                    },
+                    {
+                        "start_idx": 1333,
+                        "end_idx": 1336
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-02T19:56:44.000Z"
+}

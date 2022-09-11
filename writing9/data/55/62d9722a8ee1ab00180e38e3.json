@@ -1,0 +1,147 @@
+{
+    "url": "https://writing9.com/text/62d9722a8ee1ab00180e38e3-some-people-think-that-it-is-important-to-use-leisure",
+    "file": "data\\55\\62d9722a8ee1ab00180e38e3.json",
+    "topics": [
+        "people",
+        "leisure",
+        "time",
+        "activities",
+        "mind",
+        "word",
+        "puzzles"
+    ],
+    "question": "Some people think that it is important to use leisure time for activities that improve the mind, such as reading and doing word puzzles.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many people nowadays think that resting the min in our free time could help us relax meanwhile others like me believe that it is better to read or do word puzzles in our leisure time. I will be discussing why I agree and believe that doing that will help us increase our abilities in English.",
+        "Firstly, reading books can help us with thing we struggle with such as reading, writing, spelling as well as  vocabulary. By doing so we can gain knowledge and refine our English skills. Furthermore, reading books can help us to better concentrate whether on work or lessons we have to attend",
+        "Secondly, word puzzles can open up our minds in many different ways that will help us in the future such as learning many new words you never knew about, In addition, this will make us realize what level of English we have and how we can further develop it to an entirely new level that was beyond our level.",
+        "Lastly, this increases our knowledge in many ways and many different fields you never level entered before. Even more, we will be at a high level that we will be able to teach many people new words of English. And by resting our brain we will be lazy as the brain is always working and asking questions.",
+        "To add even more, Resting the brain in our leisure time can be good but that what makes us tired and not want to do anything except for laying down and resting for as long as we want.",
+        "Overall, These are the main reasons to why I agree to a high extent as I think that it is the right thing to do when we are not busy at all."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "",
+                "start_idx": 333,
+                "end_idx": 333,
+                "error": "Add an article",
+                "error_des": "The noun phrase thing seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the thing",
+                    "a thing"
+                ]
+            },
+            {
+                "word": "thing",
+                "start_idx": 333,
+                "end_idx": 338,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that thing may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "things"
+                ]
+            },
+            {
+                "word": "what",
+                "start_idx": 1277,
+                "end_idx": 1281,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "is what"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 1420,
+                "end_idx": 1423,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "jayalshammari190",
+    "num_words": 291,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "furthermore",
+            "such",
+            "lastly",
+            "further",
+            "in addition",
+            "this",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "english",
+                "occurrences": []
+            },
+            {
+                "word": "level",
+                "occurrences": [
+                    {
+                        "start_idx": 784,
+                        "end_idx": 789
+                    },
+                    {
+                        "start_idx": 862,
+                        "end_idx": 867
+                    },
+                    {
+                        "start_idx": 888,
+                        "end_idx": 893
+                    },
+                    {
+                        "start_idx": 981,
+                        "end_idx": 986
+                    },
+                    {
+                        "start_idx": 1035,
+                        "end_idx": 1040
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-21T15:35:07.949Z"
+}

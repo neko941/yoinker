@@ -1,0 +1,351 @@
+{
+    "url": "https://writing9.com/text/5f099180401ea400186c58e3",
+    "file": "data\\5\\5f099180401ea400186c58e3.json",
+    "topics": [
+        "people",
+        "freedom",
+        "work",
+        "live",
+        "advances",
+        "communication",
+        "technology",
+        "transportation"
+    ],
+    "question": "Nowadays many people now have the freedom to work an live anywhere because of advances in communication technology and transportation.\nDo the advantages outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Indeed, tremendous changes has been brought by technical appliances at every facet of life globally. Irrefutably computers and mobile phones has made life easier. Due to it, most of workers doing office work at home. According to me by doing work from home have more fruitful effects rather than drawbacks. My further notion about above given statement as follows:",
+        "Initially, an ample of fruitful results behind this phenomenon. The prime one is, time saving by this approach. Because when workers travel everyday then they consume lot of time and traffic jam is big problem while traveling. Such as, nowadays, everyone use their own vehicle due to it, traffic and pollution increase day by day. Whereas, if they do work in home they can solve this problem. Secondly, in the modern era, women also do part time and full time job by which they do not do take care of children but if they spend their quality of time with their family members.",
+        "Admittedly, 'as every coin has two sides' so behind this phenomenon have some adverse effects on human life. First of all, by doing work remotely communication among employees get reduce because when employees go office daily they meet different people by which they learn many things from them but it is not possible when they do work at home. Moreover, due to it, they become more lazy and unhealthy. As a result they can face many health problems.",
+        "In conclusion, although by doing work at home employees face many problems but its positive effect cannot neglected by humans."
+    ],
+    "errors": {
+        "num_error": "17",
+        "error_list": [
+            {
+                "word": "has been brought",
+                "start_idx": 27,
+                "end_idx": 43,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "have been brought"
+                ]
+            },
+            {
+                "word": "has made",
+                "start_idx": 141,
+                "end_idx": 149,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "have made"
+                ]
+            },
+            {
+                "word": "workers",
+                "start_idx": 182,
+                "end_idx": 189,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the workers"
+                ]
+            },
+            {
+                "word": "above given statement",
+                "start_idx": 331,
+                "end_idx": 352,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the above given statement"
+                ]
+            },
+            {
+                "word": "everyday ",
+                "start_idx": 506,
+                "end_idx": 515,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "everyday, then"
+                ]
+            },
+            {
+                "word": "lot",
+                "start_idx": 533,
+                "end_idx": 536,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a lot"
+                ]
+            },
+            {
+                "word": "big problem",
+                "start_idx": 564,
+                "end_idx": 575,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a big problem",
+                    "the big problem"
+                ]
+            },
+            {
+                "word": "traveling",
+                "start_idx": 582,
+                "end_idx": 591,
+                "error": "the act of going from one place to another",
+                "error_des": "",
+                "suggetions": [
+                    "travelling"
+                ]
+            },
+            {
+                "word": "use",
+                "start_idx": 621,
+                "end_idx": 624,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "uses"
+                ]
+            },
+            {
+                "word": "home",
+                "start_idx": 725,
+                "end_idx": 729,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a home",
+                    "homes",
+                    "the home"
+                ]
+            },
+            {
+                "word": "do not do take",
+                "start_idx": 844,
+                "end_idx": 858,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "do not take",
+                    "don't take",
+                    "aren't taken",
+                    "aren't taking",
+                    "are not taking",
+                    "are not taken",
+                    "have not taken"
+                ]
+            },
+            {
+                "word": "children but",
+                "start_idx": 867,
+                "end_idx": 879,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "children, but"
+                ]
+            },
+            {
+                "word": "their quality of ",
+                "start_idx": 894,
+                "end_idx": 911,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "their quality time"
+                ]
+            },
+            {
+                "word": "some",
+                "start_idx": 1016,
+                "end_idx": 1020,
+                "error": "one or some or every or all without specification",
+                "error_des": "",
+                "suggetions": [
+                    "any"
+                ]
+            },
+            {
+                "word": "doing ",
+                "start_idx": 1069,
+                "end_idx": 1075,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "will work remotely communication among employees get",
+                    "getting work remotely communication among employees",
+                    "has work remotely communication among employees gotten",
+                    "has work remotely communication among employees got",
+                    "is work remotely communication among employees getting",
+                    "was work remotely communication among employees getting",
+                    "doing work remotely communication among employees get"
+                ]
+            },
+            {
+                "word": "result they",
+                "start_idx": 1351,
+                "end_idx": 1362,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "result, they"
+                ]
+            },
+            {
+                "word": "neglected",
+                "start_idx": 1501,
+                "end_idx": 1510,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "neglect"
+                ]
+            }
+        ]
+    },
+    "submitter": "Ramandeep Kaur",
+    "num_words": 260,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "then",
+            "moreover",
+            "although",
+            "as a ",
+            "further",
+            "secondly",
+            "initially",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 447,
+                        "end_idx": 451
+                    },
+                    {
+                        "start_idx": 539,
+                        "end_idx": 543
+                    },
+                    {
+                        "start_idx": 806,
+                        "end_idx": 810
+                    },
+                    {
+                        "start_idx": 820,
+                        "end_idx": 824
+                    },
+                    {
+                        "start_idx": 910,
+                        "end_idx": 914
+                    }
+                ]
+            },
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 182,
+                        "end_idx": 186
+                    },
+                    {
+                        "start_idx": 203,
+                        "end_idx": 207
+                    },
+                    {
+                        "start_idx": 242,
+                        "end_idx": 246
+                    },
+                    {
+                        "start_idx": 490,
+                        "end_idx": 494
+                    },
+                    {
+                        "start_idx": 716,
+                        "end_idx": 720
+                    },
+                    {
+                        "start_idx": 1074,
+                        "end_idx": 1078
+                    },
+                    {
+                        "start_idx": 1273,
+                        "end_idx": 1277
+                    },
+                    {
+                        "start_idx": 1426,
+                        "end_idx": 1430
+                    }
+                ]
+            },
+            {
+                "word": "home",
+                "occurrences": [
+                    {
+                        "start_idx": 211,
+                        "end_idx": 215
+                    },
+                    {
+                        "start_idx": 252,
+                        "end_idx": 256
+                    },
+                    {
+                        "start_idx": 724,
+                        "end_idx": 728
+                    },
+                    {
+                        "start_idx": 1281,
+                        "end_idx": 1285
+                    },
+                    {
+                        "start_idx": 1434,
+                        "end_idx": 1438
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-11T10:16:35.392Z"
+}

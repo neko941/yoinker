@@ -1,0 +1,181 @@
+{
+    "url": "https://writing9.com/text/63095c310751a40019b4d43c-many-governments-spend-lot-of-money-on-art-some-people",
+    "file": "data\\7\\63095c310751a40019b4d43c.json",
+    "topics": [
+        "governments",
+        "money",
+        "art",
+        "people",
+        "investment",
+        "health",
+        "education"
+    ],
+    "question": "Many governments spend lot of money on art. Some people think this investment in art is necessary, but others say that money is better spent on improving health and education. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is generally accepted that art enriches  society and plays a valuable role in its culture and history. Although some support  government investments in galleries, arts organisations and other art-related matters, others feel that this money should be spent on public outset. In this essay, I will consider both views and explain why I agree that state funding for arts should be redirected.",
+        "To begin with, those who backing union funding usually argue that it is essential to maintain a healthy craft scene. In Australia, the authority pours millions of dollars into this sector, with the National Gallery alone receiving over $8 million annually. Such institutions, it is claimed, are the pillars of society, and cash from the law makes them more accessible. Indeed, it is free to enter most public galleries and museums in Australia, thanks to the regime\u2019s support. Smaller profession groups and emerging artists also benefit from state funding, and without it, many worry that the art bodies would not survive, and that society would be poorer for it.",
+        "There are others, however, me included, who feel that these fears are unfounded, and that taxpayers\u2019 money would be more wisely spent on services that benefit the entire community. Already, many organisations not only survive but thrive without government handouts. The museum of Old and New art in Tasmania, for instance, is the state\u2019s major tourist attraction despite earning money solely from ticket sales and private investors. This kind of self-sufficiency supports the claim that the state\u2019s money should instead go to hospitals which could certainly use some staff, more wards and better technology or schools where the money could be put towards updating facilities, hiring more teachers or improving their resources. These services are used by everyday citizens, and, in many cases, they are severely underfunded.",
+        "In conclusion, even though state support of the art has been a long tradition, there are many other ways for artists and organisations to raise funds. It is more important for the government to spend on vital services such as education and healthcare."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "public",
+                "start_idx": 263,
+                "end_idx": 269,
+                "error": "Add an article",
+                "error_des": "The noun phrase public outset seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the public"
+                ]
+            },
+            {
+                "word": "backing",
+                "start_idx": 419,
+                "end_idx": 426,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb backing. Consider changing it.",
+                "suggetions": [
+                    "back"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1015,
+                "end_idx": 1016,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound object. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1138,
+                "end_idx": 1139,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound object. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "surapanenianil",
+    "num_words": 342,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "for instance",
+            "although",
+            "instead",
+            "however",
+            "this",
+            "to begin",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "money",
+                "occurrences": [
+                    {
+                        "start_idx": 238,
+                        "end_idx": 243
+                    },
+                    {
+                        "start_idx": 1159,
+                        "end_idx": 1164
+                    },
+                    {
+                        "start_idx": 1437,
+                        "end_idx": 1442
+                    },
+                    {
+                        "start_idx": 1557,
+                        "end_idx": 1562
+                    },
+                    {
+                        "start_idx": 1686,
+                        "end_idx": 1691
+                    }
+                ]
+            },
+            {
+                "word": "art",
+                "occurrences": [
+                    {
+                        "start_idx": 30,
+                        "end_idx": 33
+                    },
+                    {
+                        "start_idx": 166,
+                        "end_idx": 169
+                    },
+                    {
+                        "start_idx": 195,
+                        "end_idx": 198
+                    },
+                    {
+                        "start_idx": 367,
+                        "end_idx": 370
+                    },
+                    {
+                        "start_idx": 910,
+                        "end_idx": 913
+                    },
+                    {
+                        "start_idx": 987,
+                        "end_idx": 990
+                    },
+                    {
+                        "start_idx": 1350,
+                        "end_idx": 1353
+                    },
+                    {
+                        "start_idx": 1930,
+                        "end_idx": 1933
+                    },
+                    {
+                        "start_idx": 1991,
+                        "end_idx": 1994
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-26T23:52:18.277Z"
+}

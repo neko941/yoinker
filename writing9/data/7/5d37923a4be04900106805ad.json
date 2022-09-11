@@ -1,0 +1,128 @@
+{
+    "url": "https://writing9.com/text/5d37923a4be04900106805ad-you-want-to-sell-your-television-you-think-a-friend",
+    "file": "data\\7\\5d37923a4be04900106805ad.json",
+    "topics": [
+        "television",
+        "friend",
+        "date"
+    ],
+    "question": "You want to sell your television. You think a friend of yours might like to buy it from you. Write a letter to your friend.\n\nIn your letter:\n\n1)Explain why you are selling the television.\n2)Describe the television.\n3)Suggest a date when your friend can come and see it.\n\nWrite at least 150 words.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Ruth,",
+        "How're you darling? I hope everything is well with you. By the way,I intend putting up my TV set for sale and I thought I should inform you if you will want to buy.",
+        "My husband just got promoted in his company to the position of a Director and has been transferred to their headquarter in Dubai. As a result, my family will be relocating in two weeks time so, we are selling off most of our belongings.I remembered you planned buying a secondhand TV set for your living room next week. I don't know if you would like ours.",
+        "We've used the TV for only a year now and hasn't developed any fault. It's a 52inches Samsung, flat screen with an inbuilt stabilizer to regulate current.",
+        "Since you are always less busy on weekends, you could come over to my place this saturday and see if you would love to buy it.",
+        "Hope to see you soon.",
+        "Best Wishes",
+        "Glory"
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "putting",
+                "start_idx": 88,
+                "end_idx": 95,
+                "error": "Change the verb form",
+                "error_des": "Putting doesn\u2019t seem to work here.",
+                "suggetions": [
+                    "to put"
+                ]
+            },
+            {
+                "word": "buy",
+                "start_idx": 172,
+                "end_idx": 175,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "itbuy"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 241,
+                "end_idx": 243,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "buying",
+                "start_idx": 439,
+                "end_idx": 445,
+                "error": "Change the verb form",
+                "error_des": "The verb planned is usually followed by the to-infinitive, not by a gerund. Change buying to the to-infinitive form.",
+                "suggetions": [
+                    "to buy"
+                ]
+            },
+            {
+                "word": "flat screen",
+                "start_idx": 631,
+                "end_idx": 642,
+                "error": "Add a hyphen",
+                "error_des": "It appears that flat screen is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "flat-screen"
+                ]
+            },
+            {
+                "word": "saturday",
+                "start_idx": 773,
+                "end_idx": 781,
+                "error": "Change the capitalization",
+                "error_des": "It appears that the word saturday may be a proper noun in this context. Consider capitalizing the word.",
+                "suggetions": [
+                    "Saturday"
+                ]
+            }
+        ]
+    },
+    "submitter": "Glory",
+    "num_words": 163,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "next",
+            "as a result"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T16:14:16.968Z"
+}

@@ -1,0 +1,367 @@
+{
+    "url": "https://writing9.com/text/631c72aeaac8660018fa4c0e-most-employees-do-job-interviews-before-offering-position-to-a",
+    "file": "data\\6\\631c72aeaac8660018fa4c0e.json",
+    "topics": [
+        "employees",
+        "job",
+        "interviews",
+        "position",
+        "person",
+        "alternatives",
+        "method",
+        "employer"
+    ],
+    "question": "Most employees do job interviews before offering position to a person. Do you think this is the best way to do it or are there better alternatives? What is the best method of choosing employer in your opinion?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 4.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Selecting the right candidates for the jobs is not an easy task. In this selection process, workforces require various data of candidates and multiple levels of analysis are done. Some workforces use different habit for recruiting candidates like written tests, practical tests, etc. But the Interview plays a pivotal role in the recruitment process because it is an effective and time-saving method.",
+        "To begin with, an Interview is one of the best methods for selecting a candidate in any workforce. Most organizations like software companies, IAS selection process, etc will choose interviews as their priority method to select a talented person according to the job nature. For instance, UPSC candidates are selected through the interview method which is done by the government agency to select Group 'A' officers under the Government of India. The interview is one of the best methods to select a candidate where the workforces get a brief idea about the candidate's skills like communication skills, way of thinking, handling the situation, etc.",
+        "Secondly, There are some different methods like written tests, practical tests, etc instead of Interviews. Some talented people are not good at presenting their skills. For instance,In the IT sector, if a person, who is good at coding is not good at communication skills, so this will be a drawback for an IT workforce to lose a talented coding candidate. Nowadays, IT sectors are using these alternative methods to use the talent of candidates. Even though it is better to use alternative methods to select skilled candidates but Interview is the best way to recruit candidates because it is  a simple and advanced process.",
+        "To sum up, Interviews are done based on the job roles in the workforce. Advanced and secret organizations like CID, etc use Interviews as their process to recruit special candidates. However, alternative methods are also useful in some job sectors to use the talent of candidates in respective job roles."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "habit",
+                "start_idx": 210,
+                "end_idx": 215,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that habit may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "habits"
+                ]
+            }
+        ]
+    },
+    "submitter": "madarapulavanya1998",
+    "num_words": 320,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for instance",
+            "instead",
+            "however",
+            "this",
+            "to begin",
+            "also",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "10",
+        "list_repeated_words": [
+            {
+                "word": "candidate",
+                "occurrences": [
+                    {
+                        "start_idx": 20,
+                        "end_idx": 29
+                    },
+                    {
+                        "start_idx": 127,
+                        "end_idx": 136
+                    },
+                    {
+                        "start_idx": 231,
+                        "end_idx": 240
+                    },
+                    {
+                        "start_idx": 472,
+                        "end_idx": 481
+                    },
+                    {
+                        "start_idx": 695,
+                        "end_idx": 704
+                    },
+                    {
+                        "start_idx": 900,
+                        "end_idx": 909
+                    },
+                    {
+                        "start_idx": 958,
+                        "end_idx": 967
+                    },
+                    {
+                        "start_idx": 1395,
+                        "end_idx": 1404
+                    },
+                    {
+                        "start_idx": 1484,
+                        "end_idx": 1493
+                    },
+                    {
+                        "start_idx": 1566,
+                        "end_idx": 1575
+                    },
+                    {
+                        "start_idx": 1618,
+                        "end_idx": 1627
+                    },
+                    {
+                        "start_idx": 1846,
+                        "end_idx": 1855
+                    },
+                    {
+                        "start_idx": 1944,
+                        "end_idx": 1953
+                    }
+                ]
+            },
+            {
+                "word": "candidates",
+                "occurrences": [
+                    {
+                        "start_idx": 20,
+                        "end_idx": 30
+                    },
+                    {
+                        "start_idx": 127,
+                        "end_idx": 137
+                    },
+                    {
+                        "start_idx": 231,
+                        "end_idx": 241
+                    },
+                    {
+                        "start_idx": 695,
+                        "end_idx": 705
+                    },
+                    {
+                        "start_idx": 1484,
+                        "end_idx": 1494
+                    },
+                    {
+                        "start_idx": 1566,
+                        "end_idx": 1576
+                    },
+                    {
+                        "start_idx": 1618,
+                        "end_idx": 1628
+                    },
+                    {
+                        "start_idx": 1846,
+                        "end_idx": 1856
+                    },
+                    {
+                        "start_idx": 1944,
+                        "end_idx": 1954
+                    }
+                ]
+            },
+            {
+                "word": "skills",
+                "occurrences": [
+                    {
+                        "start_idx": 970,
+                        "end_idx": 976
+                    },
+                    {
+                        "start_idx": 996,
+                        "end_idx": 1002
+                    },
+                    {
+                        "start_idx": 1211,
+                        "end_idx": 1217
+                    },
+                    {
+                        "start_idx": 1314,
+                        "end_idx": 1320
+                    }
+                ]
+            },
+            {
+                "word": "process",
+                "occurrences": [
+                    {
+                        "start_idx": 83,
+                        "end_idx": 90
+                    },
+                    {
+                        "start_idx": 342,
+                        "end_idx": 349
+                    },
+                    {
+                        "start_idx": 558,
+                        "end_idx": 565
+                    },
+                    {
+                        "start_idx": 1666,
+                        "end_idx": 1673
+                    },
+                    {
+                        "start_idx": 1819,
+                        "end_idx": 1826
+                    }
+                ]
+            },
+            {
+                "word": "methods",
+                "occurrences": [
+                    {
+                        "start_idx": 448,
+                        "end_idx": 455
+                    },
+                    {
+                        "start_idx": 880,
+                        "end_idx": 887
+                    },
+                    {
+                        "start_idx": 1085,
+                        "end_idx": 1092
+                    },
+                    {
+                        "start_idx": 1455,
+                        "end_idx": 1462
+                    },
+                    {
+                        "start_idx": 1540,
+                        "end_idx": 1547
+                    },
+                    {
+                        "start_idx": 1879,
+                        "end_idx": 1886
+                    }
+                ]
+            },
+            {
+                "word": "interviews",
+                "occurrences": [
+                    {
+                        "start_idx": 583,
+                        "end_idx": 593
+                    }
+                ]
+            },
+            {
+                "word": "job",
+                "occurrences": [
+                    {
+                        "start_idx": 39,
+                        "end_idx": 42
+                    },
+                    {
+                        "start_idx": 664,
+                        "end_idx": 667
+                    },
+                    {
+                        "start_idx": 1719,
+                        "end_idx": 1722
+                    },
+                    {
+                        "start_idx": 1911,
+                        "end_idx": 1914
+                    },
+                    {
+                        "start_idx": 1969,
+                        "end_idx": 1972
+                    }
+                ]
+            },
+            {
+                "word": "use",
+                "occurrences": [
+                    {
+                        "start_idx": 196,
+                        "end_idx": 199
+                    },
+                    {
+                        "start_idx": 354,
+                        "end_idx": 357
+                    },
+                    {
+                        "start_idx": 1466,
+                        "end_idx": 1469
+                    },
+                    {
+                        "start_idx": 1524,
+                        "end_idx": 1527
+                    },
+                    {
+                        "start_idx": 1633,
+                        "end_idx": 1636
+                    },
+                    {
+                        "start_idx": 1795,
+                        "end_idx": 1798
+                    },
+                    {
+                        "start_idx": 1896,
+                        "end_idx": 1899
+                    },
+                    {
+                        "start_idx": 1926,
+                        "end_idx": 1929
+                    }
+                ]
+            },
+            {
+                "word": "tests",
+                "occurrences": [
+                    {
+                        "start_idx": 255,
+                        "end_idx": 260
+                    },
+                    {
+                        "start_idx": 272,
+                        "end_idx": 277
+                    },
+                    {
+                        "start_idx": 1106,
+                        "end_idx": 1111
+                    },
+                    {
+                        "start_idx": 1123,
+                        "end_idx": 1128
+                    }
+                ]
+            },
+            {
+                "word": "interview",
+                "occurrences": [
+                    {
+                        "start_idx": 583,
+                        "end_idx": 592
+                    },
+                    {
+                        "start_idx": 731,
+                        "end_idx": 740
+                    },
+                    {
+                        "start_idx": 851,
+                        "end_idx": 860
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-10T11:23:07.467Z"
+}

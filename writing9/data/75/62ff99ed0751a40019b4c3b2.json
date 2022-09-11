@@ -1,0 +1,128 @@
+{
+    "url": "https://writing9.com/text/62ff99ed0751a40019b4c3b2-one-of-the-consequences-of-improved-medical-care-is-that",
+    "file": "data\\75\\62ff99ed0751a40019b4c3b2.json",
+    "topics": [
+        "consequences",
+        "care",
+        "people",
+        "life",
+        "expectancy",
+        "development"
+    ],
+    "question": "One of the consequences of improved medical care is that people are living longer and life expectancy is increasing.Do you think the advantages of this development outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that along with the improvement of medical care, life expectancy also increases. While this development could be beneficial, I believe that the disadvantages outweigh the benefits.",
+        "To begin with, there are several reasons why people might believe that living longer is advantageous. Firstly, increasing life expectancy gives elderly people more time to enjoy their lives. It is common that people spend most of their lives before retirement going to school and working. Additional time gives them the opportunity to pursue their dreams and goals, such as travelling, which might had been neglected when they were younger. Secondly, living longer gives old people the opportunity to care for their family members. Many young couples in Vietnam live under the same roof as their parents. Therefore, grandparents could help take care of young parents\u2019 children while they are at work.",
+        "Despite the above arguments, I still believe that the disadvantages of this development outweigh its benefits. Elderly people are likely to deal with chronic diseases such as diabetes. As a result, more nursing homes must be built to provide old people with proper healthcare. This places great pressure on the healthcare system to meet the increasing needs of seniors. Moreover, as the population keeps ageing, the governments must increase the price of taxes to meet the seniors\u2019 requirements of pensions. This means the labour force might have to work more to serve retired people, who can no longer contribute to the country\u2019s economy.",
+        "In conclusion, while this development of the healthcare system could be beneficial,  it seems to me that the drawbacks still outweigh the benefits."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "had",
+                "start_idx": 591,
+                "end_idx": 594,
+                "error": "Change the verb form",
+                "error_des": "The verb had after the modal verb might does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "have"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 1389,
+                "end_idx": 1391,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            }
+        ]
+    },
+    "submitter": "ngoclamthieunang",
+    "num_words": 267,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "as a result",
+            "moreover",
+            "secondly",
+            "therefore",
+            "this",
+            "to begin",
+            "also",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 237,
+                        "end_idx": 243
+                    },
+                    {
+                        "start_idx": 344,
+                        "end_idx": 350
+                    },
+                    {
+                        "start_idx": 401,
+                        "end_idx": 407
+                    },
+                    {
+                        "start_idx": 667,
+                        "end_idx": 673
+                    },
+                    {
+                        "start_idx": 1012,
+                        "end_idx": 1018
+                    },
+                    {
+                        "start_idx": 1139,
+                        "end_idx": 1145
+                    },
+                    {
+                        "start_idx": 1470,
+                        "end_idx": 1476
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-19T14:11:25.632Z"
+}

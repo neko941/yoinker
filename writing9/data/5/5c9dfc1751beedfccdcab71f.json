@@ -1,0 +1,136 @@
+{
+    "url": "https://writing9.com/text/5c9dfc1751beedfccdcab71f",
+    "file": "data\\5\\5c9dfc1751beedfccdcab71f.json",
+    "topics": [
+        "countries",
+        "weight",
+        "people",
+        "level",
+        "health",
+        "fitness",
+        "measures"
+    ],
+    "question": "In some countries the average weight of people is increasing and their level of health and fitness is decreasing. What do you think are the causes of these problems and what measures could be taken to solve them? Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, doctors and health professionals debate why the obesity rate is increasing very fast and people have a poor health condition. There are several reasons why this problem is popular in most countries around the world, but we can find several ways to solve it.",
+        "Today's population have a sedentary lifestyle, which increases obesity problems and illnesses (sicknesses). People use buses daily, drive a car to work, then sit at their desks a  lot of hours. People avoid stairs because they prefer lift.  After work, they usually drive to home, then have time to relax on their sofas and spend time watching Tv series.  Lack of physical activities is a crucial cause of diseases and obesities. In addition, people are very busy, because of working long hours. After that, they are tired and don\u2019t want to spend the time to cook healthy meals. Usually, they consume fast foods, which contains sugar, unhealthy fats and cholesterol.  Nowadays, poor diet and not enough activities are often getting people sick.",
+        "However, there are many choices, which can help to avoid obesity and also improve health. First of all, education about healthy food choices should be implemented at school. Changing the menu in schools\u2019 canteens to show students how nutritious meals should look like. In addition, increasing tax for processed food and in the future build more sport facilitates for families, such as swimming pools, bike tracks, without extra fees.",
+        "Thus, rising obesity level, low activity and poor diet are growing problems in countries.  It is the responsibility of governments and schools to take action and make educational companies about how important are activities and healthy food."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "school",
+                "start_idx": 1179,
+                "end_idx": 1185,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the school"
+                ]
+            },
+            {
+                "word": "schools\u2019",
+                "start_idx": 1208,
+                "end_idx": 1216,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "school"
+                ]
+            },
+            {
+                "word": "tax",
+                "start_idx": 1306,
+                "end_idx": 1309,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "taxes"
+                ]
+            },
+            {
+                "word": "processed",
+                "start_idx": 1314,
+                "end_idx": 1323,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "processing"
+                ]
+            }
+        ]
+    },
+    "submitter": "ewka85",
+    "num_words": 273,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "then",
+            "however",
+            "in addition",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "obesity",
+                "occurrences": [
+                    {
+                        "start_idx": 58,
+                        "end_idx": 65
+                    },
+                    {
+                        "start_idx": 331,
+                        "end_idx": 338
+                    },
+                    {
+                        "start_idx": 1070,
+                        "end_idx": 1077
+                    },
+                    {
+                        "start_idx": 1460,
+                        "end_idx": 1467
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-29T11:05:59.000Z"
+}

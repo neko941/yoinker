@@ -1,0 +1,134 @@
+{
+    "url": "https://writing9.com/text/5f076a1e65a8dc00181045c0",
+    "file": "data\\6\\5f076a1e65a8dc00181045c0.json",
+    "topics": [
+        "people",
+        "internet",
+        "phones",
+        "development"
+    ],
+    "question": "More and more people today are becoming overly dependent on the internet and phones. Is that a positive or negative development?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many humans use technologies such as internet, phones too much. Using them can have a lot of positive and a bit negative effects that it can make a suitable life among a society.",
+        "Nowadays, technology has many positive points. People\u2019s life really depends on the internet. And also, we do each task with internet and phones, and we can transfer many information by them. Moreover we can read all news of countries around the world in less than a minute. We can search about topics and find and compare them till we achieve a good answer related to them. And also, we learn and improve our level with internet. Because of this, educational cost will decrease. For instance, we need telephones to connect quickly to other countries, even we can see each other by a variety of softwares.",
+        "In contrast, everything can have some negative points as well as positive impacts. We should use the  internet and cell phones, but not too much. Because they can bring a bit problems and lead humans to see each other face to face very little. In addition, it can ruin family relationships and eventually cause depression. When we speak with cell phone, it might waste our time a lot. For example, many children use internet too much when they are teenager, even younger and we understand which they are depressed.",
+        "In conclusion, using of the internet and phones is too much and people rely on it, but in my opinion, they can make our life easier and safer than before. So, it is a perfect achievement."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "internet",
+                "start_idx": 303,
+                "end_idx": 311,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the internet"
+                ]
+            },
+            {
+                "word": "Moreover we",
+                "start_idx": 370,
+                "end_idx": 381,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Moreover, we"
+                ]
+            },
+            {
+                "word": "internet",
+                "start_idx": 1200,
+                "end_idx": 1208,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the internet"
+                ]
+            }
+        ]
+    },
+    "submitter": "Asadgaha Agag",
+    "num_words": 263,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "in contrast",
+            "in addition",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "internet",
+                "occurrences": [
+                    {
+                        "start_idx": 37,
+                        "end_idx": 45
+                    },
+                    {
+                        "start_idx": 262,
+                        "end_idx": 270
+                    },
+                    {
+                        "start_idx": 303,
+                        "end_idx": 311
+                    },
+                    {
+                        "start_idx": 599,
+                        "end_idx": 607
+                    },
+                    {
+                        "start_idx": 886,
+                        "end_idx": 894
+                    },
+                    {
+                        "start_idx": 1200,
+                        "end_idx": 1208
+                    },
+                    {
+                        "start_idx": 1327,
+                        "end_idx": 1335
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-09T19:12:03.526Z"
+}

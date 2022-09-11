@@ -1,0 +1,106 @@
+{
+    "url": "https://writing9.com/text/5f09f5d3401ea400186c5a8c",
+    "file": "data\\75\\5f09f5d3401ea400186c5a8c.json",
+    "topics": [
+        "media",
+        "emergency",
+        "development",
+        "people",
+        "society"
+    ],
+    "question": "nowadays media focuses on problem and emergency rather than positive development. some people think it is harmful to individual and society. to what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is indeed true that these days excessive attention is provided on negative news instead of a positive one by mass media and it is believed it adversely affect individuals and society. Although I agree with this view as people get a pessimistic view towards life, I also believe that negative news help society being more cautious about the problem happening around them.",
+        "On the one hand, I agree that bad news has a detrimental impact on society and individual to a certain extent. This is because problematic news like scandal and crime is considered most eye-catching since viewers often get attracted. Therefore, the media tend to give more coverage to showcase such information, and after watching such negative news on different news channels, people create suspicious views for each other and feel unsafe. For example, a recent article by Hindustan Times reported that in a local news channel that created the sensational news by showing  75% of pick pockets can be seen in Mumbai local trains, hence immigrants feel unsafe while travelling in such trains for commuting.",
+        "On the other hand, I also believe broadcasting such news related to emergencies problems and makes the public more aware. To elucidate, the more problem aired on the television, the more people will be cautious about the current issues. For example, the detailed information, such as symptom and preventive measures, related to the pandemic diseases Covid-19 is aired on the daily basis to all local and international news channels, which helps many people to be alert and take necessary precautions to get affected by such deadly disease.  Such news creates more awareness among people.",
+        "In conclusion, I agree that negative news can bring some fear in peoples mind, but I also believe such news helps society to be more aware and adequate actions."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "emergencies",
+                "start_idx": 1149,
+                "end_idx": 1160,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "emerging",
+                    "emergency"
+                ]
+            }
+        ]
+    },
+    "submitter": "jdsmss",
+    "num_words": 301,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "on the other hand",
+            "hence",
+            "for example",
+            "although",
+            "instead",
+            "therefore",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "society",
+                "occurrences": [
+                    {
+                        "start_idx": 178,
+                        "end_idx": 185
+                    },
+                    {
+                        "start_idx": 305,
+                        "end_idx": 312
+                    },
+                    {
+                        "start_idx": 441,
+                        "end_idx": 448
+                    },
+                    {
+                        "start_idx": 1782,
+                        "end_idx": 1789
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-11T17:28:58.803Z"
+}

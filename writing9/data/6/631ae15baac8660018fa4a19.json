@@ -1,0 +1,194 @@
+{
+    "url": "https://writing9.com/text/631ae15baac8660018fa4a19-you-recently-visited-a-place-that-had-a-strong-impact",
+    "file": "data\\6\\631ae15baac8660018fa4a19.json",
+    "topics": [
+        "place",
+        "impact",
+        "friend",
+        "offer"
+    ],
+    "question": "You recently visited a place that had a strong impact on you. Write to your friend about this place.\nIn your letter\nexplain where the place was and how you got there\ndescribe what you saw\noffer to take your friend there",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear John,",
+        "I am writing this letter to share my experience two days visit to Agra the Taj Mahal. This place is beautiful and amazing built by Shah Jahan from his beauty queen or wife  Mumtaaz.",
+        "It is famous and historical monument. It is also one of the seven wonders of the world. Tourist from different countries comes especially to visit it. We had an office get together Thursday, two of my colleagues wanted to go there eagerly, so they also forced to accompany them. Next morning, we left our place and reach there within three hours. When we saw this place, it is really appreciable the architect who design it. The entire building is made of marble and decorates with many other precious stone. It looks best in moonlight night.",
+        "You are coming to my place next month, if you can spare one day more then we will definitely have a trip to Agra. I will be happy to see the place again with you.",
+        "Regards",
+        "Honey"
+    ],
+    "errors": {
+        "num_error": "10",
+        "error_list": [
+            {
+                "word": "famous",
+                "start_idx": 200,
+                "end_idx": 206,
+                "error": "Add an article",
+                "error_des": "The noun phrase famous and historical monument seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a famous"
+                ]
+            },
+            {
+                "word": "get together",
+                "start_idx": 362,
+                "end_idx": 374,
+                "error": "Add a hyphen",
+                "error_des": "It seems that get together is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "get-together"
+                ]
+            },
+            {
+                "word": "two",
+                "start_idx": 385,
+                "end_idx": 388,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and two"
+                ]
+            },
+            {
+                "word": "also",
+                "start_idx": 442,
+                "end_idx": 446,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "were also"
+                ]
+            },
+            {
+                "word": "Next",
+                "start_idx": 473,
+                "end_idx": 477,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "The next"
+                ]
+            },
+            {
+                "word": "design",
+                "start_idx": 608,
+                "end_idx": 614,
+                "error": "Change the form of the verb",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb design. Consider changing it.",
+                "suggetions": [
+                    "designed"
+                ]
+            },
+            {
+                "word": "decorates",
+                "start_idx": 661,
+                "end_idx": 670,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb decorates. Consider changing it.",
+                "suggetions": [
+                    "decorated"
+                ]
+            },
+            {
+                "word": "stone",
+                "start_idx": 696,
+                "end_idx": 701,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun stone follows the quantifier many, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "stones"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 717,
+                "end_idx": 719,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "moonlight",
+                "start_idx": 720,
+                "end_idx": 729,
+                "error": "Add an article",
+                "error_des": "The noun phrase moonlight night seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the moonlight"
+                ]
+            }
+        ]
+    },
+    "submitter": "jasmeetkaur2016",
+    "num_words": 168,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "also",
+            "then",
+            "next"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "place",
+                "occurrences": [
+                    {
+                        "start_idx": 102,
+                        "end_idx": 107
+                    },
+                    {
+                        "start_idx": 498,
+                        "end_idx": 503
+                    },
+                    {
+                        "start_idx": 557,
+                        "end_idx": 562
+                    },
+                    {
+                        "start_idx": 757,
+                        "end_idx": 762
+                    },
+                    {
+                        "start_idx": 877,
+                        "end_idx": 882
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-09T06:46:52.966Z"
+}

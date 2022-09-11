@@ -1,0 +1,148 @@
+{
+    "url": "https://writing9.com/text/62f145eb0562ec00182a166d-in-cities-an-increasing-number-of-people-do-not-know",
+    "file": "data\\75\\62f145eb0562ec00182a166d.json",
+    "topics": [
+        "cities",
+        "people",
+        "neighbours",
+        "sense",
+        "community",
+        "methods"
+    ],
+    "question": "In cities, an increasing number of people do not know their neighbours. There is no longer sense of community. What do you think are the causes of this problem and suggest methods to solve it?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There has been a phenomenon that an increasing number of people do not know their neighbours. I think there are some reasons and methods that can solve it.",
+        "First, is the prolonged working time. Due to technological development, we are more closely linked globally. There are hundreds and thousands of international transactions happening every day, and our life is more convenient now. However, although technology brings convenience to us, our working hours are extended. In the past, we only had to work until 5 PM, but now, in order to tackle many global transaction issues, we are always asked to work overtime. As a result, we spend most of our time working, and we are too exhausted to meet new people, such as our neighbours.",
+        "Second, the younger generation thinks their neighbours are less important. Take me as an example. I'm an outgoing person, and I love chatting with friends. Nevertheless, whenever I meet my neighbours, I don't really talk to them. Not only because they are older than me but also because we don't have any hobbies in common. In this case, I believe many young people have the same feeling that neighbours are just people who live next to you, it doesn't mean they are your friends.",
+        "On the other hand, if everyone keeps aloof from his neighbour, then there is no longer sense of community. At this point, I believe it's necessary to have a good relationship with your neighbours. For example, you can prepare some gifts for the new neighbours or bake some homemade cakes. Take me as an example. The first day when I moved to my community, one of my neighbours sent me some homemade chocolate; I was touched and invited him for dinner.",
+        "In conclusion, there are two main reasons and the method."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "First",
+                "start_idx": 157,
+                "end_idx": 162,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "The first"
+                ]
+            }
+        ]
+    },
+    "submitter": "junyiwu029",
+    "num_words": 300,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "13",
+        "list_linking_words": [
+            "on the other hand",
+            "second",
+            "then",
+            "as a result",
+            "nevertheless",
+            "for example",
+            "although",
+            "however",
+            "next",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "neighbours",
+                "occurrences": [
+                    {
+                        "start_idx": 82,
+                        "end_idx": 92
+                    },
+                    {
+                        "start_idx": 721,
+                        "end_idx": 731
+                    },
+                    {
+                        "start_idx": 777,
+                        "end_idx": 787
+                    },
+                    {
+                        "start_idx": 922,
+                        "end_idx": 932
+                    },
+                    {
+                        "start_idx": 1126,
+                        "end_idx": 1136
+                    },
+                    {
+                        "start_idx": 1399,
+                        "end_idx": 1409
+                    },
+                    {
+                        "start_idx": 1463,
+                        "end_idx": 1473
+                    },
+                    {
+                        "start_idx": 1580,
+                        "end_idx": 1590
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 57,
+                        "end_idx": 63
+                    },
+                    {
+                        "start_idx": 701,
+                        "end_idx": 707
+                    },
+                    {
+                        "start_idx": 1092,
+                        "end_idx": 1098
+                    },
+                    {
+                        "start_idx": 1146,
+                        "end_idx": 1152
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-08T17:22:41.362Z"
+}

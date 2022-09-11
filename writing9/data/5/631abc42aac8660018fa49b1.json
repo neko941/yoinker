@@ -1,0 +1,291 @@
+{
+    "url": "https://writing9.com/text/631abc42aac8660018fa49b1-news-plays-an-important-partbof-most-peoples-lives-why-this",
+    "file": "data\\5\\631abc42aac8660018fa49b1.json",
+    "topics": [
+        "news",
+        "partbof",
+        "people\u2019s",
+        "lives",
+        "people",
+        "focus"
+    ],
+    "question": "News plays an important partbof most people\u2019s lives. Why this news so important to people? Why is so much news dedicated to bad news? Should the news focus on good news instead ?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In this contemporary era, news plays an crucial role in every individual\u2019s life. It is very vital for folks to gain information about the world. However, there is both good and bad news , both are equally important.",
+        "On the one hand, humans cannot live without news. The first and foremost is that common people should have knowledge about what is happening in the world, what is going on in the share markets . Moreover , they can also know about which new rules that high authority will brought into action. Secondly, news are very beneficial for adults to gain a general skills, which is needed for every person. Due to this they can improve their reading skills, vocabulary, comprehension and brain connectivity. For example, a survey taken by the Time US newspaper, in America in 2016, was that 87% of the majority focus on the good news.",
+        "On the other hand, some bad news are also very good for human beings. Firstly, in the news, youngsters should know about how bad the community  in this nation who killed and steal humans just for money. Secondly, most  TV channel shows bad news on television and the internet such as bank robbery, murders, thief, big accident, wrong information and bad things on it. Which gives a negative effect on children and elders. They do as they see and hear news. To illustrate, a survey taken by the Time of Newyork newspaper, in America in 2018, was that bad news has increased from 64% to 78% in the past 4 years.",
+        "In my opinion, both news are very good for the public. As bad news can depress a few people with negative content and good news can motivate a few people human with positive content. So media should focus on both bad and good news.",
+        "In conclusion, I want to reiterate my words that good news gives a general and basic knowledge of words, study, games and culture related, but it is also gives a negative impact on adult's minds."
+    ],
+    "errors": {
+        "num_error": "12",
+        "error_list": [
+            {
+                "word": "an",
+                "start_idx": 37,
+                "end_idx": 39,
+                "error": "Change the article",
+                "error_des": "The article an may be incorrect. Consider changing it to agree with the beginning sound of the following word crucial.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "The ",
+                "start_idx": 266,
+                "end_idx": 270,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "First"
+                ]
+            },
+            {
+                "word": "what",
+                "start_idx": 371,
+                "end_idx": 375,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and what"
+                ]
+            },
+            {
+                "word": "brought",
+                "start_idx": 488,
+                "end_idx": 495,
+                "error": "Change the verb form",
+                "error_des": "The verb brought after the modal verb will does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "bring"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 524,
+                "end_idx": 527,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject news. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 563,
+                "end_idx": 565,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun skills in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 587,
+                "end_idx": 589,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb is does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "this",
+                "start_idx": 622,
+                "end_idx": 626,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Due to this. Consider adding a comma.",
+                "suggetions": [
+                    ",this"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 876,
+                "end_idx": 879,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject some bad news. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 1106,
+                "end_idx": 1109,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on the"
+                ]
+            },
+            {
+                "word": "news",
+                "start_idx": 1294,
+                "end_idx": 1298,
+                "error": "Add an article",
+                "error_des": "The noun phrase news seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the news"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 1478,
+                "end_idx": 1481,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject both news. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            }
+        ]
+    },
+    "submitter": "daljeetchanna93",
+    "num_words": 338,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "on the other hand",
+            "for example",
+            "firstly",
+            "such",
+            "moreover",
+            "however",
+            "this",
+            "also",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "both",
+                "occurrences": [
+                    {
+                        "start_idx": 163,
+                        "end_idx": 167
+                    },
+                    {
+                        "start_idx": 188,
+                        "end_idx": 192
+                    },
+                    {
+                        "start_idx": 1468,
+                        "end_idx": 1472
+                    },
+                    {
+                        "start_idx": 1661,
+                        "end_idx": 1665
+                    }
+                ]
+            },
+            {
+                "word": "news",
+                "occurrences": [
+                    {
+                        "start_idx": 26,
+                        "end_idx": 30
+                    },
+                    {
+                        "start_idx": 181,
+                        "end_idx": 185
+                    },
+                    {
+                        "start_idx": 260,
+                        "end_idx": 264
+                    },
+                    {
+                        "start_idx": 519,
+                        "end_idx": 523
+                    },
+                    {
+                        "start_idx": 759,
+                        "end_idx": 763
+                    },
+                    {
+                        "start_idx": 837,
+                        "end_idx": 841
+                    },
+                    {
+                        "start_idx": 871,
+                        "end_idx": 875
+                    },
+                    {
+                        "start_idx": 929,
+                        "end_idx": 933
+                    },
+                    {
+                        "start_idx": 1083,
+                        "end_idx": 1087
+                    },
+                    {
+                        "start_idx": 1294,
+                        "end_idx": 1298
+                    },
+                    {
+                        "start_idx": 1353,
+                        "end_idx": 1357
+                    },
+                    {
+                        "start_idx": 1397,
+                        "end_idx": 1401
+                    },
+                    {
+                        "start_idx": 1473,
+                        "end_idx": 1477
+                    },
+                    {
+                        "start_idx": 1515,
+                        "end_idx": 1519
+                    },
+                    {
+                        "start_idx": 1576,
+                        "end_idx": 1580
+                    },
+                    {
+                        "start_idx": 1679,
+                        "end_idx": 1683
+                    },
+                    {
+                        "start_idx": 1739,
+                        "end_idx": 1743
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-09T04:33:40.590Z"
+}

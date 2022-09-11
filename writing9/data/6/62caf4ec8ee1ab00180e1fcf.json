@@ -1,0 +1,477 @@
+{
+    "url": "https://writing9.com/text/62caf4ec8ee1ab00180e1fcf-the-television-is-good-for-you-discuss-the-advantage-and-disadvantage",
+    "file": "data\\6\\62caf4ec8ee1ab00180e1fcf.json",
+    "topics": [
+        "television",
+        "advantage",
+        "reason"
+    ],
+    "question": "The television is good for you.\nDiscuss the advantage and disadvantage of watching television.\nGive reason for your answer and include any relevant example from your experience.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Television was invented in 20th century, and thereafter it has evolved multiple times from bulky to flat televisions. Lots of entertainment content is created which can be telecast on television.In this essay,I will look firstly at advantages and then highlight disadvantages with the appropriate examples.",
+        "First,television is a good source of current affairs where information can reach to viewers quickly and easily.Anyone who is watching news channel on television and get to know what is happening around him/her. For example, I can see the activities of Lok Sabha happening in New Delhi through live-telecast on the TV. Second, there are multiple channels available on TV which can help students to revise their school courses. For example,when I was student of 12th class, I used to watch Gyan channel, a government initiative program which was aligned on NCERT 12th class curriculum.",
+        "On the contrary, television has a dark side too.There are many channels running useless and baseless programs in the name of entertainment.For example, Shinchan is a cartoon program where notorious character do all awful activities but kids are amused with his behaviour and deceptive them.If there is no restriction on children for watching televisiov,than they will prefer TV over the physical games.For example, my daughter spends most of her time watching cartoons, and as parents we didnot know when she became addicted to it,and stopped playing outside. when realised, we start putting restriction on watching tv, and it was hard for her but now she is on track and spend minimal time on idiot box.",
+        "In conclusion,it is wise to choose and decide what program a person can look,and evaluate whether chosen program will be knowledgeable or it a time killing."
+    ],
+    "errors": {
+        "num_error": "32",
+        "error_list": [
+            {
+                "word": "20th",
+                "start_idx": 27,
+                "end_idx": 31,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase 20th century does not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "the 20th"
+                ]
+            },
+            {
+                "word": "advantages",
+                "start_idx": 232,
+                "end_idx": 242,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the advantages"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 388,
+                "end_idx": 391,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "news",
+                "start_idx": 441,
+                "end_idx": 445,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the news"
+                ]
+            },
+            {
+                "word": "and ",
+                "start_idx": 468,
+                "end_idx": 472,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "get",
+                "start_idx": 472,
+                "end_idx": 475,
+                "error": "Change the verb form",
+                "error_des": "It appears that the indefinite pronoun Anyone does not agree with the verb get in your sentence. Consider changing the form of the verb.",
+                "suggetions": [
+                    "gets"
+                ]
+            },
+            {
+                "word": "live-telecast",
+                "start_idx": 600,
+                "end_idx": 613,
+                "error": "Correct your spelling",
+                "error_des": "The word live-telecast doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "live telecast"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 617,
+                "end_idx": 621,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "student",
+                "start_idx": 756,
+                "end_idx": 763,
+                "error": "Add an article",
+                "error_des": "The noun phrase student seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a student"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 764,
+                "end_idx": 766,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "Gyan",
+                "start_idx": 795,
+                "end_idx": 799,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the Gyan"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 859,
+                "end_idx": 861,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "notorious",
+                "start_idx": 1079,
+                "end_idx": 1088,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a notorious"
+                ]
+            },
+            {
+                "word": "character",
+                "start_idx": 1089,
+                "end_idx": 1098,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that character may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "characters"
+                ]
+            },
+            {
+                "word": "with",
+                "start_idx": 1143,
+                "end_idx": 1147,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "by"
+                ]
+            },
+            {
+                "word": "deceptive",
+                "start_idx": 1166,
+                "end_idx": 1175,
+                "error": "Replace the word",
+                "error_des": "The word deceptive doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "deceive"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 1220,
+                "end_idx": 1223,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "from"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1233,
+                "end_idx": 1233,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want televisiov to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "television"
+                ]
+            },
+            {
+                "word": "televisiov",
+                "start_idx": 1233,
+                "end_idx": 1243,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want televisiov to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "television"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1243,
+                "end_idx": 1244,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker than. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "than",
+                "start_idx": 1244,
+                "end_idx": 1248,
+                "error": "Correct your spelling",
+                "error_des": "The word than doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "then"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1274,
+                "end_idx": 1278,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "parents",
+                "start_idx": 1368,
+                "end_idx": 1375,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase as parents. Consider adding a comma.",
+                "suggetions": [
+                    ",parents"
+                ]
+            },
+            {
+                "word": "didnot",
+                "start_idx": 1379,
+                "end_idx": 1385,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want didnot to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "did not",
+                    "didn't"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1421,
+                "end_idx": 1422,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound predicate. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "restriction",
+                "start_idx": 1483,
+                "end_idx": 1494,
+                "error": "Add an article",
+                "error_des": "The noun phrase restriction seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a restriction"
+                ]
+            },
+            {
+                "word": "spend",
+                "start_idx": 1563,
+                "end_idx": 1568,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun she and the verb spend are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "spends"
+                ]
+            },
+            {
+                "word": "idiot",
+                "start_idx": 1585,
+                "end_idx": 1590,
+                "error": "Add an article",
+                "error_des": "The noun phrase idiot box seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the idiot"
+                ]
+            },
+            {
+                "word": "and",
+                "start_idx": 1673,
+                "end_idx": 1676,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at and"
+                ]
+            },
+            {
+                "word": "chosen",
+                "start_idx": 1694,
+                "end_idx": 1700,
+                "error": "Add an article",
+                "error_des": "The noun phrase chosen program seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the chosen",
+                    "a chosen"
+                ]
+            },
+            {
+                "word": " a ",
+                "start_idx": 1736,
+                "end_idx": 1739,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "is  a"
+                ]
+            },
+            {
+                "word": "time killing",
+                "start_idx": 1739,
+                "end_idx": 1751,
+                "error": "Add a hyphen",
+                "error_des": "It seems that time killing is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "time-killing"
+                ]
+            }
+        ]
+    },
+    "submitter": "abt.dhruv",
+    "num_words": 281,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "on the contrary",
+            "then",
+            "second",
+            "firstly",
+            "for ",
+            "this",
+            "thereafter",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "program",
+                "occurrences": [
+                    {
+                        "start_idx": 833,
+                        "end_idx": 840
+                    },
+                    {
+                        "start_idx": 992,
+                        "end_idx": 999
+                    },
+                    {
+                        "start_idx": 1065,
+                        "end_idx": 1072
+                    },
+                    {
+                        "start_idx": 1647,
+                        "end_idx": 1654
+                    },
+                    {
+                        "start_idx": 1701,
+                        "end_idx": 1708
+                    }
+                ]
+            },
+            {
+                "word": "example",
+                "occurrences": [
+                    {
+                        "start_idx": 297,
+                        "end_idx": 304
+                    },
+                    {
+                        "start_idx": 522,
+                        "end_idx": 529
+                    },
+                    {
+                        "start_idx": 737,
+                        "end_idx": 744
+                    },
+                    {
+                        "start_idx": 1034,
+                        "end_idx": 1041
+                    },
+                    {
+                        "start_idx": 1297,
+                        "end_idx": 1304
+                    }
+                ]
+            },
+            {
+                "word": "television",
+                "occurrences": [
+                    {
+                        "start_idx": 105,
+                        "end_idx": 115
+                    },
+                    {
+                        "start_idx": 184,
+                        "end_idx": 194
+                    },
+                    {
+                        "start_idx": 313,
+                        "end_idx": 323
+                    },
+                    {
+                        "start_idx": 457,
+                        "end_idx": 467
+                    },
+                    {
+                        "start_idx": 908,
+                        "end_idx": 918
+                    }
+                ]
+            },
+            {
+                "word": "tv",
+                "occurrences": [
+                    {
+                        "start_idx": 1507,
+                        "end_idx": 1509
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-10T15:49:01.920Z"
+}

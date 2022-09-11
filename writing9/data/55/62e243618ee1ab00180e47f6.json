@@ -1,0 +1,148 @@
+{
+    "url": "https://writing9.com/text/62e243618ee1ab00180e47f6-some-people-feel-that-with-the-rise-of-artificial-intelligencecomputers",
+    "file": "data\\55\\62e243618ee1ab00180e47f6.json",
+    "topics": [
+        "people",
+        "rise",
+        "intelligence",
+        "computers",
+        "robots",
+        "roles",
+        "teachers",
+        "stuff"
+    ],
+    "question": "Some people feel that with the rise of artificial intelligence,computers and robots will take over the roles of teachers.To what extent do you agree or disagree with this stuff.Give reasons for your answer and include any relevant examples from your knowledge or experience",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Most individuals are of the opinion that the increase in the rate of use of computers,robots and artificial intelligence will render tutors  redundant in future.I believe this is true as the level of development in gadgets and pieces of machinery has improved tremendously in our society.",
+        "Teachers are non challant  about the fact that robots and computers can end up replacing them,they recommend these machines and gadgets to their pupils and students when they are tired or have no answers to some questions.At times they use it while teaching.Although this is a welcomed development,it could result in unemployment, which could further lead to insecurities and hunger in many homes.Furthermore, students could get so engaged with these gadgets or robots that they see no reason in going to class for studies.It is important to note that machines can never be human as there are some tasks that machines will not be able to perform as humans would.",
+        "If we now have robots that imitate humans and can be used as clone,then what relevance do our tutors hold,when they can be programmed/designed to teach subjects at a wider range and perform other services that teachers may not be able to render.",
+        "Researchers must times browse the internet for information through their systems and get accurate results,instead of visiting the sites for this information.They carry out their projects which require visiting the locations while at home.",
+        "In conclusion ,I would recommend that our teachers upgrade themselves and study more as artificial intelligence and machines are gradually taking over the system and may replace them in the nearest future"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "non ",
+                "start_idx": 302,
+                "end_idx": 306,
+                "error": "Add a hyphen",
+                "error_des": "It appears that non challant is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "non-challant"
+                ]
+            },
+            {
+                "word": "challant",
+                "start_idx": 306,
+                "end_idx": 314,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want challant to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "challenge",
+                    "challans"
+                ]
+            },
+            {
+                "word": "clone",
+                "start_idx": 1013,
+                "end_idx": 1018,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that clone may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "clones"
+                ]
+            }
+        ]
+    },
+    "submitter": "agozie2018",
+    "num_words": 265,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "then",
+            "furthermore",
+            "although",
+            "instead",
+            "further",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "robots",
+                "occurrences": [
+                    {
+                        "start_idx": 86,
+                        "end_idx": 92
+                    },
+                    {
+                        "start_idx": 336,
+                        "end_idx": 342
+                    },
+                    {
+                        "start_idx": 751,
+                        "end_idx": 757
+                    },
+                    {
+                        "start_idx": 967,
+                        "end_idx": 973
+                    }
+                ]
+            },
+            {
+                "word": "machines",
+                "occurrences": [
+                    {
+                        "start_idx": 404,
+                        "end_idx": 412
+                    },
+                    {
+                        "start_idx": 841,
+                        "end_idx": 849
+                    },
+                    {
+                        "start_idx": 898,
+                        "end_idx": 906
+                    },
+                    {
+                        "start_idx": 1553,
+                        "end_idx": 1561
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-28T08:05:55.463Z"
+}

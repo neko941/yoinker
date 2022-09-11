@@ -1,0 +1,131 @@
+{
+    "url": "https://writing9.com/text/5e5d39d96a4e3400182e7f88",
+    "file": "data\\75\\5e5d39d96a4e3400182e7f88.json",
+    "topics": [
+        "tourists",
+        "places",
+        "conditions",
+        "sahara",
+        "desert",
+        "antarctic",
+        "visit"
+    ],
+    "question": "Today more and more tourists are visiting places where conditions are difficult, such as the Sahara desert or the Antarctic?What are the benefits and disadvantages for tourists who visit such places?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "An increasing number of tourists are travelling to places with harsh weather conditions. This is an enriching experience for tourists as it allows them to experience different weathers and increases their knowledge about other places. However, it has its drawbacks as well.",
+        "On the one hand, going to countries that have extreme climates can be advantageous to tourists. Firstly, many people decide to go to such places because they are bored with the weather in their own countries. Experiencing scorching or freezing weathers can be an adventure and is a rewarding experience. For instance, people who live in cold countries like Sweden might be interested in spending a few days at the Sahara Desert. Secondly, it broadens their horizons by allowing them to know what it is like to live in such extreme conditions. This can lead to understanding other people who live in these climates and realize the hardships that they go through.",
+        "On the other hand, foreigners are also faced with some disadvantages when they are exposed to severe weathers. Some might not tolerate these conditions and can get ill when they live there for the first time. This can be exemplified by people coming from cold countries who cannot stand the sizzling sun in deserts causing them to have severe burns and draught. Another problem is it can be difficult for their bodies to adjust to the weather when they go back to their countries. In other words, staying in a drastically different climate for a prolonged time can lead to consequences as they might get sick when they travel back to their home countries.",
+        "In conclusion, although visiting countries with extreme weather conditions is beneficial to tourists, it can also harm them as they can get sick when they travel to or from those places."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "at",
+                "start_idx": 682,
+                "end_idx": 684,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "countries",
+                "start_idx": 1408,
+                "end_idx": 1417,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "country"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 299,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "on the other hand",
+            "for instance",
+            "first",
+            "in other words",
+            "although",
+            "however",
+            "secondly",
+            "this",
+            "also",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "weather",
+                "occurrences": [
+                    {
+                        "start_idx": 69,
+                        "end_idx": 76
+                    },
+                    {
+                        "start_idx": 176,
+                        "end_idx": 183
+                    },
+                    {
+                        "start_idx": 451,
+                        "end_idx": 458
+                    },
+                    {
+                        "start_idx": 518,
+                        "end_idx": 525
+                    },
+                    {
+                        "start_idx": 1037,
+                        "end_idx": 1044
+                    },
+                    {
+                        "start_idx": 1371,
+                        "end_idx": 1378
+                    },
+                    {
+                        "start_idx": 1648,
+                        "end_idx": 1655
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-03-02T16:52:41.004Z"
+}

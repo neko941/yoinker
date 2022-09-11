@@ -1,0 +1,197 @@
+{
+    "url": "https://writing9.com/text/5ce9ae1002780e001781c0e4",
+    "file": "data\\55\\5ce9ae1002780e001781c0e4.json",
+    "topics": [
+        "people",
+        "\u201cpen",
+        "paper\u201d",
+        "examinations",
+        "method",
+        "achievement"
+    ],
+    "question": "Many people believe that formal \u201cpen and paper\u201d examinations are not the best method of assessing educational achievement. Discuss this view and give your own opinion.\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It has always been a point worth debating, whether examinations should be conducted with pen and paper or other mediums are better suited for the job. The opinion seems to vary based on people's personal preferences, other mediums available at the time etc. But in recent years, the general preference is moving away from the exams that involve manual writing. In my opinion, with changing time, we have better options available to evaluate student's abilities.",
+        "Firstly, the paper-based exam takes away the focus from the main objective, which is to assess certain skills required to perform a specific task. For example, in writing an essay about a common subject, only the subject matter should be focused on. But, involving writing as only available medium, adds concerns like the handwriting of the person, their writing speed and overall cleanliness of the work.",
+        "Moreover, manual writing is not very forgiving, in terms of making changes to the work later on. Even though, it is possible on general, it sacrifices some of the cleanliness we talked about earlier. For example, a computer-based exam makes it much easier to rearrange the answer when the need arises. Also, various other form of assessment are more effective to judge the actual talent of the student. Not all questions have right or wrong answers either. For example, distributed system design is more of a dicussion and changing design repeatedly to accomodate the new requirements. Verbal exam would be more suitable here.",
+        "Although, I also understand the opinion of some people who prefer paper-based exams. Those type of exams have been the norm for so long that people are naturally comfortable with the format.",
+        "In summary, though, we have been depending on written exams so far, we should develop exam patterns that suits the objective of which skills are being tested."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "only available medium",
+                "start_idx": 740,
+                "end_idx": 761,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an only available medium",
+                    "the only available medium"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 996,
+                "end_idx": 998,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "form",
+                "start_idx": 1193,
+                "end_idx": 1197,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "forms"
+                ]
+            },
+            {
+                "word": "dicussion",
+                "start_idx": 1380,
+                "end_idx": 1389,
+                "error": "an extended communication (often interactive) dealing with some particular topic",
+                "error_des": "",
+                "suggetions": [
+                    "discussion",
+                    "decision"
+                ]
+            },
+            {
+                "word": "accomodate",
+                "start_idx": 1424,
+                "end_idx": 1434,
+                "error": "be agreeable or acceptable to",
+                "error_des": "",
+                "suggetions": [
+                    "accommodate"
+                ]
+            },
+            {
+                "word": "type",
+                "start_idx": 1590,
+                "end_idx": 1594,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "types"
+                ]
+            },
+            {
+                "word": "suits",
+                "start_idx": 1796,
+                "end_idx": 1801,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "suit"
+                ]
+            }
+        ]
+    },
+    "submitter": "shweta.chatrola",
+    "num_words": 303,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "for example",
+            "moreover",
+            "although",
+            "also",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "exam",
+                "occurrences": [
+                    {
+                        "start_idx": 51,
+                        "end_idx": 55
+                    },
+                    {
+                        "start_idx": 326,
+                        "end_idx": 330
+                    },
+                    {
+                        "start_idx": 487,
+                        "end_idx": 491
+                    },
+                    {
+                        "start_idx": 613,
+                        "end_idx": 617
+                    },
+                    {
+                        "start_idx": 1072,
+                        "end_idx": 1076
+                    },
+                    {
+                        "start_idx": 1098,
+                        "end_idx": 1102
+                    },
+                    {
+                        "start_idx": 1329,
+                        "end_idx": 1333
+                    },
+                    {
+                        "start_idx": 1461,
+                        "end_idx": 1465
+                    },
+                    {
+                        "start_idx": 1573,
+                        "end_idx": 1577
+                    },
+                    {
+                        "start_idx": 1594,
+                        "end_idx": 1598
+                    },
+                    {
+                        "start_idx": 1740,
+                        "end_idx": 1744
+                    },
+                    {
+                        "start_idx": 1772,
+                        "end_idx": 1776
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-25T21:05:20.000Z"
+}

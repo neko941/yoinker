@@ -1,0 +1,411 @@
+{
+    "url": "https://writing9.com/text/630f16e50751a40019b4de08-completing-university-education-is-thought-by-some-to-be-the",
+    "file": "data\\6\\630f16e50751a40019b4de08.json",
+    "topics": [
+        "university",
+        "education",
+        "job",
+        "hand",
+        "people",
+        "experiences",
+        "skills"
+    ],
+    "question": "completing university education is thought by some to be the best way to get a good job.On the other hand other people think that getting experiences and developing soft skills is more important .Discuss both sides and give your opinion.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The college diploma is the fruit of studying many years. It is often argued that this piece of paper will land a person to a satisfying job. However, other people thinks that   experience combined with talents is more beneficial. In my view, earning a degree in college is necessary since it the the first qualification that the company will look for. It will serve as a proof of knowledge of the applicant while skills and experience can be viewed subjectively, those does not guarantee a person's performance.",
+        "When applying for a job, the first thing to secure are the requirements. Most of the time, the hiring team will prefer those job-seekers who successfully finished tertiary education. Those people will be given the priority to be interviewed first based on their credentials. For instance, there is a vacancy on teaching post, the admisnistrators will then look for someone who finished a degree in education to make sure that they will select the most qualified. The diploma will summarize all the qualifications. By evaluating the resume, job-hunters do not have the chance to show the skills.",
+        "Moreover, skills and talents can be evaluated based on a person's preferences. Someone might say that the talent is exceptional but another evaluator may disgaree. In addition, staying at the same line of work and doing the same task every single day is not a proof that someone is passionate at his or her job. For example, a person may boost that he is experineced on the job by measuring the years of service even if he has no interest working at all; the paycheck that comes every end of the month is the greatest motivation. Furthermore, the nature of work and the environment of every establishment diffes from one another. There is no assurance that the talent that was acquired from previous employment will be useful.",
+        "To conclude, being a graduate of a certain university means meeting the quallifications a company is looking for. It will open more opportunities to be part of a huge and well-known company also, managers can be subjective with skills when doing assessment."
+    ],
+    "errors": {
+        "num_error": "26",
+        "error_list": [
+            {
+                "word": "many",
+                "start_idx": 45,
+                "end_idx": 49,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for many"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 120,
+                "end_idx": 123,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "thinks",
+                "start_idx": 163,
+                "end_idx": 169,
+                "error": "Change the verb form",
+                "error_des": "The verb thinks does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "think"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 296,
+                "end_idx": 300,
+                "error": "Remove the redundancy",
+                "error_des": "Oops! It appears that you typed the twice in a row. Consider deleting one of them.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 369,
+                "end_idx": 371,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "does",
+                "start_idx": 469,
+                "end_idx": 473,
+                "error": "Change the verb form",
+                "error_des": "The verb does does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "do"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 563,
+                "end_idx": 566,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject thing. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "there",
+                "start_idx": 801,
+                "end_idx": 806,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "if there"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 820,
+                "end_idx": 822,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "teaching",
+                "start_idx": 823,
+                "end_idx": 831,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a teaching"
+                ]
+            },
+            {
+                "word": "admisnistrators",
+                "start_idx": 842,
+                "end_idx": 857,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want admisnistrators to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "administrator",
+                    "administrators"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 1095,
+                "end_idx": 1098,
+                "error": "Change the word",
+                "error_des": "The word the may be incorrect in this context. Consider changing it.",
+                "suggetions": [
+                    "their"
+                ]
+            },
+            {
+                "word": "disgaree",
+                "start_idx": 1261,
+                "end_idx": 1269,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want disgaree to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "disagree"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 1292,
+                "end_idx": 1294,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 1365,
+                "end_idx": 1367,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 1400,
+                "end_idx": 1402,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "about"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1462,
+                "end_idx": 1462,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want experineced to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "experienced"
+                ]
+            },
+            {
+                "word": "experineced",
+                "start_idx": 1462,
+                "end_idx": 1473,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want experineced to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "experienced"
+                ]
+            },
+            {
+                "word": "working",
+                "start_idx": 1546,
+                "end_idx": 1553,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in working"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1586,
+                "end_idx": 1586,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at every"
+                ]
+            },
+            {
+                "word": "every",
+                "start_idx": 1586,
+                "end_idx": 1591,
+                "error": "Correct determiner usage",
+                "error_des": "It seems that determiner use may be incorrect here.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1712,
+                "end_idx": 1712,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want diffes to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "differs",
+                    "differ"
+                ]
+            },
+            {
+                "word": "diffes",
+                "start_idx": 1712,
+                "end_idx": 1718,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want diffes to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "differ"
+                ]
+            },
+            {
+                "word": "quallifications",
+                "start_idx": 1907,
+                "end_idx": 1922,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want quallifications to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "qualifications"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 2081,
+                "end_idx": 2081,
+                "error": "Add an article",
+                "error_des": "The noun phrase assessment seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the assessment",
+                    "an assessment"
+                ]
+            },
+            {
+                "word": "assessment",
+                "start_idx": 2081,
+                "end_idx": 2091,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that assessment may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "assessments"
+                ]
+            }
+        ]
+    },
+    "submitter": "September",
+    "num_words": 353,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "for instance",
+            "then",
+            "furthermore",
+            "for example",
+            "moreover",
+            "however",
+            "in addition",
+            "this",
+            "also",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "skills",
+                "occurrences": [
+                    {
+                        "start_idx": 413,
+                        "end_idx": 419
+                    },
+                    {
+                        "start_idx": 1099,
+                        "end_idx": 1105
+                    },
+                    {
+                        "start_idx": 1117,
+                        "end_idx": 1123
+                    },
+                    {
+                        "start_idx": 2062,
+                        "end_idx": 2068
+                    }
+                ]
+            },
+            {
+                "word": "job",
+                "occurrences": [
+                    {
+                        "start_idx": 136,
+                        "end_idx": 139
+                    },
+                    {
+                        "start_idx": 532,
+                        "end_idx": 535
+                    },
+                    {
+                        "start_idx": 637,
+                        "end_idx": 640
+                    },
+                    {
+                        "start_idx": 1052,
+                        "end_idx": 1055
+                    },
+                    {
+                        "start_idx": 1414,
+                        "end_idx": 1417
+                    },
+                    {
+                        "start_idx": 1481,
+                        "end_idx": 1484
+                    }
+                ]
+            },
+            {
+                "word": "person",
+                "occurrences": [
+                    {
+                        "start_idx": 113,
+                        "end_idx": 119
+                    },
+                    {
+                        "start_idx": 490,
+                        "end_idx": 496
+                    },
+                    {
+                        "start_idx": 1164,
+                        "end_idx": 1170
+                    },
+                    {
+                        "start_idx": 1434,
+                        "end_idx": 1440
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-31T08:08:07.424Z"
+}

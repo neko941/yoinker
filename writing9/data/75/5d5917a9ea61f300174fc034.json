@@ -1,0 +1,138 @@
+{
+    "url": "https://writing9.com/text/5d5917a9ea61f300174fc034",
+    "file": "data\\75\\5d5917a9ea61f300174fc034.json",
+    "topics": [
+        "people",
+        "retirement",
+        "age",
+        "e",
+        "g",
+        "years",
+        "everybody",
+        "occupation",
+        "workers",
+        "pension",
+        "benefit"
+    ],
+    "question": "Some people think that having a set retirement age (e.g. 65 years) for everybody, regardless of occupation, is unfair. They believe that certain workers deserve to retire and receive a pension at an earlier age. \nDo you agree or disagree?\nWhich types of workers do you think should benefit from early retirement?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some would argue that it is unfair to set a common age of retirement for every worker of any occupation. They say that people who follow certain careers should be allowed to retire and given pensions sooner than others. I strongly agree with this idea as some jobs damage individuals\u2019 health at early ages, and retirement before 65 is beneficial to those who work in harsh conditions.",
+        "Several occupations are damaging to the physical health of workers at very early ages, thus, they deserve to retire before a set age. Normally, the effect of aging on people\u2019s productivity at work starts at 65; however, in several occupations, this process begins at around mid-40s. Therefore, workers who become ineffective because of their jobs should be allowed to retire early if they want. For example, a study by Harvard University showed that most bankers became unqualified for their jobs at the age of 65 whereas constructors had signs of poor physical health after 45.",
+        "Individuals who are regularly exposed to dirt and toxic chemicals in bad working conditions will benefit from early retirement. When these people are separated from their workplaces, they will stop breathing polluted air and eating contaminated foods, and it will give their bodies time to recover and become healthy again. Furthermore, they will be able to treat the diseases that they have already got during their work. For instance, gold miners in Kenya are estimated to have very high amounts of Mercury in their blood, and they all have a high risk of having cancers when they reach 60.",
+        "In conclusion, workers of certain occupations should get pensions and retirement at early ages because their health is being harmed at mid-40s compared to normal office workers, and early retirement will benefit those who expose to the toxic working environment every day."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "of",
+                "start_idx": 1580,
+                "end_idx": 1582,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "Thanh",
+    "num_words": 303,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "thus",
+            "for instance",
+            "furthermore",
+            "for example",
+            "however",
+            "therefore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 285,
+                        "end_idx": 291
+                    },
+                    {
+                        "start_idx": 434,
+                        "end_idx": 440
+                    },
+                    {
+                        "start_idx": 947,
+                        "end_idx": 953
+                    },
+                    {
+                        "start_idx": 1273,
+                        "end_idx": 1279
+                    },
+                    {
+                        "start_idx": 1666,
+                        "end_idx": 1672
+                    }
+                ]
+            },
+            {
+                "word": "retirement",
+                "occurrences": [
+                    {
+                        "start_idx": 58,
+                        "end_idx": 68
+                    },
+                    {
+                        "start_idx": 311,
+                        "end_idx": 321
+                    },
+                    {
+                        "start_idx": 1080,
+                        "end_idx": 1090
+                    },
+                    {
+                        "start_idx": 1627,
+                        "end_idx": 1637
+                    },
+                    {
+                        "start_idx": 1745,
+                        "end_idx": 1755
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-18T09:17:29.237Z"
+}

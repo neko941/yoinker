@@ -1,0 +1,122 @@
+{
+    "url": "https://writing9.com/text/5d3a34c59e6ade00172d074c",
+    "file": "data\\65\\5d3a34c59e6ade00172d074c.json",
+    "topics": [
+        "*question*",
+        "trend",
+        "world"
+    ],
+    "question": "*QUESTION* \n\nThere is an increasing trend around the world to have a small family rather than a large family.\n\nWhat are the advantages and disadvantages of having a small family rather than a large family?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The family is the smallest unit of the society and its activities consequently affect the larger community. The trend of having a small sized family is on the uprise around the globe now. This has some benefits such as easy management and proper planning, but it also has some drawbacks.",
+        "On one hand, in a home with fewer individuals, it is far more convenient to cater for the needs of the family such as feeding, clothing, housing and even school fees as opposed to families with more people. For example, with a monthly salary of N100,000 in a family of 3, they can afford a comfortable house, buy food and clothing, and the child can attend a decent school. If there is an increase in the number of this family, extra income would be needed to achieve the same. In addition, making future plans can be done more seamlessly as it is easier to account for people in modest groups than an extensive one. Likewise, smaller families tend to be more closely knit and share common goals. Monitoring of the whereabouts of each member of the family is also less stressful.",
+        "On the other hand, a reduced number of children born into families mean that there will be less available manpower, leaving the government, as well as private companies with limited varieties of human resources to choose from. This can in turn result in a decline in the GDP of the country. Furthermore, from an interview conducted on individuals from small-scaled families, majority of them seem to have had a boring home-life with little activities while growing up. Reports has shown that some people from very small homes tend to stay longer at work while others prefer to go to other hang out spots after work before they finally retire home for the day.",
+        "In conclusion, even though having a small numbered family can make life boring and also reduce available human resources, it has some great benefits."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "family ",
+                "start_idx": 392,
+                "end_idx": 399,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "family, such"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 538,
+                "end_idx": 539,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "seamlessly as",
+                "start_idx": 817,
+                "end_idx": 830,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "seamlessly, as"
+                ]
+            },
+            {
+                "word": "majority",
+                "start_idx": 1445,
+                "end_idx": 1453,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the majority"
+                ]
+            },
+            {
+                "word": "has shown",
+                "start_idx": 1547,
+                "end_idx": 1556,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "have shown"
+                ]
+            }
+        ]
+    },
+    "submitter": "Hope",
+    "num_words": 328,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "on the other hand",
+            "consequently",
+            "furthermore",
+            "for example",
+            "likewise",
+            "in addition",
+            "finally",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2019-07-25T23:01:25.578Z"
+}

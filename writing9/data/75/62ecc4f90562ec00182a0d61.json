@@ -1,0 +1,159 @@
+{
+    "url": "https://writing9.com/text/62ecc4f90562ec00182a0d61-art-classes-should-be-compulsory-in-high-school-do-you",
+    "file": "data\\75\\62ecc4f90562ec00182a0d61.json",
+    "topics": [
+        "art",
+        "classes",
+        "school"
+    ],
+    "question": "Art classes should be compulsory in high school. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Opinions diverge widely on the importance of art in today's society. It is assumed that high school students had better be forced to enrol in art classes. In my opinion, I am a strong advocate of this claim, and various reasons could be attributed to support my perspective.",
+        "The principal reason why I support this notion is that there are numerous advantages that art can offer to the pupils. Firstly, learning art such as dancing, drawing, carving and so on, is a great way to develop children's imagination and creativity. Moreover, life these days is incredibly stressful and hectic due to the increasingly competitive job market and the pressure of college exams, so students need some activities that alleviate the stress and rejuvenate their mind. By participating in these activities, they get a temporary break from their stressful life, and they feel more energetic. Multiple reports reveal that working professionals who pursue art in their leisure time have improved concentration and productivity at their workplaces.",
+        "Another reason why I agree with this opinion is that it can help find overwhelming genius for fields which relate to art. Therefore, there would be more productive and talented citizens who make more contributions to society. Furthermore, art like painting and music have a substantial role in improving people's quality of life as these fields offer job prospects for graduates. If a person put a lot of efforts and gain expertise, they get more fame and money, and they can uplift their standards of living. For example, most renowned musicians and artists are living a lavish lifestyle with all comforts and luxuries.",
+        "In conclusion, I believe that art classes should be compulsory in high school because art plays a crucial role in enhancing learning efficiency and providing people with job opportunities. And if opted as a career, students can earn more money and improve their standards of living."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "mind",
+                "start_idx": 749,
+                "end_idx": 753,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that mind may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "minds"
+                ]
+            },
+            {
+                "word": " a ",
+                "start_idx": 1426,
+                "end_idx": 1429,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in  a"
+                ]
+            },
+            {
+                "word": "efforts",
+                "start_idx": 1436,
+                "end_idx": 1443,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that efforts may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "effort"
+                ]
+            },
+            {
+                "word": "gain",
+                "start_idx": 1448,
+                "end_idx": 1452,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb gain does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "gains"
+                ]
+            }
+        ]
+    },
+    "submitter": "domaianh.uliser",
+    "num_words": 314,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "furthermore",
+            "for example",
+            "moreover",
+            "therefore",
+            "this",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "art",
+                "occurrences": [
+                    {
+                        "start_idx": 45,
+                        "end_idx": 48
+                    },
+                    {
+                        "start_idx": 142,
+                        "end_idx": 145
+                    },
+                    {
+                        "start_idx": 365,
+                        "end_idx": 368
+                    },
+                    {
+                        "start_idx": 412,
+                        "end_idx": 415
+                    },
+                    {
+                        "start_idx": 759,
+                        "end_idx": 762
+                    },
+                    {
+                        "start_idx": 939,
+                        "end_idx": 942
+                    },
+                    {
+                        "start_idx": 1148,
+                        "end_idx": 1151
+                    },
+                    {
+                        "start_idx": 1270,
+                        "end_idx": 1273
+                    },
+                    {
+                        "start_idx": 1582,
+                        "end_idx": 1585
+                    },
+                    {
+                        "start_idx": 1682,
+                        "end_idx": 1685
+                    },
+                    {
+                        "start_idx": 1738,
+                        "end_idx": 1741
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-05T08:32:09.434Z"
+}

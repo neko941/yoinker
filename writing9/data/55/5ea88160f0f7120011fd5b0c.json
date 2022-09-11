@@ -1,0 +1,144 @@
+{
+    "url": "https://writing9.com/text/5ea88160f0f7120011fd5b0c",
+    "file": "data\\55\\5ea88160f0f7120011fd5b0c.json",
+    "topics": [
+        "people",
+        "pets",
+        "children",
+        "options"
+    ],
+    "question": "Some people think that keeping pets is good for children while others think it is dangerous and unhealthy. Which opinion do you agree with? Discuss both options and give examples.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Taming animals is becoming popular these days both in urban and rural areas. Some people believe that keeping your favored animal at home is profitable while others, in contrast, opposes pet keeping with children. My personal opinion on the topic is one should avoid keeping animals at home with children due to a multitude of reasons encompassed below.",
+        "To embark upon, the pet can sometimes be a reason for illness and several infections in babies. Animals carry some sort of parasites and insects on their parts of the body that can cause rare diseases. Moreover, pets, when tormented or teased, can bite or attack the owner. For instance, scabies is caused due to a dog and it gives unwanted rashes on the skin of a human.",
+        "Looking at the favourable aspect of adoption is that pets often develop a feeling of happiness and fun in the family along with providing safety and security. When we keep a pet in the family it creates a bond of love and compassion with each family member with its activities like a parrot tries to imitate young children, similarly, the dog plays with its master when it is in a jovial mood. Furthermore, some animals provide security and safety by giving some signals when they see a stranger or a thief.",
+        "In conclusion, I would say pet keeping has its own merits, however in my opinion disadvantages always outweighs the advantages. Thus, I firmly believe that keeping a pet is harmful to children."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "is becoming",
+                "start_idx": 15,
+                "end_idx": 26,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are becoming"
+                ]
+            },
+            {
+                "word": "favored",
+                "start_idx": 115,
+                "end_idx": 122,
+                "error": "preferred above all others and treated with partiality",
+                "error_des": "",
+                "suggetions": [
+                    "favoured",
+                    "feathered"
+                ]
+            },
+            {
+                "word": "is one",
+                "start_idx": 247,
+                "end_idx": 253,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "is, one"
+                ]
+            },
+            {
+                "word": "however in",
+                "start_idx": 1293,
+                "end_idx": 1303,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "however, in"
+                ]
+            }
+        ]
+    },
+    "submitter": "rahul.singh483",
+    "num_words": 249,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "thus",
+            "furthermore",
+            "similarly",
+            "moreover",
+            "in contrast",
+            "for instance"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "pet",
+                "occurrences": [
+                    {
+                        "start_idx": 187,
+                        "end_idx": 190
+                    },
+                    {
+                        "start_idx": 374,
+                        "end_idx": 377
+                    },
+                    {
+                        "start_idx": 566,
+                        "end_idx": 569
+                    },
+                    {
+                        "start_idx": 779,
+                        "end_idx": 782
+                    },
+                    {
+                        "start_idx": 900,
+                        "end_idx": 903
+                    },
+                    {
+                        "start_idx": 1261,
+                        "end_idx": 1264
+                    },
+                    {
+                        "start_idx": 1400,
+                        "end_idx": 1403
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-04-28T19:17:52.874Z"
+}

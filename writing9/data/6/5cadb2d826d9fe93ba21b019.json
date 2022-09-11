@@ -1,0 +1,169 @@
+{
+    "url": "https://writing9.com/text/5cadb2d826d9fe93ba21b019",
+    "file": "data\\6\\5cadb2d826d9fe93ba21b019.json",
+    "topics": [
+        "people",
+        "controls",
+        "noise"
+    ],
+    "question": "Some people think that there should be some strict controls about noise. Others think that they could just make as much noise as they want. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is a debated issue whether stricter laws should be enacted to limit the impacts of noise or people ought to reach the peak of relaxing without worrying about the noise produced. From my perspective, both views are of the justification.",
+        "It is undeniable that the practice of controlling the amount of noise would bring about an enormous benefit on the well-being of people. In fact, in the current modernizing society, humans are adversely affected by the noise pollution, particularly in terms of their mental health and the level of productivity, resulting from other factors of mundane life. For example, people who are exposed directly and consistently to loud sound of transportation or noisy neighbors at night could be put a halt on their sleep, which renders them become stressful and restrains their peak performance. Therefore, tough laws about noise could make significant contributions to the upgrade of people\u2019s living standard.",
+        "On the other hand, it is true that people should not be deprived of their freedoms of making much noise. Indeed, humans have the right to feel the sense of unwinding and live their lives to the fullest by expressing their emotion through noise in some certain circumstances. For instance, when a nation\u2019s talented athletes win a trophy at any global sporting event, it is patriotism that countrymen might have to cheer and share this happy moment together. As a result, strict controls could not be implemented to limit such a cultural feature stretching overseas.",
+        "In conclusion, I would give credence that there should be appropriate constitutions to reduce the severe influences of noise although people are allowed to be extremely noisy in some cases."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "loud sound",
+                "start_idx": 662,
+                "end_idx": 672,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the loud sound",
+                    "loud sounds"
+                ]
+            },
+            {
+                "word": "neighbors",
+                "start_idx": 700,
+                "end_idx": 709,
+                "error": "a person who lives (or is located) near another",
+                "error_des": "",
+                "suggetions": [
+                    "neighbours"
+                ]
+            },
+            {
+                "word": "could be put",
+                "start_idx": 719,
+                "end_idx": 731,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "could put"
+                ]
+            },
+            {
+                "word": "athletes",
+                "start_idx": 1258,
+                "end_idx": 1266,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "athlete"
+                ]
+            },
+            {
+                "word": "win",
+                "start_idx": 1267,
+                "end_idx": 1270,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "wins"
+                ]
+            },
+            {
+                "word": "noise ",
+                "start_idx": 1628,
+                "end_idx": 1634,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "noise, although"
+                ]
+            }
+        ]
+    },
+    "submitter": "thanhdn.smartcom",
+    "num_words": 276,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "on the other hand",
+            "this",
+            "as a result",
+            "for example",
+            "although",
+            "therefore",
+            "for instance",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "noise",
+                "occurrences": [
+                    {
+                        "start_idx": 86,
+                        "end_idx": 91
+                    },
+                    {
+                        "start_idx": 165,
+                        "end_idx": 170
+                    },
+                    {
+                        "start_idx": 303,
+                        "end_idx": 308
+                    },
+                    {
+                        "start_idx": 458,
+                        "end_idx": 463
+                    },
+                    {
+                        "start_idx": 857,
+                        "end_idx": 862
+                    },
+                    {
+                        "start_idx": 1042,
+                        "end_idx": 1047
+                    },
+                    {
+                        "start_idx": 1182,
+                        "end_idx": 1187
+                    },
+                    {
+                        "start_idx": 1628,
+                        "end_idx": 1633
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-10T09:09:44.000Z"
+}

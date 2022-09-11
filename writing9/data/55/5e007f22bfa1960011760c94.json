@@ -1,0 +1,176 @@
+{
+    "url": "https://writing9.com/text/5e007f22bfa1960011760c94",
+    "file": "data\\55\\5e007f22bfa1960011760c94.json",
+    "topics": [
+        "people",
+        "university",
+        "students",
+        "study",
+        "subjects",
+        "future",
+        "science",
+        "technology"
+    ],
+    "question": "Some people think that all university students should study whatever they like. Others believe that they should only be allowed to study subjects that will be useful in the future, such as those related to science and technology.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some people would argue that all males and females seeking tertiary education should study subjects which interest them, while others say that students should compulsorily study subjects which will be helpful in the future, especially those specific to science and technology. Although studying specific subjects will be conducive to the students in the coming years to secure high paid jobs, I believe that choosing subjects which an individual prefers is essential as they will excel in academics.",
+        "On the one hand, forcing university students to learn science and technology-related subjects is helpful as it will help them to earn high salaries. That is to say, STEM and medicine related jobs are always in demand due to a constant shortage of skilled people and are known for their intelligence. Thus, earning high income will help them to lead a financially secured life. To illustrate, a recent survey by the Times of India revealed that 45% of young boys and girls who graduated from Engineering colleges were paid a minimum salary of $20,000 which was higher than the students who did not study science and IT subjects. However, I believe that every student is not capable of studying science-related subjects and they may fail miserably in the exams.",
+        "On the other hand, children who opt for subjects which they like are extremely successful in academics. In other words, students will be enthusiastic and will study dedicatedly as the chosen subjects are of their interest area. As a result, they will focus on their studies and will excel in examinations securing high grades. For instance, recent research revealed that 65% of students secured distinction in exams when they choose the subject they like. This school of thought is preferable to me because young boys and girls will not only complete their education but also perform academically due to interest in those subjects.",
+        "In conclusion, although pursuing university education in science-related subjects provides high paid job opportunities in the near future, allowing students to opt for subjects which they like helps them to perform better in academics."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "is",
+                "start_idx": 595,
+                "end_idx": 597,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "high income",
+                "start_idx": 815,
+                "end_idx": 826,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a high income"
+                ]
+            },
+            {
+                "word": "dedicatedly",
+                "start_idx": 1427,
+                "end_idx": 1438,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "of",
+                "start_idx": 1466,
+                "end_idx": 1468,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "education but",
+                "start_idx": 1819,
+                "end_idx": 1832,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "education, but"
+                ]
+            },
+            {
+                "word": "provides",
+                "start_idx": 1977,
+                "end_idx": 1985,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "will provide",
+                    "provide"
+                ]
+            },
+            {
+                "word": "helps",
+                "start_idx": 2088,
+                "end_idx": 2093,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "helping"
+                ]
+            }
+        ]
+    },
+    "submitter": "sg186023",
+    "num_words": 343,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "this",
+            "as a result",
+            "although",
+            "in other words",
+            "however",
+            "that is",
+            "for instance",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "study",
+                "occurrences": [
+                    {
+                        "start_idx": 85,
+                        "end_idx": 90
+                    },
+                    {
+                        "start_idx": 172,
+                        "end_idx": 177
+                    },
+                    {
+                        "start_idx": 286,
+                        "end_idx": 291
+                    },
+                    {
+                        "start_idx": 1097,
+                        "end_idx": 1102
+                    },
+                    {
+                        "start_idx": 1184,
+                        "end_idx": 1189
+                    },
+                    {
+                        "start_idx": 1419,
+                        "end_idx": 1424
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-12-23T08:47:30.219Z"
+}

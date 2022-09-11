@@ -1,0 +1,137 @@
+{
+    "url": "https://writing9.com/text/5d201b4ba0d8370017b5de29",
+    "file": "data\\65\\5d201b4ba0d8370017b5de29.json",
+    "topics": [
+        "people",
+        "hobby"
+    ],
+    "question": "Some people believe that in order for a hobby to be enjoyable, it needs to be difficult in some way. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A recent study shows that it is important for us to have at least one hobby to refresh our mind. We can choose a hobby that suits us, either playing games or doing sports. Some people believe that an enjoyable hobby should be challenging. In this essay, I shall give some facts and opinions to support this statement.",
+        "To begin with, human brain is complex, it always looks for uncertainty. For example, we do not want to read the last page before starting to read a new novel and we get mad when someone spoil the plot of a new movie in the cinema. As it is mentioned above, our brain tends to look for uncertainty, this is why mysterious novels and unpredictable movie endings attract people the most.",
+        "Second, human is a competitive creature. Our ability to compete and solve problems make the human-being survives until now. Regarding doing their hobbies, people always look for new challenges and competitions to prove their power and glory. For example, some official game competitions and sport matches are held all over the world and game developers always create games which divided into several difficulty levels. People feel satisfied if they can manage the easy level and go further to the next level. Furthermore, people also feel fulfilled if they can compete their rival. This satisfaction feeling cause the excretion of dopamine hormone which can make us feel happy and addicted to it.",
+        "In conclusion, it is scientifically proven that people tent to get bored if their hobby is not challenging. The sense of uncertainty and competition are two main factors that people look for in their hobbies. Hence, I believe that in order for a hobby to be enjoyable, it needs to be difficult in some ways."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "human brain",
+                "start_idx": 333,
+                "end_idx": 344,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the human brain"
+                ]
+            },
+            {
+                "word": "problems make",
+                "start_idx": 777,
+                "end_idx": 790,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "problems, make"
+                ]
+            },
+            {
+                "word": "cause",
+                "start_idx": 1311,
+                "end_idx": 1316,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "causes"
+                ]
+            },
+            {
+                "word": "tent",
+                "start_idx": 1455,
+                "end_idx": 1459,
+                "error": "have a tendency or disposition to do or be something; be inclined",
+                "error_des": "",
+                "suggetions": [
+                    "tend"
+                ]
+            }
+        ]
+    },
+    "submitter": "mega.watty1994",
+    "num_words": 295,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "also",
+            "second",
+            "hence",
+            "furthermore",
+            "for example",
+            "further",
+            "next",
+            "this",
+            "to begin",
+            "last"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "hobby",
+                "occurrences": [
+                    {
+                        "start_idx": 70,
+                        "end_idx": 75
+                    },
+                    {
+                        "start_idx": 113,
+                        "end_idx": 118
+                    },
+                    {
+                        "start_idx": 210,
+                        "end_idx": 215
+                    },
+                    {
+                        "start_idx": 1482,
+                        "end_idx": 1487
+                    },
+                    {
+                        "start_idx": 1646,
+                        "end_idx": 1651
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-06T03:53:47.000Z"
+}

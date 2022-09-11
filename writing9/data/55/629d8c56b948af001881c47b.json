@@ -1,0 +1,295 @@
+{
+    "url": "https://writing9.com/text/629d8c56b948af001881c47b-you-recently-received-a-letter-from-a-fiend-asking-for",
+    "file": "data\\55\\629d8c56b948af001881c47b.json",
+    "topics": [
+        "fiend",
+        "advice",
+        "college",
+        "job",
+        "friend",
+        "goint",
+        "idea"
+    ],
+    "question": "You recently received a letter from a fiend asking for advice about whether to go to college or to get a job. You think he/she should get a job.\nWrite a letter to this friend. In your letter\n- say why he/she would not enjoy goint to college\n- explain why getting a job is a good idea for him/her\n- suggest types of job that would be suitable for him/her",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Anna,",
+        "I hope you are doing well, as well your family too. Thank you for your consideration. Going to school is probably a good asset to start a good future since it gives you a higher chance of getting a good job. But according to your age of a growing up woman of 22, you will face some kind of problem like harassment from other students since your age and height are big enough to be in college; In another hand, you should know that nowadays, studying is very expensive and as far I remember you are an orphan and your grandparents can not afford the school expenses. I will advise you to look for a job. Let me give you my points of view.",
+        "First of all, you will gain experience which will be helpful for your future; working means practice so you are going to learn and know how to do things. Practice is more valuable than theories. Also you will gain money for supporting your grandparents and by the same occasion save for your own future life.",
+        "As job, I will suggest you to go for bakery and pastry. If my memory is good, you used to say that you love everything relating to the patisserie shop. By engaging yourself in this activity domain, I see a lot of advantages for you like: learning how to cook different cake and sweets, having an acknowledge about how to manage a store or shop of baker, interacting directly with the customers which will help you to develop your communication skill, and of course gain money and save some part in the target to be the owner of your own shop at the end of your formation.",
+        "Just I want to prevent you that nothing is easy especially cooking for public, but since it is your passion you will be in a domain where you can use your urge imagination and creativity. And with my managerial capacity I can help you in the future to expend your brand in different areas why not countries.",
+        "In conclusion going to school is good but getting a job especially the one you like is far fair for your life journey and as your friend, I will be there to support you.",
+        "Regards,",
+        "Ines."
+    ],
+    "errors": {
+        "num_error": "18",
+        "error_list": [
+            {
+                "word": "your",
+                "start_idx": 47,
+                "end_idx": 51,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "as your"
+                ]
+            },
+            {
+                "word": "growing",
+                "start_idx": 251,
+                "end_idx": 258,
+                "error": "Replace the word",
+                "error_des": "The word growing doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "grown"
+                ]
+            },
+            {
+                "word": "points",
+                "start_idx": 634,
+                "end_idx": 640,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that points may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "point"
+                ]
+            },
+            {
+                "word": "Also",
+                "start_idx": 845,
+                "end_idx": 849,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Also. Consider adding a comma.",
+                "suggetions": [
+                    ",Also"
+                ]
+            },
+            {
+                "word": "by",
+                "start_idx": 907,
+                "end_idx": 909,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "job",
+                "start_idx": 962,
+                "end_idx": 965,
+                "error": "Add an article",
+                "error_des": "The noun phrase job seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a job"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 986,
+                "end_idx": 989,
+                "error": "Remove the particle",
+                "error_des": "The verb go appears to be in the subjunctive mood. Consider removing the particle to.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "bakery",
+                "start_idx": 996,
+                "end_idx": 1002,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a bakery"
+                ]
+            },
+            {
+                "word": "cake",
+                "start_idx": 1228,
+                "end_idx": 1232,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that cake may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "cakes"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 1303,
+                "end_idx": 1306,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "baker",
+                "start_idx": 1306,
+                "end_idx": 1311,
+                "error": "Add an article",
+                "error_des": "The noun phrase baker seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a baker",
+                    "the baker"
+                ]
+            },
+            {
+                "word": "interacting",
+                "start_idx": 1313,
+                "end_idx": 1324,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and interacting"
+                ]
+            },
+            {
+                "word": "especially",
+                "start_idx": 1579,
+                "end_idx": 1589,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter is easy especially cooking for public. Consider adding the comma(s).",
+                "suggetions": [
+                    ",especially"
+                ]
+            },
+            {
+                "word": "public",
+                "start_idx": 1602,
+                "end_idx": 1608,
+                "error": "Add an article",
+                "error_des": "The noun phrase public seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the public"
+                ]
+            },
+            {
+                "word": "capacity",
+                "start_idx": 1742,
+                "end_idx": 1750,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase with my managerial capacity. Consider adding a comma.",
+                "suggetions": [
+                    ",capacity"
+                ]
+            },
+            {
+                "word": "expend",
+                "start_idx": 1783,
+                "end_idx": 1789,
+                "error": "Correct your spelling",
+                "error_des": "The word expend doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "expand"
+                ]
+            },
+            {
+                "word": "conclusion",
+                "start_idx": 1842,
+                "end_idx": 1852,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase In conclusion. Consider adding a comma.",
+                "suggetions": [
+                    ",conclusion"
+                ]
+            },
+            {
+                "word": "especially",
+                "start_idx": 1895,
+                "end_idx": 1905,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter especially the one you like. Consider adding the comma(s).",
+                "suggetions": [
+                    ",especially"
+                ]
+            }
+        ]
+    },
+    "submitter": "kademblack",
+    "num_words": 381,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "job",
+                "occurrences": [
+                    {
+                        "start_idx": 214,
+                        "end_idx": 217
+                    },
+                    {
+                        "start_idx": 609,
+                        "end_idx": 612
+                    },
+                    {
+                        "start_idx": 961,
+                        "end_idx": 964
+                    },
+                    {
+                        "start_idx": 1890,
+                        "end_idx": 1893
+                    }
+                ]
+            },
+            {
+                "word": "future",
+                "occurrences": [
+                    {
+                        "start_idx": 154,
+                        "end_idx": 160
+                    },
+                    {
+                        "start_idx": 719,
+                        "end_idx": 725
+                    },
+                    {
+                        "start_idx": 945,
+                        "end_idx": 951
+                    },
+                    {
+                        "start_idx": 1772,
+                        "end_idx": 1778
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-06T05:10:47.773Z"
+}

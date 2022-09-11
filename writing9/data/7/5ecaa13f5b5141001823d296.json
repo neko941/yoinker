@@ -1,0 +1,105 @@
+{
+    "url": "https://writing9.com/text/5ecaa13f5b5141001823d296",
+    "file": "data\\7\\5ecaa13f5b5141001823d296.json",
+    "topics": [
+        "students",
+        "jobs",
+        "university",
+        "idea"
+    ],
+    "question": "Many students take part-time jobs while studying in university. Is this a good or bad idea?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There are a large number of students who work part-time along with studying in college. In my opinion, I believe working part-time is beneficial for students",
+        "A good reason for doing a part-time job is that it helps the students to earn and pay their university fees rather than asking parents.  At present, many students from poor backgrounds are unable to afford higher studies, as the fees for higher education are quite expensive. Working not only helps these poor kids, but also helps the student to decrease the burden of their parents irrespective of their financial status.",
+        "Another point to consider is that working part-time will help the student in learning how to manage and save the money. In other words, it helps them to realize that money does not grow on trees and hard work is essential for earning money. Furthermore, earning will help them to fulfil their even small wishes, additionally, the things which they were unable to afford otherwise.",
+        "Finally, doing an internship as a part-time job is beneficial for the student's career as well as for the society. By doing this, they not only earn money but also has the opportunity to gain valuable information, for instance, if they are working as in intern in the field which is related to their current study or interest. Moreover, it also benefits the child after completing the graduation, in the job market.",
+        "To conclude, students can afford many things, including graduation, and they can also gain experience which is quite useful for their career by working part-time."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "money but",
+                "start_idx": 1112,
+                "end_idx": 1121,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "money, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "mansiichauhan",
+    "num_words": 259,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "for instance",
+            "otherwise",
+            "furthermore",
+            "in other words",
+            "moreover",
+            "finally",
+            "this",
+            "additionally",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "money",
+                "occurrences": [
+                    {
+                        "start_idx": 694,
+                        "end_idx": 699
+                    },
+                    {
+                        "start_idx": 747,
+                        "end_idx": 752
+                    },
+                    {
+                        "start_idx": 815,
+                        "end_idx": 820
+                    },
+                    {
+                        "start_idx": 1111,
+                        "end_idx": 1116
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-05-24T16:30:55.573Z"
+}

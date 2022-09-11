@@ -1,0 +1,178 @@
+{
+    "url": "https://writing9.com/text/5cd271a5076b681dff9dd26f",
+    "file": "data\\7\\5cd271a5076b681dff9dd26f.json",
+    "topics": [
+        "people",
+        "media",
+        "privacy",
+        "price",
+        "fame",
+        "invasion",
+        "life"
+    ],
+    "question": "Are famous people treated unfairly by the media? Should they be given more privacy, or is the price of their fame an invasion into their private life?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, the invasion of privacy of famous people, such as celebrities, on mass media has been receiving a great deal of public attention. Although the media somehow violates and gives more attention to the private lives, there is no need to give extra protection to them.",
+        "To begin with, since famous people have profound influences on the public, their personal lives would be a target of the media. In other words, news about public figures would be attractive to a number of audiences who are fans and concerned about their idols\u2019 lives, which guarantees a profit for the news\u2019 owner. In addition, once a famous person has a flaw, he would be criticized more strictly than an ordinary one would be. For example, a singer wears a bag made of an animal hide, which encourages her fans to do the same thing. It is essential for the media to proceed against her action more strictly than the same act of an ordinary one.",
+        "On the other hand, giving more concerns about famous figures\u2019 personal lives should be taken into account. First, it is true that personal privacy is a radical demand for each person, therefore, famous ones are also in need. In fact, some celebrities are miserable that they even lose their freedom at home because there are many paparazzi around their homes watching and capturing them any time. Nevertheless, offering a special treat for their privacy may exaggerate the issue because they are capable of prosecuting who are invading their personal life. This means that people whoever attack personal life of any one should be considered a crime.",
+        "In conclusion, a popular figure is merely a person who needs the privacy for himself. While the media ought to respect his privacy demand in order to avoid committing an offense, having more personal privacy should be treated by his own."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "to proceed",
+                "start_idx": 840,
+                "end_idx": 850,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "proceed"
+                ]
+            },
+            {
+                "word": "famous figures\u2019 personal lives",
+                "start_idx": 969,
+                "end_idx": 999,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the famous figures\u2019 personal lives"
+                ]
+            },
+            {
+                "word": "people whoever",
+                "start_idx": 1496,
+                "end_idx": 1510,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "people, whoever"
+                ]
+            },
+            {
+                "word": "personal life",
+                "start_idx": 1518,
+                "end_idx": 1531,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the personal life"
+                ]
+            },
+            {
+                "word": "any one",
+                "start_idx": 1535,
+                "end_idx": 1542,
+                "error": "any person",
+                "error_des": "",
+                "suggetions": [
+                    "anyone"
+                ]
+            },
+            {
+                "word": "offense",
+                "start_idx": 1744,
+                "end_idx": 1751,
+                "error": "a lack of politeness; a failure to show regard for others; wounding the feelings or others",
+                "error_des": "",
+                "suggetions": [
+                    "offence"
+                ]
+            },
+            {
+                "word": "own",
+                "start_idx": 1807,
+                "end_idx": 1810,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "owner"
+                ]
+            }
+        ]
+    },
+    "submitter": "fd",
+    "num_words": 310,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "on the other hand",
+            "nevertheless",
+            "for example",
+            "although",
+            "in other words",
+            "in addition",
+            "therefore",
+            "this",
+            "to begin",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "privacy",
+                "occurrences": [
+                    {
+                        "start_idx": 26,
+                        "end_idx": 33
+                    },
+                    {
+                        "start_idx": 1060,
+                        "end_idx": 1067
+                    },
+                    {
+                        "start_idx": 1367,
+                        "end_idx": 1374
+                    },
+                    {
+                        "start_idx": 1636,
+                        "end_idx": 1643
+                    },
+                    {
+                        "start_idx": 1694,
+                        "end_idx": 1701
+                    },
+                    {
+                        "start_idx": 1771,
+                        "end_idx": 1778
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-08T06:05:25.000Z"
+}

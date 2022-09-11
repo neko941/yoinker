@@ -1,0 +1,377 @@
+{
+    "url": "https://writing9.com/text/62dbdfaa8ee1ab00180e3d41-you-should-spend-about-40-minutes-on-this-task-write-about",
+    "file": "data\\55\\62dbdfaa8ee1ab00180e3d41.json",
+    "topics": [
+        "minutes",
+        "topic",
+        "people",
+        "sports",
+        "event",
+        "country"
+    ],
+    "question": "You should spend about 40 minutes on this task.\n\n\nWrite about the following topic:\n\n\nSome people think that hosting an international sports event is good for the country, while some people think it is bad. Discuss both views and state your opinion.\n\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\n\nYou should write at least 250 words.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There exists a difference of opinion always on whether hosting international sports event is bad or good. Sports unites people regardless of their race, religion, community etc and hold them together. I completely agree with the fact that hosting global sports carnival is beneficial.",
+        "Firstly, global events generates great income for nation which organises it. Hence such sports happenings draw huge crowd of supporters across the globe and even mammoth foreign investments. For example, economy of South Africa boomed after organising the FIFA football world cup, numerous firms visited and made hefty investments, also it produced billion dollar profit for the nation of South Africa. People are ready to spend their money and travel to support their favourite team which is the driving factor that encourages nations to take up such tasks. Thus conducting such sports events are always a profitable venture for the hosting nation.",
+        "Furthermore, taking up such events would directly contribute to development of hosting city. The government of the particular country refurbishes the hosting city by renovating roads, cleaning the city, improving the stadiums, constructing new buildings to accomodate athletes and fans. For example, when commonwealth games were organised in India, city of Delhi was beautified and every public property around the city were renovated. Thus events like this can improve the state of a city and make a better life for people residing over there. Moreover, the particular city gains global attention which can further lead to many other developments and events in near future.",
+        "To conclude, I strongly believe that conducting international sports events will have a positive impact and contributes to the betterment of the nation and its residents."
+    ],
+    "errors": {
+        "num_error": "18",
+        "error_list": [
+            {
+                "word": "event",
+                "start_idx": 84,
+                "end_idx": 89,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that event may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "events"
+                ]
+            },
+            {
+                "word": "unites",
+                "start_idx": 113,
+                "end_idx": 119,
+                "error": "Change the verb form",
+                "error_des": "The verb unites does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "unite"
+                ]
+            },
+            {
+                "word": "global",
+                "start_idx": 247,
+                "end_idx": 253,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a global"
+                ]
+            },
+            {
+                "word": "generates",
+                "start_idx": 308,
+                "end_idx": 317,
+                "error": "Change the verb form",
+                "error_des": "The singular verb generates does not appear to agree with the plural subject events. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "generate"
+                ]
+            },
+            {
+                "word": "nation",
+                "start_idx": 335,
+                "end_idx": 341,
+                "error": "Add an article",
+                "error_des": "The noun phrase nation seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a nation",
+                    "the nation"
+                ]
+            },
+            {
+                "word": "huge",
+                "start_idx": 396,
+                "end_idx": 400,
+                "error": "Add an article",
+                "error_des": "The noun phrase huge crowd seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a huge"
+                ]
+            },
+            {
+                "word": "crowd",
+                "start_idx": 401,
+                "end_idx": 406,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that crowd may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "crowds"
+                ]
+            },
+            {
+                "word": "economy",
+                "start_idx": 489,
+                "end_idx": 496,
+                "error": "Add an article",
+                "error_des": "The noun phrase economy seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the economy"
+                ]
+            },
+            {
+                "word": "numerous",
+                "start_idx": 566,
+                "end_idx": 574,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and numerous"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 879,
+                "end_idx": 882,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb are does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "development",
+                "start_idx": 999,
+                "end_idx": 1010,
+                "error": "Add an article",
+                "error_des": "The noun phrase development seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the development"
+                ]
+            },
+            {
+                "word": "hosting",
+                "start_idx": 1014,
+                "end_idx": 1021,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the hosting"
+                ]
+            },
+            {
+                "word": "constructing",
+                "start_idx": 1162,
+                "end_idx": 1174,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and constructing"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1192,
+                "end_idx": 1192,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want accomodate to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "accommodate"
+                ]
+            },
+            {
+                "word": "accomodate",
+                "start_idx": 1192,
+                "end_idx": 1202,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want accomodate to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "accommodate"
+                ]
+            },
+            {
+                "word": "commonwealth",
+                "start_idx": 1240,
+                "end_idx": 1252,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the commonwealth"
+                ]
+            },
+            {
+                "word": "city",
+                "start_idx": 1284,
+                "end_idx": 1288,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the city"
+                ]
+            },
+            {
+                "word": "were",
+                "start_idx": 1355,
+                "end_idx": 1359,
+                "error": "Change the verb form",
+                "error_des": "The plural verb were does not appear to agree with the singular subject property. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "was"
+                ]
+            }
+        ]
+    },
+    "submitter": "naveindhawan",
+    "num_words": 276,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "thus",
+            "hence",
+            "furthermore",
+            "for example",
+            "moreover",
+            "further",
+            "this",
+            "also",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "events",
+                "occurrences": [
+                    {
+                        "start_idx": 301,
+                        "end_idx": 307
+                    },
+                    {
+                        "start_idx": 872,
+                        "end_idx": 878
+                    },
+                    {
+                        "start_idx": 963,
+                        "end_idx": 969
+                    },
+                    {
+                        "start_idx": 1376,
+                        "end_idx": 1382
+                    },
+                    {
+                        "start_idx": 1587,
+                        "end_idx": 1593
+                    },
+                    {
+                        "start_idx": 1679,
+                        "end_idx": 1685
+                    }
+                ]
+            },
+            {
+                "word": "city",
+                "occurrences": [
+                    {
+                        "start_idx": 1022,
+                        "end_idx": 1026
+                    },
+                    {
+                        "start_idx": 1093,
+                        "end_idx": 1097
+                    },
+                    {
+                        "start_idx": 1132,
+                        "end_idx": 1136
+                    },
+                    {
+                        "start_idx": 1284,
+                        "end_idx": 1288
+                    },
+                    {
+                        "start_idx": 1350,
+                        "end_idx": 1354
+                    },
+                    {
+                        "start_idx": 1420,
+                        "end_idx": 1424
+                    },
+                    {
+                        "start_idx": 1505,
+                        "end_idx": 1509
+                    }
+                ]
+            },
+            {
+                "word": "sports",
+                "occurrences": [
+                    {
+                        "start_idx": 77,
+                        "end_idx": 83
+                    },
+                    {
+                        "start_idx": 254,
+                        "end_idx": 260
+                    },
+                    {
+                        "start_idx": 373,
+                        "end_idx": 379
+                    },
+                    {
+                        "start_idx": 865,
+                        "end_idx": 871
+                    },
+                    {
+                        "start_idx": 1672,
+                        "end_idx": 1678
+                    }
+                ]
+            },
+            {
+                "word": "nation",
+                "occurrences": [
+                    {
+                        "start_idx": 68,
+                        "end_idx": 74
+                    },
+                    {
+                        "start_idx": 335,
+                        "end_idx": 341
+                    },
+                    {
+                        "start_idx": 664,
+                        "end_idx": 670
+                    },
+                    {
+                        "start_idx": 813,
+                        "end_idx": 819
+                    },
+                    {
+                        "start_idx": 927,
+                        "end_idx": 933
+                    },
+                    {
+                        "start_idx": 1663,
+                        "end_idx": 1669
+                    },
+                    {
+                        "start_idx": 1755,
+                        "end_idx": 1761
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-23T11:46:52.161Z"
+}

@@ -1,0 +1,99 @@
+{
+    "url": "https://writing9.com/text/5f44e688b66d150018c2f6d6",
+    "file": "data\\65\\5f44e688b66d150018c2f6d6.json",
+    "topics": [
+        "parents",
+        "time",
+        "children",
+        "affect"
+    ],
+    "question": "Many parents today do not spend much time with their children. Why is this? Doesthis affect parents or children more?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays a lot of people struggle of not having enough time to give necessary attention to their children. This is because for the last year\u2019s economic situation has changed significantly and both parents have to work more than ever before. Of course, this has a negative impact on families, both for children and parents.",
+        "One of the major factors why parents do not spend much time with their children is that they both are forced to work almost all the time to provide a high-quality lifestyle for their families. Were it not for high standards of living which are imposed on people every day, they would not have to take part in a race for a better life to the detriment of communication and trustful relationships with their children. That is a tremendous drawback that affects children more.",
+        "It is widespread fact that children, who often get neglected because their parents are not able to give them undivided attention, suffer from behavioural changes and mood swings. Never before have so many children had so much freedom to do what they want until their parents return home after work. Over time, it will have serious effects on their academic performance and socialisation because they do not have the necessary support and supervision.",
+        "In conclusion, taking into account all written above, we can see a connection between high living standards from the one hand and families separation from the other. Rarely do people realise that such way of living can be extremely harmful in the long run for children are not giving essential treatment and love."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "time to give necessary",
+                "start_idx": 55,
+                "end_idx": 77,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "time necessary to give"
+                ]
+            }
+        ]
+    },
+    "submitter": "mariia.shemiakova",
+    "num_words": 264,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "last",
+            "such",
+            "that is"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 55,
+                        "end_idx": 59
+                    },
+                    {
+                        "start_idx": 378,
+                        "end_idx": 382
+                    },
+                    {
+                        "start_idx": 455,
+                        "end_idx": 459
+                    },
+                    {
+                        "start_idx": 1101,
+                        "end_idx": 1105
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-08-25T10:24:40.096Z"
+}

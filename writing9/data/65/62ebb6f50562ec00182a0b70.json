@@ -1,0 +1,113 @@
+{
+    "url": "https://writing9.com/text/62ebb6f50562ec00182a0b70-most-countries-allow-18-year-olds-to-start-driving-a",
+    "file": "data\\65\\62ebb6f50562ec00182a0b70.json",
+    "topics": [
+        "countries",
+        "year",
+        "olds",
+        "car",
+        "say",
+        "age"
+    ],
+    "question": "Most Countries allow 18 year olds to start driving a car. Some say it is good to allow it at this age, while others think that the age to start driving should be at least 25. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In most countries, eighteen-year-old children are allowed to start driving a car. In my opinion, for some reasons, it is better to people begin driving at least on their 25th. Namely, it should  let them  get wiser, and at eighteen years old they are extremely energetic and full of excitement. On the other hand, some people believe that 18 years old is good to allow them to ride a car.",
+        "In fact, It is an important issue to diagnose the best age to start driving. Indeed, the governments should concentrate on this topic and find the best suggestion. I strongly believe that  individuals must receive their driving licence in their mid-twenties, and I have two proofs for my belief. First and foremost, early youths do not have a correct understanding of the danger and have few experiences in their life, so they may perform a mistake that will  affect  their whole life. According to recent studies by Tehran University, 60 percent of accidents occur by drivers who are between 18-23 years old. Last but not least, the youth are full of excitement and like doing exciting actions, such as driving fast, that can causes incidents.",
+        "However, based on some people's opinions, 18 years old is a good age to start driving. They believe that  this age is well for learning and adolescents have more opportunities to experience. According to their claim, 18-year-old drivers are better than other ones who learn to drive after 18.",
+        "In conclusion,  driving is a necessary skill and everyone has to learn it. In fact, the government should start to teach driving laws to children from primary school and they will be familiar with driving signs when they want to receive their driving licence."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "reasons",
+                "start_idx": 106,
+                "end_idx": 113,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that reasons may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "reason"
+                ]
+            },
+            {
+                "word": "percent",
+                "start_idx": 935,
+                "end_idx": 942,
+                "error": "Change the spelling",
+                "error_des": "The spelling of percent is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "per cent"
+                ]
+            }
+        ]
+    },
+    "submitter": "ranjbari4526",
+    "num_words": 288,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "on the other hand",
+            "however",
+            "this",
+            "last",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "years",
+                "occurrences": [
+                    {
+                        "start_idx": 232,
+                        "end_idx": 237
+                    },
+                    {
+                        "start_idx": 342,
+                        "end_idx": 347
+                    },
+                    {
+                        "start_idx": 988,
+                        "end_idx": 993
+                    },
+                    {
+                        "start_idx": 1179,
+                        "end_idx": 1184
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-04T12:13:55.109Z"
+}

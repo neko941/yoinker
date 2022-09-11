@@ -1,0 +1,83 @@
+{
+    "url": "https://writing9.com/text/62555d2fa010f000181b3473-you-rent-a-flat-with-your-friend-who-is-moving",
+    "file": "data\\75\\62555d2fa010f000181b3473.json",
+    "topics": [
+        "rent",
+        "friend",
+        "landlord",
+        "\u2022explain",
+        "situation",
+        "\u2022describe",
+        "\u2022ask",
+        "flatmate"
+    ],
+    "question": "You rent a flat with your friend who is moving out. It is too expensive for you to pay the rent alone.Write a letter to your landlord. In your letter: \u2022explain the situation \u2022describe why you would like to stay in this flat \u2022ask the landlord if you can find another flatmate",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I am writing this letter to inform you that my roommate would be moving out of the apartment in 3 weeks' time because she is relocating to the United Kingdom to further her studies.",
+        "It has been the most convenient living here due to its close proximity to our campus, easy access to public transportation, and supermarkets. Also, my classmates reside here and this helps us to study together on the weekends and also at midnight.",
+        "However, I have had a mixed feelings since my roommate informed me of her move. This is due to the fact that I would love to continue living here but the rent is quite expensive for me to afford on my own. Would it be okay with you if I find another flatmate to live with me in order to alleviate the burden of paying the rent by myself?",
+        "I would be grateful if my request is granted.",
+        "Yours Sincerely,",
+        "Mary Park."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 460,
+                "end_idx": 462,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun feelings in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "oyeludevictor",
+    "num_words": 160,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "also",
+            "further",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-04-12T11:12:42.425Z"
+}

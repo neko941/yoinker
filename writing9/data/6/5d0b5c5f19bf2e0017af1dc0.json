@@ -1,0 +1,131 @@
+{
+    "url": "https://writing9.com/text/5d0b5c5f19bf2e0017af1dc0",
+    "file": "data\\6\\5d0b5c5f19bf2e0017af1dc0.json",
+    "topics": [
+        "traffic",
+        "accidents",
+        "age",
+        "limit",
+        "drivers",
+        "ones"
+    ],
+    "question": "The best way to reduce traffic accidents is to raise the age limit for younger drivers and to lower the age limit for elderly ones. Do you agree or disagree? Give reasons for your answer and any relevant examples.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Owing to the increase in death toll due to road traffic accidents, many possible measures are being suggested to curb this issue. Few people are of the opinion that age limit for younger generation should be increased and that for older generation be decreased. In my opinion, this is not necessary and infact, there are other solutions that can be used as a resort.",
+        "With the spread of education and tourism, the young and old migrate to various places for the purpose of higher studies and recreational activities. It becomes quite convinient for them if they buy or rent a vehicle to commute from one place to another in the city. Changing the age limit would make it difficult for them to cope up. For instance, a college going student who would otherwise have rented a car, would have to depend on his parents to drop him to college. This is especially true in scenarios where public transport is not available.",
+        "Furthermore, it has been seen that after retirement, people are in their golden years. They would like to enjoy this part of their life to the fullest. Many of them go on a road trip and travel far and wide. By restricting their access to driving, one is limiting their enjoyment. Also, two-wheelers are often used to get groceries from the nearby stores. By using this method, one would make it very difficult for them to have a good and comfortable livelihood.",
+        "To conclude, in my opinion restricting the age limit is not the proper way to tackle this issue. There are other ways such as imposing stringent rules and regulations and heavy fines on the wrong doers."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "age limit",
+                "start_idx": 169,
+                "end_idx": 178,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the age limit"
+                ]
+            },
+            {
+                "word": "infact",
+                "start_idx": 307,
+                "end_idx": 313,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in fact"
+                ]
+            },
+            {
+                "word": "old migrate",
+                "start_idx": 430,
+                "end_idx": 441,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "old, migrate"
+                ]
+            },
+            {
+                "word": "convinient",
+                "start_idx": 540,
+                "end_idx": 550,
+                "error": "suited to your comfort or purpose or needs",
+                "error_des": "",
+                "suggetions": [
+                    "convenient"
+                ]
+            },
+            {
+                "word": "ways ",
+                "start_idx": 1509,
+                "end_idx": 1514,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "ways, such"
+                ]
+            },
+            {
+                "word": "wrong doers",
+                "start_idx": 1586,
+                "end_idx": 1597,
+                "error": "a person who transgresses moral or civil law",
+                "error_des": "",
+                "suggetions": [
+                    "wrongdoers"
+                ]
+            }
+        ]
+    },
+    "submitter": "shirisha_28",
+    "num_words": 279,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for instance",
+            "otherwise",
+            "furthermore",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2019-06-20T10:13:51.000Z"
+}

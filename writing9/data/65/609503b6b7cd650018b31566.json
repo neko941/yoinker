@@ -1,0 +1,117 @@
+{
+    "url": "https://writing9.com/text/609503b6b7cd650018b31566-many-doctors-say-that-people-in-todays-world-do-not",
+    "file": "data\\65\\609503b6b7cd650018b31566.json",
+    "topics": [
+        "doctors",
+        "people",
+        "world",
+        "exercise"
+    ],
+    "question": "Many doctors say that people in today's world do not do enough physical exercise. What do you think are the causes of this?What solutions are there to this problem",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is undeniable fact that experience helps human to remain fit. It is asserted by the vast majority of physiologist that folks are not interested to do body movements in this current era. This essay tends to discuss causative factors of this ideology followed by  viable solutions.",
+        "To commence with, there are numerous reasons which prove that why people do not do enough exercise. First and foremost, due to hectic lifestyle person do not get enough time for themselves. To elucidate, a human being needs to work more for their survival so one needs to become workaholics. Hence, they do not have time to devote to workout by which they have to face a host of health ailments. Moreover, the impact of electronics gadgets becomes a major factor to lead this issue rapidly. To explicate, nowadays people become ubiquitous towards electronic gadgets, they spend their leisure time in smartphones rather than to do some physical activity. To exemplify, according to a survey conducted by the United Nations Census Bureau in 2018, 80% of the public are busy with their mobiles due to which they do not think about their body. Consequently, they do not join any gym or ground to do some workout.",
+        "On the other hand, there are various remedies that can be used to tackle this issue. Firstly, by providing awareness programmes to citizens this unpleasant situation can be solved. To explain, with the intervention of government seminars can be started by which people will get to know about the importance of exercise. In addition to this, if councils organise some events in the town along with a prize distribution system, youth will move towards it. To elaborate, when any marathon or any other physical related event held with a reward ceremony then it will definitely pique the interest of localises. As a result, more  public will take part in physical events. For instance, as per recent research conducted by the Hindu newspaper, in the beginning the Indian government started the program of a marathon then only 50 participants were interested in the event. Later on rewards were started giving to participants by which the list of participants extended to 2500. Thereby, it can be seen that by starting such social events a myriad of youngsters and elders will do physical exercise.",
+        "To conclude, a busy lifestyle and hefty use of technical devices lead to this problem which can be mitigated by taking the proper countermeasures such as involving awareness programmes and starting events in each town of the nation."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "beginning",
+                "start_idx": 1939,
+                "end_idx": 1948,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase in the beginning. Consider adding a comma.",
+                "suggetions": [
+                    ",beginning"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 2067,
+                "end_idx": 2069,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Later on. Consider adding a comma.",
+                "suggetions": [
+                    ",on"
+                ]
+            }
+        ]
+    },
+    "submitter": "mr.gouravmahajan",
+    "num_words": 422,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "on the other hand",
+            "then",
+            "for instance",
+            "hence",
+            "as a result",
+            "consequently",
+            "firstly",
+            "moreover",
+            "in addition",
+            "this",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "events",
+                "occurrences": [
+                    {
+                        "start_idx": 1559,
+                        "end_idx": 1565
+                    },
+                    {
+                        "start_idx": 1852,
+                        "end_idx": 1858
+                    },
+                    {
+                        "start_idx": 2218,
+                        "end_idx": 2224
+                    },
+                    {
+                        "start_idx": 2484,
+                        "end_idx": 2490
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-05-07T09:15:47.310Z"
+}

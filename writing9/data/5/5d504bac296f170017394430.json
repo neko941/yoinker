@@ -1,0 +1,193 @@
+{
+    "url": "https://writing9.com/text/5d504bac296f170017394430",
+    "file": "data\\5\\5d504bac296f170017394430.json",
+    "topics": [
+        "drivers",
+        "fee",
+        "city",
+        "street",
+        "traffic"
+    ],
+    "question": "Drivers should pay a fee in city street when there is a heavy traffic. To what extent do you agree or disagree.",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "With easier access to sedans, increasing number of private vehicles appear on main streets, creating traffic jams during rush hours. In some regions, authorities have implemented regulations of charging fees on these roads. In my perspective, this may not bring positive effects.",
+        "To begin with, road pricing could be advantageous in a degree. These fees could be collected by local governments so as to contribute to other purposes. For instance, the revenues could be used to upgrade the existing public transport systems such as construction of new metros and design of new bus lines, making it convenient enough for commuters to give up their private vehicles and choose these methods to go to work.",
+        "Profitable though the pricing system might be, it may impact the economy negatively. As extra expenses have to be allocated to transportation, drivers who are less wealthy may be under higher financial burden, less money being able to be distributed to daily necessities such as garments and foods, as well as leisure. Consequently, diminished purchasing capability would reduce the sales and production of numerous companies, which could hurt multiple industries, which could even result in an economic crisis.",
+        "Additionally, road pricing may not ease the existing traffic congestion in cities centers. With rapid urban sprawl in this era, major businesses are all located in downtowns, while residential areas are farther expanded to suburbs, which means that people flock into central districts in the morning and flee in the evening. In many cases, the public transport systems in these suburbs are not advanced, forcing them to drive their sedans to work. Additional charging on main streets may not alter their commuting habits. As a result, decrease of the number of vehicles on street would not be significant, which would have been one of the initial goal of carrying forward these policies. Instead, more attention should be paid to facilitate the public transport system.",
+        "To conclude, as paying extra money on roads might influence the economy rather than ease the heavy traffic during peak hours, I personally hold the view that no more fees should be charged on roads."
+    ],
+    "errors": {
+        "num_error": "12",
+        "error_list": [
+            {
+                "word": "increasing number",
+                "start_idx": 30,
+                "end_idx": 47,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an increasing number"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 208,
+                "end_idx": 210,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "higher financial burden",
+                "start_idx": 889,
+                "end_idx": 912,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a higher financial burden"
+                ]
+            },
+            {
+                "word": "foods",
+                "start_idx": 996,
+                "end_idx": 1001,
+                "error": "benefit",
+                "error_des": "",
+                "suggetions": [
+                    "goods"
+                ]
+            },
+            {
+                "word": "cities",
+                "start_idx": 1292,
+                "end_idx": 1298,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "city"
+                ]
+            },
+            {
+                "word": "centers",
+                "start_idx": 1299,
+                "end_idx": 1306,
+                "error": "an area that is approximately central within some larger region",
+                "error_des": "",
+                "suggetions": [
+                    "centres"
+                ]
+            },
+            {
+                "word": "downtowns",
+                "start_idx": 1381,
+                "end_idx": 1390,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "downtown"
+                ]
+            },
+            {
+                "word": "farther",
+                "start_idx": 1420,
+                "end_idx": 1427,
+                "error": "to or at a greater extent or degree or a more advanced stage ('further' is used more often than 'farther' in this abstract sense)",
+                "error_des": "",
+                "suggetions": [
+                    "further"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1437,
+                "end_idx": 1439,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "into"
+                ]
+            },
+            {
+                "word": "central districts",
+                "start_idx": 1484,
+                "end_idx": 1501,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the central districts"
+                ]
+            },
+            {
+                "word": "street",
+                "start_idx": 1790,
+                "end_idx": 1796,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the street"
+                ]
+            },
+            {
+                "word": "goal",
+                "start_idx": 1864,
+                "end_idx": 1868,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "goals"
+                ]
+            }
+        ]
+    },
+    "submitter": "rainbow97512",
+    "num_words": 351,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "for instance",
+            "as a result",
+            "additionally",
+            "consequently",
+            "instead",
+            "this",
+            "to begin",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2019-08-11T17:09:00.848Z"
+}

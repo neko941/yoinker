@@ -1,0 +1,130 @@
+{
+    "url": "https://writing9.com/text/5dcd0397ed6fd80018157bec",
+    "file": "data\\7\\5dcd0397ed6fd80018157bec.json",
+    "topics": [
+        "people",
+        "language",
+        "translation",
+        "apps",
+        "outweigh"
+    ],
+    "question": "People are using a lot of online language translation apps.\u00a0Do the benefits of this outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Translating service provided on the internet is generally well received by any community yet there can be several drawbacks such as inaccuracy and violating privacy. I strongly feel the advantages far outnumber the downsides and general public embrace the convenience from translation apps. This essay will discuss both of these views with the examples from Google and the United State to demonstrate and describe the argument.",
+        "Since the inception of online translation service, such as google translate, Youdao and iTranslate, there is irrefutable evidence that it drastically narrows the language barriers between any nations. This central reason is that with internet engineering advancement on a personal device, one can receive prompt translations from English to Chinese, or French in minutes even seconds at any time. Furthermore, considering the costs, it is a privilege to hire a personal dialect mediator, while services provided online is free of charge. A recent date released by Google indicates over hundreds of millions people are accessing their translation service on a daily basic all around the world. Thus, the benefits of language translation apps enable it to grow popularity.",
+        "On the other hand, something the auto-translation is not as accurate as a real person, for instance, using YouTube auto-generated translation from Korean to English ended up confusing the audience reading the English subtitles as often time the sentences are vague and grammatically wrong. Moreover, privacy issues are raised along with the apps. According to United State government, anyone can publish their apps on google play, or iOS store, over 30% of these apps is illegally collecting user\u2019s personal information at the backstage program. Consequently, it depends on the users to carefully select thrust-worth services.",
+        "To conclude, the affordability and time efficiency are the major advantages that translation apps stand out. As customers can reduce the inaccuracy and unauthorized information collection problems by using the recognizable apps from a reliable company, I firmly believe the advantages outweigh the disadvantages."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "iTranslate",
+                "start_idx": 517,
+                "end_idx": 527,
+                "error": "restate (words) from one language into another language",
+                "error_des": "",
+                "suggetions": [
+                    "translate"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 1721,
+                "end_idx": 1723,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "vickraig",
+    "num_words": 323,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "for instance",
+            "consequently",
+            "furthermore",
+            "moreover",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "translation",
+                "occurrences": [
+                    {
+                        "start_idx": 273,
+                        "end_idx": 284
+                    },
+                    {
+                        "start_idx": 458,
+                        "end_idx": 469
+                    },
+                    {
+                        "start_idx": 740,
+                        "end_idx": 751
+                    },
+                    {
+                        "start_idx": 1062,
+                        "end_idx": 1073
+                    },
+                    {
+                        "start_idx": 1152,
+                        "end_idx": 1163
+                    },
+                    {
+                        "start_idx": 1237,
+                        "end_idx": 1248
+                    },
+                    {
+                        "start_idx": 1329,
+                        "end_idx": 1340
+                    },
+                    {
+                        "start_idx": 1907,
+                        "end_idx": 1918
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-14T07:34:47.327Z"
+}

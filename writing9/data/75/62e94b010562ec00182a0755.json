@@ -1,0 +1,135 @@
+{
+    "url": "https://writing9.com/text/62e94b010562ec00182a0755-people-in-the-current-generation-are-not-fit-and-active",
+    "file": "data\\75\\62e94b010562ec00182a0755.json",
+    "topics": [
+        "people",
+        "generation",
+        "future"
+    ],
+    "question": "people in the current generation are not fit and active, which will cause dangerous problems in future. write about what could be the reasons and suggest solutions for issue.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is irrefutable that the modern world brings about a variety of problems. Specifically, the youngest people struggle with a sedentary lifestyle and gaining weight which will be detrimental to the future. The reasons behind these issues and possible solutions will be elucidated in this essay.",
+        "Firstly, excessive internet uses and eating habits are predominant factors of the sedentary lifestyle. In particular, as the younger generation becomes over-reliant on technological devices, their physical activity rates have been reduced gradually. As a second reason, fast food restaurants which are accessible and affordable spring up over the countries. This makes them an ideal way to eat for people who are a student or working busily. Take-away services would be a good example of this, individuals can purchase their foods easily rather than cooking at home.",
+        "In terms of solutions, adding sports lessons to the curriculum and promoting sports activities would be effective ways to tackle this issue. Young people have a tendency to follow their peers hence adding such lessons to the curriculum would be a direct solution. By doing this sports will be integrated into school environments and students' routines as well. Besides, authorities should promote sports competitions over the country that is likely to motivate pupils for being active. For instance, Turkey is famous for competitions between high schools and this results decrease in obesity rates as well as increase in active lifestyles.",
+        "In conclusion, the younger generation is less active and fit compared to those who lived in the past and this probably will lead to more damaging problems in the future. Widespread internet usage and eating habits of people are two main reasons for a sedentary lifestyle. Fortunately, it can be resolved by implementing some precautions that are mentioned in this essay."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "increase",
+                "start_idx": 1472,
+                "end_idx": 1480,
+                "error": "Add an article",
+                "error_des": "The noun phrase increase seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an increase",
+                    "the increase"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 1703,
+                "end_idx": 1704,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "ozdennevin",
+    "num_words": 294,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "in particular",
+            "second",
+            "for instance",
+            "hence",
+            "besides",
+            "that is",
+            "this",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "sports",
+                "occurrences": [
+                    {
+                        "start_idx": 892,
+                        "end_idx": 898
+                    },
+                    {
+                        "start_idx": 939,
+                        "end_idx": 945
+                    },
+                    {
+                        "start_idx": 1140,
+                        "end_idx": 1146
+                    },
+                    {
+                        "start_idx": 1259,
+                        "end_idx": 1265
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 103,
+                        "end_idx": 109
+                    },
+                    {
+                        "start_idx": 693,
+                        "end_idx": 699
+                    },
+                    {
+                        "start_idx": 1009,
+                        "end_idx": 1015
+                    },
+                    {
+                        "start_idx": 1719,
+                        "end_idx": 1725
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-02T16:09:04.269Z"
+}

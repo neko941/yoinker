@@ -1,0 +1,112 @@
+{
+    "url": "https://writing9.com/text/5ef8c0d0ddee680018974960-you-are-applying-for-a-job-and-you-need-a",
+    "file": "data\\8\\5ef8c0d0ddee680018974960.json",
+    "topics": [
+        "job",
+        "reference",
+        "boss"
+    ],
+    "question": "You are applying for a job and you need a letter of reference. Write a letter to a former boss.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 9.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 9.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 9.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Professor,",
+        "I am a part-time student at the University of California, San Diego taking your evening course in Parallel Programming. I am writing to let you know that I will not be able to continue attending the classes because of recent changes in my full-time employment situation.",
+        "I currently hold a full-time position as a Software Engineer at Microsoft. I have been recently promoted to a more senior position at work with increased responsibilities and workload. As a result, I have been having a hard time balancing time between the full-time job and my classwork. Moreover, my personal life is also getting affected as I have little to no time that I can spend with my family.",
+        "Give my current lack of time and heavy workload, I have decided to drop out of the course and focus on my career and family for the time being. I had a great practical experience attending your class and I look forward to attending the class again in the future and complete it whenever I find a suitable time for it.",
+        "I want to thank you for all the support and guidance that you have provided me so far through the course which has been of great help both academically and professionally.",
+        "Sincerely,",
+        "Pavan"
+    ],
+    "errors": {
+        "num_error": "0",
+        "error_list": []
+    },
+    "submitter": "pavan s",
+    "num_words": 212,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "moreover",
+            "also",
+            "as a result"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 28,
+                        "end_idx": 32
+                    },
+                    {
+                        "start_idx": 260,
+                        "end_idx": 264
+                    },
+                    {
+                        "start_idx": 311,
+                        "end_idx": 315
+                    },
+                    {
+                        "start_idx": 511,
+                        "end_idx": 515
+                    },
+                    {
+                        "start_idx": 526,
+                        "end_idx": 530
+                    },
+                    {
+                        "start_idx": 548,
+                        "end_idx": 552
+                    },
+                    {
+                        "start_idx": 650,
+                        "end_idx": 654
+                    },
+                    {
+                        "start_idx": 712,
+                        "end_idx": 716
+                    },
+                    {
+                        "start_idx": 820,
+                        "end_idx": 824
+                    },
+                    {
+                        "start_idx": 993,
+                        "end_idx": 997
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-14T11:18:35.541Z"
+}

@@ -1,0 +1,148 @@
+{
+    "url": "https://writing9.com/text/61a61d4ab707630019874b8f-research-indicates-that-the-characteristics-we-are-born-have-much",
+    "file": "data\\7\\61a61d4ab707630019874b8f.json",
+    "topics": [
+        "research",
+        "characteristics",
+        "influence",
+        "personality",
+        "development",
+        "life"
+    ],
+    "question": "Research indicates that the characteristics we are born have much more influence on our personality and development than any experience we may have in our life.\n\nWhich do you consider to be the major influence?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A study revealed that humans are influenced by their genetic make-up rather than life experiences.In my opinion,though genes do control basic behaviour patterns like  excessive anger or impulsive decision-makers in some,still it is life experiences that play a crucial in shaping a personality as and when they face difficulties.",
+        "To begin with,genes play a major role in building up a basic personality in every human.DNA make up of every person is transferred from parents to children,which signifies that they are biologically related.Physical features including emotional factors are also sometimes inherited from parents.For example,research showed that emotions like violent behaviour is sometimes passed from fathers to sons.Additionally,many impulsive decision-makers were also noticed in members of the same family.These reasons show that the basic character of a person is decided at birth.",
+        "On the other hand,situations change everyone in this world.Humans become more varied and try to develop patience.They also learn to keep emotions under control so that important members of their lives do not get affected negatively.In fact,it was also noticed that as a person ages and becomes more mature,emotions also get settled.External influences like peers also bring a round about-turn in his personality.Many people after certain age start behaving differently from their family members leading to a generation gap.This is why external factors play a major role in shaping an individual.",
+        "To conclude,basic behaviour pattern is noticed in all due to genetic make-up.Although it is the major factor for a person's different nature;however,in my opinion,life-changing experiences later in life alter the behaviour pattern."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 1274,
+                "end_idx": 1276,
+                "error": "Correct your spelling",
+                "error_des": "The word a round seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "around"
+                ]
+            },
+            {
+                "word": "round about-turn",
+                "start_idx": 1276,
+                "end_idx": 1292,
+                "error": "Correct your spelling",
+                "error_des": "The word round about-turn seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "roundabout-turn"
+                ]
+            }
+        ]
+    },
+    "submitter": "rehanafees",
+    "num_words": 253,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "on the other hand",
+            "for example",
+            "although",
+            "to begin",
+            "however",
+            "this",
+            "additionally",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "behaviour",
+                "occurrences": [
+                    {
+                        "start_idx": 142,
+                        "end_idx": 151
+                    },
+                    {
+                        "start_idx": 680,
+                        "end_idx": 689
+                    },
+                    {
+                        "start_idx": 1514,
+                        "end_idx": 1523
+                    },
+                    {
+                        "start_idx": 1709,
+                        "end_idx": 1718
+                    }
+                ]
+            },
+            {
+                "word": "person",
+                "occurrences": [
+                    {
+                        "start_idx": 282,
+                        "end_idx": 288
+                    },
+                    {
+                        "start_idx": 391,
+                        "end_idx": 397
+                    },
+                    {
+                        "start_idx": 439,
+                        "end_idx": 445
+                    },
+                    {
+                        "start_idx": 872,
+                        "end_idx": 878
+                    },
+                    {
+                        "start_idx": 1170,
+                        "end_idx": 1176
+                    },
+                    {
+                        "start_idx": 1300,
+                        "end_idx": 1306
+                    },
+                    {
+                        "start_idx": 1611,
+                        "end_idx": 1617
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-11-30T12:48:28.858Z"
+}

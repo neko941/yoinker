@@ -1,0 +1,153 @@
+{
+    "url": "https://writing9.com/text/5f4838ccfdafcb00186e0c83",
+    "file": "data\\7\\5f4838ccfdafcb00186e0c83.json",
+    "topics": [
+        "tourists",
+        "places",
+        "conditions",
+        "sahara",
+        "desert",
+        "antarctic",
+        "visit"
+    ],
+    "question": "Today more and more tourists are visiting places where conditions are difficult, such as the Sahara desert or the Antarctic.What are the benefits and disadvantages for tourists who visit such places?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, places which do not have much infrastructure such as Sahara desert or Antartic are becoming famous for tourist. Some people believe there are benefits while others do not agree with it. This essay will discuss both points of view.",
+        "One of the most important advantages is the incentive of tourism economy. It is the knowledge of everyone that the stimulation of tourism in certain regions is the foundation for the economy and development of this place. One evident example is South African which is famous for luxury resorts in regions that years ago was not famous as tourism route and now makes the country\u2019s economy increase being the most important income for South African. Another key factor is the exploration of places that humans have never touched before. Some tourist looking for places far from the cosmopolitan cities, when they travel to places with less conditions they're looking for a connection with the earth and running from the pollution and noises of the cities.",
+        "Unfortunately, there are two disadvantages of this type of tourism. First all, it is the depreciation of natural landscape. It is a fact that where the human touch he will let his feet, more specifically is their waste. As an example is the Pacific Islands that are famous for wonderful beaches, although because of the tourism it is possible see a huge amount of rubbish on the sands. The lack of infrascture is another point, visit region that are in development has the risk of less structure and high chances of something emergencial happens and them there are not especifical tool to resolve,  suchs as,  if the tourist fells and brokes his leg probably he will need of assistance which dos not have in this places, he may be will need be transfer by helicopter to the closer city with more instructure.",
+        "In conclusion, tourism in regions that are not popular, and with less structure for tourist has some of advantages such as increase economy and the exploration of places that humans have never touched. Although it has also drawbacks like depreciation of the natural and the scarcity of structure."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "tourism ",
+                "start_idx": 298,
+                "end_idx": 306,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the tourism economy"
+                ]
+            }
+        ]
+    },
+    "submitter": "dandara.garcia",
+    "num_words": 355,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "although",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "tourist",
+                "occurrences": [
+                    {
+                        "start_idx": 113,
+                        "end_idx": 120
+                    },
+                    {
+                        "start_idx": 781,
+                        "end_idx": 788
+                    },
+                    {
+                        "start_idx": 1612,
+                        "end_idx": 1619
+                    },
+                    {
+                        "start_idx": 1888,
+                        "end_idx": 1895
+                    }
+                ]
+            },
+            {
+                "word": "tourism",
+                "occurrences": [
+                    {
+                        "start_idx": 298,
+                        "end_idx": 305
+                    },
+                    {
+                        "start_idx": 371,
+                        "end_idx": 378
+                    },
+                    {
+                        "start_idx": 579,
+                        "end_idx": 586
+                    },
+                    {
+                        "start_idx": 1054,
+                        "end_idx": 1061
+                    },
+                    {
+                        "start_idx": 1315,
+                        "end_idx": 1322
+                    },
+                    {
+                        "start_idx": 1819,
+                        "end_idx": 1826
+                    }
+                ]
+            },
+            {
+                "word": "economy",
+                "occurrences": [
+                    {
+                        "start_idx": 306,
+                        "end_idx": 313
+                    },
+                    {
+                        "start_idx": 424,
+                        "end_idx": 431
+                    },
+                    {
+                        "start_idx": 621,
+                        "end_idx": 628
+                    },
+                    {
+                        "start_idx": 1936,
+                        "end_idx": 1943
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-08-27T23:15:26.976Z"
+}

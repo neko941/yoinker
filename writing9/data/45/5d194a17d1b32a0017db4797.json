@@ -1,0 +1,148 @@
+{
+    "url": "https://writing9.com/text/5d194a17d1b32a0017db4797-you-and-your-family-are-living-in-rented-accommodation-in",
+    "file": "data\\45\\5d194a17d1b32a0017db4797.json",
+    "topics": [
+        "accommodation",
+        "english",
+        "country",
+        "condition",
+        "furniture",
+        "friend",
+        "action",
+        "landlord"
+    ],
+    "question": "You and your family are living in rented accommodation in an English speaking country. You are not satisfied with the condition of some of the furniture.\n\nWrite a letter to your friend. In your letter\n\nintroduce yourself\nexplain what is wrong with the furniture\nsay what action you would like the landlord to take",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 5.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 4.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear James,",
+        "I am a resident of apartment A303 at your community. I recently moved in to the city so it's really wonderfull of you to assign me a fully furnished house. I am, however, facing issues with few furniture items which I would like to bring to your attention.",
+        "First of all, the bedroom houses only one Bunk Bed. Being a single guy, it's already wastefull to assing me that. To add to it, the bed is extremely noisy. Whenever I turn while sleeping it makes a rather horrific sound. I have already woken up scared at multiple occassions now. Another item that has been troubling me a lot is the dining table. It seems the height of the table's legs is not properly aligned due to which it keeps wobbling. For now, I am holding the table with one hand while eating with other to keep it stable.",
+        "Can I please request you to send your in-house handyman to help fix these issues. Feel free to enter the apartment with your keys since I am out for work pretty much the whole day."
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "at",
+                "start_idx": 56,
+                "end_idx": 58,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "in to",
+                "start_idx": 92,
+                "end_idx": 97,
+                "error": "Join the words",
+                "error_des": "It appears that the two words in and to should be one word.",
+                "suggetions": [
+                    "into"
+                ]
+            },
+            {
+                "word": "wonderfull",
+                "start_idx": 122,
+                "end_idx": 132,
+                "error": "Correct your spelling",
+                "error_des": "The word wonderfull is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "wonderful"
+                ]
+            },
+            {
+                "word": "wastefull",
+                "start_idx": 375,
+                "end_idx": 384,
+                "error": "Correct your spelling",
+                "error_des": "The word wastefull is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "wasteful"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 542,
+                "end_idx": 544,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "occassions",
+                "start_idx": 554,
+                "end_idx": 564,
+                "error": "Correct your spelling",
+                "error_des": "The word occassions is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "occasions"
+                ]
+            },
+            {
+                "word": "other",
+                "start_idx": 797,
+                "end_idx": 802,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the other"
+                ]
+            },
+            {
+                "word": ".",
+                "start_idx": 914,
+                "end_idx": 915,
+                "error": "Change the punctuation",
+                "error_des": "Consider using a question mark to signify that this sentence is a question.",
+                "suggetions": [
+                    "?"
+                ]
+            }
+        ]
+    },
+    "submitter": "nehanarlawar3",
+    "num_words": 185,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "however",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T16:03:03.884Z"
+}

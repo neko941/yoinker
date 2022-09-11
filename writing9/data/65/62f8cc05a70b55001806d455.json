@@ -1,0 +1,111 @@
+{
+    "url": "https://writing9.com/text/62f8cc05a70b55001806d455-write-about-the-following-topic-nowadays-we-are-producing-more-and",
+    "file": "data\\65\\62f8cc05a70b55001806d455.json",
+    "topics": [
+        "topic",
+        "rubbish",
+        "governments",
+        "amount"
+    ],
+    "question": "Write about the following topic:Nowadays we are producing more and more rubbish.Why do you think this is happening?What can governments do to help reduce the amount of rubbish produced?Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In this modern life, people are using multiple products and goods which leads to creating a big amount of garbage that will affect the environment. The government will need to have a sort of plan to minimize the amount of rubbish and find an alternative solution to products used. In this essay, I will discuss the reasons behind increasing garbages and what are the actions that should be taken by governments.",
+        "For example, If we look at grocery products that individuals are buying, we can find that many of them are produced from non-recycled material or can not be reusable for multiple times, such as plastic bottles of water. In addition to this people buy the same product in small size which will in the garbage every time they finish using it, whereas they can buy the same item on large scales, such as, washing powder.",
+        "On the other hand, solving this issue is falling as well on the shoulder of the authority where they can make a broadcast explaining the side effects of garbage on the environment and how much it will cost the country to dismiss it. On the other hand, the authority needs to emphasise the education system to include sessions about the benefits of using recycled material in the community. Moreover, the government should support factories to find new innovative machines which can produce less amount of industrial garbages.",
+        "In conclusion, I believe that it is the responsibility of people and government at the same time to find a variety of solutions to reduce the amount of rubbish so a new generation can able to live in a clean environment."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "for ",
+                "start_idx": 578,
+                "end_idx": 582,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 812,
+                "end_idx": 813,
+                "error": "Remove the comma",
+                "error_des": "It appears that the comma after such as is unnecessary. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "ramimus12",
+    "num_words": 274,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "on the other hand",
+            "for example",
+            "moreover",
+            "in addition",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "amount",
+                "occurrences": [
+                    {
+                        "start_idx": 96,
+                        "end_idx": 102
+                    },
+                    {
+                        "start_idx": 212,
+                        "end_idx": 218
+                    },
+                    {
+                        "start_idx": 1325,
+                        "end_idx": 1331
+                    },
+                    {
+                        "start_idx": 1498,
+                        "end_idx": 1504
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-14T11:06:52.985Z"
+}

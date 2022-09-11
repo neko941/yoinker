@@ -1,0 +1,149 @@
+{
+    "url": "https://writing9.com/text/5d1a5550d1b32a0017db48c6",
+    "file": "data\\6\\5d1a5550d1b32a0017db48c6.json",
+    "topics": [
+        "countries",
+        "students",
+        "study",
+        "science",
+        "effects",
+        "society"
+    ],
+    "question": "It is observed that in many countries not enough students are choosing to study science subject. What are causes? And what will be effects on society?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is noticeable that students in some parts of the world decide not to pursue degrees in a cluster of science programs. The trend is attributed to a range of reasons, and there are repercussions of this trend in society.",
+        "There are a variety of obstacles that discourage students from majoring in science. The main obstacle is a high difficulty of the science courses. By enrolling in the science programs, students are expected to demonstrate great levels of critical and analytical thinking to fully comprehend abstract concepts and theories, causing a lot of students to find it hard to follow and struggle to pass exams and tests. Another obstacle, from a technological perspective, is that old-fashioned technology equipment in laboratory is unlikely to accommodate the scope of modern science courses. This disadvantage eventually causes a big hurdle for course instructors to implant knowledge and for students to have favorable learning experiences.",
+        "As a result, a decreasing number of science students have many adverse impacts on society. Due to the shortage of science students attending post-secondary institutions, the number of technology innovations released on an annual basis may witness a drop as well. This unfortunate event will inadvertently leave the problems that have yet to be solved to remain unsolved, thus affecting the lives of people. For example, without the sustainable supply of technology solutions to automate the task of harvesting crops, agricultural productivity is at risk of being on the decline. Likewise, in the business environment where tasks need to be quickly conducted, the deficiency of highly productive software applications and laptops will cause the workflow to experience unexpected delays.",
+        "In conclusion, the fact that students pursuing other programs apart from science could be owing to numerous reasons, and this trend could potentially hurt business and the economy."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "great",
+                "start_idx": 445,
+                "end_idx": 450,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "greater"
+                ]
+            },
+            {
+                "word": "old-fashioned technology equipment",
+                "start_idx": 696,
+                "end_idx": 730,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the old-fashioned technology equipment"
+                ]
+            },
+            {
+                "word": "laboratory",
+                "start_idx": 734,
+                "end_idx": 744,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the laboratory",
+                    "a laboratory"
+                ]
+            },
+            {
+                "word": "favorable",
+                "start_idx": 927,
+                "end_idx": 936,
+                "error": "encouraging or approving or pleasing",
+                "error_des": "",
+                "suggetions": [
+                    "favourable"
+                ]
+            }
+        ]
+    },
+    "submitter": "crystalrhodes1997",
+    "num_words": 298,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "thus",
+            "as a result",
+            "for example",
+            "likewise",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "science",
+                "occurrences": [
+                    {
+                        "start_idx": 103,
+                        "end_idx": 110
+                    },
+                    {
+                        "start_idx": 297,
+                        "end_idx": 304
+                    },
+                    {
+                        "start_idx": 352,
+                        "end_idx": 359
+                    },
+                    {
+                        "start_idx": 389,
+                        "end_idx": 396
+                    },
+                    {
+                        "start_idx": 791,
+                        "end_idx": 798
+                    },
+                    {
+                        "start_idx": 994,
+                        "end_idx": 1001
+                    },
+                    {
+                        "start_idx": 1072,
+                        "end_idx": 1079
+                    },
+                    {
+                        "start_idx": 1817,
+                        "end_idx": 1824
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-01T18:47:44.000Z"
+}

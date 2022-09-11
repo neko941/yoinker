@@ -1,0 +1,471 @@
+{
+    "url": "https://writing9.com/text/5d8b5111508081001700047c",
+    "file": "data\\45\\5d8b5111508081001700047c.json",
+    "topics": [
+        "somepeoplethinkthatmuseumsandartgalleriesshouldconcentrateontheworksoftheirowncountriesinsteadoftheworksofartfrom",
+        "otherpartsoftheworld",
+        "towhatextentdoyouagreeordisagree"
+    ],
+    "question": "Somepeoplethinkthatmuseumsandartgalleriesshouldconcentrateontheworksoftheirowncountriesinsteadoftheworksofartfrom otherpartsoftheworld.Towhatextentdoyouagreeordisagree",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is certain that, health related problem is increasing day by day in the world. In some nation's the average weight person is increasing and their levels of health and fitness are denied I will discuss about causes of problem and how to solve issue in forthcoming paragraphs.",
+        "To begin with, there are many causes of this problem first and foremost,nowadays,",
+        "most people are totally change their life style is the main reason they can prefer eating fast food which is easily available in market but it is tasty food and it is not hygienic food there are many diseases issue create such as blood pressure, heart beat are soon. Nextly, they avoid a home made food and most people is more seating at work in office. Furthermore, yougsters weight is increasing there is no excuse in our body and can feel that unhealthy. For instance, a person is from used for vehicles and not used to own foot.",
+        "On the other side, there are ample ways to solve the problem every person should duty to avoid from restaurants food. And more time prefer eating to home made food. It's a hygienic food however, person is eating this food healthily life style in our country. Furthermore, the person is more and more excise joined in their life. After, eating a special diet such as meat, fish are adding on our diet. moreover,the government arrange health related awareness camp start in our cities because of, person is say and health more knowledge about them.",
+        "Before wrapping it up,itwould be noexaggeration to state that various factors led this ugly growth but it is a not hard but to crack however, the joint efforts of parents and school is mandatory to uproot get ride from society."
+    ],
+    "errors": {
+        "num_error": "28",
+        "error_list": [
+            {
+                "word": "causes",
+                "start_idx": 210,
+                "end_idx": 216,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the causes"
+                ]
+            },
+            {
+                "word": "problem",
+                "start_idx": 220,
+                "end_idx": 227,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "problems",
+                    "the problem"
+                ]
+            },
+            {
+                "word": "issue",
+                "start_idx": 245,
+                "end_idx": 250,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "issues"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 349,
+                "end_idx": 350,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "most",
+                "start_idx": 360,
+                "end_idx": 364,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Most"
+                ]
+            },
+            {
+                "word": "are totally change",
+                "start_idx": 372,
+                "end_idx": 390,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are totally changing",
+                    "totally change",
+                    "are totally changed",
+                    "have totally changed"
+                ]
+            },
+            {
+                "word": "life style",
+                "start_idx": 397,
+                "end_idx": 407,
+                "error": "a manner of living that reflects the person's values and attitudes",
+                "error_des": "",
+                "suggetions": [
+                    "lifestyle"
+                ]
+            },
+            {
+                "word": "market but",
+                "start_idx": 489,
+                "end_idx": 499,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the market, but",
+                    "the market but"
+                ]
+            },
+            {
+                "word": "Nextly",
+                "start_idx": 627,
+                "end_idx": 633,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "yougsters",
+                "start_idx": 727,
+                "end_idx": 736,
+                "error": "a young person of either sex",
+                "error_des": "",
+                "suggetions": [
+                    "youngsters"
+                ]
+            },
+            {
+                "word": "restaurants",
+                "start_idx": 994,
+                "end_idx": 1005,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "restaurant"
+                ]
+            },
+            {
+                "word": "prefer",
+                "start_idx": 1026,
+                "end_idx": 1032,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "prefers"
+                ]
+            },
+            {
+                "word": "home made",
+                "start_idx": 1043,
+                "end_idx": 1052,
+                "error": "made or produced in the home or by yourself",
+                "error_des": "",
+                "suggetions": [
+                    "homemade"
+                ]
+            },
+            {
+                "word": "food ",
+                "start_idx": 1075,
+                "end_idx": 1080,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "food, however"
+                ]
+            },
+            {
+                "word": "person",
+                "start_idx": 1089,
+                "end_idx": 1095,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the person",
+                    "a person"
+                ]
+            },
+            {
+                "word": "healthily",
+                "start_idx": 1116,
+                "end_idx": 1125,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "healthy"
+                ]
+            },
+            {
+                "word": "diet ",
+                "start_idx": 1247,
+                "end_idx": 1252,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "diet, such"
+                ]
+            },
+            {
+                "word": "adding",
+                "start_idx": 1275,
+                "end_idx": 1281,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "added"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 1282,
+                "end_idx": 1284,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "moreover",
+                "start_idx": 1295,
+                "end_idx": 1303,
+                "error": "in addition",
+                "error_des": "",
+                "suggetions": [
+                    "Moreover"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1303,
+                "end_idx": 1304,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "arrange",
+                "start_idx": 1319,
+                "end_idx": 1326,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "arranges"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1462,
+                "end_idx": 1463,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "itwould",
+                "start_idx": 1463,
+                "end_idx": 1470,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "it would"
+                ]
+            },
+            {
+                "word": "noexaggeration",
+                "start_idx": 1474,
+                "end_idx": 1488,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "no exaggeration"
+                ]
+            },
+            {
+                "word": "growth but",
+                "start_idx": 1533,
+                "end_idx": 1543,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "growth, but"
+                ]
+            },
+            {
+                "word": "hard but",
+                "start_idx": 1556,
+                "end_idx": 1564,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "hard, but"
+                ]
+            },
+            {
+                "word": "crack ",
+                "start_idx": 1568,
+                "end_idx": 1574,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "crack, however"
+                ]
+            }
+        ]
+    },
+    "submitter": "chinkiarora0528",
+    "num_words": 293,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "for instance",
+            "furthermore",
+            "however",
+            "this",
+            "to begin",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 455,
+                        "end_idx": 459
+                    },
+                    {
+                        "start_idx": 512,
+                        "end_idx": 516
+                    },
+                    {
+                        "start_idx": 540,
+                        "end_idx": 544
+                    },
+                    {
+                        "start_idx": 658,
+                        "end_idx": 662
+                    },
+                    {
+                        "start_idx": 1005,
+                        "end_idx": 1009
+                    },
+                    {
+                        "start_idx": 1052,
+                        "end_idx": 1056
+                    },
+                    {
+                        "start_idx": 1074,
+                        "end_idx": 1078
+                    },
+                    {
+                        "start_idx": 1110,
+                        "end_idx": 1114
+                    }
+                ]
+            },
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 20,
+                        "end_idx": 26
+                    },
+                    {
+                        "start_idx": 159,
+                        "end_idx": 165
+                    },
+                    {
+                        "start_idx": 809,
+                        "end_idx": 815
+                    },
+                    {
+                        "start_idx": 1115,
+                        "end_idx": 1121
+                    },
+                    {
+                        "start_idx": 1326,
+                        "end_idx": 1332
+                    },
+                    {
+                        "start_idx": 1406,
+                        "end_idx": 1412
+                    }
+                ]
+            },
+            {
+                "word": "problem",
+                "occurrences": [
+                    {
+                        "start_idx": 35,
+                        "end_idx": 42
+                    },
+                    {
+                        "start_idx": 220,
+                        "end_idx": 227
+                    },
+                    {
+                        "start_idx": 323,
+                        "end_idx": 330
+                    },
+                    {
+                        "start_idx": 946,
+                        "end_idx": 953
+                    }
+                ]
+            },
+            {
+                "word": "person",
+                "occurrences": [
+                    {
+                        "start_idx": 118,
+                        "end_idx": 124
+                    },
+                    {
+                        "start_idx": 834,
+                        "end_idx": 840
+                    },
+                    {
+                        "start_idx": 960,
+                        "end_idx": 966
+                    },
+                    {
+                        "start_idx": 1088,
+                        "end_idx": 1094
+                    },
+                    {
+                        "start_idx": 1169,
+                        "end_idx": 1175
+                    },
+                    {
+                        "start_idx": 1388,
+                        "end_idx": 1394
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-25T11:35:45.741Z"
+}

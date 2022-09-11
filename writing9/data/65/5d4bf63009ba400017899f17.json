@@ -1,0 +1,192 @@
+{
+    "url": "https://writing9.com/text/5d4bf63009ba400017899f17",
+    "file": "data\\65\\5d4bf63009ba400017899f17.json",
+    "topics": [
+        "people",
+        "government",
+        "money",
+        "train",
+        "subway",
+        "lines",
+        "traffic",
+        "congestion",
+        "roads"
+    ],
+    "question": "Some people believe the government should spend money on building train and subway lines to reduce traffic congestion. Others think that building more and wider roads is the better way to reduce traffic congestion. \nDiscuss both views and give your opinion",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The methods of mitigating traffic congestion have been a heated topic of controversy. Some people argue that the construction of larger roads is the answer for the problem. However, I contend that such a solution is ineffective in the long term, while the option to construct railways and subways is a far better measure.",
+        "There is a common fallacy that governmental spending on building larger roads could sustainably address the problem of traffic congestion. An increase in road size could reduce the traffic intensity in the short term, but larger roads also mean that the citizens are encouraged to purchase more individual vehicles. This leads to the fact that the roads, albeit larger, would soon be filled with intense traffic again. For instance, traffic jams returned to Shanghai\u2019s main streets not long after they were expanded in the early 1990s. In brief, if this solution is implemented, traffic jams would still persist in the long run.",
+        "Rail and subway systems, however, could ensure that traffic congestion is properly addressed. Unlike cars and buses, trains are capable of transporting hundreds of people simultaneously and thus would meet the transport demand of a vast number of passengers. Moreover, trains do not have to go through intersections and traffic lights, and dedicated lines ensure their travel is hardly interrupted. In other words, trains are always on time regardless of the level of traffic. This level of punctuality would encourage many people to choose railways and subways as their primary means of transport, and the number of individuals vehicles would decrease accordingly. As a result, traffic congestion could be tackled successfully.",
+        "The existing data provides a concrete foundation to conclude that building more and larger roads in an unsustainable measure, while train and subway lines would be a much more effective solution for the problem of traffic congestion."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "sustainably",
+                "start_idx": 407,
+                "end_idx": 418,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "time regardless",
+                "start_idx": 1389,
+                "end_idx": 1404,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "time, regardless"
+                ]
+            },
+            {
+                "word": "individuals",
+                "start_idx": 1570,
+                "end_idx": 1581,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "individuals'",
+                    "individual"
+                ]
+            },
+            {
+                "word": "provides",
+                "start_idx": 1701,
+                "end_idx": 1709,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "provide"
+                ]
+            }
+        ]
+    },
+    "submitter": "nvtr151013",
+    "num_words": 304,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "thus",
+            "for instance",
+            "as a result",
+            "accordingly",
+            "moreover",
+            "in other words",
+            "however",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "traffic",
+                "occurrences": [
+                    {
+                        "start_idx": 26,
+                        "end_idx": 33
+                    },
+                    {
+                        "start_idx": 441,
+                        "end_idx": 448
+                    },
+                    {
+                        "start_idx": 503,
+                        "end_idx": 510
+                    },
+                    {
+                        "start_idx": 726,
+                        "end_idx": 733
+                    },
+                    {
+                        "start_idx": 755,
+                        "end_idx": 762
+                    },
+                    {
+                        "start_idx": 901,
+                        "end_idx": 908
+                    },
+                    {
+                        "start_idx": 1003,
+                        "end_idx": 1010
+                    },
+                    {
+                        "start_idx": 1271,
+                        "end_idx": 1278
+                    },
+                    {
+                        "start_idx": 1419,
+                        "end_idx": 1426
+                    },
+                    {
+                        "start_idx": 1630,
+                        "end_idx": 1637
+                    },
+                    {
+                        "start_idx": 1894,
+                        "end_idx": 1901
+                    }
+                ]
+            },
+            {
+                "word": "congestion",
+                "occurrences": [
+                    {
+                        "start_idx": 34,
+                        "end_idx": 44
+                    },
+                    {
+                        "start_idx": 449,
+                        "end_idx": 459
+                    },
+                    {
+                        "start_idx": 1011,
+                        "end_idx": 1021
+                    },
+                    {
+                        "start_idx": 1638,
+                        "end_idx": 1648
+                    },
+                    {
+                        "start_idx": 1902,
+                        "end_idx": 1912
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-08T10:15:12.157Z"
+}

@@ -1,0 +1,152 @@
+{
+    "url": "https://writing9.com/text/5caf185ab6ebdc0977cc850e",
+    "file": "data\\4\\5caf185ab6ebdc0977cc850e.json",
+    "topics": [
+        "people",
+        "cars",
+        "city",
+        "centers"
+    ],
+    "question": "Some people want cars to be banned from city centers. Discuss both views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Today, everyone owns atleast 1 vehicle in the family.   It is a debatable topic that cars should be prevented from entering the city, since there. This essay will point out some advantages and disadvantages of the same.",
+        "On the one hand, with the growing population, the number of cars have also increased, resulting in overcrowding. Also it is now available at a much cheaper rate, due to which even the lower middle class own a car today. For example, Tata introduced Nano, which resulted in a tremendous surge in sales. Furthermore, more cars have also increased pollution due to the deteriorating quality of air. For example Gurgaon, is considered the most polluted city in the entire world.",
+        "However, completely preventing cars would also make it extremely hard for people to commute. Another reason is that people would find it difficult to reach their workplaces. This would result it people moving out to another city where they have easier access to their jobs.",
+        "In conclusion, although the rise in the number of cars have caused traffic problems and pollution, it would be difficult for the public to commute. Given the situation, in my opinion cars should not be banned from city centres, but there should be alternative routes made to reach the destinations"
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "atleast",
+                "start_idx": 21,
+                "end_idx": 28,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "at least"
+                ]
+            },
+            {
+                "word": "have ",
+                "start_idx": 286,
+                "end_idx": 291,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "has also increased",
+                    "had also increased"
+                ]
+            },
+            {
+                "word": "Also it",
+                "start_idx": 334,
+                "end_idx": 341,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Also, it"
+                ]
+            },
+            {
+                "word": "own",
+                "start_idx": 424,
+                "end_idx": 427,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "owns"
+                ]
+            },
+            {
+                "word": "result it",
+                "start_idx": 883,
+                "end_idx": 892,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "result, it"
+                ]
+            },
+            {
+                "word": "have caused",
+                "start_idx": 1028,
+                "end_idx": 1039,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "has caused"
+                ]
+            }
+        ]
+    },
+    "submitter": "deepti.jan90",
+    "num_words": 212,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "furthermore",
+            "for example",
+            "although",
+            "however",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "city",
+                "occurrences": [
+                    {
+                        "start_idx": 128,
+                        "end_idx": 132
+                    },
+                    {
+                        "start_idx": 669,
+                        "end_idx": 673
+                    },
+                    {
+                        "start_idx": 919,
+                        "end_idx": 923
+                    },
+                    {
+                        "start_idx": 1183,
+                        "end_idx": 1187
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-11T10:35:06.000Z"
+}

@@ -1,0 +1,210 @@
+{
+    "url": "https://writing9.com/text/5cabd72958f325d8de8c9f73",
+    "file": "data\\7\\5cabd72958f325d8de8c9f73.json",
+    "topics": [
+        "topic",
+        "value"
+    ],
+    "question": "Write an essay of about 250 words to express your opinion on the following topic:\nLearning about the past has no value for those of us living in the present. Do you agree or disagree? \nGive reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There is a saying that \u2018History is who we are and why we are the way we are. History is not just the past. History is the present.\u2019. While some people claim that learning about what happened in the past has nothing do to with us who are living in the present, I believe that it is important to study history for some following reasons.",
+        "To begin with, studying lessons from the past is essential to mankind\u2019s development as we can learn from forebears\u2019 experience. The development of the world today is followed by the past\u2019s successes and failures. As lessons are drawn from historical events, man learn from ancestors\u2019 mistakes  and avoid repeating them in the future. It is particularly important for a country\u2019s citizens to learn about their history so as to develop the country without causing catastrophe. To cite Vietnam as an example, it is a Communist country despite having been for centuries a colony of France which is a prosperous Capitalism country at that time. Throughout the history, Vietnamese learn to know that Capitalism had tormented their people and only Socialist revolution could save their country. The victory of Vietnam in The August Revolution is a lesson for other enslaved nations in the world to follow and achieve success. Also, the history tells how fiercely their forefathers had been fighting for peace and independence. As a result, they understand the loss and the misery in the past and appreciate what they have today. Learning about what happened in the past makes them feel the gratefulness and the responsibility to develop the country.",
+        "Moreover, learning the history is important as it teaches us to think. There are people saying that learning about what happened in the past is useless because the history is just the record of place and time but it is more than that. When learning about the past, people think of the greatest question man could ever ask \u201cWhy?\u201d. A historical event can be seen from many different angles and how it is judged makes it bad or good. In this case, history teaches us to see everything from other views and ask why that is. This would deepen one mind and be helpful in other aspects of life. For example, if a person wants to study major in Politics, studying history is vital to be a excellent politician as it teaches him to see the problems from other perspectives and understand deeply the situation.",
+        "In short, learning about the past is not useless at all. It is considered the first step to building a better future for both individual and his country."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "past\u2019s",
+                "start_idx": 518,
+                "end_idx": 524,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "past"
+                ]
+            },
+            {
+                "word": "learn",
+                "start_idx": 598,
+                "end_idx": 603,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "learns"
+                ]
+            },
+            {
+                "word": "catastrophe",
+                "start_idx": 798,
+                "end_idx": 809,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a catastrophe"
+                ]
+            },
+            {
+                "word": "country despite",
+                "start_idx": 860,
+                "end_idx": 875,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "country, despite"
+                ]
+            },
+            {
+                "word": "France which",
+                "start_idx": 914,
+                "end_idx": 926,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "France, which"
+                ]
+            },
+            {
+                "word": "understand",
+                "start_idx": 1374,
+                "end_idx": 1384,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "understood"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 2259,
+                "end_idx": 2260,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an"
+                ]
+            }
+        ]
+    },
+    "submitter": "nguyetcbn",
+    "num_words": 439,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "as a result",
+            "for example",
+            "moreover",
+            "that is",
+            "this",
+            "to begin",
+            "also",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "country",
+                "occurrences": [
+                    {
+                        "start_idx": 705,
+                        "end_idx": 712
+                    },
+                    {
+                        "start_idx": 774,
+                        "end_idx": 781
+                    },
+                    {
+                        "start_idx": 860,
+                        "end_idx": 867
+                    },
+                    {
+                        "start_idx": 954,
+                        "end_idx": 961
+                    },
+                    {
+                        "start_idx": 1115,
+                        "end_idx": 1122
+                    },
+                    {
+                        "start_idx": 1570,
+                        "end_idx": 1577
+                    },
+                    {
+                        "start_idx": 2525,
+                        "end_idx": 2532
+                    }
+                ]
+            },
+            {
+                "word": "history",
+                "occurrences": [
+                    {
+                        "start_idx": 300,
+                        "end_idx": 307
+                    },
+                    {
+                        "start_idx": 745,
+                        "end_idx": 752
+                    },
+                    {
+                        "start_idx": 991,
+                        "end_idx": 998
+                    },
+                    {
+                        "start_idx": 1265,
+                        "end_idx": 1272
+                    },
+                    {
+                        "start_idx": 1602,
+                        "end_idx": 1609
+                    },
+                    {
+                        "start_idx": 1743,
+                        "end_idx": 1750
+                    },
+                    {
+                        "start_idx": 2024,
+                        "end_idx": 2031
+                    },
+                    {
+                        "start_idx": 2235,
+                        "end_idx": 2242
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-08T23:20:09.000Z"
+}

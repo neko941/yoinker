@@ -1,0 +1,101 @@
+{
+    "url": "https://writing9.com/text/5e7adc2a818e9c0018e293e8",
+    "file": "data\\5\\5e7adc2a818e9c0018e293e8.json",
+    "topics": [
+        "countries",
+        "people",
+        "rent",
+        "house"
+    ],
+    "question": "In some countries, most people prefer to rent a house rather than buying one. Describe the advantages and disadvantages of renting",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In many countries, it is becoming increasingly popular to rent an apartment rather than buying it. Yet to not say that this is not approved by some others who'd like to own their own residence for both practical reasons and private reasons.This essay will highlight some of the benefits and the drawbacks of renting an apartment.",
+        "First and foremost, it must be stated that the significant advantage of \rrenting an apartment is a reduction in prices compared to owning one.This will help loosen certain financial difficulties as it does not involve mortgage, loans and taxes. For example, a research occurred in India has pointed out that interest on the home loan is just as 9% as high as a dwelling's tax.  Moreover, tenants also don't have to worry about the responsibility and accountability like maintenance and repairing fee.Due to the tenants policy, those things will be shared between both the tenants and the landlords.",
+        "In addition, renting an apartment is also advantageous in some other ways, mainly because it provides easy mobility and relocation, especially when one is not sure about their stay in a particular city. We must not deny that this is very beneficial for those who have to work in many places. In particular, you won't have to worry about your house's safety when you are far from home."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "renting",
+                "start_idx": 403,
+                "end_idx": 410,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Renting"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 222,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "in particular",
+            "for example",
+            "moreover",
+            "in addition",
+            "this",
+            "also",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "apartment",
+                "occurrences": [
+                    {
+                        "start_idx": 66,
+                        "end_idx": 75
+                    },
+                    {
+                        "start_idx": 319,
+                        "end_idx": 328
+                    },
+                    {
+                        "start_idx": 414,
+                        "end_idx": 423
+                    },
+                    {
+                        "start_idx": 953,
+                        "end_idx": 962
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-03-25T04:20:58.301Z"
+}

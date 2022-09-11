@@ -1,0 +1,161 @@
+{
+    "url": "https://writing9.com/text/5d56e7fc8482ba0017ec9548",
+    "file": "data\\6\\5d56e7fc8482ba0017ec9548.json",
+    "topics": [
+        "people",
+        "career",
+        "company",
+        "move",
+        "job"
+    ],
+    "question": "In the past, most people spent their entire career working for one company, whereas people nowadays move from one job to another.\n\nWhat are the advantages and disadvantages of each? Which do you think is better?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The time people stay with an organisation is gradually changing. While in years back people spent majority of their working as an employee of a company, at present, people tend to be mobile in their career as they now move from one establishment to another. This essay will discuss the merits and demerits of staying in a single employment as well as the benefits and drawbacks for changing jobs and give my opinion on which side is better.",
+        "One one hand, some people prefer to stay with an organisation for their entire working life because of the career growth involved. People who stay with a company, say for over a decade, tend to have a defined career progression as they grow with the company. On the downside, start-up businesses tend to recruit people with divers experience when the business starts expanding. Recent study found that start-up businesses prefer people that have worked in different organisations to join them because of the fresh perspectives such people possessed.",
+        "On the other hand, there are people who like changing jobs frequently as seen in recent times. One benefit of this is that it expands the horizon of such people as they are more likely to have divers experience in their working life. However, these changes limit career growth as there would be a few track record to measure the career progression of such people hence, making the career move counterproductive. Recent research concluded that it is more beneficial to move between jobs because the benefits outweigh the drawbacks.",
+        "In conclusion, having considered the benefits and drawbacks for both sides, I think is is better move between jobs as it brings more benefits."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "majority",
+                "start_idx": 98,
+                "end_idx": 106,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the majority",
+                    "a majority"
+                ]
+            },
+            {
+                "word": "divers",
+                "start_idx": 766,
+                "end_idx": 772,
+                "error": "many and different",
+                "error_des": "",
+                "suggetions": [
+                    "diverse"
+                ]
+            },
+            {
+                "word": "Recent study",
+                "start_idx": 820,
+                "end_idx": 832,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "A recent study"
+                ]
+            },
+            {
+                "word": "people ",
+                "start_idx": 1349,
+                "end_idx": 1356,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "people, hence"
+                ]
+            }
+        ]
+    },
+    "submitter": "aiyeetangabriel",
+    "num_words": 279,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "on the other hand",
+            "hence",
+            "however",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "career",
+                "occurrences": [
+                    {
+                        "start_idx": 199,
+                        "end_idx": 205
+                    },
+                    {
+                        "start_idx": 548,
+                        "end_idx": 554
+                    },
+                    {
+                        "start_idx": 650,
+                        "end_idx": 656
+                    },
+                    {
+                        "start_idx": 1254,
+                        "end_idx": 1260
+                    },
+                    {
+                        "start_idx": 1320,
+                        "end_idx": 1326
+                    },
+                    {
+                        "start_idx": 1372,
+                        "end_idx": 1378
+                    }
+                ]
+            },
+            {
+                "word": "move",
+                "occurrences": [
+                    {
+                        "start_idx": 218,
+                        "end_idx": 222
+                    },
+                    {
+                        "start_idx": 1379,
+                        "end_idx": 1383
+                    },
+                    {
+                        "start_idx": 1459,
+                        "end_idx": 1463
+                    },
+                    {
+                        "start_idx": 1619,
+                        "end_idx": 1623
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-16T17:29:32.130Z"
+}

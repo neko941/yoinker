@@ -1,0 +1,156 @@
+{
+    "url": "https://writing9.com/text/5cfc41f1bde8cf001785a3c8",
+    "file": "data\\45\\5cfc41f1bde8cf001785a3c8.json",
+    "topics": [
+        "smoker",
+        "places"
+    ],
+    "question": "Smoking not only harms the smoker, but also those who are nearby. Therefore, smoking should be banned in public places",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In recent years, digitization has impacted our lives, and it has changed almost everything, even \u2026\u2026\u2026our reading habits/the way we communicate with people. Technology has opened new avenues in the way we communicate with another person situated anywhere on the globe. It has enabled us to connect and share information with people irrespective of their location. This advancement in technology makes it easier for us to find and befriend like-minded people. In my opinion, this growth can make people feel socially active and more willing to engage in conversation with new people.",
+        "On the other hand, technology takes away the physical aspect of communication. Though it has made life easier it has taken out the aspect of physical presence which was essential to communicate with another person in the past. This limitation can make people feel an absence of the human touch and can take away from the clarity of a message. Communicating through messaging or phone can only go as far as getting the words across. We human beings are social animals and need to connect with other beings in their physical form in order to feel a deep connection. One always has the option to ignore social interactions online, but it\u2019s harder to do that in real life. I feel that technology doesn\u2019t allow for deep connections to be built because of the above limitations. To summarize, technology can be used to build newer connections at one\u2019s own comfort and pace, but its limitations don\u2019t allow for deep lifelong relationships to blossom.",
+        "The effect that social networking sites have on societies and local community can only be termed as negative. Rather than individual people taking part in local community, they are indeed choosing to take more interest in people online. Consequently, the people within the local community are no longer forming close or supportive relationships. Furthermore, society is becoming increasingly disjoint and fragmented as people spend more time online."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": " \u2026",
+                "start_idx": 96,
+                "end_idx": 98,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "\u2026"
+                ]
+            },
+            {
+                "word": "\u2026",
+                "start_idx": 99,
+                "end_idx": 100,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "\u2026"
+                ]
+            },
+            {
+                "word": "easier it",
+                "start_idx": 684,
+                "end_idx": 693,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "easier, it"
+                ]
+            },
+            {
+                "word": "deep",
+                "start_idx": 1291,
+                "end_idx": 1295,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "deeper"
+                ]
+            },
+            {
+                "word": "newer",
+                "start_idx": 1400,
+                "end_idx": 1405,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "new"
+                ]
+            },
+            {
+                "word": "pace",
+                "start_idx": 1443,
+                "end_idx": 1447,
+                "error": "the state prevailing during the absence of war",
+                "error_des": "",
+                "suggetions": [
+                    "peace"
+                ]
+            },
+            {
+                "word": "local community",
+                "start_idx": 1680,
+                "end_idx": 1695,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the local community"
+                ]
+            }
+        ]
+    },
+    "submitter": "abhisheksh14",
+    "num_words": 321,
+    "num_paragraphs": 3,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "consequently",
+            "on the other hand",
+            "furthermore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "technology",
+                "occurrences": [
+                    {
+                        "start_idx": 382,
+                        "end_idx": 392
+                    },
+                    {
+                        "start_idx": 600,
+                        "end_idx": 610
+                    },
+                    {
+                        "start_idx": 1262,
+                        "end_idx": 1272
+                    },
+                    {
+                        "start_idx": 1368,
+                        "end_idx": 1378
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-08T23:17:05.000Z"
+}

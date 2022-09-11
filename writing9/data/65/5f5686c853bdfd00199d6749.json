@@ -1,0 +1,138 @@
+{
+    "url": "https://writing9.com/text/5f5686c853bdfd00199d6749",
+    "file": "data\\65\\5f5686c853bdfd00199d6749.json",
+    "topics": [
+        "people",
+        "health",
+        "sports",
+        "facilities",
+        "effect",
+        "measures"
+    ],
+    "question": "Some people say that the best way to improve public health is by increasing the number of sports facilities. Others, however, say that this would have little effect on public health and that other measures are required",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "t is true that increasing space for physical activities, like sports, can be the finest solution to live a healthier life. However, it is not the only way to do so, and some additional lifestyle modification and encouragement is necessary to be a healthy human being.",
+        "Advocates to this believe that it is important to ensure the availability of sports facilities to its maximum, for living a healthy life are correct up to some extent. Since easy accessibility to health spas would help the people to actively participate in different recreational sports within no time that would not only improves the physical wellbeing of a person but also releases the mental stress by diverting the mind. This is particularly beneficial for teenagers because, being youngsters, they have more energy to get involved in such activities, and found it interesting as well.",
+        "Nevertheless, building space for physical activity alone is unlikely to result in a vast improvement in solving health issues until some other measures are taken. Firstly, the realization of the importance of good health is mandatory, and this could be done by increasing awareness through motivational health campaigns for the general public, as a whole. Secondly, upgrading the prices of unhealthy food items, such as, fast food and fizzy drinks could make them less reachable to local people that would also contribute to better lifestyle adaptations. Also, banning excessive alcohol and smoking usage would add on to it.",
+        "In conclusion, I think that even though physical facilities should be provided to people, as exercise in any form is crucial for maintaining good health; few other steps are also vital to build a healthy society."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "believe",
+                "start_idx": 286,
+                "end_idx": 293,
+                "error": "Replace the word",
+                "error_des": "The word believe doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "belief"
+                ]
+            },
+            {
+                "word": "e",
+                "start_idx": 1578,
+                "end_idx": 1579,
+                "error": "Add an article",
+                "error_des": "The noun phrase exercise seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an"
+                ]
+            }
+        ]
+    },
+    "submitter": "mehreen.sohail56",
+    "num_words": 275,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "nevertheless",
+            "however",
+            "secondly",
+            "this",
+            "also",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 107,
+                        "end_idx": 113
+                    },
+                    {
+                        "start_idx": 247,
+                        "end_idx": 253
+                    },
+                    {
+                        "start_idx": 392,
+                        "end_idx": 398
+                    },
+                    {
+                        "start_idx": 464,
+                        "end_idx": 470
+                    },
+                    {
+                        "start_idx": 970,
+                        "end_idx": 976
+                    },
+                    {
+                        "start_idx": 1072,
+                        "end_idx": 1078
+                    },
+                    {
+                        "start_idx": 1161,
+                        "end_idx": 1167
+                    },
+                    {
+                        "start_idx": 1250,
+                        "end_idx": 1256
+                    },
+                    {
+                        "start_idx": 1629,
+                        "end_idx": 1635
+                    },
+                    {
+                        "start_idx": 1679,
+                        "end_idx": 1685
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-09-07T19:15:23.381Z"
+}

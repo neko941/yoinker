@@ -1,0 +1,182 @@
+{
+    "url": "https://writing9.com/text/5ca09474163e906ad0806d91",
+    "file": "data\\65\\5ca09474163e906ad0806d91.json",
+    "topics": [
+        "people",
+        "children",
+        "life",
+        "effects",
+        "society"
+    ],
+    "question": "Nowadays, more and more people decide to have children later in their life. What are the reasons? What are the effects on society and family life?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "These days, many people made their decision to give birth in later stages of life. There are a lot of reasons for this trend, and the effects can be clearly seen on society and family life.",
+        "There are several reasons why many couples give birth late in life. Firstly, young parents want to focus on their career to solve problems about money and find right ways to earn a living. They decide to delay having the first child because they need to save up enough money to make sure that their life is wealthy. Secondly, older parents can take care of their children more carefully. In fact, parents in their old age are more experienced and ready to be responsible for caring about the children.",
+        "Having children later in life brings about negative and positive impacts on society and families. On the one hand, the mother is likely to suffer from many health problems such as high blood pressure. Besides, it is harder for old parents to understand and communicate with younger children due to generation gap. On the other hand, children of old couples are more healthy thanks to better education and living conditions. As a result, they will make effective labour force and then contribute a lot to the development of society.",
+        "To conclude, parents want to be rich and prepare best conditions before having their first child. That is why they choose to give birth late, and this trend affects the society as well as families both positively and negatively."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "on",
+                "start_idx": 162,
+                "end_idx": 164,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "late",
+                "start_idx": 245,
+                "end_idx": 249,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "later"
+                ]
+            },
+            {
+                "word": "right ways",
+                "start_idx": 351,
+                "end_idx": 361,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the right ways"
+                ]
+            },
+            {
+                "word": "old",
+                "start_idx": 921,
+                "end_idx": 924,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "older"
+                ]
+            },
+            {
+                "word": "to understand",
+                "start_idx": 933,
+                "end_idx": 946,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "understand"
+                ]
+            },
+            {
+                "word": "generation gap",
+                "start_idx": 992,
+                "end_idx": 1006,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the generation gap",
+                    "a generation gap"
+                ]
+            }
+        ]
+    },
+    "submitter": "tdbouy59",
+    "num_words": 253,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "on the other hand",
+            "then",
+            "as a result",
+            "firstly",
+            "besides",
+            "secondly",
+            "that is",
+            "this",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "society",
+                "occurrences": [
+                    {
+                        "start_idx": 165,
+                        "end_idx": 172
+                    },
+                    {
+                        "start_idx": 768,
+                        "end_idx": 775
+                    },
+                    {
+                        "start_idx": 1215,
+                        "end_idx": 1222
+                    },
+                    {
+                        "start_idx": 1393,
+                        "end_idx": 1400
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 77,
+                        "end_idx": 81
+                    },
+                    {
+                        "start_idx": 184,
+                        "end_idx": 188
+                    },
+                    {
+                        "start_idx": 252,
+                        "end_idx": 256
+                    },
+                    {
+                        "start_idx": 489,
+                        "end_idx": 493
+                    },
+                    {
+                        "start_idx": 717,
+                        "end_idx": 721
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-31T10:20:36.000Z"
+}

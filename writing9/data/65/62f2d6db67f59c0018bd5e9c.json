@@ -1,0 +1,134 @@
+{
+    "url": "https://writing9.com/text/62f2d6db67f59c0018bd5e9c-many-people-these-days-have-computer-laptop-and-telephone-at",
+    "file": "data\\65\\62f2d6db67f59c0018bd5e9c.json",
+    "topics": [
+        "people",
+        "computer",
+        "laptop",
+        "telephone",
+        "home",
+        "work",
+        "advantage"
+    ],
+    "question": "Many people these days have computer, laptop and telephone at their home for work. Do you think, working from home has more advantage or disadvantage?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In this technological era Personal Computers ,mobiles and laptops have become a part of our daily lives. Due to the ,pandemic many people have adapted to working from home and it has become advantageous to many workers. In  the essay I will discuss both pros and cons of this situation.",
+        "Working from home was most important to us during those two years of pandemics. Most of the employees highly relied on computers,and phones. Now we are completely dependent on those gadgets. As it has bought our world closer or we can say \" The World Is In our palms\" Co-workers don't need to travel to their offices as compared to past they can just start their PC and join the meeting. According to research by Oxford ,University most  employees tend to spend more time with their families and friends compared to the past just because of work from home. Another research describes  that the pollution in big cities has gone down due to remote working.",
+        "However, every coin has two sides  and there are also a few drawbacks to this condition. To begin with , workers have become lazy as compared to the past. They are now neither productive nor active in their role in the company. One of the most renowned  educational institutions in Canada says that people working remotely has irrupted a lot of physical diseases such as back pain  and ankle sprain. And now people are not ready to work in their offices.",
+        "To conclude this topic ,  there is an equal number of drawbacks and positive outcomes in this situation.,However in ,future we could see more people working from home."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 116,
+                "end_idx": 117,
+                "error": "Remove the comma",
+                "error_des": "There should be no comma after the article the in your sentence. Remove the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "essay",
+                "start_idx": 228,
+                "end_idx": 233,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase In  the essay. Consider adding a comma.",
+                "suggetions": [
+                    ",essay"
+                ]
+            }
+        ]
+    },
+    "submitter": "KUSH",
+    "num_words": 274,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "however",
+            "this",
+            "to begin",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 131,
+                        "end_idx": 137
+                    },
+                    {
+                        "start_idx": 1241,
+                        "end_idx": 1247
+                    },
+                    {
+                        "start_idx": 1350,
+                        "end_idx": 1356
+                    },
+                    {
+                        "start_idx": 1539,
+                        "end_idx": 1545
+                    }
+                ]
+            },
+            {
+                "word": "home",
+                "occurrences": [
+                    {
+                        "start_idx": 167,
+                        "end_idx": 171
+                    },
+                    {
+                        "start_idx": 300,
+                        "end_idx": 304
+                    },
+                    {
+                        "start_idx": 838,
+                        "end_idx": 842
+                    },
+                    {
+                        "start_idx": 1559,
+                        "end_idx": 1563
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-09T21:56:40.806Z"
+}

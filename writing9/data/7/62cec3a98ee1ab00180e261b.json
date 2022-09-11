@@ -1,0 +1,137 @@
+{
+    "url": "https://writing9.com/text/62cec3a98ee1ab00180e261b-some-people-think-governments-should-focus-on-reducing-environmental-pollution",
+    "file": "data\\7\\62cec3a98ee1ab00180e261b.json",
+    "topics": [
+        "people",
+        "governments",
+        "focus",
+        "pollution",
+        "illness",
+        "disease"
+    ],
+    "question": "Some people think governments should focus on reducing environmental pollution and housing problem to help people prevent illness and disease. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Illness and disease can be a heavy burden for families in poor situations. Some of this suffering is highly related to the environment and accommodations. Some believe that it\u2019s the government\u2019s responsibility to improve the surrounding quality for citizens. In my point of view, it is the government that is taking care of the issue.",
+        "First, the government is the only entity that has the power of protecting the environment. Hazard including harmful gas, particles and water from factories need to be processed before emitting into the open environment, and companies are not naturally desired to do so for cost reasons. The government can use executive and legal measures, which none of the other organizations can do, to contain these behaviours. For example, the London government passed the law of clean air and took measures to help residents get rid of burning coal for heating in the 1950s to fight against the great smog which potentially caused thousands of deaths during the period.",
+        "Second, health is highly relevant to habitat conditions. Research has shown that more than a hundred physical and mental illness is related to pollution and living quality. Such problems can partly be solved by a well urban planning and organization, which is the government\u2019s duty. For instance, a city with well-designed architecture can place people in desirable surroundings and ease their mental stress with good scenery and society.",
+        "In a word, improving the environment and accommodation should be placed in the prior position on the government\u2019s to-do list."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 1205,
+                "end_idx": 1207,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun planning in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "bfl",
+    "num_words": 251,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "second",
+            "for instance",
+            "for example",
+            "that is",
+            "this",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 182,
+                        "end_idx": 192
+                    },
+                    {
+                        "start_idx": 290,
+                        "end_idx": 300
+                    },
+                    {
+                        "start_idx": 346,
+                        "end_idx": 356
+                    },
+                    {
+                        "start_idx": 626,
+                        "end_idx": 636
+                    },
+                    {
+                        "start_idx": 774,
+                        "end_idx": 784
+                    },
+                    {
+                        "start_idx": 1258,
+                        "end_idx": 1268
+                    },
+                    {
+                        "start_idx": 1534,
+                        "end_idx": 1544
+                    }
+                ]
+            },
+            {
+                "word": "environment",
+                "occurrences": [
+                    {
+                        "start_idx": 123,
+                        "end_idx": 134
+                    },
+                    {
+                        "start_idx": 413,
+                        "end_idx": 424
+                    },
+                    {
+                        "start_idx": 542,
+                        "end_idx": 553
+                    },
+                    {
+                        "start_idx": 1458,
+                        "end_idx": 1469
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-13T13:09:20.891Z"
+}

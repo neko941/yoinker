@@ -1,0 +1,117 @@
+{
+    "url": "https://writing9.com/text/618a0481ed99dc0019406859-university-students-are-increasingly-studying-abroad-as-part-of-their",
+    "file": "data\\55\\618a0481ed99dc0019406859.json",
+    "topics": [
+        "university",
+        "students",
+        "part",
+        "studies"
+    ],
+    "question": "University students are increasingly studying abroad as part of their studiesDo the advantages outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Studying is a process everyone goes through. Increasing numbers of individuals have chosen to go abroad for tuition. However, there are numerous arguments that state the opposite. This essay argues that benefits regarding tuition in foreign countries counterbalances staying in the nation.",
+        "To begin with, there are many advantages to studying overseas. Better facilities and laboratory instruments contribute to the fact that there is a wider variety of opportunities available for students to explore. Additionally, academies outside the country provide more modern technology which accommodates an innovative learner\u2019s experience. For instance, MIT university has a specified research room dedicated to robotics manufacturing for students who want to major in mechanical engineering.",
+        "",
+        "On the contrary, limitations can be encountered when selecting institutes. Competition and financial problems arise when thinking about moving to other countries. To elaborate, undergraduates may undergo rivalry and challenges such as language differences or feelings of unfamiliarity which affects training. Furthermore, living expenses are drastically higher in some foreign lands. For example, tuition fees in England cost approximately twice more than in slavic countries.",
+        "In conclusion, schooling overseas is becoming more popular. Although there are a reasonable amount of obstacles when considering education in foreign countries, the overall satisfaction outweighs the complications. Thus, one should take account of all factors when deciding on their academic institution."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "counterbalances",
+                "start_idx": 251,
+                "end_idx": 266,
+                "error": "Change the verb form",
+                "error_des": "The singular verb counterbalances does not appear to agree with the plural subject benefits regarding tuition in foreign countries. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "counterbalance"
+                ]
+            },
+            {
+                "word": "slavic",
+                "start_idx": 1251,
+                "end_idx": 1257,
+                "error": "Change the capitalization",
+                "error_des": "It appears that the word slavic may be a proper noun in this context. Consider capitalizing the word.",
+                "suggetions": [
+                    "Slavic"
+                ]
+            }
+        ]
+    },
+    "submitter": "IngIng",
+    "num_words": 218,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "on the contrary",
+            "thus",
+            "for instance",
+            "additionally",
+            "furthermore",
+            "for example",
+            "although",
+            "however",
+            "this",
+            "to begin",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "countries",
+                "occurrences": [
+                    {
+                        "start_idx": 241,
+                        "end_idx": 250
+                    },
+                    {
+                        "start_idx": 939,
+                        "end_idx": 948
+                    },
+                    {
+                        "start_idx": 1253,
+                        "end_idx": 1262
+                    },
+                    {
+                        "start_idx": 1414,
+                        "end_idx": 1423
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-11-09T05:17:54.822Z"
+}

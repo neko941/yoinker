@@ -1,0 +1,122 @@
+{
+    "url": "https://writing9.com/text/5d9f20b2b03a77001152326a-you-have-organised-to-go-on-a-holiday-with-your",
+    "file": "data\\7\\5d9f20b2b03a77001152326a.json",
+    "topics": [
+        "holiday",
+        "friend",
+        "change",
+        "plans",
+        "plan",
+        "alternative",
+        "arrangement"
+    ],
+    "question": "you have organised to go on a holiday with your friend. however you must change your plans. write a letter to tell how much you look forward to the plan. why you must change your plans and suggest alternative arrangement.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Alex,",
+        "How are you? I am so excited for our next trip to Goa. In fact, I have been on a shopping spree ever since we booked the tickets. I bought a hat not only for myself but also for you.",
+        "But I am afraid we might have to drop our vacation. My immediate manager is going on an emergency medical leave around the same time when we are planning to go. Since he won\u2019t be there as well, I would have to check in for all the deliverables to clients. My colleague would have covered for me but she\u2019s on her planned leave already and by the time she comes back she would have heap loads of work of her own. I am so sorry, I know you must be angry on me.",
+        "To lessen your anger, I have another plan. Let\u2019s plan the holiday during Christmas, thus we will get an extended leave as well. Besides, don\u2019t worry about hotel stay, it is refundable if we cancel before end of the month. Alternatively, we can book the same hotel for different dates. Let me know what you think about this new plan. I am eagerly awaiting for your reply.",
+        "Yours lovingly,",
+        "Saily"
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "for",
+                "start_idx": 40,
+                "end_idx": 43,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "about"
+                ]
+            },
+            {
+                "word": "check in",
+                "start_idx": 404,
+                "end_idx": 412,
+                "error": "Add a hyphen",
+                "error_des": "It appears that check in is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "check-in"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 645,
+                "end_idx": 647,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "end",
+                "start_idx": 856,
+                "end_idx": 859,
+                "error": "Add an article",
+                "error_des": "The noun phrase end seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the end"
+                ]
+            },
+            {
+                "word": "for ",
+                "start_idx": 1007,
+                "end_idx": 1011,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 205,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "thus",
+            "besides",
+            "next",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T17:01:34.060Z"
+}

@@ -1,0 +1,135 @@
+{
+    "url": "https://writing9.com/text/5cc0543232d127240079e6f5",
+    "file": "data\\65\\5cc0543232d127240079e6f5.json",
+    "topics": [
+        "people",
+        "importance",
+        "world"
+    ],
+    "question": "People have little understanding of the importance of the natural world, what are the reasons and how can people learn more about the natural world?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that many people do not realize the functions of our nature. I analyze this problem in several ways and also provide some steps to ease it.",
+        "There are several reasons for individuals being unfamiliar with the meaning of the natural world. For starters, a large proportion of people are currently living in the cities, where most of places are modern buildings rather than natural sceneries. Some of them may think that the nature plays a negligible role in our lives. Another reason is that people are sometimes busy with study or work, and spend less time on caring the planet. As a result, it is difficult for them to understand the importance of the natural world.",
+        "Based on the above analysis, I suggest several practical measures to improve their awareness of nature. As for governments, they should run campaigns to encourage us to know more about the importance of the earth. For example, they could publish some non-commercial ads on TV or the Internet to show what our life would be if we lose the nature. From the perspective of education systems, students should gain better knowledge of the nature, for example, plants can produce oxygen and absorb carbon dioxide. In this way, they are likely to pay attention to our natural world as well as protect it. Finally, parents could visit natural sceneries during family trips to know more about their benefits.",
+        "In conclusion, although there are numerous reasons for our lack of the importance of the natural world, I believe that we could tackle this problem with the support of governments and education systems, as well as human beings."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "analyze",
+                "start_idx": 74,
+                "end_idx": 81,
+                "error": "consider in detail and subject to an analysis in order to discover essential features or meaning",
+                "error_des": "",
+                "suggetions": [
+                    "analyse"
+                ]
+            },
+            {
+                "word": "places",
+                "start_idx": 343,
+                "end_idx": 349,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the places"
+                ]
+            }
+        ]
+    },
+    "submitter": "wayskgasdas",
+    "num_words": 274,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "as a result",
+            "for example",
+            "although",
+            "finally",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "world",
+                "occurrences": [
+                    {
+                        "start_idx": 242,
+                        "end_idx": 247
+                    },
+                    {
+                        "start_idx": 671,
+                        "end_idx": 676
+                    },
+                    {
+                        "start_idx": 1247,
+                        "end_idx": 1252
+                    },
+                    {
+                        "start_idx": 1475,
+                        "end_idx": 1480
+                    }
+                ]
+            },
+            {
+                "word": "nature",
+                "occurrences": [
+                    {
+                        "start_idx": 64,
+                        "end_idx": 70
+                    },
+                    {
+                        "start_idx": 433,
+                        "end_idx": 439
+                    },
+                    {
+                        "start_idx": 774,
+                        "end_idx": 780
+                    },
+                    {
+                        "start_idx": 1016,
+                        "end_idx": 1022
+                    },
+                    {
+                        "start_idx": 1112,
+                        "end_idx": 1118
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-24T12:18:58.000Z"
+}

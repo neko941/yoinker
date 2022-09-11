@@ -1,0 +1,167 @@
+{
+    "url": "https://writing9.com/text/5f0aa936401ea400186c5c1b-you-recently-stayed-in-a-hotel-in-a-large-city",
+    "file": "data\\7\\5f0aa936401ea400186c5c1b.json",
+    "topics": [
+        "hotel",
+        "city",
+        "weather",
+        "time",
+        "year",
+        "system",
+        "manager",
+        "action"
+    ],
+    "question": "You recently stayed in a hotel in a large city. The weather was very unusual for the time of year and the heating/cooling system in the hotel was quite inadequate.Write a letter to the manager of the hotel.In your letter\u2022\tgive details of what was wrong\u2022\texplain what you had to do to overcome the problem at the time\u2022\tsay what action you would like the manager to take",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sham,",
+        "I am writing this letter to show my concern about the room service. I have recently booked a room in your hotel for my trip. It was a really hot day, when I reached at the hotel room, I found out that the air condition in the room is out of order.",
+        "Let me explain further, I called the room service and enquired about the cooling system. The room service showed a quick response and called the contractor to fix the air condition. However, the contractor said it is requiring a replacement and cannot be repaired. Therefore, I asked to change the room but unfortunately, there all the rooms were booked for that night in the hotel. Thus, I had to sleep in a hot weather without any air conditioning.",
+        "I would like you to take serious action on this and fix the faulty item in the room to the earliest possible so that others customers can avoid the consequences. Moreover, because I spent a night in unbearable hot weather, I would ask for a refund of my amount.",
+        "Thank you for your consideration.",
+        "Yours faithfully,",
+        "Yasir"
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 160,
+                "end_idx": 161,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker when. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "at ",
+                "start_idx": 177,
+                "end_idx": 180,
+                "error": "Remove the preposition",
+                "error_des": "The preposition at seems unecessary after the verb reached. Consider removing the preposition.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "condition",
+                "start_idx": 432,
+                "end_idx": 441,
+                "error": "Replace the word",
+                "error_des": "The word condition doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "conditioner"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 668,
+                "end_idx": 670,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun weather in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "others",
+                "start_idx": 830,
+                "end_idx": 836,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "other"
+                ]
+            }
+        ]
+    },
+    "submitter": "Yasir",
+    "num_words": 189,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "thus",
+            "moreover",
+            "further",
+            "however",
+            "therefore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "room",
+                "occurrences": [
+                    {
+                        "start_idx": 65,
+                        "end_idx": 69
+                    },
+                    {
+                        "start_idx": 104,
+                        "end_idx": 108
+                    },
+                    {
+                        "start_idx": 189,
+                        "end_idx": 193
+                    },
+                    {
+                        "start_idx": 237,
+                        "end_idx": 241
+                    },
+                    {
+                        "start_idx": 296,
+                        "end_idx": 300
+                    },
+                    {
+                        "start_idx": 352,
+                        "end_idx": 356
+                    },
+                    {
+                        "start_idx": 557,
+                        "end_idx": 561
+                    },
+                    {
+                        "start_idx": 595,
+                        "end_idx": 599
+                    },
+                    {
+                        "start_idx": 789,
+                        "end_idx": 793
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-14T11:35:43.270Z"
+}

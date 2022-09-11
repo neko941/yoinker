@@ -1,0 +1,166 @@
+{
+    "url": "https://writing9.com/text/5cbc451eb5785c12f948ef34",
+    "file": "data\\6\\5cbc451eb5785c12f948ef34.json",
+    "topics": [
+        "internet",
+        "people",
+        "computers",
+        "smartphones",
+        "world",
+        "trend"
+    ],
+    "question": "The internet has made knowledge immediately available to people through computers and smartphones around the world. Much of this knowledge is also free.\nDiscuss the advantages and disadvantages of this trend.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The internet is a growing hub for immediate information globally. With its expansion, knowledge is accessible for free, aided by the spread of technological devices. For the remainder of this essay I will discuss the benefits, such as its accessibility to lower socioeconomic groups and the elimination of the cost of buying books. I will also be discussing the drawbacks, namely, inaccurate information and plagiarism.",
+        "Free online information has many advantages. Poorer individuals who cannot afford an education through books and universities now have options to pursue the information they need free of charge through the internet. For instance, a homeless man in my neighbor-hood learnt how to paint through YouTube, today, he is a successful high earning painter. In addition, online learning has reduced the necessity of books. Which are not easily attainable because they may be rare and expensive. For example, the world wide web has countless websites like ilovebooks.com where books are available with the click of a button free of charge.",
+        "Although, there are many advantages, there are also disadvantages. With the abundance of accessible information, plagiarism is easy to commit. A study conducted by the international plagiarism society found that, there has been an 80%  increase in committing the act since the immersion of the internet. In addition, another disadvantage is that knowledge online may be false or inaccurate because everyone can go online and write anything, regardless if it is true or not. An example of this is Wikipedia, anyone, even if they are not qualified to do so, may edit articles on their site. This results in the spread of incorrect information.",
+        "In conclusion, there are pros and cons to the free, accessible knowledge online. In the future, I hope the internet is available for everyone globally with tighter laws on editing information online."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "neighbor",
+                "start_idx": 672,
+                "end_idx": 680,
+                "error": "a person who lives (or is located) near another",
+                "error_des": "",
+                "suggetions": [
+                    "neighbour"
+                ]
+            },
+            {
+                "word": "ilovebooks",
+                "start_idx": 968,
+                "end_idx": 978,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "com",
+                "start_idx": 979,
+                "end_idx": 982,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Come",
+                    "Com"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1735,
+                "end_idx": 1737,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            }
+        ]
+    },
+    "submitter": "leena_lik.ey",
+    "num_words": 301,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "although",
+            "in addition",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "internet",
+                "occurrences": [
+                    {
+                        "start_idx": 4,
+                        "end_idx": 12
+                    },
+                    {
+                        "start_idx": 626,
+                        "end_idx": 634
+                    },
+                    {
+                        "start_idx": 1345,
+                        "end_idx": 1353
+                    },
+                    {
+                        "start_idx": 1800,
+                        "end_idx": 1808
+                    }
+                ]
+            },
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 44,
+                        "end_idx": 55
+                    },
+                    {
+                        "start_idx": 392,
+                        "end_idx": 403
+                    },
+                    {
+                        "start_idx": 432,
+                        "end_idx": 443
+                    },
+                    {
+                        "start_idx": 577,
+                        "end_idx": 588
+                    },
+                    {
+                        "start_idx": 1151,
+                        "end_idx": 1162
+                    },
+                    {
+                        "start_idx": 1680,
+                        "end_idx": 1691
+                    },
+                    {
+                        "start_idx": 1873,
+                        "end_idx": 1884
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-21T10:25:34.000Z"
+}

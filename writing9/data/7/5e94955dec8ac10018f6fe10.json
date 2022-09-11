@@ -1,0 +1,134 @@
+{
+    "url": "https://writing9.com/text/5e94955dec8ac10018f6fe10",
+    "file": "data\\7\\5e94955dec8ac10018f6fe10.json",
+    "topics": [
+        "people"
+    ],
+    "question": "People are never satisfied and always want more.\nIn what ways is this a good thing and in what ways is this a bad thing?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "All types of progress have always been pushing by people's curiosity and desire to have more; however, another side is self-interest that leads people for controversial way. Consequently, people who want more initially not for yourselves do good things, although they really a small part from whole amount.",
+        "Firstly, few persons can decline that dissatisfaction provides developmental progress because people, who wants more and are not satisied with that they has, provides innovation, and modificated old things in more functional and modern. For example, Elon Reeve Musk that invents the electric car and other things. Besides, dissatisfied people have always been aiming on new achievement that give their life more sense and resistance to fail as reason has always preparing for it. Thus, unhappiness with current things has a profitable and positive impact on people's life.",
+        "Notwithstanding, people has another part of the dissatisfaction that named self-interest and doubt on self appearance that has always pushed them on ambiguous decisions such as illegal make money, or plastic surgery. For example, many modern women who change their faces or other parts of a body, or corrupt politicians. Moreover, the history demonstrates that when people turn from innovation to self-interest way it is always has bad aftermaths such as new product with poor quality and higher price.  Hence, this part has only bad influence on the local economies and people's life because such people do not care about other people and live only for their wealth.",
+        "To conclude, as everything in our world dissatisfaction and desire for more have two sides where one develop people's life, whereas another pull it down."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "satisied",
+                "start_idx": 436,
+                "end_idx": 444,
+                "error": "filled with satisfaction",
+                "error_des": "",
+                "suggetions": [
+                    "satisfied"
+                ]
+            },
+            {
+                "word": "life",
+                "start_idx": 874,
+                "end_idx": 878,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "live"
+                ]
+            },
+            {
+                "word": "self-interest way",
+                "start_idx": 1278,
+                "end_idx": 1295,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the self-interest way"
+                ]
+            },
+            {
+                "word": "is always",
+                "start_idx": 1299,
+                "end_idx": 1308,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "is, always"
+                ]
+            }
+        ]
+    },
+    "submitter": "ilua.cavchuk",
+    "num_words": 269,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "thus",
+            "hence",
+            "consequently",
+            "for example",
+            "besides",
+            "although",
+            "moreover",
+            "however",
+            "initially",
+            "this",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 709,
+                        "end_idx": 713
+                    },
+                    {
+                        "start_idx": 874,
+                        "end_idx": 878
+                    },
+                    {
+                        "start_idx": 1460,
+                        "end_idx": 1464
+                    },
+                    {
+                        "start_idx": 1666,
+                        "end_idx": 1670
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-04-13T16:37:49.742Z"
+}

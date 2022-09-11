@@ -1,0 +1,124 @@
+{
+    "url": "https://writing9.com/text/62e7965b0562ec00182a03fc-you-are-planning-to-go-and-study-english-at-a",
+    "file": "data\\75\\62e7965b0562ec00182a03fc.json",
+    "topics": [
+        "study",
+        "english",
+        "school",
+        "information",
+        "courses",
+        "accommodation",
+        "requests",
+        "diet"
+    ],
+    "question": "You are planning to go and study English at a school overseas. You would like some information about their courses.Write a letter to the school. In your letterask about the schoolsay what kind of accommodation you wantmention any special requests you have (for example diet).",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam",
+        "My name is Abdulaziz Alruhaimi from Riyadh in Saudi Arabia. I have recently registered as a student at your college in major law which is starting in December.",
+        "I am writing this letter to have from you some information. I would like to have information about teachers and professors in this college about their knowledge and experience also, let me know about the college location is there any nice places to visit such as restaurants, malls and caf\u00e9 shops. However, I would like to have an apartment including two rooms and if possible, I would like to stay close to college, so I don\u2019t need to spend a lot of time and money to get there and this is very important to me. In addition to that, I need some information about  the benefits of student card for example, discounts in gyms or like these things",
+        "I look forward to hearing from you soon",
+        "Best Regards"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 131,
+                "end_idx": 133,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to in"
+                ]
+            },
+            {
+                "word": "student",
+                "start_idx": 756,
+                "end_idx": 763,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a student"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 769,
+                "end_idx": 772,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter for example. Consider adding the comma(s).",
+                "suggetions": [
+                    ",for"
+                ]
+            }
+        ]
+    },
+    "submitter": "alruhaimi6",
+    "num_words": 158,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "however",
+            "in addition",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "college",
+                "occurrences": [
+                    {
+                        "start_idx": 123,
+                        "end_idx": 130
+                    },
+                    {
+                        "start_idx": 306,
+                        "end_idx": 313
+                    },
+                    {
+                        "start_idx": 379,
+                        "end_idx": 386
+                    },
+                    {
+                        "start_idx": 583,
+                        "end_idx": 590
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-01T09:03:08.933Z"
+}

@@ -1,0 +1,103 @@
+{
+    "url": "https://writing9.com/text/5d49c7584020700017c206f3",
+    "file": "data\\45\\5d49c7584020700017c206f3.json",
+    "topics": [
+        "women",
+        "role",
+        "men",
+        "police",
+        "forces"
+    ],
+    "question": "Women should have an equal role alongside men in both police and armed forces.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Firstly, everyone dreams of an egalitarian society where people are equally facilitated with all the opportunities. Besides, women are now well educated and capable of doing jobs in which high risks and pressure are involved. For example, Nirmala Seetharaman, who was the minister of national defence of India from September 2017 to May 2019, illustrates women's ability to perform jobs which were considered only for men. Secondly, there are so many positions available in the army and police divisions, where employees need to work inside the office handling some analytical tasks, which can be occupied by women.",
+        "On the other hand, working as police or army personnel, require high physical strength, which makes these jobs more suitable for men; it is quite natural that men possess more strength than women. The security forces of a country must go through tough physical situations, like crawling through rough terrains carrying heavy ammunitions. To illustrate this more, take the case of the police force, who may daily encounter rigorous fights with protesters on the street, with heavy arms and safety equipment. Therefore, as per some feminists, if governments set aside equal opportunity for women in such fields, it will reduce the overall efficiency of the force.Skating is good for health and makes people fitter. For example, Pradeep is a police man but still works for the government betterment."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "police man but",
+                "start_idx": 1355,
+                "end_idx": 1369,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "policeman, but",
+                    "policeman but"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 225,
+    "num_paragraphs": 2,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "on the other hand",
+            "for example",
+            "besides",
+            "such",
+            "therefore",
+            "this",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "police",
+                "occurrences": [
+                    {
+                        "start_idx": 487,
+                        "end_idx": 493
+                    },
+                    {
+                        "start_idx": 646,
+                        "end_idx": 652
+                    },
+                    {
+                        "start_idx": 1000,
+                        "end_idx": 1006
+                    },
+                    {
+                        "start_idx": 1355,
+                        "end_idx": 1361
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-06T18:30:48.809Z"
+}

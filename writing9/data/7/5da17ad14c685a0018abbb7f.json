@@ -1,0 +1,105 @@
+{
+    "url": "https://writing9.com/text/5da17ad14c685a0018abbb7f",
+    "file": "data\\7\\5da17ad14c685a0018abbb7f.json",
+    "topics": [
+        "people",
+        "car",
+        "transportation",
+        "over-reliance",
+        "cars"
+    ],
+    "question": "More and more people are relying on the private car as their major means of transportation. Describe some of the problems over-reliance on cars can cause, and suggest at least one possible solution.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, a car is the most used mode of transportation for many of mankind. Although it will result in massive pollution, it can be overcome by certain measures.",
+        "The usage of four-wheelers is one of the major causes of pollution in the world. The volume of polluted air excreted from cars is unlimited, which damages the environment dramatically. A study conducted by the University of Abu Dhabi showed that environmental pollution has increased simultaneously as per the sale of cars in the market, which proven that overusing this mode for transportation disrupts the environmental balance.",
+        "Furthermore, another crucial after effect with this is the uncontrollable traffic jam. People prefer to go to work with their own vehicle even if there is company transportation available. For instance, in Dubai, slow-moving traffic is very common during the mornings and evenings because of the increasing number of private vehicles that hits on the road and leads to these problems.",
+        "However, these kinds of situations can be solved by taking necessary actions like increasing the usage of public transportation. In other words, currently, the metro and buses are technically advanced and maintained very well for the convenience of the public. For example, in the Middle East, metro services and government regulated buses are having uninterrupted services to ensure that people can rely on them than the others. In addition, it has helped this region to reduce the environmental problems along with traffic regulations.",
+        "In conclusion, troubles arising from overusing cars can be reduced effectively by promoting public service vehicles."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "is",
+                "start_idx": 190,
+                "end_idx": 192,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            }
+        ]
+    },
+    "submitter": "haris.abdulkhader03",
+    "num_words": 255,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "for instance",
+            "furthermore",
+            "for example",
+            "although",
+            "in other words",
+            "however",
+            "in addition",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "transportation",
+                "occurrences": [
+                    {
+                        "start_idx": 41,
+                        "end_idx": 55
+                    },
+                    {
+                        "start_idx": 543,
+                        "end_idx": 557
+                    },
+                    {
+                        "start_idx": 757,
+                        "end_idx": 771
+                    },
+                    {
+                        "start_idx": 1092,
+                        "end_idx": 1106
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-12T07:03:45.503Z"
+}

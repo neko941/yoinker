@@ -1,0 +1,172 @@
+{
+    "url": "https://writing9.com/text/62f1c7f00562ec00182a170f-some-people-believe-that-university-should-offer-places-for-people",
+    "file": "data\\65\\62f1c7f00562ec00182a170f.json",
+    "topics": [
+        "people",
+        "university",
+        "offer",
+        "places",
+        "marks",
+        "universities",
+        "age",
+        "schools"
+    ],
+    "question": "Some people believe that university should offer places for people with high marks, Others says that universities accept all age of people even if they do not well at schools.  Discuss both these views and give your own opinion",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "University is a place where people can learn higher subjects, however university is not the only place where people can enhance their knowledge base. Society accepts that examination is a proper way to distinguish people who are suitable to continue their studies at a university. I strongly agree that universities should offer places for people with high marks.",
+        "First, unlike roads, public parks, or shopping malls, universities need a large amount of various investment that takes over years. A university may not only consist of buildings, teachers and facilities, the intrinsic unseen factors are even more important: teaching materials, accumulated research documents, and the reputation that constantly attracts students and researchers. All these can take decades to be established and well maintained. Therefore, the university is a highly limited resource and determined to serve only a few people, and those people need to be good enough at learning, studying and research, otherwise the costly resource will be wasted.",
+        "Secondly, the university is not a good choice for all ages of people. University education is designed to encourage people to think independently and explore unknown areas of human knowledge. It usually takes three or more years to let a university student be a qualified graduate. Imagine if all people go to university and take years to finish their studies, what would happen to our society? A bus driver who graduated in engineering that can build a rocket or a car dealer who can calculate the orbit of Mars? Students without high marks should take a different routine rather than rush into university and learn unnecessary subjects.",
+        "To summarise, our university is a limited resource so only a few people should be allowed to attend and people who do not well in school should take a different path in their future."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "however",
+                "start_idx": 62,
+                "end_idx": 69,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase however. Consider adding a comma.",
+                "suggetions": [
+                    ",however"
+                ]
+            }
+        ]
+    },
+    "submitter": "hede",
+    "num_words": 299,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "otherwise",
+            "secondly",
+            "first",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "university",
+                "occurrences": [
+                    {
+                        "start_idx": 70,
+                        "end_idx": 80
+                    },
+                    {
+                        "start_idx": 269,
+                        "end_idx": 279
+                    },
+                    {
+                        "start_idx": 498,
+                        "end_idx": 508
+                    },
+                    {
+                        "start_idx": 826,
+                        "end_idx": 836
+                    },
+                    {
+                        "start_idx": 1045,
+                        "end_idx": 1055
+                    },
+                    {
+                        "start_idx": 1269,
+                        "end_idx": 1279
+                    },
+                    {
+                        "start_idx": 1341,
+                        "end_idx": 1351
+                    },
+                    {
+                        "start_idx": 1627,
+                        "end_idx": 1637
+                    },
+                    {
+                        "start_idx": 1688,
+                        "end_idx": 1698
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 28,
+                        "end_idx": 34
+                    },
+                    {
+                        "start_idx": 109,
+                        "end_idx": 115
+                    },
+                    {
+                        "start_idx": 214,
+                        "end_idx": 220
+                    },
+                    {
+                        "start_idx": 340,
+                        "end_idx": 346
+                    },
+                    {
+                        "start_idx": 901,
+                        "end_idx": 907
+                    },
+                    {
+                        "start_idx": 919,
+                        "end_idx": 925
+                    },
+                    {
+                        "start_idx": 1093,
+                        "end_idx": 1099
+                    },
+                    {
+                        "start_idx": 1147,
+                        "end_idx": 1153
+                    },
+                    {
+                        "start_idx": 1328,
+                        "end_idx": 1334
+                    },
+                    {
+                        "start_idx": 1735,
+                        "end_idx": 1741
+                    },
+                    {
+                        "start_idx": 1774,
+                        "end_idx": 1780
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-09T02:38:36.499Z"
+}

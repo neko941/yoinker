@@ -1,0 +1,109 @@
+{
+    "url": "https://writing9.com/text/5d3a97129e6ade00172d14dc-you-took-your-family-to-a-nearby-restaurant-you-were",
+    "file": "data\\65\\5d3a97129e6ade00172d14dc.json",
+    "topics": [
+        "restaurant",
+        "manager",
+        "\u00bb",
+        "action"
+    ],
+    "question": "You took your family to a nearby restaurant. You were disappointed with the meal and wish to complain to the manager.\nWrite a letter to the manager of the restaurant. In your letter,\n\n  \u00bb explain why you were at the restaurant\n  \u00bb describe the problems\n  \u00bb write about the action you want the manager to take \nWrite at least 150 words.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "I am writing to complain about my recent  experience at your restaurant in Maitama,  which left me utterly displeased as a regular client.",
+        "We were at your establishment to celebrate my husband's birthday on the 30th of May, 2019 at about 7pm, this event meant so much to the family, hence the reason i recommend we dine at your restaurant.",
+        "We ordered for an alacarte basmati fried rice for the entire family of four, the waiter assigned to our table was not welcoming and the food served was not properly cooked. It appeared the meal was made in a hurry in order to meet the demands of the guests at such peak hour, this actions left my family dissatisfied.",
+        "As the manager, i would like for my family to be compensated for the ruin caused to our celebration and that you urgently retrain your staff both at the front desk and the kitchen.",
+        "Looking forward to hearing from you.",
+        "Yours faithfully,",
+        "Sam Smith."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "i",
+                "start_idx": 319,
+                "end_idx": 320,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "for ",
+                "start_idx": 372,
+                "end_idx": 376,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "hour",
+                "start_idx": 631,
+                "end_idx": 635,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that hour may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "hours"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 696,
+                "end_idx": 697,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            }
+        ]
+    },
+    "submitter": "Aisha",
+    "num_words": 165,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "hence",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T16:15:36.989Z"
+}

@@ -1,0 +1,164 @@
+{
+    "url": "https://writing9.com/text/5f099fc0401ea400186c592f",
+    "file": "data\\5\\5f099fc0401ea400186c592f.json",
+    "topics": [
+        "people",
+        "friends",
+        "networks",
+        "internet",
+        "chat",
+        "groups",
+        "face",
+        "interaction"
+    ],
+    "question": ". Now a days people make new friends through social networks and Internet chat groups some people think this is good other think that face to face interaction is essential discuss both views and give your opinion",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In recent years, it is very common to make new friends online via social network platforms. People could easily do voice and video chats over the internet reducing the travel expenses and food or drinks they will inevitably buy while meeting face to face. However, some still believe that face to face interaction is still essential to truly express our opinion and feelings. Personally, I believe that online interactions not only enhances opinion sharing, but also deepens relationships between friends and family",
+        "People who advocate for face to face meetings are usually worried about not seeing small gestures that people give while they're talking. They also believe that online interactions doesn't provide the same feeling from that of a face to face meeting. As for me, I believe that the advancements in modern technologies like better microphones, cameras, and virtual reality will solve all of the concerns in long distance communication. Face to face meetings would only happen for large reunions or when people live close by.",
+        "Online interactions are the future of human interactions. It is cheaper and more time efficient than to travel long distances to see each other. With the COVID-19 pandemic, we saw the true capabilities of modern telecommunication technologies. With millions of people worldwide working from home and doing video conferrencing, I could not help but believe that this is the future for modern communications",
+        "In conclusion, making friends online is a frequent occurance in this day and age. Face to face meetings will soon become obsolete except in some cases and online interactions will truly be the future of human interactions."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "opinion",
+                "start_idx": 354,
+                "end_idx": 361,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "opinions"
+                ]
+            },
+            {
+                "word": "doesn't provide",
+                "start_idx": 697,
+                "end_idx": 712,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "don't provide"
+                ]
+            },
+            {
+                "word": "conferrencing",
+                "start_idx": 1351,
+                "end_idx": 1364,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "for",
+                "start_idx": 1419,
+                "end_idx": 1422,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "occurance",
+                "start_idx": 1496,
+                "end_idx": 1505,
+                "error": "an event that happens",
+                "error_des": "",
+                "suggetions": [
+                    "occurrence"
+                ]
+            }
+        ]
+    },
+    "submitter": "Fawis",
+    "num_words": 267,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "also",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "face",
+                "occurrences": [
+                    {
+                        "start_idx": 242,
+                        "end_idx": 246
+                    },
+                    {
+                        "start_idx": 250,
+                        "end_idx": 254
+                    },
+                    {
+                        "start_idx": 289,
+                        "end_idx": 293
+                    },
+                    {
+                        "start_idx": 297,
+                        "end_idx": 301
+                    },
+                    {
+                        "start_idx": 540,
+                        "end_idx": 544
+                    },
+                    {
+                        "start_idx": 548,
+                        "end_idx": 552
+                    },
+                    {
+                        "start_idx": 745,
+                        "end_idx": 749
+                    },
+                    {
+                        "start_idx": 753,
+                        "end_idx": 757
+                    },
+                    {
+                        "start_idx": 958,
+                        "end_idx": 962
+                    },
+                    {
+                        "start_idx": 1535,
+                        "end_idx": 1539
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-11T11:17:22.789Z"
+}

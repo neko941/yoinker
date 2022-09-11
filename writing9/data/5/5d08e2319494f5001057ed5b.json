@@ -1,0 +1,731 @@
+{
+    "url": "https://writing9.com/text/5d08e2319494f5001057ed5b",
+    "file": "data\\5\\5d08e2319494f5001057ed5b.json",
+    "topics": [
+        "traffic",
+        "congestion",
+        "city",
+        "transport",
+        "hours"
+    ],
+    "question": "The best way to solve the traffic congestion in the city is to provide free public transport 24hours a day \nAgree or disagree",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays,traffic congestion has become a global issue.To tackel this problem,some pepople think that law of enforcement agencies should provide free of cost transport round the clock.l partially agree with this given statement because I do not think that hit is a viable contribution to resolve the traffic jam problem",
+        "Firstly,arangment of free vehicles for so many people for a long period mean direct effect of budget.to be more obvious ,it would be a huge burrdon on budget and certainly becomes difficult to manage .secondly , arranging transport at no cost will directely effect the comfort fector of passenger.when a large no of people rush towards govt.provided facility it would cause restless to the commuters and less fruquncy would cause ulong standing for passengers.again ,condition become worse and people will tend to use thier private vehical.for instance,Lahore is thickly populated city of Pakistan.here govt has started a program of metro bus service to attract the people towards public transport and to decrease the private automobiles on the road.but,this resulted complete failure for attaining the main goal.hence,this project became a white elephant for Pakistan burocracy.",
+        "On the flip side,it would be more effective to construct wider roads as well as New network of roads to provide better Space for vehicals that would be a milestones in controling the low sepace problem.in addition ,law of enforcement agencies should keep in view the comfort of trevler as well as the frequency of buses and train but the charges should keep minmum as compeared to private conviance.so people will surely attrect towards government transport",
+        "To sum up ,government should adopet the new mathods of construction roads and provion of viable transport for the ease of public at low cost rather than providing uncomfortable means of transport at no cost to make people more anoxious ."
+    ],
+    "errors": {
+        "num_error": "61",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 8,
+                "end_idx": 9,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "tackel",
+                "start_idx": 57,
+                "end_idx": 63,
+                "error": "accept as a challenge",
+                "error_des": "",
+                "suggetions": [
+                    "tackle"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 76,
+                "end_idx": 77,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "pepople",
+                "start_idx": 82,
+                "end_idx": 89,
+                "error": "(plural) any group of human beings (men or women or children) collectively",
+                "error_des": "",
+                "suggetions": [
+                    "people"
+                ]
+            },
+            {
+                "word": "l",
+                "start_idx": 183,
+                "end_idx": 184,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "L"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 327,
+                "end_idx": 328,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "arangment",
+                "start_idx": 328,
+                "end_idx": 337,
+                "error": "the thing arranged or agreed to",
+                "error_des": "",
+                "suggetions": [
+                    "arrangement"
+                ]
+            },
+            {
+                "word": "free",
+                "start_idx": 341,
+                "end_idx": 345,
+                "error": "being one more than two",
+                "error_des": "",
+                "suggetions": [
+                    "three"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 421,
+                "end_idx": 423,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "To"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 439,
+                "end_idx": 441,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "burrdon",
+                "start_idx": 460,
+                "end_idx": 467,
+                "error": "an onerous or difficult concern",
+                "error_des": "",
+                "suggetions": [
+                    "burden"
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 519,
+                "end_idx": 521,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            },
+            {
+                "word": "secondly",
+                "start_idx": 521,
+                "end_idx": 529,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Secondly"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 529,
+                "end_idx": 531,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "directely",
+                "start_idx": 568,
+                "end_idx": 577,
+                "error": "without deviation",
+                "error_des": "",
+                "suggetions": [
+                    "directly"
+                ]
+            },
+            {
+                "word": "effect",
+                "start_idx": 578,
+                "end_idx": 584,
+                "error": "have an effect upon",
+                "error_des": "",
+                "suggetions": [
+                    "affect"
+                ]
+            },
+            {
+                "word": "fector",
+                "start_idx": 597,
+                "end_idx": 603,
+                "error": "anything that contributes causally to a result",
+                "error_des": "",
+                "suggetions": [
+                    "factor",
+                    "factors"
+                ]
+            },
+            {
+                "word": "when",
+                "start_idx": 617,
+                "end_idx": 621,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "When"
+                ]
+            },
+            {
+                "word": "govt",
+                "start_idx": 656,
+                "end_idx": 660,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "provided",
+                "start_idx": 661,
+                "end_idx": 669,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Provided"
+                ]
+            },
+            {
+                "word": "facility it",
+                "start_idx": 670,
+                "end_idx": 681,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "facility, it"
+                ]
+            },
+            {
+                "word": "fruquncy",
+                "start_idx": 729,
+                "end_idx": 737,
+                "error": "the number of occurrences within a given time period",
+                "error_des": "",
+                "suggetions": [
+                    "frequency"
+                ]
+            },
+            {
+                "word": "ulong",
+                "start_idx": 750,
+                "end_idx": 755,
+                "error": "primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified",
+                "error_des": "",
+                "suggetions": [
+                    "long",
+                    "along"
+                ]
+            },
+            {
+                "word": "again",
+                "start_idx": 780,
+                "end_idx": 785,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Again"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 785,
+                "end_idx": 787,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "condition",
+                "start_idx": 787,
+                "end_idx": 796,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the condition"
+                ]
+            },
+            {
+                "word": "become",
+                "start_idx": 797,
+                "end_idx": 803,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "becomes"
+                ]
+            },
+            {
+                "word": "thier",
+                "start_idx": 838,
+                "end_idx": 843,
+                "error": "of them or themselves",
+                "error_des": "",
+                "suggetions": [
+                    "their"
+                ]
+            },
+            {
+                "word": "vehical",
+                "start_idx": 852,
+                "end_idx": 859,
+                "error": "a conveyance that transports people or objects",
+                "error_des": "",
+                "suggetions": [
+                    "vehicle",
+                    "vehicles"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 860,
+                "end_idx": 863,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "For"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 872,
+                "end_idx": 873,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "thickly populated city",
+                "start_idx": 883,
+                "end_idx": 905,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a thickly populated city"
+                ]
+            },
+            {
+                "word": "here",
+                "start_idx": 918,
+                "end_idx": 922,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Here"
+                ]
+            },
+            {
+                "word": "govt",
+                "start_idx": 923,
+                "end_idx": 927,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "but",
+                "start_idx": 1070,
+                "end_idx": 1073,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "But"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1073,
+                "end_idx": 1074,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 1105,
+                "end_idx": 1108,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "hence",
+                "start_idx": 1133,
+                "end_idx": 1138,
+                "error": "(used to introduce a logical conclusion) from that fact or reason or as a result",
+                "error_des": "",
+                "suggetions": [
+                    "Hence"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1138,
+                "end_idx": 1139,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "burocracy",
+                "start_idx": 1189,
+                "end_idx": 1198,
+                "error": "nonelective government officials",
+                "error_des": "",
+                "suggetions": [
+                    "bureaucracy"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1216,
+                "end_idx": 1217,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "vehicals",
+                "start_idx": 1329,
+                "end_idx": 1337,
+                "error": "a conveyance that transports people or objects",
+                "error_des": "",
+                "suggetions": [
+                    "vehicles"
+                ]
+            },
+            {
+                "word": "milestones",
+                "start_idx": 1354,
+                "end_idx": 1364,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "milestone"
+                ]
+            },
+            {
+                "word": "controling",
+                "start_idx": 1368,
+                "end_idx": 1378,
+                "error": "able to control or determine policy",
+                "error_des": "",
+                "suggetions": [
+                    "controlling"
+                ]
+            },
+            {
+                "word": "sepace",
+                "start_idx": 1387,
+                "end_idx": 1393,
+                "error": "the unlimited expanse in which everything is located",
+                "error_des": "",
+                "suggetions": [
+                    "space",
+                    "spec"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 1402,
+                "end_idx": 1404,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "In"
+                ]
+            },
+            {
+                "word": "addition ,law of",
+                "start_idx": 1405,
+                "end_idx": 1421,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "addition, law"
+                ]
+            },
+            {
+                "word": "trevler",
+                "start_idx": 1478,
+                "end_idx": 1485,
+                "error": "a person who changes location",
+                "error_des": "",
+                "suggetions": [
+                    "travellers"
+                ]
+            },
+            {
+                "word": "train but",
+                "start_idx": 1524,
+                "end_idx": 1533,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "train, but"
+                ]
+            },
+            {
+                "word": "minmum",
+                "start_idx": 1558,
+                "end_idx": 1564,
+                "error": "the least possible",
+                "error_des": "",
+                "suggetions": [
+                    "minimum"
+                ]
+            },
+            {
+                "word": "compeared",
+                "start_idx": 1568,
+                "end_idx": 1577,
+                "error": "examine and note the similarities or differences of",
+                "error_des": "",
+                "suggetions": [
+                    "compared"
+                ]
+            },
+            {
+                "word": "conviance",
+                "start_idx": 1589,
+                "end_idx": 1598,
+                "error": "motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions",
+                "error_des": "",
+                "suggetions": [
+                    "conscience",
+                    "convince"
+                ]
+            },
+            {
+                "word": "so",
+                "start_idx": 1599,
+                "end_idx": 1601,
+                "error": "to a very great extent or degree",
+                "error_des": "",
+                "suggetions": [
+                    "So"
+                ]
+            },
+            {
+                "word": "attrect",
+                "start_idx": 1621,
+                "end_idx": 1628,
+                "error": "direct toward itself or oneself by means of some psychological power or physical attributes",
+                "error_des": "",
+                "suggetions": [
+                    "attract",
+                    "attest",
+                    "attracts"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 1668,
+                "end_idx": 1670,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "government",
+                "start_idx": 1670,
+                "end_idx": 1680,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the government"
+                ]
+            },
+            {
+                "word": "adopet",
+                "start_idx": 1688,
+                "end_idx": 1694,
+                "error": "choose and follow; as of theories, ideas, policies, strategies or plans",
+                "error_des": "",
+                "suggetions": [
+                    "adopt"
+                ]
+            },
+            {
+                "word": "mathods",
+                "start_idx": 1703,
+                "end_idx": 1710,
+                "error": "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",
+                "error_des": "",
+                "suggetions": [
+                    "methods",
+                    "method"
+                ]
+            },
+            {
+                "word": "provion",
+                "start_idx": 1737,
+                "end_idx": 1744,
+                "error": "a stipulated condition",
+                "error_des": "",
+                "suggetions": [
+                    "provision"
+                ]
+            },
+            {
+                "word": "anoxious",
+                "start_idx": 1886,
+                "end_idx": 1894,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a noxious"
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 1894,
+                "end_idx": 1896,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            }
+        ]
+    },
+    "submitter": "Serhii Baraniuk",
+    "num_words": 300,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "this",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "transport",
+                "occurrences": [
+                    {
+                        "start_idx": 157,
+                        "end_idx": 166
+                    },
+                    {
+                        "start_idx": 541,
+                        "end_idx": 550
+                    },
+                    {
+                        "start_idx": 1007,
+                        "end_idx": 1016
+                    },
+                    {
+                        "start_idx": 1647,
+                        "end_idx": 1656
+                    },
+                    {
+                        "start_idx": 1753,
+                        "end_idx": 1762
+                    },
+                    {
+                        "start_idx": 1843,
+                        "end_idx": 1852
+                    }
+                ]
+            },
+            {
+                "word": "cost",
+                "occurrences": [
+                    {
+                        "start_idx": 152,
+                        "end_idx": 156
+                    },
+                    {
+                        "start_idx": 557,
+                        "end_idx": 561
+                    },
+                    {
+                        "start_idx": 1793,
+                        "end_idx": 1797
+                    },
+                    {
+                        "start_idx": 1859,
+                        "end_idx": 1863
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-18T13:08:01.000Z"
+}

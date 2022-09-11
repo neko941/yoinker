@@ -1,0 +1,135 @@
+{
+    "url": "https://writing9.com/text/5c9f043825d89068d5149c0f",
+    "file": "data\\7\\5c9f043825d89068d5149c0f.json",
+    "topics": [
+        "school",
+        "children",
+        "teachers",
+        "influence",
+        "intelligence",
+        "development",
+        "parents"
+    ],
+    "question": "For school children, their teachers have more influence on their intelligence and social development than their parents. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many people argue that teachers play a greater role in children\u2019s intelligence and social development than their parents. While I agree that teachers may be more influential in their students\u2019 intelligence, I would believe parents are mainly responsible for the social development of their children.",
+        "On the one hand, it is undeniable that teachers are those who have been trained to impart knowledge to their pupils in a variety of creative teaching methods. As a result, it is undoubtedly a contributing factor to the intellectual development of children. In addition, some teachers are capable of stimulating intelligence. For instance, many youngsters are interested in and become good at a particular subject because of their dedicated teachers who taught this discipline in secondary school.",
+        "On the other hand, I suppose that parents have greater responsibilities for their children\u2019s social development due to several reasons. Firstly, there is no doubt that children spend more time with their families than their teachers. Therefore, parents can monitor the activities and guide the behaviors of their child in a positive way, especially outside school hours, at weekends and during holidays. Secondly, parents can be role models for their children in a wide range of social situations. These might include how to show respects to the older people, choice of friends and proper behaviors when in public such as eating out in a restaurant.",
+        "In conclusion, for all reasons mentioned above, I would maintain that teachers have more impacts on the intellectual development of school students, while parents play the major role in their children\u2019s social development."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "behaviors",
+                "start_idx": 1091,
+                "end_idx": 1100,
+                "error": "manner of acting or controlling yourself",
+                "error_des": "",
+                "suggetions": [
+                    "behaviour"
+                ]
+            },
+            {
+                "word": "respects",
+                "start_idx": 1327,
+                "end_idx": 1335,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "respect"
+                ]
+            },
+            {
+                "word": "behaviors",
+                "start_idx": 1386,
+                "end_idx": 1395,
+                "error": "manner of acting or controlling yourself",
+                "error_des": "",
+                "suggetions": [
+                    "behaviour"
+                ]
+            }
+        ]
+    },
+    "submitter": "nhaianh27",
+    "num_words": 261,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "on the other hand",
+            "this",
+            "as a result",
+            "such",
+            "in addition",
+            "therefore",
+            "for instance",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "development",
+                "occurrences": [
+                    {
+                        "start_idx": 90,
+                        "end_idx": 101
+                    },
+                    {
+                        "start_idx": 269,
+                        "end_idx": 280
+                    },
+                    {
+                        "start_idx": 532,
+                        "end_idx": 543
+                    },
+                    {
+                        "start_idx": 897,
+                        "end_idx": 908
+                    },
+                    {
+                        "start_idx": 1564,
+                        "end_idx": 1575
+                    },
+                    {
+                        "start_idx": 1657,
+                        "end_idx": 1668
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-30T05:52:56.000Z"
+}

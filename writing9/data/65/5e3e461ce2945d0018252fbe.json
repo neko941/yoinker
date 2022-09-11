@@ -1,0 +1,244 @@
+{
+    "url": "https://writing9.com/text/5e3e461ce2945d0018252fbe-you-have-just-been-offered-a-place-on-a-short",
+    "file": "data\\65\\5e3e461ce2945d0018252fbe.json",
+    "topics": [
+        "place",
+        "course",
+        "town",
+        "friend",
+        "news",
+        "life",
+        "time"
+    ],
+    "question": "You have just been offered a place on a short training course in a small seaside town where a friend of yours is living. Write a letter to your friend. In your letter:\n1. Greet your friend and tell your friend the good news\n2. Ask your friend about life in the seaside town\n3. Arrange a time to meet your friend before you start the course",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Hi Tim,",
+        "I have some exciting news, I have been granted an opportunity to participate to a short training course in Adelaide by April of this year. I'm  thrilled to see you and experience living in your lovely place.",
+        "What excites the most, apart from meeting you, are the many wonderful adventures I have yet to try while I'm there.  I'm looking forward to go to Glenelg Beach after training and on weekends, I would like to travel a bit father away and explore Mount Lofty. Are there any other destinations you might be able to recommend? How about food? Where do you usually go for dinner? I like Vietnamese and Thai food, do you have any good restaurants that I might be able to try?",
+        "I'm also anticipating to meet with you shortly upon my arrival. When do you suggest we catch up? It's been ages since we were able to hang out over a cup of coffee so we definitely have to make up for lost time. Let me know so we can arrange the time and date for our meeting.",
+        "Kind regards,",
+        "Cecilia"
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "to",
+                "start_idx": 85,
+                "end_idx": 87,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 230,
+                "end_idx": 230,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "me the"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 230,
+                "end_idx": 233,
+                "error": "Correct your spelling",
+                "error_des": "The word the doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "them"
+                ]
+            },
+            {
+                "word": "go",
+                "start_idx": 357,
+                "end_idx": 359,
+                "error": "Change the verb form",
+                "error_des": "The verb go is usually in the gerund form when following the word looking forward to. Consider replacing it with the -ing form.",
+                "suggetions": [
+                    "going"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 438,
+                "end_idx": 438,
+                "error": "Correct your spelling",
+                "error_des": "The word father doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "farther"
+                ]
+            },
+            {
+                "word": "father",
+                "start_idx": 438,
+                "end_idx": 444,
+                "error": "Correct your spelling",
+                "error_des": "The word father doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "farther"
+                ]
+            },
+            {
+                "word": "to meet",
+                "start_idx": 711,
+                "end_idx": 718,
+                "error": "Change the verb form",
+                "error_des": "To meet doesn\u2019t seem to work here.",
+                "suggetions": [
+                    "meeting"
+                ]
+            },
+            {
+                "word": "lost",
+                "start_idx": 890,
+                "end_idx": 894,
+                "error": "Add an article",
+                "error_des": "The noun phrase lost time seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a lost",
+                    "the lost"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 186,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "m",
+                "occurrences": [
+                    {
+                        "start_idx": 5,
+                        "end_idx": 6
+                    },
+                    {
+                        "start_idx": 17,
+                        "end_idx": 18
+                    },
+                    {
+                        "start_idx": 149,
+                        "end_idx": 150
+                    },
+                    {
+                        "start_idx": 233,
+                        "end_idx": 234
+                    },
+                    {
+                        "start_idx": 248,
+                        "end_idx": 249
+                    },
+                    {
+                        "start_idx": 250,
+                        "end_idx": 251
+                    },
+                    {
+                        "start_idx": 271,
+                        "end_idx": 272
+                    },
+                    {
+                        "start_idx": 323,
+                        "end_idx": 324
+                    },
+                    {
+                        "start_idx": 335,
+                        "end_idx": 336
+                    },
+                    {
+                        "start_idx": 511,
+                        "end_idx": 512
+                    },
+                    {
+                        "start_idx": 532,
+                        "end_idx": 533
+                    },
+                    {
+                        "start_idx": 533,
+                        "end_idx": 534
+                    },
+                    {
+                        "start_idx": 604,
+                        "end_idx": 605
+                    },
+                    {
+                        "start_idx": 664,
+                        "end_idx": 665
+                    },
+                    {
+                        "start_idx": 688,
+                        "end_idx": 689
+                    },
+                    {
+                        "start_idx": 711,
+                        "end_idx": 712
+                    },
+                    {
+                        "start_idx": 738,
+                        "end_idx": 739
+                    },
+                    {
+                        "start_idx": 875,
+                        "end_idx": 876
+                    },
+                    {
+                        "start_idx": 894,
+                        "end_idx": 895
+                    },
+                    {
+                        "start_idx": 902,
+                        "end_idx": 903
+                    },
+                    {
+                        "start_idx": 934,
+                        "end_idx": 935
+                    },
+                    {
+                        "start_idx": 954,
+                        "end_idx": 955
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T18:52:01.682Z"
+}

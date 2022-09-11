@@ -1,0 +1,335 @@
+{
+    "url": "https://writing9.com/text/5d444636a93d1f0017e276a8",
+    "file": "data\\6\\5d444636a93d1f0017e276a8.json",
+    "topics": [
+        "people",
+        "impact",
+        "world",
+        "work",
+        "idea",
+        "\u201cwork-life",
+        "balance\u201d",
+        "work-life",
+        "balance",
+        "minutes"
+    ],
+    "question": "It has been noted that many people who had a big impact on the world gave themselves completely to their work and did not bother with the idea of \u201cwork-life balance\u201d. To what extent should people try to have a good work-life balance?\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\n\nYou should spend about 40 minutes on this task.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 5.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A good balance between life and career is very paramount to a healthy life. Most influential people are so caught up in trying to make a difference that they forget to actually live. I believe that people should strongly strive to achieve a healthy work-life balance and the reasons for my opinion will be discussed in the following paragraphs.",
+        "To start with, it is important to maintain a good balance between work and life to avoid depression.  Working continuously without any time to stop and relax can cause depression. This is because work can isolate an individual from family and friends, and as much as work is important, it is essential that people learn to relax and mingle with other people in order to de-stress themselves of the pressure of work. For example, the Department of Psychology at the University of Ibadan reported that 90 % of patients who were diagnosed of depression at the Psychatric unit of the University Teaching Hospital in 2017 were top level officials in their various fields. This report suggests that workaholics are prone to depression, and emphasizes the need for individuals to take the issue of work-life balance seriously.",
+        "Another reason why a healthy work-life balance is important is that working too much has been linked to health issues. People who fail to find a way of balancing their career with health-promoting activities are prone to different diseases and disorders. For instance, a friend who works in the Operation unit of a bank has just been diagnosed with arthritis which usually occurs as a result of sitting still for a long period of time. The doctor established that the condition was due to her work and lifestyle. This could have been prevented if she had tried to engage in fitness activities after work instead of just going home to return the following day for another cycle of work.",
+        "In addition, a poor work-life balance can lead to family issues, particularly for married individuals. Too much work can take married career individuals away from their families. Having a life outside work means they can spend quality time with their family and this would strengthen the bond in marriage. There are reports that most high achieving individuals often fail in their marriages, and this trend has been linked to the total commitment they exhibit towards their career.",
+        "In conclusion,  it is very important that people consciously strive to achieve a very good balance between work and life in order to prevent depression, promote healthy living, and strenghten family bond."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "work",
+                "start_idx": 542,
+                "end_idx": 546,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the work"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 882,
+                "end_idx": 884,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "Psychatric",
+                "start_idx": 903,
+                "end_idx": 913,
+                "error": "relating to or used in or engaged in the practice of psychiatry",
+                "error_des": "",
+                "suggetions": [
+                    "psychiatric"
+                ]
+            },
+            {
+                "word": "married ",
+                "start_idx": 1980,
+                "end_idx": 1988,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "married, career"
+                ]
+            },
+            {
+                "word": "strenghten",
+                "start_idx": 2518,
+                "end_idx": 2528,
+                "error": "make strong or stronger",
+                "error_des": "",
+                "suggetions": [
+                    "strengthen"
+                ]
+            },
+            {
+                "word": "family bond",
+                "start_idx": 2529,
+                "end_idx": 2540,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the family bond",
+                    "family bonds"
+                ]
+            }
+        ]
+    },
+    "submitter": "sayosola1013",
+    "num_words": 423,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for instance",
+            "as a result",
+            "for example",
+            "instead",
+            "in addition",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "6",
+        "list_repeated_words": [
+            {
+                "word": "depression",
+                "occurrences": [
+                    {
+                        "start_idx": 434,
+                        "end_idx": 444
+                    },
+                    {
+                        "start_idx": 513,
+                        "end_idx": 523
+                    },
+                    {
+                        "start_idx": 884,
+                        "end_idx": 894
+                    },
+                    {
+                        "start_idx": 1063,
+                        "end_idx": 1073
+                    },
+                    {
+                        "start_idx": 2474,
+                        "end_idx": 2484
+                    }
+                ]
+            },
+            {
+                "word": "balance",
+                "occurrences": [
+                    {
+                        "start_idx": 7,
+                        "end_idx": 14
+                    },
+                    {
+                        "start_idx": 259,
+                        "end_idx": 266
+                    },
+                    {
+                        "start_idx": 395,
+                        "end_idx": 402
+                    },
+                    {
+                        "start_idx": 1146,
+                        "end_idx": 1153
+                    },
+                    {
+                        "start_idx": 1204,
+                        "end_idx": 1211
+                    },
+                    {
+                        "start_idx": 1881,
+                        "end_idx": 1888
+                    },
+                    {
+                        "start_idx": 2424,
+                        "end_idx": 2431
+                    }
+                ]
+            },
+            {
+                "word": "career",
+                "occurrences": [
+                    {
+                        "start_idx": 32,
+                        "end_idx": 38
+                    },
+                    {
+                        "start_idx": 1333,
+                        "end_idx": 1339
+                    },
+                    {
+                        "start_idx": 1985,
+                        "end_idx": 1991
+                    },
+                    {
+                        "start_idx": 2325,
+                        "end_idx": 2331
+                    }
+                ]
+            },
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 249,
+                        "end_idx": 253
+                    },
+                    {
+                        "start_idx": 411,
+                        "end_idx": 415
+                    },
+                    {
+                        "start_idx": 541,
+                        "end_idx": 545
+                    },
+                    {
+                        "start_idx": 612,
+                        "end_idx": 616
+                    },
+                    {
+                        "start_idx": 755,
+                        "end_idx": 759
+                    },
+                    {
+                        "start_idx": 1038,
+                        "end_idx": 1042
+                    },
+                    {
+                        "start_idx": 1136,
+                        "end_idx": 1140
+                    },
+                    {
+                        "start_idx": 1194,
+                        "end_idx": 1198
+                    },
+                    {
+                        "start_idx": 1233,
+                        "end_idx": 1237
+                    },
+                    {
+                        "start_idx": 1447,
+                        "end_idx": 1451
+                    },
+                    {
+                        "start_idx": 1658,
+                        "end_idx": 1662
+                    },
+                    {
+                        "start_idx": 1764,
+                        "end_idx": 1768
+                    },
+                    {
+                        "start_idx": 1845,
+                        "end_idx": 1849
+                    },
+                    {
+                        "start_idx": 1871,
+                        "end_idx": 1875
+                    },
+                    {
+                        "start_idx": 1963,
+                        "end_idx": 1967
+                    },
+                    {
+                        "start_idx": 2052,
+                        "end_idx": 2056
+                    },
+                    {
+                        "start_idx": 2440,
+                        "end_idx": 2444
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 23,
+                        "end_idx": 27
+                    },
+                    {
+                        "start_idx": 70,
+                        "end_idx": 74
+                    },
+                    {
+                        "start_idx": 254,
+                        "end_idx": 258
+                    },
+                    {
+                        "start_idx": 420,
+                        "end_idx": 424
+                    },
+                    {
+                        "start_idx": 1141,
+                        "end_idx": 1145
+                    },
+                    {
+                        "start_idx": 1199,
+                        "end_idx": 1203
+                    },
+                    {
+                        "start_idx": 1667,
+                        "end_idx": 1671
+                    },
+                    {
+                        "start_idx": 1876,
+                        "end_idx": 1880
+                    },
+                    {
+                        "start_idx": 2039,
+                        "end_idx": 2043
+                    },
+                    {
+                        "start_idx": 2449,
+                        "end_idx": 2453
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-02T14:18:30.917Z"
+}

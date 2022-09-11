@@ -1,0 +1,118 @@
+{
+    "url": "https://writing9.com/text/5f8c0b391a209400192cdbc9-scientists-predict-in-the-near-future-cars-will",
+    "file": "data\\7\\5f8c0b391a209400192cdbc9.json",
+    "topics": [
+        "scientists",
+        "future",
+        "cars",
+        "computers",
+        "people",
+        "development"
+    ],
+    "question": "Scientists  predict  in the near future cars will be driven by computers, not people. Do you think this is positive development and negative development.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is undeniable that technologies play a huge role in human life such as the internet, cars, or air plants. Thus, scientists think that in the near future we will have an auto-mobile car is not overstatements. Some people believe this development might cause some bad influence while others believe that people have to keep moving. From my point of view the computer drive car might not be a bad idea. in the following paragraph, the reason to support my opinion will be discussed in the detailed.",
+        "To begin with, human always tries to earn benefits despises the fact that they have to break the law. For example, in a hurry hour, many people when they drive to the traffic light and  see a yellow light. they think that they might run through before the red light. this event had been causing lots of car accident. For this reason, to let a robot drive our car will be much safer. Further more people are able to spend their driving time for something more effective such as spent time with their family or marketing meeting while they on their journey.",
+        "On the other hand, due to improving technologies, people are getting too relax and comfortable. This cause overalls public health decreasing. To illustrate, a few decades ago, students have to go to a library to borrow books or do their research however they can stay home and surf the internet.",
+        "In conclusion,  automobile transport has both positive and negative development. I strongly believe that the positive outweighs the negative development."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": " ",
+                "start_idx": 354,
+                "end_idx": 355,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase From my point of view. Consider adding a comma.",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "Further more",
+                "start_idx": 882,
+                "end_idx": 894,
+                "error": "Correct your spelling",
+                "error_des": "The word Further more seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "Furthermore"
+                ]
+            }
+        ]
+    },
+    "submitter": "o_unanan",
+    "num_words": 259,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "for example",
+            "however",
+            "this",
+            "to begin",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "car",
+                "occurrences": [
+                    {
+                        "start_idx": 88,
+                        "end_idx": 91
+                    },
+                    {
+                        "start_idx": 184,
+                        "end_idx": 187
+                    },
+                    {
+                        "start_idx": 374,
+                        "end_idx": 377
+                    },
+                    {
+                        "start_idx": 802,
+                        "end_idx": 805
+                    },
+                    {
+                        "start_idx": 858,
+                        "end_idx": 861
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-10-18T11:10:32.605Z"
+}

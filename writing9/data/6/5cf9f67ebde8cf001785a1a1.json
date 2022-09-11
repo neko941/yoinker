@@ -1,0 +1,121 @@
+{
+    "url": "https://writing9.com/text/5cf9f67ebde8cf001785a1a1",
+    "file": "data\\6\\5cf9f67ebde8cf001785a1a1.json",
+    "topics": [
+        "activities",
+        "effects",
+        "plant",
+        "species",
+        "people",
+        "measures"
+    ],
+    "question": "Human activities have negative effects on the plant and animal species. Some people think it is too late to do anything about this problem. Others believe that effective measures can be taken to improve this question. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There is no doubt that human interventions have had direly adverse impacts on both flora and fauna. People have divided opinions while discussing possible mitigation measures, as some people believe that the problem so extensive that it is out of our hands, while others believe that there is still hope to alleviate present conditions. In this essay, I will discuss both sides of this argument and present my views.",
+        "The extent of harm that human actions have instigated on existing ecosystems is a major cause for concern. The main reason that some people think that the damage is irreversible is the clear evidence shown by researchers. For example, the Northern Cod, which is a fish native to Canadian oceans, came dangerously close to extinction as a result of overfishing. It has also been proven that several plant species have depleted in large numbers, as a result of logging operations which account for the production of a majority of wood and paper products.",
+        "However, it is believed by some that conditions can be improved with extensive changes on the global scale, starting with enforcing stringent conservation and preservation policies. Several countries have already begun implementing this tactic. For instance, most European countries have begun reintroducing species to their native habitats. One of the species that were reintroduced is the Lynx, and a drastic improvement has been recorded in the number of these animals. Another measure being taken is the introduction of high-density developments in cities, in order to control urban sprawl, which had led to the destruction of natural habitats in the past.",
+        "Having examined both sides of the argument, it is my opinion that if strategic counteractive measures continue to be implemented worldwide, it is possible to reverse the damage done to these species. These efforts will likely prove to be time consuming and will require a tremendous amount of resources. However, it is vital that the human population remain undeterred and keep taking strides in the positive direction, in order to ensure the survival of all living creatures on our planet."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "overfishing",
+                "start_idx": 766,
+                "end_idx": 777,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "operations which",
+                "start_idx": 885,
+                "end_idx": 901,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "operations, which"
+                ]
+            },
+            {
+                "word": "remain",
+                "start_idx": 1985,
+                "end_idx": 1991,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "remains"
+                ]
+            }
+        ]
+    },
+    "submitter": "nivj14",
+    "num_words": 342,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for instance",
+            "as a result",
+            "for example",
+            "however",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "species",
+                "occurrences": [
+                    {
+                        "start_idx": 821,
+                        "end_idx": 828
+                    },
+                    {
+                        "start_idx": 1278,
+                        "end_idx": 1285
+                    },
+                    {
+                        "start_idx": 1323,
+                        "end_idx": 1330
+                    },
+                    {
+                        "start_idx": 1822,
+                        "end_idx": 1829
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-07T05:30:38.000Z"
+}

@@ -1,0 +1,208 @@
+{
+    "url": "https://writing9.com/text/5cb5ad4909747c21979ab056",
+    "file": "data\\4\\5cb5ad4909747c21979ab056.json",
+    "topics": [
+        "countries",
+        "weight",
+        "people",
+        "levels",
+        "health",
+        "fitness",
+        "measures"
+    ],
+    "question": "In some countries the average weight of people is increasing and their levels of health and fitness\nare decreasing. What do you think are the causes of these problems and what measures could be\ntaken to solve them?",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 4.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In few countries the health and fitness of the people is in a downward trend and their average body weight is going up at the same time. There are many causes that led to this epidemic, collective effort is needed from both the government and the people to deal with the challenge.",
+        "One of the main reasons for the obesity is unhealthy food habits, multinational food corporations launching their fast food stores at an exponential pace because of which people are getting easy access to the unhealthy and fatty foods. Nowadays the fast food and the sugary drinks are becoming cheaper than fresh vegetables, and this trend encourages everyone to continue with the unhealthy diet. In the developing countries like India, the strict regulations are not in place for the big corporations. For example, none of the companies show the calorie count of the food on the menu card and authorities should make a law that forces the companies to display it all the time.",
+        "Another important aspect that lead to the increase obesity levels is lack of the physical activity. Schools are concentrating and investing more on academia, while ignoring the physical education. The companies are forcing the employees to work longer hours and not giving the damn about their health. The authorities should make the physical education mandatory in the school academics, the companies must restrict the work hours and encourage the workforce to be fit.",
+        "People awareness is the key parameter in winning the battle against the epidemic, the government should play a crucial role in educating the public about the benefits of healthy balanced diet and cardio vascular exercises."
+    ],
+    "errors": {
+        "num_error": "11",
+        "error_list": [
+            {
+                "word": "few countries",
+                "start_idx": 3,
+                "end_idx": 16,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a few countries"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 54,
+                "end_idx": 56,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "the strict",
+                "start_idx": 720,
+                "end_idx": 730,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "stricter"
+                ]
+            },
+            {
+                "word": "lead",
+                "start_idx": 992,
+                "end_idx": 996,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "leads"
+                ]
+            },
+            {
+                "word": "the increase obesity",
+                "start_idx": 1000,
+                "end_idx": 1020,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the increase in obesity"
+                ]
+            },
+            {
+                "word": "lack",
+                "start_idx": 1031,
+                "end_idx": 1035,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the lack"
+                ]
+            },
+            {
+                "word": "school academics",
+                "start_idx": 1332,
+                "end_idx": 1348,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "school, academics"
+                ]
+            },
+            {
+                "word": "work",
+                "start_idx": 1382,
+                "end_idx": 1386,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "working"
+                ]
+            },
+            {
+                "word": "People",
+                "start_idx": 1433,
+                "end_idx": 1439,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Person's"
+                ]
+            },
+            {
+                "word": "healthy balanced diet",
+                "start_idx": 1603,
+                "end_idx": 1624,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a healthy balanced diet"
+                ]
+            },
+            {
+                "word": "cardio vascular",
+                "start_idx": 1629,
+                "end_idx": 1644,
+                "error": "of or pertaining to or involving the heart and blood vessels",
+                "error_des": "",
+                "suggetions": [
+                    "cardiovascular"
+                ]
+            }
+        ]
+    },
+    "submitter": "arjun.reddy",
+    "num_words": 273,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "this",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 335,
+                        "end_idx": 339
+                    },
+                    {
+                        "start_idx": 362,
+                        "end_idx": 366
+                    },
+                    {
+                        "start_idx": 401,
+                        "end_idx": 405
+                    },
+                    {
+                        "start_idx": 511,
+                        "end_idx": 515
+                    },
+                    {
+                        "start_idx": 536,
+                        "end_idx": 540
+                    },
+                    {
+                        "start_idx": 850,
+                        "end_idx": 854
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-16T10:24:09.000Z"
+}

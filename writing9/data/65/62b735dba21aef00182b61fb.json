@@ -1,0 +1,153 @@
+{
+    "url": "https://writing9.com/text/62b735dba21aef00182b61fb-a-friend-has-agreed-to-look-after-your-house-and",
+    "file": "data\\65\\62b735dba21aef00182b61fb.json",
+    "topics": [
+        "friend",
+        "house",
+        "pet",
+        "holiday",
+        "contact",
+        "instructions",
+        "care",
+        "household",
+        "duties"
+    ],
+    "question": "A friend has agreed to look after your house and pet while you are on holiday. Write a letter to your friend.\n\n\nIn your letter\n\n\ngive contact details for when you are awaygive instructions about how to care for your petdescribe other household duties",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sam,",
+        "Hope you are doing well. I was elated to know that you are comfortable to stay at my place while I'm on a vacation.",
+        "My tour is scheduled from the first to ninth of July. Although my mobile network might be erratic, you may connect to my tour guide incase of any emergency. I will leave his details on my white board which is placed in the kitchen. As you are familiar with my dog, you will absolutely enjoy his company. You will need to feed him twice and take for him for a morning walk.",
+        "Apart from that, please don't forget to water my plants. You may need to clean the house every alternate days because my apartment gets dirty as it is closer to a construction site. Lastly, please check for the letters in the mailbox on the weekends as it usually gets delivered on Saturdays.",
+        "I will be stress-free during my trip because you are ready to take care of my belongings. Let me know if you need to know anything else.",
+        "Best wishes,",
+        "Devika"
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "to stay",
+                "start_idx": 81,
+                "end_idx": 88,
+                "error": "Change the verb form",
+                "error_des": "To stay doesn\u2019t seem to work here.",
+                "suggetions": [
+                    "staying"
+                ]
+            },
+            {
+                "word": "ninth",
+                "start_idx": 165,
+                "end_idx": 170,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the ninth"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 258,
+                "end_idx": 258,
+                "error": "Correct your spelling",
+                "error_des": "The word incase doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "in case"
+                ]
+            },
+            {
+                "word": "incase",
+                "start_idx": 258,
+                "end_idx": 264,
+                "error": "Correct your spelling",
+                "error_des": "The word incase doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "in case"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 314,
+                "end_idx": 314,
+                "error": "Correct your spelling",
+                "error_des": "The word white board seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "whiteboard"
+                ]
+            },
+            {
+                "word": "white board",
+                "start_idx": 314,
+                "end_idx": 325,
+                "error": "Correct your spelling",
+                "error_des": "The word white board seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "whiteboard"
+                ]
+            },
+            {
+                "word": "for ",
+                "start_idx": 471,
+                "end_idx": 475,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "days",
+                "start_idx": 605,
+                "end_idx": 609,
+                "error": "Change to a singular noun",
+                "error_des": "The singular quantifier every is followed by the plural noun days. Consider changing the noun to the singular or using a different quantifier.",
+                "suggetions": [
+                    "day"
+                ]
+            }
+        ]
+    },
+    "submitter": "vaidyadevika1",
+    "num_words": 180,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "although",
+            "first",
+            "lastly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-06-25T16:20:45.390Z"
+}

@@ -1,0 +1,180 @@
+{
+    "url": "https://writing9.com/text/611fced470f7b00018f618d0-technology-has-more-positive-than-negative-effects-on-our",
+    "file": "data\\75\\611fced470f7b00018f618d0.json",
+    "topics": [
+        "technology",
+        "effects",
+        "relationships",
+        "people"
+    ],
+    "question": "Technology has more positive than negative effects on our relationships with other people.\nTo what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, technology has an essential impact on our daily life. Many people believe that it has more advantages in relationships than drawbacks. In my opinion, I totally agree and think that it is easy to develop relationships with others.",
+        "",
+        "On the one hand, there are two main reasons why we have a positive connection with others by technology. People can communicate with their family or friends farther than in the past and also anytime. This is because modern communication systems that transfer effectively signals to each communicator such as Line or Messenger. For instance, some university students who live in apartments miss their mom and dad. They usually sent texts or video calls that can help to increase the relationships between them. Another major reason is because of games which technology is incredible. A lot of students prefer playing games since they can play on online platforms with their friends and it can also enhance the unity with other players",
+        "",
+        "On the other hand, there are negative aspects why it cannot increase their relationships. Although It is convenient to contact others, sometimes they are slow to respond. Most people do not always turn on their phone or computer. It is hard to continue the conversations. For example, lots of women send emails or texts to their lovers but their boyfriends often reply slowly. Then they always get angry and end their relationship. Moreover, some conversations can fake people since chatting cannot view other faces and they can cheat other people.",
+        "",
+        "In conclusion, I strongly agree that technology that helps easily communicate and play can increase connections with others."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "why",
+                "start_idx": 1024,
+                "end_idx": 1027,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of why"
+                ]
+            },
+            {
+                "word": "phone",
+                "start_idx": 1189,
+                "end_idx": 1194,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that phone may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "phones"
+                ]
+            }
+        ]
+    },
+    "submitter": "Marker & Kaohom",
+    "num_words": 268,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "on the other hand",
+            "for instance",
+            "then",
+            "for example",
+            "although",
+            "moreover",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "relationships",
+                "occurrences": [
+                    {
+                        "start_idx": 115,
+                        "end_idx": 128
+                    },
+                    {
+                        "start_idx": 213,
+                        "end_idx": 226
+                    },
+                    {
+                        "start_idx": 723,
+                        "end_idx": 736
+                    },
+                    {
+                        "start_idx": 1051,
+                        "end_idx": 1064
+                    }
+                ]
+            },
+            {
+                "word": "technology",
+                "occurrences": [
+                    {
+                        "start_idx": 10,
+                        "end_idx": 20
+                    },
+                    {
+                        "start_idx": 334,
+                        "end_idx": 344
+                    },
+                    {
+                        "start_idx": 798,
+                        "end_idx": 808
+                    },
+                    {
+                        "start_idx": 1563,
+                        "end_idx": 1573
+                    }
+                ]
+            },
+            {
+                "word": "others",
+                "occurrences": [
+                    {
+                        "start_idx": 232,
+                        "end_idx": 238
+                    },
+                    {
+                        "start_idx": 324,
+                        "end_idx": 330
+                    },
+                    {
+                        "start_idx": 1103,
+                        "end_idx": 1109
+                    },
+                    {
+                        "start_idx": 1643,
+                        "end_idx": 1649
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 69,
+                        "end_idx": 75
+                    },
+                    {
+                        "start_idx": 1152,
+                        "end_idx": 1158
+                    },
+                    {
+                        "start_idx": 1446,
+                        "end_idx": 1452
+                    },
+                    {
+                        "start_idx": 1517,
+                        "end_idx": 1523
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-08-20T23:16:00.544Z"
+}

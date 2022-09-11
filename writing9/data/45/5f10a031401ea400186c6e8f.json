@@ -1,0 +1,186 @@
+{
+    "url": "https://writing9.com/text/5f10a031401ea400186c6e8f",
+    "file": "data\\45\\5f10a031401ea400186c6e8f.json",
+    "topics": [
+        "people",
+        "events",
+        "host",
+        "country"
+    ],
+    "question": "Some people think that big sporting events are not worthwhile for the host country.Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The past several decades have witnessed the dramatic development of international sport events which has been prevailing globally and enjoying a wide range of fans. However some people think that the government should focus on domestic economy or social issues rather than spend a huge amount on hosting international competition. As far as I am concerned, I can only disagree with the statement and the reasons are given below.",
+        "First and foremost hosting a grand international events, such Olympics, Universiade, and World Cup, can attract many people around the global to participate in the competitive sports. So, conducting a big sport event means a wonderful chance to exhibit a country\u2019s culture and development to the world. By doing this, the hosting country can improve the image and gain positive reputation. Therefore, its international influence can be widen and deepened.",
+        "On the other hand, these well-known events can bring about an array of economic benefits. To take a example, the hosting authority has to invest this project at least two or three years for stadiums or gyms, which may boost the local economic growth. In reality, putting money in sport facilities can not only increase job vacancies at local community but also promote other fields, including tourism and hospitality industry.",
+        "Based on the above discussion, holding international sport events, a win- win strategy, can not only enhance a nation\u2019s economy power and global influence but also but also solid its national recognition, which can stimulate civilians\u2019 sense of responsibility and cooperation to face further challenges in the future."
+    ],
+    "errors": {
+        "num_error": "9",
+        "error_list": [
+            {
+                "word": "However some",
+                "start_idx": 165,
+                "end_idx": 177,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "However, some"
+                ]
+            },
+            {
+                "word": "global",
+                "start_idx": 564,
+                "end_idx": 570,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "globe"
+                ]
+            },
+            {
+                "word": "can be widen",
+                "start_idx": 858,
+                "end_idx": 870,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "can widen"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 985,
+                "end_idx": 986,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an"
+                ]
+            },
+            {
+                "word": "economic",
+                "start_idx": 1121,
+                "end_idx": 1129,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "economy"
+                ]
+            },
+            {
+                "word": "community but",
+                "start_idx": 1229,
+                "end_idx": 1242,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "community, but"
+                ]
+            },
+            {
+                "word": "sport",
+                "start_idx": 1367,
+                "end_idx": 1372,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "sporting"
+                ]
+            },
+            {
+                "word": "economy",
+                "start_idx": 1434,
+                "end_idx": 1441,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "economic"
+                ]
+            },
+            {
+                "word": "influence but",
+                "start_idx": 1459,
+                "end_idx": 1472,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "influence, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "\u674e\u745e\u5ead",
+    "num_words": 257,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "on the other hand",
+            "further",
+            "therefore",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "sport",
+                "occurrences": [
+                    {
+                        "start_idx": 82,
+                        "end_idx": 87
+                    },
+                    {
+                        "start_idx": 605,
+                        "end_idx": 610
+                    },
+                    {
+                        "start_idx": 634,
+                        "end_idx": 639
+                    },
+                    {
+                        "start_idx": 1165,
+                        "end_idx": 1170
+                    },
+                    {
+                        "start_idx": 1365,
+                        "end_idx": 1370
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-16T18:45:09.027Z"
+}

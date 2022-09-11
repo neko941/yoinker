@@ -1,0 +1,131 @@
+{
+    "url": "https://writing9.com/text/5cf3d28cbde8cf0017859b5e",
+    "file": "data\\7\\5cf3d28cbde8cf0017859b5e.json",
+    "topics": [
+        "people",
+        "sport",
+        "role",
+        "society",
+        "leisure",
+        "activity"
+    ],
+    "question": "Some people believe that sport has an important role in society. Others, however, feel that it is nothing more than a leisure activity for some people.\nDiscuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Physical activities have become increasingly popular in many regions across the world. While there are supporters of sport\u2019s contributions to many aspects of life, some people insist it means no other than a recreational activity. This essay will discuss both points of view before reaching a reasonable conclusion.",
+        "On the one hand, sport is praised for its ability to connect people and improve one as a person. In terms of creating connection, sport events shorten barriers within communities and thus, bring financial benefits for countries involved in those occasions. For instance, one nation of World Cup can earn up to billions of US dollar from tourists in each season they host. Moreover, some athletes hold that physical tasks not only improve their health but also give them a feeling of satisfaction. While participating, they push themselves beyond the norm and gradually become more patient, durable and resistant.",
+        "On the other hand, many opponents opine it as something people do in their free time. A baseball match, for example, offers players a sense of freedom and reunion with other counterparts, which is a luxurious retreat from their hectic life. Furthermore, as matches of sport are often broadcast, it seems that this activity entertains people instead of encouraging them exercise. In a recent survey, fans of Dream Cup in Korea admit they hardly ever go out and touch the ball. All they love is the different motions of happiness, disappointment or excitement that the game brings back.",
+        "In conclusion, there is a major question whether sport attributes more merits to the community than being an entertaining pastime. For the mentioned arguments, I confidently agree that we can gain more from it than just emotions."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "connection",
+                "start_idx": 434,
+                "end_idx": 444,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "connections",
+                    "a connection"
+                ]
+            },
+            {
+                "word": "World Cup",
+                "start_idx": 601,
+                "end_idx": 610,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the World Cup"
+                ]
+            },
+            {
+                "word": "health but",
+                "start_idx": 760,
+                "end_idx": 770,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "health, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "tuquynh.nguyen0901",
+    "num_words": 282,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "for instance",
+            "furthermore",
+            "for example",
+            "moreover",
+            "instead",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "sport",
+                "occurrences": [
+                    {
+                        "start_idx": 117,
+                        "end_idx": 122
+                    },
+                    {
+                        "start_idx": 333,
+                        "end_idx": 338
+                    },
+                    {
+                        "start_idx": 446,
+                        "end_idx": 451
+                    },
+                    {
+                        "start_idx": 1197,
+                        "end_idx": 1202
+                    },
+                    {
+                        "start_idx": 1563,
+                        "end_idx": 1568
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-02T13:43:40.000Z"
+}

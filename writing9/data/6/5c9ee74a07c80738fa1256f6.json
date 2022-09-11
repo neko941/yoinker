@@ -1,0 +1,168 @@
+{
+    "url": "https://writing9.com/text/5c9ee74a07c80738fa1256f6",
+    "file": "data\\6\\5c9ee74a07c80738fa1256f6.json",
+    "topics": [
+        "technology",
+        "years",
+        "people",
+        "progress",
+        "effect",
+        "humanity"
+    ],
+    "question": "Technology have developed very fast in the past 100 years. However, some people think that technology progress has brought negative effect on humanity. To what extent do you agree or disagree ?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many people opine that while human reaps great benefits from the nonstop development of technology, they has also suffer from adverse impacts that accompanied by this. From my point of view, I completely agree with this statement.",
+        "On the one hand, the advancement of technology has some positive implications on the living standard of human. Thanks to the advances in the automotive technology, the need of manual work has been significantly decreased. To illustrate, many housewives with the assistance of washing machine, dishwasher can cut down household chores and have more quality time with their family members. Furthermore, medical technology innovations allow people to cope well with the adaptability of infectious bacteria, ensure the sustainability of the public health. For example, Chinese scientists now successfully finds out the effective treatment for hog cholera, officially put a stop to the spread of this contagious disease.",
+        "On the other hand, the continued improvement in the industry of technology has also triggered several outstanding repercussions on the life of human. Firstly, it is true that the environmental issues which directly affects the well-being of human has been exacerbated considerably by the excessive exploitation of energy for technological advancement. For instance, natural resources are on the verge of depletion due to the improper use of these limited resources to satisfy the need of mass manufacturing of scientific products. Second, as time has been spent too much for state-of art devices especially computer- a result of technological development, people now are more susceptible to some health deteriorations such as the loss of vision and obesity. It also gives explanations for why sedentary lifestyle turn to be more prevailing in these days.",
+        "In conclusion, besides the enormous advantages of the modern technology, this impacts some negative effects on humankind as well."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "has ",
+                "start_idx": 105,
+                "end_idx": 109,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "have also suffered"
+                ]
+            },
+            {
+                "word": "now successfully finds",
+                "start_idx": 815,
+                "end_idx": 837,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "now successfully find",
+                    "have now successfully found"
+                ]
+            },
+            {
+                "word": "effective",
+                "start_idx": 846,
+                "end_idx": 855,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "most effective"
+                ]
+            },
+            {
+                "word": "human",
+                "start_idx": 1090,
+                "end_idx": 1095,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "humans",
+                    "a human"
+                ]
+            },
+            {
+                "word": "art devices especially",
+                "start_idx": 1531,
+                "end_idx": 1553,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the art devices, especially",
+                    "the art devices especially"
+                ]
+            },
+            {
+                "word": "now are",
+                "start_idx": 1610,
+                "end_idx": 1617,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "now is"
+                ]
+            }
+        ]
+    },
+    "submitter": "nguyennhuquynh.ntnq",
+    "num_words": 295,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "on the other hand",
+            "for instance",
+            "second",
+            "furthermore",
+            "for example",
+            "besides",
+            "this",
+            "also",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "technology",
+                "occurrences": [
+                    {
+                        "start_idx": 88,
+                        "end_idx": 98
+                    },
+                    {
+                        "start_idx": 267,
+                        "end_idx": 277
+                    },
+                    {
+                        "start_idx": 383,
+                        "end_idx": 393
+                    },
+                    {
+                        "start_idx": 640,
+                        "end_idx": 650
+                    },
+                    {
+                        "start_idx": 1011,
+                        "end_idx": 1021
+                    },
+                    {
+                        "start_idx": 1863,
+                        "end_idx": 1873
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-30T03:49:30.000Z"
+}

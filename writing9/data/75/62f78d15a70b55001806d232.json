@@ -1,0 +1,144 @@
+{
+    "url": "https://writing9.com/text/62f78d15a70b55001806d232-there-seems-to-be-an-increasing-number-of-serious-crimes",
+    "file": "data\\75\\62f78d15a70b55001806d232.json",
+    "topics": [
+        "crimes",
+        "year",
+        "think",
+        "death",
+        "penalty",
+        "deterrent",
+        "measures"
+    ],
+    "question": "There seems to be an increasing number of serious crimes committed each year. While some think the best way is to use death penalty as a deterrent, many believe that other measures will be needed. Discuss both sides and give your opinion.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Over the years, there have been dramatic increases in the number of serious crimes being committed. Is considered that the death penalty is a great way to discourage criminals, while  others think that a different approach is required. In my opinion, several other measures can be taken to reduce crime rates. This essay will discuss both  sides of the argument",
+        "On one hand, many think the death penalty is the solution to increasing evil in the world. If the government of a certain country decides to choose death execution as a way of punishing criminals, then people will be more mindful before executing the crime. For instance, after a very dangerous rape case that was reported in Delhi, India. The government passed the law of hanging rape assaulters to death. After this, for a certain period of time a significant decrease in rapes was observed all over India. It was the fear of being hung to death that deterred the crime.",
+        "On the other hand, according to some other changes might be effective. An increase in education and job opportunities in underdeveloped countries or the unemployed sector might be useful. If an individual has already committed a serious felony like murder, rape, or armed robbery then lifelong imprisonment can also be considered. Many violations that are taking place these days are revenge based, another measure that can be thought about is introducing anger management and meditation classes for population who feel they are like to take the criminal path. With the help of building a tough environment for them to survive in the prison can act as a precautionary method for people to avoid committing crimes.",
+        "I strongly agree that killing is cruel. Not even the government has the right to kill someone.  If new laws and perceptions are taken into consideration felonies can be reduced. A good illustration of this is people who have been in prison once are most like to commit hideous felonies again due to a lack of resources provided to them after freedom. If a certain percentage of job opportunities are saved for them, if they are trained well enough for the life skills required in the real world, then the likelihood of them taking a criminal path decreases.",
+        "In conclusion, it is understandable that some people want to use the death penalty as a deterrent but it's not the only way to avoid evil. Several measures as discussed can be implemented to reduce the same."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "time",
+                "start_idx": 805,
+                "end_idx": 809,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase for a certain period of time. Consider adding a comma.",
+                "suggetions": [
+                    ",time"
+                ]
+            },
+            {
+                "word": "population",
+                "start_idx": 1436,
+                "end_idx": 1446,
+                "error": "Add an article",
+                "error_des": "The noun phrase population seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the population",
+                    "a population"
+                ]
+            }
+        ]
+    },
+    "submitter": "alvira.tida",
+    "num_words": 411,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "on the other hand",
+            "then",
+            "for instance",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "death",
+                "occurrences": [
+                    {
+                        "start_idx": 123,
+                        "end_idx": 128
+                    },
+                    {
+                        "start_idx": 390,
+                        "end_idx": 395
+                    },
+                    {
+                        "start_idx": 510,
+                        "end_idx": 515
+                    },
+                    {
+                        "start_idx": 762,
+                        "end_idx": 767
+                    },
+                    {
+                        "start_idx": 904,
+                        "end_idx": 909
+                    },
+                    {
+                        "start_idx": 2276,
+                        "end_idx": 2281
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 564,
+                        "end_idx": 570
+                    },
+                    {
+                        "start_idx": 1614,
+                        "end_idx": 1620
+                    },
+                    {
+                        "start_idx": 1858,
+                        "end_idx": 1864
+                    },
+                    {
+                        "start_idx": 2253,
+                        "end_idx": 2259
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-13T11:43:14.273Z"
+}

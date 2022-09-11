@@ -1,0 +1,131 @@
+{
+    "url": "https://writing9.com/text/5da769144c685a0018ad5e39",
+    "file": "data\\4\\5da769144c685a0018ad5e39.json",
+    "topics": [
+        "wife",
+        "anniversary"
+    ],
+    "question": "I, along with my wife, had been there to celebrate our wedding anniversary.",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I am writing to express my displeasure with the experience I had at your restaurant yesterday. While the Service itself was fine, there were issues with the meal we were served.",
+        "I, along with my wife, had been there to celebrate our wedding anniversary.",
+        "I had an entire evening planned, starting with a candle light dinner at the restaurant, followed by a cake cutting at the same venue.",
+        "We were expecting our friends to join us.However, none of the above plans worked out due to the chaos created by the incorrect food served.",
+        "Let me explain you the problem,  my wife is a vegan and she ordered for a non diary food.",
+        "When her dish was served, she double checked the ingredients with the waiter and on confirmation, she started eating it.",
+        "Not only was she served with the non vegan food, but also it had seafood which she was allergic too.",
+        "I had to rush her to the hospital and thus celebrated the anniversary night at the medical canteen.",
+        "On enquiring, I learnt that the food which was supposed to be served to the table next to ours' was served to us.",
+        "Is it possible for the restaurant to number the tables? I reckon that system would serve as a solution to the mix-up related issues.",
+        "I sincerely hope you would personally look into such issues and prevent them from future occurance.",
+        "Thank you for considering.",
+        "Your Wellwisher,",
+        "Sabari Raja A R"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "itself",
+                "start_idx": 124,
+                "end_idx": 130,
+                "error": "the thing named or in question",
+                "error_des": "",
+                "suggetions": [
+                    "it"
+                ]
+            },
+            {
+                "word": "occurance",
+                "start_idx": 1290,
+                "end_idx": 1299,
+                "error": "an event that happens",
+                "error_des": "",
+                "suggetions": [
+                    "occurrences"
+                ]
+            },
+            {
+                "word": "\n\nYour",
+                "start_idx": 1328,
+                "end_idx": 1334,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 245,
+    "num_paragraphs": 15,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "thus",
+            "however",
+            "next",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 525,
+                        "end_idx": 529
+                    },
+                    {
+                        "start_idx": 622,
+                        "end_idx": 626
+                    },
+                    {
+                        "start_idx": 792,
+                        "end_idx": 796
+                    },
+                    {
+                        "start_idx": 817,
+                        "end_idx": 821
+                    },
+                    {
+                        "start_idx": 982,
+                        "end_idx": 986
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-16T19:01:40.252Z"
+}

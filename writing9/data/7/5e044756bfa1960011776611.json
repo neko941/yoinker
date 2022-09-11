@@ -1,0 +1,115 @@
+{
+    "url": "https://writing9.com/text/5e044756bfa1960011776611",
+    "file": "data\\7\\5e044756bfa1960011776611.json",
+    "topics": [
+        "governments",
+        "money",
+        "railways",
+        "roads"
+    ],
+    "question": "Governments should spend money on railways rather than roads.\nTo what extent do you agree or disagree with this statement?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Implementing proper transportation facility for the nation is a challenge for any government. Whether a vast rail network or an improved road transport system can better facilitate the transportation of goods and commuters is a never ending debate. I believe that fast rails are the transportations of the future and that is why administrations should spend money on building and developing railways.",
+        "To begin with, trains are faster and can carry a large number of passengers and goods at a time. When thousands of cars carry office-goers and students each day in a city, only a few shuttle trains can do the same. Traffic congestion kills millions of work hours per years and costs billions of dollars and it is caused basically by the sheer number of road transports we use every day. According to a report published by the Road Transport Authority in Bangladesh, traffic congestion in Dhaka city eats up 3.2 million working hours per day. A vast network of railways is the only alternative to curb the loss.",
+        "Moreover, expanding roads in cities is almost impossible as they must interconnect the existing lanes. Locomotives, on the contrary, primarily use railroads built aside the cities and consume less space. Effectively managed rail tracks do not cause congestion and save time. And this is why it is considered the transportation of the future. For instance, developed nations subsidise heavily in developing their transportation facilities and they invest more in expanding their rail system.",
+        "To conclude, a government should plan for the future, considering facilities and impact on the environment, while investing in infrastructure development. As locomotives offer more conveniences than road transports do, it deserves more budget."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "for",
+                "start_idx": 44,
+                "end_idx": 47,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "facilities",
+                "start_idx": 1572,
+                "end_idx": 1582,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the facilities"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 278,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "on the contrary",
+            "for instance",
+            "moreover",
+            "that is",
+            "this",
+            "to begin"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "transportation",
+                "occurrences": [
+                    {
+                        "start_idx": 20,
+                        "end_idx": 34
+                    },
+                    {
+                        "start_idx": 185,
+                        "end_idx": 199
+                    },
+                    {
+                        "start_idx": 283,
+                        "end_idx": 297
+                    },
+                    {
+                        "start_idx": 1324,
+                        "end_idx": 1338
+                    },
+                    {
+                        "start_idx": 1424,
+                        "end_idx": 1438
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-12-26T05:38:30.228Z"
+}

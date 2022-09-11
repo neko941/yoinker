@@ -1,0 +1,129 @@
+{
+    "url": "https://writing9.com/text/5db9ccd116286e0018e5c156",
+    "file": "data\\6\\5db9ccd116286e0018e5c156.json",
+    "topics": [
+        "people",
+        "home",
+        "workplace",
+        "place"
+    ],
+    "question": "Some people say it is important to keep your home and workplace tidy, with everything organized and in the correct place. What is your opinion about this",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is considered extremely important by some individuals to ensure that the home and workplace is kept tidy and that everything is placed in an organized manner. In this essay, I am going to explain with reasons why I completely agree with this view.",
+        "It has been proven by many researches that tidiness at workplace leads to increased productivity and boost the overall efficiency of the employees by reducing the wastage of time. A neatly kept workstation speaks of the admirable organizational skills of the employee. In case a particular document is requested by the manager on a short notice, the subordinate can easily retrieve it from the database if the documents are kept in an orderly fashion, whereas an unorganized employee would have no choice but to panic while attempting to locate it in a random pile of files. Although it can be a hassle in the beginning to log all the documents and stack them orderly, such proactive efforts earn the employee a position in the good books of the management.",
+        "Similarly, having a well-organized home has its perks. It is of immense importance for the home to have a comfortable outlook. An apartment where everything is placed randomly and half the possessions are spewed on the floor doesn\u2019t give any relaxing vibes. Arranging stuff nearly helps it give a clean look. Not only it is easier to find an item when everything has a designated place, but it also gives the place an overall homely feeling.",
+        "In conclusion, I would reiterate that tidiness should be an integral part of a home and workplace, as it adds to the efficacy at office and ensures to make the home a happy place."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "for",
+                "start_idx": 1094,
+                "end_idx": 1097,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in",
+                    "of"
+                ]
+            },
+            {
+                "word": "spewed",
+                "start_idx": 1216,
+                "end_idx": 1222,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "spewing"
+                ]
+            },
+            {
+                "word": "office",
+                "start_idx": 1583,
+                "end_idx": 1589,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the office"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 283,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "similarly",
+            "although",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "home",
+                "occurrences": [
+                    {
+                        "start_idx": 76,
+                        "end_idx": 80
+                    },
+                    {
+                        "start_idx": 1044,
+                        "end_idx": 1048
+                    },
+                    {
+                        "start_idx": 1100,
+                        "end_idx": 1104
+                    },
+                    {
+                        "start_idx": 1435,
+                        "end_idx": 1439
+                    },
+                    {
+                        "start_idx": 1530,
+                        "end_idx": 1534
+                    },
+                    {
+                        "start_idx": 1611,
+                        "end_idx": 1615
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-30T17:48:01.285Z"
+}

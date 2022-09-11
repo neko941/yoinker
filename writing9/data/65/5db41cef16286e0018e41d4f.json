@@ -1,0 +1,160 @@
+{
+    "url": "https://writing9.com/text/5db41cef16286e0018e41d4f",
+    "file": "data\\65\\5db41cef16286e0018e41d4f.json",
+    "topics": [
+        "internet",
+        "access",
+        "information"
+    ],
+    "question": "The internet has greatly increased our access to information. To what extent do you think this is a good thing?\nGive reasons for your answer and include any relevant examples from your own knowledge or experience",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Human has come to a new millennium of technology. With the advance of the internet, people can have access to all information. To an extent, I believe that the improvement of the internet is a great step for all mankind.",
+        "The internet has become the most important factor of daily basis. Firstly, people can search for almost everything they do not have the information about on the internet. Just by a single click, people will receive a million of pages that conclude the knowledge they want; unlike a decade ago when they would have to go to the library and still didn't find any information. Secondly, if users are not satisfied, they can also ask others for help without having to go meeting in person since the internet provides connection between people from anywhere in the world. This is the reason why the internet is an essential part of human life.",
+        "However, there are some downsides when using the internet. One big issue is that parents cannot fully control the contents that their children view. Although there are some software that help prevent this problem, but it seems that they still cannot keep the children from watching inappropriate contents 100 percent. Moreover, internet users always have a risk to be attacked by hackers. All of their private information could be exposed when they get hacked without any notice when surfing the internet. These are some drawbacks of getting on the internet.",
+        "In conclusion, despite some downsides, I believe that the internet is giving us a great opportunity to gain access to a huge world of knowledge that we could not in the past."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "meeting",
+                "start_idx": 689,
+                "end_idx": 696,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "meet"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 1026,
+                "end_idx": 1029,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is"
+                ]
+            }
+        ]
+    },
+    "submitter": "this.is.4u.praveen",
+    "num_words": 273,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "although",
+            "moreover",
+            "however",
+            "this",
+            "also",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "internet",
+                "occurrences": [
+                    {
+                        "start_idx": 74,
+                        "end_idx": 82
+                    },
+                    {
+                        "start_idx": 179,
+                        "end_idx": 187
+                    },
+                    {
+                        "start_idx": 225,
+                        "end_idx": 233
+                    },
+                    {
+                        "start_idx": 382,
+                        "end_idx": 390
+                    },
+                    {
+                        "start_idx": 716,
+                        "end_idx": 724
+                    },
+                    {
+                        "start_idx": 815,
+                        "end_idx": 823
+                    },
+                    {
+                        "start_idx": 909,
+                        "end_idx": 917
+                    },
+                    {
+                        "start_idx": 1188,
+                        "end_idx": 1196
+                    },
+                    {
+                        "start_idx": 1356,
+                        "end_idx": 1364
+                    },
+                    {
+                        "start_idx": 1409,
+                        "end_idx": 1417
+                    },
+                    {
+                        "start_idx": 1477,
+                        "end_idx": 1485
+                    }
+                ]
+            },
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 114,
+                        "end_idx": 125
+                    },
+                    {
+                        "start_idx": 357,
+                        "end_idx": 368
+                    },
+                    {
+                        "start_idx": 582,
+                        "end_idx": 593
+                    },
+                    {
+                        "start_idx": 1270,
+                        "end_idx": 1281
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-26T10:16:15.318Z"
+}

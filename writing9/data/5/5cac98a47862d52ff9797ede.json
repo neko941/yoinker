@@ -1,0 +1,164 @@
+{
+    "url": "https://writing9.com/text/5cac98a47862d52ff9797ede",
+    "file": "data\\5\\5cac98a47862d52ff9797ede.json",
+    "topics": [
+        "people",
+        "media",
+        "coverage",
+        "celebrities",
+        "effect",
+        "children"
+    ],
+    "question": "Many people believe that media coverage of celebrities is having a negative effect on children.\nto what extent do you agree?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the paast, news about famous people may have been confined to gossip columns in newspapers, these days it is not uncommon for celebrities to feature as front page news. There is evidence that the public feels there is too much news coverage of famous people. Not surprisingly, there is concern about how this might be affecting people, and in particular children.",
+        "One of the possible negative consequences of the cult of celebrity is the tendency to confuse fame and notoriety. Celebrity scandals are just as likely to receive publicity as celebrity achievements. Indeed, some famous people have received more attention for their misuse of drgs and alchohol than for their successes on the stageor sports. Children who crave attention may come to see misbehaviour as normal.",
+        "The emphasis on individuals in the public eye may also be at expense of serious news coverage. Next to the superficial excitement of celebrity gossip, news about serious events and issues, that have a more profound effect on people's lives may seem uninteresting. Children may be forming a very distored picture of how the world works.",
+        "The negative influence of celebrities on children can also be seen in children's career aspirations. These days, young people are much more to see themselves as potential sports stars or entertainers. The prevalence of these figues in the mass media may convey the impression that such positions are plentiful. Children may be developing unrealistic expectations that they too will become rich and famous.",
+        "In summary, the cult of celebrity may be affecting children in a number of undesirable ways. It is important that children be taught to critically evaluate what they see in the media so that they can form a more realistic view of the society, acceptable behaviour and indeed themselves"
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "paast",
+                "start_idx": 7,
+                "end_idx": 12,
+                "error": "the time that has elapsed",
+                "error_des": "",
+                "suggetions": [
+                    "past",
+                    "post"
+                ]
+            },
+            {
+                "word": "drgs",
+                "start_idx": 643,
+                "end_idx": 647,
+                "error": "a substance that is used as a medicine or narcotic",
+                "error_des": "",
+                "suggetions": [
+                    "drugs"
+                ]
+            },
+            {
+                "word": "alchohol",
+                "start_idx": 652,
+                "end_idx": 660,
+                "error": "a liquor or brew containing alcohol as the active agent",
+                "error_des": "",
+                "suggetions": [
+                    "alcohol"
+                ]
+            },
+            {
+                "word": "stageor",
+                "start_idx": 693,
+                "end_idx": 700,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "stage or"
+                ]
+            },
+            {
+                "word": "expense",
+                "start_idx": 839,
+                "end_idx": 846,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the expense"
+                ]
+            },
+            {
+                "word": "distored",
+                "start_idx": 1073,
+                "end_idx": 1081,
+                "error": "so badly formed or out of shape as to be ugly",
+                "error_des": "",
+                "suggetions": [
+                    "distorted"
+                ]
+            },
+            {
+                "word": "figues",
+                "start_idx": 1339,
+                "end_idx": 1345,
+                "error": "a diagram or picture illustrating textual material",
+                "error_des": "",
+                "suggetions": [
+                    "figures"
+                ]
+            }
+        ]
+    },
+    "submitter": "mahi.avee",
+    "num_words": 295,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "in particular",
+            "next",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "celebrity",
+                "occurrences": [
+                    {
+                        "start_idx": 424,
+                        "end_idx": 433
+                    },
+                    {
+                        "start_idx": 543,
+                        "end_idx": 552
+                    },
+                    {
+                        "start_idx": 911,
+                        "end_idx": 920
+                    },
+                    {
+                        "start_idx": 1544,
+                        "end_idx": 1553
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-09T13:05:40.000Z"
+}

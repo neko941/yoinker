@@ -1,0 +1,101 @@
+{
+    "url": "https://writing9.com/text/5e4529151738c200181047f4-the-system-used-for-rubbishgarbage-collection-in-your-local-area",
+    "file": "data\\75\\5e4529151738c200181047f4.json",
+    "topics": [
+        "system",
+        "rubbish",
+        "garbage",
+        "collection",
+        "area",
+        "neighbours",
+        "council"
+    ],
+    "question": "The system used for rubbish/garbage collection in your local area is not working properly. This is causing problems for you and your neighbours. Write a letter to the local council. In your letter \n\ndescribe how the rubbish collection system is not working properly \nexplain how this is affecting you and your neighbours \nsuggest what should be done about the problem",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam",
+        "I am writing to complain about the system used for garbage collection which has caused difficulties for my family and friends who are living in this neighbourhood.",
+        "Unfortunately, this system is producing a lot of noises which made our neighbourhood a noisy district. Besides, a little garbage has not been collected properly, and some leftovers remained in the area. The noise can be neglected, however, these leftovers contaminated our streets and caused a horrible smell which may lead to spreading some diseases. Moreover, some animals have been gathered around these leftovers which have made an unpleasant scene.",
+        "To solve this problem, some actions must be done. The only thing that crosses my mind is to change the system and replace the machines with new ones. This matter needs your immediate consideration, and if nothing happens as soon as possible, I will be forced to write a letter to the authorities.",
+        "Yours faithfully,",
+        "Majid Rasouli"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "noises",
+                "start_idx": 228,
+                "end_idx": 234,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that noises may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "noise"
+                ]
+            },
+            {
+                "word": "spreading",
+                "start_idx": 506,
+                "end_idx": 515,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the spreading"
+                ]
+            },
+            {
+                "word": "some",
+                "start_idx": 516,
+                "end_idx": 520,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of some"
+                ]
+            }
+        ]
+    },
+    "submitter": "majid.rasouli.90",
+    "num_words": 156,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "moreover",
+            "however",
+            "besides"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T19:02:17.352Z"
+}

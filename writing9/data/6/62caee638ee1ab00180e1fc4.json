@@ -1,0 +1,368 @@
+{
+    "url": "https://writing9.com/text/62caee638ee1ab00180e1fc4-some-people-feel-that-with-the-rise-of-artificial-intelligence",
+    "file": "data\\6\\62caee638ee1ab00180e1fc4.json",
+    "topics": [
+        "people",
+        "rise",
+        "intelligence",
+        "computers",
+        "robots",
+        "roles",
+        "teachers"
+    ],
+    "question": "Some people feel that with the rise of artificial intelligence, computers and robots will take over the roles of teachers.To what extent do you agree or disagree with this statement?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, definition of teachers has been topical subject of the debate. In this regards, the opinion of the public is divided over wheater the development of machines will replace the roles of teachers or not. Although education from computer and technology have merits, I strongly contend that human teachers will keep on teaching students.",
+        "To begin with, there is an apealing grounds why learning based on intelligence, computers is benefitial. Clearly, using computers allow humans to learn beyond time and space limit which can improve learning efficiency. According to a recent survey,  computers can access information in all library globally as well as calculating complex fomular 1000times faster than human. Therefore, this shows strong proof that we can increase our learning experience by utilizing the latest technology.",
+        "Despite the abovementioned views, I strongly believe that roles of human teachers will be continue because they can resonate with students. First, current teachers can give insperation to students for increasing creativity which is important for human achievement. For example, one shows that renowed architech Ando Tadao interviewed that his state- of- the-art outcomes would not have been possible if he did not meet his mentor who is wise. Second, tutors can collaborate with learners by discussing their ideas and solving problems to address issues. Hence, students can broaden their views and gain more knowledge by thinking outside of the box and come up with new ideas through working hand in hand with their teachers.",
+        "To sum up, although education through gadgets such as computers and robots have positive effects,I definitely reckon that human teachers will continue to teach their students due to emphathy."
+    ],
+    "errors": {
+        "num_error": "21",
+        "error_list": [
+            {
+                "word": "definition",
+                "start_idx": 10,
+                "end_idx": 20,
+                "error": "Add an article",
+                "error_des": "The noun phrase definition seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the definition"
+                ]
+            },
+            {
+                "word": "topical",
+                "start_idx": 42,
+                "end_idx": 49,
+                "error": "Add an article",
+                "error_des": "The noun phrase topical subject seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the topical",
+                    "a topical"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 61,
+                "end_idx": 65,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "regards",
+                "start_idx": 81,
+                "end_idx": 88,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that regards may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "regard"
+                ]
+            },
+            {
+                "word": "apealing",
+                "start_idx": 370,
+                "end_idx": 378,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want apealing to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "appealing"
+                ]
+            },
+            {
+                "word": "benefitial",
+                "start_idx": 436,
+                "end_idx": 446,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want benefitial to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "beneficial"
+                ]
+            },
+            {
+                "word": "library",
+                "start_idx": 633,
+                "end_idx": 640,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that library may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "libraries"
+                ]
+            },
+            {
+                "word": "calculating",
+                "start_idx": 661,
+                "end_idx": 672,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb calculating. Consider changing it.",
+                "suggetions": [
+                    "calculate"
+                ]
+            },
+            {
+                "word": "fomular",
+                "start_idx": 681,
+                "end_idx": 688,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want fomular to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "formula",
+                    "formulas"
+                ]
+            },
+            {
+                "word": "human",
+                "start_idx": 711,
+                "end_idx": 716,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that human may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "humans"
+                ]
+            },
+            {
+                "word": "roles",
+                "start_idx": 893,
+                "end_idx": 898,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the roles"
+                ]
+            },
+            {
+                "word": "be continue",
+                "start_idx": 922,
+                "end_idx": 933,
+                "error": "Change the verb form",
+                "error_des": "It appears that the form of the verb continue does not work with be in this sentence.",
+                "suggetions": [
+                    "continue"
+                ]
+            },
+            {
+                "word": "insperation",
+                "start_idx": 1008,
+                "end_idx": 1019,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want insperation to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "inspiration"
+                ]
+            },
+            {
+                "word": "renowed",
+                "start_idx": 1128,
+                "end_idx": 1135,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want renowed to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "renowned",
+                    "renewed"
+                ]
+            },
+            {
+                "word": "architech",
+                "start_idx": 1136,
+                "end_idx": 1145,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want architech to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "architect"
+                ]
+            },
+            {
+                "word": "state- ",
+                "start_idx": 1178,
+                "end_idx": 1185,
+                "error": "Correct your spelling",
+                "error_des": "The word state- of- the-art seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "state-of-the-art"
+                ]
+            },
+            {
+                "word": "of- the-art",
+                "start_idx": 1185,
+                "end_idx": 1196,
+                "error": "Add a hyphen",
+                "error_des": "It appears that of the-art is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "of-the-art"
+                ]
+            },
+            {
+                "word": "come",
+                "start_idx": 1488,
+                "end_idx": 1492,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb come. Consider changing it.",
+                "suggetions": [
+                    "coming"
+                ]
+            },
+            {
+                "word": "through",
+                "start_idx": 1511,
+                "end_idx": 1518,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "by"
+                ]
+            },
+            {
+                "word": "have",
+                "start_idx": 1636,
+                "end_idx": 1640,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb have does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "has"
+                ]
+            },
+            {
+                "word": "emphathy",
+                "start_idx": 1743,
+                "end_idx": 1751,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want emphathy to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "empathy"
+                ]
+            }
+        ]
+    },
+    "submitter": "eosmagic00",
+    "num_words": 271,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "second",
+            "hence",
+            "for example",
+            "although",
+            "therefore",
+            "this",
+            "to begin",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "teachers",
+                "occurrences": [
+                    {
+                        "start_idx": 24,
+                        "end_idx": 32
+                    },
+                    {
+                        "start_idx": 194,
+                        "end_idx": 202
+                    },
+                    {
+                        "start_idx": 302,
+                        "end_idx": 310
+                    },
+                    {
+                        "start_idx": 907,
+                        "end_idx": 915
+                    },
+                    {
+                        "start_idx": 989,
+                        "end_idx": 997
+                    },
+                    {
+                        "start_idx": 1550,
+                        "end_idx": 1558
+                    },
+                    {
+                        "start_idx": 1688,
+                        "end_idx": 1696
+                    }
+                ]
+            },
+            {
+                "word": "computers",
+                "occurrences": [
+                    {
+                        "start_idx": 423,
+                        "end_idx": 432
+                    },
+                    {
+                        "start_idx": 463,
+                        "end_idx": 472
+                    },
+                    {
+                        "start_idx": 593,
+                        "end_idx": 602
+                    },
+                    {
+                        "start_idx": 1614,
+                        "end_idx": 1623
+                    }
+                ]
+            },
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 333,
+                        "end_idx": 341
+                    },
+                    {
+                        "start_idx": 964,
+                        "end_idx": 972
+                    },
+                    {
+                        "start_idx": 1022,
+                        "end_idx": 1030
+                    },
+                    {
+                        "start_idx": 1395,
+                        "end_idx": 1403
+                    },
+                    {
+                        "start_idx": 1726,
+                        "end_idx": 1734
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-10T15:21:09.345Z"
+}

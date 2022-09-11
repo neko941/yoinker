@@ -1,0 +1,314 @@
+{
+    "url": "https://writing9.com/text/5caf9b19a18e8571f1d320b6",
+    "file": "data\\5\\5caf9b19a18e8571f1d320b6.json",
+    "topics": [
+        "stakes",
+        "english",
+        "language",
+        "tests",
+        "ielts",
+        "computers"
+    ],
+    "question": "High stakes English language tests such as IELTS, are being increasingly delivered on the computers. Do the advantages outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "As an international language, English is accepted and spoken through the world as a medium of communication. But not all counties have similar level of proficiency in English. Thus IELTS are platform from where English language is tested based on four segments such as Listening, Writing, Speaking and Reading. Besides pen and paper system, it is now being tested through a computer system. The new system has both merits and demerits.",
+        "Over the last few decades it follows the traditional techniques. Recently IELTS authority have launched a computer generated exam where candidates will appear in the exam in front of computer. The principal benefit of this system is saving time since results will be published instantly as like to the GRE or GMAT exam. In prior system, it takes thirteen days to publish result. Other advantages include the invidualistc approach, more concentration, noise reduction, prompt rectification of errors etc.",
+        "The disadvantage of newly adopted system is system failure may hamper the exam psychology. If any hardware or software is failed to load the system or interrupted, candidates might start it again. Secondly, if an examinee does not have faster typing speed, he or she can't finish the writing part within the assigned time frame. In case fill in the gap, sometimes they may be unable to note down the key words. With this sequence, for the first time users, it won't be easier to adapt with the changes.",
+        "In conclusion, though there are some demerits of computer generated system, the benefits overweighs the negative aspects. Many of the universities are offering admission with required IELTS exam; students often apply at the eleventh hour thus it is occasionally not possible to apply because instantly IELTS result can't be received. So it brings a new dimension for the IELTS taker to make quicker decision for examination and after that they apply to the desired program or fill the purpose."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "similar level",
+                "start_idx": 135,
+                "end_idx": 148,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a similar level"
+                ]
+            },
+            {
+                "word": "decades it",
+                "start_idx": 456,
+                "end_idx": 466,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "decades, it"
+                ]
+            },
+            {
+                "word": "have launched",
+                "start_idx": 528,
+                "end_idx": 541,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "has launched",
+                    "launched"
+                ]
+            },
+            {
+                "word": "computer",
+                "start_idx": 621,
+                "end_idx": 629,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a computer",
+                    "the computer"
+                ]
+            },
+            {
+                "word": "result",
+                "start_idx": 809,
+                "end_idx": 815,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "results"
+                ]
+            },
+            {
+                "word": "invidualistc",
+                "start_idx": 846,
+                "end_idx": 858,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "newly adopted ",
+                "start_idx": 964,
+                "end_idx": 978,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the newly adopted system"
+                ]
+            },
+            {
+                "word": "failed",
+                "start_idx": 1066,
+                "end_idx": 1072,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "failing"
+                ]
+            },
+            {
+                "word": "with",
+                "start_idx": 1429,
+                "end_idx": 1433,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "computer generated ",
+                "start_idx": 1498,
+                "end_idx": 1517,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a computer generated system"
+                ]
+            },
+            {
+                "word": "overweighs",
+                "start_idx": 1538,
+                "end_idx": 1548,
+                "error": "in other respects or ways",
+                "error_des": "",
+                "suggetions": [
+                    "otherwise",
+                    "overweight"
+                ]
+            },
+            {
+                "word": "with",
+                "start_idx": 1619,
+                "end_idx": 1623,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "hour ",
+                "start_idx": 1682,
+                "end_idx": 1687,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "hour, thus"
+                ]
+            },
+            {
+                "word": "quicker decision",
+                "start_idx": 1840,
+                "end_idx": 1856,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "quicker decisions",
+                    "a quicker decision"
+                ]
+            }
+        ]
+    },
+    "submitter": "khokaminul",
+    "num_words": 317,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "thus",
+            "besides",
+            "secondly",
+            "this",
+            "last",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "exam",
+                "occurrences": [
+                    {
+                        "start_idx": 561,
+                        "end_idx": 565
+                    },
+                    {
+                        "start_idx": 602,
+                        "end_idx": 606
+                    },
+                    {
+                        "start_idx": 750,
+                        "end_idx": 754
+                    },
+                    {
+                        "start_idx": 1014,
+                        "end_idx": 1018
+                    },
+                    {
+                        "start_idx": 1153,
+                        "end_idx": 1157
+                    },
+                    {
+                        "start_idx": 1633,
+                        "end_idx": 1637
+                    },
+                    {
+                        "start_idx": 1855,
+                        "end_idx": 1859
+                    }
+                ]
+            },
+            {
+                "word": "computer",
+                "occurrences": [
+                    {
+                        "start_idx": 374,
+                        "end_idx": 382
+                    },
+                    {
+                        "start_idx": 542,
+                        "end_idx": 550
+                    },
+                    {
+                        "start_idx": 619,
+                        "end_idx": 627
+                    },
+                    {
+                        "start_idx": 1492,
+                        "end_idx": 1500
+                    }
+                ]
+            },
+            {
+                "word": "ielts",
+                "occurrences": []
+            },
+            {
+                "word": "system",
+                "occurrences": [
+                    {
+                        "start_idx": 333,
+                        "end_idx": 339
+                    },
+                    {
+                        "start_idx": 383,
+                        "end_idx": 389
+                    },
+                    {
+                        "start_idx": 399,
+                        "end_idx": 405
+                    },
+                    {
+                        "start_idx": 659,
+                        "end_idx": 665
+                    },
+                    {
+                        "start_idx": 765,
+                        "end_idx": 771
+                    },
+                    {
+                        "start_idx": 974,
+                        "end_idx": 980
+                    },
+                    {
+                        "start_idx": 984,
+                        "end_idx": 990
+                    },
+                    {
+                        "start_idx": 1081,
+                        "end_idx": 1087
+                    },
+                    {
+                        "start_idx": 1511,
+                        "end_idx": 1517
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-11T19:52:57.000Z"
+}

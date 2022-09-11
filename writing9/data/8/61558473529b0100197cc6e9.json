@@ -1,0 +1,144 @@
+{
+    "url": "https://writing9.com/text/61558473529b0100197cc6e9-in-spite-of-the-advances-made-in-agriculture-many-people",
+    "file": "data\\8\\61558473529b0100197cc6e9.json",
+    "topics": [
+        "spite",
+        "advances",
+        "agriculture",
+        "people"
+    ],
+    "question": "In Spite Of The Advances Made In Agriculture, Many People Still Go Hungry",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that a large number of people throughout the world suffer from hunger even though the agricultural sector has seen many technological developments. There are several reasons for this and the lack of resources and adverse weather conditions are the most important among them. However, there are some measures that can be implemented to tackle this problem.",
+        "One of the significant reasons for why people do not have enough food supplies is unevenly distributed resources. In other words, it is known that most people who suffer from hunger are from underdeveloped countries where they have no financial support to conduct researches in farming. Moreover, climate change and geographical differences aggravate this problem. For instance, adequate rain, sunshine and nourished soil are the main requirements for growing crops but they barely exist in some countries in Africa. On the other hand, even though some country has a rich harvest of crops, it is likely to be destroyed by flooding or other natural disasters which might be caused by climate change.",
+        "There are many solutions that can be implemented / taken to overcome this trend. Firstly, developed countries can aid poor countries by sharing their technology and financial resources so that those countries can conduct research to find solutions to tackle the famine. Consequently, super seeds and plants can be invented which could stand against undesirable natural conditions even if they are not blessed with best weather conditions. Finally, it is essential to tackle climate change with immediate effect. Otherwise, it will impact the whole world in a negative way.",
+        "In conclusion, it is true that a significant number of people in the world suffer from famine even though many farming advancements are currently in use. This can be overcome by providing the knowledge and financial aids for people who need it the most."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "for ",
+                "start_idx": 398,
+                "end_idx": 402,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "best",
+                "start_idx": 1480,
+                "end_idx": 1484,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "the best"
+                ]
+            }
+        ]
+    },
+    "submitter": "ahuja1221",
+    "num_words": 304,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "on the other hand",
+            "for instance",
+            "otherwise",
+            "consequently",
+            "moreover",
+            "in other words",
+            "however",
+            "finally",
+            "this",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 34,
+                        "end_idx": 40
+                    },
+                    {
+                        "start_idx": 406,
+                        "end_idx": 412
+                    },
+                    {
+                        "start_idx": 519,
+                        "end_idx": 525
+                    },
+                    {
+                        "start_idx": 1694,
+                        "end_idx": 1700
+                    },
+                    {
+                        "start_idx": 1864,
+                        "end_idx": 1870
+                    }
+                ]
+            },
+            {
+                "word": "countries",
+                "occurrences": [
+                    {
+                        "start_idx": 573,
+                        "end_idx": 582
+                    },
+                    {
+                        "start_idx": 863,
+                        "end_idx": 872
+                    },
+                    {
+                        "start_idx": 1166,
+                        "end_idx": 1175
+                    },
+                    {
+                        "start_idx": 1189,
+                        "end_idx": 1198
+                    },
+                    {
+                        "start_idx": 1265,
+                        "end_idx": 1274
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-09-30T09:33:41.736Z"
+}

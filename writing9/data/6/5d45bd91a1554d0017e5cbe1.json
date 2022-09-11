@@ -1,0 +1,159 @@
+{
+    "url": "https://writing9.com/text/5d45bd91a1554d0017e5cbe1",
+    "file": "data\\6\\5d45bd91a1554d0017e5cbe1.json",
+    "topics": [
+        "dangers",
+        "chemicals",
+        "food",
+        "production",
+        "preservation"
+    ],
+    "question": "Do the dangers derived from the use of chemicals in food production and preservation outweigh the advantages?\n\nGive reasons for your answer and include any relevant examples from your own experience or knowledge.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Most foods that are purchased these days in small stores and supermarkets have chemicals in them as these are used to improve production and ensure the food lasts for longer. However, there are concerns that these have harmful effects.\u00a0 In my opinion, the potential dangers from this are greater than the benefits we receive.",
+        "There are several reasons why chemicals are placed in food. Firstly, it is to improve the product to the eye, and this is achieved via the use of colourings which encourage people to purchase food that may otherwise not look tempting to eat. Another reason is to preserve the food. Much of the food we eat would not actually last that long if it were not for chemicals they contain, so again this is an advantage to the companies that sell food as their products have a longer shelf life.",
+        "From this evidence, it is clear to me that the main benefits are, therefore, to the companies and not to the customer. Although companies claim these food additives are safe and they have research to support this, the research is quite possibly biased as it comes from their own companies or people with connections to these companies. It is common to read reports these days in the press about possible links to various health issues such as cancer. Food additives have also been linked to problems such as hyperactivity in children.",
+        "To conclude, despite the fact that there are benefits to placing chemicals in food, I believe that these principally help the companies but could be a danger to the public. It is unlikely that this practice can be stopped, so food must be clearly labeled and it is my hope that organic products will become more readily available at reasonable prices to all."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "purchased these",
+                "start_idx": 20,
+                "end_idx": 35,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "purchased, these"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 274,
+                "end_idx": 278,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "companies",
+                "start_idx": 945,
+                "end_idx": 954,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the companies"
+                ]
+            },
+            {
+                "word": "labeled",
+                "start_idx": 1600,
+                "end_idx": 1607,
+                "error": "bearing or marked with a label or tag",
+                "error_des": "",
+                "suggetions": [
+                    "labelled"
+                ]
+            }
+        ]
+    },
+    "submitter": "Mabel",
+    "num_words": 298,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "also",
+            "otherwise",
+            "although",
+            "however",
+            "therefore",
+            "this",
+            "last",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 5,
+                        "end_idx": 9
+                    },
+                    {
+                        "start_idx": 152,
+                        "end_idx": 156
+                    },
+                    {
+                        "start_idx": 380,
+                        "end_idx": 384
+                    },
+                    {
+                        "start_idx": 518,
+                        "end_idx": 522
+                    },
+                    {
+                        "start_idx": 602,
+                        "end_idx": 606
+                    },
+                    {
+                        "start_idx": 620,
+                        "end_idx": 624
+                    },
+                    {
+                        "start_idx": 766,
+                        "end_idx": 770
+                    },
+                    {
+                        "start_idx": 965,
+                        "end_idx": 969
+                    },
+                    {
+                        "start_idx": 1428,
+                        "end_idx": 1432
+                    },
+                    {
+                        "start_idx": 1576,
+                        "end_idx": 1580
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-03T17:00:01.076Z"
+}

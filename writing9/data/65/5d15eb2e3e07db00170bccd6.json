@@ -1,0 +1,158 @@
+{
+    "url": "https://writing9.com/text/5d15eb2e3e07db00170bccd6",
+    "file": "data\\65\\5d15eb2e3e07db00170bccd6.json",
+    "topics": [
+        "government",
+        "money",
+        "rail",
+        "roads"
+    ],
+    "question": "Government should spend money on rail way rather than roads. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is argued that funds should be spent by the authority on rail track rather than on roads. In my own opinion, I totally agree to this point of view because of the present focus on rail transportation as well as the cost implication for the users.",
+        "First and foremost, recently, the most important reason why the rail track should be considered for more allocations by the government is that there has been a recent increase in the number of people who use the rail mode of passage. For instance, recently, most trains leaving the station now carry passengers to their fullest capacity, something which was not so in the past decades. Thus making rail way a present focus of travel for most citizens. Therefore, any amount spent on it would not be considered a waste.",
+        "Secondly, another reason why more funds should be budgeted for rail track construction other than roads is that it is cheaper to journey within and outside the metropolis with trains. To illustrate, in Nigeria, the cost of travelling from Lagos to Osogbo by road is almost thrice the price of conveyance to the same destination by train. This by implication  makes people spend less to move from one place to the other everyday. Thus making train transportation the best choice for commuters. As a result, allocating more funds to building this means is very essential.",
+        "In conclusion, it is agreed that the budget made by the authority for building rail path should be more than the fund disbursed for road construction given the recent increase in the population that plies the rail as opposed to that of the road and the less expensive outlay of train transportation."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "to",
+                "start_idx": 128,
+                "end_idx": 130,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "rail way",
+                "start_idx": 648,
+                "end_idx": 656,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "railway"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 657,
+                "end_idx": 658,
+                "error": "expresses position, direction or location, or point in time",
+                "error_des": "",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "everyday",
+                "start_idx": 1189,
+                "end_idx": 1197,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "every day"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1298,
+                "end_idx": 1300,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for"
+                ]
+            }
+        ]
+    },
+    "submitter": "uniknursewithadifference",
+    "num_words": 283,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "thus",
+            "for instance",
+            "as a result",
+            "therefore",
+            "this",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "rail",
+                "occurrences": [
+                    {
+                        "start_idx": 60,
+                        "end_idx": 64
+                    },
+                    {
+                        "start_idx": 182,
+                        "end_idx": 186
+                    },
+                    {
+                        "start_idx": 313,
+                        "end_idx": 317
+                    },
+                    {
+                        "start_idx": 461,
+                        "end_idx": 465
+                    },
+                    {
+                        "start_idx": 647,
+                        "end_idx": 651
+                    },
+                    {
+                        "start_idx": 831,
+                        "end_idx": 835
+                    },
+                    {
+                        "start_idx": 1417,
+                        "end_idx": 1421
+                    },
+                    {
+                        "start_idx": 1547,
+                        "end_idx": 1551
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-28T10:25:50.000Z"
+}

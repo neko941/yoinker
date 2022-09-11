@@ -1,0 +1,205 @@
+{
+    "url": "https://writing9.com/text/5e2df4c101813d0018b27013-you-live-in-a-room-in-college-which-you-share",
+    "file": "data\\6\\5e2df4c101813d0018b27013.json",
+    "topics": [
+        "room",
+        "college",
+        "student",
+        "arrangement",
+        "work",
+        "accommodation",
+        "officer",
+        "situation"
+    ],
+    "question": "You live in a room in college which you share with another student.\nHowever, there are many problems with this arrangement and you find it\nvery difficult to work.\nWrite a letter to the accommodation officer at the college. In the letter,\n\u2022 describe the situation\n\u2022 explain your problems and why it is difficult to work\n\u2022 say what kind of accommodation you would prefer",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dir Sir,",
+        "I'm writing to let you know that I am unhappy about the condition of my current life. As you can see I am a student in this college who Also work on a part-time job. However, my Housemate cousing a lot of problems to me, which make it extremely impposible for me to not complain.",
+        "Let me explain How depressed my situation is. Every night I get back Home from a very long day , The other student I share my room with keep playing a lot of Video games,Enjoy watching Movies with a really High volume whats make it obviously impposible for me to take a rest. That even The other students are complain about. Even though he has some unresponseple attitudes still,the real problem is that we do not have a well-orgenized arrangement in our dorm.",
+        "Would you kindly solve this serious situation by eathier,send me or him to another Room ?",
+        "Also, you can talk with the dorm's security to not let anyone enter the dorm, unless he have his student's ID card. Because as you see, Almost Every night we have that kind of All-night noisy parties. I will really appreciate it if all my suggestions are taking in mind.",
+        "Lastly,Than you for your consideration. I am looking forward to the new Developments.",
+        "Your faithfully,",
+        "Asma"
+    ],
+    "errors": {
+        "num_error": "13",
+        "error_list": [
+            {
+                "word": "cousing",
+                "start_idx": 198,
+                "end_idx": 205,
+                "error": "Correct your spelling",
+                "error_des": "The word cousing is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "causing"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 224,
+                "end_idx": 226,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "impposible",
+                "start_idx": 255,
+                "end_idx": 265,
+                "error": "Correct your spelling",
+                "error_des": "The word impposible is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "impossible"
+                ]
+            },
+            {
+                "word": "Home",
+                "start_idx": 360,
+                "end_idx": 364,
+                "error": "Correct your spelling",
+                "error_des": "The word Home doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "home"
+                ]
+            },
+            {
+                "word": "impposible",
+                "start_idx": 533,
+                "end_idx": 543,
+                "error": "Correct your spelling",
+                "error_des": "The word impposible is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "impossible"
+                ]
+            },
+            {
+                "word": "are complain",
+                "start_idx": 596,
+                "end_idx": 608,
+                "error": "Change the verb form",
+                "error_des": "It appears that the form of the verb complain does not work with are in this sentence.",
+                "suggetions": [
+                    "are complaining"
+                ]
+            },
+            {
+                "word": "unresponseple",
+                "start_idx": 640,
+                "end_idx": 653,
+                "error": "Correct your spelling",
+                "error_des": "The word unresponseple is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "unresponsible",
+                    "unresponsive"
+                ]
+            },
+            {
+                "word": "orgenized",
+                "start_idx": 717,
+                "end_idx": 726,
+                "error": "Correct your spelling",
+                "error_des": "The word orgenized is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "organized"
+                ]
+            },
+            {
+                "word": "eathier",
+                "start_idx": 802,
+                "end_idx": 809,
+                "error": "Correct your spelling",
+                "error_des": "The word eathier is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "either"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 920,
+                "end_idx": 921,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker unless. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "have",
+                "start_idx": 932,
+                "end_idx": 936,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun he and the verb have are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "has"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1202,
+                "end_idx": 1202,
+                "error": "Correct the word",
+                "error_des": "It appears that the word Your is not the correct form of the possessive pronoun. Consider changing it.",
+                "suggetions": [
+                    "Yours"
+                ]
+            },
+            {
+                "word": "Your",
+                "start_idx": 1202,
+                "end_idx": 1206,
+                "error": "Correct your spelling",
+                "error_des": "The word Your doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "Yours"
+                ]
+            }
+        ]
+    },
+    "submitter": "missmysoul19",
+    "num_words": 222,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "also",
+            "however",
+            "lastly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T18:33:43.587Z"
+}

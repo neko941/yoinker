@@ -1,0 +1,119 @@
+{
+    "url": "https://writing9.com/text/5f63981ea812600018635da5",
+    "file": "data\\75\\5f63981ea812600018635da5.json",
+    "topics": [
+        "say",
+        "majority",
+        "employees",
+        "home",
+        "work",
+        "place"
+    ],
+    "question": "Some say that it would be better if the majority of employees worked from home instead of traveling to a work place every day. Do you think the advantages of working from home outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, the lifestyle of people has changed completely than in the past.There are many alternatives ways for people to select their place for working.Some people believe that there are a lot of benefits when employees worked at home instead of working at the office.Personally,I strongly agree with this statement.There are more advantages than disadvantages.",
+        "Begin with, the first reason why people should work from home is comfortable.Employees do not spend  time for transporting.Then it can reduce their emotional for the crowed situation that would make them curious and annoying.This cause people will rise their capability and boost their skills. Moreover,people will have enough time for creating their work.For example, my sister used to work at the office but due to COVID-19, the trend of working have manipulated.So in this period she usually works at home.It helps her to be more motivated and have a whole day for working.This is because she can wake up late and use the moment for staying on herself.",
+        "Furthermore,the second main reason is people can manage the conference very easily.When employees stay in their places,they will have the same period for working.Comparing to working at the office we should assign the date to another company for a long period.However, when we worked online,we can keep in touch very closely and do not spend a long time  waiting with them.For instance, my brother had a chance of working online.He told me that he can do his job very practical and not complicated.Furthermore, when he suggested to make a contact with others,he used an online application for working and responding.Thus this provides him to make his life very easy.",
+        "In conclusion,working at home is the best solution for employment.They can gain many benefits from working online.This can make them  have more conveniences and well-organizes."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "This cause people",
+                "start_idx": 604,
+                "end_idx": 621,
+                "error": "Change the determiner",
+                "error_des": "It appears that the singular demonstrative This is modifying the plural noun people. Consider using a plural demonstrative or a singular noun instead.",
+                "suggetions": [
+                    "This cause person",
+                    "These cause people"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 621,
+                "end_idx": 622,
+                "error": "Verify preposition usage",
+                "error_des": "It appears that there is a missing preposition after the word people. Consider adding the preposition.",
+                "suggetions": [
+                    "to"
+                ]
+            }
+        ]
+    },
+    "submitter": "tweetyjahjahjah",
+    "num_words": 297,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "thus",
+            "then",
+            "second",
+            "for instance",
+            "furthermore",
+            "for example",
+            "moreover",
+            "instead",
+            "however",
+            "this",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "home",
+                "occurrences": [
+                    {
+                        "start_idx": 230,
+                        "end_idx": 234
+                    },
+                    {
+                        "start_idx": 419,
+                        "end_idx": 423
+                    },
+                    {
+                        "start_idx": 866,
+                        "end_idx": 870
+                    },
+                    {
+                        "start_idx": 1710,
+                        "end_idx": 1714
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-09-17T17:12:31.141Z"
+}

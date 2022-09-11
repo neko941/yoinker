@@ -1,0 +1,146 @@
+{
+    "url": "https://writing9.com/text/5e352798476f910018810113",
+    "file": "data\\7\\5e352798476f910018810113.json",
+    "topics": [
+        "schools",
+        "school",
+        "uniform",
+        "appearance",
+        "pupils",
+        "dress",
+        "code",
+        "advantage",
+        "children"
+    ],
+    "question": "some schools are very strict about their school uniform and appearance of their pupils, when other schools have a very relax dress code. what are the advantage and disadvantage of children having school uniform?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the education sector, different schools have different rules which students should conform to. While certain institutions make school uniforms and appearance of students mandatory, others allow some flexibility on students' dressing. In this essay, merits and demerits of wearing uniforms at school will be discussed before coming down to a conclusion.",
+        "Discussing the advantages, uniforms allow uniformity at school. To elaborate, students of a particular school are easily recognized by the way they dress, thus allowing easy identification due to uniformity. For example, primary school A can be easily differentiated form primary school B if they put on uniforms. Furthermore, learners tend to behave in a more dignified manner if they are in uniforms. This is because they would want to maintain the good reputation of the school, hence they behave more appropriately. For example, if they are not allowed to put on make up and other accessories.",
+        "Moving on to disadvantages, uniforms might be costly to parents, not to mention the fact that they may decrease an individual's self-esteem. To clarify, parents might have an additional cost of buying uniforms for their children as compared to those who wear other clothes at school. In addition, confidence for children might be significantly reduced because they might not feel very comfortable and confident to express themselves in uniform. For instance, during a school debate, a student in uniform is more likely to score less than a student in casual clothes.",
+        "In conclusion, school uniforms modifies learners' behaviour as well as promoting uniformity. However, this rigidity affects students' confidence negatively and may add some extra cost to parents."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "allow",
+                "start_idx": 392,
+                "end_idx": 397,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "allows"
+                ]
+            },
+            {
+                "word": "form",
+                "start_idx": 623,
+                "end_idx": 627,
+                "error": "a giver or sender",
+                "error_des": "",
+                "suggetions": [
+                    "from"
+                ]
+            }
+        ]
+    },
+    "submitter": "nzeroy",
+    "num_words": 267,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "for instance",
+            "hence",
+            "furthermore",
+            "for example",
+            "however",
+            "in addition",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "school",
+                "occurrences": [
+                    {
+                        "start_idx": 35,
+                        "end_idx": 41
+                    },
+                    {
+                        "start_idx": 130,
+                        "end_idx": 136
+                    },
+                    {
+                        "start_idx": 295,
+                        "end_idx": 301
+                    },
+                    {
+                        "start_idx": 412,
+                        "end_idx": 418
+                    },
+                    {
+                        "start_idx": 459,
+                        "end_idx": 465
+                    },
+                    {
+                        "start_idx": 585,
+                        "end_idx": 591
+                    },
+                    {
+                        "start_idx": 636,
+                        "end_idx": 642
+                    },
+                    {
+                        "start_idx": 830,
+                        "end_idx": 836
+                    },
+                    {
+                        "start_idx": 1230,
+                        "end_idx": 1236
+                    },
+                    {
+                        "start_idx": 1422,
+                        "end_idx": 1428
+                    },
+                    {
+                        "start_idx": 1536,
+                        "end_idx": 1542
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-01T07:24:08.968Z"
+}

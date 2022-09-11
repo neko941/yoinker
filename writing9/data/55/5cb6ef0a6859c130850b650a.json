@@ -1,0 +1,111 @@
+{
+    "url": "https://writing9.com/text/5cb6ef0a6859c130850b650a",
+    "file": "data\\55\\5cb6ef0a6859c130850b650a.json",
+    "topics": [
+        "people",
+        "companies",
+        "promotions",
+        "time",
+        "idea"
+    ],
+    "question": "Some people suggest that companies should give promotions to people who have been working for them for a long time. Do you think this is a good idea?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "How successfully a business appoints and promotes members of staff will have a significant impact on profits and the long-term sustainability of that company. There has been considerable debate about whether higher-ranking jobs should be offered to those who have served the organisation for longest. Many, myself included, would argue that other factors should also be taken into account.",
+        "There are certainly benefits to giving senior positions to workers who have spent years or even decades in the firm. These individuals understand the business, its ethos, its approach and the markets it operates in. They may have built up useful social networks both within the company and in the wider business world. They are likely to require far less training than an outsider or less experienced colleague. Finally, promoting loyal members of staff should incentivize colleagues, who receive the powerful message that commitment will be rewarded.",
+        "However, there are also reasons to doubt the usefulness of this strategy. Long-standing employees are unlikely to innovate and take the fresh approach which may be needed. Such workers are generally older and may not grasp the importance of technology and evolution. Similarly, not having had recent relevant experience in other organisations, they could potentially lack essential skills. Firms may be wiser to recruit workers who have a proven track record elsewhere. Most profit-making multinationals prefer this method: they \u2018poach\u2019 high-flying managers, strategists, engineers or even accountants from their rivals.",
+        "Having examined this question in some detail, it seems clear to me that companies must take a range of factors into consideration when deciding who to elevate to a more senior role. Loyalty is a desirable quality, and some organisations may be inclined to offer top jobs to existing employees on the basis of this. Nevertheless, other attributes are just as essential and, in some cases, may be even more so. Circumstances obviously differ from situation to situation and those in charge of businesses should think carefully about the skills and characteristics they require before appointing."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "built up useful",
+                "start_idx": 621,
+                "end_idx": 636,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "built up a useful"
+                ]
+            },
+            {
+                "word": "networks both",
+                "start_idx": 644,
+                "end_idx": 657,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "networks, both"
+                ]
+            },
+            {
+                "word": "Long-standing",
+                "start_idx": 1018,
+                "end_idx": 1031,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Longstanding"
+                ]
+            },
+            {
+                "word": "they",
+                "start_idx": 1468,
+                "end_idx": 1472,
+                "error": "of them or themselves",
+                "error_des": "",
+                "suggetions": [
+                    "their"
+                ]
+            }
+        ]
+    },
+    "submitter": "sehajrai",
+    "num_words": 332,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "nevertheless",
+            "similarly",
+            "however",
+            "finally",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2019-04-17T09:16:58.000Z"
+}

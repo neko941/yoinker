@@ -1,0 +1,138 @@
+{
+    "url": "https://writing9.com/text/5cadd776f66db888338f3ae9",
+    "file": "data\\6\\5cadd776f66db888338f3ae9.json",
+    "topics": [
+        "tourists",
+        "places",
+        "conditions",
+        "sahara",
+        "desert",
+        "antarctic",
+        "visit"
+    ],
+    "question": "Today, more and more tourists are visiting places where conditions are difficult such as Sahara desert or the Antarctic .What are the benefits and disadvantages for the tourists who visit such places?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many people, nowadays, can be seen going to areas with severe conditions such as too hot or too cold. While people who visit such places consider it adventurous and  experience a sense of accomplishment in them, the negatives like extreme weather conditions and higher probability of being lost, are far greater.",
+        "Some people regard going to areas with harsh conditions advantageous, as they find it quite adventurous. Not only do they consider it a source of enjoyment but also experience a sense of accomplishment in them, after spending time at those places. Sahara desert and Antarctic, for instance, have extreme weather conditions and tourists, mostly youngsters, tend to go there for testing their capabilities of being able to cope with difficult situations. In addition, If tourists went to those places, they are more likely to handle critical situations such as being independent, that may come across in their future, in a better way.",
+        "Visiting places with difficult situations, however, have considerable disadvantages. One major disadvantage of going to those places is unbearable weather. If weather is too hot or too cold, it could affect the bodies of tourists. As a result, they might get some health problems. Another limitation of visiting areas with harsh conditions is the possibility of being lost. Many people may loose their paths while visiting such places. Therefore, it includes higher risks of getting health ailments and being lost while going to those places.",
+        "To conclude, Although visiting places with harsh conditions may bring happiness in tourists as they may feel happy by surviving in those places, the disadvantages such as severe health problems and chance of losing their way back, are more. Hence, paying visits to such places, is not recommended."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "at",
+                "start_idx": 545,
+                "end_idx": 547,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "weather",
+                "start_idx": 1107,
+                "end_idx": 1114,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the weather"
+                ]
+            },
+            {
+                "word": "chance",
+                "start_idx": 1691,
+                "end_idx": 1697,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "chances",
+                    "the chance"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 1724,
+                "end_idx": 1727,
+                "error": "introduces an alternative",
+                "error_des": "",
+                "suggetions": [
+                    "or"
+                ]
+            }
+        ]
+    },
+    "submitter": "manpreetdubey",
+    "num_words": 286,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "hence",
+            "as a result",
+            "although",
+            "however",
+            "in addition",
+            "therefore",
+            "for instance",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "weather",
+                "occurrences": [
+                    {
+                        "start_idx": 239,
+                        "end_idx": 246
+                    },
+                    {
+                        "start_idx": 617,
+                        "end_idx": 624
+                    },
+                    {
+                        "start_idx": 1093,
+                        "end_idx": 1100
+                    },
+                    {
+                        "start_idx": 1105,
+                        "end_idx": 1112
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-10T11:45:58.000Z"
+}

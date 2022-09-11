@@ -1,0 +1,174 @@
+{
+    "url": "https://writing9.com/text/62ee61900562ec00182a1109-even-though-governments-have-worked-hard-to-bring-about-improvements",
+    "file": "data\\7\\62ee61900562ec00182a1109.json",
+    "topics": [
+        "governments",
+        "improvements",
+        "healthcare",
+        "system",
+        "health",
+        "countries",
+        "effects"
+    ],
+    "question": "Even though governments have worked hard to bring about improvements in the healthcare system, the overall standard of physical health in developed countries is decreasing. What are the potential reasons for this and what are some of the long-term effects?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In most developed countries, such as the United States and the UK, despite the governments offering advanced healthcare, there is a decline in the physical health standards of its citizens. The main causes of this situation are extended work hours,  the negligence of people resulting in early deaths and pressure on the health department staff.",
+        "A major reason for the decline in  physical health is because of the prolonged time people spend at work. Although the nominal work hours are restricted to 40 hours per week, those employed in  IT spend at least 50 hours weekly. As a result, the adults do not have time to prepare a healthy meal and consume outside food resulting in deteriorated health. Not taking care of health in spite of having free time is another cause of this problem. Though most of the population is educated, due to laziness they fail to pay attention to their well-being.",
+        "In the long run, there will be  huge pressure on the medical staff such as doctors and nurses due to an increase in admissions for the treatment of diseases. Hence, the ones in these professions will have work-related stress. Moreover, there will be an increased death rate due to illness causing tension in the country. Owing to these impacts, the nations will experience an immense dip in the economy due to the over-consumption of resources.",
+        "In conclusion, extended work hours and not paying attention to the health qualities of the society increases the workload of the frontline staff of the country and causes an increase in the number of early age deaths."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "illness causing",
+                "start_idx": 1178,
+                "end_idx": 1193,
+                "error": "Add a hyphen",
+                "error_des": "It appears that illness causing is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "illness-causing"
+                ]
+            }
+        ]
+    },
+    "submitter": "swathi.testemail",
+    "num_words": 265,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "hence",
+            "as a result",
+            "although",
+            "moreover",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 109,
+                        "end_idx": 115
+                    },
+                    {
+                        "start_idx": 156,
+                        "end_idx": 162
+                    },
+                    {
+                        "start_idx": 321,
+                        "end_idx": 327
+                    },
+                    {
+                        "start_idx": 390,
+                        "end_idx": 396
+                    },
+                    {
+                        "start_idx": 629,
+                        "end_idx": 635
+                    },
+                    {
+                        "start_idx": 693,
+                        "end_idx": 699
+                    },
+                    {
+                        "start_idx": 720,
+                        "end_idx": 726
+                    },
+                    {
+                        "start_idx": 1409,
+                        "end_idx": 1415
+                    }
+                ]
+            },
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 237,
+                        "end_idx": 241
+                    },
+                    {
+                        "start_idx": 446,
+                        "end_idx": 450
+                    },
+                    {
+                        "start_idx": 473,
+                        "end_idx": 477
+                    },
+                    {
+                        "start_idx": 1102,
+                        "end_idx": 1106
+                    },
+                    {
+                        "start_idx": 1366,
+                        "end_idx": 1370
+                    },
+                    {
+                        "start_idx": 1455,
+                        "end_idx": 1459
+                    }
+                ]
+            },
+            {
+                "word": "hours",
+                "occurrences": [
+                    {
+                        "start_idx": 242,
+                        "end_idx": 247
+                    },
+                    {
+                        "start_idx": 478,
+                        "end_idx": 483
+                    },
+                    {
+                        "start_idx": 505,
+                        "end_idx": 510
+                    },
+                    {
+                        "start_idx": 561,
+                        "end_idx": 566
+                    },
+                    {
+                        "start_idx": 1371,
+                        "end_idx": 1376
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-06T12:42:49.365Z"
+}

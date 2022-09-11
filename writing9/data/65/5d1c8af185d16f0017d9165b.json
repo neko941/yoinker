@@ -1,0 +1,133 @@
+{
+    "url": "https://writing9.com/text/5d1c8af185d16f0017d9165b",
+    "file": "data\\65\\5d1c8af185d16f0017d9165b.json",
+    "topics": [
+        "universities",
+        "numbers",
+        "students"
+    ],
+    "question": "Universities should accept equal numbers of male and female students in every subject. To what extent do you agree or disagree",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, education has become an egalitarian environment, in which everyone has the same rights and the same opportunities. Some argue that it should be maintained the equal of the genders in each lecture of universities. Personally, I totally disagree with this statement.",
+        "It is clear to note that the same amounts of man and woman students have some advantages. Firstly, this action can be shown off an egalitarian society, in which everyone has the same careers and the same power. For example, the woman can study for civil engineering as well as the man. Secondly, the sustainability of the equal of the genders will improve the efficiency of the study. If the class has many male, for example, the woman who attends this class will feel uncomfortable.",
+        "However, the situation does more harm than good. It can be explained by many reasons. Firstly, It is so difficult to maintain the class that has equal numbers of male and female. The especially lecture only for male, for example, building up or fixing the electric equipment, then it is not interesting with the female. Secondly, the student chooses the subjects that they are really interesting to study than follow the guidelines of the universities. That is the reason why the student feel uncomfortable if they will study the subject that they do not want to.",
+        "In conclusion, equal numbers of male and female in the subjects of universities is a great idea. But in my opinion, it is so difficult to make it real."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "woman",
+                "start_idx": 330,
+                "end_idx": 335,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "women"
+                ]
+            },
+            {
+                "word": "equal",
+                "start_idx": 599,
+                "end_idx": 604,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "equality",
+                    "equator",
+                    "equation"
+                ]
+            },
+            {
+                "word": "feel",
+                "start_idx": 1251,
+                "end_idx": 1255,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "feels"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 1408,
+                "end_idx": 1410,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            }
+        ]
+    },
+    "submitter": "nhacbkpro",
+    "num_words": 252,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "then",
+            "for example",
+            "however",
+            "that is",
+            "this",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "study",
+                "occurrences": [
+                    {
+                        "start_idx": 513,
+                        "end_idx": 518
+                    },
+                    {
+                        "start_idx": 653,
+                        "end_idx": 658
+                    },
+                    {
+                        "start_idx": 1158,
+                        "end_idx": 1163
+                    },
+                    {
+                        "start_idx": 1279,
+                        "end_idx": 1284
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-03T11:01:05.000Z"
+}

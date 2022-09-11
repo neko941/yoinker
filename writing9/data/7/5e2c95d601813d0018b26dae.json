@@ -1,0 +1,191 @@
+{
+    "url": "https://writing9.com/text/5e2c95d601813d0018b26dae-you-are-a-student-at-a-language-school-in-new",
+    "file": "data\\7\\5e2c95d601813d0018b26dae.json",
+    "topics": [
+        "student",
+        "language",
+        "school",
+        "zealand",
+        "business",
+        "english",
+        "part",
+        "course",
+        "summer",
+        "work",
+        "placement",
+        "programme",
+        "learnt",
+        "reason",
+        "concerns"
+    ],
+    "question": "You are a student at a language school in New Zealand studying Business English. Part of the course is a summer work placement programme. Unfortunately, you have just learnt from the school that this programme has now been cancelled.\n\nWrite a letter to the School Principal. In your letter:\n\nstate your reason for writing\ndescribe the problem and your concerns\nexplain what you would like the Principal to do.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 5.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr Scheer,",
+        "I am writing this letter to express my deep disappointment with the news that the work placement programme has been cancelled this summer.",
+        "One of the main reasons I chose to study Business English at your school in July and August was the chance to participate in the work placement programme. There are many English schools in California that offer Business English, but not many who offer the chance to go and work in a local company as part of the course programme. Your school is more expensive than the competition, but I was happy to pay extra because I thought the course programme was better quality. Now however, I am very unhappy because I have spent a lot of money and I am not getting the course I want.",
+        "As the course programme is now very different to the one advertised, I would like to request a full refund of the money I have paid for this course. I will try to contact other schools in California, or maybe New York, which run Business English courses and can guarantee a work placement as part of the course.",
+        "I look forward to receiving your reply.",
+        "Yours Sincerely,",
+        "James charles"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "who",
+                "start_idx": 399,
+                "end_idx": 402,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "that"
+                ]
+            },
+            {
+                "word": "however",
+                "start_idx": 631,
+                "end_idx": 638,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter however. Consider adding the comma(s).",
+                "suggetions": [
+                    ",however"
+                ]
+            },
+            {
+                "word": "charles",
+                "start_idx": 1113,
+                "end_idx": 1120,
+                "error": "Change the capitalization",
+                "error_des": "It appears that the word charles may be a proper noun in this context. Consider capitalizing the word.",
+                "suggetions": [
+                    "Charles"
+                ]
+            }
+        ]
+    },
+    "submitter": "odiafestus2",
+    "num_words": 202,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "english",
+                "occurrences": []
+            },
+            {
+                "word": "course",
+                "occurrences": [
+                    {
+                        "start_idx": 467,
+                        "end_idx": 473
+                    },
+                    {
+                        "start_idx": 588,
+                        "end_idx": 594
+                    },
+                    {
+                        "start_idx": 717,
+                        "end_idx": 723
+                    },
+                    {
+                        "start_idx": 739,
+                        "end_idx": 745
+                    },
+                    {
+                        "start_idx": 873,
+                        "end_idx": 879
+                    },
+                    {
+                        "start_idx": 978,
+                        "end_idx": 984
+                    },
+                    {
+                        "start_idx": 1036,
+                        "end_idx": 1042
+                    }
+                ]
+            },
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 98,
+                        "end_idx": 102
+                    },
+                    {
+                        "start_idx": 284,
+                        "end_idx": 288
+                    },
+                    {
+                        "start_idx": 428,
+                        "end_idx": 432
+                    },
+                    {
+                        "start_idx": 1006,
+                        "end_idx": 1010
+                    }
+                ]
+            },
+            {
+                "word": "programme",
+                "occurrences": [
+                    {
+                        "start_idx": 113,
+                        "end_idx": 122
+                    },
+                    {
+                        "start_idx": 299,
+                        "end_idx": 308
+                    },
+                    {
+                        "start_idx": 474,
+                        "end_idx": 483
+                    },
+                    {
+                        "start_idx": 595,
+                        "end_idx": 604
+                    },
+                    {
+                        "start_idx": 746,
+                        "end_idx": 755
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T18:33:05.850Z"
+}

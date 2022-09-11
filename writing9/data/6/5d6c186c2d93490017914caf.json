@@ -1,0 +1,160 @@
+{
+    "url": "https://writing9.com/text/5d6c186c2d93490017914caf",
+    "file": "data\\6\\5d6c186c2d93490017914caf.json",
+    "topics": [
+        "people",
+        "money",
+        "factor",
+        "happiness"
+    ],
+    "question": "Some people believe that money is the most important factor for achieving happiness. However, others believe that happiness has nothing to do with money. Agree or disagree?\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\nWrite at least 250 words.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Happiness is one of the most precious goals to be achieved. People may differ in how defines happiness. Some people may consider happiness depends on presence of money. The more money you have, the happier you are. However, others have different points of view regarding how to be happy.",
+        "Money can facilitate our lives by offering a good standard of life in many aspects. You can have all the fundamental needs like education, housing and good health services. Furthermore, you can live with more luxury and joy. For example,  you can buy luxury cars and visit all the countries you wish. In addition to making your own dreams come true, you will be able to help your family and friends to make them live more comfortable.",
+        "However, availability of all the aforementioned subjects are not equal to real happiness. Some people are extremely rich and they do not live a single happy day. For example, me as a mother, the happiness for me is equal to my daughters. Having kids, taking care of them and raising them to be good, happy and successful ones is a real joy. On the other hand, a student may consider graduation and having a good job is the happiness and a single girl may see the marriage is the happiness,etc.",
+        "In conclusion, how to see happiness is varied between people. Some people consider money is the backbone of happiness while others are living happy depending on different  subjects. In my opinion, regardless of the difference in our definition of happiness, we have to do our best to live happy."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "more comfortable",
+                "start_idx": 706,
+                "end_idx": 722,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "more comfortably"
+                ]
+            },
+            {
+                "word": "live",
+                "start_idx": 862,
+                "end_idx": 866,
+                "error": "go away from a place",
+                "error_des": "",
+                "suggetions": [
+                    "leave"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1213,
+                "end_idx": 1214,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "etc",
+                "start_idx": 1214,
+                "end_idx": 1217,
+                "error": "continuing in the same way",
+                "error_des": "",
+                "suggetions": [
+                    "etc."
+                ]
+            },
+            {
+                "word": "happy",
+                "start_idx": 1509,
+                "end_idx": 1514,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "happily"
+                ]
+            }
+        ]
+    },
+    "submitter": "e.alslais",
+    "num_words": 265,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "on the other hand",
+            "furthermore",
+            "for example",
+            "however",
+            "in addition"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "happiness",
+                "occurrences": [
+                    {
+                        "start_idx": 93,
+                        "end_idx": 102
+                    },
+                    {
+                        "start_idx": 129,
+                        "end_idx": 138
+                    },
+                    {
+                        "start_idx": 802,
+                        "end_idx": 811
+                    },
+                    {
+                        "start_idx": 918,
+                        "end_idx": 927
+                    },
+                    {
+                        "start_idx": 1146,
+                        "end_idx": 1155
+                    },
+                    {
+                        "start_idx": 1202,
+                        "end_idx": 1211
+                    },
+                    {
+                        "start_idx": 1243,
+                        "end_idx": 1252
+                    },
+                    {
+                        "start_idx": 1325,
+                        "end_idx": 1334
+                    },
+                    {
+                        "start_idx": 1464,
+                        "end_idx": 1473
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-01T19:13:48.062Z"
+}

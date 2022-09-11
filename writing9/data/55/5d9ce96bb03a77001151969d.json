@@ -1,0 +1,198 @@
+{
+    "url": "https://writing9.com/text/5d9ce96bb03a77001151969d",
+    "file": "data\\55\\5d9ce96bb03a77001151969d.json",
+    "topics": [
+        "people",
+        "time",
+        "movies"
+    ],
+    "question": "More people are spending their free time watching movies. Why is this? Is it a good thing or bad thing?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many people have watched movies every time. Obviously, viewers can find films a different quality. Some people believe that this activity has more advantages, others find disadvantages. I think, if film a good quality, people should watch it.",
+        "On the one hand, people like to spend their leisure time interesting. Some pictures could be a masterpieces, so time is worth it to watch and spend free time. In this case, it is a good opportunity to go to the cinema; for example, for a date. At the same time, what could be better to watch a comedy with close friends.  I think, it is good entertainment among them.  Moreover, documentaries can teach us something new without any boring books.",
+        "On the other hand, people can waste time watching movies. Sometimes, films can be like a drags; for example, TV shows. I suggest, people could postpone important matters to watch their favourite show. For example, film fans prefer to watch movies instead chores; therefore, they need more time for family and work. In addition, sometimes people see a distorted reality on TV. As a result, they begin to believe in fake news and images.",
+        "Nevertheless, today people have opportunity to watch movies in different formats; for example, people should choose 3d or IMAX format to see and feel all special effects. It makes modern films more live that motivate to watch movies more.",
+        "In conclusion, it so important to feel the difference between waste time and watching a good movie. People can spend their free time watching movies usefully. I think, it is important to choose film accurately to do not waste time in a future."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "masterpieces",
+                "start_idx": 338,
+                "end_idx": 350,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "masterpiece"
+                ]
+            },
+            {
+                "word": "opportunity",
+                "start_idx": 1158,
+                "end_idx": 1169,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the opportunity",
+                    "an opportunity"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 1382,
+                "end_idx": 1384,
+                "error": "it is",
+                "error_des": "",
+                "suggetions": [
+                    "it's"
+                ]
+            },
+            {
+                "word": "waste",
+                "start_idx": 1429,
+                "end_idx": 1434,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "wasting"
+                ]
+            },
+            {
+                "word": "do not",
+                "start_idx": 1580,
+                "end_idx": 1586,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "do, not"
+                ]
+            }
+        ]
+    },
+    "submitter": "kstrfomin",
+    "num_words": 275,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "on the other hand",
+            "as a result",
+            "nevertheless",
+            "moreover",
+            "for ",
+            "instead",
+            "in addition",
+            "therefore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 38,
+                        "end_idx": 42
+                    },
+                    {
+                        "start_idx": 295,
+                        "end_idx": 299
+                    },
+                    {
+                        "start_idx": 355,
+                        "end_idx": 359
+                    },
+                    {
+                        "start_idx": 396,
+                        "end_idx": 400
+                    },
+                    {
+                        "start_idx": 499,
+                        "end_idx": 503
+                    },
+                    {
+                        "start_idx": 725,
+                        "end_idx": 729
+                    },
+                    {
+                        "start_idx": 751,
+                        "end_idx": 755
+                    },
+                    {
+                        "start_idx": 978,
+                        "end_idx": 982
+                    },
+                    {
+                        "start_idx": 1021,
+                        "end_idx": 1025
+                    },
+                    {
+                        "start_idx": 1432,
+                        "end_idx": 1436
+                    },
+                    {
+                        "start_idx": 1492,
+                        "end_idx": 1496
+                    },
+                    {
+                        "start_idx": 1590,
+                        "end_idx": 1594
+                    }
+                ]
+            },
+            {
+                "word": "example",
+                "occurrences": [
+                    {
+                        "start_idx": 466,
+                        "end_idx": 473
+                    },
+                    {
+                        "start_idx": 789,
+                        "end_idx": 796
+                    },
+                    {
+                        "start_idx": 894,
+                        "end_idx": 901
+                    },
+                    {
+                        "start_idx": 1211,
+                        "end_idx": 1218
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-08T19:54:19.630Z"
+}

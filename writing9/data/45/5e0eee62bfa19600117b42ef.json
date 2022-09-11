@@ -1,0 +1,158 @@
+{
+    "url": "https://writing9.com/text/5e0eee62bfa19600117b42ef",
+    "file": "data\\45\\5e0eee62bfa19600117b42ef.json",
+    "topics": [
+        "people",
+        "money",
+        "tickets",
+        "events",
+        "development"
+    ],
+    "question": "These days some people spend a lot of money on tickets to go to sporting or cultural events. Do you think this is a positive or negative development?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, certain folks are spending substantial amount of cash on purchasing tickets of competitive games or cultural meet. This is viewed as a positive development by some, while others have a contradictory believe. In fact, the tendency of extravagant expenditure on events like these carries both merits and demerits and I part with those who trust that this is a positive trend.",
+        "There can be multiple downsides of witnessing any sporting or cultural activities after spending huge amount of money on the tickets. There is no guarantee that the whole episode would be entertaining, and people can feel cheated if the show could not entice them. The fact of the matter is that those people who follow the sports and cultural happenings religiously are subconsciously unaware that attending such events will not bring any improvement in their life and it is merely a matter of momentary pleasure.",
+        "Despite having some areas of concern, I believe that there is more positivity associated with an experience of cheering to athletes or artists up-close and personal. It is often regarded as an unparalleled involvement rather than watching such events on television screen. Not only does the people get the chance to meet and request autographs from their favorite performers, but the overwhelming atmosphere of the arena and the bustling crowd leaves an unforgettable mark in the memories of the visitors. Moreover, passion for sports or art drives the people to go any limit in pursuit of their fascination and are willing to spend any amount of funds for it. This passion is often linked with national or ethnical pride and paves the way for national integration.",
+        "In conclusion, despite the unavoidable flaws in the growing trend of spending huge amount of money for watching sports or cultural events, I believe that there are more positive sides associated with such developments. The unique experience of attending to these events remains embedded in the memories of people and instills a national unification and brotherhood."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "substantial ",
+                "start_idx": 37,
+                "end_idx": 49,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a substantial amount"
+                ]
+            },
+            {
+                "word": "huge ",
+                "start_idx": 481,
+                "end_idx": 486,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "huge amounts",
+                    "a huge amount"
+                ]
+            },
+            {
+                "word": "religiously",
+                "start_idx": 739,
+                "end_idx": 750,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "religions"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1019,
+                "end_idx": 1021,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "favorite",
+                "start_idx": 1254,
+                "end_idx": 1262,
+                "error": "something regarded with special favor or liking",
+                "error_des": "",
+                "suggetions": [
+                    "favourite"
+                ]
+            },
+            {
+                "word": "passion",
+                "start_idx": 1415,
+                "end_idx": 1422,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a passion"
+                ]
+            },
+            {
+                "word": "ethnical",
+                "start_idx": 1606,
+                "end_idx": 1614,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 329,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "moreover",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "amount",
+                "occurrences": [
+                    {
+                        "start_idx": 49,
+                        "end_idx": 55
+                    },
+                    {
+                        "start_idx": 486,
+                        "end_idx": 492
+                    },
+                    {
+                        "start_idx": 1536,
+                        "end_idx": 1542
+                    },
+                    {
+                        "start_idx": 1748,
+                        "end_idx": 1754
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-01-03T07:33:54.983Z"
+}

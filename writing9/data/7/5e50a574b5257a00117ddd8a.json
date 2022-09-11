@@ -1,0 +1,149 @@
+{
+    "url": "https://writing9.com/text/5e50a574b5257a00117ddd8a",
+    "file": "data\\7\\5e50a574b5257a00117ddd8a.json",
+    "topics": [
+        "governments",
+        "countries",
+        "unemployment",
+        "areas",
+        "measure",
+        "step",
+        "government"
+    ],
+    "question": "Governments in many countries are urgently seeking ways to reduce unemployment in rural areas. What are the most effective ways to do this? which measure do you think would be the single most effective step that government could take?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "According to statistics, nowadays, the government is facing increasing unemployment in countryside. There are a number of solutions and my views on the most effective that government could take.",
+        "The authorities of many countries have proposed several solutions to help reduce this situation. First of all, rural workers need skills training because they need professional qualifications and knowledge updates to meet the demands of economic development. This solution is popular because most industries now develop based on high technology that requires highly qualified workers. Second, unemployment after graduation is happening, therefore, to overcome this situation, the period of vocational guidance in schools, combination between family, school and society is extremely necessary. Finally, the government needs to promote searching markets for rural products to increase production demand and create jobs for farmers. For example, exports of products from craft villages such as rice and ceramics are consumed abroad.",
+        "In my opinion, the best solution that all countries can use effectively is governments need to invest in development both in the countryside and in the cities. At the same time, to develop all branches instead of focusing only a few key industries. As a result, there will be more opportunities for employment options and unemployment rate will decrease significantly.",
+        "In conclusion, there are many ways to reduce the unemployment of rural people. However, to solve this problem depends on the financial situation of each country so it will take a long time to solve. I believe that with the current world development, countries will quickly overcome this situation."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "countryside",
+                "start_idx": 87,
+                "end_idx": 98,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the countryside"
+                ]
+            },
+            {
+                "word": "government",
+                "start_idx": 172,
+                "end_idx": 182,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the government"
+                ]
+            },
+            {
+                "word": "now develop",
+                "start_idx": 504,
+                "end_idx": 515,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "have now developed"
+                ]
+            }
+        ]
+    },
+    "submitter": "cgchua169",
+    "num_words": 256,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "second",
+            "as a result",
+            "for example",
+            "instead",
+            "however",
+            "finally",
+            "therefore",
+            "this",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "unemployment",
+                "occurrences": [
+                    {
+                        "start_idx": 71,
+                        "end_idx": 83
+                    },
+                    {
+                        "start_idx": 588,
+                        "end_idx": 600
+                    },
+                    {
+                        "start_idx": 1347,
+                        "end_idx": 1359
+                    },
+                    {
+                        "start_idx": 1443,
+                        "end_idx": 1455
+                    }
+                ]
+            },
+            {
+                "word": "situation",
+                "occurrences": [
+                    {
+                        "start_idx": 281,
+                        "end_idx": 290
+                    },
+                    {
+                        "start_idx": 660,
+                        "end_idx": 669
+                    },
+                    {
+                        "start_idx": 1529,
+                        "end_idx": 1538
+                    },
+                    {
+                        "start_idx": 1681,
+                        "end_idx": 1690
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-22T03:52:20.668Z"
+}

@@ -1,0 +1,153 @@
+{
+    "url": "https://writing9.com/text/5d03e07d5b0f79001761cc48",
+    "file": "data\\7\\5d03e07d5b0f79001761cc48.json",
+    "topics": [
+        "people",
+        "computer",
+        "laptop",
+        "telephone",
+        "home",
+        "work"
+    ],
+    "question": "Many people these days have a computer, laptop, telephone at their home for work. Do you think, working from home has more advantages or disadvantages? Give reasons.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays nigh everybody has a wireless communication device which offers us to work distantly. In this essay I\u2019ll show the major merits and drawbacks of work from home.",
+        "",
+        "To start with I wanted to set off the positive sides. One of them is no need to commute. For instance, for such huge cities as Madrid, with its bumper-to-bumper traffic it\u2019s a significant advantage. More specifically, it is a valuable contribution into ecology improving. In addition, individuals themselves can benefit in tons of ways. Namely the flexibility of the time-management. Indeed, if you are an early bird, you can accomplish your tasks at dawn and just chill out the rest of the time. At the same time others prefer dedicate themselves to personal stuff during the daytime and accomplish their job only at night, when it\u2019s less noisy and nothing can distract them.",
+        "",
+        "On the other hand there are some alarming outcomes which you should take into account if you are about to work from home. Firstly,you go out less frequently, so you might feel kind of isolation and as a consequence frustration or depression. Indeed, in my case this was the reason why I returned to the office. Sometimes, though, the situation is totally opposite, when the family members disturb you and you can\u2019t accomplish your tasks properly and in time. The last, but not least, you should be aware of possible technical issues. As an illustration, imagine there is an electricity cut or problems with the connection. Certainly, as no technical staff is provided, it\u2019s completely up to you to resolve the issue. That being said, from time to time you really have to wear many hats.",
+        "",
+        "To sum up,there are some strong pros and cons. I\u2019ve pointed at by far the most crucial ones, related to health, ecology as well as technical and social factors."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "dedicate",
+                "start_idx": 700,
+                "end_idx": 708,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "dedicating"
+                ]
+            },
+            {
+                "word": "hand there",
+                "start_idx": 865,
+                "end_idx": 875,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "hand, there"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 981,
+                "end_idx": 982,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1651,
+                "end_idx": 1652,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            }
+        ]
+    },
+    "submitter": "pandey.sunaina15",
+    "num_words": 307,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for instance",
+            "on the other ",
+            "in addition",
+            "this",
+            "last",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 537,
+                        "end_idx": 541
+                    },
+                    {
+                        "start_idx": 661,
+                        "end_idx": 665
+                    },
+                    {
+                        "start_idx": 679,
+                        "end_idx": 683
+                    },
+                    {
+                        "start_idx": 750,
+                        "end_idx": 754
+                    },
+                    {
+                        "start_idx": 1163,
+                        "end_idx": 1167
+                    },
+                    {
+                        "start_idx": 1301,
+                        "end_idx": 1305
+                    },
+                    {
+                        "start_idx": 1587,
+                        "end_idx": 1591
+                    },
+                    {
+                        "start_idx": 1595,
+                        "end_idx": 1599
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-14T17:59:25.000Z"
+}

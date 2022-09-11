@@ -1,0 +1,172 @@
+{
+    "url": "https://writing9.com/text/5e48cb2b1738c20018105013",
+    "file": "data\\6\\5e48cb2b1738c20018105013.json",
+    "topics": [
+        "people",
+        "countries",
+        "food",
+        "population",
+        "import"
+    ],
+    "question": "Many people believe that countries should produce food for all population eats and import food as little as possible. To what extent do you agree or disagree",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 4.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is a common belief that ensuring adequate food for all population always a hot topic during centuries. While some people agree that the country should produce all kinds of food for their residents instead of getting all the food from overseas countries. However, I cannot entirely agree with the given statement.",
+        "On the one hand, some people argue that countries should make plenty of storage foods for their residents because of some factors. First of all, self-sufficient supply is a way to cut food cost to some extent. For example, importing food from overseas countries, then the government has to deal with transportation cost, taxation, and other charges. Moreover, using import food which can affect people\u2019s health. For instance, when food import in a long distance, then it cannot ensure the quality or freshness.",
+        "Nevertheless, I believe that self-sufficient supply can bring some downside for their nations. Firstly, it is not suitable for all the countries in the world. For example, some countries had been desertification and drought. Therefore, they cannot grow plants to supply for themselves. Secondly, it does not benefit the global economy. For instance, when a country is not connected with other countries in the world, it might become isolation country, it might cut its economy and lag behind compared with the world.",
+        "In summarize, while some people think that their countries do not need to import foods or goods from foreign countries because they think the government should produce all the food for them. However, I disagree with this view because this will bring some drawbacks and not suitable in some countries."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "foods",
+                "start_idx": 396,
+                "end_idx": 401,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "food"
+                ]
+            },
+            {
+                "word": "isolation",
+                "start_idx": 1260,
+                "end_idx": 1269,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "isolated"
+                ]
+            },
+            {
+                "word": "economy",
+                "start_idx": 1296,
+                "end_idx": 1303,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "economic"
+                ]
+            },
+            {
+                "word": "with",
+                "start_idx": 1328,
+                "end_idx": 1332,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "summarize",
+                "start_idx": 1347,
+                "end_idx": 1356,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "summarizing"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 267,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "then",
+            "this",
+            "nevertheless",
+            "for example",
+            "firstly",
+            "moreover",
+            "instead",
+            "however",
+            "therefore",
+            "for instance",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 45,
+                        "end_idx": 49
+                    },
+                    {
+                        "start_idx": 175,
+                        "end_idx": 179
+                    },
+                    {
+                        "start_idx": 227,
+                        "end_idx": 231
+                    },
+                    {
+                        "start_idx": 396,
+                        "end_idx": 400
+                    },
+                    {
+                        "start_idx": 500,
+                        "end_idx": 504
+                    },
+                    {
+                        "start_idx": 549,
+                        "end_idx": 553
+                    },
+                    {
+                        "start_idx": 689,
+                        "end_idx": 693
+                    },
+                    {
+                        "start_idx": 747,
+                        "end_idx": 751
+                    },
+                    {
+                        "start_idx": 1425,
+                        "end_idx": 1429
+                    },
+                    {
+                        "start_idx": 1520,
+                        "end_idx": 1524
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-16T04:55:07.349Z"
+}

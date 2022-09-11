@@ -1,0 +1,162 @@
+{
+    "url": "https://writing9.com/text/618a6fb2ed99dc0019406955-university-students-are-increasingly-studying-abroad-as-part-of-their",
+    "file": "data\\55\\618a6fb2ed99dc0019406955.json",
+    "topics": [
+        "university",
+        "students",
+        "part",
+        "studies"
+    ],
+    "question": "University students are increasingly studying abroad as part of their studies. Do the advantages of studying abroad outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There has been a rising trend amongst students to pursue their education in foreign universities. Although students would struggle with cultural and linguistic challenges, they would gain significant life experiences, that would reward them later on in their careers. In my opinion, studying abroad has far fetched benefits, despite a few inevitable circumstances they may have to face.",
+        "The greatest benefit of students studying overseas is that, they will have unique personal experiences that will help them grow as individuals,which would not have been possible if they had studied in their own countries. Being in another country would require the students to push themselves from the norm, enabling them to enrich their knowledge and experience. For example, when my sister studied in Italy, she would be put in situations that she had to continually adapt to. These unique encounters with life add layers to the students overall personality and for this reason it is essential that students migrate abroad.",
+        "The main difficulty that students will face while abroad would stem from cultural and linguistic challenges. For many,communication with locals to get errands done would be an obstacle. For instance, my Pakistani friend while studying in Indonesia would at times make a fool of himself while trying to express his wants or thoughts effectively. This barrier of language acts as a major disadvantage for students who pursue studies overseas.",
+        "Studying in a foriegn country has become incredibly common, while students will no doubt will experience obstacles in the form of communication, it is in fact that these very hardships will lead to the main advantage of studying abroad that is personal development. Hence, in my opinion, few bad days will lead to a lifetime of cherished memories abroad, which would be more advantageous than disadvantages."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 446,
+                "end_idx": 447,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction that. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "students",
+                "start_idx": 919,
+                "end_idx": 927,
+                "error": "Change to a genitive case",
+                "error_des": "It appears that the word students should use the genitive case. Consider changing the noun.",
+                "suggetions": [
+                    "student's",
+                    "students'"
+                ]
+            },
+            {
+                "word": "reason",
+                "start_idx": 961,
+                "end_idx": 967,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase for this reason. Consider adding a comma.",
+                "suggetions": [
+                    ",reason"
+                ]
+            },
+            {
+                "word": "foriegn",
+                "start_idx": 1470,
+                "end_idx": 1477,
+                "error": "Correct your spelling",
+                "error_des": "The word foriegn is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "foreign"
+                ]
+            },
+            {
+                "word": "few",
+                "start_idx": 1744,
+                "end_idx": 1747,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a few"
+                ]
+            }
+        ]
+    },
+    "submitter": "shaama2310",
+    "num_words": 294,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "this",
+            "hence",
+            "for example",
+            "although",
+            "that is",
+            "for instance"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 38,
+                        "end_idx": 46
+                    },
+                    {
+                        "start_idx": 107,
+                        "end_idx": 115
+                    },
+                    {
+                        "start_idx": 411,
+                        "end_idx": 419
+                    },
+                    {
+                        "start_idx": 652,
+                        "end_idx": 660
+                    },
+                    {
+                        "start_idx": 918,
+                        "end_idx": 926
+                    },
+                    {
+                        "start_idx": 988,
+                        "end_idx": 996
+                    },
+                    {
+                        "start_idx": 1038,
+                        "end_idx": 1046
+                    },
+                    {
+                        "start_idx": 1416,
+                        "end_idx": 1424
+                    },
+                    {
+                        "start_idx": 1520,
+                        "end_idx": 1528
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-11-09T12:55:15.645Z"
+}

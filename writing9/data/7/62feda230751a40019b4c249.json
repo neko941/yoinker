@@ -1,0 +1,111 @@
+{
+    "url": "https://writing9.com/text/62feda230751a40019b4c249-any-recent-invention-that-you-think-proved-beneficial-or-detrimental",
+    "file": "data\\7\\62feda230751a40019b4c249.json",
+    "topics": [
+        "invention",
+        "society"
+    ],
+    "question": "Any recent Invention that you think proved beneficial or detrimental to society.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "This is an era of technology and artificial intelligence. Everyone is using new technology or invention for their daily activities, such as communication, cooking, education, business, and finding data. However, I believe that Alexa is a unique invention of this modernization which has various benefits followed by drawbacks. This essay will discuss the advantages and  disadvantages of Alexa in society.",
+        "Alexa is a virtual assistant technology developed in 2013 by Amazon. It is a type of echo smart speaker. It uses automatic voice recognition.  Nevertheless, it has a  lot benefits. First and foremost is playing music. people can play the music without touching it.  It is one of the leisure activities for society members. secondly, it is helpful for setting alarms, making a do list, and providing information on weather, traffic, sports, etc. Moreover, it is very much useful for  people who are handicapped and not able to use  gadgets.  Those crowds can interact with Alexa and Alexa helps them with what they need. For example, In the year 2021, Health Ontario suggested using Alexa for disabled patients in hospitals or long-term facilities.",
+        "Moreover, every coin has two sides, this invention also has its detrimental side. Alexa needs a mobile application for its activation and Alexa must require electricity for its charging. sometimes, Alexa does not understand the voice of an individual or recognize  other things than original recognition which is a really fruitful thing for the public. Therefore, a recent survey mentioned that 70% of individuals gave poor feedback because of its recognition.",
+        "To put it in a nutshell,  the unique invention of Alexa definitely helps society members with their routine and free time for work. I believe that one or two disadvantages do not damage the reputation of Alexa. This is the best invention I found to date."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "lot",
+                "start_idx": 573,
+                "end_idx": 576,
+                "error": "Add the preposition",
+                "error_des": "It appears that you are missing a preposition after a lot. Consider adding a preposition.",
+                "suggetions": [
+                    "oflot"
+                ]
+            }
+        ]
+    },
+    "submitter": "14bba63",
+    "num_words": 300,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "nevertheless",
+            "for example",
+            "moreover",
+            "however",
+            "secondly",
+            "therefore",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "alexa",
+                "occurrences": []
+            },
+            {
+                "word": "invention",
+                "occurrences": [
+                    {
+                        "start_idx": 94,
+                        "end_idx": 103
+                    },
+                    {
+                        "start_idx": 245,
+                        "end_idx": 254
+                    },
+                    {
+                        "start_idx": 1195,
+                        "end_idx": 1204
+                    },
+                    {
+                        "start_idx": 1652,
+                        "end_idx": 1661
+                    },
+                    {
+                        "start_idx": 1843,
+                        "end_idx": 1852
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-19T00:38:24.361Z"
+}

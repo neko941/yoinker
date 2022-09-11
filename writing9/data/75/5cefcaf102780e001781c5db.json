@@ -1,0 +1,168 @@
+{
+    "url": "https://writing9.com/text/5cefcaf102780e001781c5db",
+    "file": "data\\75\\5cefcaf102780e001781c5db.json",
+    "topics": [
+        "rise",
+        "e-books",
+        "decline",
+        "paper",
+        "books",
+        "people",
+        "step",
+        "trend"
+    ],
+    "question": "With the rise of e-books comes the decline in paper books. Some people see this as a good step forward while other does not. What are the advantages and disadvantages of this trend?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The books are an enormous source of knowledge which is nowadays transformed its appearance from traditional paper-based to digital form known as e-books. The majority of people believe that it is an advanced mode of reading books with certain positive points. However, others think that e-books are not the proper way of gaining knowledge, paper books are still the best learning or reading material compared to digital books.",
+        "To begin with, from the last four decades books were changed from paper-based to digital one. In the modern era of technology most of the people using mobile phones, tablets and computers in order to work at the office, watching movies and reading newspaper or e-books. If we consider the fact in terms of money and convenience digital form is the best suitable way of reading books. In addition to this, the e-books are easily transferable and can be used anywhere on any device. To illustrate, these days due to certain benefits of e-books, 75% of the population prefers e-books over paper books compare to 20th century, according to a survey conducted by BBC news.",
+        "On the contrary, It is a non-deniable fact that still there are a group of people who prefers paper-based books. The main reason for this is, as of today all the books are not available in digital form such as ancient books. The digital forms have significant downsides that result in strain on eyes if, e-books were used for an extended period of time which normally people do while reading. For instance, with reference to the continuation of BBC news survey in which, they interviewed around one million people around the globe and outcomes were a selective group of people used to enjoy reading a traditional paper-based book and newspaper over morning or evening tea/coffee time. Even after the technological advancement, there are people who still prefer the old way of reading books which cannot be replaced by any means.",
+        "To conclude, E-books and paper books have their own benefits and limitations which defers person to person. E-books are now trending in the 21st century where more and more people are started using it, nevertheless, all the books are not available as of now. Paper books are the traditional way of reading which cannot be replaced 100% by digital form even after considering its downsides."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "is nowadays transformed",
+                "start_idx": 52,
+                "end_idx": 75,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "has nowadays transformed",
+                    "nowadays transforms"
+                ]
+            },
+            {
+                "word": "were changed",
+                "start_idx": 476,
+                "end_idx": 488,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "was changed"
+                ]
+            },
+            {
+                "word": "BBC news survey",
+                "start_idx": 1542,
+                "end_idx": 1557,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the BBC news survey"
+                ]
+            },
+            {
+                "word": "reading which",
+                "start_idx": 2225,
+                "end_idx": 2238,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "reading, which"
+                ]
+            }
+        ]
+    },
+    "submitter": "er.vaibhavpatil",
+    "num_words": 388,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "on the contrary",
+            "for instance",
+            "nevertheless",
+            "however",
+            "in addition",
+            "this",
+            "to begin",
+            "last",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "way",
+                "occurrences": [
+                    {
+                        "start_idx": 314,
+                        "end_idx": 317
+                    },
+                    {
+                        "start_idx": 789,
+                        "end_idx": 792
+                    },
+                    {
+                        "start_idx": 1864,
+                        "end_idx": 1867
+                    },
+                    {
+                        "start_idx": 2215,
+                        "end_idx": 2218
+                    }
+                ]
+            },
+            {
+                "word": "form",
+                "occurrences": [
+                    {
+                        "start_idx": 69,
+                        "end_idx": 73
+                    },
+                    {
+                        "start_idx": 131,
+                        "end_idx": 135
+                    },
+                    {
+                        "start_idx": 763,
+                        "end_idx": 767
+                    },
+                    {
+                        "start_idx": 1292,
+                        "end_idx": 1296
+                    },
+                    {
+                        "start_idx": 1332,
+                        "end_idx": 1336
+                    },
+                    {
+                        "start_idx": 2271,
+                        "end_idx": 2275
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-30T12:22:09.000Z"
+}

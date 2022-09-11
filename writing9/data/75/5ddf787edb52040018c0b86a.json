@@ -1,0 +1,196 @@
+{
+    "url": "https://writing9.com/text/5ddf787edb52040018c0b86a-your-office-building-doesnt-have-parking-available-write-a-letter",
+    "file": "data\\75\\5ddf787edb52040018c0b86a.json",
+    "topics": [
+        "office",
+        "doesn",
+        "manager",
+        "benefit",
+        "employees"
+    ],
+    "question": "Your office building doesn't have parking available. \nWrite a letter to the manager. In your letter:\n\u2022\tExplain the problem \n\u2022\tSuggest a solution\n\u2022\tSay why parking will benefit all employees",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "The purpose of writing this letter to you is to draw your attention towards an important issue of unavailability of spacious parking space.",
+        "On daily basis, I waste at least 25 minutes in finding space to park my car, because the current area to park cars is not enough to cater the need of 50 employees working in this company. Due to congested parking, I prefer to park my car 1km away in the city mall. I spend extra money to pay for a parking facility, while I have to walk for 30 minutes to reach the office.",
+        "Both finding ample space and to park the car far away from the office is wastage of time. if we specify the extra place, it will be extremely helpful to resolve this issue. As per my knowledge, we can rent an area adjacent to the office, because by lending this space, it'll be more than enough space, to provide a place to park vehicles.",
+        "Moreover, it will be beneficial for all employees. Because parking amenity will save a lot of time as well as blockage at arrival and departure timing of the office.",
+        "Best Regards,",
+        "Aliza"
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "the",
+                "start_idx": 288,
+                "end_idx": 291,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for the"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 552,
+                "end_idx": 555,
+                "error": "Change the verb form",
+                "error_des": "To park doesn\u2019t seem to work here.",
+                "suggetions": [
+                    "parking"
+                ]
+            },
+            {
+                "word": "wastage",
+                "start_idx": 596,
+                "end_idx": 603,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a wastage"
+                ]
+            },
+            {
+                "word": "amenity",
+                "start_idx": 929,
+                "end_idx": 936,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that amenity may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "amenities"
+                ]
+            }
+        ]
+    },
+    "submitter": "alizabasharat48",
+    "num_words": 196,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "this",
+            "moreover"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "park",
+                "occurrences": [
+                    {
+                        "start_idx": 135,
+                        "end_idx": 139
+                    },
+                    {
+                        "start_idx": 214,
+                        "end_idx": 218
+                    },
+                    {
+                        "start_idx": 255,
+                        "end_idx": 259
+                    },
+                    {
+                        "start_idx": 355,
+                        "end_idx": 359
+                    },
+                    {
+                        "start_idx": 376,
+                        "end_idx": 380
+                    },
+                    {
+                        "start_idx": 448,
+                        "end_idx": 452
+                    },
+                    {
+                        "start_idx": 555,
+                        "end_idx": 559
+                    },
+                    {
+                        "start_idx": 847,
+                        "end_idx": 851
+                    },
+                    {
+                        "start_idx": 921,
+                        "end_idx": 925
+                    }
+                ]
+            },
+            {
+                "word": "space",
+                "occurrences": [
+                    {
+                        "start_idx": 143,
+                        "end_idx": 148
+                    },
+                    {
+                        "start_idx": 205,
+                        "end_idx": 210
+                    },
+                    {
+                        "start_idx": 542,
+                        "end_idx": 547
+                    },
+                    {
+                        "start_idx": 785,
+                        "end_idx": 790
+                    },
+                    {
+                        "start_idx": 818,
+                        "end_idx": 823
+                    }
+                ]
+            },
+            {
+                "word": "office",
+                "occurrences": [
+                    {
+                        "start_idx": 515,
+                        "end_idx": 521
+                    },
+                    {
+                        "start_idx": 586,
+                        "end_idx": 592
+                    },
+                    {
+                        "start_idx": 753,
+                        "end_idx": 759
+                    },
+                    {
+                        "start_idx": 1020,
+                        "end_idx": 1026
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T17:52:38.088Z"
+}

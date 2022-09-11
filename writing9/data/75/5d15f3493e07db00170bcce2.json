@@ -1,0 +1,104 @@
+{
+    "url": "https://writing9.com/text/5d15f3493e07db00170bcce2-a-friend-has-agreed-to-look-after-your-house-and",
+    "file": "data\\75\\5d15f3493e07db00170bcce2.json",
+    "topics": [
+        "friend",
+        "house",
+        "pet",
+        "holiday",
+        "contact",
+        "instructions",
+        "care",
+        "household",
+        "duties"
+    ],
+    "question": "A friend has agreed to look after your house and pet while you are on holiday.\nWrite a letter to your friend. In your letter: \n\u2022\tgive contact details for when you are away\n\u2022\tgive instructions on how to care for your pet\n\u2022\tdescribe other household duties",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sarah,",
+        "I am pleased to write this letter and thank you for accepting my humble request to look after my apartment and cat for a week. I am sharing all needed details below in this letter.",
+        "I am flying to California tomorrow morning and I will be back by Sunday evening. Although I will be available on messenger for text messages, you can talk to me on my cellphone number for any sort of urgency. I hope that you will have a great time with my cat. It is a darling and lovely friend of mine. It takes meal twice a day, once in the morning and then once in the evening. Animal eatables are kept in the first right draw of my kitchen. Feed it and if possible give it a shower on Sunday morning.",
+        "In addition to this, pay electricity bill which is due for Tuesday. I have kept some cash and bill on the table. Please don\u2019t worry about the laundry and kitchen, I will fix things when I will come back. I am hoping that you take care of everything at home.",
+        "Best wishes,",
+        "Miss X"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "needed",
+                "start_idx": 157,
+                "end_idx": 163,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the needed"
+                ]
+            },
+            {
+                "word": "electricity",
+                "start_idx": 728,
+                "end_idx": 739,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the electricity"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 758,
+                "end_idx": 761,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            }
+        ]
+    },
+    "submitter": "kaleem.rijaa",
+    "num_words": 191,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "then",
+            "although",
+            "in addition",
+            "this",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T16:05:05.973Z"
+}

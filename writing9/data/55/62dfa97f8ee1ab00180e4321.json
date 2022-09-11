@@ -1,0 +1,173 @@
+{
+    "url": "https://writing9.com/text/62dfa97f8ee1ab00180e4321-some-people-believe-that-electronic-calculators-should-not-be-allowed",
+    "file": "data\\55\\62dfa97f8ee1ab00180e4321.json",
+    "topics": [
+        "people",
+        "calculators",
+        "school",
+        "pupils",
+        "arithmetic",
+        "time",
+        "calculations"
+    ],
+    "question": "Some people believe that electronic calculators should not be allowed in school until after the pupils have mastered mental arithmetic. Others believe that calculators save pupils time, especially with complicated calculations. Discuss both views and give your own opinions.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Advancements in technology have changed the way we approach learning in school, but there has been a hot debate on the use of electronic calculators in school, some say that because of the dependency calculators can create on young pupils, it should be banned. As for others, because of the benefits of saving time, especially with complex calculations, calculators should continue to be used. As for myself, I will first look at both sides and give ways we can approach this situation.",
+        "First, let\u2019s look at the negatives of calculators. The main and most significant impact is that school children become too dependent on calculators and become lazy, as such weakening their thinking and mathematical skills. As a result, calculators can be a form of cheating, as young schoolchildren haven\u2019t fully developed their mental arithmetic.",
+        "Next, let\u2019s look at the good side of calculators. Because of saving time, calculators can help them get past the easy questions and have more time doing the harder questions that calculators can\u2019t solve until the problem has been simplified by pupils, and thus strengthen their logical skills instead of the opposites. Furthermore, calculators can be a great form for pupils to experiment with math or apply them to other subjects.",
+        "In conclusion, this argument has been thoroughly discussed in this essay and I think the best way we can settle down the argument is not to ban calculators, but to limit usage for young pupils, because calculators can be a great form to introduce students to technology. Hopefully, this situation will not be a problem anymore if more people and schools now understand the use of electronic calculators."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 1422,
+                "end_idx": 1423,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound predicate. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1459,
+                "end_idx": 1460,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker because. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "hmwh4t",
+    "num_words": 274,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "as a result",
+            "furthermore",
+            "instead",
+            "next",
+            "this",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "calculators",
+                "occurrences": [
+                    {
+                        "start_idx": 137,
+                        "end_idx": 148
+                    },
+                    {
+                        "start_idx": 200,
+                        "end_idx": 211
+                    },
+                    {
+                        "start_idx": 354,
+                        "end_idx": 365
+                    },
+                    {
+                        "start_idx": 525,
+                        "end_idx": 536
+                    },
+                    {
+                        "start_idx": 623,
+                        "end_idx": 634
+                    },
+                    {
+                        "start_idx": 723,
+                        "end_idx": 734
+                    },
+                    {
+                        "start_idx": 872,
+                        "end_idx": 883
+                    },
+                    {
+                        "start_idx": 909,
+                        "end_idx": 920
+                    },
+                    {
+                        "start_idx": 1014,
+                        "end_idx": 1025
+                    },
+                    {
+                        "start_idx": 1167,
+                        "end_idx": 1178
+                    },
+                    {
+                        "start_idx": 1411,
+                        "end_idx": 1422
+                    },
+                    {
+                        "start_idx": 1469,
+                        "end_idx": 1480
+                    },
+                    {
+                        "start_idx": 1658,
+                        "end_idx": 1669
+                    }
+                ]
+            },
+            {
+                "word": "pupils",
+                "occurrences": [
+                    {
+                        "start_idx": 232,
+                        "end_idx": 238
+                    },
+                    {
+                        "start_idx": 1079,
+                        "end_idx": 1085
+                    },
+                    {
+                        "start_idx": 1203,
+                        "end_idx": 1209
+                    },
+                    {
+                        "start_idx": 1453,
+                        "end_idx": 1459
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-26T08:44:49.177Z"
+}

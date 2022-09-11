@@ -1,0 +1,104 @@
+{
+    "url": "https://writing9.com/text/5cc771701cb6abc9184e431d",
+    "file": "data\\75\\5cc771701cb6abc9184e431d.json",
+    "topics": [
+        "country",
+        "language"
+    ],
+    "question": "Living in a country where you have to speak a foreign language can cause serious social problems as well as practical problems. To that extent do you agree or disagree.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Foreigners, who struggle with learning the unfamiliar language spoken by locals, are considered by many people to be faced with social and practical issues. In my opinion, I agree with this view as such individuals struggle with isolation and other detrimental problems.",
+        "",
+        "Most foreigners who are unable to speak the common tongue of the new country find it difficult to make acquaintances and this results in isolation. That is, owing to their difficulty in communicating with the locals, most foreigners are unable to create new relationships and, as a result, they are isolated and fall into depression. For instance, considering the recent survey conducted in tertiary institutions, the hike in suicide rates amongst the French speaking students have been attributed to depression. These students are unable to form relationships with the native English speakers and this leads to a poor mental health due to segregation.",
+        "Also, Immigrants, who find it difficult speaking the local language, prefer to purchase desired items from online stores instead of the local market. Instead of purchasing items from a nearby market, these individuals rather resort to making orders from the internet which incurs more expenses and exposes them to fraudsters. For example, considering their poor language skills, many foreign students admit to purchasing basic items, such as toiletries, from online stores instead of a nearby market. While this method may be considered convenient, it is has been referred to as the reason why students are increasingly falling prey to internet fraud. This alternative is admittedly more expensive as it involves charges such as delivery.",
+        "",
+        "In conclusion, the inability to speak the native language of the residing country makes foreigners suffer from mental challenges, fall prey to fraudulent activities and opt for more expensive alternatives to purchasing desired items."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "is has been referred",
+                "start_idx": 1479,
+                "end_idx": 1499,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is referred",
+                    "refers"
+                ]
+            }
+        ]
+    },
+    "submitter": "nenyeib",
+    "num_words": 293,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "for instance",
+            "as a result",
+            "for example",
+            "instead",
+            "that is",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "language",
+                "occurrences": [
+                    {
+                        "start_idx": 54,
+                        "end_idx": 62
+                    },
+                    {
+                        "start_idx": 984,
+                        "end_idx": 992
+                    },
+                    {
+                        "start_idx": 1287,
+                        "end_idx": 1295
+                    },
+                    {
+                        "start_idx": 1714,
+                        "end_idx": 1722
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-29T21:49:36.000Z"
+}

@@ -1,0 +1,90 @@
+{
+    "url": "https://writing9.com/text/5ca25fc50d6f8e684c2cf378-you-have-just-spent-a-week-with-a-friend-on",
+    "file": "data\\65\\5ca25fc50d6f8e684c2cf378.json",
+    "topics": [
+        "week",
+        "friend",
+        "holiday",
+        "home",
+        "wallet",
+        "house",
+        "instructions"
+    ],
+    "question": "You have just spent a week with a friend on holiday. When you got home, you realized you had left your wallet there.\nwrite a letter to your friend. In your letter:\n1. thank you friend for the holiday\n2. Explain that you left your wallet in their house\n3. Give them instructions of how to send to send it back to you",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 4.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Emily,",
+        "During my entire travel back home, I was not able to stop thinking how much fun this whole week was. This is probably the best holiday break I have ever had. Thank you so much for making this trip very enjoyable. we indeed did make a lot of memories.",
+        "Only when I got back home, I noticed that I left my wallet at your place. I thought I had packed all my belongings inside my bag. I had to reopen my bag after I had it fully packed to pull out my printed ticket. I am thinking my wallet might have slipped out then.",
+        "It would be great if you could send it over to me. You can use postal services like teh FedEx or some other services that offer \"Express Delivery\"  to ensure I get it as soon as possible. I am sure you already know  my home address. But writing it here just in case - 64 Apple Street, New York, USA 14680",
+        "Thank you once again for hosting me.",
+        "Take care",
+        "Divya"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "how",
+                "start_idx": 86,
+                "end_idx": 89,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "about how"
+                ]
+            },
+            {
+                "word": "teh",
+                "start_idx": 624,
+                "end_idx": 627,
+                "error": "Correct your spelling",
+                "error_des": "The word teh is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "dk5396",
+    "num_words": 177,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "this",
+            "then"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T15:54:44.661Z"
+}

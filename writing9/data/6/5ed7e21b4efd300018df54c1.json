@@ -1,0 +1,195 @@
+{
+    "url": "https://writing9.com/text/5ed7e21b4efd300018df54c1-a-friend-has-agreed-to-look-after-your-house-and",
+    "file": "data\\6\\5ed7e21b4efd300018df54c1.json",
+    "topics": [
+        "friend",
+        "house",
+        "pet",
+        "holiday",
+        "contact",
+        "instructions",
+        "care",
+        "household",
+        "duties",
+        "addresses"
+    ],
+    "question": "A friend has agreed to look after your house and pet while you are on holiday. Write a letter to your friend. In your letter\u2022\tgive contact details for when you are away\u2022\tgive instructions about how to care for your pet\u2022\tdescribe other household dutiesWrite at least 150 words. You do NOT need to write any addresses",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Harshit,",
+        "I hope you and your family are all well. If you remember that I was planning to take a trip to Las Vegas for which I was keeping my hard earnings saved. The moment has now come and I have booked my tickets and it\u2019s a 6 days holiday starting on week commencing 5th July.",
+        "I request you to take care of my dog Jack and take to your home. As you know that Jack is very friendly with you and you are very fond of dogs so I believe he don\u2019t give you hard time. I have already prepared meal for a week, you just need to put it on the serving table for him twice in a day and he expect to go for a long walk at sunrise and sunset.",
+        "Would you also kindly look in to my home once in a day until I come back. I will leave the keys under the doormat and also keep an eye on the letter box as some times there can be an urgent mail which needs to be responded immediately.",
+        "Thank you for the consideration, I will wait for your response.",
+        "Warm wishes,",
+        "Varun Chawla"
+    ],
+    "errors": {
+        "num_error": "12",
+        "error_list": [
+            {
+                "word": "week",
+                "start_idx": 259,
+                "end_idx": 263,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the week"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 337,
+                "end_idx": 339,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "them to",
+                    "him to",
+                    "her to"
+                ]
+            },
+            {
+                "word": "don\u2019t",
+                "start_idx": 445,
+                "end_idx": 450,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun he and the verb do are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "doesn\u2019t"
+                ]
+            },
+            {
+                "word": "meal",
+                "start_idx": 495,
+                "end_idx": 499,
+                "error": "Add an article",
+                "error_des": "The noun phrase meal seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a meal",
+                    "the meal"
+                ]
+            },
+            {
+                "word": "in ",
+                "start_idx": 571,
+                "end_idx": 574,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "expect",
+                "start_idx": 587,
+                "end_idx": 593,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun he and the verb expect are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "expects"
+                ]
+            },
+            {
+                "word": "in to",
+                "start_idx": 667,
+                "end_idx": 672,
+                "error": "Join the words",
+                "error_des": "It appears that the two words in and to should be one word.",
+                "suggetions": [
+                    "into"
+                ]
+            },
+            {
+                "word": "in ",
+                "start_idx": 686,
+                "end_idx": 689,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "letter box",
+                "start_idx": 782,
+                "end_idx": 792,
+                "error": "Correct your spelling",
+                "error_des": "The word letter box seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "letterbox"
+                ]
+            },
+            {
+                "word": "some times",
+                "start_idx": 796,
+                "end_idx": 806,
+                "error": "Correct your spelling",
+                "error_des": "The word some times seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "sometimes"
+                ]
+            },
+            {
+                "word": "immediately",
+                "start_idx": 863,
+                "end_idx": 874,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to immediately"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 892,
+                "end_idx": 895,
+                "error": "Change the word",
+                "error_des": "The word the may be incorrect in this context. Consider changing it.",
+                "suggetions": [
+                    "your"
+                ]
+            }
+        ]
+    },
+    "submitter": "Indian Reigns",
+    "num_words": 199,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "1",
+        "list_linking_words": [
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-14T10:50:00.497Z"
+}

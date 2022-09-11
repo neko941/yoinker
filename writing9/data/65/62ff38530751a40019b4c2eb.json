@@ -1,0 +1,101 @@
+{
+    "url": "https://writing9.com/text/62ff38530751a40019b4c2eb-an-increasing-number-of-people-are-buying-whta-they-need",
+    "file": "data\\65\\62ff38530751a40019b4c2eb.json",
+    "topics": [
+        "people",
+        "whta",
+        "individuals",
+        "companies"
+    ],
+    "question": "An increasing number of people are buying whta they need online.  What are the advantages and disadvantages for both individuals and companies to shopping online?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Online marketing is very common nowadays. More and more individuals prefer to order on the internet and let it be delivered to them in their homes. Companies have opened accounts online and requesting customers to purchase from there. Some shop owners go as far as offering a free delivery service just to make it appeal to people. This new trend has its upside and downside for the company and even customers and in this ,essay both will be presented.",
+        "Firstly, one benefit of shopping online is that  it is convenient. This is because time and energy are saved. All one has to do is, search the item on the net, enquire about its availability, make payments and ask for it to be delivered to his or her home. This is faster  compared to  traditional walking or driving long distances to a shop to buy an item. It also saves time as one can do other things while waiting for his or her order.",
+        "For companies, it gives them a wider audience because people all over the world will know about their product or service.",
+        "However, online shopping has its drawbacks. There has been quite a number of occasions where people have complaints of being duped. Most shops on the internet are fake. Their aim is to extort money from the public in the name of shopping. For instance, a friend ordered  a bag online and to date she hasn't received the item she paid for. She has been blocked by the  handler of the account. Also, shop owners complain about customers not showing up after their delivery men have gotten to their  destination. This poses a great loss to the company because  it wasted time and fuel.",
+        "In conclusion, online marketing was introduced to make it faster and easier to get the things we need. However, fraudsters are using this as an opportunity to rip people off their money."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "date",
+                "start_idx": 1307,
+                "end_idx": 1311,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase to date. Consider adding a comma.",
+                "suggetions": [
+                    ",date"
+                ]
+            }
+        ]
+    },
+    "submitter": "vanessaboateng2019",
+    "num_words": 319,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "for instance",
+            "however",
+            "this",
+            "also",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 324,
+                        "end_idx": 330
+                    },
+                    {
+                        "start_idx": 947,
+                        "end_idx": 953
+                    },
+                    {
+                        "start_idx": 1108,
+                        "end_idx": 1114
+                    },
+                    {
+                        "start_idx": 1761,
+                        "end_idx": 1767
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-19T07:21:33.617Z"
+}

@@ -1,0 +1,181 @@
+{
+    "url": "https://writing9.com/text/62bf54dc8ee1ab00180e0cc3-it-is-important-for-people-to-take-risks-both-in",
+    "file": "data\\7\\62bf54dc8ee1ab00180e0cc3.json",
+    "topics": [
+        "people",
+        "risks",
+        "lives"
+    ],
+    "question": "It is important for people to take risks, both in their professional lives and their personal lives.Do you think the advantages of taking risks outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Despite the turmoil over the recent decade, it is important to consider the impact of decisions on people\u2019s lives. It is believed that impulsive decisions are quintessential in people\u2019s private and career lives; however, I adopt the notion that individuals should scrutinize every step they take life for their safety. In the following essay, both merits and demerits of this idea will be discussed thoroughly and I will explain my opinion.",
+        "On the one hand, despite my disagreement, proponents propose that risky steps boost people\u2019s lives in different aspects. This is because when people tackle challenging situations, they will encounter new experiences that will ultimately improve their interpersonal skills. A prime example of this is Steve Jobs who has commissioned plethora of awareness campaigns that urge citizens to step out of their comfort zones, and seize opportunities. Thus, what can be said from this example is that unplanned settlements can be beneficial in terms of gaining life experiences.",
+        "On the other hand, opponents and I are of the belief that taking risks in work and family life has a myriad of demerits. The most important of which is that if youth launch start-up businesses without planning, they will eventually lose their financial sources. For instance, many Egyptian entrepreneurs lose their fortunes as they do not conduct feasibility study before they start their enterprises. Furthermore, when the issue is tackled from a social perspective, it can be witnessed that many disruptive families, nowadays, result from impulsive marriage decisions. Therefore, without skeptical planning of future decisions, not only do people face financial obstacles, but they also suffer from disturbed relationships.",
+        "In conclusion, after this essay has manifested the above-mentioned points, I can reiterate that while a percentage of people discern quick decisions as a positive virtue in order to gain new experiences, I am a staunch believer that the demerits of these decisions immensely surpass their merits in both social and professional aspects since these dangerous arrangements may eventually have detrimental consequences on individuals\u2019 lives."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "has ",
+                "start_idx": 757,
+                "end_idx": 761,
+                "error": "Unnecessary verb",
+                "error_des": "The verb has appears to be unnecessary here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "plethora",
+                "start_idx": 774,
+                "end_idx": 782,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a plethora"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 859,
+                "end_idx": 860,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound predicate. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "feasibility",
+                "start_idx": 1360,
+                "end_idx": 1371,
+                "error": "Add an article",
+                "error_des": "The noun phrase feasibility study seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a feasibility"
+                ]
+            },
+            {
+                "word": "study",
+                "start_idx": 1372,
+                "end_idx": 1377,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that study may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "studies"
+                ]
+            },
+            {
+                "word": "skeptical",
+                "start_idx": 1603,
+                "end_idx": 1612,
+                "error": "Change the spelling",
+                "error_des": "The spelling of skeptical is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "sceptical"
+                ]
+            }
+        ]
+    },
+    "submitter": "dentistmargo",
+    "num_words": 333,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "for instance",
+            "furthermore",
+            "however",
+            "therefore",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "decisions",
+                "occurrences": [
+                    {
+                        "start_idx": 86,
+                        "end_idx": 95
+                    },
+                    {
+                        "start_idx": 145,
+                        "end_idx": 154
+                    },
+                    {
+                        "start_idx": 1572,
+                        "end_idx": 1581
+                    },
+                    {
+                        "start_idx": 1631,
+                        "end_idx": 1640
+                    },
+                    {
+                        "start_idx": 1877,
+                        "end_idx": 1886
+                    },
+                    {
+                        "start_idx": 1993,
+                        "end_idx": 2002
+                    }
+                ]
+            },
+            {
+                "word": "lives",
+                "occurrences": [
+                    {
+                        "start_idx": 108,
+                        "end_idx": 113
+                    },
+                    {
+                        "start_idx": 205,
+                        "end_idx": 210
+                    },
+                    {
+                        "start_idx": 534,
+                        "end_idx": 539
+                    },
+                    {
+                        "start_idx": 2170,
+                        "end_idx": 2175
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-01T20:11:09.815Z"
+}

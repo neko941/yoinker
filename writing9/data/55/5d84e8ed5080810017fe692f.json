@@ -1,0 +1,272 @@
+{
+    "url": "https://writing9.com/text/5d84e8ed5080810017fe692f",
+    "file": "data\\55\\5d84e8ed5080810017fe692f.json",
+    "topics": [
+        "men",
+        "women",
+        "jobs"
+    ],
+    "question": "Men and women are capable of doing all jobs equally well. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It has been widely observed that women have the capacity to work equally with men in almost all fields. I completely agree with this trend as it has helped in enhanching the workforce together with raising the standards of living of women.",
+        "To begin with, the tendency of working together under one roof has clear advantages. Firstly, this has helped women in participating effectively in the work places by  contributing towards the work-team. Consequently, this has enabled women to share the  job related task, which is certainly advantageous for the company. Secondly, commuting tends to raise a living for them. What that means is, women could share the financial burden of their families together with generating revenue which is helpful for their families and children. To illustrate, majority of the women in europe are participating in the fields of medicne , technology and aviation and each year their proportion is on the rise. Finally, the long term impact of doing jobs is that more and more women could now get into their desirious feilds. This has helped them in choosing the field of their own choice, therefore promoting to the betterment of their families as well as society. Hence, women are acing in the job scenarios equally along with men by forming taskforce and improving the standards of their life by earning lucratively and choosing a field of their own will.",
+        "Admittedly, there are some fields in which men are outperforming women and therefore women cannot contribute, such as army. On the top of that, family pressure could be another situation which could setback women to work in professional fields. Despite this, the advantages that women tend to provide in work makes such trends less thoughtful.",
+        "To conclude, women are working equally along with men in nearly all fields, and this has enabled them to form team along with men together with supporting their family, and choosing a profession for living."
+    ],
+    "errors": {
+        "num_error": "16",
+        "error_list": [
+            {
+                "word": "enhanching",
+                "start_idx": 159,
+                "end_idx": 169,
+                "error": "increase",
+                "error_des": "",
+                "suggetions": [
+                    "enhancing"
+                ]
+            },
+            {
+                "word": "task",
+                "start_idx": 508,
+                "end_idx": 512,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "tasks"
+                ]
+            },
+            {
+                "word": "revenue which",
+                "start_idx": 719,
+                "end_idx": 732,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "revenue, which"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 744,
+                "end_idx": 747,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "majority",
+                "start_idx": 792,
+                "end_idx": 800,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the majority"
+                ]
+            },
+            {
+                "word": "europe",
+                "start_idx": 817,
+                "end_idx": 823,
+                "error": "the 2nd smallest continent (actually a vast peninsula of Eurasia); the British use 'Europe' to refer to all of the continent except the British Isles",
+                "error_des": "",
+                "suggetions": [
+                    "Europe"
+                ]
+            },
+            {
+                "word": "medicne",
+                "start_idx": 859,
+                "end_idx": 866,
+                "error": "the branches of medical science that deal with nonsurgical techniques",
+                "error_des": "",
+                "suggetions": [
+                    "medicine"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 866,
+                "end_idx": 868,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "desirious",
+                "start_idx": 1037,
+                "end_idx": 1046,
+                "error": "the feeling that accompanies an unsatisfied state",
+                "error_des": "",
+                "suggetions": [
+                    "desires"
+                ]
+            },
+            {
+                "word": "feilds",
+                "start_idx": 1047,
+                "end_idx": 1053,
+                "error": "United States comedian and film actor (1880-1946)",
+                "error_des": "",
+                "suggetions": [
+                    "Fields",
+                    "fields"
+                ]
+            },
+            {
+                "word": "acing",
+                "start_idx": 1212,
+                "end_idx": 1217,
+                "error": "causing a dull and steady pain",
+                "error_des": "",
+                "suggetions": [
+                    "aching"
+                ]
+            },
+            {
+                "word": "taskforce",
+                "start_idx": 1273,
+                "end_idx": 1282,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a task force",
+                    "task force",
+                    "task forces"
+                ]
+            },
+            {
+                "word": "army",
+                "start_idx": 1508,
+                "end_idx": 1512,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the army"
+                ]
+            },
+            {
+                "word": "setback",
+                "start_idx": 1589,
+                "end_idx": 1596,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "set back"
+                ]
+            },
+            {
+                "word": "team",
+                "start_idx": 1845,
+                "end_idx": 1849,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "teams"
+                ]
+            },
+            {
+                "word": "living",
+                "start_idx": 1934,
+                "end_idx": 1940,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a living"
+                ]
+            }
+        ]
+    },
+    "submitter": "oldfartdaddy",
+    "num_words": 321,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "hence",
+            "consequently",
+            "such",
+            "finally",
+            "therefore",
+            "this",
+            "to begin",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 60,
+                        "end_idx": 64
+                    },
+                    {
+                        "start_idx": 174,
+                        "end_idx": 178
+                    },
+                    {
+                        "start_idx": 271,
+                        "end_idx": 275
+                    },
+                    {
+                        "start_idx": 392,
+                        "end_idx": 396
+                    },
+                    {
+                        "start_idx": 433,
+                        "end_idx": 437
+                    },
+                    {
+                        "start_idx": 1603,
+                        "end_idx": 1607
+                    },
+                    {
+                        "start_idx": 1691,
+                        "end_idx": 1695
+                    },
+                    {
+                        "start_idx": 1754,
+                        "end_idx": 1758
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-20T14:57:49.208Z"
+}

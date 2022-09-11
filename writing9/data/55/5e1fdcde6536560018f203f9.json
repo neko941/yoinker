@@ -1,0 +1,167 @@
+{
+    "url": "https://writing9.com/text/5e1fdcde6536560018f203f9",
+    "file": "data\\55\\5e1fdcde6536560018f203f9.json",
+    "topics": [
+        "doctor",
+        "responsibility",
+        "patients",
+        "disease",
+        "doctors",
+        "information"
+    ],
+    "question": "It is a doctor's responsibility to inform patients if they have a serious disease. Doctors should not be allowed to withhold medical information from their patients. To what extent do you agree or disagree with this statement?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Despite the medical development, the past decades still saw there was an increasing number of serious diseases. It is widely debated whether a doctor can withhold medical information from their patients. This essay will argue the reasons which doctors should inform the truth to their patients thoughtfully.",
+        "It might be claimed that due to sympathy doctors can be allow to not tell the truth to their patients, especially for those who are psychologically fragile. For instance, if a person hears that he gets cancer, he will be sad and depressed; additionally, for those who can not accept the truth, they may committee suicide. Therefore, some believed that in order to prevent this tragedy, doctors can hold back it. Nevertheless, in fact, some patients are positive to fight against those diseases, though they know that they get a serious disease. Thus, the hypothesis which describes that patients are psychologically fragile to accept the truth is groundless.",
+        "First of all, it is an undeniable fact that patients have the right to know the medical information. Owing to individual rights, doctors should not be allowed to withhold it. Furthermore, doctors inform them thoughtfully, which means that they can make a more comprehensive strategy to fight against it. Moreover, doctors tell them earlier, which means that the opportunity to conquer it will increase. In contrast, if doctors hold back it, those patients may lose the chances to get a better treatment.",
+        "In addition to individual rights, because of moral bases, it is not acceptable that doctors hold back it. Doctors are liable to cure patients, to inform them their medical information, and to provide them suggestions which let them find a better treatment. Once they do not tell the truth to their patients, they will violate their liability.",
+        "In conclusion, some take issue with the statement due to sympathy, while I strongly believe that informing the truth is necessary."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "sympathy",
+                "start_idx": 341,
+                "end_idx": 349,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "sympathetic"
+                ]
+            },
+            {
+                "word": "allow",
+                "start_idx": 365,
+                "end_idx": 370,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "allowed"
+                ]
+            },
+            {
+                "word": "can not",
+                "start_idx": 577,
+                "end_idx": 584,
+                "error": "can not",
+                "error_des": "",
+                "suggetions": [
+                    "cannot"
+                ]
+            },
+            {
+                "word": "committee",
+                "start_idx": 612,
+                "end_idx": 621,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "commit"
+                ]
+            },
+            {
+                "word": "can hold back it",
+                "start_idx": 703,
+                "end_idx": 719,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "can hold it back"
+                ]
+            },
+            {
+                "word": "hold back it",
+                "start_idx": 1566,
+                "end_idx": 1578,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "hold it back"
+                ]
+            }
+        ]
+    },
+    "submitter": "1011244132",
+    "num_words": 315,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "thus",
+            "for instance",
+            "nevertheless",
+            "furthermore",
+            "moreover",
+            "in contrast",
+            "in addition",
+            "therefore",
+            "this",
+            "additionally",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "truth",
+                "occurrences": [
+                    {
+                        "start_idx": 270,
+                        "end_idx": 275
+                    },
+                    {
+                        "start_idx": 386,
+                        "end_idx": 391
+                    },
+                    {
+                        "start_idx": 595,
+                        "end_idx": 600
+                    },
+                    {
+                        "start_idx": 946,
+                        "end_idx": 951
+                    },
+                    {
+                        "start_idx": 1754,
+                        "end_idx": 1759
+                    },
+                    {
+                        "start_idx": 1925,
+                        "end_idx": 1930
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-01-16T03:47:42.960Z"
+}

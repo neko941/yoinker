@@ -1,0 +1,140 @@
+{
+    "url": "https://writing9.com/text/630e08000751a40019b4dc36-it-is-predicted-that-robots-are-going-to-become-increasingly",
+    "file": "data\\55\\630e08000751a40019b4dc36.json",
+    "topics": [
+        "robots",
+        "lives",
+        "future",
+        "development"
+    ],
+    "question": "It is predicted that robots are going to become increasingly important in our lives.\rHow could robots be used in the future? Will this development be a positive or a negative development?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Today's reality is today's function in this technologically advanced age. The developing pace of technology is implausible. It is anticipated that robots are going to become increasingly important in our lives. They will largely be beneficial and used in the field of medicine and to accomplish household chores proving to be an absolutely promising development.",
+        "Robotics technology advancements are a fast and speedy phenomena that will benefit humanity much in the next years. For starters, social robots will become family members in future households. Most people would employ robots to aid with the mundane home activities like cleaning or ironing. Second, there will be a massive robotic revolution in the health sector, which will be critical in an era of growing populations, ageing populations, and medical personnel shortages. For example, if one has surgery in the future, it is likely that the surgeon will be assisted by a robotic assistant. The existence of a robot, with its pinpoint precision, exceptional Artificial Intelligence, and advanced algorithms, will make one's operation safer, faster, and more efficient.",
+        "These robotics breakthroughs will have a favourable influence on society. To begin with, robots can outsource dangerous duties to places where human employees are less likely to be injured or killed. Furthermore, robots can undoubtedly replace human labour, providing firms with new prospects for growth. For example, according to a recent study on the usage of robots conducted across 17 nations, the rising use of industrial robots over time increased yearly GDP growth by 0.37%. Finally, robots may be programmed to accomplish various jobs at once, ensuring not only the efficiency of the work, but also the completion of multiple tasks in a single allocated period.",
+        "To conclude, saying that the potential of robotics in the coming future is unimaginable. It will help us in various sectors including domestic, medical and many more. Thus, this development is second to none."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 400,
+                "end_idx": 402,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun phenomena in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 600,
+                "end_idx": 604,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1729,
+                "end_idx": 1730,
+                "error": "Remove the comma",
+                "error_des": "The comma before the conjunction but also appears to be unnecessary. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "KHADAR.VALI9988",
+    "num_words": 314,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "thus",
+            "second",
+            "furthermore",
+            "for example",
+            "next",
+            "finally",
+            "this",
+            "to begin",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "robots",
+                "occurrences": [
+                    {
+                        "start_idx": 147,
+                        "end_idx": 153
+                    },
+                    {
+                        "start_idx": 500,
+                        "end_idx": 506
+                    },
+                    {
+                        "start_idx": 581,
+                        "end_idx": 587
+                    },
+                    {
+                        "start_idx": 1222,
+                        "end_idx": 1228
+                    },
+                    {
+                        "start_idx": 1346,
+                        "end_idx": 1352
+                    },
+                    {
+                        "start_idx": 1495,
+                        "end_idx": 1501
+                    },
+                    {
+                        "start_idx": 1560,
+                        "end_idx": 1566
+                    },
+                    {
+                        "start_idx": 1624,
+                        "end_idx": 1630
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-30T12:52:18.116Z"
+}

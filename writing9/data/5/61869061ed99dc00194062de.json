@@ -1,0 +1,492 @@
+{
+    "url": "https://writing9.com/text/61869061ed99dc00194062de-some-people-think-that-radio-is-the-best-way-to",
+    "file": "data\\5\\61869061ed99dc00194062de.json",
+    "topics": [
+        "people",
+        "radio",
+        "news",
+        "television",
+        "purpose"
+    ],
+    "question": "Some people think that radio is the best way to get news while others think that television is better for this purpose. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In an era of information and communication, where in every minutes some news are in making around the globe, news are imperative for making decisions, which may be political , economical etc. It is often argue that radion is the best way to get information were as others believe that TV serve serve the purpose better. I will discuss both the aspects in this essay and therby giving my opinion in conclusion.",
+        "To begin with, radio is better medium for information for several reasons. Firstly, its portability makes it easy to carry while travelling. Hence, this device is used in almost all types of vehicles for entertainment and news. Secondly. radio connectivity is available to almost all the remote location of a country, where all other devices fails to operate. For instance, radio instruments are used by the Indian military in the high range mountains areas, where only radion connectivity is available for news and communication. Furthermore, device is affordable as compare to TV , hence, it is used by mass. For example, developing countries like India, for news almost 60% of the population is dependent on radio for news, as per a recent research.",
+        "However, on the other hand, many believe TV is betterway to collect informations as it provide both visuals and audio. Furthermore, many news contain data and graphs which can only be understand through watching them along with listening it. Additionally, people have privilege of watching the concern person, around whom the news are made.",
+        "To conclude, both aspects have their own supporters . But, if I consider the facts logically, I strongly believe the radio is better way for acquiring news due to its affordability, connectivity and portability."
+    ],
+    "errors": {
+        "num_error": "34",
+        "error_list": [
+            {
+                "word": "where ",
+                "start_idx": 44,
+                "end_idx": 50,
+                "error": "Correct your spelling",
+                "error_des": "The word where in seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "wherein"
+                ]
+            },
+            {
+                "word": "in ",
+                "start_idx": 50,
+                "end_idx": 53,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "minutes",
+                "start_idx": 59,
+                "end_idx": 66,
+                "error": "Change to a singular noun",
+                "error_des": "The singular quantifier every is followed by the plural noun minutes. Consider changing the noun to the singular or using a different quantifier.",
+                "suggetions": [
+                    "minute"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 77,
+                "end_idx": 80,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject some news. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 114,
+                "end_idx": 117,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject news. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "economical",
+                "start_idx": 176,
+                "end_idx": 186,
+                "error": "Replace the word",
+                "error_des": "The word economical doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "economic"
+                ]
+            },
+            {
+                "word": "is often argue",
+                "start_idx": 195,
+                "end_idx": 209,
+                "error": "Change the verb form",
+                "error_des": "It appears that the form of the verb argue does not work with is in this sentence.",
+                "suggetions": [
+                    "is often argued"
+                ]
+            },
+            {
+                "word": "radion",
+                "start_idx": 215,
+                "end_idx": 221,
+                "error": "Correct your spelling",
+                "error_des": "The word radion doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "radio"
+                ]
+            },
+            {
+                "word": "were",
+                "start_idx": 257,
+                "end_idx": 261,
+                "error": "Replace the word",
+                "error_des": "It appears that were is not correct in this context. Consider changing it.",
+                "suggetions": [
+                    "where"
+                ]
+            },
+            {
+                "word": "serve",
+                "start_idx": 288,
+                "end_idx": 293,
+                "error": "Change the verb form",
+                "error_des": "The plural verb serve does not appear to agree with the singular subject TV. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "serves"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 294,
+                "end_idx": 294,
+                "error": "Add the particle",
+                "error_des": "It appears that the verb serve should be in the to-infinitive form. Consider adding the word to.",
+                "suggetions": [
+                    "to serve"
+                ]
+            },
+            {
+                "word": "serve ",
+                "start_idx": 294,
+                "end_idx": 300,
+                "error": "Remove the redundancy",
+                "error_des": "Oops! It appears that you typed serve twice in a row. Consider deleting one of them.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 340,
+                "end_idx": 344,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "therby",
+                "start_idx": 370,
+                "end_idx": 376,
+                "error": "Correct your spelling",
+                "error_des": "The word therby is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "thereby"
+                ]
+            },
+            {
+                "word": "giving",
+                "start_idx": 377,
+                "end_idx": 383,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb giving. Consider changing it.",
+                "suggetions": [
+                    "give"
+                ]
+            },
+            {
+                "word": "better",
+                "start_idx": 434,
+                "end_idx": 440,
+                "error": "Add an article",
+                "error_des": "The noun phrase better medium seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a better"
+                ]
+            },
+            {
+                "word": "fails",
+                "start_idx": 752,
+                "end_idx": 757,
+                "error": "Change the verb form",
+                "error_des": "The singular verb fails does not appear to agree with the plural subject devices. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "fail"
+                ]
+            },
+            {
+                "word": "device",
+                "start_idx": 954,
+                "end_idx": 960,
+                "error": "Add an article",
+                "error_des": "The noun phrase device seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the device"
+                ]
+            },
+            {
+                "word": "compare",
+                "start_idx": 978,
+                "end_idx": 985,
+                "error": "Change the form of the verb",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb compare. Consider changing it.",
+                "suggetions": [
+                    "compared"
+                ]
+            },
+            {
+                "word": "mass",
+                "start_idx": 1015,
+                "end_idx": 1019,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that mass may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "masses"
+                ]
+            },
+            {
+                "word": "developing",
+                "start_idx": 1034,
+                "end_idx": 1044,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in developing"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 1144,
+                "end_idx": 1146,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun research in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1210,
+                "end_idx": 1210,
+                "error": "Correct your spelling",
+                "error_des": "The word betterway is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "better way"
+                ]
+            },
+            {
+                "word": "betterway",
+                "start_idx": 1210,
+                "end_idx": 1219,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a betterway"
+                ]
+            },
+            {
+                "word": "informations",
+                "start_idx": 1231,
+                "end_idx": 1243,
+                "error": "Change the wording",
+                "error_des": "It appears that informations is an uncountable noun and should not be made plural. Consider changing the noun.",
+                "suggetions": [
+                    "information",
+                    "pieces of information"
+                ]
+            },
+            {
+                "word": "provide",
+                "start_idx": 1250,
+                "end_idx": 1257,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun it and the verb provide are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "provides"
+                ]
+            },
+            {
+                "word": "contain",
+                "start_idx": 1305,
+                "end_idx": 1312,
+                "error": "Change the verb form",
+                "error_des": "The plural verb contain does not appear to agree with the singular subject many news. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "contains"
+                ]
+            },
+            {
+                "word": "be understand",
+                "start_idx": 1344,
+                "end_idx": 1357,
+                "error": "Change the verb form",
+                "error_des": "It appears that the form of the verb understand does not work with be in this sentence.",
+                "suggetions": [
+                    "be understood"
+                ]
+            },
+            {
+                "word": "listening",
+                "start_idx": 1391,
+                "end_idx": 1400,
+                "error": "Add the preposition",
+                "error_des": "The phrase following the intransitive verb listening seems to be missing a preposition. Consider adding one.",
+                "suggetions": [
+                    "tolistening"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 1401,
+                "end_idx": 1403,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "them"
+                ]
+            },
+            {
+                "word": "privilege",
+                "start_idx": 1431,
+                "end_idx": 1440,
+                "error": "Add an article",
+                "error_des": "The noun phrase privilege seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the privilege"
+                ]
+            },
+            {
+                "word": "concern",
+                "start_idx": 1457,
+                "end_idx": 1464,
+                "error": "Change the verb form",
+                "error_des": "The verb concern should be in the participle form when used as an adjective. Consider changing the form of this verb.",
+                "suggetions": [
+                    "concerned"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 1494,
+                "end_idx": 1497,
+                "error": "Change the verb form",
+                "error_des": "The verb are does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "better",
+                "start_idx": 1630,
+                "end_idx": 1636,
+                "error": "Add an article",
+                "error_des": "The noun phrase better way seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a better",
+                    "the better"
+                ]
+            }
+        ]
+    },
+    "submitter": "saurab.choursasia",
+    "num_words": 283,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "on the other hand",
+            "for instance",
+            "hence",
+            "additionally",
+            "furthermore",
+            "for example",
+            "however",
+            "this",
+            "to begin",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "news",
+                "occurrences": [
+                    {
+                        "start_idx": 72,
+                        "end_idx": 76
+                    },
+                    {
+                        "start_idx": 109,
+                        "end_idx": 113
+                    },
+                    {
+                        "start_idx": 632,
+                        "end_idx": 636
+                    },
+                    {
+                        "start_idx": 917,
+                        "end_idx": 921
+                    },
+                    {
+                        "start_idx": 1071,
+                        "end_idx": 1075
+                    },
+                    {
+                        "start_idx": 1131,
+                        "end_idx": 1135
+                    },
+                    {
+                        "start_idx": 1300,
+                        "end_idx": 1304
+                    },
+                    {
+                        "start_idx": 1489,
+                        "end_idx": 1493
+                    },
+                    {
+                        "start_idx": 1655,
+                        "end_idx": 1659
+                    }
+                ]
+            },
+            {
+                "word": "radio",
+                "occurrences": [
+                    {
+                        "start_idx": 215,
+                        "end_idx": 220
+                    },
+                    {
+                        "start_idx": 425,
+                        "end_idx": 430
+                    },
+                    {
+                        "start_idx": 648,
+                        "end_idx": 653
+                    },
+                    {
+                        "start_idx": 784,
+                        "end_idx": 789
+                    },
+                    {
+                        "start_idx": 880,
+                        "end_idx": 885
+                    },
+                    {
+                        "start_idx": 1121,
+                        "end_idx": 1126
+                    },
+                    {
+                        "start_idx": 1621,
+                        "end_idx": 1626
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-11-06T14:42:48.836Z"
+}

@@ -1,0 +1,172 @@
+{
+    "url": "https://writing9.com/text/5cb4c9ed5c41f53415e7cafe",
+    "file": "data\\6\\5cb4c9ed5c41f53415e7cafe.json",
+    "topics": [
+        "people",
+        "information",
+        "books",
+        "development"
+    ],
+    "question": "Many people are choosing to find information online rather than in books. Is this development positive or negative ?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, the internet has gained a lot of attention in terms of searching for information by most of them Instead of books. As there are plenty of resources to gain information through a browser. However, online information sometime is not that legitimate. But, books are genuine. One must respect books, as the author puts his whole life experience. I think it is a positive move, but at the same time, it completely depends upon the kind of information looking.",
+        "It is very comfortable to look for something to gain knowledge and also from various sources. Online information gets updated at regular interval, it does not take much time to look for the information which we are looking for and it is fascinating to know the reaction of a other members,  as it is a global platform. Such as we you are reading a blog which it get updated on a regular basis, at the same time we also get to know the feedback of other reader around the world.",
+        "However, there is no guarantee that all information on the internet is true, you can get into trouble by reading wrong. But, Books are a complete life experience of an author.  Such as,  if you are following a technical blog, which consist of latest gadget information, but there are hidden truth which blogger doesn\u2019t know as blogger didn\u2019t used that gadget completely. So there is a small fear of gain false information.",
+        "To conclude, though it is a positive move to get information from various sources on the internet but at the same time we cannot completely trust such information, I believe."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "looking",
+                "start_idx": 456,
+                "end_idx": 463,
+                "error": "tell anonymously",
+                "error_des": "",
+                "suggetions": [
+                    "leaking"
+                ]
+            },
+            {
+                "word": "used",
+                "start_idx": 1286,
+                "end_idx": 1290,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "use"
+                ]
+            },
+            {
+                "word": "internet but",
+                "start_idx": 1456,
+                "end_idx": 1468,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "internet, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 271,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "instead",
+            "also",
+            "however",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 229,
+                        "end_idx": 233
+                    },
+                    {
+                        "start_idx": 399,
+                        "end_idx": 403
+                    },
+                    {
+                        "start_idx": 634,
+                        "end_idx": 638
+                    },
+                    {
+                        "start_idx": 871,
+                        "end_idx": 875
+                    },
+                    {
+                        "start_idx": 1480,
+                        "end_idx": 1484
+                    }
+                ]
+            },
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 79,
+                        "end_idx": 90
+                    },
+                    {
+                        "start_idx": 166,
+                        "end_idx": 177
+                    },
+                    {
+                        "start_idx": 213,
+                        "end_idx": 224
+                    },
+                    {
+                        "start_idx": 444,
+                        "end_idx": 455
+                    },
+                    {
+                        "start_idx": 566,
+                        "end_idx": 577
+                    },
+                    {
+                        "start_idx": 655,
+                        "end_idx": 666
+                    },
+                    {
+                        "start_idx": 983,
+                        "end_idx": 994
+                    },
+                    {
+                        "start_idx": 1200,
+                        "end_idx": 1211
+                    },
+                    {
+                        "start_idx": 1353,
+                        "end_idx": 1364
+                    },
+                    {
+                        "start_idx": 1415,
+                        "end_idx": 1426
+                    },
+                    {
+                        "start_idx": 1517,
+                        "end_idx": 1528
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-15T18:14:05.000Z"
+}

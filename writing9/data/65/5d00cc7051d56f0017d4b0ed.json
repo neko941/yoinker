@@ -1,0 +1,174 @@
+{
+    "url": "https://writing9.com/text/5d00cc7051d56f0017d4b0ed",
+    "file": "data\\65\\5d00cc7051d56f0017d4b0ed.json",
+    "topics": [
+        "people",
+        "music",
+        "cultures",
+        "ages"
+    ],
+    "question": "Some people say that music is a good way of bringing people of different cultures and ages together. To what extent do you agree or disagree with this opinion",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many people claim that music plays an essential role of uniting people regardless of their differences in terms of cultures and ages.  Personally, I completely agree with this view.",
+        "For a variety of reasons, it cannot be denied that music is a powerful social glue connecting people together. Firstly, music can encompass cultural, political, social and even spiritual connections. For example, anthems represent shared nationality which shows residents\u2019 pride about their country. Another example might be songs sung by football team members may increase closeness between them and their fans. Secondly, rhythm in music helps people synch up their brains and coordinate their body movements with others. For instance, when we are at a concert or a music festival, we are not worried about who is standing beside us, but we are there to have the fulfill emotion and to be connected with other audiences. As a result, this will make people feel closer despite of knowing each other or different cultures.",
+        "In my opinion, life would be such boring and exhausting without music because it is a substance in augmenting our social relationships. For example, people who have the similar state of music can easily be friends via their common favorite songs, artists and bands. This will result in lifelong friendships, and in turn a more stable and happy society. Moreover, music reminds people about the past and connect them with the old generation. Through old songs and lyrics, we can understand more clearly about our grandparents, what they did and what they liked at that time. Consequently, this will make a firm relationship between the generations.",
+        "In conclusion, I fully believe that music is one of the best ways to connect people in spite of their cultures and ages."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "music",
+                "start_idx": 303,
+                "end_idx": 308,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the music"
+                ]
+            },
+            {
+                "word": "closeness",
+                "start_idx": 557,
+                "end_idx": 566,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the closeness"
+                ]
+            },
+            {
+                "word": "fulfill",
+                "start_idx": 847,
+                "end_idx": 854,
+                "error": "put in effect",
+                "error_des": "",
+                "suggetions": [
+                    "fulfil"
+                ]
+            },
+            {
+                "word": "favorite",
+                "start_idx": 1237,
+                "end_idx": 1245,
+                "error": "something regarded with special favor or liking",
+                "error_des": "",
+                "suggetions": [
+                    "favourite"
+                ]
+            },
+            {
+                "word": "music",
+                "start_idx": 1369,
+                "end_idx": 1374,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the music"
+                ]
+            },
+            {
+                "word": "the old",
+                "start_idx": 1427,
+                "end_idx": 1434,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the older"
+                ]
+            }
+        ]
+    },
+    "submitter": "Thanh",
+    "num_words": 291,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "for instance",
+            "as a result",
+            "consequently",
+            "for example",
+            "such",
+            "moreover",
+            "this",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "music",
+                "occurrences": [
+                    {
+                        "start_idx": 23,
+                        "end_idx": 28
+                    },
+                    {
+                        "start_idx": 233,
+                        "end_idx": 238
+                    },
+                    {
+                        "start_idx": 302,
+                        "end_idx": 307
+                    },
+                    {
+                        "start_idx": 615,
+                        "end_idx": 620
+                    },
+                    {
+                        "start_idx": 749,
+                        "end_idx": 754
+                    },
+                    {
+                        "start_idx": 1068,
+                        "end_idx": 1073
+                    },
+                    {
+                        "start_idx": 1190,
+                        "end_idx": 1195
+                    },
+                    {
+                        "start_idx": 1367,
+                        "end_idx": 1372
+                    },
+                    {
+                        "start_idx": 1688,
+                        "end_idx": 1693
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-12T09:57:04.000Z"
+}

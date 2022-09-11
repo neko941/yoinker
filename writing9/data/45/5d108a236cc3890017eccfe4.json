@@ -1,0 +1,361 @@
+{
+    "url": "https://writing9.com/text/5d108a236cc3890017eccfe4",
+    "file": "data\\45\\5d108a236cc3890017eccfe4.json",
+    "topics": [
+        "energy",
+        "source",
+        "household",
+        "countries",
+        "world"
+    ],
+    "question": "Solar energy is becoming more and more popular as a source of household energy in many countries around the world.\nWhy is this?\nWhat are the advantages and disadvantages of solar energy?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "As natural resources are limited, demand of energy which is crucial in our lives, is increasing. Solar system can bring merits in daily basis, though it has also demerits. This essay will discuss benefits and drawbacks of Sun-heating energy.",
+        "To begin with, the planet has damaged as the technology has developed. Take, the invention of automobile, for instance. It is undeniable that the four-wheel machine have made our life more comfortable, yet, this new-invention result in the environment became more deterious than ever.",
+        "Conversely, the Sun-heat system has opposite effec, it is rather the eco-friendly energy for our globe without limit. Moreover this can easily be built in individual's houses even in their own private car. According to Hyunday motor, one of the major companies in Automobile industy in South Korea, they recently developed solar-system car, which is driven by solar energy restrored on the surface of the roof.",
+        "Yet, this precious nature given by nature has also its drawbacks. Firstly, thie construction fee is not affordable for everyone. The material of solar power system and the process need professional works, thus, for individuals, it is not suitable to buy as if it's a furniture in our house. Besides, this heat from the sky, is not equalled by entire globes. For instance, tropical areas such as Africa, south-east nations, are benefits of this energy almost 10 months of one year, while the North or South pole has seldom found this sun-light. As a result, their regions won't use as a natural energy.",
+        "To conclude, this eco-friendly energy have, indeed various beneficial effects on our plante, it also have some drawbacks, yet, I personally believe disadvantages of solar system is negligible compared to advantages."
+    ],
+    "errors": {
+        "num_error": "22",
+        "error_list": [
+            {
+                "word": "Solar ",
+                "start_idx": 97,
+                "end_idx": 103,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "A solar system",
+                    "Solar systems",
+                    "The solar system"
+                ]
+            },
+            {
+                "word": "Sun",
+                "start_idx": 222,
+                "end_idx": 225,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the Sun"
+                ]
+            },
+            {
+                "word": "automobile",
+                "start_idx": 337,
+                "end_idx": 347,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an automobile",
+                    "automobiles",
+                    "the automobile"
+                ]
+            },
+            {
+                "word": "have made",
+                "start_idx": 408,
+                "end_idx": 417,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "has made"
+                ]
+            },
+            {
+                "word": "deterious",
+                "start_idx": 507,
+                "end_idx": 516,
+                "error": "harmful to living things",
+                "error_des": "",
+                "suggetions": [
+                    "deleterious"
+                ]
+            },
+            {
+                "word": "heat",
+                "start_idx": 549,
+                "end_idx": 553,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "heating"
+                ]
+            },
+            {
+                "word": "opposite effec",
+                "start_idx": 565,
+                "end_idx": 579,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the opposite effect",
+                    "opposite effect",
+                    "an opposite effect"
+                ]
+            },
+            {
+                "word": "Moreover ",
+                "start_idx": 647,
+                "end_idx": 656,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Moreover, this"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 681,
+                "end_idx": 683,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "into"
+                ]
+            },
+            {
+                "word": "individual's",
+                "start_idx": 684,
+                "end_idx": 696,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "individual"
+                ]
+            },
+            {
+                "word": "houses even",
+                "start_idx": 697,
+                "end_idx": 708,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "houses, even"
+                ]
+            },
+            {
+                "word": "industy",
+                "start_idx": 804,
+                "end_idx": 811,
+                "error": "the people or companies engaged in a particular kind of commercial enterprise",
+                "error_des": "",
+                "suggetions": [
+                    "industry"
+                ]
+            },
+            {
+                "word": "restrored",
+                "start_idx": 902,
+                "end_idx": 911,
+                "error": "return to its original or usable and functioning condition",
+                "error_des": "",
+                "suggetions": [
+                    "restored"
+                ]
+            },
+            {
+                "word": "thie",
+                "start_idx": 1017,
+                "end_idx": 1021,
+                "error": "definite article",
+                "error_des": "",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "south-east",
+                "start_idx": 1345,
+                "end_idx": 1355,
+                "error": "the compass point midway between south and east; at 135 degrees",
+                "error_des": "",
+                "suggetions": [
+                    "southeast",
+                    "Southeast"
+                ]
+            },
+            {
+                "word": "benefits",
+                "start_idx": 1369,
+                "end_idx": 1377,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the benefits"
+                ]
+            },
+            {
+                "word": "pole",
+                "start_idx": 1448,
+                "end_idx": 1452,
+                "error": "a native or inhabitant of Poland",
+                "error_des": "",
+                "suggetions": [
+                    "Pole"
+                ]
+            },
+            {
+                "word": "sun-light",
+                "start_idx": 1475,
+                "end_idx": 1484,
+                "error": "the rays of the sun",
+                "error_des": "",
+                "suggetions": [
+                    "sunlight"
+                ]
+            },
+            {
+                "word": "plante",
+                "start_idx": 1630,
+                "end_idx": 1636,
+                "error": "(astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction",
+                "error_des": "",
+                "suggetions": [
+                    "planet"
+                ]
+            },
+            {
+                "word": "also have",
+                "start_idx": 1641,
+                "end_idx": 1650,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "also has"
+                ]
+            },
+            {
+                "word": "disadvantages",
+                "start_idx": 1693,
+                "end_idx": 1706,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the disadvantages"
+                ]
+            },
+            {
+                "word": "advantages",
+                "start_idx": 1749,
+                "end_idx": 1759,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the advantages"
+                ]
+            }
+        ]
+    },
+    "submitter": "cksal7928",
+    "num_words": 283,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "thus",
+            "for instance",
+            "as a result",
+            "besides",
+            "conversely",
+            "this",
+            "to begin",
+            "also",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "energy",
+                "occurrences": [
+                    {
+                        "start_idx": 44,
+                        "end_idx": 50
+                    },
+                    {
+                        "start_idx": 234,
+                        "end_idx": 240
+                    },
+                    {
+                        "start_idx": 609,
+                        "end_idx": 615
+                    },
+                    {
+                        "start_idx": 893,
+                        "end_idx": 899
+                    },
+                    {
+                        "start_idx": 1382,
+                        "end_idx": 1388
+                    },
+                    {
+                        "start_idx": 1532,
+                        "end_idx": 1538
+                    },
+                    {
+                        "start_idx": 1571,
+                        "end_idx": 1577
+                    }
+                ]
+            },
+            {
+                "word": "system",
+                "occurrences": [
+                    {
+                        "start_idx": 103,
+                        "end_idx": 109
+                    },
+                    {
+                        "start_idx": 552,
+                        "end_idx": 558
+                    },
+                    {
+                        "start_idx": 856,
+                        "end_idx": 862
+                    },
+                    {
+                        "start_idx": 1095,
+                        "end_idx": 1101
+                    },
+                    {
+                        "start_idx": 1711,
+                        "end_idx": 1717
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-24T08:30:27.000Z"
+}

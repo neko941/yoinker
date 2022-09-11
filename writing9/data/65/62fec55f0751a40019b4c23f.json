@@ -1,0 +1,211 @@
+{
+    "url": "https://writing9.com/text/62fec55f0751a40019b4c23f-many-people-work-longer-hours-leaving-very-little-time-for",
+    "file": "data\\65\\62fec55f0751a40019b4c23f.json",
+    "topics": [
+        "people",
+        "work",
+        "hours",
+        "time",
+        "leisure",
+        "activities",
+        "thid",
+        "situation"
+    ],
+    "question": "Many people work longer hours, leaving very little time for leisure activities .Does thid situation have more advantages or more disadvantages?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The state of the present economy has left individuals with no option but to work for longer periods so that they get enough funds to afford the things they need. This has left no time for other activities such as visiting family and friends, reading one's favourite book etc. There are both merits and demerits to this situation. In this, essay I will talk about both.",
+        "An advantage of working longer hours is that you earn extra income. In most companies and organizations, the more hours one works, the more salary one receives. For example, nurses are obliged to work six hours per shift. If there's a shortage of staff and a nurse agrees to do extra hours, the hospital administration pays for the extra hours spent at the workplace. This money could go a long way in solving certain financial problems.",
+        "However, working for long hours with no rest is detrimental to a person's health. All work and no play make Jack a dull boy. It is essential to take breaks in between work for relaxation and to let your hair down. When people work without rest, the body loses energy and without energy, a person becomes weak and falls sick. Additionally, spending too much time on work and neglecting family and other social activities can affect one's mental health. Reading, cooking and talking to friends is very therapeutic.",
+        "In conclusion, working for longer periods earns one extra income to cater for certain financial problems. Nonetheless, then it is important to have time outside work for other relaxing activities."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "essay",
+                "start_idx": 339,
+                "end_idx": 344,
+                "error": "Add an article",
+                "error_des": "The noun phrase essay seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an essay",
+                    "the essay"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 1299,
+                "end_idx": 1301,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb is does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "are"
+                ]
+            }
+        ]
+    },
+    "submitter": "vanessaboateng2019",
+    "num_words": 260,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "nonetheless",
+            "then",
+            "for example",
+            "however",
+            "this",
+            "additionally",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "one",
+                "occurrences": [
+                    {
+                        "start_idx": 250,
+                        "end_idx": 253
+                    },
+                    {
+                        "start_idx": 489,
+                        "end_idx": 492
+                    },
+                    {
+                        "start_idx": 516,
+                        "end_idx": 519
+                    },
+                    {
+                        "start_idx": 743,
+                        "end_idx": 746
+                    },
+                    {
+                        "start_idx": 1238,
+                        "end_idx": 1241
+                    },
+                    {
+                        "start_idx": 1368,
+                        "end_idx": 1371
+                    },
+                    {
+                        "start_idx": 1427,
+                        "end_idx": 1430
+                    }
+                ]
+            },
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 76,
+                        "end_idx": 80
+                    },
+                    {
+                        "start_idx": 385,
+                        "end_idx": 389
+                    },
+                    {
+                        "start_idx": 493,
+                        "end_idx": 497
+                    },
+                    {
+                        "start_idx": 565,
+                        "end_idx": 569
+                    },
+                    {
+                        "start_idx": 726,
+                        "end_idx": 730
+                    },
+                    {
+                        "start_idx": 816,
+                        "end_idx": 820
+                    },
+                    {
+                        "start_idx": 893,
+                        "end_idx": 897
+                    },
+                    {
+                        "start_idx": 974,
+                        "end_idx": 978
+                    },
+                    {
+                        "start_idx": 1033,
+                        "end_idx": 1037
+                    },
+                    {
+                        "start_idx": 1172,
+                        "end_idx": 1176
+                    },
+                    {
+                        "start_idx": 1335,
+                        "end_idx": 1339
+                    },
+                    {
+                        "start_idx": 1481,
+                        "end_idx": 1485
+                    }
+                ]
+            },
+            {
+                "word": "hours",
+                "occurrences": [
+                    {
+                        "start_idx": 400,
+                        "end_idx": 405
+                    },
+                    {
+                        "start_idx": 483,
+                        "end_idx": 488
+                    },
+                    {
+                        "start_idx": 574,
+                        "end_idx": 579
+                    },
+                    {
+                        "start_idx": 653,
+                        "end_idx": 658
+                    },
+                    {
+                        "start_idx": 707,
+                        "end_idx": 712
+                    },
+                    {
+                        "start_idx": 833,
+                        "end_idx": 838
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-18T23:06:08.335Z"
+}

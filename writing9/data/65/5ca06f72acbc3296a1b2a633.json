@@ -1,0 +1,146 @@
+{
+    "url": "https://writing9.com/text/5ca06f72acbc3296a1b2a633",
+    "file": "data\\65\\5ca06f72acbc3296a1b2a633.json",
+    "topics": [
+        "countries",
+        "people",
+        "sums",
+        "money",
+        "railway",
+        "lines",
+        "trains",
+        "cities",
+        "transport"
+    ],
+    "question": "In a number of countries, some people think it is necessary to spend large sums of money on constructing new railway lines for very fast trains between cities. Others believe the money should be spent on improving existing public transport.\nDiscuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "People have different views as to whether tax should be devoted to fast trains connecting cities or transport public in use. Although it can be argued that investing in high speed trains between cities is essential, I believe that ameliorating current existing public transport is more urgent.",
+        "On the one hand, I agree that new railway lines for fast trains between cities bring a number of benefits. When high-speed trains allow commuters to travel a great distance in a short period, city dwellers have tendency to move out of city centres to live in the vicinity where houses are more affordable and the environment is fresher. As a result, dilemmas of major cities including housing, traffic jams and pollution can be addressed comparatively effectively. In addition, tourism in neighbouring cities may benefit from these railway lines because when travelling between cities becomes more convenient, people are likely to spend their weekend travelling and exploring these places instead of staying at home.",
+        "On the other hand, I am of the opinion that public transport should be upgraded before pouring money into high speed trains. Firstly, roads need maintaining and enlarging to meet the transportation needs, leading to reducing traffic jams and accidents. For example, after the routes between two cities Vinh and Ha Tinh in Vietnam had been repaired, the number of accidents reduced significantly and trade between cities developed more than before. Secondly, existing public transportation such as buses, regular trains should be enhanced instead of constructing new railways. The reason is that such forms of transport may meet sufficient transport needs of the majority of citizens if they are good enough.",
+        "In conclusion, it seems to me that spending tax improving present-day public transportation is more beneficial than building railways for high speed trains."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "tendency",
+                "start_idx": 505,
+                "end_idx": 513,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a tendency",
+                    "the tendency"
+                ]
+            },
+            {
+                "word": "maintaining",
+                "start_idx": 1156,
+                "end_idx": 1167,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to maintain"
+                ]
+            },
+            {
+                "word": "reducing",
+                "start_idx": 1227,
+                "end_idx": 1235,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "reduced"
+                ]
+            }
+        ]
+    },
+    "submitter": "buidung21989",
+    "num_words": 295,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "on the other hand",
+            "as a result",
+            "for example",
+            "such",
+            "although",
+            "instead",
+            "in addition",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "transport",
+                "occurrences": [
+                    {
+                        "start_idx": 100,
+                        "end_idx": 109
+                    },
+                    {
+                        "start_idx": 268,
+                        "end_idx": 277
+                    },
+                    {
+                        "start_idx": 1062,
+                        "end_idx": 1071
+                    },
+                    {
+                        "start_idx": 1194,
+                        "end_idx": 1203
+                    },
+                    {
+                        "start_idx": 1485,
+                        "end_idx": 1494
+                    },
+                    {
+                        "start_idx": 1620,
+                        "end_idx": 1629
+                    },
+                    {
+                        "start_idx": 1650,
+                        "end_idx": 1659
+                    },
+                    {
+                        "start_idx": 1796,
+                        "end_idx": 1805
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-31T07:42:42.000Z"
+}

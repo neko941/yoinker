@@ -1,0 +1,166 @@
+{
+    "url": "https://writing9.com/text/631ac148aac8660018fa49b7-nowadays-in-many-countries-people-are-following-the-latest-fashion",
+    "file": "data\\6\\631ac148aac8660018fa49b7.json",
+    "topics": [
+        "countries",
+        "people",
+        "fashion",
+        "hairstyle",
+        "development"
+    ],
+    "question": "Nowadays in many countries, people are following the latest fashion, hairstyle and so on.what is influenced this? Is it a positive or a negative development.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In recent times people are more attracted to the things such as the latest fashion and hairstyles. I think that this new tendency of the people is affecting society adversely. More supporting ideas are given below. This trend is vastly influenced by  Hollywood celebrities and  established sportspersons.",
+        "First of all, the latest trends in the fashion industry make people look more appropriate, and showcase the social statement they want to make through their clothes and body styling. in further detail, the latest styling helps people to coup-up with the modern world, as  people tend to notice the latest fashion and hairstyle more rather than a simple living.",
+        "On the other hand, the latest fashion and hairstyle trends do come with a heavy waste of time. especially, it takes away the time which could have been utilised for something creative. Here we can say that it can trap  society in an unending loop of wasting time. moreover, the latest trends do come at a heavy price. rather it can burn the fortune of a person, which could have been used in the time of need. one should try not to get caught up in these materialistic things.",
+        "Now, looking at the above-mentioned points I concluded that this new way of thinking is making people less creative. Also leading society towards wastage of time. I think that it is not too late to get out of the vicious clutches of this new tendency. In addition, this is  high time to get out of this loop. and start focusing on future goals."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 394,
+                "end_idx": 395,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound predicate. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "Abhishek",
+    "num_words": 259,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "on the other hand",
+            "moreover",
+            "further",
+            "in addition",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "fashion",
+                "occurrences": [
+                    {
+                        "start_idx": 75,
+                        "end_idx": 82
+                    },
+                    {
+                        "start_idx": 344,
+                        "end_idx": 351
+                    },
+                    {
+                        "start_idx": 610,
+                        "end_idx": 617
+                    },
+                    {
+                        "start_idx": 696,
+                        "end_idx": 703
+                    }
+                ]
+            },
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 10,
+                        "end_idx": 14
+                    },
+                    {
+                        "start_idx": 755,
+                        "end_idx": 759
+                    },
+                    {
+                        "start_idx": 791,
+                        "end_idx": 795
+                    },
+                    {
+                        "start_idx": 924,
+                        "end_idx": 928
+                    },
+                    {
+                        "start_idx": 1062,
+                        "end_idx": 1066
+                    },
+                    {
+                        "start_idx": 1300,
+                        "end_idx": 1304
+                    },
+                    {
+                        "start_idx": 1422,
+                        "end_idx": 1426
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 16,
+                        "end_idx": 22
+                    },
+                    {
+                        "start_idx": 137,
+                        "end_idx": 143
+                    },
+                    {
+                        "start_idx": 366,
+                        "end_idx": 372
+                    },
+                    {
+                        "start_idx": 532,
+                        "end_idx": 538
+                    },
+                    {
+                        "start_idx": 577,
+                        "end_idx": 583
+                    },
+                    {
+                        "start_idx": 1238,
+                        "end_idx": 1244
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-09T04:42:43.495Z"
+}

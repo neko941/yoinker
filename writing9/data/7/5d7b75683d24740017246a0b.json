@@ -1,0 +1,134 @@
+{
+    "url": "https://writing9.com/text/5d7b75683d24740017246a0b",
+    "file": "data\\7\\5d7b75683d24740017246a0b.json",
+    "topics": [
+        "people",
+        "information",
+        "research",
+        "business",
+        "world"
+    ],
+    "question": "Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too \n\nimportant or too valuable to be shared freely.\n\nDiscuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is irrefutable that globalization is burgeoning at an exponential pace. There is a belief that sharing data regarding scientific research, the business and the academic is appreciable, whereas some opine that such data should not be shared as it might be of high value and importance. I completely believe that if the information is imperative and valuable then it should be classified. This essay intends to elucidate the worthwhile reasons behind both views with appropriate examples.",
+        "",
+        "To embark upon, a plethora of reasons can be attributed to why the sharing of the information is a good approach. The first and foremost reason is that it will help in the progression of fields. In other words, revealing the news with each other leads to the betterment of society as the new technology and the products will reach the locals much faster if the idea is known by many producers and investors. For instance, the first Iphone release shared the idea of the smartphone to the world, due to which many other companies started producing it and now almost everyone has a smartphone. Moreover, the shared information results in more reviews that can be used in the improvement of it.",
+        "",
+        "Although the thought of sharing is very beneficial for everyone, sometimes it is better to keep the data as secret. The receiving of the information by the wrong person is the salient reason behind this view. To illustrate, if a piece of information regarding the nuclear bomb gets leaked then it may result in a threat to the lives of millions. Undoubtedly, the security of information sharing is not trustworthy in this contemporary epoch as many hackers can easily get it and use it in perilous ways. What's more, business people don't always work for the betterment of the world so sharing may result in inflation in the prices of new technologies, researches, and products.",
+        "",
+        "In conclusion, while the sharing of information is better for the world as it ameliorates the technology and the lifestyle, some information should be kept private to prevent it from reaching the hands of criminals."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "Iphone",
+                "start_idx": 925,
+                "end_idx": 931,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "iPhone",
+                    "IPhone"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 974,
+                "end_idx": 976,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 349,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "then",
+            "for instance",
+            "in other words",
+            "moreover",
+            "although",
+            "this",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 321,
+                        "end_idx": 332
+                    },
+                    {
+                        "start_idx": 573,
+                        "end_idx": 584
+                    },
+                    {
+                        "start_idx": 1104,
+                        "end_idx": 1115
+                    },
+                    {
+                        "start_idx": 1321,
+                        "end_idx": 1332
+                    },
+                    {
+                        "start_idx": 1422,
+                        "end_idx": 1433
+                    },
+                    {
+                        "start_idx": 1559,
+                        "end_idx": 1570
+                    },
+                    {
+                        "start_idx": 1900,
+                        "end_idx": 1911
+                    },
+                    {
+                        "start_idx": 1993,
+                        "end_idx": 2004
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-13T10:54:32.936Z"
+}

@@ -1,0 +1,167 @@
+{
+    "url": "https://writing9.com/text/623d42ff73b0070018cefe1b-some-people-argue-that-spending-a-lot-of-money-holding",
+    "file": "data\\6\\623d42ff73b0070018cefe1b.json",
+    "topics": [
+        "people",
+        "money",
+        "birthday",
+        "parties",
+        "celebration",
+        "waste",
+        "individuals",
+        "society"
+    ],
+    "question": "Some people argue that spending a lot of money holding birthday parties, wedding parties and other celebration is a waste of money. However, others believe such parties are important for individuals and for society. Discuss both views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Parties are a way of celebrating happy and memory events with family and friends. People can have programs for different occasions such as birthdays and weddings etc.",
+        "Many people celebrate birthdays and weddings for themselves and relatives because they want to show their affection and take photos of happy times. Mostly, children and young people are excited about their birthday because they will get a lot of gifts. We make plans and celebrate birthdays like festivals for our kids, his cousins and classmates were also invited. My son was very happy, as everybody attending the party bring good gifts. However, wedding functions are mostly for adults, and it is a rule in every culture that for the wedding party will organize like formal event and invite their relatives on the special so that they can share and make a good memory.",
+        "However, there is a problem with celebrating as it costs a lot of money. It is better to help or to donate the amount to the poor people and get the blessings and well wishes than spending too much money for weddings. Also, people show off and have big birthday and marriage parties after the ritual. This is making it very difficult for  normal people to celebrate important occasions. So, people get depressed because they don\u2019t have too much money to have a big party.",
+        "To conclude, celebrating wedding or birthdays are important because it is a very good way to make a memory and take a photo in good clothes to see in the future. But, taking a bank loans to celebrate is not good and people show spending based on how much they have."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "memory",
+                "start_idx": 43,
+                "end_idx": 49,
+                "error": "Replace the word",
+                "error_des": "The word memory doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "memorable"
+                ]
+            },
+            {
+                "word": "bring",
+                "start_idx": 589,
+                "end_idx": 594,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb bring. Consider changing it.",
+                "suggetions": [
+                    "brought"
+                ]
+            },
+            {
+                "word": "for ",
+                "start_idx": 696,
+                "end_idx": 700,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "a bank loans",
+                "start_idx": 1487,
+                "end_idx": 1499,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun loans in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "a bank loan",
+                    "bank loans"
+                ]
+            }
+        ]
+    },
+    "submitter": "Ti R",
+    "num_words": 277,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "also",
+            "however",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "birthdays",
+                "occurrences": [
+                    {
+                        "start_idx": 139,
+                        "end_idx": 148
+                    },
+                    {
+                        "start_idx": 189,
+                        "end_idx": 198
+                    },
+                    {
+                        "start_idx": 448,
+                        "end_idx": 457
+                    },
+                    {
+                        "start_idx": 1347,
+                        "end_idx": 1356
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 172,
+                        "end_idx": 178
+                    },
+                    {
+                        "start_idx": 342,
+                        "end_idx": 348
+                    },
+                    {
+                        "start_idx": 969,
+                        "end_idx": 975
+                    },
+                    {
+                        "start_idx": 1063,
+                        "end_idx": 1069
+                    },
+                    {
+                        "start_idx": 1185,
+                        "end_idx": 1191
+                    },
+                    {
+                        "start_idx": 1230,
+                        "end_idx": 1236
+                    },
+                    {
+                        "start_idx": 1527,
+                        "end_idx": 1533
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-03-25T04:21:27.949Z"
+}

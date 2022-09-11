@@ -1,0 +1,157 @@
+{
+    "url": "https://writing9.com/text/61957211b7076300198730ad-some-people-decide-to-start-their-own-business-instead-of",
+    "file": "data\\6\\61957211b7076300198730ad.json",
+    "topics": [
+        "people",
+        "business",
+        "company",
+        "organization",
+        "outweigh"
+    ],
+    "question": "Some people decide to start their own business instead of working for a company or organization. Do the advantages of this outweigh the disadvantage?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "For some, working for themselves and starting their own business is a better option than working for someone else. This essay believes that the benefits of being self-employed, such as freedom of hours and being your own boss, do outweigh the disadvantages, for example, of having an unstable income.",
+        "Being in charge of your own business and making decisions for yourself is an important reason why some people choose to be self-employed. This also includes choosing your hours of work to suit your lifestyle. For example, if you want to go to the gym in the morning then work until the evening, or get your work done in the morning then sit on a beach in the afternoon, you are free to do so. Another excellent plus point is that you no longer have to do what someone else tells you to do. For example, a survey by the Economist magazine reported that 80% of entrepreneurs started their own company in dissatisfaction with oppressive office hierarchies, in other words they were sick of being told what to do.",
+        "However, despite these advantages there is always one significant downside to having your own business, a lack of stable income. This is especially true at the start, when your company is brand new, it may take some time to build up a client list, take orders, turn a profit, etc. For example, the number one reason, according to Forbes magazine, for new start-ups to fail is an inconsistent income stream.",
+        "In conclusion, working for yourself is undoubtedly exciting and has several plus points in its favour, such as freedom to chose your hours of work, and making decisions for yourself. That being said, there is a possible downside which is not being profitable initially and not having a regular, reliable cash flow."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "words",
+                "start_idx": 964,
+                "end_idx": 969,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter in other words. Consider adding the comma(s).",
+                "suggetions": [
+                    ",words"
+                ]
+            },
+            {
+                "word": "advantages",
+                "start_idx": 1034,
+                "end_idx": 1044,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase despite these advantages. Consider adding a comma.",
+                "suggetions": [
+                    ",advantages"
+                ]
+            },
+            {
+                "word": "chose",
+                "start_idx": 1540,
+                "end_idx": 1545,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb chose. Consider changing it.",
+                "suggetions": [
+                    "choose"
+                ]
+            }
+        ]
+    },
+    "submitter": "tatianaraysan2002",
+    "num_words": 300,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "then",
+            "for ",
+            "in other ",
+            "however",
+            "initially",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "example",
+                "occurrences": [
+                    {
+                        "start_idx": 262,
+                        "end_idx": 269
+                    },
+                    {
+                        "start_idx": 514,
+                        "end_idx": 521
+                    },
+                    {
+                        "start_idx": 795,
+                        "end_idx": 802
+                    },
+                    {
+                        "start_idx": 1296,
+                        "end_idx": 1303
+                    }
+                ]
+            },
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 10,
+                        "end_idx": 14
+                    },
+                    {
+                        "start_idx": 89,
+                        "end_idx": 93
+                    },
+                    {
+                        "start_idx": 481,
+                        "end_idx": 485
+                    },
+                    {
+                        "start_idx": 572,
+                        "end_idx": 576
+                    },
+                    {
+                        "start_idx": 608,
+                        "end_idx": 612
+                    },
+                    {
+                        "start_idx": 1433,
+                        "end_idx": 1437
+                    },
+                    {
+                        "start_idx": 1560,
+                        "end_idx": 1564
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-11-17T21:20:19.102Z"
+}

@@ -1,0 +1,140 @@
+{
+    "url": "https://writing9.com/text/5f5cde3707d0d0001800b41c",
+    "file": "data\\7\\5f5cde3707d0d0001800b41c.json",
+    "topics": [
+        "people",
+        "leisure",
+        "time",
+        "work",
+        "co-workers",
+        "life"
+    ],
+    "question": "Some people like to spend their leisure time after work with co-workers while others prefer to keep their private life separate from their work life, discuss both sides and give your own opinion.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Spending free time even after work is a common culture in America where people believe that these type of gatherings help to meet  professional success as well as personal refreshment. Whereas, in Germany people like to set a barrier between job and private life. In my point of view, although career success depends upon building proper rapport with fellow workers, personal life should be kept apart. Thus, I agree to maintain these two separate from one another. However, there are dual aspects of the scenario which will be discussed in the below paragraphs.",
+        "On the one hand, communication and cooperation are the prerequisites for the goal fulfilment either in organizational level or in individual's career. For that reason, more and more group assignments are being seen nowadays in comparison to the earlier period. To attain group goals this is imperative that the group spend lots of time together. For example, in a survey conducted in the firms of California, it has been seen that the probability of task achievement rose up to 80% while groups spend time together even after work.",
+        "On the other hand, giving extra focus on work-life may hamper family life. As people become more associated with colleagues, they tend to give less space to their own family which can result in divorce, domestic violence, extramarital affair. For instance,  60% of American who are indulged into hardcore office culture face some sort of turmoil in their married life.",
+        "To conclude, I like to say that maintaining a sound relationship with family members and keeping a sound mind is much more essential than a promotion or fame within co-workers. Therefore, people should allocate their time properly between family and job."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": " ",
+                "start_idx": 204,
+                "end_idx": 205,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase in Germany. Consider adding a comma.",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 694,
+                "end_idx": 695,
+                "error": "Add an article",
+                "error_des": "It appears that an article is missing before the word individual. Consider adding the article.",
+                "suggetions": [
+                    "an"
+                ]
+            }
+        ]
+    },
+    "submitter": "sgredwan",
+    "num_words": 282,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "for instance",
+            "for example",
+            "although",
+            "however",
+            "therefore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 14,
+                        "end_idx": 18
+                    },
+                    {
+                        "start_idx": 894,
+                        "end_idx": 898
+                    },
+                    {
+                        "start_idx": 1064,
+                        "end_idx": 1068
+                    },
+                    {
+                        "start_idx": 1681,
+                        "end_idx": 1685
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 258,
+                        "end_idx": 262
+                    },
+                    {
+                        "start_idx": 376,
+                        "end_idx": 380
+                    },
+                    {
+                        "start_idx": 1141,
+                        "end_idx": 1145
+                    },
+                    {
+                        "start_idx": 1164,
+                        "end_idx": 1168
+                    },
+                    {
+                        "start_idx": 1458,
+                        "end_idx": 1462
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-09-12T14:49:03.609Z"
+}

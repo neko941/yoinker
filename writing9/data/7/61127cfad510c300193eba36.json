@@ -1,0 +1,201 @@
+{
+    "url": "https://writing9.com/text/61127cfad510c300193eba36-some-sports-are-extremely-dangerous-to-the-players-why-do",
+    "file": "data\\7\\61127cfad510c300193eba36.json",
+    "topics": [
+        "sports",
+        "players",
+        "people",
+        "measures",
+        "risks"
+    ],
+    "question": "Some sports are extremely dangerous to the players. Why do people participate in such sports? Tell some measures to avoid the risks involved.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Today majority of people go to the sport because they want to save their health, however we can notice that some types of sport can be dangerous to us. In spite of potential ,danger people continue to do it. In this, essay we will watch the reasons why the players do it and how to do it safer.",
+        "First of all, we need to understand the reason why the players choose these types of sport. In most ,cases the players who take part in such sports loke challenges and their  main aim in sport is a wish to win a fear.  According to the last researches, most skydivers went to this sport because wanted to win the fear of height.",
+        "However,  it is necessary to create measures for saving sportsmen's lives and health. In the beginning,  the sports equipment and clothing should have a high quality in order to minimize risk. The second,  it can be useful if the players work in a team, in that , the case they may help each other. For instance, the people who climb in the mountains work in groups for safety also always choose a piece of good equipment.",
+        "In conclusion, sport is considered to be an important element in the life of a healthy person, but now more and more humans join dangerous sport, like sky diving. These people have a similar sense to win inside phobias. And in this ,way their safety can guarantee their  good tools and team. Hello-hello buy bye yes"
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "the ",
+                "start_idx": 31,
+                "end_idx": 35,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "however",
+                "start_idx": 81,
+                "end_idx": 88,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase however. Consider adding a comma.",
+                "suggetions": [
+                    ",however"
+                ]
+            },
+            {
+                "word": "The ",
+                "start_idx": 818,
+                "end_idx": 822,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "Second"
+                ]
+            },
+            {
+                "word": "dangerous",
+                "start_idx": 1177,
+                "end_idx": 1186,
+                "error": "Add an article",
+                "error_des": "The noun phrase dangerous sport seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the dangerous",
+                    "a dangerous"
+                ]
+            }
+        ]
+    },
+    "submitter": "Dana",
+    "num_words": 252,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "also",
+            "second",
+            "for instance",
+            "however",
+            "this",
+            "last",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "sport",
+                "occurrences": [
+                    {
+                        "start_idx": 35,
+                        "end_idx": 40
+                    },
+                    {
+                        "start_idx": 122,
+                        "end_idx": 127
+                    },
+                    {
+                        "start_idx": 380,
+                        "end_idx": 385
+                    },
+                    {
+                        "start_idx": 436,
+                        "end_idx": 441
+                    },
+                    {
+                        "start_idx": 482,
+                        "end_idx": 487
+                    },
+                    {
+                        "start_idx": 576,
+                        "end_idx": 581
+                    },
+                    {
+                        "start_idx": 680,
+                        "end_idx": 685
+                    },
+                    {
+                        "start_idx": 733,
+                        "end_idx": 738
+                    },
+                    {
+                        "start_idx": 1062,
+                        "end_idx": 1067
+                    },
+                    {
+                        "start_idx": 1186,
+                        "end_idx": 1191
+                    }
+                ]
+            },
+            {
+                "word": "players",
+                "occurrences": [
+                    {
+                        "start_idx": 257,
+                        "end_idx": 264
+                    },
+                    {
+                        "start_idx": 350,
+                        "end_idx": 357
+                    },
+                    {
+                        "start_idx": 406,
+                        "end_idx": 413
+                    },
+                    {
+                        "start_idx": 854,
+                        "end_idx": 861
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 18,
+                        "end_idx": 24
+                    },
+                    {
+                        "start_idx": 182,
+                        "end_idx": 188
+                    },
+                    {
+                        "start_idx": 941,
+                        "end_idx": 947
+                    },
+                    {
+                        "start_idx": 1216,
+                        "end_idx": 1222
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-08-10T13:22:55.056Z"
+}

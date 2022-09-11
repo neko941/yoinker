@@ -1,0 +1,85 @@
+{
+    "url": "https://writing9.com/text/5dbe5350ed6fd80018110900",
+    "file": "data\\6\\5dbe5350ed6fd80018110900.json",
+    "topics": [
+        "recommendation",
+        "masters",
+        "program",
+        "internationa",
+        "universities"
+    ],
+    "question": "letter of recommendation for the masters program at internationa universities",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.5,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 4.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "I am writing this letter to recommend Mr. Rajesh Kamma for the master's program at your esteemed university. I have known him in my capacity as his professor for the past four years, in which I taught him courses such as Thermodynamics and Heat Transfer in the second and fifth semesters.",
+        "Through my acquaintance with his academic activities, I would like to say that his assignments were well-researched and met all deadlines perpetually. Throughout his course of study, Mr. Rajesh Kamma has shown great interest in practical experience and theoretical knowledge. I also had the opportunity to observe his seminars during the presentation of his project, where I have taken note of his diligence with work and attention to detail during these sessions. For his project, he chose a complex topic in which he has to identify the 'Effect of Additives on Mechanical and Tribological Properties of Aluminium Casting Prepared by Green Sand Moulding Process'. As the team leader of the project, he was commendable in keeping the team motivated and guided them.",
+        "Besides his attentiveness to the academic record, Mr. Rajesh also participated in several co-curricular activities. He took active participation in workshops such as 'Design Workshop' which was held in Jawaharlal Nehru Technological University and '3D Printing Workshop' that was organized by our institution Gayatri Vidya Parishad College of Engineering.",
+        "Considering his hard-working and motivation towards the subject, I strongly assure you that Mr. Rajesh will excel at his graduate studies through a broader understanding and experimental learning. I heartily recommend Mr. Rajesh Kamma for his Master's Program at your esteemed University."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "Kamma",
+                "start_idx": 1641,
+                "end_idx": 1646,
+                "error": "(Hinduism and Buddhism) the effects of a person's actions that determine their fate in this life and the next incarnation",
+                "error_des": "",
+                "suggetions": [
+                    "karma",
+                    "came"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 264,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "second",
+            "besides",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "rajesh",
+                "occurrences": []
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-03T04:10:56.143Z"
+}

@@ -1,0 +1,229 @@
+{
+    "url": "https://writing9.com/text/62e6bf830562ec00182a02e8-some-people-believe-that-art-gives-our-lives-meaning-and",
+    "file": "data\\65\\62e6bf830562ec00182a02e8.json",
+    "topics": [
+        "people",
+        "art",
+        "lives",
+        "purpose",
+        "distraction",
+        "life"
+    ],
+    "question": "Some people believe that Art gives our lives meaning and purpose. Others believe that it is merely a distraction from real life.Discuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 5.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the modern ,world there is a polarizing opinion regarding art. Some people think it has a lot of advantages,  others suppose it does more harm than good. ,Further both of these points will be reviewed and also I will lead with a logical conclusion.",
+        "Let's start with the first point which is about positive things in art. First, for some it is a main line of work, they adore it and cannot just live without it. Their main goal is to create music, draw portraits and do other stuff. We can not deny its usefulness of it. Second, this line of work generates quite good profit. I am talking not only about some wealthy individuals, but also a more large group of people or even such things as a city budget. For example, in Montreal there are a lot of music festivals and art exhibitions which are only possible with help of art and people who are busy in this sphere.",
+        "On the other hand, there are  a lot of people who think that it is a waste of time to focus on art. Firstly, they claim that we have to concentrate on more important aspects like global warming or poverty. They assume that we need to spend all of our power and efforts trying to minimize the effect of such negative things. Secondly, they are sure that by creating some art people are trying to avoid dealing with really glaring problems, probably because they are afraid of it. For instance, instead of pushing the envelope in the technology area, a community just write poems which do not help a lot in complex situations.",
+        "In conclusion, I completely disagree with the ones who believe that art is switching our focus from  real problems to something less relevant. Musicians, artists, and writers are creating a lot of materials that motivate others to work harder in many different spheres, like physics or politics. Art is extremely helpful in desperate times and I am concerned that without it our work would be much worse."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "Further",
+                "start_idx": 158,
+                "end_idx": 165,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Further. Consider adding a comma.",
+                "suggetions": [
+                    ",Further"
+                ]
+            },
+            {
+                "word": "usefulness",
+                "start_idx": 506,
+                "end_idx": 516,
+                "error": "Replace the word",
+                "error_des": "The word usefulness doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "use"
+                ]
+            },
+            {
+                "word": "Montreal",
+                "start_idx": 725,
+                "end_idx": 733,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase in Montreal. Consider adding a comma.",
+                "suggetions": [
+                    ",Montreal"
+                ]
+            },
+            {
+                "word": "do",
+                "start_idx": 1455,
+                "end_idx": 1457,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb do does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "does"
+                ]
+            }
+        ]
+    },
+    "submitter": "logan.keller",
+    "num_words": 342,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "on the other hand",
+            "second",
+            "for instance",
+            "for example",
+            "firstly",
+            "instead",
+            "secondly",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "lot",
+                "occurrences": [
+                    {
+                        "start_idx": 93,
+                        "end_idx": 96
+                    },
+                    {
+                        "start_idx": 745,
+                        "end_idx": 748
+                    },
+                    {
+                        "start_idx": 901,
+                        "end_idx": 904
+                    },
+                    {
+                        "start_idx": 1467,
+                        "end_idx": 1470
+                    },
+                    {
+                        "start_idx": 1684,
+                        "end_idx": 1687
+                    }
+                ]
+            },
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 361,
+                        "end_idx": 365
+                    },
+                    {
+                        "start_idx": 544,
+                        "end_idx": 548
+                    },
+                    {
+                        "start_idx": 1725,
+                        "end_idx": 1729
+                    },
+                    {
+                        "start_idx": 1873,
+                        "end_idx": 1877
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 71,
+                        "end_idx": 77
+                    },
+                    {
+                        "start_idx": 663,
+                        "end_idx": 669
+                    },
+                    {
+                        "start_idx": 833,
+                        "end_idx": 839
+                    },
+                    {
+                        "start_idx": 908,
+                        "end_idx": 914
+                    },
+                    {
+                        "start_idx": 1243,
+                        "end_idx": 1249
+                    }
+                ]
+            },
+            {
+                "word": "art",
+                "occurrences": [
+                    {
+                        "start_idx": 61,
+                        "end_idx": 64
+                    },
+                    {
+                        "start_idx": 260,
+                        "end_idx": 263
+                    },
+                    {
+                        "start_idx": 319,
+                        "end_idx": 322
+                    },
+                    {
+                        "start_idx": 772,
+                        "end_idx": 775
+                    },
+                    {
+                        "start_idx": 825,
+                        "end_idx": 828
+                    },
+                    {
+                        "start_idx": 964,
+                        "end_idx": 967
+                    },
+                    {
+                        "start_idx": 1239,
+                        "end_idx": 1242
+                    },
+                    {
+                        "start_idx": 1562,
+                        "end_idx": 1565
+                    },
+                    {
+                        "start_idx": 1648,
+                        "end_idx": 1651
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-31T17:46:55.309Z"
+}

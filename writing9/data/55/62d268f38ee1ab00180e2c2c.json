@@ -1,0 +1,100 @@
+{
+    "url": "https://writing9.com/text/62d268f38ee1ab00180e2c2c-an-english-speaking-friend-wants-to-spend-a-two-week-holiday-in",
+    "file": "data\\55\\62d268f38ee1ab00180e2c2c.json",
+    "topics": [
+        "friend",
+        "holiday",
+        "region",
+        "information",
+        "advice",
+        "offer",
+        "clothes"
+    ],
+    "question": "An English-speaking friend wants to spend a two-week holiday in your region and has written asking for information and advice. \nWrite a letter to your friend. In your letter:\n\n\n- Offer to find somewhere to stay\n- give advice about what to do\n- give information about what clothes to bring",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 5.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Tom,",
+        "I hope you're well. I was delighted to know that you're planning a trip to Jaipur, which is my home town. I'd be more than happy to help you figure out a few things.",
+        "I can look for a decent place for your stay as I know the city quite well. There is a premium hotel with a five-star rating which I guess you'd like; The Taj Hotel. It is known for its hospitality and despite being of top quality, you can get it for a decent price.",
+        "Since Jaipur was a royal land, there are many heritage and cultural sites that you must visit. To name a few, there is a fort at the top of a hill called The Nahargarh Fort. It's one of the best tourists' spot in the city. Apart from that, you can shop in the city's local markets where you'd find some exquisite art pieces by skilled craftsmen and you could buy some souvenirs as well.",
+        "As you'll be coming to India in the month of September, the weather will be pleasant. It won't be too hot or too cold. You can carry a light jacket with you if you like otherwise jeans and t-shirt are fine. I feel terrible as I won't be in the town at the time of your visit, but I'll meet you at the Delhi airport before you board your return flight.",
+        "Have a nice trip. Speak soon!",
+        "Best,",
+        "Jay"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "tourists'",
+                "start_idx": 637,
+                "end_idx": 646,
+                "error": "Change noun form",
+                "error_des": "It seems that this noun form may be incorrect.",
+                "suggetions": [
+                    "tourists"
+                ]
+            },
+            {
+                "word": "spot",
+                "start_idx": 647,
+                "end_idx": 651,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun spot follows the quantifier one, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "spots"
+                ]
+            },
+            {
+                "word": "t-shirt",
+                "start_idx": 1018,
+                "end_idx": 1025,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a t-shirt"
+                ]
+            }
+        ]
+    },
+    "submitter": "amanmalik640",
+    "num_words": 243,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "1",
+        "list_linking_words": [
+            "otherwise"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-07-16T07:29:56.859Z"
+}

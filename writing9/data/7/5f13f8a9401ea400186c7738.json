@@ -1,0 +1,131 @@
+{
+    "url": "https://writing9.com/text/5f13f8a9401ea400186c7738",
+    "file": "data\\7\\5f13f8a9401ea400186c7738.json",
+    "topics": [
+        "places",
+        "homes",
+        "space",
+        "countryside",
+        "people"
+    ],
+    "question": "In many places, new homes are needed, but the only space available for building them is in the countryside. Some people believe it is more important to protect the countryside and not build new homes there.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The demand for new apartments is increasing day by day, but the lands for building them are available only in rural areas. It is believed by some personnel that the new homes should not be constructed in the countryside because these lands are the major source of agricultural production and play an important role in maintaining a safe environment.",
+        "To embark upon, most of the edible substances are grown in the land of villages; the principal occupation of the villagers is farming. The life of the villagers runs by cultivating crops, which also plays an important role to save the economy of the country. If buildings are constructed in these areas, scarcity of land for the agricultural purpose will arise, and the whole country may feel the scarcity of food. For instance, about 80% of the rice that is consumed by the citizens of Nepal is produced in the countryside.",
+        "Moreover, the green forest and annual crops produced in the village play a crucial role in maintaining the environment. Hundreds of the crops are cultivated and harvested annually from the land of the rural areas; these herbs produces a lot of oxygen that preserves the quality of the atmosphere. For example, research conducted in Oxford university showed that about 55 % of the oxygen present in the surrounding is produced from the vegetations grown in the countryside.",
+        "In conclusion, although the new houses are in demand, these should not be built in rural areas because the land of the countryside should be used for the production of crops and the vegetations in these areas help to remove air pollution."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "produces",
+                "start_idx": 1101,
+                "end_idx": 1109,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "produce"
+                ]
+            }
+        ]
+    },
+    "submitter": "PRATIMA ADHIKARI",
+    "num_words": 269,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for example",
+            "moreover",
+            "although",
+            "that is",
+            "for instance",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "land",
+                "occurrences": [
+                    {
+                        "start_idx": 64,
+                        "end_idx": 68
+                    },
+                    {
+                        "start_idx": 234,
+                        "end_idx": 238
+                    },
+                    {
+                        "start_idx": 413,
+                        "end_idx": 417
+                    },
+                    {
+                        "start_idx": 666,
+                        "end_idx": 670
+                    },
+                    {
+                        "start_idx": 1064,
+                        "end_idx": 1068
+                    },
+                    {
+                        "start_idx": 1455,
+                        "end_idx": 1459
+                    }
+                ]
+            },
+            {
+                "word": "countryside",
+                "occurrences": [
+                    {
+                        "start_idx": 208,
+                        "end_idx": 219
+                    },
+                    {
+                        "start_idx": 862,
+                        "end_idx": 873
+                    },
+                    {
+                        "start_idx": 1335,
+                        "end_idx": 1346
+                    },
+                    {
+                        "start_idx": 1467,
+                        "end_idx": 1478
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-19T09:32:14.266Z"
+}

@@ -1,0 +1,91 @@
+{
+    "url": "https://writing9.com/text/5d3791814be04900106805ab-you-are-due-to-start-a-new-job-next-week",
+    "file": "data\\75\\5d3791814be04900106805ab.json",
+    "topics": [
+        "job",
+        "week",
+        "employer",
+        "situation"
+    ],
+    "question": "You are due to start a new job next week but you will not be able to because you have some problems.\nWrite a letter to your new employer. In your letter:\n1) Explain your situation\n2) Describe your problems\n3) Tell him/her when you think you can start.\n\nWrite at least 150 words",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I am writing with the hope that I am able to reschedule a new date for my resumption which was initially fixed on the 20th of May, as a customer care representative in your company. This is as a result of my inability to secure an accommodation earlier than I expected.",
+        "During the interview, the human resource manager explained that the company quarters will not be available to new recruits as it was undergoing renovation which is expected to last for about three months. Since I do not reside in this city, I was caught unawares and immediately commenced a search for a convenient place to reside with the help of some housing agents. However, this proved to be a long search, as the only space available will not be vacant until next weekend, about 5 days after I am due to resume.",
+        "As a result, I humbly seek for permission to start work on the 27th of May to enable me settle down in my new accommodation.",
+        "Thank you for your consideration.",
+        "Yours faithfully,",
+        "Ruth Akhuetie"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "for ",
+                "start_idx": 826,
+                "end_idx": 830,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "settle",
+                "start_idx": 887,
+                "end_idx": 893,
+                "error": "Add the particle",
+                "error_des": "It appears that the verb settle should be in the to-infinitive form. Consider adding the word to.",
+                "suggetions": [
+                    "to settle"
+                ]
+            }
+        ]
+    },
+    "submitter": "Glory",
+    "num_words": 179,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "as a result",
+            "however",
+            "next",
+            "initially",
+            "this",
+            "last"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T16:14:04.366Z"
+}

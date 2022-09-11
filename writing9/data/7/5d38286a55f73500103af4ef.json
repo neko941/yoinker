@@ -1,0 +1,219 @@
+{
+    "url": "https://writing9.com/text/5d38286a55f73500103af4ef",
+    "file": "data\\7\\5d38286a55f73500103af4ef.json",
+    "topics": [
+        "cars",
+        "fuels"
+    ],
+    "question": "Question: All cars that burn fossil fuels should be banned and electric cars should replace them. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There is an increasing debate over cars that run on petrol or diesel, and electric cars. Some people believe that vehicles that burn fossil fuels should be taken over by those that operate on electric batteries. I agree with this view, and this essay will discuss the reasons, which includes being environmentally friendly, as well as promoting clean energy.",
+        "Firstly, electric automobiles are environmentally accepted. Reason being that they do not emit greenhouse gases such as carbon dioxide. The technological breakthrough of electric cars has shown the possibility of eradicating carbon dioxide from the atmosphere; banning fossil fuel vehicles will ultimately help in realizing such goal. In addition, eradicating petrol and diesel cars will drastically reduce the effect of greenhouse, which is as a result of more and more carbon dioxide in the atmosphere. For example, statistics have shown that that in China, cars propelled by burning fossil fuels accounted for over 70 percent of carbon dioxide released into the atmosphere daily.",
+        "Secondly, promoting renewable energy can only be achieved by replacing petrol and diesel cars with rechargeable ones. This is because they run on electric batteries which are rechargeable, thus can be reusable. This innovative engineering promotes clean energy, furthermore improving automobile ideas from the old, environmentally-destructive technology. Moreover, electric car is the trending innovation in the automobile industry. For example, Tesla and other automobile companies are investing heavily in the development and mass production of rechargeable vehicles.",
+        "In conclusion, I believe that in order to efficiently reduce greenhouse effect, and also to promote renewable energy, cars running on petrol and diesel should be phased out."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "vehicles",
+                "start_idx": 114,
+                "end_idx": 122,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "vehicle"
+                ]
+            },
+            {
+                "word": "burn",
+                "start_idx": 128,
+                "end_idx": 132,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "burns"
+                ]
+            },
+            {
+                "word": "electric car",
+                "start_idx": 1409,
+                "end_idx": 1421,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the electric car",
+                    "an electric car"
+                ]
+            },
+            {
+                "word": "greenhouse effect",
+                "start_idx": 1676,
+                "end_idx": 1693,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the greenhouse effect"
+                ]
+            }
+        ]
+    },
+    "submitter": "olabanji",
+    "num_words": 267,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "thus",
+            "as a result",
+            "furthermore",
+            "for example",
+            "moreover",
+            "in addition",
+            "secondly",
+            "this",
+            "also",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "5",
+        "list_repeated_words": [
+            {
+                "word": "dioxide",
+                "occurrences": [
+                    {
+                        "start_idx": 486,
+                        "end_idx": 493
+                    },
+                    {
+                        "start_idx": 591,
+                        "end_idx": 598
+                    },
+                    {
+                        "start_idx": 837,
+                        "end_idx": 844
+                    },
+                    {
+                        "start_idx": 998,
+                        "end_idx": 1005
+                    }
+                ]
+            },
+            {
+                "word": "diesel",
+                "occurrences": [
+                    {
+                        "start_idx": 62,
+                        "end_idx": 68
+                    },
+                    {
+                        "start_idx": 730,
+                        "end_idx": 736
+                    },
+                    {
+                        "start_idx": 1124,
+                        "end_idx": 1130
+                    },
+                    {
+                        "start_idx": 1757,
+                        "end_idx": 1763
+                    }
+                ]
+            },
+            {
+                "word": "energy",
+                "occurrences": [
+                    {
+                        "start_idx": 351,
+                        "end_idx": 357
+                    },
+                    {
+                        "start_idx": 1072,
+                        "end_idx": 1078
+                    },
+                    {
+                        "start_idx": 1296,
+                        "end_idx": 1302
+                    },
+                    {
+                        "start_idx": 1722,
+                        "end_idx": 1728
+                    }
+                ]
+            },
+            {
+                "word": "petrol",
+                "occurrences": [
+                    {
+                        "start_idx": 52,
+                        "end_idx": 58
+                    },
+                    {
+                        "start_idx": 719,
+                        "end_idx": 725
+                    },
+                    {
+                        "start_idx": 1113,
+                        "end_idx": 1119
+                    },
+                    {
+                        "start_idx": 1746,
+                        "end_idx": 1752
+                    }
+                ]
+            },
+            {
+                "word": "carbon",
+                "occurrences": [
+                    {
+                        "start_idx": 479,
+                        "end_idx": 485
+                    },
+                    {
+                        "start_idx": 584,
+                        "end_idx": 590
+                    },
+                    {
+                        "start_idx": 830,
+                        "end_idx": 836
+                    },
+                    {
+                        "start_idx": 991,
+                        "end_idx": 997
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-24T09:44:10.208Z"
+}

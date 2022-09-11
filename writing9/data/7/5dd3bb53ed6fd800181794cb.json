@@ -1,0 +1,139 @@
+{
+    "url": "https://writing9.com/text/5dd3bb53ed6fd800181794cb",
+    "file": "data\\7\\5dd3bb53ed6fd800181794cb.json",
+    "topics": [
+        "doctors",
+        "countries",
+        "people",
+        "exercise"
+    ],
+    "question": "Doctors in many countries concerned that people are not getting enough physical exercise. What causes this? How this can be solved?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In recent years, the importance of physical exercise is increasing in our life. Physical  workout improves our overall health and refresh our minds. However, some doctors from different countries has an opinion that people don't get enough time for exercising. I completely agree with this former statement. This essay will highlight the problems caused by the lack of physical exercise and give some solutions to solve it.",
+        "To begin with, our body needs some exercise for maintaining the health. Now a days, no one gets  enough time for maintaining their fitness. This will cause many harmful effects to our body. Obesity is the major problem caused by the lack of exercise. Other problems include increased blood pressure, hormonal change, especially among women, increased cholesterol levels, heart problems etc.. These are the major issues, in order to get rid of, we do some exercises at least free time.",
+        "Moreover, there are a lot of solutions for solving the major issues caused by the lack of exercise. This solution will start first from school levels like introducing yoga classes, dances etc.. Also, we can introduce gym in the employment sector, especially among IT field. We must consult a specialist doctor when we have any such problems and take the appropriate medication. Everyone should spend a minimum of one hour for physical exercise in order to reduce the harmful effects from our body.",
+        "To conclude, physical exercise plays an important role in our life. We have to maintain a healthy body and mind through this type of activities mentioned above."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "days",
+                "start_idx": 503,
+                "end_idx": 507,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "day"
+                ]
+            }
+        ]
+    },
+    "submitter": "ns.davis.1990",
+    "num_words": 257,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "moreover",
+            "however",
+            "this",
+            "to begin",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "body",
+                "occurrences": [
+                    {
+                        "start_idx": 443,
+                        "end_idx": 447
+                    },
+                    {
+                        "start_idx": 608,
+                        "end_idx": 612
+                    },
+                    {
+                        "start_idx": 1401,
+                        "end_idx": 1405
+                    },
+                    {
+                        "start_idx": 1505,
+                        "end_idx": 1509
+                    }
+                ]
+            },
+            {
+                "word": "exercise",
+                "occurrences": [
+                    {
+                        "start_idx": 44,
+                        "end_idx": 52
+                    },
+                    {
+                        "start_idx": 378,
+                        "end_idx": 386
+                    },
+                    {
+                        "start_idx": 459,
+                        "end_idx": 467
+                    },
+                    {
+                        "start_idx": 665,
+                        "end_idx": 673
+                    },
+                    {
+                        "start_idx": 879,
+                        "end_idx": 887
+                    },
+                    {
+                        "start_idx": 999,
+                        "end_idx": 1007
+                    },
+                    {
+                        "start_idx": 1344,
+                        "end_idx": 1352
+                    },
+                    {
+                        "start_idx": 1429,
+                        "end_idx": 1437
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-19T09:52:19.553Z"
+}

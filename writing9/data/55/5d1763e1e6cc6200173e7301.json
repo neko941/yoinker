@@ -1,0 +1,131 @@
+{
+    "url": "https://writing9.com/text/5d1763e1e6cc6200173e7301",
+    "file": "data\\55\\5d1763e1e6cc6200173e7301.json",
+    "topics": [
+        "facts",
+        "education"
+    ],
+    "question": "Memorising facts is the most important way to succeed in education.\nTo what extent do you agree or disagree with this statement?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some would say that for being successful at learning facts, you have to memorize them. This essay strongly disagrees with that statement, as memorizing is not the most convenient method for developing comprehension skills, and this strategy could bring future problems for those who used it to obtain better grades while younger.",
+        "Amongst the so called \"learning strategies\", memorizing is the worst of all, as it makes individuals to only focus on the colocation of words and dates in a text, rather than in really trying to understand what they are reading, and this issue could result in the inability for giving accurate explanations or strong points of view regarding a text. For example, the American psychologist Daniel Chapman, made an experiment in which teenagers were asked to memorize a poem, and when they told to explain the meaning of a particular sentence in the given text, only 30% of them could give an accurate explanation.",
+        "Another issue regarding memorization is that this method could bring future problems for those who used it in the early stages of education, because if they were unable to adapt other educational strategies to their learning methods, it would be difficult for them to get along with other education regimens in the long term. For instance, a research conducted by the Pedagogy Department of the University of California revealed that around a tenth of freshman students struggle with the way in which the majority of College courses are given, because for scoring higher grades in high school they only had to memorize the notes taken in class.",
+        "In conclusion, memorizing facts is not the best way for succeeding in education, because it frustrates the development of comprehension abilities, and those who have used it before could have later problems while being at further education levels."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "colocation",
+                "start_idx": 453,
+                "end_idx": 463,
+                "error": "several things grouped together or considered as a whole",
+                "error_des": "",
+                "suggetions": [
+                    "collection"
+                ]
+            },
+            {
+                "word": "rather than in really",
+                "start_idx": 494,
+                "end_idx": 515,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "rather than really"
+                ]
+            },
+            {
+                "word": "freshman",
+                "start_idx": 1397,
+                "end_idx": 1405,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "freshmen"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 1644,
+                "end_idx": 1647,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            }
+        ]
+    },
+    "submitter": "Daniela",
+    "num_words": 301,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "for example",
+            "further",
+            "for instance"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 1073,
+                        "end_idx": 1082
+                    },
+                    {
+                        "start_idx": 1127,
+                        "end_idx": 1136
+                    },
+                    {
+                        "start_idx": 1232,
+                        "end_idx": 1241
+                    },
+                    {
+                        "start_idx": 1658,
+                        "end_idx": 1667
+                    },
+                    {
+                        "start_idx": 1818,
+                        "end_idx": 1827
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-29T13:13:05.000Z"
+}

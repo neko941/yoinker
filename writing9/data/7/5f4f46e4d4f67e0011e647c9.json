@@ -1,0 +1,120 @@
+{
+    "url": "https://writing9.com/text/5f4f46e4d4f67e0011e647c9",
+    "file": "data\\7\\5f4f46e4d4f67e0011e647c9.json",
+    "topics": [
+        "schools",
+        "students",
+        "health"
+    ],
+    "question": "Schools should do more to teach students about their health and wellbeing.Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some people might argue that schools should not spend time instructing students on health knowledge. However, I believe that schools should take action on it because schools are main sources for students to get knowledge. Besides, most children and teenagers take physical activities only when they are in school.",
+        "On the one hand, most students build up their knowledge system with the help of schools. For example, a recent study by Peking University found that among all of their undergraduates, 89% of them had learned their body systems and other elementary biological knowledge from classes they took in high schools. As a result, the most effective and successful method to guarantee that every student has basic knowledge about their health and wellbeing is to provide relating courses in schools.",
+        "On the other hand, a large number of students do not take the initiative in participating in physical activities except when they are taking physical exercise classes. According to a report by an Hangzhou-based newspaper in 2016, 70% of students from ten high schools only exercised when schools required. That is because most Chinese students are under great pressure, they would rather spend time on improving academic performances rather than exercising to enhance their immune systems. Thus, schools should impose recreational activities on them and increase the number of P.E. classes to help students learn more about the importance of health.",
+        "To summarize, schools should take more measures to teach students about wellbeing due to their significant role in teaching students about basic knowledge of their lives and their impacts on incentivizing students to exercise."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "",
+                "start_idx": 178,
+                "end_idx": 178,
+                "error": "Add an article",
+                "error_des": "",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 713,
+                "end_idx": 713,
+                "error": "Add an article",
+                "error_des": "",
+                "suggetions": [
+                    "a",
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "yingchenyeh",
+    "num_words": 264,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "as a result",
+            "for example",
+            "besides",
+            "however",
+            "that is"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "knowledge",
+                "occurrences": [
+                    {
+                        "start_idx": 90,
+                        "end_idx": 99
+                    },
+                    {
+                        "start_idx": 211,
+                        "end_idx": 220
+                    },
+                    {
+                        "start_idx": 360,
+                        "end_idx": 369
+                    },
+                    {
+                        "start_idx": 573,
+                        "end_idx": 582
+                    },
+                    {
+                        "start_idx": 719,
+                        "end_idx": 728
+                    },
+                    {
+                        "start_idx": 1600,
+                        "end_idx": 1609
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-09-02T07:16:55.285Z"
+}

@@ -1,0 +1,152 @@
+{
+    "url": "https://writing9.com/text/5ee8f65b9f3c5b001801469c",
+    "file": "data\\6\\5ee8f65b9f3c5b001801469c.json",
+    "topics": [
+        "employees",
+        "salary",
+        "work"
+    ],
+    "question": "The best way to motivate employees is to increase their salary. Do you agree with this statement? Are there other ways to encourage employees to work better?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many people think that the best way to keep their team motivated is a pay rise. Although this cannot happen every time in most of the companies, even the employers know that giving bonus or an increment of the pay are two of the most effective ways to increase the commitment of their workers. Despite this fact, I think that nowadays there are other strategies that can be used to improve the productivity at work and I am going to illustrate them.",
+        "First of all, many people seem to work better when their efforts are noticed and prised. If in a job place there is a clime of friendly competition and cooperation, people are inspired to overcome their limits and be more productive, in order to emulate some talented co-worked. Moreover, it is also important to build the group identity and make the employees feel part of a shared vision.",
+        "Secondly, especially young people tend to be more motivated if they know there is some kind of career progression. At the beginning of their careers, some people can accept to work even for free, if they think to gain useful skills for the future, hence giving them a realistic scenario of professional development is for sure a great way to secure their dedication.",
+        "Lastly, it is also important having a good balance between work and personal life. In particular, if the job requires to work on shifts, it is important giving roughly the same number of weekends and bank holidays off to each person. Furthermore, thinking in the individual circumstances of different individuals and help them to balance their profession with their family or personal life could be important at the same time.",
+        "To sum up, I think that there are many ways to make the people who work for you happier and, for that reason, more motivated. Not everything is just about money: shared vision, objectives and healthy environments have a large part in the satisfaction of the employees."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "bonus",
+                "start_idx": 181,
+                "end_idx": 186,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a bonus",
+                    "bonuses"
+                ]
+            },
+            {
+                "word": "prised",
+                "start_idx": 531,
+                "end_idx": 537,
+                "error": "express approval of",
+                "error_des": "",
+                "suggetions": [
+                    "praised"
+                ]
+            },
+            {
+                "word": "worked",
+                "start_idx": 721,
+                "end_idx": 727,
+                "error": "a person who works at a specific occupation",
+                "error_des": "",
+                "suggetions": [
+                    "worker"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1428,
+                "end_idx": 1430,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for"
+                ]
+            }
+        ]
+    },
+    "submitter": "Salom\u00e8 Sodini",
+    "num_words": 330,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "in particular",
+            "hence",
+            "furthermore",
+            "lastly",
+            "although",
+            "moreover",
+            "this",
+            "also",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 285,
+                        "end_idx": 289
+                    },
+                    {
+                        "start_idx": 410,
+                        "end_idx": 414
+                    },
+                    {
+                        "start_idx": 484,
+                        "end_idx": 488
+                    },
+                    {
+                        "start_idx": 721,
+                        "end_idx": 725
+                    },
+                    {
+                        "start_idx": 1017,
+                        "end_idx": 1021
+                    },
+                    {
+                        "start_idx": 1267,
+                        "end_idx": 1271
+                    },
+                    {
+                        "start_idx": 1329,
+                        "end_idx": 1333
+                    },
+                    {
+                        "start_idx": 1702,
+                        "end_idx": 1706
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-06-16T16:46:15.470Z"
+}

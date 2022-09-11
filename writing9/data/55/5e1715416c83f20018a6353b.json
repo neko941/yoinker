@@ -1,0 +1,128 @@
+{
+    "url": "https://writing9.com/text/5e1715416c83f20018a6353b",
+    "file": "data\\55\\5e1715416c83f20018a6353b.json",
+    "topics": [
+        "people",
+        "news",
+        "internet",
+        "newspapers",
+        "source"
+    ],
+    "question": "Although more and more people read news on the internet, newspapers will remain the most important source of news.\n\nTo what extent do you agree or disagree ?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is common at the present time to see people getting updates on the latest news from the internet rather than the traditional method of reading a newspaper. I would argue that electronic sources of news will gradually replace that of the newspaper.\u00a0\u000b\tNewspapers remain an important source of news for several reasons.\u00a0 The first of these is that the older generation still prefer to read their news this way, which is because they have traditionally bought a newspaper over the years and so do not wish to change or simply do not know how to do so online in some cases. In addition to this a newspaper also comes with other supplements, such as magazines and television guides, and sources of entertainment, such as crosswords. This makes it more attractive for some than going online. \u00a0\u000b\tHowever, though newspapers may not disappear completely, the Internet is likely to become the more dominant source of news over time. This is primarily because younger people tend to read the news online and prefer not to pay for it, so those reading newspapers, the older generations, will gradually decline. This links in with the second reason, which is that as media companies start to see a drop income from newspapers, printing them will become unprofitable and they will be forced to find ways to make money from news online.",
+        "In conclusion, although newspapers remain popular today, they will gradually be replaced by the desire to read the news through electronic sources. This may be a sad loss given their history, but unfortunately it is an unavoidable development."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "become the",
+                "start_idx": 874,
+                "end_idx": 884,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "become, the"
+                ]
+            },
+            {
+                "word": "a drop income",
+                "start_idx": 1185,
+                "end_idx": 1198,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a drop in income"
+                ]
+            }
+        ]
+    },
+    "submitter": "dannysatriaw",
+    "num_words": 264,
+    "num_paragraphs": 2,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "second",
+            "although",
+            "however",
+            "in addition",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "newspaper",
+                "occurrences": [
+                    {
+                        "start_idx": 148,
+                        "end_idx": 157
+                    },
+                    {
+                        "start_idx": 240,
+                        "end_idx": 249
+                    },
+                    {
+                        "start_idx": 461,
+                        "end_idx": 470
+                    },
+                    {
+                        "start_idx": 594,
+                        "end_idx": 603
+                    },
+                    {
+                        "start_idx": 807,
+                        "end_idx": 816
+                    },
+                    {
+                        "start_idx": 1042,
+                        "end_idx": 1051
+                    },
+                    {
+                        "start_idx": 1204,
+                        "end_idx": 1213
+                    },
+                    {
+                        "start_idx": 1348,
+                        "end_idx": 1357
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-01-09T11:57:53.672Z"
+}

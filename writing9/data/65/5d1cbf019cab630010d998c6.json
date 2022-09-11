@@ -1,0 +1,160 @@
+{
+    "url": "https://writing9.com/text/5d1cbf019cab630010d998c6",
+    "file": "data\\65\\5d1cbf019cab630010d998c6.json",
+    "topics": [
+        "people",
+        "time",
+        "loss",
+        "species",
+        "plants",
+        "animals"
+    ],
+    "question": "Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems.\nDiscuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some people consider that species extinction of plants and animals is the core environmental problem nowadays. While individual species conservation is crucial, I do agree with those who believe that other environmental issues are more important.",
+        "On the one hand, it is undeniable that the absence of certain plants and animals is an essential threat these days that leads to many catastrophic results. On land, wild animals are being hunted to extinction for bushmeat, decoration, or medicinal products. At sea, huge industrial fishing boats equipped with bottom-trawling or purse-seine nets pulled fish out of the oceans faster than nature can replace them. Moreover, species-rich wild forests which act as carbon sinks are being destroyed, especially in the tropics, and often have to make way for cattle ranching, soybean or other agricultural monocultures. People would loss the resources of fresh air and animals might have the failure to find a habitat. Therefore, the dying-out of individual species of plants and animals is the significant problem which should be tackled with as soon as possible.",
+        "On the other hand, there are more environmental problems we need to concern about such as the polluted air and the alteration of climate. Nowadays, the air pollution is a serious issue which needs to be resolved immediately. From smog hanging over cities to exhaust gas from cars, air pollution poses a major threat to public health and the whole atmosphere. In addition, the climate change which could rise the sea levels and cause more extreme weather conditions will definitely trigger off the disappearance of wild animals and endanger the existence of human beings. Thus, if the problems mentioned above continue, there is little hope for the future, including both plants, animals and humans.",
+        "In conclusion, the loss of particular species of plants and animals is obviously a major problem nowadays, but other environmental issues like air pollution and climate change are even more urgent."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "bushmeat",
+                "start_idx": 462,
+                "end_idx": 470,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "alteration",
+                "start_idx": 1225,
+                "end_idx": 1235,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "alter"
+                ]
+            },
+            {
+                "word": "rise",
+                "start_idx": 1513,
+                "end_idx": 1517,
+                "error": "raise the level or amount of something",
+                "error_des": "",
+                "suggetions": [
+                    "raise"
+                ]
+            },
+            {
+                "word": "off",
+                "start_idx": 1599,
+                "end_idx": 1602,
+                "error": "connects a noun with the preceding word",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            }
+        ]
+    },
+    "submitter": "smilesophie6877",
+    "num_words": 318,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "moreover",
+            "in addition",
+            "therefore",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "air",
+                "occurrences": [
+                    {
+                        "start_idx": 903,
+                        "end_idx": 906
+                    },
+                    {
+                        "start_idx": 1210,
+                        "end_idx": 1213
+                    },
+                    {
+                        "start_idx": 1259,
+                        "end_idx": 1262
+                    },
+                    {
+                        "start_idx": 1388,
+                        "end_idx": 1391
+                    },
+                    {
+                        "start_idx": 1949,
+                        "end_idx": 1952
+                    }
+                ]
+            },
+            {
+                "word": "species",
+                "occurrences": [
+                    {
+                        "start_idx": 26,
+                        "end_idx": 33
+                    },
+                    {
+                        "start_idx": 128,
+                        "end_idx": 135
+                    },
+                    {
+                        "start_idx": 670,
+                        "end_idx": 677
+                    },
+                    {
+                        "start_idx": 1000,
+                        "end_idx": 1007
+                    },
+                    {
+                        "start_idx": 1844,
+                        "end_idx": 1851
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-03T14:43:13.000Z"
+}

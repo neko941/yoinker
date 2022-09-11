@@ -1,0 +1,139 @@
+{
+    "url": "https://writing9.com/text/631528bfaee9de0018760d5a-with-growing-population-in-cities-more-and-more-people-live",
+    "file": "data\\65\\631528bfaee9de0018760d5a.json",
+    "topics": [
+        "population",
+        "cities",
+        "people",
+        "home",
+        "areas",
+        "development"
+    ],
+    "question": "With growing population in cities, more and more people live in a home with small or no outdoor areas. Is it a positive or negative development?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In recent days, population is increasing rapidly especially in cities as people are moving due to their work or higher education. Therefore, they have small houses with compact or no outdoor area. In this essay we will discuss the upsides and downsides of this issue. In my opinion, it is certainly a negative aspect for a few reasons.",
+        "Firstly, In modern society, people tend to spend a lot of time at work, so if people have a small house or flat it will reduce their time for cleaning. secondly, cost-effectiveness for example, if they have small lawn or garden area then it will take less maintenance also they don't have to buy costly equipment like a grass cutting machine.As seen clearly, the small houses give a positive effect on people who are living in the city.",
+        "On the other hand, Such kind of houses is not suitable for those who have children, as if they have small or no outdoor space then there might be a chance of no or less sunlight or natural air. It is necessary for children for their immune system, and it gives negative effects on growing up  children. Furthermore, the lack of space causes mental and health problems in  families. One consideration is that the limitation of open spaces for physical activities discourages citizens to do workouts. This sedentary lifestyle makes people more prone to the risk of developing some forms of diseases such as obesity and diabetes.",
+        "To sum up, while modest accommodations can benefit people in terms of budget  when it comes to healthy lifestyles spacious places will turn out to be the best solution. Therefore, people should base themselves on their individual situations to make the right decision."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "population",
+                "start_idx": 16,
+                "end_idx": 26,
+                "error": "Add an article",
+                "error_des": "The noun phrase population seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the population"
+                ]
+            },
+            {
+                "word": "essay",
+                "start_idx": 205,
+                "end_idx": 210,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase In this essay. Consider adding a comma.",
+                "suggetions": [
+                    ",essay"
+                ]
+            },
+            {
+                "word": "small",
+                "start_idx": 543,
+                "end_idx": 548,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a small"
+                ]
+            }
+        ]
+    },
+    "submitter": "pooja.raikwar27",
+    "num_words": 286,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "on the other hand",
+            "then",
+            "furthermore",
+            "for example",
+            "such",
+            "therefore",
+            "this",
+            "also",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 73,
+                        "end_idx": 79
+                    },
+                    {
+                        "start_idx": 364,
+                        "end_idx": 370
+                    },
+                    {
+                        "start_idx": 414,
+                        "end_idx": 420
+                    },
+                    {
+                        "start_idx": 738,
+                        "end_idx": 744
+                    },
+                    {
+                        "start_idx": 1303,
+                        "end_idx": 1309
+                    },
+                    {
+                        "start_idx": 1451,
+                        "end_idx": 1457
+                    },
+                    {
+                        "start_idx": 1580,
+                        "end_idx": 1586
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-04T22:42:18.600Z"
+}

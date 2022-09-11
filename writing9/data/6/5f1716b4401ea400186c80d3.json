@@ -1,0 +1,173 @@
+{
+    "url": "https://writing9.com/text/5f1716b4401ea400186c80d3-your-friend-has-asked-you-to-help-himher-to-nd",
+    "file": "data\\6\\5f1716b4401ea400186c80d3.json",
+    "topics": [
+        "friend",
+        "\ufb01nd",
+        "music",
+        "teacher",
+        "child",
+        "touch"
+    ],
+    "question": "Your friend has asked you to help him/her to \ufb01nd a music teacher for his/her child. Write a letter to your friend that you have found a suitable teacher. In your letter, you should tell:what experience the teacher haswhy you think he/she is suitablehow to get in touch with the teacher.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sam,",
+        "I  hope you and your family doing fine there. In the previous letter, you have told me to search for a trainer to teach music to your child. I would like to recommend the famous academy, \u201cPadmavathy music academy\u201d at Anna Nagar,Chennai.",
+        "It offers music training for students from fundamental to high level. They have separate staffs for each program and they support students for the last twenty years  in this field. I believe the location is also not so far from your home. Moreover i have enquired with the fees and duration of the training it is quite convenient to you as well.",
+        "They also offering online classes according to our leisure time. There is a discount of 20 percentage if you log in with two courses at a time. I have enclosed their address and contact number below for further enquires on this. Padmavathy music academy, No.45 Anna Nagar, Second Main Road,Chennai. Contact no : 044-2332645",
+        "See you sometime",
+        "With regards"
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "high",
+                "start_idx": 305,
+                "end_idx": 309,
+                "error": "Add an article",
+                "error_des": "The noun phrase high level seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a high"
+                ]
+            },
+            {
+                "word": "Moreover",
+                "start_idx": 486,
+                "end_idx": 494,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Moreover. Consider adding a comma.",
+                "suggetions": [
+                    ",Moreover"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 495,
+                "end_idx": 496,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "with",
+                "start_idx": 511,
+                "end_idx": 515,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "about"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 577,
+                "end_idx": 579,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "offering",
+                "start_idx": 603,
+                "end_idx": 611,
+                "error": "Change the form of the verb",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb offering. Consider changing it.",
+                "suggetions": [
+                    "offer"
+                ]
+            },
+            {
+                "word": "percentage",
+                "start_idx": 684,
+                "end_idx": 694,
+                "error": "Replace the word",
+                "error_des": "The word percentage doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "percent"
+                ]
+            },
+            {
+                "word": "enquires",
+                "start_idx": 804,
+                "end_idx": 812,
+                "error": "Correct your spelling",
+                "error_des": "The word enquires doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "enquiries"
+                ]
+            }
+        ]
+    },
+    "submitter": "Karthick Raja",
+    "num_words": 165,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "also",
+            "second",
+            "further",
+            "this",
+            "last"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "music",
+                "occurrences": [
+                    {
+                        "start_idx": 130,
+                        "end_idx": 135
+                    },
+                    {
+                        "start_idx": 209,
+                        "end_idx": 214
+                    },
+                    {
+                        "start_idx": 257,
+                        "end_idx": 262
+                    },
+                    {
+                        "start_idx": 833,
+                        "end_idx": 838
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-14T11:49:57.153Z"
+}

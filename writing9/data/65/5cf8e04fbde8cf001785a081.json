@@ -1,0 +1,143 @@
+{
+    "url": "https://writing9.com/text/5cf8e04fbde8cf001785a081",
+    "file": "data\\65\\5cf8e04fbde8cf001785a081.json",
+    "topics": [
+        "countries",
+        "positions",
+        "salaries",
+        "workers",
+        "company",
+        "people",
+        "isn\u2019t"
+    ],
+    "question": "In many countries senior positions have higher salaries compared to those of young workers of the same company. Some people think this isn\u2019t justified. \n\nDo you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some ponder that it is unjust that in a majority of nations, higher wages are paid for top members of companies; as opposed to juniors. I completely disagree with this statement because it is the supervisor/ consultant level that bears the burden of responsibility in making a company successful.",
+        "To elaborate further, the success of an institution is reliant on striving towards a clear vision and having effective alternative fall-back options at times of trouble shooting. In order for this to take place, experienced qualified leaders  are mandatory. And it goes without saying that it is this top-rung of personnel that will be taking profound risks to ensure tasks get done. For example, Dr. Hans of Dialog Axiata is said to be given a salary of 5 million rupees. And it would be easy for an onlooker to comment that he does less hours in the office; however, at a time of crisis, he will be the one facing the wrath of the shareholders, and additionally, be the person to strategize a path out of the chaos. Therefore, justifying the cash flow for the risk taken.",
+        "On the contrary, newer or less experienced employees work harder and possibly for longer hours. Moreover, the quantity of work done might not seem to be proportionate to the pay check. Reasonably, this might be why some say that it is injustice. Although, this is a fair point; taking into account a family unit for example, if the children were to run the household for a week, what would be the outcome?",
+        "To conclude, it takes time, age, experience and maturity to spearhead a workplace and prevent it from collapse; and it is for this reason that top jobs are paid the enormous cash."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "fall-back",
+                "start_idx": 429,
+                "end_idx": 438,
+                "error": "to break off a military action with an enemy",
+                "error_des": "",
+                "suggetions": [
+                    "fallback"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 447,
+                "end_idx": 449,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "experienced qualified",
+                "start_idx": 510,
+                "end_idx": 531,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "experienced, qualified"
+                ]
+            },
+            {
+                "word": "Dialog",
+                "start_idx": 707,
+                "end_idx": 713,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Dialogue"
+                ]
+            },
+            {
+                "word": "strategize",
+                "start_idx": 980,
+                "end_idx": 990,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "unit ",
+                "start_idx": 1380,
+                "end_idx": 1385,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "unit, for"
+                ]
+            },
+            {
+                "word": "are paid",
+                "start_idx": 1633,
+                "end_idx": 1641,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "have paid"
+                ]
+            }
+        ]
+    },
+    "submitter": "rajapakse_d",
+    "num_words": 290,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "on the contrary",
+            "for example",
+            "moreover",
+            "although",
+            "further",
+            "however",
+            "therefore",
+            "this",
+            "additionally"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2019-06-06T09:43:43.000Z"
+}

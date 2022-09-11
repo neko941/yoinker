@@ -1,0 +1,137 @@
+{
+    "url": "https://writing9.com/text/5de418aedb52040018c23d6e",
+    "file": "data\\65\\5de418aedb52040018c23d6e.json",
+    "topics": [
+        "rubbish",
+        "governments",
+        "amount"
+    ],
+    "question": "Nowadays we are producing more and more rubbish. Why do you think this is happening?\nWhat can governments do to help reduce the amount of rubbish produced?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It has been noticed an increased amount of trash produced by people. There is a great debate involving specialists and governors about solutions to decrease the rubbish thrown out everyday. In my opinion, the growth of waste is a consequence of the low cost of plastic material as well as of the low awareness of people towards recycling.",
+        "Political leaders could provide effective solutions to tackle this issue. Firstly, there is a huge gap between the price of plastic and reusable materials. The cost of biodegradable materials is almost 5 times more expensive than plastic, which is the major cause of pollution. The first step that should be taken by governments is to charge fees upon plastic products and incentive the use of goods that can be easily degradable.",
+        "Secondly, the population is not aware about the importance of recycling. Even though there are several campaigns that promote awareness in regards of pollution, the number of people that recycle their trash or separate their waste in biodegradable and plastic is not significant yet. Another way to address this problem would be increase the number of events and campaigns in schools, colleges and in workplaces. Those events could be formed by volunteers that would explain how recycling could be effective to reduce rubbish and consequently reduce pollution.",
+        "In conclusion, the main reason for the rise of waste created by people is the lack of instruction about reusing materials and the high usage of plastic. The government could play a paramount role to solve this problem by reducing the cost of biodegradable materials and promoting campaigns to educate people about recycling."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "everyday",
+                "start_idx": 180,
+                "end_idx": 188,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "every day"
+                ]
+            },
+            {
+                "word": "significant",
+                "start_idx": 1041,
+                "end_idx": 1052,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "signed"
+                ]
+            },
+            {
+                "word": "be increase the number",
+                "start_idx": 1100,
+                "end_idx": 1122,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "be to increase the number"
+                ]
+            },
+            {
+                "word": "Those",
+                "start_idx": 1187,
+                "end_idx": 1192,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "These"
+                ]
+            }
+        ]
+    },
+    "submitter": "eduardo.matos.oliveira",
+    "num_words": 269,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "consequently",
+            "firstly",
+            "this",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "plastic",
+                "occurrences": [
+                    {
+                        "start_idx": 261,
+                        "end_idx": 268
+                    },
+                    {
+                        "start_idx": 463,
+                        "end_idx": 470
+                    },
+                    {
+                        "start_idx": 569,
+                        "end_idx": 576
+                    },
+                    {
+                        "start_idx": 691,
+                        "end_idx": 698
+                    },
+                    {
+                        "start_idx": 1022,
+                        "end_idx": 1029
+                    },
+                    {
+                        "start_idx": 1475,
+                        "end_idx": 1482
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-12-01T19:46:54.532Z"
+}

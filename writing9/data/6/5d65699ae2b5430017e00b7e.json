@@ -1,0 +1,157 @@
+{
+    "url": "https://writing9.com/text/5d65699ae2b5430017e00b7e",
+    "file": "data\\6\\5d65699ae2b5430017e00b7e.json",
+    "topics": [
+        "people",
+        "children",
+        "school",
+        "language"
+    ],
+    "question": "Some people believe that all the children in school are required to learn at least one foreign language. However, others say that those who are not talented do not have to learn. What is your opinion?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, learning a foreign language in high school or earlier is a modern tendency, many people agree with it, but it argued that only talented pupils have to study. However, that limitation raises concerns about discrimination among people. In my opinion, it is a bad idea because every student should learn as they want.",
+        "To begin with, we are coming to a global society where people can meet and communicate easily. Learning a foreign language, especially international language such as English, is a good way for us to have more opportunities to approach progressive achievements of the world. Besides, pupils study a foreign language from the beginning of school is a judicious preparation. Scientists studied that children learn language more easily than the older because they have enough time to develop language as native people and their brain can acquire a language more effectively than adults. So our children will become more confident and more active when contacting others all over the world.",
+        "On the other hand, some people think there are a waste of resources when all the children learn a foreign language, they suggest there is a limit of number of children who have to. That limit of teaching only for talented students is not necessary and very unfair because everybody has the right to learn anything they want. Discrimination can cause psychological damage for children, who estimated subjectively, have no talent. There are some kids, whose talents are familiar with foreign languages but there are others, whose talents are in other fields. All they need to do are spend more time and they will achieve certain results.",
+        "To sum up, we should let all the children learn second language in school whether they have talent or not. It is necessary for our children to connect with foreigner and that is the first step for our country to integrate with other countries in the world."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "number",
+                "start_idx": 1159,
+                "end_idx": 1165,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the number"
+                ]
+            },
+            {
+                "word": "languages but",
+                "start_idx": 1500,
+                "end_idx": 1513,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "languages, but"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 1587,
+                "end_idx": 1590,
+                "error": "introduces an alternative",
+                "error_des": "",
+                "suggetions": [
+                    "or"
+                ]
+            },
+            {
+                "word": "foreigner",
+                "start_idx": 1802,
+                "end_idx": 1811,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a foreigner"
+                ]
+            }
+        ]
+    },
+    "submitter": "anhs0402",
+    "num_words": 317,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "on the other hand",
+            "second",
+            "besides",
+            "however",
+            "that is",
+            "to begin",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "language",
+                "occurrences": [
+                    {
+                        "start_idx": 29,
+                        "end_idx": 37
+                    },
+                    {
+                        "start_idx": 439,
+                        "end_idx": 447
+                    },
+                    {
+                        "start_idx": 474,
+                        "end_idx": 482
+                    },
+                    {
+                        "start_idx": 631,
+                        "end_idx": 639
+                    },
+                    {
+                        "start_idx": 736,
+                        "end_idx": 744
+                    },
+                    {
+                        "start_idx": 813,
+                        "end_idx": 821
+                    },
+                    {
+                        "start_idx": 869,
+                        "end_idx": 877
+                    },
+                    {
+                        "start_idx": 1116,
+                        "end_idx": 1124
+                    },
+                    {
+                        "start_idx": 1500,
+                        "end_idx": 1508
+                    },
+                    {
+                        "start_idx": 1701,
+                        "end_idx": 1709
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-27T17:34:18.074Z"
+}

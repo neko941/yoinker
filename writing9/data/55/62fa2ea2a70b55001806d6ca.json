@@ -1,0 +1,169 @@
+{
+    "url": "https://writing9.com/text/62fa2ea2a70b55001806d6ca-some-students-prefer-to-take-a-gap-year-between-high",
+    "file": "data\\55\\62fa2ea2a70b55001806d6ca.json",
+    "topics": [
+        "students",
+        "gap",
+        "year",
+        "school",
+        "university",
+        "work",
+        "travel",
+        "outweigh"
+    ],
+    "question": "Some students prefer to take a gap year between high school and university to work or to travel.Do the advantages of this outweigh this disadvantages.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is believed that having a gap year before attend to college would be better than direct attending there without it. There are both merits and demerits and I think the benefits would greater than the drawbacks.",
+        "On the one hand, having a gap year can bring many benefits. First of all, students can gain lots of experiences which can be gotten by just studying. While doing it, they can get a job or go on trips. they will face many kinds of people. Thus, they can use social skills they learned such as treating people to them. Furthermore, they can widen their sight, meeting and talking people who work or study in the different fields. Secondly, pupils can earn money which will be used for their education expenses. They would combine to work and trip like working holiday. By doing this, they would make money by themselves.",
+        "On the other hand, it can cause some opposite effects. In the first place, it would be a waste if students would not spend time efficiently. Most of them would be adults relatively recently after a decade-long educational curriculum, Therefore, they want to enjoy that time, and it results in a waste of time and money. In addition, students would forget what they studied. If they do not study consistently, what they were educated would be faded as time flies. It can cause that pupils cannot understand the contents of universal education.",
+        "In conclusion, although a gab year have various demerits, its merits offset it. Thus, it should be encouraged."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "attend",
+                "start_idx": 45,
+                "end_idx": 51,
+                "error": "Change the form of the verb",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb attend. Consider changing it.",
+                "suggetions": [
+                    "attending"
+                ]
+            },
+            {
+                "word": "people",
+                "start_idx": 591,
+                "end_idx": 597,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to people"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 619,
+                "end_idx": 623,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 741,
+                "end_idx": 744,
+                "error": "Fix the infinitive",
+                "error_des": "It seems that the use of particle to may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "would",
+                "start_idx": 1265,
+                "end_idx": 1270,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on would"
+                ]
+            },
+            {
+                "word": "that ",
+                "start_idx": 1308,
+                "end_idx": 1313,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "have",
+                "start_idx": 1410,
+                "end_idx": 1414,
+                "error": "Change the verb form",
+                "error_des": "The plural verb have does not appear to agree with the singular subject a gab year. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "has"
+                ]
+            }
+        ]
+    },
+    "submitter": "eomjimin0711",
+    "num_words": 258,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "furthermore",
+            "such",
+            "although",
+            "in addition",
+            "therefore",
+            "this",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 955,
+                        "end_idx": 959
+                    },
+                    {
+                        "start_idx": 1101,
+                        "end_idx": 1105
+                    },
+                    {
+                        "start_idx": 1136,
+                        "end_idx": 1140
+                    },
+                    {
+                        "start_idx": 1283,
+                        "end_idx": 1287
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-15T11:31:47.945Z"
+}

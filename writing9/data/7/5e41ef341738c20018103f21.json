@@ -1,0 +1,98 @@
+{
+    "url": "https://writing9.com/text/5e41ef341738c20018103f21-there-have-been-several-complaints-about-the-reception-area-where",
+    "file": "data\\7\\5e41ef341738c20018103f21.json",
+    "topics": [
+        "complaints",
+        "reception",
+        "area",
+        "visitors",
+        "company",
+        "manager"
+    ],
+    "question": "There have been several complaints about the reception area where visitors to your company arrive. Your manager has asked you to suggest how the reception area could be improved. \nWrite a letter to your manager. In your letter \n\u2022 describe the complaints that have been made\n\u2022 say why the reception area is important\n\u2022 suggest how the reception area could be improved",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 6.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr. John Timothy,",
+        "Good morning, I hope you are doing well.",
+        "I am writing to you regarding our recent conversation when you asked me to suggest how the reception area could be improved.",
+        "Accordingly, I have collected some info about the complaints that have been made, in order to come up with possible solutions. Consequently, I have found that our customers are complaining about their inability to see the welcome desk when they enter our firm, as well, they start to feel bored during their stay in such area as there is nothing to read or to look at on the walls.",
+        "Overall, I believe that this part of our company is critical, as it is the main node that is visible to the public. This means that we should give more attention to it, in order to maintain and increase the reputation of our corporation.",
+        "Relevantly, I have come up with several ideas concerning this matter. For instance, I believe that we should reposition the reception desk to be in front of the company's door, so that it can be visible to our visitors.",
+        "On the other hand, I believe we should put some magazines and books in the waiting space so that our clients do not get bored while waiting for their meetings. Also, we can start decorating the wall with some beautiful paintings.",
+        "Thank you.",
+        "Yours Faithfully,",
+        "Mohamed Hawas"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "Mr.",
+                "start_idx": 5,
+                "end_idx": 8,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 988,
+                "end_idx": 989,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker so that. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 233,
+    "num_paragraphs": 10,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "on the other hand",
+            "for instance",
+            "accordingly",
+            "consequently",
+            "that is",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T18:57:58.728Z"
+}

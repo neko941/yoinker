@@ -1,0 +1,157 @@
+{
+    "url": "https://writing9.com/text/5de3ef48db52040018c22f69",
+    "file": "data\\65\\5de3ef48db52040018c22f69.json",
+    "topics": [
+        "celebrity-",
+        "film",
+        "star",
+        "sports",
+        "personality-brings",
+        "celebrity"
+    ],
+    "question": "Being a celebrity- such as a famous film star or sports personality-brings problems as well as benefits.\nDo you think that being a celebrity brings more benefits or more problems?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is believed that being a famous person, such as a well-known actor or sports player, has disadvantages and disadvantages. In my opinion, being famous results in more problems for celebrities compared to any benefits it might bring.",
+        "Admittedly, there are some advantages to being famous. Firstly, most celebrities are known for their wealth, which is a result of their fame and lucrative jobs, namely acting, singing and sports playing. For instance, the well-known singer Taylor Swift gets around one million dollars for every event she participates in. Secondly, the majority of celebrities are welcomed everywhere without facing any visa-related issues. This is because many governments exempt celebrities from all visa requirements. To illustrate this, in April 2019, the Syrian actor Basil Kayat was given a visa to Egypt within 24 hours regardless of the law which states that Syrians are not allowed to go to Egypt.",
+        "Nevertheless, despite the advantages above, I think celebrities could face serious issues because of their fame. One potentially annoying problem is that their privacy is always invaded by others. The reason behind this is that their fans are curious to know about their private lives and, therefore, most of them are followed by paparazzi everywhere. For example, a report by New York Times showed that the late actor , Marilyn Monroe used to hide at her home for weeks just to avoid photographers. Another possible issue is that the majority of famous people are surrounded by people who pretend to love them. In other words, a lot of famous people get divorced when they lose their wealth or decide to quit their lucrative jobs. For example, Abed Fahed is a very famous Syrian actor who got divorced after he lost his money and decided to quit acting.",
+        "In conclusion, having no privacy and not being truly loved far outweigh any of the other advantages that could result from being a celebrity."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "sports player",
+                "start_idx": 73,
+                "end_idx": 86,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a sports player",
+                    "sports players"
+                ]
+            },
+            {
+                "word": "are known",
+                "start_idx": 317,
+                "end_idx": 326,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is known"
+                ]
+            },
+            {
+                "word": "Syrians",
+                "start_idx": 886,
+                "end_idx": 893,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the Syrians"
+                ]
+            },
+            {
+                "word": "potentially",
+                "start_idx": 1044,
+                "end_idx": 1055,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "potential"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 1345,
+                "end_idx": 1347,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 1376,
+                "end_idx": 1378,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 318,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "this",
+            "nevertheless",
+            "for example",
+            "such",
+            "in other words",
+            "therefore",
+            "for instance",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "actor",
+                "occurrences": [
+                    {
+                        "start_idx": 64,
+                        "end_idx": 69
+                    },
+                    {
+                        "start_idx": 785,
+                        "end_idx": 790
+                    },
+                    {
+                        "start_idx": 1338,
+                        "end_idx": 1343
+                    },
+                    {
+                        "start_idx": 1705,
+                        "end_idx": 1710
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-12-01T16:50:16.117Z"
+}

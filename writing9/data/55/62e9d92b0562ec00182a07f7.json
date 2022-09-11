@@ -1,0 +1,174 @@
+{
+    "url": "https://writing9.com/text/62e9d92b0562ec00182a07f7-some-people-think-that-all-university-students-should-study-whatever",
+    "file": "data\\55\\62e9d92b0562ec00182a07f7.json",
+    "topics": [
+        "people",
+        "university",
+        "students",
+        "study",
+        "subjects",
+        "future",
+        "science",
+        "technology"
+    ],
+    "question": "Some people think that all university students should study whatever they like. Others believe that they should only be allowed study subjects that will be useful in the future, such as those related to science and technology. Discuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It has been argued that students should choose a major that based on their interests. Others, however, have proposed an opposing viewpoint, which believes that useful subjects are more worth choosing. My view aligns with the former.",
+        "The main reason why I support the concept that students should study what their hearts desire is due to the fact that people tend to have more motivation when doing the things they like. If students are able to choose the subject they are fond of, there are chances for them to master the skills in that specific field and become successful in the future. Also, according to another fact is that people are happier when they're able to follow their hearts and make their own choices. If students are only forced to study so-called useful subjects, they aren't likely to do well on this matter.",
+        "However, there's an opposing belief that studying a useful subject for the future is a better choice. This is based on the idea that it is easy for them to find a job after they graduated from college. In some occasions, this might be an important factor to consider when choosing a major, but there's also a great chance for students to perform low in their studies, resulting in dropping out of classes to do other things that actually interested them.",
+        "In conclusion, the argument that the students choosing their major based on their interests has more weight than the opposing view. College students should not be forced to study the subject where aren\u2019t their hearts belong."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "that ",
+                "start_idx": 55,
+                "end_idx": 60,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "based",
+                "start_idx": 60,
+                "end_idx": 65,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "is based"
+                ]
+            },
+            {
+                "word": "hearts",
+                "start_idx": 313,
+                "end_idx": 319,
+                "error": "Change to a genitive case",
+                "error_des": "It appears that the word hearts should use the genitive case. Consider changing the noun.",
+                "suggetions": [
+                    "heart's"
+                ]
+            },
+            {
+                "word": "according to ",
+                "start_idx": 595,
+                "end_idx": 608,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "In",
+                "start_idx": 1029,
+                "end_idx": 1031,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "On"
+                ]
+            },
+            {
+                "word": "choosing",
+                "start_idx": 1328,
+                "end_idx": 1336,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb choosing. Consider changing it.",
+                "suggetions": [
+                    "choose"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1461,
+                "end_idx": 1465,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "c5101502",
+    "num_words": 260,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "also",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 24,
+                        "end_idx": 32
+                    },
+                    {
+                        "start_idx": 280,
+                        "end_idx": 288
+                    },
+                    {
+                        "start_idx": 423,
+                        "end_idx": 431
+                    },
+                    {
+                        "start_idx": 720,
+                        "end_idx": 728
+                    },
+                    {
+                        "start_idx": 1153,
+                        "end_idx": 1161
+                    },
+                    {
+                        "start_idx": 1319,
+                        "end_idx": 1327
+                    },
+                    {
+                        "start_idx": 1422,
+                        "end_idx": 1430
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-03T02:10:53.506Z"
+}

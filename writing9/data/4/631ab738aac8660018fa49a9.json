@@ -1,0 +1,621 @@
+{
+    "url": "https://writing9.com/text/631ab738aac8660018fa49a9-although-more-and-more-people-read-the-news-on-the",
+    "file": "data\\4\\631ab738aac8660018fa49a9.json",
+    "topics": [
+        "people",
+        "news",
+        "internet",
+        "newspapers",
+        "source",
+        "majority"
+    ],
+    "question": "Although more and more people read the news on the internet, newspapers will remain the most important source of news for the majority of people.",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In  this contemporary world ,the no of people  who opt the digital news to read whereas there are majority of poeple who consider  tabloids as  the most crucial source of news. this essay discuss the the both views and will ekaborate why i believe that  the online news easily overshadow the the conventional newspaper reading as  they are less convenient and not easily avialable all the time, time bound .",
+        "increment in the modern technology evolve around the people , they preffer  online news because it is easily availbe on their devices rather than speading time on reading the entire newspaper.  moreover these days the tabloids focus on political news , either criticising or supporting parties , they are devoid of variety  rather than emphasis  on real major issues. the newspaper availability depends on days  for instance on national days, newspaper are not accessible. newspaper publishing is also a great combersome process. it also  involve various editing so we dont get the real facts and some sources .  poeple rely on the opinions of editors .  people are shifting to digital platforms as it not only provide the real facts and news but also provide the news in differnt forms , it could be in the form of videos or written matter . they are available all the time despite what day it is . it doesnkt contribute to any e waste .",
+        "in conclusion digital platform providing news will continue to evolve with more benifits and people opt it as the best source for news ."
+    ],
+    "errors": {
+        "num_error": "42",
+        "error_list": [
+            {
+                "word": "  who ",
+                "start_idx": 45,
+                "end_idx": 51,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 94,
+                "end_idx": 97,
+                "error": "Change the verb form",
+                "error_des": "The plural form of be are does not seem to agree with the singular subject majority. Consider changing the verb form.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "majority",
+                "start_idx": 98,
+                "end_idx": 106,
+                "error": "Add an article",
+                "error_des": "The noun phrase majority seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the majority",
+                    "a majority"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 109,
+                "end_idx": 110,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want poeple to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "people"
+                ]
+            },
+            {
+                "word": "poeple",
+                "start_idx": 110,
+                "end_idx": 116,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want poeple to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "people"
+                ]
+            },
+            {
+                "word": "who ",
+                "start_idx": 117,
+                "end_idx": 121,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "discuss",
+                "start_idx": 188,
+                "end_idx": 195,
+                "error": "Change the verb form",
+                "error_des": "The plural verb discuss does not appear to agree with the singular subject this essay. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "discusses"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 200,
+                "end_idx": 204,
+                "error": "Remove the redundancy",
+                "error_des": "Oops! It appears that you typed the twice in a row. Consider deleting one of them.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "ekaborate",
+                "start_idx": 224,
+                "end_idx": 233,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want ekaborate to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "elaborate"
+                ]
+            },
+            {
+                "word": "why",
+                "start_idx": 234,
+                "end_idx": 237,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on why"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 238,
+                "end_idx": 239,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "  the ",
+                "start_idx": 252,
+                "end_idx": 258,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "overshadow",
+                "start_idx": 277,
+                "end_idx": 287,
+                "error": "Change the verb form",
+                "error_des": "The plural verb overshadow does not appear to agree with the singular subject the online news. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "overshadows"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 292,
+                "end_idx": 296,
+                "error": "Remove the redundancy",
+                "error_des": "Oops! It appears that you typed the twice in a row. Consider deleting one of them.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 371,
+                "end_idx": 371,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want avialable to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "available"
+                ]
+            },
+            {
+                "word": "avialable",
+                "start_idx": 371,
+                "end_idx": 380,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want avialable to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "available"
+                ]
+            },
+            {
+                "word": "time bound",
+                "start_idx": 395,
+                "end_idx": 405,
+                "error": "Add a hyphen",
+                "error_des": "It appears that time bound is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "time-bound"
+                ]
+            },
+            {
+                "word": "evolve",
+                "start_idx": 443,
+                "end_idx": 449,
+                "error": "Change the verb form",
+                "error_des": "The verb evolve does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "evolves"
+                ]
+            },
+            {
+                "word": "preffer",
+                "start_idx": 475,
+                "end_idx": 482,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want preffer to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "prefer"
+                ]
+            },
+            {
+                "word": "availbe",
+                "start_idx": 517,
+                "end_idx": 524,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want availbe to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "available"
+                ]
+            },
+            {
+                "word": "speading",
+                "start_idx": 554,
+                "end_idx": 562,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want speading to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "spending",
+                    "spreading"
+                ]
+            },
+            {
+                "word": "emphasis",
+                "start_idx": 744,
+                "end_idx": 752,
+                "error": "Add an article",
+                "error_des": "The noun phrase emphasis seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an emphasis",
+                    "the emphasis"
+                ]
+            },
+            {
+                "word": "newspaper",
+                "start_idx": 851,
+                "end_idx": 860,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that newspaper may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "newspapers"
+                ]
+            },
+            {
+                "word": "combersome",
+                "start_idx": 918,
+                "end_idx": 928,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want combersome to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "cumbersome"
+                ]
+            },
+            {
+                "word": "  involve",
+                "start_idx": 945,
+                "end_idx": 954,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun it and the verb involve are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "involves"
+                ]
+            },
+            {
+                "word": "dont",
+                "start_idx": 977,
+                "end_idx": 981,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want dont to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "don't"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1021,
+                "end_idx": 1021,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want poeple to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "people"
+                ]
+            },
+            {
+                "word": "poeple",
+                "start_idx": 1021,
+                "end_idx": 1027,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want poeple to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "People"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 1107,
+                "end_idx": 1109,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "they"
+                ]
+            },
+            {
+                "word": "provide",
+                "start_idx": 1119,
+                "end_idx": 1126,
+                "error": "Change the verb form",
+                "error_des": "The verb provide does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "provides"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1180,
+                "end_idx": 1180,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want differnt to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "different"
+                ]
+            },
+            {
+                "word": "differnt",
+                "start_idx": 1180,
+                "end_idx": 1188,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want differnt to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "different"
+                ]
+            },
+            {
+                "word": "doesnkt",
+                "start_idx": 1311,
+                "end_idx": 1318,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want doesnkt to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "doesn't",
+                    "does not"
+                ]
+            },
+            {
+                "word": "contribute",
+                "start_idx": 1319,
+                "end_idx": 1329,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun it and the verb contribute are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "contributes"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1337,
+                "end_idx": 1337,
+                "error": "Add a hyphen",
+                "error_des": "It appears that e waste is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "e-waste"
+                ]
+            },
+            {
+                "word": "e waste ",
+                "start_idx": 1337,
+                "end_idx": 1345,
+                "error": "Add a hyphen",
+                "error_des": "It seems that e waste is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "e-waste"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 1361,
+                "end_idx": 1362,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase in conclusion. Consider adding a comma.",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "platform",
+                "start_idx": 1370,
+                "end_idx": 1378,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that platform may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "platforms"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1428,
+                "end_idx": 1428,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want benifits to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "benefits"
+                ]
+            },
+            {
+                "word": "benifits",
+                "start_idx": 1428,
+                "end_idx": 1436,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want benifits to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "benefits"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1452,
+                "end_idx": 1452,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for it"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 1452,
+                "end_idx": 1454,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "them"
+                ]
+            }
+        ]
+    },
+    "submitter": "santhoshvarunkumar",
+    "num_words": 257,
+    "num_paragraphs": 3,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "also",
+            "moreover",
+            "for instance"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 389,
+                        "end_idx": 393
+                    },
+                    {
+                        "start_idx": 395,
+                        "end_idx": 399
+                    },
+                    {
+                        "start_idx": 563,
+                        "end_idx": 567
+                    },
+                    {
+                        "start_idx": 1278,
+                        "end_idx": 1282
+                    }
+                ]
+            },
+            {
+                "word": "news",
+                "occurrences": [
+                    {
+                        "start_idx": 67,
+                        "end_idx": 71
+                    },
+                    {
+                        "start_idx": 171,
+                        "end_idx": 175
+                    },
+                    {
+                        "start_idx": 265,
+                        "end_idx": 269
+                    },
+                    {
+                        "start_idx": 309,
+                        "end_idx": 313
+                    },
+                    {
+                        "start_idx": 491,
+                        "end_idx": 495
+                    },
+                    {
+                        "start_idx": 590,
+                        "end_idx": 594
+                    },
+                    {
+                        "start_idx": 654,
+                        "end_idx": 658
+                    },
+                    {
+                        "start_idx": 780,
+                        "end_idx": 784
+                    },
+                    {
+                        "start_idx": 851,
+                        "end_idx": 855
+                    },
+                    {
+                        "start_idx": 881,
+                        "end_idx": 885
+                    },
+                    {
+                        "start_idx": 1146,
+                        "end_idx": 1150
+                    },
+                    {
+                        "start_idx": 1172,
+                        "end_idx": 1176
+                    },
+                    {
+                        "start_idx": 1388,
+                        "end_idx": 1392
+                    },
+                    {
+                        "start_idx": 1477,
+                        "end_idx": 1481
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 39,
+                        "end_idx": 45
+                    },
+                    {
+                        "start_idx": 461,
+                        "end_idx": 467
+                    },
+                    {
+                        "start_idx": 1063,
+                        "end_idx": 1069
+                    },
+                    {
+                        "start_idx": 1440,
+                        "end_idx": 1446
+                    }
+                ]
+            },
+            {
+                "word": "newspaper",
+                "occurrences": [
+                    {
+                        "start_idx": 309,
+                        "end_idx": 318
+                    },
+                    {
+                        "start_idx": 590,
+                        "end_idx": 599
+                    },
+                    {
+                        "start_idx": 780,
+                        "end_idx": 789
+                    },
+                    {
+                        "start_idx": 851,
+                        "end_idx": 860
+                    },
+                    {
+                        "start_idx": 881,
+                        "end_idx": 890
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-09T03:52:53.763Z"
+}

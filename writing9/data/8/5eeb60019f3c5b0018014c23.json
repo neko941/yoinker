@@ -1,0 +1,100 @@
+{
+    "url": "https://writing9.com/text/5eeb60019f3c5b0018014c23",
+    "file": "data\\8\\5eeb60019f3c5b0018014c23.json",
+    "topics": [
+        "accessibility",
+        "university"
+    ],
+    "question": "Both the poor and the rich find the accessibility to university difficult. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The entrance to higher educational institutions is thought to be hard by both rich and unfortunate people. I strongly believe that every student regardless of their financial situation, struggles to access to universities.",
+        "The students coming from unfortunate families work really hard in order to enrol in a university in order to gain an employment of their choices. However, there are often financial obstacles which block their way. In other words, the poor cannot pay costly tuition fees determined by universities and there are other costs such as books, food and accommodation as well. It is true that some students find a way to pay them by taking a gap year working and saving money for their further studies, but usually at the end they are discouraged from studying. For example, around %40 of students who work in their gap years quit studying.",
+        "Even though the rich can pay tuition fees and other costs, there are difficulties for them as well. The students coming from rich families usually trust their wealth too much or  prepare in order to work in their families' companies in the future and they do not study efficiently. For example, a conducted survey suggests that around %60 of the fortunate students cannot access to universities because of their unsuccessful academic performance. Therefore, the rich students also face problems, but they are related to their GPA and academic success.",
+        "In conclusion, I think that both the rich and the poor experience some difficulties in order to study in a university."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "student regardless",
+                "start_idx": 137,
+                "end_idx": 155,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "student, regardless"
+                ]
+            }
+        ]
+    },
+    "submitter": "lopdk",
+    "num_words": 253,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for example",
+            "in other words",
+            "however",
+            "further",
+            "therefore",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "order",
+                "occurrences": [
+                    {
+                        "start_idx": 289,
+                        "end_idx": 294
+                    },
+                    {
+                        "start_idx": 323,
+                        "end_idx": 328
+                    },
+                    {
+                        "start_idx": 1047,
+                        "end_idx": 1052
+                    },
+                    {
+                        "start_idx": 1496,
+                        "end_idx": 1501
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-06-18T12:38:06.140Z"
+}

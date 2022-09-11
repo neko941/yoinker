@@ -1,0 +1,154 @@
+{
+    "url": "https://writing9.com/text/5cf7b787bde8cf0017859fb7",
+    "file": "data\\4\\5cf7b787bde8cf0017859fb7.json",
+    "topics": [
+        "people",
+        "technology",
+        "relationships",
+        "development"
+    ],
+    "question": "Nowadays the way many people interact with each other has changed because of technology.  \n\nIn what ways has technology affected the types of relationships people make?  \n\n\nIs this a positive or negative development?",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Presently, human interaction has evolved due to technological advancement. Technology has made the world a more connected place, however, at the same time, created isolation as well. Therefore, this evolution has a good and bad side.",
+        "On the positive side, families and friends who were close, could be closer than ever before because of technology. For instance, loved ones do not need to be physically in touch to be a part of each other's day, sharing is just a \"click\" away. For example, posting a picture of lunch on instagram, sharing location on whatsapp are a few ways people stay connected.",
+        "Another positive aspect is the change technology has brought on professional relationships, making the workfront more effective and productive. This is because, creating solutions at times of troubleshooting is no longer geographically restrictive. For example, professional connecting networks such as LinkedIn, provides a platform to find the appropriately qualified person.",
+        "As with everything in this world, there are two sides to technology too. The downside to technology is the way it has helped isolate individuals. To elaborate on this, people who find social interaction difficult, find it easier to be a part of online social networks. Therefore, such individuals prefer to work, study and even do household shopping online. Essentially, technology can be used to avoid old-fashioned human interaction altogether.",
+        "In conclusion, technology has paved the way to bring the world closer and even made it easier. However, one can not ignore it's detrimental effects as well."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "instagram",
+                "start_idx": 522,
+                "end_idx": 531,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "whatsapp",
+                "start_idx": 553,
+                "end_idx": 561,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "workfront",
+                "start_idx": 704,
+                "end_idx": 713,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "appropriately",
+                "start_idx": 946,
+                "end_idx": 959,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "appropriate"
+                ]
+            },
+            {
+                "word": "can not",
+                "start_idx": 1535,
+                "end_idx": 1542,
+                "error": "can not",
+                "error_des": "",
+                "suggetions": [
+                    "cannot"
+                ]
+            },
+            {
+                "word": "it's",
+                "start_idx": 1550,
+                "end_idx": 1554,
+                "error": "of a thing, of it; possessive form of \"it\"",
+                "error_des": "",
+                "suggetions": [
+                    "its"
+                ]
+            }
+        ]
+    },
+    "submitter": "rajapakse_d",
+    "num_words": 248,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "however",
+            "therefore",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "technology",
+                "occurrences": [
+                    {
+                        "start_idx": 337,
+                        "end_idx": 347
+                    },
+                    {
+                        "start_idx": 637,
+                        "end_idx": 647
+                    },
+                    {
+                        "start_idx": 1033,
+                        "end_idx": 1043
+                    },
+                    {
+                        "start_idx": 1065,
+                        "end_idx": 1075
+                    },
+                    {
+                        "start_idx": 1347,
+                        "end_idx": 1357
+                    },
+                    {
+                        "start_idx": 1438,
+                        "end_idx": 1448
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-05T12:37:27.000Z"
+}

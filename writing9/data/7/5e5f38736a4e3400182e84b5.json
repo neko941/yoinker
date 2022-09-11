@@ -1,0 +1,119 @@
+{
+    "url": "https://writing9.com/text/5e5f38736a4e3400182e84b5-you-have-rented-an-apartment-recently-but-you-are-facing",
+    "file": "data\\7\\5e5f38736a4e3400182e84b5.json",
+    "topics": [
+        "apartment",
+        "landlord"
+    ],
+    "question": "You have rented an apartment recently, but you are facing some problems.Write a letter to the landlord.\nDescribe the details of the problems\nHow are these affecting your family?\nAsk for possible solutions.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I am writing to express my dissatisfaction with the problems associated with my new rented apartment.Let me inform you that I am your new tenant in apartment number 342, square block.Actually, me and my family are facing a lot of inconvenience due to two major problems.",
+        "Let me explain my situation.I shift here, along with my family two weeks before.But we found that the inlet water pipe in the bathroom has a leakage which wastes a lot of water, and furthermore it is adversely affecting the water bill of our home.Another major concern is that the lock of the front door is not working properly, therefore  we have to push  hard to close it.",
+        "Since we are both working parents, and our children remain all alone after school.Thus the lock of the main door gives us a sense of insecurity about our children and hence this need to be rectified quickly.",
+        "I would be extremely grateful to you if you call the plumber and carpenter as soon as possible, otherwise provide me their contacts so that I may call them.Since maintenance cost of damage is included within the rent, these are restricted me from doing it on my own.",
+        "Hoping for a prompt response from you in this matter.",
+        "Yours' faithfully,",
+        "Kajal Maan"
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "me",
+                "start_idx": 203,
+                "end_idx": 205,
+                "error": "Change the pronoun",
+                "error_des": "It appears you have used the object pronoun me in a subjective position. Consider changing it.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "otherwise",
+                "start_idx": 960,
+                "end_idx": 969,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase otherwise. Consider adding a comma.",
+                "suggetions": [
+                    ",otherwise"
+                ]
+            },
+            {
+                "word": "their",
+                "start_idx": 981,
+                "end_idx": 986,
+                "error": "Add the preposition",
+                "error_des": "It appears that you are missing a preposition with the verb provide. Consider adding the preposition.",
+                "suggetions": [
+                    "with their"
+                ]
+            },
+            {
+                "word": "maintenance",
+                "start_idx": 1026,
+                "end_idx": 1037,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the maintenance"
+                ]
+            },
+            {
+                "word": "Yours'",
+                "start_idx": 1185,
+                "end_idx": 1191,
+                "error": "Correct your spelling",
+                "error_des": "The word Yours' doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "Yours"
+                ]
+            }
+        ]
+    },
+    "submitter": "kajalmaan.16",
+    "num_words": 215,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "thus",
+            "hence",
+            "furthermore",
+            "therefore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T19:34:00.343Z"
+}

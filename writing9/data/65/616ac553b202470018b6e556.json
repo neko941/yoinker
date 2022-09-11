@@ -1,0 +1,200 @@
+{
+    "url": "https://writing9.com/text/616ac553b202470018b6e556-you-have-a-full-time-job-and-you-are-also-doing",
+    "file": "data\\65\\616ac553b202470018b6e556.json",
+    "topics": [
+        "job",
+        "course",
+        "teachers",
+        "situation",
+        "time",
+        "action"
+    ],
+    "question": "You have a full-time job and you are also doing a part-time evening course.\n\nYou now find that you cannot continue the course.\n\nWrite a letter to your teachers. In your letter\n\ndescribe the situation\n\nexplain why you cannot continue at this time\n\nsay what action you would like to take",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr. Aseem",
+        "I am one of your students who is attending evenin classes for the french laguage. I am writing this letter to inform you that I am not able to continue my language course anymore.",
+        "Having said that, though i would really wanted to continue, it is quite difficlut for me to manage a full time job and my family's responsibilities altogether. Since my husband has changed his job and he has to do a night shift, I left with no option as there would be no one to take care of my kid. Moreover it takes me two hours from my office to reach the classes.",
+        "However, your class has taught me adequate things and now i can carry it forward through the online course. This way i can look after my son and learn french at my convenience from the home.",
+        "Thank you for your guidance and support through out the time.",
+        "Yours Sincerely,",
+        "Brijal Desai"
+    ],
+    "errors": {
+        "num_error": "13",
+        "error_list": [
+            {
+                "word": "Mr.",
+                "start_idx": 5,
+                "end_idx": 8,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": "evenin",
+                "start_idx": 58,
+                "end_idx": 64,
+                "error": "Correct your spelling",
+                "error_des": "The word evenin is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "evening"
+                ]
+            },
+            {
+                "word": "laguage",
+                "start_idx": 88,
+                "end_idx": 95,
+                "error": "Correct your spelling",
+                "error_des": "The word laguage is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "language"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 220,
+                "end_idx": 221,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "wanted",
+                "start_idx": 235,
+                "end_idx": 241,
+                "error": "Change the verb form",
+                "error_des": "The verb wanted after the modal verb would does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "want"
+                ]
+            },
+            {
+                "word": "difficlut",
+                "start_idx": 267,
+                "end_idx": 276,
+                "error": "Correct your spelling",
+                "error_des": "The word difficlut is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "difficult"
+                ]
+            },
+            {
+                "word": "full time",
+                "start_idx": 296,
+                "end_idx": 305,
+                "error": "Add a hyphen",
+                "error_des": "It appears that full time is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "full-time"
+                ]
+            },
+            {
+                "word": "Moreover",
+                "start_idx": 495,
+                "end_idx": 503,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Moreover. Consider adding a comma.",
+                "suggetions": [
+                    ",Moreover"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 621,
+                "end_idx": 622,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 680,
+                "end_idx": 681,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 794,
+                "end_idx": 794,
+                "error": "Correct your spelling",
+                "error_des": "The word through out seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "throughout"
+                ]
+            },
+            {
+                "word": "through out",
+                "start_idx": 794,
+                "end_idx": 805,
+                "error": "Correct your spelling",
+                "error_des": "The word through out seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "throughout"
+                ]
+            },
+            {
+                "word": "Brijal",
+                "start_idx": 833,
+                "end_idx": 839,
+                "error": "Correct your spelling",
+                "error_des": "The word Brijal is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "Bridal",
+                    "Brinjal"
+                ]
+            }
+        ]
+    },
+    "submitter": "brijal_desai",
+    "num_words": 160,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-16T12:28:05.566Z"
+}

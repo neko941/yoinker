@@ -1,0 +1,135 @@
+{
+    "url": "https://writing9.com/text/5dc1cd28ed6fd800181211c1",
+    "file": "data\\6\\5dc1cd28ed6fd800181211c1.json",
+    "topics": [
+        "n",
+        "countries",
+        "school",
+        "education",
+        "range",
+        "subjects",
+        "children",
+        "focus",
+        "career",
+        "today\u2019s",
+        "world"
+    ],
+    "question": "n some countries, secondary school aims to provide a general education across a range of subjects. In others, children focus on a narrow range of subjects related to a particular career. Which do you think is appropriate in today\u2019s world?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "People have different opinions about whether secondary school students should learn different subjects in general or focus only on a few core subjects. In my opinion, it is more beneficial for them to learn a variety of subjects at this age.",
+        "If students have access to a wide diversity of subjects in middle school and high school, they can become quite knowledgeable. Our society is advancing at such an unprecedented pace that many professions that prevail today are forecast to vanish in the near future. That poses a multitude of challenges to the younger generation who will survive only if they are equipped with a wealth of knowledge in a variety of domains. Consequently, learning multiple principles from science to languages helps them gain substantial amounts of information, concepts and genres, facilitating the acquisition of knowledge in various areas. Thus, those who learn a range of subjects in secondary school can be more capable and competitive once they enter the highly competitive workplace.",
+        "Another measured benefit of learning more subjects during adolescence is that children can hone various skills. Different courses require distinctive capacities of students, so the students who can survive and perform well in a diverse curriculum are more likely to become a well-rounded learner. For example, in math class children can improve their numerical and reasoning ability whereas what they acquire in history class is how to perceive and judge the historical events by analyzing the underlying reasons and making meaningful assumptions. This training of different types plays an integral part in stretching middle-school children in different areas. By attending these classes, they can enhance their competency in a wide sense which allows them to qualify for different types of jobs in the future.",
+        "In conclusion, given that children in secondary school can benefit from learning a broad curriculum, I firmly advocate that educational institutions provide general education to young people."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "from",
+                "start_idx": 710,
+                "end_idx": 714,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "ability whereas",
+                "start_idx": 1393,
+                "end_idx": 1408,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "ability, whereas"
+                ]
+            },
+            {
+                "word": "analyzing",
+                "start_idx": 1498,
+                "end_idx": 1507,
+                "error": "consider in detail and subject to an analysis in order to discover essential features or meaning",
+                "error_des": "",
+                "suggetions": [
+                    "analysing"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 314,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "thus",
+            "consequently",
+            "for example",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "school",
+                "occurrences": [
+                    {
+                        "start_idx": 55,
+                        "end_idx": 61
+                    },
+                    {
+                        "start_idx": 308,
+                        "end_idx": 314
+                    },
+                    {
+                        "start_idx": 324,
+                        "end_idx": 330
+                    },
+                    {
+                        "start_idx": 923,
+                        "end_idx": 929
+                    },
+                    {
+                        "start_idx": 1641,
+                        "end_idx": 1647
+                    },
+                    {
+                        "start_idx": 1875,
+                        "end_idx": 1881
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-05T19:27:36.394Z"
+}

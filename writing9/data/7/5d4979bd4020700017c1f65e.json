@@ -1,0 +1,187 @@
+{
+    "url": "https://writing9.com/text/5d4979bd4020700017c1f65e-you-have-an-extended-family-and-every-year-you-all",
+    "file": "data\\7\\5d4979bd4020700017c1f65e.json",
+    "topics": [
+        "year",
+        "get",
+        "trip",
+        "week",
+        "uncle",
+        "charge",
+        "plans",
+        "place"
+    ],
+    "question": "You have an extended family and every year you all get together to go on a family trip for a week. Your uncle is in charge of the plans this year and you would like to suggest a place you have visited lately.\nWrite a letter to your uncle. In your letter:\n\nsuggest the place you recommend\ndescribe your experience in this place\nmention what you could do there",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Uncle,",
+        "I hope you are doing good and as always you are in charge of planning the event this year.",
+        "Recently, I have been to a place in the California state very near to the Silicon Valley called the Yosemite National Park. I would recommend you to suggest this place because it will satisfy all our family needs and activities.",
+        "The place is covered with lots of trees and wildlife. During my visit with friends we had been into hiking with a group of people, filled with lots of fun and exciting to see the beauty of the nature. Apart from that, we also had a tour guide who took us to various places where we could photograph endangered animals and different plant species. It has lots of fun activities during summer season, but we had an option of skiing in the snow during our visit.",
+        "Make sure you visit this place during the summer, as you will have lots of other activities available such as  hiking mountains, water sports, and camping. It will be a great place, loaded with lots of fun with other family members.",
+        "Yours Lovingly,",
+        "Surya"
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "friends",
+                "start_idx": 410,
+                "end_idx": 417,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase During my visit with friends. Consider adding a comma.",
+                "suggetions": [
+                    ",friends"
+                ]
+            },
+            {
+                "word": "into ",
+                "start_idx": 430,
+                "end_idx": 435,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "exciting",
+                "start_idx": 494,
+                "end_idx": 502,
+                "error": "Replace the word",
+                "error_des": "The word exciting doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "excitement"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 524,
+                "end_idx": 528,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "summer",
+                "start_idx": 719,
+                "end_idx": 725,
+                "error": "Add an article",
+                "error_des": "The noun phrase summer season seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the summer"
+                ]
+            },
+            {
+                "word": "an",
+                "start_idx": 745,
+                "end_idx": 747,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "SuryaTeja Duggi",
+    "num_words": 191,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "lots",
+                "occurrences": [
+                    {
+                        "start_idx": 358,
+                        "end_idx": 362
+                    },
+                    {
+                        "start_idx": 475,
+                        "end_idx": 479
+                    },
+                    {
+                        "start_idx": 686,
+                        "end_idx": 690
+                    },
+                    {
+                        "start_idx": 859,
+                        "end_idx": 863
+                    },
+                    {
+                        "start_idx": 986,
+                        "end_idx": 990
+                    }
+                ]
+            },
+            {
+                "word": "place",
+                "occurrences": [
+                    {
+                        "start_idx": 130,
+                        "end_idx": 135
+                    },
+                    {
+                        "start_idx": 265,
+                        "end_idx": 270
+                    },
+                    {
+                        "start_idx": 336,
+                        "end_idx": 341
+                    },
+                    {
+                        "start_idx": 598,
+                        "end_idx": 603
+                    },
+                    {
+                        "start_idx": 817,
+                        "end_idx": 822
+                    },
+                    {
+                        "start_idx": 967,
+                        "end_idx": 972
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T16:20:06.927Z"
+}

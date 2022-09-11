@@ -1,0 +1,133 @@
+{
+    "url": "https://writing9.com/text/62fe7e100751a40019b4c1f0-you-have-read-a-magazine-article-that-mentioned-a-place",
+    "file": "data\\85\\62fe7e100751a40019b4c1f0.json",
+    "topics": [
+        "magazine",
+        "article",
+        "place",
+        "mistake",
+        "editor",
+        "error"
+    ],
+    "question": "You have read a magazine article that mentioned a place you are familiar with. There was a mistake in the article. Write a letter to the editor of the magazine and say\n\n\nWhat the error was\nExplain that you are familiar with the place\nWhy it is important to correct the error",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 9.0
+        },
+        "grammatical_range": {
+            "overall_score": 9.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 9.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I am writing this letter to draw  attention to the mistake in the article published on 17th August. The name of the article is \"Heritage hotel in Jalandhar\". This Article has printed on page 4 . The building image of the hotel is not the original. It seems that pic belongs to the ancient palace of south India as a few south Indian language words are written on the building pillars shown in the magazine.",
+        "My birthplace is Jalandhar and staying in the same place since 28yrs. I have been to heritage hotels numerous times to attend a few fairs and social parties. This hotel was constructed in 1939 and used as residential property by Indian freedom fighters. This building represents the struggles, and sacrifices of the patriotic citizens who fought for the freedom of our country. However,there are a few old letters, photo frames and electronic items preserved which gives us the vibe of sacrifices made by  freedom fighters.On 1960, this building has been acquired by one of the reputed builders and converted into a Heritage hotel.",
+        "I am astonished after seeing the basic error in the article happened and thought to inform you. I would recommend to re-print the article with the correct Photo because local pupils are still attached to the memories of the incidents that happened in the heritage hotel.Moreover,this place has also been mentioned in school textbooks with the correct images.I will be looking forward to seeing a correction.",
+        "Yours Sincerely,",
+        "Rahil Kumar"
+    ],
+    "errors": {
+        "num_error": "0",
+        "error_list": []
+    },
+    "submitter": "info.rahil",
+    "num_words": 250,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "also",
+            "moreover",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "heritage",
+                "occurrences": [
+                    {
+                        "start_idx": 502,
+                        "end_idx": 510
+                    },
+                    {
+                        "start_idx": 1304,
+                        "end_idx": 1312
+                    }
+                ]
+            },
+            {
+                "word": "hotel",
+                "occurrences": [
+                    {
+                        "start_idx": 147,
+                        "end_idx": 152
+                    },
+                    {
+                        "start_idx": 231,
+                        "end_idx": 236
+                    },
+                    {
+                        "start_idx": 511,
+                        "end_idx": 516
+                    },
+                    {
+                        "start_idx": 580,
+                        "end_idx": 585
+                    },
+                    {
+                        "start_idx": 1042,
+                        "end_idx": 1047
+                    },
+                    {
+                        "start_idx": 1313,
+                        "end_idx": 1318
+                    }
+                ]
+            },
+            {
+                "word": "article",
+                "occurrences": [
+                    {
+                        "start_idx": 76,
+                        "end_idx": 83
+                    },
+                    {
+                        "start_idx": 126,
+                        "end_idx": 133
+                    },
+                    {
+                        "start_idx": 1101,
+                        "end_idx": 1108
+                    },
+                    {
+                        "start_idx": 1179,
+                        "end_idx": 1186
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-18T18:02:51.947Z"
+}

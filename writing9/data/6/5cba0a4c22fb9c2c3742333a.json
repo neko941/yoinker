@@ -1,0 +1,114 @@
+{
+    "url": "https://writing9.com/text/5cba0a4c22fb9c2c3742333a",
+    "file": "data\\6\\5cba0a4c22fb9c2c3742333a.json",
+    "topics": [
+        "people",
+        "levels",
+        "education",
+        "schools",
+        "universities",
+        "time",
+        "facts",
+        "skills"
+    ],
+    "question": "Some people say that in all levels of education, from primary schools to universities, too much time is spent on learning facts and not enough on learning practical skills.\n\nDo you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the opinions of the most of the people, as a large number of institutions are obligated to teach pupils with facts from the very beginning, real-time technical experience goes missing from a student\u2019s life. I do accord on the statement cause students find themselves in a difficult position because of less real-life experience and less modern education curriculum.",
+        "Of crucial importance, in my opinion, is that students usually don\u2019t receive pertinent field or organizational experience due to the constant academic pressure. For instance, a lot of effort one individual needs to put in her/his early career just for learning the practical applications in an organization because of not getting institutionalised other than regular internship period. Furthermore, traditional academicians tend to rely only on the theories rather than their implications. As a result, students remain as anyone but an adept employee in working environment.",
+        "There is, however, another possible way to not to support the statement which is that the authority falls behind for not updating the educational curriculum with the current trend. According to one recent report, most of the courses remain same for every 5 years due to resource limitation in Bangladeshi universities. Also, a rigid mindset for getting higher marks in the exam encourages our school and colleges to develop an autocratic ambience where life-changing skills are not valued.",
+        "All the things considered, I am inclined to restate that learning skills will speak louder than just memorising facts. Thus, practical applications from the very beginning will definitely help our young minds not only to learn but also to prepare for the real world."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "regular internship period",
+                "start_idx": 730,
+                "end_idx": 755,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a regular internship period"
+                ]
+            },
+            {
+                "word": "working environment",
+                "start_idx": 925,
+                "end_idx": 944,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a working environment",
+                    "the working environment"
+                ]
+            },
+            {
+                "word": "minds not",
+                "start_idx": 1641,
+                "end_idx": 1650,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "minds, not"
+                ]
+            },
+            {
+                "word": "learn but",
+                "start_idx": 1659,
+                "end_idx": 1668,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "learn, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "zarif.esam123",
+    "num_words": 266,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "thus",
+            "as a result",
+            "furthermore",
+            "however",
+            "for instance",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2019-04-19T17:50:04.000Z"
+}

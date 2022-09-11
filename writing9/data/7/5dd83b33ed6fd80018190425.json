@@ -1,0 +1,151 @@
+{
+    "url": "https://writing9.com/text/5dd83b33ed6fd80018190425",
+    "file": "data\\7\\5dd83b33ed6fd80018190425.json",
+    "topics": [
+        "inspite",
+        "advances",
+        "agriculture",
+        "people",
+        "world",
+        "case"
+    ],
+    "question": "Inspite of advances made in agriculture, many people around the world still ho hungry. Why is the case? What can be done about this problem.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Despite improvements in farming, several individuals around the globe continue to go hungry. This essay will discuss poor transportation as a cause and promoting of urban cultivation and encouraging youth involvement in farming as solutions.",
+        "To begin with, Poor transportation would result in food shortage. This occurs because most rural communities in which plants are cultivated in large scales have bad roads, hence food transportation is difficult and most perish before arriving major cities. Therefore, rate of hunger is increased. To illustrate, a rural settlement in Abak which is located in Akwa Ibom state cultivates cassava that is processed into garri. As a result of bad road, the peasant farmers are unable to supply to townships.",
+        "However, Promotion of urban cultivation is a solution. If, it is promoted there will be more food for city dwellers because they would not depend on the local settlements for supply. Hence, food will be cheap and available and hunger is eliminated. For instance, a family residing in an estate has a vegetable farm, hence veggies are always available in the neighbourhood and people do not depend on market traders.",
+        "In addition, youth involvement in agriculture should be encouraged. When, young adults who posses strength than the elderly are involved in planting staple foods, this will result in more harvest seasonally. Thus, edibles will be surplus. For example, in a certain Urban environment, some youth prefered several forms of agriculture over office jobs and this resulted in an enormous harvest and most could afford because food prices were cheaper.",
+        "In conclusion, although people go hungry because of bad transport system. However, promotion of city farming and youth participation are solutions."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "garri",
+                "start_idx": 660,
+                "end_idx": 665,
+                "error": "a state of high honor",
+                "error_des": "",
+                "suggetions": [
+                    "glory",
+                    "gore",
+                    "fury"
+                ]
+            },
+            {
+                "word": "prefered",
+                "start_idx": 1461,
+                "end_idx": 1469,
+                "error": "more desirable than another",
+                "error_des": "",
+                "suggetions": [
+                    "preferred"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 276,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "thus",
+            "for instance",
+            "hence",
+            "as a result",
+            "for example",
+            "although",
+            "therefore",
+            "however",
+            "in addition",
+            "that is",
+            "this",
+            "to begin"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 293,
+                        "end_idx": 297
+                    },
+                    {
+                        "start_idx": 420,
+                        "end_idx": 424
+                    },
+                    {
+                        "start_idx": 839,
+                        "end_idx": 843
+                    },
+                    {
+                        "start_idx": 936,
+                        "end_idx": 940
+                    },
+                    {
+                        "start_idx": 1318,
+                        "end_idx": 1322
+                    },
+                    {
+                        "start_idx": 1583,
+                        "end_idx": 1587
+                    }
+                ]
+            },
+            {
+                "word": "youth",
+                "occurrences": [
+                    {
+                        "start_idx": 199,
+                        "end_idx": 204
+                    },
+                    {
+                        "start_idx": 1175,
+                        "end_idx": 1180
+                    },
+                    {
+                        "start_idx": 1451,
+                        "end_idx": 1456
+                    },
+                    {
+                        "start_idx": 1722,
+                        "end_idx": 1727
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-22T19:46:59.980Z"
+}

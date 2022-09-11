@@ -1,0 +1,158 @@
+{
+    "url": "https://writing9.com/text/5ca5c8400bda6f37859b3401",
+    "file": "data\\4\\5ca5c8400bda6f37859b3401.json",
+    "topics": [
+        "topic",
+        "technologies",
+        "children",
+        "time",
+        "outweigh"
+    ],
+    "question": "Topic: New technologies have changed the way children spend their free time. Do advantages of this outweigh disadvantages",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that new technologies have tremendous effects on the way children spend their free time. While this may have several benefits, I believe that overall the drawbacks are more significant.",
+        "There are several benefits of new technologies. Firstly, new technologies help children escape the tedium of school work. For example, many parents in VietNam allow children to play video games after school time for about 30 minutes to relieve stress. Secondly, new technologies improve the manual and mental dexterity of children. Some video games simulate the way to control motorbike and car. Playing these games helps children know how to ride a vehicle easier.",
+        "Despite the positive effects mentioned above, I contend that the negative consequences of new technologies are greater. Firstly, Some children neglect study by spending too much time on the video games. Video games are highly addictive. For example, video games give children scores, rewards when they progress to each level of the game. These rewards keep children playing games. Secondly, spending too much time on new technologies such as computers, smartphones and television encourage a sedentary lifestyle. Children who spend time on new technologies instead of having physical activities tend to have harmful habits which have detrimental effects on their development.",
+        "In conclusion, although new technologies have several benefits, I believe that it is more likely to have harmful impacts on children."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "help",
+                "start_idx": 271,
+                "end_idx": 275,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "helps"
+                ]
+            },
+            {
+                "word": "VietNam",
+                "start_idx": 348,
+                "end_idx": 355,
+                "error": "a communist state in Indochina on the South China Sea; achieved independence from France in 1945",
+                "error_des": "",
+                "suggetions": [
+                    "Vietnam"
+                ]
+            },
+            {
+                "word": "rewards keep",
+                "start_idx": 1008,
+                "end_idx": 1020,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "rewards, keep"
+                ]
+            },
+            {
+                "word": "encourage",
+                "start_idx": 1144,
+                "end_idx": 1153,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "encourages"
+                ]
+            }
+        ]
+    },
+    "submitter": "trthug53",
+    "num_words": 228,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for example",
+            "although",
+            "instead",
+            "secondly",
+            "this",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 94,
+                        "end_idx": 98
+                    },
+                    {
+                        "start_idx": 404,
+                        "end_idx": 408
+                    },
+                    {
+                        "start_idx": 841,
+                        "end_idx": 845
+                    },
+                    {
+                        "start_idx": 1072,
+                        "end_idx": 1076
+                    },
+                    {
+                        "start_idx": 1195,
+                        "end_idx": 1199
+                    }
+                ]
+            },
+            {
+                "word": "video",
+                "occurrences": [
+                    {
+                        "start_idx": 379,
+                        "end_idx": 384
+                    },
+                    {
+                        "start_idx": 534,
+                        "end_idx": 539
+                    },
+                    {
+                        "start_idx": 853,
+                        "end_idx": 858
+                    },
+                    {
+                        "start_idx": 913,
+                        "end_idx": 918
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-04T09:02:56.000Z"
+}

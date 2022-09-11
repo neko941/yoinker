@@ -1,0 +1,152 @@
+{
+    "url": "https://writing9.com/text/5ca0de96f1831dc7dc140f50",
+    "file": "data\\6\\5ca0de96f1831dc7dc140f50.json",
+    "topics": [
+        "student",
+        "parents",
+        "university"
+    ],
+    "question": "The student should live with parents or live away when studying at university. Agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some students prefer to live with their family when pursuing tertiary education, others; however, believe that it is better to accommodate independently than relying on their parents. As from my perspective, living in the same house with our parents is a better option for the students when studying at the university; nevertheless, the other option is also an appropriate choice for those scholars.",
+        "One the one hand, living together with their families conduces enormous advantages to the students. Firstly, because they live with their parents so there will be no additional accommodation fee. It is more economical compared to those who study in a different place with their family. Furthermore, the parents can take care of their children in their daily life so the students will less likely confront the dangerous or unfavourable situations. For example, if a student gets an illness and sick, her or his parents can take them to the hospital right away. Additionally, the parents can control their children behaviour or routine either prevent them from harmful activities and negative influence.",
+        "On the other hand, studying and living apart from the family also showed some significant benefits to the student. Learners who experience collegiate life far away from their parents tend to be more independent, mature and responsible than the others; and, these traits are extremely necessary for prospective career opportunities. Additionally, those who can live well independently also possess the management ability which showed by how they managed their budget, time and friends without the help of their parents. Another benefit is that these students are more open to forming new friendships and, interestingly, the students and his or her friends can exchange each other's knowledge, collaborate together and help each other research at the class. In the end, these cooperations help the students to earn better marks in class and give them essential traits for a future career.",
+        "In conclusion, I believe each option bring different effects to the student and, the result depends chiefly on the student."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "also possess",
+                "start_idx": 1487,
+                "end_idx": 1499,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "also possessing"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 1845,
+                "end_idx": 1847,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "bring",
+                "start_idx": 2028,
+                "end_idx": 2033,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "brings",
+                    "has brought",
+                    "is bringing"
+                ]
+            }
+        ]
+    },
+    "submitter": "toem033",
+    "num_words": 334,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "on the other hand",
+            "nevertheless",
+            "furthermore",
+            "for example",
+            "however",
+            "additionally",
+            "also",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "student",
+                "occurrences": [
+                    {
+                        "start_idx": 5,
+                        "end_idx": 12
+                    },
+                    {
+                        "start_idx": 277,
+                        "end_idx": 284
+                    },
+                    {
+                        "start_idx": 490,
+                        "end_idx": 497
+                    },
+                    {
+                        "start_idx": 770,
+                        "end_idx": 777
+                    },
+                    {
+                        "start_idx": 865,
+                        "end_idx": 872
+                    },
+                    {
+                        "start_idx": 1208,
+                        "end_idx": 1215
+                    },
+                    {
+                        "start_idx": 1651,
+                        "end_idx": 1658
+                    },
+                    {
+                        "start_idx": 1725,
+                        "end_idx": 1732
+                    },
+                    {
+                        "start_idx": 1898,
+                        "end_idx": 1905
+                    },
+                    {
+                        "start_idx": 2057,
+                        "end_idx": 2064
+                    },
+                    {
+                        "start_idx": 2104,
+                        "end_idx": 2111
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-31T15:36:54.000Z"
+}

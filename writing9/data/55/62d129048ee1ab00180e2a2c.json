@@ -1,0 +1,180 @@
+{
+    "url": "https://writing9.com/text/62d129048ee1ab00180e2a2c-you-have-seen-an-advertisement-in-an-australian-magazine-for",
+    "file": "data\\55\\62d129048ee1ab00180e2a2c.json",
+    "topics": [
+        "advertisement",
+        "australian",
+        "magazine",
+        "someone",
+        "six",
+        "months",
+        "child",
+        "parents",
+        "job",
+        "person",
+        "time",
+        "australia"
+    ],
+    "question": "You have seen an advertisement in an Australian magazine for someone to live with a family for six months and look after their six-year-old child.\n\nWrite a letter to the parents. In your letter\n\n\n- explain why you would like the job\n- give details of why you would be a suitable person to employ\n- say how you would spend your free time while you are in Australia",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/ Madam,",
+        "I am writing this letter referring to the advertisement I saw in a weekend magazine which was regarding a child caretaker.",
+        "This opportunity will be ideal for me due to various reasons. The first reason is that I love to spend my time with kids since it provides me pleasure. In addition to that, currently I am studying in my final semester of the degree and I wanted to do a job which does not affect for my studies as well as to have a considerable financial benefit.",
+        "I  will be a good match to your requirement because I am following a child care degree program which provided me practical exposure in handling a three year old child 6 months ago. Moreover, I will be able to help your kid with school work since I am also learning these days.",
+        "I prefer to spend my free time by exploring the city. However, in coming six months, most probably I will stay at home because I have my final semester exams.",
+        "I am expecting for a favourable reply from you.",
+        "Yours Faithfully,",
+        "Thuya Perera"
+    ],
+    "errors": {
+        "num_error": "10",
+        "error_list": [
+            {
+                "word": "currently",
+                "start_idx": 314,
+                "end_idx": 323,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase currently. Consider adding a comma.",
+                "suggetions": [
+                    ",currently"
+                ]
+            },
+            {
+                "word": "my",
+                "start_idx": 341,
+                "end_idx": 343,
+                "error": "Change the word",
+                "error_des": "The word my may be incorrect in this context. Consider changing it.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 362,
+                "end_idx": 365,
+                "error": "Change the word",
+                "error_des": "The word the may be incorrect in this context. Consider changing it.",
+                "suggetions": [
+                    "my"
+                ]
+            },
+            {
+                "word": "for ",
+                "start_idx": 420,
+                "end_idx": 424,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 512,
+                "end_idx": 514,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 620,
+                "end_idx": 622,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "three year old",
+                "start_idx": 634,
+                "end_idx": 648,
+                "error": "Add a hyphen",
+                "error_des": "It appears that three year old is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "three-year-old"
+                ]
+            },
+            {
+                "word": "by ",
+                "start_idx": 796,
+                "end_idx": 799,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "coming",
+                "start_idx": 831,
+                "end_idx": 837,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the coming"
+                ]
+            },
+            {
+                "word": "for ",
+                "start_idx": 939,
+                "end_idx": 943,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "TSP",
+    "num_words": 186,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "moreover",
+            "however",
+            "in addition",
+            "this",
+            "also",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-07-15T08:44:54.458Z"
+}

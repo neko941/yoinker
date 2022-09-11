@@ -1,0 +1,283 @@
+{
+    "url": "https://writing9.com/text/5da4b43d4c685a0018ac9f12",
+    "file": "data\\6\\5da4b43d4c685a0018ac9f12.json",
+    "topics": [
+        "traffic",
+        "transportation",
+        "people",
+        "cities",
+        "suburbs",
+        "countryside",
+        "diagree",
+        "option"
+    ],
+    "question": "The best way to deal with the rising traffic and transportation is to encourage people to live in cities rather than in suburbs or in the countryside. To what extent do you agree or diagree with this option?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "When discussing the issue of increased traffic and transportation problems one should bear in mind the complexity of the issue. Some believe that encouraging people to move to bigger cities will not change traffic, becuase by increasing the popluation we increase the amount of cars used. Others, Including my self, agree with the above statement and think that people should move to major cities in order to avoid access use of cars. In this essay, I will provide examples and reasons to support my opinion.",
+        "One argument in favour of my opinion is that people who live in big cities can use public transportation that is not accessible in rural areas. This has been shown in a poll performed among the inhabitants of New York state. In the poll more than 50% of the people living in New York city reported using public transportation instead of cars for work, in comparison to people living in small cities, which reported only  20% use of public transportation. This shows that people who live in major cities can use the local infrastructure instead of cars, which directly decrease traffic.",
+        "Another point to support my opinion is that when living in big cities, all the local needs are near by and therefore people do not use their cars. For example, families living in the Negev, the southern most part of Israel, need to drive 15 miles in order to arrive to the nearest hospital. As a result there are daily traffic jams surrounding the hospital. This is contrast to Tell Aviv, where the hospital is located in the city center and people can walk, instead of driving.",
+        "In conclusion I agree with the above statement, and think that encouraging people to live in big cities is a good way to address the rising traffic. If we all live close, we can use other means of transportation, which will help us to decrease traffic and save our environment."
+    ],
+    "errors": {
+        "num_error": "12",
+        "error_list": [
+            {
+                "word": "becuase",
+                "start_idx": 215,
+                "end_idx": 222,
+                "error": "for the reason that; on account of",
+                "error_des": "",
+                "suggetions": [
+                    "because"
+                ]
+            },
+            {
+                "word": "popluation",
+                "start_idx": 241,
+                "end_idx": 251,
+                "error": "the people who inhabit a territory or state",
+                "error_des": "",
+                "suggetions": [
+                    "population",
+                    "populations",
+                    "pollution"
+                ]
+            },
+            {
+                "word": "my self",
+                "start_idx": 307,
+                "end_idx": 314,
+                "error": "reflexive form of \"me\"",
+                "error_des": "",
+                "suggetions": [
+                    "myself"
+                ]
+            },
+            {
+                "word": "access",
+                "start_idx": 415,
+                "end_idx": 421,
+                "error": "a quantity much larger than is needed",
+                "error_des": "",
+                "suggetions": [
+                    "excess"
+                ]
+            },
+            {
+                "word": "poll more",
+                "start_idx": 742,
+                "end_idx": 751,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "poll, more"
+                ]
+            },
+            {
+                "word": "city",
+                "start_idx": 794,
+                "end_idx": 798,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "City"
+                ]
+            },
+            {
+                "word": "use the",
+                "start_idx": 1017,
+                "end_idx": 1024,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "use, the"
+                ]
+            },
+            {
+                "word": "near by",
+                "start_idx": 1193,
+                "end_idx": 1200,
+                "error": "close at hand",
+                "error_des": "",
+                "suggetions": [
+                    "nearby"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1364,
+                "end_idx": 1366,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "result there",
+                "start_idx": 1394,
+                "end_idx": 1406,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "result, there"
+                ]
+            },
+            {
+                "word": "center",
+                "start_idx": 1529,
+                "end_idx": 1535,
+                "error": "an area that is approximately central within some larger region",
+                "error_des": "",
+                "suggetions": [
+                    "centre"
+                ]
+            },
+            {
+                "word": "conclusion I",
+                "start_idx": 1581,
+                "end_idx": 1593,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "conclusion, I"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 323,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "that is",
+            "for example",
+            "instead",
+            "as a ",
+            "therefore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "transportation",
+                "occurrences": [
+                    {
+                        "start_idx": 51,
+                        "end_idx": 65
+                    },
+                    {
+                        "start_idx": 599,
+                        "end_idx": 613
+                    },
+                    {
+                        "start_idx": 820,
+                        "end_idx": 834
+                    },
+                    {
+                        "start_idx": 948,
+                        "end_idx": 962
+                    },
+                    {
+                        "start_idx": 1771,
+                        "end_idx": 1785
+                    }
+                ]
+            },
+            {
+                "word": "use",
+                "occurrences": [
+                    {
+                        "start_idx": 283,
+                        "end_idx": 286
+                    },
+                    {
+                        "start_idx": 422,
+                        "end_idx": 425
+                    },
+                    {
+                        "start_idx": 588,
+                        "end_idx": 591
+                    },
+                    {
+                        "start_idx": 934,
+                        "end_idx": 937
+                    },
+                    {
+                        "start_idx": 1016,
+                        "end_idx": 1019
+                    },
+                    {
+                        "start_idx": 1226,
+                        "end_idx": 1229
+                    },
+                    {
+                        "start_idx": 1752,
+                        "end_idx": 1755
+                    }
+                ]
+            },
+            {
+                "word": "traffic",
+                "occurrences": [
+                    {
+                        "start_idx": 39,
+                        "end_idx": 46
+                    },
+                    {
+                        "start_idx": 206,
+                        "end_idx": 213
+                    },
+                    {
+                        "start_idx": 1086,
+                        "end_idx": 1093
+                    },
+                    {
+                        "start_idx": 1414,
+                        "end_idx": 1421
+                    },
+                    {
+                        "start_idx": 1714,
+                        "end_idx": 1721
+                    },
+                    {
+                        "start_idx": 1818,
+                        "end_idx": 1825
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-14T17:45:33.142Z"
+}

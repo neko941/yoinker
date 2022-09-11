@@ -1,0 +1,152 @@
+{
+    "url": "https://writing9.com/text/60901a9edb248400181b7350-some-people-think-that-the-government-is-wasting-money-on",
+    "file": "data\\65\\60901a9edb248400181b7350.json",
+    "topics": [
+        "people",
+        "government",
+        "money",
+        "arts"
+    ],
+    "question": "Some people think that the government is wasting money on the arts and that this money could be spent elsewhere. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Arts can be considered as one of the economic and social tools for governments. It is accepted by some people that states spend much money on art, but I disagree with this opinion for several reasons.",
+        "Governments make the cities of the country be more gorgeous with the help of art. These cities will be able to attract tourists. For instance, in the Vatican, there are a lot of beautiful examples of paintings drawn by famous Renaissance time\u2019s artists such as Michelangelo who decorates the ceilings of chapels. Also, there are many architectural arts such as Piazza San Pietro that are built in Barocco style and monuments such as David sculpture. The appearance of the city causes the interest of many foreigners. This is obvious that tourism is one of the sources of revenue for the governmental budget. It is an ideal way to form the budgets of small city-states like the Vatican.",
+        "On the other hand, art has cultural and educational impacts on society. It contributes to all-round education and nurtures the creativity of the population. For example, through national dances, performing vernacular works on stage, illustrating patterns on special things such as carpet or national clothes, people can demonstrate their culture and can keep them for passing to future generations. Besides, one who engages in creating art, commonly, he or she is more creative. It can be seen in street artists who paint walls of buildings or ways with magnificent illustrations, or we can find the same creativity in the museum of Modern Arts.",
+        "In brief, art is a necessary way to flourish the economy of a country through tourism and to improve the worldview of people. We should not underestimate the role of art on the way to development."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "much",
+                "start_idx": 128,
+                "end_idx": 132,
+                "error": "Correct quantifier usage",
+                "error_des": "It seems that quantifier use may be incorrect here.",
+                "suggetions": [
+                    "a lot of"
+                ]
+            },
+            {
+                "word": "built in",
+                "start_idx": 589,
+                "end_idx": 597,
+                "error": "Add a hyphen",
+                "error_des": "It appears that built in is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "built-in"
+                ]
+            },
+            {
+                "word": "all-round",
+                "start_idx": 978,
+                "end_idx": 987,
+                "error": "Correct your spelling",
+                "error_des": "The word all-round doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "all-around"
+                ]
+            },
+            {
+                "word": "she ",
+                "start_idx": 1345,
+                "end_idx": 1349,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "banucicekqurbanova",
+    "num_words": 292,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the other hand",
+            "for instance",
+            "for example",
+            "besides",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "art",
+                "occurrences": [
+                    {
+                        "start_idx": 142,
+                        "end_idx": 145
+                    },
+                    {
+                        "start_idx": 278,
+                        "end_idx": 281
+                    },
+                    {
+                        "start_idx": 446,
+                        "end_idx": 449
+                    },
+                    {
+                        "start_idx": 549,
+                        "end_idx": 552
+                    },
+                    {
+                        "start_idx": 906,
+                        "end_idx": 909
+                    },
+                    {
+                        "start_idx": 1323,
+                        "end_idx": 1326
+                    },
+                    {
+                        "start_idx": 1391,
+                        "end_idx": 1394
+                    },
+                    {
+                        "start_idx": 1543,
+                        "end_idx": 1546
+                    },
+                    {
+                        "start_idx": 1699,
+                        "end_idx": 1702
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-05-03T15:45:36.392Z"
+}

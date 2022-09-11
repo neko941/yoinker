@@ -1,0 +1,137 @@
+{
+    "url": "https://writing9.com/text/5db6b7ba16286e0018e4db7f",
+    "file": "data\\65\\5db6b7ba16286e0018e4db7f.json",
+    "topics": [
+        "people",
+        "job",
+        "work"
+    ],
+    "question": "Some people are of the opinion that being highly qualified is the only way to ensure a well-paying job. While others believe that having work experience is the best way to get a well-paying job.\nDiscuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Generally, there is a difference of view among people, regarding the good salary job. Some think that highly educated people are qualified for high paying jobs while others have a perception that work experience is necessary for lucrative positions. This essay discusses both the viewpoints.",
+        "The more a person gets educated the better they can earn, which is the notion of many people nowadays. Hence, there is a heavy competition to obtain a seat in the top colleges and the universities. For instance, a student from IIT will acquire a high remuneration employment because the top companies will have a notion that students from such reputed colleges will improve their business with their skills and knowledge.",
+        "Whereas, another viewpoint is that people with work experience can receive high income. This is also true, because with work experience they will gain exposure to different technologies, then the demand for such people is automatically more. Indeed, this is not just about earnings, but an added advantage for their career development, recognition, promotion and hikes for a particular employee.",
+        "In my opinion education is required for securing high wages posts, but I agree with the viewpoint that skills decide the fate of a human working in any place. However, lack of proper skills cannot help a people to establish their careers. Though Mark Zuckerberg, Steve Jobs have dropped out of college, but still successful in building their careers.",
+        "In conclusion, education is just an entry pass to join an organization, but the excellent work experience and skills help an individual to achieve their goals."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "for",
+                "start_idx": 1021,
+                "end_idx": 1024,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "people",
+                "start_idx": 1315,
+                "end_idx": 1321,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "person"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 261,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for instance",
+            "then",
+            "hence",
+            "however",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "experience",
+                "occurrences": [
+                    {
+                        "start_idx": 201,
+                        "end_idx": 211
+                    },
+                    {
+                        "start_idx": 766,
+                        "end_idx": 776
+                    },
+                    {
+                        "start_idx": 839,
+                        "end_idx": 849
+                    },
+                    {
+                        "start_idx": 1556,
+                        "end_idx": 1566
+                    }
+                ]
+            },
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 196,
+                        "end_idx": 200
+                    },
+                    {
+                        "start_idx": 761,
+                        "end_idx": 765
+                    },
+                    {
+                        "start_idx": 834,
+                        "end_idx": 838
+                    },
+                    {
+                        "start_idx": 1247,
+                        "end_idx": 1251
+                    },
+                    {
+                        "start_idx": 1551,
+                        "end_idx": 1555
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-28T09:41:14.614Z"
+}

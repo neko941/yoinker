@@ -1,0 +1,102 @@
+{
+    "url": "https://writing9.com/text/607d6fbe8813960018fe541d-you-work-for-a-company-you-have-seen-some-information",
+    "file": "data\\7\\607d6fbe8813960018fe541d.json",
+    "topics": [
+        "work",
+        "company",
+        "information",
+        "course",
+        "manager"
+    ],
+    "question": "You work for a company. You have seen some information online about a training course that would be useful for your work.Write a letter to your manager. In your letter\u2022\tgive details of the course\u2022\tsay how the course would be useful\u2022\texplain how the company could help you do this course.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 4.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Martin",
+        "I have recently become aware of a course called Social Media Marketing Essentials and I am writing to ask for your support in taking this course. It is a five-day intensive program being offered by the Business Leadership Association and it starts on Monday 15 February. I believe the course would be of great benefit to our company as we have been recently considering how to build up our social media presence and attract more customers online. After reading reviews by former participants, I think this Social Media course will help me professionally in my capacity as Communications Manager and make a real difference to our company.",
+        "For these reasons, I am requesting paid leave from 15-20 February to attend the course. It would be helpful if other team members did not take leave at this time; so far nobody else has applied. I believe this will not be a particularly busy time at work, but I am prepared to spend some time working on those evenings if needed.",
+        "I look forward to hearing from you soon.",
+        "Best wishes",
+        "Neil MacFarlane"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "Communications",
+                "start_idx": 584,
+                "end_idx": 598,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a Communications"
+                ]
+            }
+        ]
+    },
+    "submitter": "echaaya1",
+    "num_words": 183,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "1",
+        "list_linking_words": [
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "course",
+                "occurrences": [
+                    {
+                        "start_idx": 46,
+                        "end_idx": 52
+                    },
+                    {
+                        "start_idx": 150,
+                        "end_idx": 156
+                    },
+                    {
+                        "start_idx": 297,
+                        "end_idx": 303
+                    },
+                    {
+                        "start_idx": 531,
+                        "end_idx": 537
+                    },
+                    {
+                        "start_idx": 730,
+                        "end_idx": 736
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-11T17:38:20.726Z"
+}

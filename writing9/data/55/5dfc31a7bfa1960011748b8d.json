@@ -1,0 +1,250 @@
+{
+    "url": "https://writing9.com/text/5dfc31a7bfa1960011748b8d-writing-task-1-your-neighbours-have-recently-written-to-you-to",
+    "file": "data\\55\\5dfc31a7bfa1960011748b8d.json",
+    "topics": [
+        "neighbours",
+        "noise",
+        "house",
+        "apologise",
+        "action"
+    ],
+    "question": "WRITING TASK 1\nYour neighbours have recently written to you to complain about the noise from your house/ flat.\n\nWrite a letter to your neighbours. In your letter\n\nexplain the reasons for the noise\napologise\ndescribe what action you will take",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mrs boss",
+        "I have received your letter regarding complaint about the disturbance from my house.Firstly i am really  apologies about disturbance created by my family. Actully my sister's family recently moved to my house from Canada for a month one of her son is sick due to fever .he is keep on screeming and crying even we take him to the hospital but infortunatly no progress.",
+        "I am really feeling sad when i received your letter also i am feeling shame about it .As  living in your neighbour we never received any complaint regarding my family but due to the illness of my nephew this things happen.",
+        "i am feeling glad to say that now his health is better then before after taking medication.He is feeling better now.",
+        "i will take care of this kinds of disturbance will not happen in future",
+        "thanks",
+        "your faithfully",
+        "amrit"
+    ],
+    "errors": {
+        "num_error": "18",
+        "error_list": [
+            {
+                "word": "complaint",
+                "start_idx": 52,
+                "end_idx": 61,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the complaint"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 106,
+                "end_idx": 107,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "about",
+                "start_idx": 129,
+                "end_idx": 134,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "disturbance",
+                "start_idx": 135,
+                "end_idx": 146,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the disturbance"
+                ]
+            },
+            {
+                "word": "Actully",
+                "start_idx": 169,
+                "end_idx": 176,
+                "error": "Correct your spelling",
+                "error_des": "The word Actully is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "Actually"
+                ]
+            },
+            {
+                "word": "son",
+                "start_idx": 258,
+                "end_idx": 261,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun son follows the quantifier one of, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "sons"
+                ]
+            },
+            {
+                "word": "screeming",
+                "start_idx": 298,
+                "end_idx": 307,
+                "error": "Correct your spelling",
+                "error_des": "The word screeming is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "screaming"
+                ]
+            },
+            {
+                "word": "infortunatly",
+                "start_idx": 356,
+                "end_idx": 368,
+                "error": "Correct your spelling",
+                "error_des": "The word infortunatly is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "unfortunately"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 411,
+                "end_idx": 412,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 439,
+                "end_idx": 440,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "nephew",
+                "start_idx": 578,
+                "end_idx": 584,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase due to the illness of my nephew. Consider adding a comma.",
+                "suggetions": [
+                    ",nephew"
+                ]
+            },
+            {
+                "word": "this",
+                "start_idx": 585,
+                "end_idx": 589,
+                "error": "Change the determiner",
+                "error_des": "It appears that the singular demonstrative this is modifying the plural noun things. Consider using a plural demonstrative or a singular noun instead.",
+                "suggetions": [
+                    "these"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 605,
+                "end_idx": 606,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "then",
+                "start_idx": 660,
+                "end_idx": 664,
+                "error": "Replace the word",
+                "error_des": "The word then may be used incorrectly. Review the following notes to determine the appropriate usage for your context.",
+                "suggetions": [
+                    "than"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 722,
+                "end_idx": 723,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "this kinds",
+                "start_idx": 742,
+                "end_idx": 752,
+                "error": "Change the determiner",
+                "error_des": "It appears that the singular demonstrative this is modifying the plural noun kinds. Consider using a plural demonstrative or a singular noun instead.",
+                "suggetions": [
+                    "this kind",
+                    "these kinds"
+                ]
+            },
+            {
+                "word": "thanks",
+                "start_idx": 795,
+                "end_idx": 801,
+                "error": "Add the preposition",
+                "error_des": "It appears that there is a missing preposition after the word thanks. Consider adding a preposition.",
+                "suggetions": [
+                    "tothanks"
+                ]
+            },
+            {
+                "word": "amrit",
+                "start_idx": 820,
+                "end_idx": 825,
+                "error": "Change the capitalization",
+                "error_des": "It appears that the word amrit may be a proper noun in this context. Consider capitalizing the word.",
+                "suggetions": [
+                    "Amrit"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 147,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "also",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T18:07:54.488Z"
+}

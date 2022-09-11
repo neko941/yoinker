@@ -1,0 +1,145 @@
+{
+    "url": "https://writing9.com/text/62e7a9640562ec00182a041e-completing-a-university-education-is-thought-by-some-to-be",
+    "file": "data\\55\\62e7a9640562ec00182a041e.json",
+    "topics": [
+        "university",
+        "education",
+        "job",
+        "hand",
+        "people",
+        "skills"
+    ],
+    "question": "Completing a university education is thought by some to be the best way to get a good job, on the other hand, other people think that getting experience and developing soft skills is more important.\nDiscuss both sides and give your opinion.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, professionals could be identified by not only their remarkable experience but also by their highest qualifications. A section of society opines that it is significant to have experience and developed soft skills to earn a good job rather than any University graduation. I strongly agree that your education shows your capability to do work.",
+        "Firstly and foremost, education is one of the most essential needs in the life of human beings. A recent survey shows that the most reputed companies hire their employers based on their education than experience. For instance, Deloitte is an international professional service network which recruits only competent people with minimum degrees. Likewise, top management believes that persons with only experience and soft skills would lack basic education to elevate business ideas.",
+        "Formal education provides students with the right knowledge and skillset they need in a particular field and build a successful career in future. Generally, everyone understands that each child needs primary education including graduation combat the challenges faced in life as well as to get a great opportunities. To cite that, most the organisation give a hand to help their staff to complete a professional course along with the daily tasks. Therefore, they will be well qualified for promotion and better jobs. Today, major famous universities require a bottom-level university learning to master and equivalents. To recapitulate, there are numerous jobs which stimulate well-educated personalities over experienced ones. One of the most conspicuous trends of the new generation is taking a part-time course while doing full-time employment. So I concede with the settlement that all candidates should have University graduation to obtain a successful career in future."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "a great opportunities",
+                "start_idx": 1128,
+                "end_idx": 1149,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun opportunities in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "a great opportunity",
+                    "great opportunities"
+                ]
+            },
+            {
+                "word": "promotion",
+                "start_idx": 1324,
+                "end_idx": 1333,
+                "error": "Add an article",
+                "error_des": "The noun phrase promotion seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the promotion"
+                ]
+            }
+        ]
+    },
+    "submitter": "rinkujose780",
+    "num_words": 274,
+    "num_paragraphs": 3,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "likewise",
+            "therefore",
+            "for instance",
+            "also",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "experience",
+                "occurrences": [
+                    {
+                        "start_idx": 73,
+                        "end_idx": 83
+                    },
+                    {
+                        "start_idx": 185,
+                        "end_idx": 195
+                    },
+                    {
+                        "start_idx": 552,
+                        "end_idx": 562
+                    },
+                    {
+                        "start_idx": 752,
+                        "end_idx": 762
+                    },
+                    {
+                        "start_idx": 1542,
+                        "end_idx": 1552
+                    }
+                ]
+            },
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 307,
+                        "end_idx": 316
+                    },
+                    {
+                        "start_idx": 373,
+                        "end_idx": 382
+                    },
+                    {
+                        "start_idx": 537,
+                        "end_idx": 546
+                    },
+                    {
+                        "start_idx": 796,
+                        "end_idx": 805
+                    },
+                    {
+                        "start_idx": 840,
+                        "end_idx": 849
+                    },
+                    {
+                        "start_idx": 1041,
+                        "end_idx": 1050
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-01T10:22:30.025Z"
+}

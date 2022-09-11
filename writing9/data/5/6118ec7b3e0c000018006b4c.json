@@ -1,0 +1,420 @@
+{
+    "url": "https://writing9.com/text/6118ec7b3e0c000018006b4c-some-parents-buy-their-children-a-large-number-of",
+    "file": "data\\5\\6118ec7b3e0c000018006b4c.json",
+    "topics": [
+        "parents",
+        "children",
+        "toys",
+        "child"
+    ],
+    "question": "Some parents buy their children a large number of toys to play with. What are the advantages and disadvantages for the child of having a large number of toys?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, most parents try their best to buy any kind of toys for their children in order to make them happy. Nevertheless, endless purchases of toys have not only positive effect to kids, but also some negative. This essay will show which advantages and disadvantages exist when kids have a large amount of toys.",
+        "To begin with, there is and incredible variety of goods for children in our modern world. Fortunately, a multiple choice of latest toys lets children learn and get a new knowledge while they play. For example, such toys as bicycle, roller skates or scooters help kids develop physically. Then puzzle, blocks or lego have a positive impact on a cognitive thinking of children. Additionally, there are lots of toys that make a process of learning letters, numbers and things like that easier and funnier. Moreover, children who have many toys are able to share with others and make friendship through roles and games. In another words, a large number of toys helps little ones use their fantasy and creativity, when they play with friends.",
+        "Although, a bid amount of toys has many advantages, there are some disadvantages that families should be aware about. Firstly, it is difficult to focus on one or two toys when there are so many of them in front of a child. Then, perhaps it will lead to problems with concentration and attention when children grow up. Secondly, kids who get used to playing with different toys every day can lose a special contact or friendship with their favorite toys and will not have a sentimental memory in adulthood.",
+        "In conclusion, in my opinion, parent are capable to make kids childhood more joyful and happier thanks to toys. However it is more important get enough love and attention from their parents at the same time."
+    ],
+    "errors": {
+        "num_error": "23",
+        "error_list": [
+            {
+                "word": "toys",
+                "start_idx": 57,
+                "end_idx": 61,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that toys may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "toy"
+                ]
+            },
+            {
+                "word": "effect",
+                "start_idx": 173,
+                "end_idx": 179,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that effect may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "effects"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 180,
+                "end_idx": 182,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 187,
+                "end_idx": 188,
+                "error": "Remove the comma",
+                "error_des": "The comma before the conjunction but also appears to be unnecessary. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "amount",
+                "start_idx": 298,
+                "end_idx": 304,
+                "error": "Change the quantifier",
+                "error_des": "It appears that the quantifier a large amount does not fit with the countable noun toys. Consider changing the quantifier or the noun.",
+                "suggetions": [
+                    "number"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 338,
+                "end_idx": 338,
+                "error": "Correct your spelling",
+                "error_des": "The word and doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "an"
+                ]
+            },
+            {
+                "word": "and",
+                "start_idx": 338,
+                "end_idx": 341,
+                "error": "Correct your spelling",
+                "error_des": "The word and doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "an"
+                ]
+            },
+            {
+                "word": "incredible",
+                "start_idx": 342,
+                "end_idx": 352,
+                "error": "Add an article",
+                "error_des": "The noun phrase incredible variety seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an incredible",
+                    "the incredible"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 478,
+                "end_idx": 480,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 537,
+                "end_idx": 537,
+                "error": "Add an article",
+                "error_des": "The noun phrase bicycle seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a bicycle",
+                    "the bicycle"
+                ]
+            },
+            {
+                "word": "bicycle",
+                "start_idx": 537,
+                "end_idx": 544,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that bicycle may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "bicycles"
+                ]
+            },
+            {
+                "word": "puzzle",
+                "start_idx": 607,
+                "end_idx": 613,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that puzzle may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "puzzles"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 656,
+                "end_idx": 657,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 737,
+                "end_idx": 738,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "friendship",
+                "start_idx": 894,
+                "end_idx": 904,
+                "error": "Replace the word",
+                "error_des": "The word friendship doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "friends"
+                ]
+            },
+            {
+                "word": "another words",
+                "start_idx": 933,
+                "end_idx": 946,
+                "error": "Replace the adjective",
+                "error_des": "The adjective another appears to be modifying the plural noun words. Consider replacing it with the adjective other.",
+                "suggetions": [
+                    "another word",
+                    "other words"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1021,
+                "end_idx": 1022,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker when. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1061,
+                "end_idx": 1062,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction Although. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "about",
+                "start_idx": 1164,
+                "end_idx": 1169,
+                "error": "Change the preposition",
+                "error_des": "The preposition about after the adjective aware may be incorrect. Consider changing it to another preposition.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "favorite",
+                "start_idx": 1492,
+                "end_idx": 1500,
+                "error": "Change the spelling",
+                "error_des": "The spelling of favorite is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "favourite"
+                ]
+            },
+            {
+                "word": "parent",
+                "start_idx": 1590,
+                "end_idx": 1596,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that parent may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "parents"
+                ]
+            },
+            {
+                "word": "However",
+                "start_idx": 1672,
+                "end_idx": 1679,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase However. Consider adding a comma.",
+                "suggetions": [
+                    ",However"
+                ]
+            },
+            {
+                "word": "get",
+                "start_idx": 1701,
+                "end_idx": 1704,
+                "error": "Fix the infinitive",
+                "error_des": "It seems that the use of particle to may be incorrect here.",
+                "suggetions": [
+                    "to get"
+                ]
+            }
+        ]
+    },
+    "submitter": "kurish.ernest",
+    "num_words": 303,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "13",
+        "list_linking_words": [
+            "then",
+            "additionally",
+            "nevertheless",
+            "for example",
+            "moreover",
+            "although",
+            "secondly",
+            "this",
+            "to begin",
+            "also",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "toys",
+                "occurrences": [
+                    {
+                        "start_idx": 57,
+                        "end_idx": 61
+                    },
+                    {
+                        "start_idx": 145,
+                        "end_idx": 149
+                    },
+                    {
+                        "start_idx": 308,
+                        "end_idx": 312
+                    },
+                    {
+                        "start_idx": 445,
+                        "end_idx": 449
+                    },
+                    {
+                        "start_idx": 529,
+                        "end_idx": 533
+                    },
+                    {
+                        "start_idx": 722,
+                        "end_idx": 726
+                    },
+                    {
+                        "start_idx": 850,
+                        "end_idx": 854
+                    },
+                    {
+                        "start_idx": 966,
+                        "end_idx": 970
+                    },
+                    {
+                        "start_idx": 1078,
+                        "end_idx": 1082
+                    },
+                    {
+                        "start_idx": 1218,
+                        "end_idx": 1222
+                    },
+                    {
+                        "start_idx": 1424,
+                        "end_idx": 1428
+                    },
+                    {
+                        "start_idx": 1500,
+                        "end_idx": 1504
+                    },
+                    {
+                        "start_idx": 1664,
+                        "end_idx": 1668
+                    }
+                ]
+            },
+            {
+                "word": "children",
+                "occurrences": [
+                    {
+                        "start_idx": 72,
+                        "end_idx": 80
+                    },
+                    {
+                        "start_idx": 374,
+                        "end_idx": 382
+                    },
+                    {
+                        "start_idx": 455,
+                        "end_idx": 463
+                    },
+                    {
+                        "start_idx": 680,
+                        "end_idx": 688
+                    },
+                    {
+                        "start_idx": 827,
+                        "end_idx": 835
+                    },
+                    {
+                        "start_idx": 1352,
+                        "end_idx": 1360
+                    }
+                ]
+            },
+            {
+                "word": "kids",
+                "occurrences": [
+                    {
+                        "start_idx": 183,
+                        "end_idx": 187
+                    },
+                    {
+                        "start_idx": 280,
+                        "end_idx": 284
+                    },
+                    {
+                        "start_idx": 577,
+                        "end_idx": 581
+                    },
+                    {
+                        "start_idx": 1380,
+                        "end_idx": 1384
+                    },
+                    {
+                        "start_idx": 1615,
+                        "end_idx": 1619
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-08-15T10:29:17.441Z"
+}

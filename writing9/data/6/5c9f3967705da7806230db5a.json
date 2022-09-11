@@ -1,0 +1,132 @@
+{
+    "url": "https://writing9.com/text/5c9f3967705da7806230db5a",
+    "file": "data\\6\\5c9f3967705da7806230db5a.json",
+    "topics": [
+        "universities",
+        "offer",
+        "courses",
+        "internet",
+        "people",
+        "study",
+        "development"
+    ],
+    "question": "Some universities now offer their courses on the Internet so that people can study online.\n\nIs this a positive or negative development?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is incontestable the the Internet has infiltrated into virtually every aspect of our lives, including education. In fact, university students nowadays have been granted online courses, which has aroused considerable concern about its upside and downside. From my perspective, I firmly believe that homeschooling through the Internet does more good than harm to self-education.",
+        "First and foremost, offering courses online facilitates studying by allowing students to work at their own pace in a satisfactory space. Each and every individual, indeed, may foster in different environments. For instance, some prefer to study at night while others work more efficiently in the morning. Therefore, aware of their own biological clocks, students can follow an exclusive and flexible timetable to boost their effectiveness. Additionally, the settings of the studying space does have an impact on postgraduates' productivity. Thus a person taking courses from home is able to choose, if not design, a suitable place for themselves, such as a library, a coffee shop or even their bedroom.",
+        "Secondly, online education can act as an equalizer. To put it more precisely, homeschooling creates a golden opportunity for disadvantaged students, be it those unable to afford a living if apply for a university in a distant area. As a matter of fact, there have been those who are discouraged from further education, disheartened by the expenditures associated with living in a new place. Hence, having an access to the courses online, undergraduates can determine on their favourite universities without fear of subsisting on a tight budget due to the exorbitant cost of living. In this regard, online education can level the playing field for everyone.",
+        "By way of conclusion, homeschooling through the Internet is serving multiple opportunities that the conventional model lacks, involving an ideal study space and chances for those coming from far afield. Offering courses online is, to all intents and purposes, beneficial to one's cultivation of knowledge."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "the the",
+                "start_idx": 20,
+                "end_idx": 27,
+                "error": "definite article",
+                "error_des": "",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "does have",
+                "start_idx": 869,
+                "end_idx": 878,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "do have"
+                ]
+            },
+            {
+                "word": "apply",
+                "start_idx": 1274,
+                "end_idx": 1279,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "applied"
+                ]
+            }
+        ]
+    },
+    "submitter": "thissnotanemail",
+    "num_words": 316,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "thus",
+            "this",
+            "hence",
+            "further",
+            "secondly",
+            "therefore",
+            "for instance",
+            "additionally",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 105,
+                        "end_idx": 114
+                    },
+                    {
+                        "start_idx": 369,
+                        "end_idx": 378
+                    },
+                    {
+                        "start_idx": 1100,
+                        "end_idx": 1109
+                    },
+                    {
+                        "start_idx": 1391,
+                        "end_idx": 1400
+                    },
+                    {
+                        "start_idx": 1688,
+                        "end_idx": 1697
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-30T09:39:51.000Z"
+}

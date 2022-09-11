@@ -1,0 +1,206 @@
+{
+    "url": "https://writing9.com/text/6124a08bfa83ba0018b44663-some-people-think-that-sports-involving-violence-such-as-boxing",
+    "file": "data\\6\\6124a08bfa83ba0018b44663.json",
+    "topics": [
+        "people",
+        "sports",
+        "violence",
+        "arts",
+        "tv",
+        "competition"
+    ],
+    "question": "Some people think that sports involving violence such as boxing and martial arts should be banned from TV as well as from international sports competition. what is your opinion?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There is an ongoing debate whether violent sports should be banned from the mass media as well as from the international sports competition such as Olympics. I think there would be some advantages by banning violent sports, but the drawbacks of banning the sports eclipse the benefits.",
+        "On the one hand, banning violent sports like mixed martial arts affects people positively. To be specific, especially young people are easy to get influenced by mass media, so if mass media broadcasts violent sports it will give strong impressions and play a significant role in forming wrong behaviours and attitudes to the youth by watching it. Therefore, prohibiting these sports will have positive impacts on society to be maintained securely.",
+        "On the other hand, prohibiting watching violent sports is absurd. To begin with, there are a bunch of people who are really into these sports. These fans release their stresses and enjoy their private time by watching the games. As well as that, even though the public has had violent instinct from primitives, they used to satisfy their violence instinct by watching the games, not committing any violence. Take Rome empire as an example, gladiator played a vital role in satisfying crowds' needs by showing the performances. In this respect, banning violent sports disturbs people's freedom and preferences, so it would lead to some illegal actions if there is not an alternative.",
+        "In conclusion, although prohibiting broadcasting and holding violent sports matches can contribute to society positively, the demerits of banning violent sports seem to surpass the benefits."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "the ",
+                "start_idx": 103,
+                "end_idx": 107,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "by",
+                "start_idx": 197,
+                "end_idx": 199,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 253,
+                "end_idx": 257,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "instinct",
+                "start_idx": 1019,
+                "end_idx": 1027,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that instinct may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "instincts"
+                ]
+            },
+            {
+                "word": "violence",
+                "start_idx": 1072,
+                "end_idx": 1080,
+                "error": "Replace the word",
+                "error_des": "The word violence doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "violent"
+                ]
+            },
+            {
+                "word": "an ",
+                "start_idx": 1401,
+                "end_idx": 1404,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "playsocc1216",
+    "num_words": 256,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "on the other hand",
+            "although",
+            "therefore",
+            "this",
+            "to begin",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 358,
+                        "end_idx": 364
+                    },
+                    {
+                        "start_idx": 410,
+                        "end_idx": 416
+                    },
+                    {
+                        "start_idx": 836,
+                        "end_idx": 842
+                    },
+                    {
+                        "start_idx": 1310,
+                        "end_idx": 1316
+                    }
+                ]
+            },
+            {
+                "word": "sports",
+                "occurrences": [
+                    {
+                        "start_idx": 43,
+                        "end_idx": 49
+                    },
+                    {
+                        "start_idx": 121,
+                        "end_idx": 127
+                    },
+                    {
+                        "start_idx": 216,
+                        "end_idx": 222
+                    },
+                    {
+                        "start_idx": 257,
+                        "end_idx": 263
+                    },
+                    {
+                        "start_idx": 319,
+                        "end_idx": 325
+                    },
+                    {
+                        "start_idx": 495,
+                        "end_idx": 501
+                    },
+                    {
+                        "start_idx": 662,
+                        "end_idx": 668
+                    },
+                    {
+                        "start_idx": 782,
+                        "end_idx": 788
+                    },
+                    {
+                        "start_idx": 869,
+                        "end_idx": 875
+                    },
+                    {
+                        "start_idx": 1294,
+                        "end_idx": 1300
+                    },
+                    {
+                        "start_idx": 1486,
+                        "end_idx": 1492
+                    },
+                    {
+                        "start_idx": 1571,
+                        "end_idx": 1577
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-08-24T07:32:29.920Z"
+}

@@ -1,0 +1,174 @@
+{
+    "url": "https://writing9.com/text/5ca325f267044b6906bf2d1a",
+    "file": "data\\4\\5ca325f267044b6906bf2d1a.json",
+    "topics": [
+        "research",
+        "business",
+        "meetings",
+        "discussions"
+    ],
+    "question": "Research shows that business meetings, discussions and training are happening online nowadays. Do the advantages outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that business meetings and trainings via the Internet has gained enormous popularity in recent years. Although this has some drawbacks, I concur that the benefits should be paid more attention to.",
+        "On the one hand, there are some drawbacks when people have business meetings, discussions and studies through Internet. The most transparent problem is that people lack of personal contacts. While individuals cannot observe the body languages or facial expressions of their counterparts, they are easily able to misunderstand at some points in online meeting or training seasons. In addition, the signal of internet devices may be interrupted at any time which cause by unexpected reasons. As a result, it waste time and energy of people then become an ineffective meetings or trainings.",
+        "On the other hand, I am convinced that the advantages of virtual meetings are more significant. The first one is that online meetings and online classes help people save virtual time and money consuming, which are absolutely practical. If people want to hold face-to-face meetings, they not only have to spend time for a long trip but also struggle with expenditure for the venue and facilities. The second advantage is thanks to Internet, economic and education of each country can remarkably develop because individuals can contact with each others from everywhere in the world. Online meetings can help enterprises cooperate with foreign companies without any obstacles while online classes will be the best choice for people who want to experience oversea education but do not have eligible for studying abroad.",
+        "In conclusion, while meetings and studies via Internet have some certain disadvantages, I agree that people should conduct it for a lot of transparent perks."
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "Internet",
+                "start_idx": 318,
+                "end_idx": 326,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the Internet"
+                ]
+            },
+            {
+                "word": "people lack",
+                "start_idx": 365,
+                "end_idx": 376,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "people, lack"
+                ]
+            },
+            {
+                "word": "seasons",
+                "start_idx": 579,
+                "end_idx": 586,
+                "error": "a meeting for execution of a group's functions",
+                "error_des": "",
+                "suggetions": [
+                    "sessions"
+                ]
+            },
+            {
+                "word": "waste",
+                "start_idx": 714,
+                "end_idx": 719,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "wastes"
+                ]
+            },
+            {
+                "word": "trip but",
+                "start_idx": 1122,
+                "end_idx": 1130,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "trip, but"
+                ]
+            },
+            {
+                "word": "Internet",
+                "start_idx": 1226,
+                "end_idx": 1234,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the Internet"
+                ]
+            },
+            {
+                "word": "eligible",
+                "start_idx": 1582,
+                "end_idx": 1590,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "eligibility"
+                ]
+            },
+            {
+                "word": "Internet",
+                "start_idx": 1658,
+                "end_idx": 1666,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the Internet"
+                ]
+            }
+        ]
+    },
+    "submitter": "Thanh",
+    "num_words": 281,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "on the other hand",
+            "then",
+            "second",
+            "as a result",
+            "although",
+            "in addition",
+            "this",
+            "also",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 658,
+                        "end_idx": 662
+                    },
+                    {
+                        "start_idx": 720,
+                        "end_idx": 724
+                    },
+                    {
+                        "start_idx": 974,
+                        "end_idx": 978
+                    },
+                    {
+                        "start_idx": 1106,
+                        "end_idx": 1110
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-02T09:05:54.000Z"
+}

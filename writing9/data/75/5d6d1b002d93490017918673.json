@@ -1,0 +1,209 @@
+{
+    "url": "https://writing9.com/text/5d6d1b002d93490017918673",
+    "file": "data\\75\\5d6d1b002d93490017918673.json",
+    "topics": [
+        "price",
+        "petrol",
+        "traffic",
+        "pollution",
+        "measures"
+    ],
+    "question": "Increasing the price of petrol is the best way to solve growing traffic and pollution problems.\nTo what extent do you agree or disagree?\nWhat other measures do you think might be effective?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In recent times, raising the price of fuel has sparked great debates about whether it is the most effective approach for dealing with traffic and environmental problems or not. I believe that it is definitely not the most proper way; however, providing a good public transportation can better solve these problems.",
+        "To begin with, I disagree with increasing the expense of using car. A compelling reason for this is that this method does not reduce traffic congestion as well as does not abate any pollution since only the impoverished do not afford private transportation. In contrast, middle-class people are still willing to pay for this, while prosperous citizens even use more petrol. For example, a news once said that when Chinese government had arisen the fuel price, Chinese citizen still lived in the same way. Accordingly, this method is not the best way to deal with these problems, and thus, we require another method.",
+        "On the other hand, I feel that a good and affordable public transportation is the most effective solution. This is because, people in every social class wants to use public transportation, which is quick and cheap to avoid traffic. For instance, a latest study found that, in Bangkok, public sky train is 50% faster than a car. In addition, almost every modern public transportation used electricity, so it does not create any pollution. Therefore, it is no doubt that public transportation is a better way to solve traffic and pollution problems.",
+        "In conclusion, I think that increasing the price of petrol does not help with decreasing traffic and abating pollution since doing this only inhibit the use of private car of a certain group of people. On the contrary, giving effective and reliable electric public transportation is better at solving the problems."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "car",
+                "start_idx": 379,
+                "end_idx": 382,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the car",
+                    "a car",
+                    "cars"
+                ]
+            },
+            {
+                "word": "wants",
+                "start_idx": 1086,
+                "end_idx": 1091,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "want"
+                ]
+            },
+            {
+                "word": "latest",
+                "start_idx": 1181,
+                "end_idx": 1187,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "later"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 296,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "for instance",
+            "on the contrary",
+            "accordingly",
+            "for example",
+            "in contrast",
+            "however",
+            "in addition",
+            "therefore",
+            "this",
+            "to begin"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "transportation",
+                "occurrences": [
+                    {
+                        "start_idx": 267,
+                        "end_idx": 281
+                    },
+                    {
+                        "start_idx": 557,
+                        "end_idx": 571
+                    },
+                    {
+                        "start_idx": 991,
+                        "end_idx": 1005
+                    },
+                    {
+                        "start_idx": 1104,
+                        "end_idx": 1118
+                    },
+                    {
+                        "start_idx": 1299,
+                        "end_idx": 1313
+                    },
+                    {
+                        "start_idx": 1407,
+                        "end_idx": 1421
+                    },
+                    {
+                        "start_idx": 1744,
+                        "end_idx": 1758
+                    }
+                ]
+            },
+            {
+                "word": "pollution",
+                "occurrences": [
+                    {
+                        "start_idx": 497,
+                        "end_idx": 506
+                    },
+                    {
+                        "start_idx": 1358,
+                        "end_idx": 1367
+                    },
+                    {
+                        "start_idx": 1459,
+                        "end_idx": 1468
+                    },
+                    {
+                        "start_idx": 1588,
+                        "end_idx": 1597
+                    }
+                ]
+            },
+            {
+                "word": "way",
+                "occurrences": [
+                    {
+                        "start_idx": 229,
+                        "end_idx": 232
+                    },
+                    {
+                        "start_idx": 815,
+                        "end_idx": 818
+                    },
+                    {
+                        "start_idx": 861,
+                        "end_idx": 864
+                    },
+                    {
+                        "start_idx": 1434,
+                        "end_idx": 1437
+                    }
+                ]
+            },
+            {
+                "word": "traffic",
+                "occurrences": [
+                    {
+                        "start_idx": 134,
+                        "end_idx": 141
+                    },
+                    {
+                        "start_idx": 448,
+                        "end_idx": 455
+                    },
+                    {
+                        "start_idx": 1154,
+                        "end_idx": 1161
+                    },
+                    {
+                        "start_idx": 1447,
+                        "end_idx": 1454
+                    },
+                    {
+                        "start_idx": 1568,
+                        "end_idx": 1575
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-02T13:37:04.192Z"
+}

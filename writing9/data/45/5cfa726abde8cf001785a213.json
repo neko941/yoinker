@@ -1,0 +1,354 @@
+{
+    "url": "https://writing9.com/text/5cfa726abde8cf001785a213",
+    "file": "data\\45\\5cfa726abde8cf001785a213.json",
+    "topics": [
+        "countries",
+        "money",
+        "bicycle",
+        "usage",
+        "traffic",
+        "congestion"
+    ],
+    "question": "Some countries spend a lot of money to make bicycle usage easier. Why is this ? Is this the best solution to traffic congestion?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A huge sum of money is spent by some countries for making bicycle easy to use. In my opinion, using bicycle is not only environmental friendly but also helps to control traffic on roads. Although it does not solve the congestion problem completely but would reduce it to some extent.",
+        "Firstly, bicycles are the cheapest and most effective way to reduce environmental pollution which in turn lowers the number of vehicles on the roads. As they dont use fuels they dont emit harmful gases such as carbon mononxide into the atomosphere and also save earth's natural reservoirs of fuel. Thus, protecting the environmentand its resources. Another point to consider is that, when bicycles are made easily available more number of people will opt to use them instead of other vehicles because they will be cheap and convinent to use. This would be contributing factor for the traffic reduction less amount of roads will be occupied with heavy motor vehicles.",
+        "Although availing bicycles to the public is a good option to reduce traffic, I think few more steps should be taken in order to get the best solution to solve congestion problem. One of them could be to spread awareness among people about the benefits of using a cycle. For example, riding bicycle is prescribed as one of the best excersises to stay fit according to HyderabadTimes. Half an hour ride on daily basis improves body metabolism to a greater extent. Another point to consider is that improper roads are also one of the major causes for congestion. When the roads have potholes or is uneven riders find it difficult to balance themselves. This causes major accidents on roads and there will be a halt to the vehicles leading to congestion. Thus, alone bicycles cannot solve the problem of traffic several measures are to be taken to obtain desired results.",
+        "In Conclusion, I think that government should not only increase the use of bicycles for traffic reduction but also needs to implement few additional measures such as educating people, improving the quality of roads etc. to minimize congestion on roads."
+    ],
+    "errors": {
+        "num_error": "19",
+        "error_list": [
+            {
+                "word": "bicycle",
+                "start_idx": 100,
+                "end_idx": 107,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a bicycle"
+                ]
+            },
+            {
+                "word": "friendly but",
+                "start_idx": 134,
+                "end_idx": 146,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "friendly, but"
+                ]
+            },
+            {
+                "word": "completely but",
+                "start_idx": 237,
+                "end_idx": 251,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "completely, but"
+                ]
+            },
+            {
+                "word": "pollution which",
+                "start_idx": 367,
+                "end_idx": 382,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "pollution, which"
+                ]
+            },
+            {
+                "word": "dont",
+                "start_idx": 443,
+                "end_idx": 447,
+                "error": "do not",
+                "error_des": "",
+                "suggetions": [
+                    "don't"
+                ]
+            },
+            {
+                "word": "dont",
+                "start_idx": 463,
+                "end_idx": 467,
+                "error": "do not",
+                "error_des": "",
+                "suggetions": [
+                    "don't"
+                ]
+            },
+            {
+                "word": "mononxide",
+                "start_idx": 502,
+                "end_idx": 511,
+                "error": "an oxide containing just one atom of oxygen in the molecule",
+                "error_des": "",
+                "suggetions": [
+                    "monoxide"
+                ]
+            },
+            {
+                "word": "atomosphere",
+                "start_idx": 521,
+                "end_idx": 532,
+                "error": "a particular environment or surrounding influence",
+                "error_des": "",
+                "suggetions": [
+                    "atmosphere"
+                ]
+            },
+            {
+                "word": "environmentand",
+                "start_idx": 604,
+                "end_idx": 618,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "environment and"
+                ]
+            },
+            {
+                "word": "convinent",
+                "start_idx": 809,
+                "end_idx": 818,
+                "error": "suited to your comfort or purpose or needs",
+                "error_des": "",
+                "suggetions": [
+                    "convenient"
+                ]
+            },
+            {
+                "word": "factor",
+                "start_idx": 854,
+                "end_idx": 860,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "factors"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 861,
+                "end_idx": 864,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to",
+                    "in"
+                ]
+            },
+            {
+                "word": "congestion problem",
+                "start_idx": 1112,
+                "end_idx": 1130,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "congestion problems",
+                    "the congestion problem"
+                ]
+            },
+            {
+                "word": "excersises",
+                "start_idx": 1284,
+                "end_idx": 1294,
+                "error": "the activity of exerting your muscles in various ways to keep fit",
+                "error_des": "",
+                "suggetions": [
+                    "exercises",
+                    "exercise"
+                ]
+            },
+            {
+                "word": "HyderabadTimes",
+                "start_idx": 1320,
+                "end_idx": 1334,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Hyderabad Times"
+                ]
+            },
+            {
+                "word": "roads",
+                "start_idx": 1634,
+                "end_idx": 1639,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the roads"
+                ]
+            },
+            {
+                "word": "reduction but",
+                "start_idx": 1918,
+                "end_idx": 1931,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "reduction, but"
+                ]
+            },
+            {
+                "word": "to implement few",
+                "start_idx": 1943,
+                "end_idx": 1959,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to implement a few"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 2042,
+                "end_idx": 2044,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "To"
+                ]
+            }
+        ]
+    },
+    "submitter": "madhuri.shukla25",
+    "num_words": 349,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "for example",
+            "although",
+            "instead",
+            "this",
+            "also",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "traffic",
+                "occurrences": [
+                    {
+                        "start_idx": 169,
+                        "end_idx": 176
+                    },
+                    {
+                        "start_idx": 868,
+                        "end_idx": 875
+                    },
+                    {
+                        "start_idx": 1019,
+                        "end_idx": 1026
+                    },
+                    {
+                        "start_idx": 1751,
+                        "end_idx": 1758
+                    },
+                    {
+                        "start_idx": 1907,
+                        "end_idx": 1914
+                    }
+                ]
+            },
+            {
+                "word": "use",
+                "occurrences": [
+                    {
+                        "start_idx": 74,
+                        "end_idx": 77
+                    },
+                    {
+                        "start_idx": 447,
+                        "end_idx": 450
+                    },
+                    {
+                        "start_idx": 742,
+                        "end_idx": 745
+                    },
+                    {
+                        "start_idx": 781,
+                        "end_idx": 784
+                    },
+                    {
+                        "start_idx": 821,
+                        "end_idx": 824
+                    },
+                    {
+                        "start_idx": 1490,
+                        "end_idx": 1493
+                    },
+                    {
+                        "start_idx": 1608,
+                        "end_idx": 1611
+                    },
+                    {
+                        "start_idx": 1887,
+                        "end_idx": 1890
+                    }
+                ]
+            },
+            {
+                "word": "congestion",
+                "occurrences": [
+                    {
+                        "start_idx": 218,
+                        "end_idx": 228
+                    },
+                    {
+                        "start_idx": 1110,
+                        "end_idx": 1120
+                    },
+                    {
+                        "start_idx": 1499,
+                        "end_idx": 1509
+                    },
+                    {
+                        "start_idx": 1690,
+                        "end_idx": 1700
+                    },
+                    {
+                        "start_idx": 2051,
+                        "end_idx": 2061
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-07T14:19:22.000Z"
+}

@@ -1,0 +1,162 @@
+{
+    "url": "https://writing9.com/text/5df37af8bfa196001171839c",
+    "file": "data\\6\\5df37af8bfa196001171839c.json",
+    "topics": [
+        "people",
+        "jobs",
+        "robots"
+    ],
+    "question": "Some people believe that eventually all jobs will be done by artificially intelligent robots.\n\nWhat is your opinion?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In today\u2019s time, some people are of the opinion that almost all occupation will be replaced by artificial intelligent robots.  I am of the opinion that the profession which required no or less skills would be replaced by robots, but highly skilled jobs will still be done by humans.",
+        "The work which are less skilled work will certainly be carried out by the robots.  Hiring a person for a menial job like security guard, parking ticket checker etc requires a lot of money for an employer.  So, it is highly likely they will deploy robots instead of humans which are cheaper and need less maintenance, due to this, the company profit will go up.  For example, in a manufacturing factory, there used to be a lot of workers and now all the work has been replaced by machines that was only one time investment.  As a result, the employers are making huge amount of profits.",
+        "For this reason, unskilled jobs will be replaced by artificial intelligence.",
+        "On the other hand, jobs that require professional expertise and special skills can never be replaced by artificial intelligence. For example, psychologists, teachers and doctors are profession which require human interaction, and expertise  cannot be replaced.  Those profession have taken hundreds of years to develop, hence are highly unlikely be replaced by the machines. Moreover, robots can do a work which is of repetitive nature, a task which requires logical thinking and application of knowledge will not be affected by them.",
+        "In conclusion, in my opinion, the jobs which require special training cannot be replaced, on the other hand, laborious or low skilled work will eventually be done by the robots in the future."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "occupation",
+                "start_idx": 64,
+                "end_idx": 74,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "occupations"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 302,
+                "end_idx": 305,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "security guard",
+                "start_idx": 408,
+                "end_idx": 422,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a security guard",
+                    "security guards"
+                ]
+            },
+            {
+                "word": "checker etc",
+                "start_idx": 439,
+                "end_idx": 450,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "checker, etc.",
+                    "checker etc."
+                ]
+            },
+            {
+                "word": "require",
+                "start_idx": 1154,
+                "end_idx": 1161,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "requires"
+                ]
+            },
+            {
+                "word": "profession",
+                "start_idx": 1223,
+                "end_idx": 1233,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "professions"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 280,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the other hand",
+            "hence",
+            "as a result",
+            "for example",
+            "moreover",
+            "instead",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 287,
+                        "end_idx": 291
+                    },
+                    {
+                        "start_idx": 315,
+                        "end_idx": 319
+                    },
+                    {
+                        "start_idx": 712,
+                        "end_idx": 716
+                    },
+                    {
+                        "start_idx": 736,
+                        "end_idx": 740
+                    },
+                    {
+                        "start_idx": 1347,
+                        "end_idx": 1351
+                    },
+                    {
+                        "start_idx": 1615,
+                        "end_idx": 1619
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-12-13T11:50:16.902Z"
+}

@@ -1,0 +1,102 @@
+{
+    "url": "https://writing9.com/text/6277867e841b73001833102c-some-people-think-living-in-big-cities-is-bad-for",
+    "file": "data\\7\\6277867e841b73001833102c.json",
+    "topics": [
+        "people",
+        "cities",
+        "people\u2019s",
+        "health"
+    ],
+    "question": "Some people think living in big cities is bad for people\u2019s health.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "People fitness who live in big cities are unhealthier than people who live in the countryside. Undeniably, Living in a big metropolis is more convenient than cities which are in the middle of nowhere, but it might have some negative for those who prefer to live in big cities following.",
+        "Firstly, there are many cars on the road, compared to the countryside, which can make air pollution. We definitely inhale unhealthy air every day and it can affect  our fitness for a long time.",
+        "Another point is that, even though there is  better public transportation in a big city, which can make our life easier,  we are more at risk of contact with others and even viruses nowadays. As we have had a coronavirus, facing  the areas that are crowded may be more dangerous than places that are clearer. For example, when we get on a train in rush hours, especially in the morning, there are many people using the train and we never know how healthy  others are anymore.",
+        "Thirdly, folk who live in the capital may be more stressed than others who live in chilled places. Effects of stress can be affected  our health unnoticeably and it is not only affecting our mind, but also  affects  our physical or body, for instance, when we have a lot of stress such as jobs, payments, etc., we tend to eat more in order to release our stress and it is about a hormone called cortisol that makes us feel hungry all the time.",
+        "To sum up, I totally agree that living in big cities affects  our health but it can not be deniable about how easier  our life  is. In my opinion, living in a big city when we are young is suitable for studying and working but it can not be good for our health if we live for a long time."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 1152,
+                "end_idx": 1153,
+                "error": "Remove the comma",
+                "error_des": "The comma before the conjunction but also appears to be unnecessary. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "kitatit.g",
+    "num_words": 313,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "thirdly",
+            "for example",
+            "for instance",
+            "also",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "cities",
+                "occurrences": [
+                    {
+                        "start_idx": 31,
+                        "end_idx": 37
+                    },
+                    {
+                        "start_idx": 158,
+                        "end_idx": 164
+                    },
+                    {
+                        "start_idx": 269,
+                        "end_idx": 275
+                    },
+                    {
+                        "start_idx": 1447,
+                        "end_idx": 1453
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-05-08T09:06:54.975Z"
+}

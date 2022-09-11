@@ -1,0 +1,92 @@
+{
+    "url": "https://writing9.com/text/62e587d18ee1ab00180e4d9a-you-recently-bought-an-expensive-electronic-product-from-a-store",
+    "file": "data\\7\\62e587d18ee1ab00180e4d9a.json",
+    "topics": [
+        "product",
+        "store",
+        "work",
+        "manager",
+        "action",
+        "request",
+        "conformation"
+    ],
+    "question": "You recently bought an expensive electronic product from a store and found that the product does not work properly. Write a letter to store manager. In your letter,Complain about the problemPropose action for the store to takeRequest conformation that this is agreed",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 6.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "I am writing to inform you about my latest purchase of Television in your shop, but it did not work as expected after reaching home.",
+        "Yesterday, I and my wife visited your shop which is in Dubai Main Street and purchased a brand-new television for our home. The customer attendant clearly explained all the features of the television and we were really impressed with the sound quality as well as the visual clarity. We bought it without any bargain or discount from your shop.",
+        "We perfectly assembled it in our home next to our computer table. Surprisingly, there was an echo noise as well as a visual rendering defect after switching it on.",
+        "I immediately call your customer care to report  this issue, But I was not satisfied with their response provided to me.Even after all the details were provided, the person on the call requested me to speak with the company.",
+        "Due to this irresponsibility answer from your customer care, I am reporting it to you to find a early solution. I request you to replace the product immediately with a newer one. I have attached the invoice copy of my purchase with this letter.",
+        "I am looking forward to hearing from you soon.",
+        "Yours Faithfully,",
+        "Arunkumar."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 201,
+                "end_idx": 203,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 976,
+                "end_idx": 977,
+                "error": "Change the article",
+                "error_des": "The article a may be incorrect. Consider changing it to agree with the beginning sound of the following word early.",
+                "suggetions": [
+                    "an"
+                ]
+            }
+        ]
+    },
+    "submitter": "Arunsap05",
+    "num_words": 210,
+    "num_paragraphs": 9,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "this",
+            "next"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-07-30T19:40:15.306Z"
+}

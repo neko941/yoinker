@@ -1,0 +1,149 @@
+{
+    "url": "https://writing9.com/text/5d433364a93d1f0017e24dec",
+    "file": "data\\65\\5d433364a93d1f0017e24dec.json",
+    "topics": [
+        "missions",
+        "space",
+        "earth",
+        "demand",
+        "attention"
+    ],
+    "question": "Missions to explore space are hugely expensive, and there are problems on Earth which demand attention. The number of these missions needs to be reduced.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, Exploring universe is becoming popular because of growing machinery and greater enhancements in advanced tools. For many countries, especially developed and under developed nations are allocating more budget to study the solar system in depth. However, there are both pros and cons of spending money on this. I will completely agree that this mission should be continued further to improve technology to a greater extent or the next level.",
+        "Owing to the technology change, Demand for the source of many materials, increasing and to overcome this space exploration is must. Even though the huge amount spends on mission, the data collected and transmitted to earth has valuable insights. Many scientific theories produced are the result of a study space .Instance, Due to space exploration now scientist is able to study about black hole theory and prove Newton's work are not real. In their study, they are able to find faster materials than the speed of light. Also nowadays it has made possible to forecast weather reports in advance and provide greater internet connectivity. For Example, Now companies have started implementing 5G technology for smooth connection.",
+        "Instead to reduce missions the rockets, re-usability can be made possible. For example SpaceX founded by Elon Musk recently launched a Falcon heavy vehicle which carries satellites into space and performs safe landing of rockets which will make cheaper.",
+        "To conclude, Money spent on space has greater advantage since it helps to improve technology and develop more advanced theories and to forecast weather report."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": " .",
+                "start_idx": 762,
+                "end_idx": 764,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            }
+        ]
+    },
+    "submitter": "In many countries, a small number of people earn extremely high salaries. Some people believe that this is good for the country, but others think that governments should not allow salaries above a certain level.",
+    "num_words": 250,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for example",
+            "instead",
+            "however",
+            "further",
+            "next",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "technology",
+                "occurrences": [
+                    {
+                        "start_idx": 400,
+                        "end_idx": 410
+                    },
+                    {
+                        "start_idx": 463,
+                        "end_idx": 473
+                    },
+                    {
+                        "start_idx": 1144,
+                        "end_idx": 1154
+                    },
+                    {
+                        "start_idx": 1514,
+                        "end_idx": 1524
+                    }
+                ]
+            },
+            {
+                "word": "space",
+                "occurrences": [
+                    {
+                        "start_idx": 555,
+                        "end_idx": 560
+                    },
+                    {
+                        "start_idx": 756,
+                        "end_idx": 761
+                    },
+                    {
+                        "start_idx": 780,
+                        "end_idx": 785
+                    },
+                    {
+                        "start_idx": 1364,
+                        "end_idx": 1369
+                    },
+                    {
+                        "start_idx": 1460,
+                        "end_idx": 1465
+                    }
+                ]
+            },
+            {
+                "word": "study",
+                "occurrences": [
+                    {
+                        "start_idx": 221,
+                        "end_idx": 226
+                    },
+                    {
+                        "start_idx": 750,
+                        "end_idx": 755
+                    },
+                    {
+                        "start_idx": 823,
+                        "end_idx": 828
+                    },
+                    {
+                        "start_idx": 900,
+                        "end_idx": 905
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-01T18:45:56.652Z"
+}

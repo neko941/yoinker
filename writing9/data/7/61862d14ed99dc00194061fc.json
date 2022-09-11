@@ -1,0 +1,115 @@
+{
+    "url": "https://writing9.com/text/61862d14ed99dc00194061fc-some-peoplesay-that-music-is-a-good-way-of-bringing",
+    "file": "data\\7\\61862d14ed99dc00194061fc.json",
+    "topics": [
+        "peoplesay",
+        "music",
+        "people",
+        "cultures",
+        "ages"
+    ],
+    "question": "Some peoplesay that music is a good way of bringing people of different cultures and ages together.\nTo what extent do you agree or disagree with this opinion?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Music plays an important part in our lives. There is no doubt about this. However, many individuals feel it is a good way to bring citizens of various cultures together, whilst others believe it doesn't. In the course of this essay, we shall look at both sides of this coin.",
+        "First and foremost, we shall look at the view of how melodies bring communities together. Music is a universal language and transcends cultures and borders. It is something that brings crowds from all walks of life together. For example, I am currently living in Trivandrum for the last 14 years and even though I have never listened to Malayalam songs prior to relocating here, some of my favourite songs are from this language. Furthermore, the Rio carnival held in Rio De Janeiro is a classic example of this, as it attracts citizens from numerous countries annually.",
+        "On the other hand, persons believe that music from a certain culture belongs to that particular civilization and it cannot be celebrated by tourists, primarily because they do not understand the ballads and the meaning of the song. An instance of this would be that of the traditional Onam celebrations in Trivandrum. Every year it draws in many foreigners from various countries who come and view and try to take part in the festivities. Unfortunately, because of the language barriers associated to these customs they often feel left out.",
+        "In conclusion, I feel music indeed defies all nations and races and it is the one factor that brings generations together. Nationals can use this as an opportunity to get to know other citizens, and in this way cultures can be introduced to various societies. As the famous song goes, \"Rhythm is going to get you\"."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "to",
+                "start_idx": 1362,
+                "end_idx": 1364,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "customs",
+                "start_idx": 1371,
+                "end_idx": 1378,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase because of the language barriers associated to these customs. Consider adding a comma.",
+                "suggetions": [
+                    ",customs"
+                ]
+            },
+            {
+                "word": "way",
+                "start_idx": 1620,
+                "end_idx": 1623,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase in this way. Consider adding a comma.",
+                "suggetions": [
+                    ",way"
+                ]
+            }
+        ]
+    },
+    "submitter": "Nigelvictorlawrence",
+    "num_words": 291,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the other hand",
+            "furthermore",
+            "for example",
+            "however",
+            "this",
+            "last",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "music",
+                "occurrences": [
+                    {
+                        "start_idx": 886,
+                        "end_idx": 891
+                    },
+                    {
+                        "start_idx": 1409,
+                        "end_idx": 1414
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-11-06T07:39:47.131Z"
+}

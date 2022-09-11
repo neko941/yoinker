@@ -1,0 +1,141 @@
+{
+    "url": "https://writing9.com/text/62e272c28ee1ab00180e4876-in-some-countries-many-people-choose-to-educate-children-at",
+    "file": "data\\7\\62e272c28ee1ab00180e4876.json",
+    "topics": [
+        "countries",
+        "people",
+        "children",
+        "home",
+        "school"
+    ],
+    "question": "In some countries, many people choose to educate children at home by themselves instead of sending them to school. Do you think the advantages outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Recently, the trend of teaching children at home has been prevailing. While some people argue that children may be well-behaviour when having lessons at home, others claim that schools may help improve pupils\u2019 communication skills. As far as I am concerned, the advantages of home-schooling may outweigh the disadvantages.",
+        "To begin with, home-schooling may bar children from learning several bad behaviours. As children\u2019s cognitive developments are immature, they may not have a clear understanding of what is correct and what is not. As a result, they may be easily influenced by others once they want to be accepted by their peers.  However, teenagers may be under closely supervised by their parents once they learn at home, family members can correct their bad behaviours. For example, parents may teach their children to consider other human beings when making decisions which may prevent them from being self-centred. Therefore, teenagers may become better social members and help promote social cohesion in the future.",
+        "On the other hand, attending traditional educations may enhance the communication skills of students. Since some pupils may be the only child in their families, sending them to school may exposed the younger generation to other peers. For instance, they may need to cooperate as well as learn to make agreements with their classmates when doing team projects. Therefore, besides academic knowledge, students may also learn about how to make friends and interact with strangers, which may sharpen their competitive edges once they have the capacity to negotiate.",
+        "",
+        "In conclusion, although attending formal schools may improve teenagers\u2019 in-person abilities by introducing them to other people, building up a correct habit may be more important."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "under ",
+                "start_idx": 662,
+                "end_idx": 668,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "family",
+                "start_idx": 729,
+                "end_idx": 735,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and family"
+                ]
+            },
+            {
+                "word": "educations",
+                "start_idx": 1069,
+                "end_idx": 1079,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that educations may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "education"
+                ]
+            },
+            {
+                "word": "exposed",
+                "start_idx": 1216,
+                "end_idx": 1223,
+                "error": "Change the verb form",
+                "error_des": "The verb exposed after the modal verb may does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "expose"
+                ]
+            }
+        ]
+    },
+    "submitter": "hhhhelen.po",
+    "num_words": 274,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "on the other hand",
+            "as a result",
+            "for example",
+            "besides",
+            "although",
+            "however",
+            "therefore",
+            "for instance",
+            "to begin",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "children",
+                "occurrences": [
+                    {
+                        "start_idx": 32,
+                        "end_idx": 40
+                    },
+                    {
+                        "start_idx": 99,
+                        "end_idx": 107
+                    },
+                    {
+                        "start_idx": 361,
+                        "end_idx": 369
+                    },
+                    {
+                        "start_idx": 411,
+                        "end_idx": 419
+                    },
+                    {
+                        "start_idx": 814,
+                        "end_idx": 822
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-29T10:07:23.817Z"
+}

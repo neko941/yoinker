@@ -1,0 +1,170 @@
+{
+    "url": "https://writing9.com/text/5d8223463d247400172608a6",
+    "file": "data\\6\\5d8223463d247400172608a6.json",
+    "topics": [
+        "transport",
+        "system",
+        "funds"
+    ],
+    "question": "The urban transport system receives more funds compared to the rural transport system? Why do you think it is so? How can it be solved.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The transportation system in the cities are highly funded than those of the smaller towns. I believe it is as a result of the high population of the cities,  also because cities contribute higher taxes, however, funding can be increased for the smaller towns through migration initiatives. In this essay, we will examine these two causes and the solution.",
+        "Firstly, city residents contribute higher taxes, and they out-number local residents . As a result of the dense population in the metropolis, more  taxes are collected, hence leading to a higher revenue in these areas. Also, the dense population has created a need for constant maintenance of these facilities. For example, according to the 2006 Nigerian Census, Lagos state had a population of 25million while Ogbomoso had just 250,000 and these caused the Lagos state government a 35% increase in transport maintenance as against the 10% expended in Ogbomoso.",
+        "In order to resolve this, it is advised that migration to smaller towns should be encouraged, so as to create meaningful development of these areas, consequently increasing tax revenue for government to implement road projects. Unarguably, rural migration supports growth and development and these can be encouraged through various incentives such as payment of monthly allowance to migrants, in order to encourage them to stay in such places. These is the strategy currently being adopted by Italy. Hence, an increase in local population will result in increased revenue for road projects.",
+        "In conclusion, the transportation system of the cities receives a higher budget than the smaller towns because the cities are populated, and their infrastructures need to be constantly maintained. Likewise, more income is generated from the urban areas.  In order to resolve this disparity, citizens should be encouraged to live in the smaller towns to ensure higher revenue from these areas. This will provide more funds for the authorities to spend on road projects."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "are",
+                "start_idx": 40,
+                "end_idx": 43,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 440,
+                "end_idx": 442,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            },
+            {
+                "word": "meaningful development",
+                "start_idx": 1028,
+                "end_idx": 1050,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a meaningful development"
+                ]
+            },
+            {
+                "word": "monthly allowance",
+                "start_idx": 1280,
+                "end_idx": 1297,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a monthly allowance",
+                    "the monthly allowance"
+                ]
+            },
+            {
+                "word": "These",
+                "start_idx": 1362,
+                "end_idx": 1367,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "This"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 313,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "hence",
+            "as a result",
+            "consequently",
+            "for example",
+            "likewise",
+            "however",
+            "this",
+            "also",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "population",
+                "occurrences": [
+                    {
+                        "start_idx": 131,
+                        "end_idx": 141
+                    },
+                    {
+                        "start_idx": 468,
+                        "end_idx": 478
+                    },
+                    {
+                        "start_idx": 591,
+                        "end_idx": 601
+                    },
+                    {
+                        "start_idx": 737,
+                        "end_idx": 747
+                    },
+                    {
+                        "start_idx": 1446,
+                        "end_idx": 1456
+                    }
+                ]
+            },
+            {
+                "word": "revenue",
+                "occurrences": [
+                    {
+                        "start_idx": 551,
+                        "end_idx": 558
+                    },
+                    {
+                        "start_idx": 1095,
+                        "end_idx": 1102
+                    },
+                    {
+                        "start_idx": 1482,
+                        "end_idx": 1489
+                    },
+                    {
+                        "start_idx": 1876,
+                        "end_idx": 1883
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-18T12:29:58.199Z"
+}

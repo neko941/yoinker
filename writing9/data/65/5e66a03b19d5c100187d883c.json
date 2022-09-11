@@ -1,0 +1,146 @@
+{
+    "url": "https://writing9.com/text/5e66a03b19d5c100187d883c",
+    "file": "data\\65\\5e66a03b19d5c100187d883c.json",
+    "topics": [
+        "parents",
+        "children",
+        "toys",
+        "child"
+    ],
+    "question": "Some parents buy their children a large number of toys to play with. What are the advantages and disadvantages for the child of having a large number of toys?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some children receive a lot of toys from their parents. This development can be advantageous to children as it makes them happy and allows them to share their toys with others, however, it also has some drawbacks.",
+        "On the one hand, there are multiple advantages to children receiving many toys. Firstly, it makes them happy since many children become sad and lonely due to their parents working for long hours. However, if they have a lot of toys, it makes them happier and gives them something to do while their parents are away. Secondly, children who have a lot of toys can share them with their peers since they have many and, therefore, are not attached to them. Furthermore, they might even give some of their toys to other children since they would not miss them.",
+        "On the other hand, one drawback of having a lot of toys is that it can make children greedy and materialistic. As a result, they turn into self-centred individuals who always want to acquire more objects and never feel satisfied. For instance, they would pester their parents to buy them new toys even if their parents do not have money. Another issue is that children who get a lot of toys might not value them. Young children do not understand that toys are bought with money and that money must be earned and, consequently, they break their toys since they are not valuable to them. Due to this, children can become irresponsible adults who overspend since they were not taught the importance of money when they were young.",
+        "In conclusion, although possessing a large number of toys has its benefits for children, it can also be detrimental as it spoils them and never teaches them the value of money."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "since",
+                "start_idx": 324,
+                "end_idx": 329,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "toys even",
+                "start_idx": 1064,
+                "end_idx": 1073,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "toys, even"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 295,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "on the other hand",
+            "for instance",
+            "as a result",
+            "consequently",
+            "furthermore",
+            "although",
+            "however",
+            "therefore",
+            "this",
+            "also",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "money",
+                "occurrences": [
+                    {
+                        "start_idx": 1101,
+                        "end_idx": 1106
+                    },
+                    {
+                        "start_idx": 1242,
+                        "end_idx": 1247
+                    },
+                    {
+                        "start_idx": 1257,
+                        "end_idx": 1262
+                    },
+                    {
+                        "start_idx": 1469,
+                        "end_idx": 1474
+                    },
+                    {
+                        "start_idx": 1667,
+                        "end_idx": 1672
+                    }
+                ]
+            },
+            {
+                "word": "lot",
+                "occurrences": [
+                    {
+                        "start_idx": 24,
+                        "end_idx": 27
+                    },
+                    {
+                        "start_idx": 434,
+                        "end_idx": 437
+                    },
+                    {
+                        "start_idx": 560,
+                        "end_idx": 563
+                    },
+                    {
+                        "start_idx": 814,
+                        "end_idx": 817
+                    },
+                    {
+                        "start_idx": 1149,
+                        "end_idx": 1152
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-03-09T19:59:55.841Z"
+}

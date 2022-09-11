@@ -1,0 +1,120 @@
+{
+    "url": "https://writing9.com/text/62f2ded4a70b55001806cad0-nowadays-celebrities-are-more-famous-for-their-glamour-and-wealth",
+    "file": "data\\65\\62f2ded4a70b55001806cad0.json",
+    "topics": [
+        "celebrities",
+        "glamour",
+        "wealth",
+        "achievements",
+        "sets",
+        "people"
+    ],
+    "question": "Nowadays celebrities are more famous for their glamour and wealth than for their achievements, and this sets a bad example to young people. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Fame, glory as well as opulence have always been a part of the superstars\u2019 world. Certainly, people have been concerned with these aspects being the only ones needed to become well known, rather than accomplishments, which has negative impacts on youngsters. In this essay, I will explain why I concur with this point of view.",
+        "To begin with, when celebrities are only recognized for their glamour and wealth, it has detrimental effects on teenagers as it illustrates that achievements are not important, moreover that there is no need for hard work in life. By only posting superficial elements of their life, influencers are sending the wrong message. Since only a small proportion of people trying to become famous will be, the value of perseverance should be transmitted to encourage young people to push through deception and keep fighting towards their goals.",
+        "Although money does not buy happiness, the image that is sent to young people by influencers is that goods and money will make you happy, therefore encouraging them to buy many products in order to attain pleasure. The message that is then conveyed is that objects will make you content. As a result, many teens do not feel entitled to joy if they cannot purchase the product that is advertised by the celebrity, which can lead to anxiety and depression. Rather than linking positive emotions to material belongings, young people have to learn about the value of interpersonal relationships as well as personal achievements.",
+        "In conclusion, accomplishments and talent should be the reasons why someone becomes famous. Otherwise, it sets a damaging  example for teens and young adults as it shows that hard work is not important and it puts pressure to find happiness through objects."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": " as well as opulence",
+                "start_idx": 11,
+                "end_idx": 31,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter as well as opulence. Consider adding the comma(s).",
+                "suggetions": [
+                    ", as well as opulence,"
+                ]
+            },
+            {
+                "word": "you",
+                "start_idx": 1145,
+                "end_idx": 1148,
+                "error": "Change the pronoun",
+                "error_des": "It appears that the personal pronoun you should be in the possessive form. Consider changing it.",
+                "suggetions": [
+                    "your"
+                ]
+            }
+        ]
+    },
+    "submitter": "emilie.langis",
+    "num_words": 287,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "then",
+            "as a result",
+            "otherwise",
+            "moreover",
+            "although",
+            "therefore",
+            "that is",
+            "this",
+            "to begin"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 93,
+                        "end_idx": 99
+                    },
+                    {
+                        "start_idx": 686,
+                        "end_idx": 692
+                    },
+                    {
+                        "start_idx": 793,
+                        "end_idx": 799
+                    },
+                    {
+                        "start_idx": 936,
+                        "end_idx": 942
+                    },
+                    {
+                        "start_idx": 1388,
+                        "end_idx": 1394
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-09T22:29:58.635Z"
+}

@@ -1,0 +1,216 @@
+{
+    "url": "https://writing9.com/text/5e479d881738c20018104db5-you-are-moving-to-a-new-country-write-a-letter",
+    "file": "data\\6\\5e479d881738c20018104db5.json",
+    "topics": [
+        "country",
+        "accommodation",
+        "agency",
+        "rent",
+        "house",
+        "area",
+        "facilities"
+    ],
+    "question": "You are moving to a new country ,write a letter to the accommodation agency to rent a house\nIn your letter describe\nYourself and your family\nWhich area you would like to live in\nAnd what facilities you need in the house.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "I am writing this letter to enquire about, a house for rent. As, I have been personally recommended by a friend about your superior quality service. Hence, I would request to suggest a house for me, as per the requirement stated below.",
+        "I am a young doctor, who will be immigrating along with my wife in the first week of July 2020. As, I will be practising in Healthcare hospital, Carlton road, Toronto. It would be preferred if the house is near to the hospital.",
+        "Furthermore, I have a short list of features that the apartment should have. Firstly, fully-furnished, as i will be new to the place and look to quickly settle in. Another is, one bedroom on 10th floor or above with north facing window. However, I am open to suggestions.",
+        "Hope, you will get back with the best match within a reasonable price.",
+        "Please feel free to contact me on the mobile number given below.",
+        "",
+        "Your faithfully,",
+        "Abhishek Agrawal"
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 80,
+                "end_idx": 81,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction As. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 189,
+                "end_idx": 191,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "you to"
+                ]
+            },
+            {
+                "word": "Healthcare",
+                "start_idx": 378,
+                "end_idx": 388,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a Healthcare"
+                ]
+            },
+            {
+                "word": "road",
+                "start_idx": 407,
+                "end_idx": 411,
+                "error": "Change the capitalization",
+                "error_des": "It appears that the word road may be a proper noun in this context. Consider capitalizing the word.",
+                "suggetions": [
+                    "Road"
+                ]
+            },
+            {
+                "word": "short list",
+                "start_idx": 505,
+                "end_idx": 515,
+                "error": "Correct your spelling",
+                "error_des": "The word short list seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "shortlist"
+                ]
+            },
+            {
+                "word": "fully-furnished",
+                "start_idx": 569,
+                "end_idx": 584,
+                "error": "Correct your spelling",
+                "error_des": "The word fully-furnished doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "fully furnished"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 589,
+                "end_idx": 590,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 657,
+                "end_idx": 658,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma between the verb and object in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "10th",
+                "start_idx": 674,
+                "end_idx": 678,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the 10th"
+                ]
+            },
+            {
+                "word": "north facing",
+                "start_idx": 699,
+                "end_idx": 711,
+                "error": "Add a hyphen",
+                "error_des": "It appears that north facing is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "north-facing"
+                ]
+            },
+            {
+                "word": "Hope",
+                "start_idx": 756,
+                "end_idx": 760,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "I Hope"
+                ]
+            },
+            {
+                "word": "within",
+                "start_idx": 800,
+                "end_idx": 806,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 895,
+                "end_idx": 895,
+                "error": "Correct the word",
+                "error_des": "It appears that the word Your is not the correct form of the possessive pronoun. Consider changing it.",
+                "suggetions": [
+                    "Yours"
+                ]
+            },
+            {
+                "word": "Your",
+                "start_idx": 895,
+                "end_idx": 899,
+                "error": "Correct your spelling",
+                "error_des": "The word Your doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "Yours"
+                ]
+            }
+        ]
+    },
+    "submitter": "abhi",
+    "num_words": 164,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "hence",
+            "furthermore",
+            "firstly",
+            "however",
+            "this",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T19:05:46.500Z"
+}

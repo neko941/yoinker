@@ -1,0 +1,188 @@
+{
+    "url": "https://writing9.com/text/5e662da119d5c100187d86ce",
+    "file": "data\\65\\5e662da119d5c100187d86ce.json",
+    "topics": [
+        "people",
+        "happiness",
+        "responsibility",
+        "individuals",
+        "factors"
+    ],
+    "question": "Many people think that happiness relies on the responsibility of individuals, others think that it is affected by other factors. Discuss both views and state your opinion by using examples from your personal experience.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Most people argue that economic success is the most important factor in getting personal happiness. While I accept that argument, I believe that many factors which make someone happy.",
+        "Many people say that direct factor of personal happiness is financial success because of many reasons. Firstly, people can buy everything they need and they want when they success in gaining their own money. For example, they want to buy a lot of gadgets, they can buy them because they get what they want by money they have. Secondly, people experience that people who reach success in economy have high social status. Other people give more respect to rich people. Being respected by societies makes successful people happier than poor people. Therefore, some people say that economic success has a direct effect of happiness because of reasons mentioned above.",
+        "On the contrary, other people believe that there are other factors which influence people to be happy. First factor is a physical condition. People feel happy when they are healthy. They say that nothing is useful when they get sick because unwell body is the worst condition. For example, they cannot eat the most delicious meals in the world when they get so many ulcers in their mouth. Second factor is a psychological condition. For instance, people cannot feel the happiness of getting lottery when they are in mental sickness, such as delusion or hallucination. They will feel suffered because the voice in the hallucination says that they will be murdered.",
+        "To sum up, most people feel happy when their success in the economy. However, people will be happier than others when they succeed, not only financially but also physically and mentally."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "money",
+                "start_idx": 493,
+                "end_idx": 498,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the money"
+                ]
+            },
+            {
+                "word": "First ",
+                "start_idx": 951,
+                "end_idx": 957,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "The first factor"
+                ]
+            },
+            {
+                "word": "Second ",
+                "start_idx": 1237,
+                "end_idx": 1244,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "The second factor",
+                    "A second factor"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 280,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "on the contrary",
+            "for example",
+            "such",
+            "however",
+            "therefore",
+            "for instance",
+            "also",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "factor",
+                "occurrences": [
+                    {
+                        "start_idx": 62,
+                        "end_idx": 68
+                    },
+                    {
+                        "start_idx": 150,
+                        "end_idx": 156
+                    },
+                    {
+                        "start_idx": 212,
+                        "end_idx": 218
+                    },
+                    {
+                        "start_idx": 907,
+                        "end_idx": 913
+                    },
+                    {
+                        "start_idx": 957,
+                        "end_idx": 963
+                    },
+                    {
+                        "start_idx": 1244,
+                        "end_idx": 1250
+                    }
+                ]
+            },
+            {
+                "word": "success",
+                "occurrences": [
+                    {
+                        "start_idx": 32,
+                        "end_idx": 39
+                    },
+                    {
+                        "start_idx": 254,
+                        "end_idx": 261
+                    },
+                    {
+                        "start_idx": 356,
+                        "end_idx": 363
+                    },
+                    {
+                        "start_idx": 560,
+                        "end_idx": 567
+                    },
+                    {
+                        "start_idx": 686,
+                        "end_idx": 693
+                    },
+                    {
+                        "start_idx": 771,
+                        "end_idx": 778
+                    },
+                    {
+                        "start_idx": 1557,
+                        "end_idx": 1564
+                    }
+                ]
+            },
+            {
+                "word": "happiness",
+                "occurrences": [
+                    {
+                        "start_idx": 89,
+                        "end_idx": 98
+                    },
+                    {
+                        "start_idx": 231,
+                        "end_idx": 240
+                    },
+                    {
+                        "start_idx": 802,
+                        "end_idx": 811
+                    },
+                    {
+                        "start_idx": 1318,
+                        "end_idx": 1327
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-03-09T11:50:57.283Z"
+}

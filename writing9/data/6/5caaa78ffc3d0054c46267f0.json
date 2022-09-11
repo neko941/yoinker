@@ -1,0 +1,114 @@
+{
+    "url": "https://writing9.com/text/5caaa78ffc3d0054c46267f0",
+    "file": "data\\6\\5caaa78ffc3d0054c46267f0.json",
+    "topics": [
+        "cities",
+        "people",
+        "case",
+        "development"
+    ],
+    "question": "In many cities, people are living alone. Why is this the case? Is this a positive or negative development?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.5,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 4.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "-----------------------------------------------------",
+        "It is true that many people are spending their life alone. There are many reasons why they choose the solitary lifestyle, and in my opinion, there are both positive and negative effects.",
+        "There are two most important reasons why people choose to live alone. The first reason is freedom. Those who want to live alone have an idea of living by themselves and experiencing daily challenges. Tackling those problems allow them to become independent as an individual and will help them to grow mentally and psychologically strong. The other reason which leads to a lonely life is the focus. Many people who have a goal which needs a complete dedication choose to live single to focus on their target. My cousin sister, for instance, who wanted to become a musician lived alone away from family to pursue her career in music.",
+        "On the one hand, these developments can be extremely positive. One can learn from mistakes and develop confidence and never again be worried if the same challenge will come in the future. The experience will help to tackle the troublesome situation more confidently. On the other hand, isolation from the social group can sometimes lead to stress and anxiety. In many cases, people who are living alone have found suffering from mental health issues. It is also true that a lonely life might be annoying and the alone person sometimes died early due to boredom.",
+        "In conclusion, people who live alone for different reasons might not always found the single life as a good outcome."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "alone away",
+                "start_idx": 821,
+                "end_idx": 831,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "alone, away"
+                ]
+            },
+            {
+                "word": "might not always found",
+                "start_idx": 1498,
+                "end_idx": 1520,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "might not always find"
+                ]
+            }
+        ]
+    },
+    "submitter": "nguyenhug169",
+    "num_words": 257,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "for instance",
+            "on the other hand",
+            "also",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 101,
+                        "end_idx": 105
+                    },
+                    {
+                        "start_idx": 165,
+                        "end_idx": 169
+                    },
+                    {
+                        "start_idx": 620,
+                        "end_idx": 624
+                    },
+                    {
+                        "start_idx": 1354,
+                        "end_idx": 1358
+                    },
+                    {
+                        "start_idx": 1528,
+                        "end_idx": 1532
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-08T01:44:47.000Z"
+}

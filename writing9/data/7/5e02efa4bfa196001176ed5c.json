@@ -1,0 +1,101 @@
+{
+    "url": "https://writing9.com/text/5e02efa4bfa196001176ed5c",
+    "file": "data\\7\\5e02efa4bfa196001176ed5c.json",
+    "topics": [
+        "believe",
+        "jobs",
+        "robots"
+    ],
+    "question": "Some believe that eventually all jobs will be done by artificially intelligent robots. What is your opinion?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Artificial intelligence is the trending technology right now across the world. Some people believe that eventually this technology will be used to develop robots which will replace all human jobs. I disagree with this statement, and will explain my viewpoint in this forthcoming paragraph in detail.",
+        "Firstly, to define artificial intelligence, it's a technology which replaces the human intelligence with a machine learned programmatic language. Technically speaking each and every job that is done by a human being could be converted to a programmable command and learnt by a machine to perform. To exemplify, self driving cars developed by Tesla are considered as robots. With several years of learning experiences and proper logic, the cars are programmed to drive safely. Having these kind of technological advancements, we can say a majority of the human jobs can be performed by robots.",
+        "However, the human brain has tremendous intelligence power with several emotional quotients which cannot be fully replaced by artificially intelligent robots. Furthermore, cognitive ability that a human mind possesses can only sense the importance and criticality of the job and take a wise decision. For instance, a Psychiatric Doctor will be able to understand the mental situation of a patient with relevant questions and the most authentic response received from patients.",
+        "To summarize, artificial intelligent robots might replace a majority of jobs going forward. However, it cannot replace the human touch that sense the emotional perspectives of some jobs. Moreover,  this programme needs a continuous maintenance and monitoring to perform for which a human being is mandatory."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "intelligence power",
+                "start_idx": 935,
+                "end_idx": 953,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "intelligence, power"
+                ]
+            }
+        ]
+    },
+    "submitter": "eshwar10882",
+    "num_words": 257,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for instance",
+            "furthermore",
+            "moreover",
+            "however",
+            "that is",
+            "this",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "intelligence",
+                "occurrences": [
+                    {
+                        "start_idx": 11,
+                        "end_idx": 23
+                    },
+                    {
+                        "start_idx": 330,
+                        "end_idx": 342
+                    },
+                    {
+                        "start_idx": 387,
+                        "end_idx": 399
+                    },
+                    {
+                        "start_idx": 933,
+                        "end_idx": 945
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-12-25T05:12:04.526Z"
+}

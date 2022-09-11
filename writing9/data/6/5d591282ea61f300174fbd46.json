@@ -1,0 +1,231 @@
+{
+    "url": "https://writing9.com/text/5d591282ea61f300174fbd46",
+    "file": "data\\6\\5d591282ea61f300174fbd46.json",
+    "topics": [
+        "people",
+        "police",
+        "officers",
+        "street",
+        "crime"
+    ],
+    "question": "Some people think that increasing the number of police officers on the street is the only effective way to reduce crime. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is believed that the growth of police officers on every road is the most effective way resulting in the decrease of crime rates. While this may suit with many people, I believe that there are many other methods to reduce crime.",
+        "On the one hand, a large number of police officers can stop or reduce some violent crime on the street. For instance, a police man with a gun can make offenders feel anxious, alert, and do not dare to commit their crimes. This is because they are afraid of being detected, and being able to be arrested and imprisoned. Moreover, if robberies or thieveries happen on the road, the police can solve promptly, and arrest criminals for judgment. In addition, more police officers can assist the local government to control the area and crime rates. However, government would have to spend much more money on employing more and more policemen.",
+        "On the other hand, there are many other methods to solve this problem rather than increasing the number of police officers. Firstly, developing economy is a good solution to reduce the number of offenders. In some rural areas, many people are still poor, so they rob or thieve to survival through day. Thus, economic development creates many job opportunities, which help people can have stable jobs, earn for their living, and they do not need to rob or thieve. Secondly, the government should popularize for people about much legal knowledge to become good citizens and responsible workers. It can be seen that many people commit crimes due to their lower lever education about the law. Thirdly, the government should consider and improve suitably judicial system and punishment mechanism.",
+        "In conclusion, the government should focus on developing economy, popularizing education, and improving judicial system, punishment mechanism rather than increasing the number of police officers to decrease crime."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "way resulting",
+                "start_idx": 86,
+                "end_idx": 99,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "way, resulting"
+                ]
+            },
+            {
+                "word": "police man",
+                "start_idx": 352,
+                "end_idx": 362,
+                "error": "a member of a police force",
+                "error_des": "",
+                "suggetions": [
+                    "policeman"
+                ]
+            },
+            {
+                "word": "government",
+                "start_idx": 786,
+                "end_idx": 796,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the government"
+                ]
+            },
+            {
+                "word": "economy",
+                "start_idx": 1722,
+                "end_idx": 1729,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the economy"
+                ]
+            }
+        ]
+    },
+    "submitter": "Thanh",
+    "num_words": 308,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "for instance",
+            "thirdly",
+            "moreover",
+            "however",
+            "in addition",
+            "this",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "number",
+                "occurrences": [
+                    {
+                        "start_idx": 256,
+                        "end_idx": 262
+                    },
+                    {
+                        "start_idx": 967,
+                        "end_idx": 973
+                    },
+                    {
+                        "start_idx": 1055,
+                        "end_idx": 1061
+                    },
+                    {
+                        "start_idx": 1831,
+                        "end_idx": 1837
+                    }
+                ]
+            },
+            {
+                "word": "crime",
+                "occurrences": [
+                    {
+                        "start_idx": 119,
+                        "end_idx": 124
+                    },
+                    {
+                        "start_idx": 224,
+                        "end_idx": 229
+                    },
+                    {
+                        "start_idx": 314,
+                        "end_idx": 319
+                    },
+                    {
+                        "start_idx": 445,
+                        "end_idx": 450
+                    },
+                    {
+                        "start_idx": 763,
+                        "end_idx": 768
+                    },
+                    {
+                        "start_idx": 1502,
+                        "end_idx": 1507
+                    },
+                    {
+                        "start_idx": 1869,
+                        "end_idx": 1874
+                    }
+                ]
+            },
+            {
+                "word": "police",
+                "occurrences": [
+                    {
+                        "start_idx": 34,
+                        "end_idx": 40
+                    },
+                    {
+                        "start_idx": 266,
+                        "end_idx": 272
+                    },
+                    {
+                        "start_idx": 351,
+                        "end_idx": 357
+                    },
+                    {
+                        "start_idx": 611,
+                        "end_idx": 617
+                    },
+                    {
+                        "start_idx": 691,
+                        "end_idx": 697
+                    },
+                    {
+                        "start_idx": 859,
+                        "end_idx": 865
+                    },
+                    {
+                        "start_idx": 977,
+                        "end_idx": 983
+                    },
+                    {
+                        "start_idx": 1841,
+                        "end_idx": 1847
+                    }
+                ]
+            },
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 728,
+                        "end_idx": 738
+                    },
+                    {
+                        "start_idx": 785,
+                        "end_idx": 795
+                    },
+                    {
+                        "start_idx": 1347,
+                        "end_idx": 1357
+                    },
+                    {
+                        "start_idx": 1572,
+                        "end_idx": 1582
+                    },
+                    {
+                        "start_idx": 1681,
+                        "end_idx": 1691
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-18T08:55:30.920Z"
+}

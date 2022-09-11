@@ -1,0 +1,162 @@
+{
+    "url": "https://writing9.com/text/62cadf648ee1ab00180e1fa7-computers-are-been-used-more-and-more-in-education-some",
+    "file": "data\\6\\62cadf648ee1ab00180e1fa7.json",
+    "topics": [
+        "computers",
+        "education",
+        "persons",
+        "trend",
+        "consequences"
+    ],
+    "question": "Computers are been used more and more in education some persons believes it has a positive trend while others say it has a negative consequences",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The use of electronic means of learning is becoming  more frequent. Some folk believe it is an added advantage while others think it is a major drawback. This easy will discuss both points of view and I will also make my opinion",
+        "To begin computerized means of education might be detrimental for the following reason. the first reason is a distraction, most persons get distracted when using this means of learning because of pops that interfere with the learning process this might lead to poor academic performances during exams not only this,  this method of education limits the direct assessment of students by lecturers this is a major setback in the use of this methodology of learning.",
+        "With regard to the frequency of use of computers as a means of passing information. However, others - myself included believing it has a positive impact for several reasons:",
+        "Firstly it makes learning easier this is so because people can now have access to different universities online without having to be there physically this is also known also know as long-distance learning furthermore this has also helped to bridge the gap in learning between the developed world and developing world. Secondly, because the internet is a global village which has a lot of information the more frequent use of the computer as a means of learning will enable students to have the technical know-how, on how to get this information furthermore it makes research work easier. It also helps provide a visual aid for during lecturing",
+        "In conclusion, while there are arguments for and against the frequent use of electronic means of learning. In my own ,opinion I believe the benefits outweigh the negative consequences as this method of learning makes it easier and gives us access to more information and bridges the gap in terms of knowledge between the developing and developed world"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 338,
+                "end_idx": 340,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "believing",
+                "start_idx": 813,
+                "end_idx": 822,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb believing. Consider changing it.",
+                "suggetions": [
+                    "believe"
+                ]
+            },
+            {
+                "word": "for ",
+                "start_idx": 1492,
+                "end_idx": 1496,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "idoghojennifer",
+    "num_words": 311,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "furthermore",
+            "firstly",
+            "however",
+            "this",
+            "to begin",
+            "also",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 764,
+                        "end_idx": 775
+                    },
+                    {
+                        "start_idx": 1255,
+                        "end_idx": 1266
+                    },
+                    {
+                        "start_idx": 1400,
+                        "end_idx": 1411
+                    },
+                    {
+                        "start_idx": 1766,
+                        "end_idx": 1777
+                    }
+                ]
+            },
+            {
+                "word": "use",
+                "occurrences": [
+                    {
+                        "start_idx": 4,
+                        "end_idx": 7
+                    },
+                    {
+                        "start_idx": 418,
+                        "end_idx": 421
+                    },
+                    {
+                        "start_idx": 656,
+                        "end_idx": 659
+                    },
+                    {
+                        "start_idx": 725,
+                        "end_idx": 728
+                    },
+                    {
+                        "start_idx": 915,
+                        "end_idx": 918
+                    },
+                    {
+                        "start_idx": 1199,
+                        "end_idx": 1202
+                    },
+                    {
+                        "start_idx": 1285,
+                        "end_idx": 1288
+                    },
+                    {
+                        "start_idx": 1581,
+                        "end_idx": 1584
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-10T14:21:11.692Z"
+}

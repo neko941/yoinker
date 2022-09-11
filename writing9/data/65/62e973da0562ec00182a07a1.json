@@ -1,0 +1,128 @@
+{
+    "url": "https://writing9.com/text/62e973da0562ec00182a07a1-some-people-think-a-country-benefits-from-a-large-proportion",
+    "file": "data\\65\\62e973da0562ec00182a07a1.json",
+    "topics": [
+        "people",
+        "country",
+        "proportion",
+        "university",
+        "students",
+        "universities",
+        "graduate",
+        "unemployment"
+    ],
+    "question": "Some people think a country benefits from a large proportion of young university students, others think sending young people to universities only leads to graduate unemployment. Discuss both views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Unemployment is emerging as a rising problem in today\u2019s society \u2013 each year millions of people are losing their jobs. While some individuals claim that a nation would find a major part of college students to be beneficial, their counterparts believe that graduate unemployment is an inevitable consequence of sending young people to universities. From my perspective, I strongly believe that a country would greatly benefit from young university students.",
+        "On the one hand, there are undeniable advantages to not studying at a university. For example, people can sign up for vocational colleges. Afterwards, they can immediately go on to get a job, and during this period, they will be able to develop soft skills, as well as gain working experience. Later on, their ability to solve real-life problems can make up for their lack of education. Since doing this takes a significantly shorter time to get a job, it might partly solve the problem of unemployment.",
+        "On the other hand, people who pursue higher education benefits the nation in many different ways. To begin with, sending young people to universities would create a source of educated citizens, which is vital to the betterment of society. Furthermore, they also contribute more to the country, as they occupy many important professions. For example, politicians and lawyers are important for a smoothly running government, while doctors play a vital role in everyone\u2019s life. Therefore, society as a whole benefit from college students.",
+        ".",
+        "In conclusion, while not pursuing higher education might help with the problem of unemployment, I think that the advantages of sending the youth to universities outweigh the disadvantages, and citizens of a nation would benefit greatly from this."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "benefit",
+                "start_idx": 1467,
+                "end_idx": 1474,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that benefit may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "benefits"
+                ]
+            }
+        ]
+    },
+    "submitter": "iqunder20",
+    "num_words": 279,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the other hand",
+            "furthermore",
+            "for example",
+            "therefore",
+            "this",
+            "to begin",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "unemployment",
+                "occurrences": [
+                    {
+                        "start_idx": 264,
+                        "end_idx": 276
+                    },
+                    {
+                        "start_idx": 946,
+                        "end_idx": 958
+                    },
+                    {
+                        "start_idx": 1580,
+                        "end_idx": 1592
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 88,
+                        "end_idx": 94
+                    },
+                    {
+                        "start_idx": 323,
+                        "end_idx": 329
+                    },
+                    {
+                        "start_idx": 551,
+                        "end_idx": 557
+                    },
+                    {
+                        "start_idx": 979,
+                        "end_idx": 985
+                    },
+                    {
+                        "start_idx": 1087,
+                        "end_idx": 1093
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-02T19:01:08.282Z"
+}

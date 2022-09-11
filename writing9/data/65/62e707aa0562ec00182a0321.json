@@ -1,0 +1,234 @@
+{
+    "url": "https://writing9.com/text/62e707aa0562ec00182a0321-a-museum-near-your-home-is-looking-for-people-to",
+    "file": "data\\65\\62e707aa0562ec00182a0321.json",
+    "topics": [
+        "museum",
+        "home",
+        "people",
+        "work",
+        "director",
+        "skills",
+        "qualities"
+    ],
+    "question": "A Museum Near your home is looking for people to do part-time voluntary / unpaid work. You would like to do some voluntary / unpaid work at the museum.Write a letter to the museum director to apply for the voluntary / unpaid work.In your letter- explain why you want to do voluntary / unpaid work at the museum- describe some skills and qualities you have that would be useful- give details of when you would be available for work",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear sir or madam, I show an advertisement in local newspaper about part-time volunteer position  for tour guide at your museum. so,I would like to apply for that position.",
+        "I am interested in this position to complete my studies because i am studying art and to complete my studies,i have to do 3 months of part-time internship at a museum. I find myself as a perfect fit for this position because i have all the required qualities such as good speaker, time punctual and good learner.furthermore, i want to expand my knowledge in my area of studies and working at your museum is the perfect start for me.",
+        "I am available to work from Monday to Friday after 4 pm to 10 pm as i am also doing music classes in morning till 3 pm.",
+        "I  am really looking forward to join your team .so, I would love to hear from you.",
+        "Your faithfully",
+        "Avakash"
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "local",
+                "start_idx": 46,
+                "end_idx": 51,
+                "error": "Add an article",
+                "error_des": "The noun phrase local newspaper seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the local",
+                    "a local"
+                ]
+            },
+            {
+                "word": "part-time",
+                "start_idx": 68,
+                "end_idx": 77,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a part-time"
+                ]
+            },
+            {
+                "word": "  for",
+                "start_idx": 96,
+                "end_idx": 101,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "as"
+                ]
+            },
+            {
+                "word": "tour",
+                "start_idx": 102,
+                "end_idx": 106,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a tour"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 238,
+                "end_idx": 239,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 283,
+                "end_idx": 284,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "as ",
+                "start_idx": 356,
+                "end_idx": 359,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 399,
+                "end_idx": 400,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 499,
+                "end_idx": 500,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 675,
+                "end_idx": 676,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "morning",
+                "start_idx": 708,
+                "end_idx": 715,
+                "error": "Add an article",
+                "error_des": "The noun phrase morning seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the morning"
+                ]
+            },
+            {
+                "word": "join",
+                "start_idx": 759,
+                "end_idx": 763,
+                "error": "Change the verb form",
+                "error_des": "The verb join is usually in the gerund form when following the word looking forward to. Consider replacing it with the -ing form.",
+                "suggetions": [
+                    "joining"
+                ]
+            },
+            {
+                "word": "Your",
+                "start_idx": 810,
+                "end_idx": 814,
+                "error": "Correct the word",
+                "error_des": "It appears that the word Your is not the correct form of the possessive pronoun. Consider changing it.",
+                "suggetions": [
+                    "Yours"
+                ]
+            },
+            {
+                "word": "Avakash",
+                "start_idx": 827,
+                "end_idx": 834,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Avakash to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "Aakash"
+                ]
+            }
+        ]
+    },
+    "submitter": "avakashchavda",
+    "num_words": 155,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "furthermore",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "position",
+                "occurrences": [
+                    {
+                        "start_idx": 88,
+                        "end_idx": 96
+                    },
+                    {
+                        "start_idx": 163,
+                        "end_idx": 171
+                    },
+                    {
+                        "start_idx": 197,
+                        "end_idx": 205
+                    },
+                    {
+                        "start_idx": 381,
+                        "end_idx": 389
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-31T22:55:12.951Z"
+}

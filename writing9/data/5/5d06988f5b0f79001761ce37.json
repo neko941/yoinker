@@ -1,0 +1,301 @@
+{
+    "url": "https://writing9.com/text/5d06988f5b0f79001761ce37",
+    "file": "data\\5\\5d06988f5b0f79001761ce37.json",
+    "topics": [
+        "criminals",
+        "prison",
+        "method",
+        "education",
+        "job"
+    ],
+    "question": "Sending criminals to prison is not the best method of dealing with them. Education and job training are better ways to help them do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There are different ways to reduce crime rate in a place,by sending criminals to prison which is a traditional method used to confiscated criminals and keep them under watch.Some hold the view that Education and job training are better ways to help them.I believe that prison is the best solution in most cases while in others, education is much more important in rehabilitation and reforming of criminals.",
+        "The prison is known as the univerisities of crime and most times, people who go to prisons come out to become worse than they were.For instance, keeping a murderer, a pick pocket, a rapist in the same place,they get to interact with each other.In order wards, no positive impact is achieved.Rather immorality enjoys a wide spread amongs the prisoners.",
+        "Education has been helpful in quite a number of cases such as driving under the influence of alchol and so many other minor but punishable offences as it helps to reform they offenders and in turn, they comes out better after series of classes. Secondly, petty offenders like shop lifters and pick pockets may require vocational training  and skill acquisition because unemployment,poverty and idleness has been known to be the major causes on crime. Therefore, job  training keeps them busy and makes them useful to the society. Finally the cost of running a prison is so high that the government may want to invest more on education, job training and even healthcare thereby giving these petty criminals community service as a form of punishment.",
+        "In summary, various methods of punishment should be used in dealing with criminals depending on the degree of crime the individual commits."
+    ],
+    "errors": {
+        "num_error": "18",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 60,
+                "end_idx": 61,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "prison which",
+                "start_idx": 85,
+                "end_idx": 97,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "prison, which"
+                ]
+            },
+            {
+                "word": "cases while",
+                "start_idx": 309,
+                "end_idx": 320,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "cases, while"
+                ]
+            },
+            {
+                "word": "univerisities",
+                "start_idx": 448,
+                "end_idx": 461,
+                "error": "the body of faculty and students at a university",
+                "error_des": "",
+                "suggetions": [
+                    "university"
+                ]
+            },
+            {
+                "word": "pick pocket",
+                "start_idx": 588,
+                "end_idx": 599,
+                "error": "a thief who steals from the pockets or purses of others in public places",
+                "error_des": "",
+                "suggetions": [
+                    "pickpocket"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 627,
+                "end_idx": 628,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "wards",
+                "start_idx": 674,
+                "end_idx": 679,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to ward"
+                ]
+            },
+            {
+                "word": "wide spread",
+                "start_idx": 739,
+                "end_idx": 750,
+                "error": "widely circulated or diffused",
+                "error_des": "",
+                "suggetions": [
+                    "widespread"
+                ]
+            },
+            {
+                "word": "amongs",
+                "start_idx": 751,
+                "end_idx": 757,
+                "error": "in division, with shares to each",
+                "error_des": "",
+                "suggetions": [
+                    "amongst",
+                    "among"
+                ]
+            },
+            {
+                "word": "alchol",
+                "start_idx": 877,
+                "end_idx": 883,
+                "error": "a liquor or brew containing alcohol as the active agent",
+                "error_des": "",
+                "suggetions": [
+                    "alcohol"
+                ]
+            },
+            {
+                "word": "minor but",
+                "start_idx": 902,
+                "end_idx": 911,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "minor, but"
+                ]
+            },
+            {
+                "word": "they",
+                "start_idx": 954,
+                "end_idx": 958,
+                "error": "of them or themselves",
+                "error_des": "",
+                "suggetions": [
+                    "their"
+                ]
+            },
+            {
+                "word": "comes",
+                "start_idx": 987,
+                "end_idx": 992,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "come"
+                ]
+            },
+            {
+                "word": "series",
+                "start_idx": 1010,
+                "end_idx": 1016,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a series"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1165,
+                "end_idx": 1166,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 1225,
+                "end_idx": 1227,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "healthcare thereby",
+                "start_idx": 1442,
+                "end_idx": 1460,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "healthcare, thereby"
+                ]
+            },
+            {
+                "word": "commits",
+                "start_idx": 1674,
+                "end_idx": 1681,
+                "error": "a special group delegated to consider some matter",
+                "error_des": "",
+                "suggetions": [
+                    "committees"
+                ]
+            }
+        ]
+    },
+    "submitter": "How",
+    "num_words": 272,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "such",
+            "finally",
+            "therefore",
+            "for instance",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "crime",
+                "occurrences": [
+                    {
+                        "start_idx": 35,
+                        "end_idx": 40
+                    },
+                    {
+                        "start_idx": 451,
+                        "end_idx": 456
+                    },
+                    {
+                        "start_idx": 1203,
+                        "end_idx": 1208
+                    },
+                    {
+                        "start_idx": 1618,
+                        "end_idx": 1623
+                    }
+                ]
+            },
+            {
+                "word": "prison",
+                "occurrences": [
+                    {
+                        "start_idx": 81,
+                        "end_idx": 87
+                    },
+                    {
+                        "start_idx": 269,
+                        "end_idx": 275
+                    },
+                    {
+                        "start_idx": 411,
+                        "end_idx": 417
+                    },
+                    {
+                        "start_idx": 490,
+                        "end_idx": 496
+                    },
+                    {
+                        "start_idx": 748,
+                        "end_idx": 754
+                    },
+                    {
+                        "start_idx": 1319,
+                        "end_idx": 1325
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-16T19:29:19.000Z"
+}

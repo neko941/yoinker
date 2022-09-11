@@ -1,0 +1,365 @@
+{
+    "url": "https://writing9.com/text/63199840aac8660018fa47df-social-media-websites-have-amassed-large-user-bases-and-have",
+    "file": "data\\65\\63199840aac8660018fa47df.json",
+    "topics": [
+        "media",
+        "websites",
+        "user",
+        "bases",
+        "source",
+        "information",
+        "users",
+        "part",
+        "site"
+    ],
+    "question": "Social Media websites have amassed large user bases, and have become the sole source of information for their users.\nDo the advantages of being a part of a social media site outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Although, there are many sites on this internet and around the globe, people keep on using it regularly. Despite they are used majorly to connect with different humanity, cybercrimes are increasing day by day. In my opinion, social media usage is more demerits when compared to the merits.",
+        "To begin with, the great benefit of social platform is to connect and follow different individuals across the world. It provides an opportunity to humans for online friendship with anyone who is far miles away. For example - Facebook is a networking site used to chat and talk with different users by making peer. Moreover, these platforms are also helpful in searching job for professional where they can give interview through various applications and got selected. Furthermore, sites like twitter could be utilized as a platform to follow their favourite celebrities whom they admire the most.",
+        "On the other hand, there are many disadvantages of social community. The main drawback is number of crime cases are increasing day by day. Secondly, money related fraud is common in sites and much humankind can be a victim of it. Once the money is paid; they don't get any benefit from these websites. Hence, domains like these are violating the rules by cheating people financially and emotionally. Some people are committing suicides are realizing that they are betrayed which in turn leading to social unrest among various humans.",
+        "To conclude, though the user bases pertaining to social media are growing, people are suffering due to internet crimes. In my opinion, the downsides are more than the benefits in particular."
+    ],
+    "errors": {
+        "num_error": "24",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 8,
+                "end_idx": 9,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction Although. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 91,
+                "end_idx": 93,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "them"
+                ]
+            },
+            {
+                "word": "cybercrimes",
+                "start_idx": 171,
+                "end_idx": 182,
+                "error": "Correct your spelling",
+                "error_des": "The word cybercrimes doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "cyber crimes"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 278,
+                "end_idx": 282,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "social",
+                "start_idx": 327,
+                "end_idx": 333,
+                "error": "Add an article",
+                "error_des": "The noun phrase social platform seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the social"
+                ]
+            },
+            {
+                "word": "platform",
+                "start_idx": 334,
+                "end_idx": 342,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that platform may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "platforms"
+                ]
+            },
+            {
+                "word": "peer",
+                "start_idx": 599,
+                "end_idx": 603,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that peer may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "peers"
+                ]
+            },
+            {
+                "word": "searching",
+                "start_idx": 651,
+                "end_idx": 660,
+                "error": "Add an article",
+                "error_des": "The noun phrase searching job seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the searching",
+                    "a searching"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 661,
+                "end_idx": 661,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for job"
+                ]
+            },
+            {
+                "word": "job",
+                "start_idx": 661,
+                "end_idx": 664,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that job may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "jobs"
+                ]
+            },
+            {
+                "word": "professional",
+                "start_idx": 669,
+                "end_idx": 681,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that professional may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "professionals"
+                ]
+            },
+            {
+                "word": "interview",
+                "start_idx": 702,
+                "end_idx": 711,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that interview may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "interviews"
+                ]
+            },
+            {
+                "word": "got",
+                "start_idx": 745,
+                "end_idx": 748,
+                "error": "Change the verb form",
+                "error_des": "The verb got after the modal verb can does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "get"
+                ]
+            },
+            {
+                "word": "twitter",
+                "start_idx": 783,
+                "end_idx": 790,
+                "error": "Change the capitalization",
+                "error_des": "It appears that the word twitter may be a proper noun in this context. Consider capitalizing the word.",
+                "suggetions": [
+                    "Twitter"
+                ]
+            },
+            {
+                "word": "social",
+                "start_idx": 939,
+                "end_idx": 945,
+                "error": "Add an article",
+                "error_des": "The noun phrase social community seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a social",
+                    "the social"
+                ]
+            },
+            {
+                "word": "number",
+                "start_idx": 978,
+                "end_idx": 984,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase number does not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "a number",
+                    "the number"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 1000,
+                "end_idx": 1003,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb are does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "money related",
+                "start_idx": 1037,
+                "end_idx": 1050,
+                "error": "Add a hyphen",
+                "error_des": "It seems that money related is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "money-related"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 1067,
+                "end_idx": 1069,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "much ",
+                "start_idx": 1080,
+                "end_idx": 1085,
+                "error": "Correct quantifier usage",
+                "error_des": "It seems that quantifier use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "humankind",
+                "start_idx": 1085,
+                "end_idx": 1094,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of humankind"
+                ]
+            },
+            {
+                "word": "are ",
+                "start_idx": 1300,
+                "end_idx": 1304,
+                "error": "Unnecessary verb",
+                "error_des": "The verb are appears to be unnecessary here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "suicides",
+                "start_idx": 1315,
+                "end_idx": 1323,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that suicides may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "suicide"
+                ]
+            },
+            {
+                "word": "leading",
+                "start_idx": 1375,
+                "end_idx": 1382,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb leading. Consider changing it.",
+                "suggetions": [
+                    "leads"
+                ]
+            }
+        ]
+    },
+    "submitter": "jasmeetkaur2016",
+    "num_words": 264,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "in particular",
+            "on the other hand",
+            "hence",
+            "furthermore",
+            "for example",
+            "although",
+            "moreover",
+            "this",
+            "to begin",
+            "also",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "day",
+                "occurrences": [
+                    {
+                        "start_idx": 198,
+                        "end_idx": 201
+                    },
+                    {
+                        "start_idx": 205,
+                        "end_idx": 208
+                    },
+                    {
+                        "start_idx": 1014,
+                        "end_idx": 1017
+                    },
+                    {
+                        "start_idx": 1021,
+                        "end_idx": 1024
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 70,
+                        "end_idx": 76
+                    },
+                    {
+                        "start_idx": 1251,
+                        "end_idx": 1257
+                    },
+                    {
+                        "start_idx": 1292,
+                        "end_idx": 1298
+                    },
+                    {
+                        "start_idx": 1496,
+                        "end_idx": 1502
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-08T07:22:42.043Z"
+}

@@ -1,0 +1,204 @@
+{
+    "url": "https://writing9.com/text/62ed34e00562ec00182a0e9d-many-children-nowadays-are-not-interested-in-learning-history",
+    "file": "data\\55\\62ed34e00562ec00182a0e9d.json",
+    "topics": [
+        "children",
+        "history",
+        "case"
+    ],
+    "question": "Many children nowadays are not interested in learning history.  Why is it the case? What are some ways to make children more interested in this subject?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Recently, there has been a clear decrease in children\u2019s interest in studying history. In my opinion, this phenomenon is the result of various causes, which can be tackled by taking appropriate actions.",
+        "There are many reasons contributing to the ongoing phenomenon that children are losing motivation to study history. First of all, one of the causes might be due to the characteristics of history itself. History classes tend to focus on the study of facts and events from the past, which may seem very dire and boring to most students. In addition, the teaching methods of forcing students to thoroughly memorize all the detailed information does not appear to be appealing to students. Secondly, another reason is the fact that the significance of history is greatly undervalued. Most children fail to see the practical values and benefits that history can bring, they regard history as a subsidiary subject, less important than the core ones such as Math or English. And because of that mindset, most of them decide to neglect the subject without ever knowing its importance.",
+        "Fortunately, a number of solutions could be adopted in order to address the issue effectively. Firstly, teachers can try to change their manner of teaching, which can be approached by preparing the lessons to be more practical and interesting. For example, they could arrange short trips to the museum or historical sites in order to show the students a more attractive view on history, which can greatly boost their interest and motivation. Another viable solution is for teachers to help students be more aware of history\u2019s importance and its real life application. For instance, in the very first lesson, the teacher could present the younglings with a speech that not only captures the core essence of history but also explains why it is important to study history. They should also provide the students verifiable examples of how knowledge gained by studying history can prove to be useful in everyday life.",
+        "In conclusion, various measures can be taken to address the issues that are certain to arise as children are losing interest in studying history at a rapid rate."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "does",
+                "start_idx": 645,
+                "end_idx": 649,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb does does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "do"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 1457,
+                "end_idx": 1459,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1627,
+                "end_idx": 1627,
+                "error": "Add a hyphen",
+                "error_des": "It appears that real life is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "real-life"
+                ]
+            },
+            {
+                "word": "real life",
+                "start_idx": 1627,
+                "end_idx": 1636,
+                "error": "Add a hyphen",
+                "error_des": "It seems that real life is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "real-life"
+                ]
+            },
+            {
+                "word": "verifiable",
+                "start_idx": 1890,
+                "end_idx": 1900,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with verifiable"
+                ]
+            }
+        ]
+    },
+    "submitter": "nghiemthanhlg432005",
+    "num_words": 355,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "firstly",
+            "in addition",
+            "secondly",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 527,
+                        "end_idx": 535
+                    },
+                    {
+                        "start_idx": 582,
+                        "end_idx": 590
+                    },
+                    {
+                        "start_idx": 678,
+                        "end_idx": 686
+                    },
+                    {
+                        "start_idx": 1422,
+                        "end_idx": 1430
+                    },
+                    {
+                        "start_idx": 1569,
+                        "end_idx": 1577
+                    },
+                    {
+                        "start_idx": 1878,
+                        "end_idx": 1886
+                    }
+                ]
+            },
+            {
+                "word": "history",
+                "occurrences": [
+                    {
+                        "start_idx": 77,
+                        "end_idx": 84
+                    },
+                    {
+                        "start_idx": 309,
+                        "end_idx": 316
+                    },
+                    {
+                        "start_idx": 389,
+                        "end_idx": 396
+                    },
+                    {
+                        "start_idx": 750,
+                        "end_idx": 757
+                    },
+                    {
+                        "start_idx": 847,
+                        "end_idx": 854
+                    },
+                    {
+                        "start_idx": 878,
+                        "end_idx": 885
+                    },
+                    {
+                        "start_idx": 1457,
+                        "end_idx": 1464
+                    },
+                    {
+                        "start_idx": 1595,
+                        "end_idx": 1602
+                    },
+                    {
+                        "start_idx": 1785,
+                        "end_idx": 1792
+                    },
+                    {
+                        "start_idx": 1840,
+                        "end_idx": 1847
+                    },
+                    {
+                        "start_idx": 1943,
+                        "end_idx": 1950
+                    },
+                    {
+                        "start_idx": 2129,
+                        "end_idx": 2136
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-05T15:18:57.716Z"
+}

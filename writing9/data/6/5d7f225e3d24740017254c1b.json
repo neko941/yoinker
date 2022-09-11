@@ -1,0 +1,149 @@
+{
+    "url": "https://writing9.com/text/5d7f225e3d24740017254c1b",
+    "file": "data\\6\\5d7f225e3d24740017254c1b.json",
+    "topics": [
+        "enquiries",
+        "tourist",
+        "information",
+        "office",
+        "city",
+        "period"
+    ],
+    "question": "The graph below shows the number of enquiries received by the Tourist Information Office in one city over a six-month period in 2011.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "On this point graph we could see the statistics of multiple enquiries received in certain city Tourist Information Office over a half a year in 2011.",
+        "It is obvious from the data given from the diagram that the most unpopular way for people trying to connect Tourist Information office was writing an email. People who are using this type of communication with office liked winter month from January to February more to plan their holidays. We can see numbers which talking us that they are calling from 800 to 650 times a month till March and then just falling lower and lower stopped on nearly 370 calls a month.",
+        "Opposite, the most popular way to call the Tourist Office was meeting travel agent in person. The number of such customers was growing exponentially from January to June 2011. This type of people was more loyal to plan their trips in Spring or Summer what we can see represented by 1200 to 1900 meetings were placed in office from April to June.",
+        "Only the second place on took the telephone type of communication. For the all reviewed period there were many more phone calls than emails, but a little bit less than meetings in person. From all the three types of communications, enquiries received by telephone were the most homogenous distributed in time. There were not such leaps as in person meeting numbers. These customers were active quite often. But as the customers who talked with travel agent personally, they more preferred warm month to plan their holidays what we can see comparing from 800 to 1000 calls from January to April 2011 to numbers increasing to 1600 calls a month from April to June.",
+        "In conclusion, we can say that there were more customers that were interested in tourist information for Spring and summer months than winter months and most of enquiries were received by phone or in person, not by letter or email."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "numbers",
+                "start_idx": 451,
+                "end_idx": 458,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the numbers"
+                ]
+            },
+            {
+                "word": "talking",
+                "start_idx": 465,
+                "end_idx": 472,
+                "error": "very attractive; capturing interest",
+                "error_des": "",
+                "suggetions": [
+                    "taking"
+                ]
+            }
+        ]
+    },
+    "submitter": "wav.tatarskii",
+    "num_words": 324,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "then",
+            "second",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "month",
+                "occurrences": [
+                    {
+                        "start_idx": 380,
+                        "end_idx": 385
+                    },
+                    {
+                        "start_idx": 522,
+                        "end_idx": 527
+                    },
+                    {
+                        "start_idx": 607,
+                        "end_idx": 612
+                    },
+                    {
+                        "start_idx": 1454,
+                        "end_idx": 1459
+                    },
+                    {
+                        "start_idx": 1597,
+                        "end_idx": 1602
+                    },
+                    {
+                        "start_idx": 1746,
+                        "end_idx": 1751
+                    },
+                    {
+                        "start_idx": 1765,
+                        "end_idx": 1770
+                    }
+                ]
+            },
+            {
+                "word": "person",
+                "occurrences": [
+                    {
+                        "start_idx": 700,
+                        "end_idx": 706
+                    },
+                    {
+                        "start_idx": 1140,
+                        "end_idx": 1146
+                    },
+                    {
+                        "start_idx": 1302,
+                        "end_idx": 1308
+                    },
+                    {
+                        "start_idx": 1417,
+                        "end_idx": 1423
+                    },
+                    {
+                        "start_idx": 1823,
+                        "end_idx": 1829
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-16T05:49:18.081Z"
+}

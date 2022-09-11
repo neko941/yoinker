@@ -1,0 +1,131 @@
+{
+    "url": "https://writing9.com/text/5f39684158eba40018a2ab0d",
+    "file": "data\\65\\5f39684158eba40018a2ab0d.json",
+    "topics": [
+        "university",
+        "education",
+        "job",
+        "hand",
+        "people",
+        "skills"
+    ],
+    "question": "Completing university education is thought by some to be the best way to get a good job. On the other hand, other people think that getting experience and developing soft skills is more important.\nDiscuss both sides and give your opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many feel that finishing the college learning is the most important aspect in securing a job while others believe that gaining skills  with real time experience is vital. Despite of, gaining a graduate  degree will be advantageous for a prospering professional career.",
+        "On the one hand, getting on to a  job after the post secondary school definitely give a person a taste of experience at a very young age, but a career with no  graduation can limit the chances of  appraising to a higher position when compared to a person who have a university degree. For instance a survey conducted reveals that experienced employees with a college certificate grew up positions rapidly when compared to the employees with no formal degree. Even though experience can be a useful tool, but a higher  study can fetch a far better job with no tertiary education.",
+        "On the other hand, a graduate student who specialises in a particular subject will be aiming for a better job opportunity with renowned companies and a better pay. for example, Many technology giants such as Microsoft and Google  prefer to employ fresher with a  graduation  degree directly from the university  with no considerations with those lacking a formal technical study. Further more, a  better grade at college might earn a person to work in a different country if that individual is hired by a MNC.",
+        "To conclude with, it is highly recommended to have university education before starting a professional career as one with higher study and skill will always have an  upper hand for a successful profession wherein it can be acquired even after completing the education."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "for",
+                "start_idx": 1012,
+                "end_idx": 1015,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "For"
+                ]
+            },
+            {
+                "word": "Further more",
+                "start_idx": 1228,
+                "end_idx": 1240,
+                "error": "in addition",
+                "error_des": "",
+                "suggetions": [
+                    "Furthermore"
+                ]
+            }
+        ]
+    },
+    "submitter": "sreechin6571",
+    "num_words": 271,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "for instance",
+            "on the other hand",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "job",
+                "occurrences": [
+                    {
+                        "start_idx": 89,
+                        "end_idx": 92
+                    },
+                    {
+                        "start_idx": 303,
+                        "end_idx": 306
+                    },
+                    {
+                        "start_idx": 816,
+                        "end_idx": 819
+                    },
+                    {
+                        "start_idx": 954,
+                        "end_idx": 957
+                    }
+                ]
+            },
+            {
+                "word": "degree",
+                "occurrences": [
+                    {
+                        "start_idx": 203,
+                        "end_idx": 209
+                    },
+                    {
+                        "start_idx": 546,
+                        "end_idx": 552
+                    },
+                    {
+                        "start_idx": 720,
+                        "end_idx": 726
+                    },
+                    {
+                        "start_idx": 1123,
+                        "end_idx": 1129
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-08-16T17:22:17.755Z"
+}

@@ -1,0 +1,127 @@
+{
+    "url": "https://writing9.com/text/62d3bdb88ee1ab00180e2e3b-young-people-committing-crimes-should-be-treated-the-same-as",
+    "file": "data\\7\\62d3bdb88ee1ab00180e2e3b.json",
+    "topics": [
+        "people",
+        "crimes",
+        "adults",
+        "authorities"
+    ],
+    "question": "Young people committing crimes should be treated the same as adults by the authorities. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is argued that teenagers should be punished similarly to adults by the law if they commit crimes. From my perspective, I completely disagree with this statement and the following essay is going to illustrate the reasons.",
+        "There are some reasons to explain why I do not think that it is proper to treat young people as adults. To begin with, teenagers have not developed comprehensively both mentally and physically. Therefore, if they acquire severe treatments, they might not endure those punishments and resulting in serious consequences in terms of their minds and bodies. Furthermore, it is undoubted that adolescents do not possess enough judgement to identify which behaviour is right or wrong. As a result, they are easily manipulated by others to participate in some illegal events. In this circumstance, a light warning will be a precious deterrence to young people to commit crimes again.",
+        "Instead of serious treatments the same as adults, I believe that rehabilitation is more significant to younger generations due to various reasons. First of all, education plays a vital role to assist people to cultivate an appropriate personality at an early age. Rehabilitation allows young criminals to understand the reason why they should not break the law rather than pure punishments. Secondly, the expenditure spent on prison is far more expensive than spent on rehabilitation. Hence, the government can allocate more money to other areas that can benefit the whole public.",
+        "In conclusion, although some people argue that adolescents should be considered the same as adults, I believe they should be treated differently because of immature minds, bodies, and behaviours."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "resulting",
+                "start_idx": 508,
+                "end_idx": 517,
+                "error": "Change the verb form",
+                "error_des": "The verb resulting after the modal verb might does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "result"
+                ]
+            }
+        ]
+    },
+    "submitter": "wanchu.nien",
+    "num_words": 266,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "hence",
+            "as a result",
+            "furthermore",
+            "similarly",
+            "although",
+            "instead",
+            "therefore",
+            "this",
+            "to begin",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 310,
+                        "end_idx": 316
+                    },
+                    {
+                        "start_idx": 870,
+                        "end_idx": 876
+                    },
+                    {
+                        "start_idx": 1101,
+                        "end_idx": 1107
+                    },
+                    {
+                        "start_idx": 1511,
+                        "end_idx": 1517
+                    }
+                ]
+            },
+            {
+                "word": "adults",
+                "occurrences": [
+                    {
+                        "start_idx": 60,
+                        "end_idx": 66
+                    },
+                    {
+                        "start_idx": 320,
+                        "end_idx": 326
+                    },
+                    {
+                        "start_idx": 943,
+                        "end_idx": 949
+                    },
+                    {
+                        "start_idx": 1574,
+                        "end_idx": 1580
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-17T07:43:54.878Z"
+}

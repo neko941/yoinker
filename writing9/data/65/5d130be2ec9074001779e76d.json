@@ -1,0 +1,111 @@
+{
+    "url": "https://writing9.com/text/5d130be2ec9074001779e76d",
+    "file": "data\\65\\5d130be2ec9074001779e76d.json",
+    "topics": [
+        "people",
+        "it\u2019s",
+        "move",
+        "hometowns",
+        "adults",
+        "lives"
+    ],
+    "question": "Some young people believe it\u2019s best to move out of their hometowns when they become adults, while others wish to live in their hometowns their whole lives.\n\nDiscuss both sides and give your opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "One of the most difficult and important decisions a young person must make is whether to stay in their hometown, closer to family, or to move away and live in a new place. While both sides have their positive points, I would advocate for the latter option, since it is difficult to grow as a person unless you see more of the world.",
+        "When I first finished school, I opted to move to Chinatown in New York City, where I then lived for a few years. That time proved to be vital to who I have since become, largely because I had my first real exposure to cultures other than my own. Although I had certainly met people from other countries before, Chinatown was a new world to me. I learned to appreciate how widely different cultures\u2019 foods can vary, for example. Moving away also created job opportunities for me. Within a month of moving to New York, I was working as a cook in a very highly rated restaurant, which is exactly what I wanted to do. Leaving home allowed me to figure out who I wanted to be in a way that wasn\u2019t possible in my hometown.",
+        "Yet, some people are unwilling to leave home  because doing so would require giving up something very precious--a deep sense community. A few years ago, one of my boyhood friends  suffered a serious injury in a boating accident. My hometown community pitched in to help pay his medical bills and take care of some of his daily needs like cooking and grocery shopping.  This overwhelming demonstration of support is a relatively normal occurrence in my hometown.  People look out for one another, and help each other in myriad ways.  Feeling deeply connected to others is reason enough to keep many within the community as young adults.",
+        "Indeed, when I left my hometown as a teenager, I could feel my safety net had been removed from below me. It was scary, but it was exactly what I wanted at the time.  The adventure of taking risks and meeting new people has shaped my life in countless ways. That\u2019s why, for me at least, leaving my hometown was the best choice."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "below",
+                "start_idx": 1788,
+                "end_idx": 1793,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "under"
+                ]
+            }
+        ]
+    },
+    "submitter": "saminewaz",
+    "num_words": 368,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "then",
+            "for example",
+            "although",
+            "this",
+            "also",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "hometown",
+                "occurrences": [
+                    {
+                        "start_idx": 103,
+                        "end_idx": 111
+                    },
+                    {
+                        "start_idx": 1040,
+                        "end_idx": 1048
+                    },
+                    {
+                        "start_idx": 1282,
+                        "end_idx": 1290
+                    },
+                    {
+                        "start_idx": 1502,
+                        "end_idx": 1510
+                    },
+                    {
+                        "start_idx": 1709,
+                        "end_idx": 1717
+                    },
+                    {
+                        "start_idx": 1984,
+                        "end_idx": 1992
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-26T06:08:34.000Z"
+}

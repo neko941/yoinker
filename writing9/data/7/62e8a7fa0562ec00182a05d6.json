@@ -1,0 +1,156 @@
+{
+    "url": "https://writing9.com/text/62e8a7fa0562ec00182a05d6-despite-a-large-number-of-gyms-a-sedentary-lifestyle-is",
+    "file": "data\\7\\62e8a7fa0562ec00182a05d6.json",
+    "topics": [
+        "gyms",
+        "lifestyle",
+        "popularity",
+        "world"
+    ],
+    "question": "Despite a large number of gyms, a sedentary lifestyle is gaining popularity in the contemporary world.What problems are associated with this?What solutions can you suggest?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "These days, a sedentary lifestyle is becoming more and more popular despite a large number of sports facilities. This essay will discuss the main problems associated with this epidemic and propose some possible solutions to avoid them.",
+        "The main problems caused by an inactive lifestyle are obesity and various spine disorders. A growing number of body research shows that long periods of physical inactivity raise the risk of becoming overweight. This is because people burn fewer calories and easily gain weight. What\u2019s more, a lot of studies show that the so-called \u2018sitting disease\u2019 often results in posture and backbone problems. Due to constant sitting, a person loses muscle tissue and curves the spine, developing numerous spinal diseases. For example, it has been proven that about 80% of people experience backache at least once a week.",
+        "In my opinion, the best solution to these problems is to promote an active lifestyle. Firstly, millions of people stay less active because they use cars instead of walking. Therefore, an effective way to make people more active is to advertise walking and cycling as safe and attractive alternatives to motorized transport. Moreover, an inactive lifestyle is gaining popularity because nowadays, a lot of people prefer passive rest to workouts in the gym. And the best way to avoid the hazards of unhealthy living is to obtain a regular dose of physical activity. Thus, promoting gyms and regular exercising would increase the level of activity.",
+        "In conclusion, leading a sedentary lifestyle causes a lot of health problems, including obesity and spinal diseases. The most effective solution is to increase the level of fitness in society by advertising physical activity."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "shows",
+                "start_idx": 361,
+                "end_idx": 366,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb shows does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "show"
+                ]
+            }
+        ]
+    },
+    "submitter": "ockn93",
+    "num_words": 274,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "thus",
+            "for example",
+            "moreover",
+            "instead",
+            "therefore",
+            "this",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 463,
+                        "end_idx": 469
+                    },
+                    {
+                        "start_idx": 797,
+                        "end_idx": 803
+                    },
+                    {
+                        "start_idx": 953,
+                        "end_idx": 959
+                    },
+                    {
+                        "start_idx": 1055,
+                        "end_idx": 1061
+                    },
+                    {
+                        "start_idx": 1251,
+                        "end_idx": 1257
+                    }
+                ]
+            },
+            {
+                "word": "problems",
+                "occurrences": [
+                    {
+                        "start_idx": 146,
+                        "end_idx": 154
+                    },
+                    {
+                        "start_idx": 245,
+                        "end_idx": 253
+                    },
+                    {
+                        "start_idx": 624,
+                        "end_idx": 632
+                    },
+                    {
+                        "start_idx": 888,
+                        "end_idx": 896
+                    },
+                    {
+                        "start_idx": 1560,
+                        "end_idx": 1568
+                    }
+                ]
+            },
+            {
+                "word": "lifestyle",
+                "occurrences": [
+                    {
+                        "start_idx": 24,
+                        "end_idx": 33
+                    },
+                    {
+                        "start_idx": 276,
+                        "end_idx": 285
+                    },
+                    {
+                        "start_idx": 921,
+                        "end_idx": 930
+                    },
+                    {
+                        "start_idx": 1192,
+                        "end_idx": 1201
+                    },
+                    {
+                        "start_idx": 1527,
+                        "end_idx": 1536
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-02T06:31:49.001Z"
+}

@@ -1,0 +1,185 @@
+{
+    "url": "https://writing9.com/text/5e7a1e82818e9c0018e292ee",
+    "file": "data\\5\\5e7a1e82818e9c0018e292ee.json",
+    "topics": [
+        "sentence",
+        "plagiarism",
+        "ielts",
+        "change",
+        "paraphrase"
+    ],
+    "question": "This sentence is not yours, plagiarism is important in IELTS writing. So if you have read this somewhere, you should change and paraphrase it in your own words.",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Whilst a number of people argue that the old should live apart from young people and in particular area, others advocate that they should live with their children and other groups of people. There are rational arguments on both sides of this contentious topic which will be discussed in detail, followed by my own take on the matter.",
+        "On the one hand, there are those reasoning that old people should live in special society. Firstly, having weak body, old people need medical and nursing care and they need to be taken care of, whereas, in special community, the government can provide old people with better welfare services, such as health care centers and well-trained nursing staff, which is appropriate for old people. This in turn could lighten a great burden on families as well as society. Secondly, with the galloping development of economy and technology, many senior citizens will be confronting a huge problem of adjusting to the modern society. So, older generations are having trouble keeping up with the modern technologies. Therefore, being in a special society and with their friends can help them live without stress. According the recent survey, old people living with their friends and free of modern technologies exhibit less stress than their counter parts living in modern society.",
+        "On the other hand, the opposing view asserts that the old should live with their families and children. Firstly, it will certainly benefit the young generation. In fact, old generation follow rational thinking and social awakening to sort out their problems, while, new generations have overthrown traditional and conventional notions. Thus, the youth can absorb knowledge and experience from the old, which can prevent them from making detours. Secondly, old people could lend other members of their family a helping hand. For instance, the old can look after the children of a family, so, for the young seeking help from their parent helps them save the money.",
+        "To conclude, there are valid arguments on both sides of the controversy; however, it is my firm conviction that the old should be among people in one society and enjoy being with their families. In addition, the old could bring great benefits to young people and help them mentally and financially."
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "special ",
+                "start_idx": 408,
+                "end_idx": 416,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a special society"
+                ]
+            },
+            {
+                "word": "old",
+                "start_idx": 586,
+                "end_idx": 589,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "older"
+                ]
+            },
+            {
+                "word": "centers",
+                "start_idx": 647,
+                "end_idx": 654,
+                "error": "an area that is approximately central within some larger region",
+                "error_des": "",
+                "suggetions": [
+                    "centres"
+                ]
+            },
+            {
+                "word": "old",
+                "start_idx": 1165,
+                "end_idx": 1168,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "older"
+                ]
+            },
+            {
+                "word": "free",
+                "start_idx": 1206,
+                "end_idx": 1210,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "freedom"
+                ]
+            },
+            {
+                "word": "counter parts",
+                "start_idx": 1265,
+                "end_idx": 1278,
+                "error": "a person or thing having the same function or characteristics as another",
+                "error_des": "",
+                "suggetions": [
+                    "counterparts"
+                ]
+            },
+            {
+                "word": "follow",
+                "start_idx": 1491,
+                "end_idx": 1497,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "follows"
+                ]
+            },
+            {
+                "word": "lend other",
+                "start_idx": 1779,
+                "end_idx": 1789,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "lend to other"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 372,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "in particular",
+            "thus",
+            "on the other hand",
+            "for instance",
+            "such",
+            "however",
+            "in addition",
+            "therefore",
+            "this",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "society",
+                "occurrences": [
+                    {
+                        "start_idx": 416,
+                        "end_idx": 423
+                    },
+                    {
+                        "start_idx": 789,
+                        "end_idx": 796
+                    },
+                    {
+                        "start_idx": 949,
+                        "end_idx": 956
+                    },
+                    {
+                        "start_idx": 1070,
+                        "end_idx": 1077
+                    },
+                    {
+                        "start_idx": 1296,
+                        "end_idx": 1303
+                    },
+                    {
+                        "start_idx": 2118,
+                        "end_idx": 2125
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-03-24T14:51:46.684Z"
+}

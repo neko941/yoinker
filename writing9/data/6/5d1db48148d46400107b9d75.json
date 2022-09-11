@@ -1,0 +1,157 @@
+{
+    "url": "https://writing9.com/text/5d1db48148d46400107b9d75",
+    "file": "data\\6\\5d1db48148d46400107b9d75.json",
+    "topics": [
+        "computers",
+        "education",
+        "areas",
+        "teachers"
+    ],
+    "question": "Computers are increasingly used in education. In which areas do you think are computers more important and in which areas are teachers more important?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The present era is called the era of technology and computers are extensively used in all the sectors including education. With the increasing presence of computers and the Internet in education, many believe that the traditional teaching method will soon become obsolete and computer-based teaching method will become the mainstream education system. I personally believe that computer and technology without any doubt have accelerated the education system but they will never replace teachers and both computers and teachers have distinctive roles to play in education.",
+        "It is true that in some areas of education, computers could be more important than teachers. For instance, in distance learning system, a computer can become more important than a teacher. However, we must remember that teachers are still important to run the education system effectively. Second, computers are connected to a vast network called the Internet and they are better than teachers in terms of reference, research and knowledge distribution. When a teacher has knowledge on a particular course or subject, a computer connected to the Internet can offer almost any information to a student in any field of study. Again, computers can process a huge amount of data per second and thus can be more helpful to students while conducting research work or in scientific experiments. They are also more important while evaluating a student\u2019s performance. Finally, computers can be better equipped with recorded lectures and could be more helpful to students than their teachers.",
+        "On the contrary, teachers are still considered as the backbone of our education system. Computers might handle a large amount of data, assess our exam papers more accurately or connect us to the world, but they cannot teach us discipline, morality or value of time. Thus a teacher not only teaches us important lessons from academic books, they actually instil most important human qualities among us. Teachers are important to inspire students, teach them morality and all the good qualities of life where computers have almost zero contributions in doing so. Teachers are more important in explaining intricacies of academic and personal life and can become great mentors for students. Finally, their role to evaluate us and guide us in life is incomparable.",
+        "In short, I believe that computers are important in education where a large amount of data processing or automation is required while teachers are important to inspire us, guide us and infuse good qualities among us."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "system but",
+                "start_idx": 451,
+                "end_idx": 461,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "system, but"
+                ]
+            },
+            {
+                "word": "distance learning ",
+                "start_idx": 683,
+                "end_idx": 701,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "distance learning systems"
+                ]
+            }
+        ]
+    },
+    "submitter": "karan",
+    "num_words": 401,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "thus",
+            "on the contrary",
+            "second",
+            "however",
+            "finally",
+            "for instance",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 112,
+                        "end_idx": 121
+                    },
+                    {
+                        "start_idx": 185,
+                        "end_idx": 194
+                    },
+                    {
+                        "start_idx": 334,
+                        "end_idx": 343
+                    },
+                    {
+                        "start_idx": 441,
+                        "end_idx": 450
+                    },
+                    {
+                        "start_idx": 561,
+                        "end_idx": 570
+                    },
+                    {
+                        "start_idx": 605,
+                        "end_idx": 614
+                    },
+                    {
+                        "start_idx": 832,
+                        "end_idx": 841
+                    },
+                    {
+                        "start_idx": 1625,
+                        "end_idx": 1634
+                    },
+                    {
+                        "start_idx": 2368,
+                        "end_idx": 2377
+                    }
+                ]
+            },
+            {
+                "word": "system",
+                "occurrences": [
+                    {
+                        "start_idx": 344,
+                        "end_idx": 350
+                    },
+                    {
+                        "start_idx": 451,
+                        "end_idx": 457
+                    },
+                    {
+                        "start_idx": 700,
+                        "end_idx": 706
+                    },
+                    {
+                        "start_idx": 842,
+                        "end_idx": 848
+                    },
+                    {
+                        "start_idx": 1635,
+                        "end_idx": 1641
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-04T08:10:41.000Z"
+}

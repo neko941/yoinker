@@ -1,0 +1,162 @@
+{
+    "url": "https://writing9.com/text/5eb937ecf3561200186d5927-you-recently-bought-a-piece-of-equipment-for-your-kitchen",
+    "file": "data\\6\\5eb937ecf3561200186d5927.json",
+    "topics": [
+        "piece",
+        "equipment",
+        "kitchen",
+        "work",
+        "shop",
+        "action",
+        "manager"
+    ],
+    "question": "You recently bought a piece of equipment for your kitchen but it did not work. You phoned the shop but no action was taken. Write a letter to shop manager. In your letter:\n- Describe the problem with the equipment\n- explain what happened when Phoned the shop\n- say what would you like the manager to do",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "I am writing this letter to draw your attention about defaulted Microwave oven that was delivered at my doorstep.",
+        "On Monday 04-May-2020, I visited your store located in Sambaji Chowk, Ulhasnagar \u2013 421004. I was pleased with the brands of Microwave ovens at your place. Apparently, I booked Samsung 2 litre Microwave oven model number 32145. However, after delivery when tried to operate with constant temperature while preparation of cookies, our kitchen faced a short circuit. Later, another recipe was tried, which also resulted same and even worse affecting mass short circuit of apartment.",
+        "",
+        "As soon as I noticed some technical issues with the equipment, I called up at your store. Despite being my phone was put on hold, it was disconnected after 15 minutes.Furthermore, customer service agent",
+        "picked up after 4 calls, and stated strongly against replacement of valuable item.",
+        "",
+        "I would request you to look into current matter. Although a replacement of Microwave oven will be appreciated, which is need of the day. Adding to it, as said Customer is king, please respect their calls and value them.",
+        "Yours faithfully,",
+        "Rashmi Malviya"
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "about",
+                "start_idx": 65,
+                "end_idx": 70,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 115,
+                "end_idx": 117,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "same",
+                "start_idx": 549,
+                "end_idx": 553,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in same"
+                ]
+            },
+            {
+                "word": "mass",
+                "start_idx": 579,
+                "end_idx": 583,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the mass"
+                ]
+            },
+            {
+                "word": "apartment",
+                "start_idx": 601,
+                "end_idx": 610,
+                "error": "Add an article",
+                "error_des": "The noun phrase apartment seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the apartment",
+                    "an apartment"
+                ]
+            },
+            {
+                "word": "stated",
+                "start_idx": 849,
+                "end_idx": 855,
+                "error": "Correct your spelling",
+                "error_des": "The word stated doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "started"
+                ]
+            },
+            {
+                "word": "valuable",
+                "start_idx": 888,
+                "end_idx": 896,
+                "error": "Add an article",
+                "error_des": "The noun phrase valuable item seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the valuable"
+                ]
+            },
+            {
+                "word": "current",
+                "start_idx": 938,
+                "end_idx": 945,
+                "error": "Add an article",
+                "error_des": "The noun phrase current matter seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the current"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 186,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "furthermore",
+            "although",
+            "however",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "microwave",
+                "occurrences": []
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-14T10:29:58.212Z"
+}

@@ -1,0 +1,168 @@
+{
+    "url": "https://writing9.com/text/5cb615469da743185365dea8",
+    "file": "data\\65\\5cb615469da743185365dea8.json",
+    "topics": [
+        "years",
+        "man",
+        "first",
+        "moon",
+        "people",
+        "space",
+        "research",
+        "waste",
+        "money"
+    ],
+    "question": "It has been more than 40 years since man first landed on the moon. Some people think that space research is a waste of money.\nTo what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is sometimes argued that space exploration is a misspending investment. While I agree with this to some extent, I also believe that research into space can bring about some undeniable benefits to humanity.",
+        "On the one hand, there are several reasons why investing in space research is regarded as a waste of money. Admittedly, space exploration projects usually require a huge initial investment, but it is not guaranteed that there would be some fruitful findings the projects end. As a result, this would lead to some doubts on the effectiveness of these long-term research researches. In addition, a considerable amount of money spent on exploring space would put governments under a financial pressure, resulting in a national budget cuts in more urgent issues such as improving public healthcare services or enhancing education system. Admittedly, more financial resources should be diverted to medical research to find out remedies for fatal diseases like HIV and cancer, which may help to save thousands of lives in society.",
+        "On the other hand, I would argue that space exploration might have some foreseeable benefits. First, undertaking space studies would promote further technological advances as well as provide a possible means of escape should earth become uninhabitable in future, helping human beings to be less dependent on our environment and combat habitat destruction. Second, exploring space can help us to develop the capability to survive for long periods in space and even travel to other planets, which may benefit the travel industry by providing new tourist destinations and lessen the detrimental effects of overpopulation.",
+        "In conclusion, despite the disadvantages of carrying out space studies, it seems to me that the advantages are more significant."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "healthcare",
+                "start_idx": 793,
+                "end_idx": 803,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "health care"
+                ]
+            },
+            {
+                "word": "future",
+                "start_idx": 1291,
+                "end_idx": 1297,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the future"
+                ]
+            }
+        ]
+    },
+    "submitter": "khanh.linh",
+    "num_words": 279,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "on the other hand",
+            "second",
+            "as a result",
+            "further",
+            "in addition",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "research",
+                "occurrences": [
+                    {
+                        "start_idx": 135,
+                        "end_idx": 143
+                    },
+                    {
+                        "start_idx": 275,
+                        "end_idx": 283
+                    },
+                    {
+                        "start_idx": 569,
+                        "end_idx": 577
+                    },
+                    {
+                        "start_idx": 578,
+                        "end_idx": 586
+                    },
+                    {
+                        "start_idx": 910,
+                        "end_idx": 918
+                    }
+                ]
+            },
+            {
+                "word": "space",
+                "occurrences": [
+                    {
+                        "start_idx": 28,
+                        "end_idx": 33
+                    },
+                    {
+                        "start_idx": 149,
+                        "end_idx": 154
+                    },
+                    {
+                        "start_idx": 269,
+                        "end_idx": 274
+                    },
+                    {
+                        "start_idx": 329,
+                        "end_idx": 334
+                    },
+                    {
+                        "start_idx": 653,
+                        "end_idx": 658
+                    },
+                    {
+                        "start_idx": 1072,
+                        "end_idx": 1077
+                    },
+                    {
+                        "start_idx": 1147,
+                        "end_idx": 1152
+                    },
+                    {
+                        "start_idx": 1408,
+                        "end_idx": 1413
+                    },
+                    {
+                        "start_idx": 1483,
+                        "end_idx": 1488
+                    },
+                    {
+                        "start_idx": 1710,
+                        "end_idx": 1715
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-16T17:47:50.000Z"
+}

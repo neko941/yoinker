@@ -1,0 +1,240 @@
+{
+    "url": "https://writing9.com/text/62d2d3608ee1ab00180e2d36-in-some-countries-owning-a-home-rather-than-renting-one",
+    "file": "data\\55\\62d2d3608ee1ab00180e2d36.json",
+    "topics": [
+        "countries",
+        "home",
+        "people",
+        "be",
+        "case",
+        "situation"
+    ],
+    "question": "In some countries, owning a home rather than renting one is very important for people.Why might this be the case?Do you think this is a positive or negative situation?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 5.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In some countries, owning a home rather than renting one is very important for people. I think it is mainly the social reasons. At the same time, I consider it as something negative.",
+        "The reason why this situation happens is mainly because the sense of property and self-security. First of all, a home  oneself is easily considered  a symbol of personal wealth and his own asset. Additionally, a home in the past could provide a person with  a strong defence against other threats, and it became a consensus after a long period. Owning a home of someone's own can offer a strong feeling of safety which caused this phenomenon.",
+        "In my point of view, I totally agree that this is a negative situation. First of all, owning a home means nothing but a visual appearance of wealth. However, many people are seeking  it and spending a long period of their lives purchasing a home, even with debt. Debt pressure could crush a person easily for many accidental reasons, for instance, bankruptcy or losing a job. As long as they are bound to  heavy debt, they will always be under  great stress. Besides, having debt is one of the most significant reasons which is led  by the thought of owning a home with any method. Directly, debt will strongly restrict a person's creativity and energy which may lead a person to be a man who cannot do anything but earning his bread to repay the debt. This may make our society to be less creative, and a society with little creativity will strike a horrible social crisis in the end.",
+        "In summary, owning a home for oneself is a consensus based on historical reasons which is over fashioned right now. It is negative for the development of modern society which requires much more creativity and vitality than before."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": " ",
+                "start_idx": 230,
+                "end_idx": 231,
+                "error": "Replace the word",
+                "error_des": "It appears that the conjunction because is the wrong word choice after reason is. Consider changing it to that or rewriting the sentence.",
+                "suggetions": [
+                    "that"
+                ]
+            },
+            {
+                "word": "because",
+                "start_idx": 231,
+                "end_idx": 238,
+                "error": "Add the preposition",
+                "error_des": "It appears that there is a missing preposition after the word because. Consider adding a preposition.",
+                "suggetions": [
+                    "ofbecause"
+                ]
+            },
+            {
+                "word": "earning",
+                "start_idx": 1342,
+                "end_idx": 1349,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb earning. Consider changing it.",
+                "suggetions": [
+                    "earn"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 1474,
+                "end_idx": 1475,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "into"
+                ]
+            },
+            {
+                "word": "consensus based",
+                "start_idx": 1555,
+                "end_idx": 1570,
+                "error": "Add a hyphen",
+                "error_des": "It appears that consensus based is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "consensus-based"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 1599,
+                "end_idx": 1601,
+                "error": "Change the verb form",
+                "error_des": "The singular verb is does not appear to agree with the plural subject historical reasons. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "are"
+                ]
+            }
+        ]
+    },
+    "submitter": "Meow",
+    "num_words": 307,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for instance",
+            "besides",
+            "however",
+            "this",
+            "additionally",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "reasons",
+                "occurrences": [
+                    {
+                        "start_idx": 119,
+                        "end_idx": 126
+                    },
+                    {
+                        "start_idx": 951,
+                        "end_idx": 958
+                    },
+                    {
+                        "start_idx": 1137,
+                        "end_idx": 1144
+                    },
+                    {
+                        "start_idx": 1585,
+                        "end_idx": 1592
+                    }
+                ]
+            },
+            {
+                "word": "debt",
+                "occurrences": [
+                    {
+                        "start_idx": 883,
+                        "end_idx": 887
+                    },
+                    {
+                        "start_idx": 1038,
+                        "end_idx": 1042
+                    },
+                    {
+                        "start_idx": 1101,
+                        "end_idx": 1105
+                    },
+                    {
+                        "start_idx": 1218,
+                        "end_idx": 1222
+                    },
+                    {
+                        "start_idx": 1373,
+                        "end_idx": 1377
+                    }
+                ]
+            },
+            {
+                "word": "home",
+                "occurrences": [
+                    {
+                        "start_idx": 28,
+                        "end_idx": 32
+                    },
+                    {
+                        "start_idx": 296,
+                        "end_idx": 300
+                    },
+                    {
+                        "start_idx": 395,
+                        "end_idx": 399
+                    },
+                    {
+                        "start_idx": 537,
+                        "end_idx": 541
+                    },
+                    {
+                        "start_idx": 721,
+                        "end_idx": 725
+                    },
+                    {
+                        "start_idx": 867,
+                        "end_idx": 871
+                    },
+                    {
+                        "start_idx": 1186,
+                        "end_idx": 1190
+                    },
+                    {
+                        "start_idx": 1533,
+                        "end_idx": 1537
+                    }
+                ]
+            },
+            {
+                "word": "person",
+                "occurrences": [
+                    {
+                        "start_idx": 344,
+                        "end_idx": 350
+                    },
+                    {
+                        "start_idx": 428,
+                        "end_idx": 434
+                    },
+                    {
+                        "start_idx": 917,
+                        "end_idx": 923
+                    },
+                    {
+                        "start_idx": 1248,
+                        "end_idx": 1254
+                    },
+                    {
+                        "start_idx": 1296,
+                        "end_idx": 1302
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-16T15:06:30.186Z"
+}

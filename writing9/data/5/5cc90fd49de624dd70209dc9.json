@@ -1,0 +1,121 @@
+{
+    "url": "https://writing9.com/text/5cc90fd49de624dd70209dc9",
+    "file": "data\\5\\5cc90fd49de624dd70209dc9.json",
+    "topics": [
+        "someone"
+    ],
+    "question": "Describe when someone gave you something you really wanted.",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "I am not used to getting presents as such. I am quite a big gamer to be honest and my Xbox was running on borrowed days. It would leave me fuming at times as it\u2019ll hang in the middle of the game and at times, I am not even able to save the session before it turns off. I broke my Xbox and got bored of the Microsoft platform so I was looking to get the latest version of PS4. I did save some money and was looking for the best possible deals to get a new gaming device but budget constraints and student life made it quite difficult to own such a high end gadget.",
+        "As I said I am not used to receiving gifts so it has to be a very special occasion for one to spoil me. We share a special bond and she generally leaves the best of the surprises for my birthday. I was turning 22 just graduated out of college and about to move abroad for further studies. I wouldn\u2019t be able to celebrate the next two birthdays with her due to study commitments so she thought of doing something special for me.",
+        "My sister must have heard the conversation I was having with my friend regarding it and decided to get me a PS4 on my birthday. Little did I know that I\u2019ll be getting that as a present rather than buying it myself. I was reading and gathering information about it on a daily basis. I was looking for the best deals online and even arranged for some vouchers that I could have redeemed against the purchase.",
+        "I was over the moon. Happiness like that cannot be expressed in words. She went the extra yard to make my birthday so special and what was even more overwhelming was the manner in which she surprised me. My friend called me and asked me to get home as soon as possible. When I got home, I was surprised to see entire family and friends gathered together to celebrate my birthday. We had a great time together and danced all night to some great tunes.",
+        "(360 Words)"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "device but",
+                "start_idx": 463,
+                "end_idx": 473,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "device, but"
+                ]
+            },
+            {
+                "word": "birthday so",
+                "start_idx": 1506,
+                "end_idx": 1517,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "birthday, so"
+                ]
+            },
+            {
+                "word": "entire family",
+                "start_idx": 1710,
+                "end_idx": 1723,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the entire family",
+                    "an entire family"
+                ]
+            }
+        ]
+    },
+    "submitter": "ashwin",
+    "num_words": 362,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "further",
+            "next",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "birthday",
+                "occurrences": [
+                    {
+                        "start_idx": 750,
+                        "end_idx": 758
+                    },
+                    {
+                        "start_idx": 898,
+                        "end_idx": 906
+                    },
+                    {
+                        "start_idx": 1110,
+                        "end_idx": 1118
+                    },
+                    {
+                        "start_idx": 1505,
+                        "end_idx": 1513
+                    },
+                    {
+                        "start_idx": 1769,
+                        "end_idx": 1777
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-01T03:17:40.000Z"
+}

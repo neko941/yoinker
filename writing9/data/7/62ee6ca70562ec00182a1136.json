@@ -1,0 +1,142 @@
+{
+    "url": "https://writing9.com/text/62ee6ca70562ec00182a1136-today-the-expensive-price-of-popular-consumer-products-is-because",
+    "file": "data\\7\\62ee6ca70562ec00182a1136.json",
+    "topics": [
+        "price",
+        "consumer",
+        "products",
+        "power",
+        "people"
+    ],
+    "question": "Today, the expensive price of popular consumer products is because of the power of advertising and not the real needs of people. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, it is thought that the price tags of trending customer goods are higher than ordinary ones and the major reason for this is not the actual needs of the public but advertisements. In this essay, the factors why this belief is true will be discussed while putting forward my own ideas.",
+        "First of all, it is no need to mention that most advertisements exaggerate their products' qualities and therefore, can influence people's emotions. This means that advertisements have the ultimate ability to persuade people's minds with a form of lying. For example, in the household goods advertising method, producers not only mention the quality beyond their goods' actual limit but also add positive consequences that can be garnered although we know that it is impossible. Nevertheless, the public is likely to end up buying one despite the fact that it is unnecessary. As a result, the demand is automatically made thanks to advertising and hence, price tags fall into producers' hands and can be manipulated freely.",
+        "Secondly, the costs involved in advertising process should also be taken into consideration. Today's advertisements are set in exotic places as well as accompanied by world's famous actors and actresses. Therefore, the price to pay (that is hiring popular persons, going to remote areas where breathtaking sceneries exist and so on) must be costly. Hence, it is wise to think that these extra costs are added to the price tag, making it more expensive.",
+        "In conclusion, I would argue that most people buy good-for-nothing products regardless of expensive prices due to advertising. Therefore, I am in strong agreement with this view."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "advertising",
+                "start_idx": 1050,
+                "end_idx": 1061,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the advertising"
+                ]
+            },
+            {
+                "word": "persons",
+                "start_idx": 1274,
+                "end_idx": 1281,
+                "error": "Replace the word",
+                "error_des": "The word persons doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "people"
+                ]
+            }
+        ]
+    },
+    "submitter": "tr.zarwaihnin",
+    "num_words": 268,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "hence",
+            "as a result",
+            "that is",
+            "nevertheless",
+            "for example",
+            "although",
+            "therefore",
+            "this",
+            "also",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "advertisements",
+                "occurrences": [
+                    {
+                        "start_idx": 173,
+                        "end_idx": 187
+                    },
+                    {
+                        "start_idx": 343,
+                        "end_idx": 357
+                    },
+                    {
+                        "start_idx": 459,
+                        "end_idx": 473
+                    },
+                    {
+                        "start_idx": 1119,
+                        "end_idx": 1133
+                    }
+                ]
+            },
+            {
+                "word": "price",
+                "occurrences": [
+                    {
+                        "start_idx": 33,
+                        "end_idx": 38
+                    },
+                    {
+                        "start_idx": 949,
+                        "end_idx": 954
+                    },
+                    {
+                        "start_idx": 1237,
+                        "end_idx": 1242
+                    },
+                    {
+                        "start_idx": 1434,
+                        "end_idx": 1439
+                    },
+                    {
+                        "start_idx": 1571,
+                        "end_idx": 1576
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-06T13:29:13.375Z"
+}

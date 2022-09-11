@@ -1,0 +1,106 @@
+{
+    "url": "https://writing9.com/text/5d697c092d9349001790b41c",
+    "file": "data\\6\\5d697c092d9349001790b41c.json",
+    "topics": [
+        "people",
+        "background",
+        "cities",
+        "search",
+        "work",
+        "consequences",
+        "offer"
+    ],
+    "question": "People are migrating away from agricultural background to cities in search for work.\nWhat will be consequences of this? What solutions can you offer?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In most of the rural areas, work opportunities are fewer compared to the opportunities in the big cities. This causes people to move permanently from their agricultural background to the cities searching for work which causes several problems.",
+        "Firstly, the number of city citizens increases tremendously. This causes the decrease in natural resources that can suffice everyone which in turn increases their prices. Moreover, the cities become very crowded due to the usage of more vehicles and transportation. This also causes more pollution and worse life conditions to live in. Furthermore, the agricultural field will suffer from a shortage in workers, resulting in the need to import different vegetables and fruits from other countries.",
+        "These problems can be solved by different ways. Firstly, companies should consider opening branches in the rural areas offering specific job opportunities to the people. This would allow them to have a good job without the need to travel to another city. Additionally, agricultural work should be rewarded with more money, which allows people to stay in their countries and lead a good lifestyle simultaneously. Finally, awareness campaigns have to be established to make people in the city realize the importance of farmers causing the city citizens to support them and buy their local products.",
+        "In conclusion, the migration of farmers to the cities can have various consequences. However, by applying the aforementioned solution, this problem can be solved."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 644,
+                "end_idx": 646,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            }
+        ]
+    },
+    "submitter": "mariam.m.fouad13",
+    "num_words": 233,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "furthermore",
+            "moreover",
+            "however",
+            "finally",
+            "this",
+            "additionally",
+            "also",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "city",
+                "occurrences": [
+                    {
+                        "start_idx": 267,
+                        "end_idx": 271
+                    },
+                    {
+                        "start_idx": 991,
+                        "end_idx": 995
+                    },
+                    {
+                        "start_idx": 1228,
+                        "end_idx": 1232
+                    },
+                    {
+                        "start_idx": 1279,
+                        "end_idx": 1283
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-30T19:42:01.184Z"
+}

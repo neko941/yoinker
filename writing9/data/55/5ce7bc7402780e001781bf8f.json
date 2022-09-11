@@ -1,0 +1,169 @@
+{
+    "url": "https://writing9.com/text/5ce7bc7402780e001781bf8f",
+    "file": "data\\55\\5ce7bc7402780e001781bf8f.json",
+    "topics": [
+        "immigration",
+        "impact",
+        "society",
+        "consequences"
+    ],
+    "question": "Immigration has a major impact on the society. What are the main reasons of immigration? To what consequences can it lead?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Immigrant issue has become major problem in many countries. The discussion on what cause immigration continuously occurs and what effects this issue has posed to society still unsettled. This essay will be elaborated on the main reasons and consequences of immigration.",
+        "One of the most possible theories that explains why people need to flee from their homelands is a desire to have a better life. Better quality of life can be divided into many aspects, but the most mentioned explanations are greater life opportunities and personal safety. For those who are facing dead ends in expanding life possibilities, leaving the country seems to be a fresh start for them. For instance, many retired European fly to spend the rest of their lives in Asian countries, where the living cost is much cheaper than their origins. Furthermore, many countries have been facing wars, financial crisis, or natural disaster. These hardships leave people with no choices but to leave their place of birth to find a place that can give them peace and safety.",
+        "Undeniably, destination countries are those who directly affected by this event. Issues, such as language barrier and cultural differences, may arise due to the immigrants coming from completely different backgrounds. Moreover, having more people to take care means that destination countries have to spend more money to facilitate them. Because of that, they will have less money to develop other parts of country.",
+        "To conclude, an urge for seeking happiness and stability in life is the root cause of immigration. Consequently, the nations that are open for immigrants then need to spend more resources in order to take care of them properly. Under these circumstances, each country should be aware of their readiness before hands any supports to the immigrants. Meanwhile, the immigrants should also prepare themselves enough to adapt with the new country, before leaving their homelands."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "major problem",
+                "start_idx": 27,
+                "end_idx": 40,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a major problem"
+                ]
+            },
+            {
+                "word": "country",
+                "start_idx": 1449,
+                "end_idx": 1456,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the country"
+                ]
+            },
+            {
+                "word": "are open for immigrants ",
+                "start_idx": 1589,
+                "end_idx": 1613,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "then open for immigrants need",
+                    "are open for immigrants then need"
+                ]
+            },
+            {
+                "word": "supports",
+                "start_idx": 1779,
+                "end_idx": 1787,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "support"
+                ]
+            },
+            {
+                "word": "with",
+                "start_idx": 1880,
+                "end_idx": 1884,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to"
+                ]
+            }
+        ]
+    },
+    "submitter": "pupitcha",
+    "num_words": 310,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "for instance",
+            "then",
+            "consequently",
+            "furthermore",
+            "moreover",
+            "this",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "country",
+                "occurrences": [
+                    {
+                        "start_idx": 623,
+                        "end_idx": 630
+                    },
+                    {
+                        "start_idx": 1447,
+                        "end_idx": 1454
+                    },
+                    {
+                        "start_idx": 1716,
+                        "end_idx": 1723
+                    },
+                    {
+                        "start_idx": 1890,
+                        "end_idx": 1897
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 392,
+                        "end_idx": 396
+                    },
+                    {
+                        "start_idx": 416,
+                        "end_idx": 420
+                    },
+                    {
+                        "start_idx": 503,
+                        "end_idx": 507
+                    },
+                    {
+                        "start_idx": 591,
+                        "end_idx": 595
+                    },
+                    {
+                        "start_idx": 1516,
+                        "end_idx": 1520
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-24T09:42:12.000Z"
+}

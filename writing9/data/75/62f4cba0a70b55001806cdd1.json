@@ -1,0 +1,159 @@
+{
+    "url": "https://writing9.com/text/62f4cba0a70b55001806cdd1-homelessness-is-increasing-in-many-major-cities-around-the-world-what",
+    "file": "data\\75\\62f4cba0a70b55001806cdd1.json",
+    "topics": [
+        "homelessness",
+        "cities",
+        "world",
+        "measures"
+    ],
+    "question": "Homelessness is increasing in many major cities around the world.What do you think are the main causes of this problem and what measures could be taken to solve it?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "As a result of the housing crisis and unemployment, metropolises across the world are full of homeless people. Even though governments are solving the crisis by, for example, banning benches, subsidising housing and encouraging homeless people to live in  rural areas would be more beneficial.",
+        "First of all, homelessness is one of the main consequences arising from the housing crisis. To clarify, the rents are growing unproportionally fast compared to the medium income growth. Notwithstanding, even when this unequal growth doesn't threaten the middle or upper classes, individuals working for a minimum wage are no longer capable of renting a decent apartment. Furthermore, the other cause of homelessness is the unemployment crisis. Therefore, both the people with a minimum wage and without jobs at all are threatened by the expensive rents of flats and apartments. As a result of not being able to pay for it, people have to live on the streets.",
+        "Nevertheless, measures to reduce homelessness are available. One of the main solutions is inviting homeless people to leave the city in favour of rural areas, where a variety of cheap houses and jobs are available. Hence, people can work in agriculture for a decent wage and get on their own feet. Besides, the other crucial measure is subsidised housing. Take for example, Berlin and other major cities municipalities are starting to take the initiative to reduce the apartments' rents and prices artificially in order to make the living in metropolises economically safe.",
+        "To conclude, I believe that despite the fact that homelessness is a major problem in huge cities, countermeasures are possible. In order to battle  unemployment, the change of one's living place to a rural area is beneficial. Moreover, the current housing crisis can be resolved with a municipality's actions to reduce the prices."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "for",
+                "start_idx": 1314,
+                "end_idx": 1317,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter for example. Consider adding the comma(s).",
+                "suggetions": [
+                    ",for"
+                ]
+            }
+        ]
+    },
+    "submitter": "rytassakas",
+    "num_words": 298,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "hence",
+            "as a result",
+            "nevertheless",
+            "furthermore",
+            "for example",
+            "besides",
+            "moreover",
+            "therefore",
+            "this",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "crisis",
+                "occurrences": [
+                    {
+                        "start_idx": 27,
+                        "end_idx": 33
+                    },
+                    {
+                        "start_idx": 151,
+                        "end_idx": 157
+                    },
+                    {
+                        "start_idx": 378,
+                        "end_idx": 384
+                    },
+                    {
+                        "start_idx": 730,
+                        "end_idx": 736
+                    },
+                    {
+                        "start_idx": 1783,
+                        "end_idx": 1789
+                    }
+                ]
+            },
+            {
+                "word": "homelessness",
+                "occurrences": [
+                    {
+                        "start_idx": 308,
+                        "end_idx": 320
+                    },
+                    {
+                        "start_idx": 697,
+                        "end_idx": 709
+                    },
+                    {
+                        "start_idx": 986,
+                        "end_idx": 998
+                    },
+                    {
+                        "start_idx": 1577,
+                        "end_idx": 1589
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 103,
+                        "end_idx": 109
+                    },
+                    {
+                        "start_idx": 237,
+                        "end_idx": 243
+                    },
+                    {
+                        "start_idx": 758,
+                        "end_idx": 764
+                    },
+                    {
+                        "start_idx": 917,
+                        "end_idx": 923
+                    },
+                    {
+                        "start_idx": 1061,
+                        "end_idx": 1067
+                    },
+                    {
+                        "start_idx": 1175,
+                        "end_idx": 1181
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-11T09:29:24.506Z"
+}

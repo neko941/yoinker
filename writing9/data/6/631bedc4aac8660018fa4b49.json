@@ -1,0 +1,165 @@
+{
+    "url": "https://writing9.com/text/631bedc4aac8660018fa4b49-some-people-think-that-the-increase-in-international-travel-has",
+    "file": "data\\6\\631bedc4aac8660018fa4b49.json",
+    "topics": [
+        "people",
+        "travel",
+        "impact",
+        "environment"
+    ],
+    "question": "Some people think that the increase in international travel has a negative impact on the environment and should be restricted.To what extent do you agree or disagree with this opinion?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It goes without saying that the amount of international trips has increased, because modern nation have more possibilities to travel as they started to earn more money. People\u2019s opinions differ, as to whether international flying should be restricted due to the negative impact on the environment, while others don\u2019t see any problem in it. Personally, I believe that international travel imposes some risks on the surroundings, but those effects can be mitigated.",
+        "To begin with, we know that the ecological situation in the world is getting worse and worse, and, of course, partly it happens because of the fact that the number of flights has skyrocketed if we compare it with those 50 years ago. There has been researching by environmentalists that the amount of pollution emitted by aeroplanes.  In addition, mankind is getting more and more capricious they are not satisfied with just ancient architecture, they want something unique in places that are vital eco-system, especially those fragile areas like Antarctica. That is why many folks opt for restricting international flights. Moreover. it has an effect on nature surrounding and dwellers who live near the airport such as noise pollution and air pollution. On the other hand, another reason that affects the environment is most travellers generate waste, which has a deep impact on the local urban image. They are ignorant and do not respect the rule of the place they visit. For instance, some people who live near the seaside have often complained that visitors who come to the beach leave some waste food and plastic bottles in the sand.",
+        "In my opinion, as people are used to travelling it will be very difficult to restrict international flights, and it will affect greatly tourist business, and tourists will lose jobs.  I think that we should better try to find other solutions by explaining the impact of the flight on tourism so they can choose to travel by train, and as it has become more comfortable \\ faster and convenient, it will reduce any threats to the environment.",
+        "In conclusion, there are risks to the environment from increased international tourism, but such travel is important and any risks can be offset by different measures."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 75,
+                "end_idx": 76,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker because. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "nation",
+                "start_idx": 92,
+                "end_idx": 98,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that nation may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "nations"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 333,
+                "end_idx": 335,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "researching",
+                "start_idx": 715,
+                "end_idx": 726,
+                "error": "Replace the word",
+                "error_des": "The word researching doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "research"
+                ]
+            }
+        ]
+    },
+    "submitter": "riveraeka55",
+    "num_words": 365,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the other hand",
+            "moreover",
+            "in addition",
+            "that is",
+            "for instance",
+            "to begin",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "travel",
+                "occurrences": [
+                    {
+                        "start_idx": 126,
+                        "end_idx": 132
+                    },
+                    {
+                        "start_idx": 381,
+                        "end_idx": 387
+                    },
+                    {
+                        "start_idx": 1290,
+                        "end_idx": 1296
+                    },
+                    {
+                        "start_idx": 1640,
+                        "end_idx": 1646
+                    },
+                    {
+                        "start_idx": 1917,
+                        "end_idx": 1923
+                    },
+                    {
+                        "start_idx": 2141,
+                        "end_idx": 2147
+                    }
+                ]
+            },
+            {
+                "word": "environment",
+                "occurrences": [
+                    {
+                        "start_idx": 285,
+                        "end_idx": 296
+                    },
+                    {
+                        "start_idx": 727,
+                        "end_idx": 738
+                    },
+                    {
+                        "start_idx": 1270,
+                        "end_idx": 1281
+                    },
+                    {
+                        "start_idx": 2031,
+                        "end_idx": 2042
+                    },
+                    {
+                        "start_idx": 2082,
+                        "end_idx": 2093
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-10T01:52:05.930Z"
+}

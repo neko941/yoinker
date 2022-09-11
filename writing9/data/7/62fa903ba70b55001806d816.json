@@ -1,0 +1,171 @@
+{
+    "url": "https://writing9.com/text/62fa903ba70b55001806d816-food-travels-thousands-of-miles-from-producers-to-consumers-some",
+    "file": "data\\7\\62fa903ba70b55001806d816.json",
+    "topics": [
+        "food",
+        "thousands",
+        "miles",
+        "producers",
+        "consumers",
+        "people",
+        "environment",
+        "economy",
+        "farmers"
+    ],
+    "question": "Food travels thousands of miles from producers to consumers. Some people think that it would be better for the environment and economy if people only ate the local food produced by farmers. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays it is absolutely normal for food to be one of the biggest components in the global trade. This hasn't always been the case, and today some members of the public call for significantly reducing the volume of transferred food, or even eliminating the food trade completely, due to both environmental and economic concerns. While it is true that in some cases it is better for everyone to shorten the logistic chains, I disagree with the end objective of cancelling the global provision market.",
+        "First, there is totally no doubt that it only helps the economic development if the range of goods that consumers can buy stays as wide as possible. At the same time, any attempts to impose restrictions or limits on what can be imported never lead to anything but market disbalance and lower satisfaction of the buyers, which consequently hurts both small and big businesses. As an example, in Russia importing food from the European Union was forbidden in 2014, which became one of the main reasons of the economy slowdown that followed.",
+        "Second, although the environmental aspect at least deserves a discussion, it is also not a good reason to stop buying and selling food globally. Unlike a few decades ago, today there is a big variety of sustainable approaches to transport cargo. If the regulations are properly followed by all parties that participate in trade processes, the resulting total impact on the environment could be even lower than in the case of short logistic chains with inefficient local producers, such as farmers. Especially that, for instance, small producers often don't have access to modern vehicles that reduce carbon emissions.",
+        "In conclusion, claims that it would be better for everyone to return to only consuming locally produced food, are rather baseless. The negative consequences of the potential cancellation of the global food trade would outweigh the positive ones. And most importantly, there are ways to keep the provision logistic chains both efficient and sustainable."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 78,
+                "end_idx": 80,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 81,
+                "end_idx": 85,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 1001,
+                "end_idx": 1003,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "economy",
+                "start_idx": 1008,
+                "end_idx": 1015,
+                "error": "Replace the word",
+                "error_des": "The word economy doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "economic"
+                ]
+            }
+        ]
+    },
+    "submitter": "chugreevd",
+    "num_words": 328,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "second",
+            "for instance",
+            "consequently",
+            "although",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 37,
+                        "end_idx": 41
+                    },
+                    {
+                        "start_idx": 228,
+                        "end_idx": 232
+                    },
+                    {
+                        "start_idx": 258,
+                        "end_idx": 262
+                    },
+                    {
+                        "start_idx": 912,
+                        "end_idx": 916
+                    },
+                    {
+                        "start_idx": 1170,
+                        "end_idx": 1174
+                    },
+                    {
+                        "start_idx": 1762,
+                        "end_idx": 1766
+                    },
+                    {
+                        "start_idx": 1859,
+                        "end_idx": 1863
+                    }
+                ]
+            },
+            {
+                "word": "trade",
+                "occurrences": [
+                    {
+                        "start_idx": 92,
+                        "end_idx": 97
+                    },
+                    {
+                        "start_idx": 263,
+                        "end_idx": 268
+                    },
+                    {
+                        "start_idx": 1362,
+                        "end_idx": 1367
+                    },
+                    {
+                        "start_idx": 1864,
+                        "end_idx": 1869
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-15T18:28:12.706Z"
+}

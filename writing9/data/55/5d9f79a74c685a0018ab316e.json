@@ -1,0 +1,143 @@
+{
+    "url": "https://writing9.com/text/5d9f79a74c685a0018ab316e",
+    "file": "data\\55\\5d9f79a74c685a0018ab316e.json",
+    "topics": [
+        "people",
+        "streets",
+        "neighbourhood",
+        "residents\u2019",
+        "responsibility",
+        "government\u2019s",
+        "duty"
+    ],
+    "question": "Many people believe that in order to have clean and tidy streets in their neighbourhood, this should be the residents\u2019 responsibility, while others think it should be the government\u2019s duty. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Most individuals belong to the school of thought that, in order to ensure cleanliness and tidiness in their environment, it\u2019s the responsibility of the inhabitant, others, however, believe it is a government responsibility. In my opinion, I believe government should be responsible for the tidiness as this will create employment opportunity and also improve the economy of the country.",
+        "On the one hand, some people think that government should be responsible and I agree as this will create more jobs for the citizens and by so doing it will increase their earning power. Furthermore, it will also boost the economy of the country as government will charge taxes based on the income of its workers, which in return can be used in the infrastructural development of the nation",
+        "On the other hand, some are also opine that individuals should be able to cater for the cleanliness of their immediate environment because residents feels the consequences more if they fail to clean their environment, as it opens the inhabitants to a huge health hazard. For Instance, World Health organization (WHO) statistics in 2017 reported that most families suffering from Cholera and typhoid fever and a host of other ailments are due to the uncleanliness in their immediate environment and it can also leads to death if it's not quickly and effectively managed.",
+        "In conclusion, while people may vary in their opinion, I believe that it\u2019s the governing body responsibility to adhere to the maintenance and tidiness of the streets, as this will help reduce unemployment rate in the society and also boost the nation\u2019s per-capital income."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "infrastructural",
+                "start_idx": 736,
+                "end_idx": 751,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "opine",
+                "start_idx": 812,
+                "end_idx": 817,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "opinions"
+                ]
+            },
+            {
+                "word": "leads",
+                "start_idx": 1289,
+                "end_idx": 1294,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "lead"
+                ]
+            }
+        ]
+    },
+    "submitter": "oluwafemidavid",
+    "num_words": 265,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "on the other hand",
+            "for instance",
+            "furthermore",
+            "however",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 197,
+                        "end_idx": 207
+                    },
+                    {
+                        "start_idx": 249,
+                        "end_idx": 259
+                    },
+                    {
+                        "start_idx": 427,
+                        "end_idx": 437
+                    },
+                    {
+                        "start_idx": 635,
+                        "end_idx": 645
+                    }
+                ]
+            },
+            {
+                "word": "environment",
+                "occurrences": [
+                    {
+                        "start_idx": 108,
+                        "end_idx": 119
+                    },
+                    {
+                        "start_idx": 896,
+                        "end_idx": 907
+                    },
+                    {
+                        "start_idx": 982,
+                        "end_idx": 993
+                    },
+                    {
+                        "start_idx": 1259,
+                        "end_idx": 1270
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-10T18:34:15.524Z"
+}

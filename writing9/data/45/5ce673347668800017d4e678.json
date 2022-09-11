@@ -1,0 +1,343 @@
+{
+    "url": "https://writing9.com/text/5ce673347668800017d4e678-topic-you-recently-receiy-a-letter-from-a-friend-asking",
+    "file": "data\\45\\5ce673347668800017d4e678.json",
+    "topics": [
+        "topic",
+        "receiy",
+        "friend",
+        "advice",
+        "college",
+        "job",
+        "\u2022say",
+        "\u2022explain",
+        "\u2022suggest",
+        "type"
+    ],
+    "question": "Topic:- you recently receiy a letter from a friend asking for advice about whether to go to college or to try to get a job.you think he/she should get a job.\nWrite a letter to this friend .IN your letter\n\u2022say why he/she would not enjoy going to college \n\u2022explain why getting a job is a good for him/her\n\u2022suggest type of job that would be suitable for him/her",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 5.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 6.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear John",
+        "I have received your letter in which you were asking me to reply with the advice whether to go to college or try to get a job,I am glad that you have expressed faith in me to suggest you something in this crucial decision so,accordingly i would suggest you to do job and will explain you the reason why.",
+        "firstly,i would like to explain you the disadvantages,i think you would not enjoy to go college as there many students tend to come for the parties only not for studies. secondly, college would be charging huge fees as you haven\u2019t given their entrance exam, hence you would be wasting your time and money.",
+        "On the another hand, advantage to do job is you would be explore to the working environment with differently aged and experienced people however buy earning money you would get the value of money and be self dependent.",
+        "Lastly, i would like to suggest you the job options as you are assiduous with excellent communication skill it is advisable to do job at call centres and receptions and broaden your horizon.",
+        "Good luck"
+    ],
+    "errors": {
+        "num_error": "24",
+        "error_list": [
+            {
+                "word": "accordingly",
+                "start_idx": 235,
+                "end_idx": 246,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase accordingly. Consider adding a comma.",
+                "suggetions": [
+                    ",accordingly"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 247,
+                "end_idx": 248,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 267,
+                "end_idx": 270,
+                "error": "Remove the particle",
+                "error_des": "The verb do appears to be in the subjunctive mood. Consider removing the particle to.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "job",
+                "start_idx": 273,
+                "end_idx": 276,
+                "error": "Add an article",
+                "error_des": "The noun phrase job seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the job",
+                    "a job"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 323,
+                "end_idx": 324,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "you",
+                "start_idx": 347,
+                "end_idx": 350,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to you"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 369,
+                "end_idx": 370,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "to go",
+                "start_idx": 397,
+                "end_idx": 402,
+                "error": "Change the verb form",
+                "error_des": "The verb go is usually in the gerund form when following the word enjoy. Consider replacing it with the -ing form.",
+                "suggetions": [
+                    "going"
+                ]
+            },
+            {
+                "word": "there",
+                "start_idx": 414,
+                "end_idx": 419,
+                "error": "Replace the word",
+                "error_des": "The word there may be used incorrectly. Review the following notes to determine the appropriate usage for your context.",
+                "suggetions": [
+                    "their"
+                ]
+            },
+            {
+                "word": "many",
+                "start_idx": 420,
+                "end_idx": 424,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "are many"
+                ]
+            },
+            {
+                "word": "tend",
+                "start_idx": 434,
+                "end_idx": 438,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "who tend"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 447,
+                "end_idx": 450,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 451,
+                "end_idx": 455,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 625,
+                "end_idx": 629,
+                "error": "Remove the article",
+                "error_des": "It is unlikely that your sentence needs the article the before another. Consider deleting the article.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "another",
+                "start_idx": 629,
+                "end_idx": 636,
+                "error": "Correct quantifier usage",
+                "error_des": "It seems that quantifier use may be incorrect here.",
+                "suggetions": [
+                    "other"
+                ]
+            },
+            {
+                "word": "job",
+                "start_idx": 659,
+                "end_idx": 662,
+                "error": "Add an article",
+                "error_des": "The noun phrase job seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the job"
+                ]
+            },
+            {
+                "word": "be explore",
+                "start_idx": 676,
+                "end_idx": 686,
+                "error": "Change the verb form",
+                "error_des": "It appears that the form of the verb explore does not work with be in this sentence.",
+                "suggetions": [
+                    "be explored"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 687,
+                "end_idx": 690,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "buy",
+                "start_idx": 767,
+                "end_idx": 770,
+                "error": "Correct your spelling",
+                "error_des": "The word buy doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "by"
+                ]
+            },
+            {
+                "word": "self dependent",
+                "start_idx": 825,
+                "end_idx": 839,
+                "error": "Add a hyphen",
+                "error_des": "It appears that self dependent is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "self-dependent"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 850,
+                "end_idx": 851,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "you",
+                "start_idx": 874,
+                "end_idx": 877,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to you"
+                ]
+            },
+            {
+                "word": "skill",
+                "start_idx": 944,
+                "end_idx": 949,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that skill may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "skills"
+                ]
+            },
+            {
+                "word": "job",
+                "start_idx": 972,
+                "end_idx": 975,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a job"
+                ]
+            }
+        ]
+    },
+    "submitter": "naresh",
+    "num_words": 187,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "hence",
+            "lastly",
+            "however",
+            "this",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "job",
+                "occurrences": [
+                    {
+                        "start_idx": 132,
+                        "end_idx": 135
+                    },
+                    {
+                        "start_idx": 273,
+                        "end_idx": 276
+                    },
+                    {
+                        "start_idx": 657,
+                        "end_idx": 660
+                    },
+                    {
+                        "start_idx": 879,
+                        "end_idx": 882
+                    },
+                    {
+                        "start_idx": 969,
+                        "end_idx": 972
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-12T14:47:26.356Z"
+}

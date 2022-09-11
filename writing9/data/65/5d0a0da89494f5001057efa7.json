@@ -1,0 +1,157 @@
+{
+    "url": "https://writing9.com/text/5d0a0da89494f5001057efa7",
+    "file": "data\\65\\5d0a0da89494f5001057efa7.json",
+    "topics": [
+        "countries",
+        "world",
+        "people",
+        "clothes",
+        "hair",
+        "styles",
+        "fashion",
+        "development"
+    ],
+    "question": "In many countries in the world people buy clothes and choose hair styles according to latest fashion.\nWhy is this happening?\nIs this a positive or a negative development?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Worldwide, it has been observed that people make their hair and purchase outfits according to current fashion. One of the reasons for this is because of the insatiable need to look different and stand out hence, the constant update in fashion.",
+        "Fashion, which is a popular style of hair or clothes, is constantly updated and therefore, people crave to make the lastest hairdos and buy outfits that are in vogue in other to be unique, but most importantly, to be admired. For instance, the survey that was carried out on attendees of the 2017 Fashion Week revealed that 95% purchased lastest clothes to beautify themselves so as to stand out. Consequently, the fashion industry keeps evolving so not to default.",
+        "The choice to keep up with the lastest hairstyles and clothes is advantageous to countries. Asides the obvious fact that this trend has created employment opportunities, that is, many people turn to fashion and designing since it is highly lucrative; it also pulls tourists to a country. Undoubtedly, tourism is a huge source of revenue to a nation. To illustrate, the just concluded Fashion Exhibition that was held in China caught the eyes of over a hundred million tourists from all around the globe who were in attendance. Thus, this massive attendance translates to revenue for the country.",
+        "In conclusion, the orgy for people all over the world to purchase attires and make hair styles that are in vogue has numerous benefits. Some of these are it's ability to increase job availability, and capability to boot the revenue of a country."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "lastest",
+                "start_idx": 361,
+                "end_idx": 368,
+                "error": "up to the immediate present; most recent or most up-to-date",
+                "error_des": "",
+                "suggetions": [
+                    "latest"
+                ]
+            },
+            {
+                "word": "lastest",
+                "start_idx": 583,
+                "end_idx": 590,
+                "error": "up to the immediate present; most recent or most up-to-date",
+                "error_des": "",
+                "suggetions": [
+                    "latest"
+                ]
+            },
+            {
+                "word": "evolving so",
+                "start_idx": 683,
+                "end_idx": 694,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "evolving, so"
+                ]
+            },
+            {
+                "word": "lastest",
+                "start_idx": 743,
+                "end_idx": 750,
+                "error": "up to the immediate present; most recent or most up-to-date",
+                "error_des": "",
+                "suggetions": [
+                    "latest"
+                ]
+            },
+            {
+                "word": "it's",
+                "start_idx": 1463,
+                "end_idx": 1467,
+                "error": "of a thing, of it; possessive form of \"it\"",
+                "error_des": "",
+                "suggetions": [
+                    "its"
+                ]
+            },
+            {
+                "word": "boot",
+                "start_idx": 1524,
+                "end_idx": 1528,
+                "error": "increase",
+                "error_des": "",
+                "suggetions": [
+                    "boost"
+                ]
+            }
+        ]
+    },
+    "submitter": "chizoba.ojukwu",
+    "num_words": 261,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "for instance",
+            "hence",
+            "that is",
+            "consequently",
+            "therefore",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "fashion",
+                "occurrences": [
+                    {
+                        "start_idx": 102,
+                        "end_idx": 109
+                    },
+                    {
+                        "start_idx": 235,
+                        "end_idx": 242
+                    },
+                    {
+                        "start_idx": 659,
+                        "end_idx": 666
+                    },
+                    {
+                        "start_idx": 909,
+                        "end_idx": 916
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-19T10:25:44.000Z"
+}

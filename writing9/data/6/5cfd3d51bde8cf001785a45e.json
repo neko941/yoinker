@@ -1,0 +1,111 @@
+{
+    "url": "https://writing9.com/text/5cfd3d51bde8cf001785a45e-you-are-living-in-a-university-residence-and-you-have",
+    "file": "data\\6\\5cfd3d51bde8cf001785a45e.json",
+    "topics": [
+        "university",
+        "residence",
+        "levels",
+        "noise",
+        "campus",
+        "restaurant",
+        "midnight",
+        "governor",
+        "situation"
+    ],
+    "question": "You are living in a University residence, and you have a problem with the high levels of noise from\na new campus restaurant which is open until midnight. Write a letter to the governor of the\nUniversity. In your letter,\nComplain about the situation\nSay why this is a problem\nAnd propose ways to reduce the noise",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 4.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I am writing this letter regarding the noise pollution from the newly opened restaurant on the campus, especially during night hours. All the students are studying at that time and the loud music from that cafeteria is uneasy for everyone in the hostel.",
+        "Nightlife in the university campus was very calm and stable before the opening of this restaurant and everyone was able to study peacefully. The bad thing is the location is very near to the student hostel and the sounds of bikes and cars of people coming to the restaurant make it worse. Most of the scholars leave the evening hours for the study purpose but the distraction from this is not allowing people to concentrate on their course.",
+        "I would like to request you on behalf of all the students of the hostel to take some actions on them. We would suggest minimizing the sound level from the food court can act as an effective solution and the parking should be only for the university residency persons.",
+        "I hope you will understand our concerns and take some actions immediately.",
+        "Thank you in anticipation",
+        "Yours faithfully"
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "the ",
+                "start_idx": 604,
+                "end_idx": 608,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "actions",
+                "start_idx": 793,
+                "end_idx": 800,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that actions may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "action"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 801,
+                "end_idx": 803,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "against"
+                ]
+            },
+            {
+                "word": "actions",
+                "start_idx": 1031,
+                "end_idx": 1038,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that actions may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "action"
+                ]
+            }
+        ]
+    },
+    "submitter": "bhat.vishal89",
+    "num_words": 190,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "1",
+        "list_linking_words": [
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T16:01:26.611Z"
+}

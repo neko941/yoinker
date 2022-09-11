@@ -1,0 +1,707 @@
+{
+    "url": "https://writing9.com/text/63176091aee9de00187610d3-some-people-think-news-has-no-connection-to-peoples-lives",
+    "file": "data\\5\\63176091aee9de00187610d3.json",
+    "topics": [
+        "people",
+        "news",
+        "connection",
+        "people\u2019s",
+        "lives",
+        "waste",
+        "time",
+        "newspaper",
+        "television",
+        "programs"
+    ],
+    "question": "Some people think news has no connection to people\u2019s lives. So then it is a waste of time to read the newspaper and watch television news programs. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In this present world, news are more and more popular on social media or newspaper. Some people believe that such information are not connected to their lives, therefore they don\u2019t want spend to much time for it. It is disagreed that news is not essential for our live. Analysing the importance of news from governance, as well as the updating of weather forecast  will prove this.",
+        "First, people could found important information that governace would like to inform to them through breaking news on current affairs programmes or on newspaper. For instance, Vietnamese people want to look for the location that grant for them the identity cards, they will have to search for concerned news or video that Governance published on many social media. This wil support them following to the right direction and finish their documents. So, this makes it clear that people cound not live without news.",
+        "Secondly, weather forecast is one kind of news that cannot be lacked in our daily routines. For example, if people are going to host an event outside, they often update weather conditon on planing dates in order to deal with unexpectable weather could be happen. This is one of necessarry step in preparation process to ensure the event would be sucessful. Thus, it become apprarent that news is useful with us.",
+        "To summarise, there are many kind of news which are neccessary concered to our daily lives. Thus, it is clear that the idea that people waste time when reading news on multimedia cannot be supported. After analysis on this subject, it is predicted that news are more and more booming in the our world and become an essetial part of our lives."
+    ],
+    "errors": {
+        "num_error": "52",
+        "error_list": [
+            {
+                "word": "are",
+                "start_idx": 28,
+                "end_idx": 31,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject news. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "newspaper",
+                "start_idx": 73,
+                "end_idx": 82,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in newspaper"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 126,
+                "end_idx": 129,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are not does not appear to agree with the singular subject such information. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 205,
+                "end_idx": 208,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "is disagreed",
+                "start_idx": 216,
+                "end_idx": 228,
+                "error": "Change to the active voice",
+                "error_des": "It appears you have attempted to use the intransitive verb disagreed in a passive voice construction. Consider writing the sentence in the active voice.",
+                "suggetions": [
+                    "disagrees",
+                    "has disagreed"
+                ]
+            },
+            {
+                "word": "live",
+                "start_idx": 264,
+                "end_idx": 268,
+                "error": "Replace the word",
+                "error_des": "The word live doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "lives"
+                ]
+            },
+            {
+                "word": "weather",
+                "start_idx": 347,
+                "end_idx": 354,
+                "error": "Add an article",
+                "error_des": "The noun phrase weather forecast seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the weather"
+                ]
+            },
+            {
+                "word": "forecast  ",
+                "start_idx": 355,
+                "end_idx": 365,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that forecast may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "forecasts"
+                ]
+            },
+            {
+                "word": "found",
+                "start_idx": 402,
+                "end_idx": 407,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb found. Consider changing it.",
+                "suggetions": [
+                    "find"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 435,
+                "end_idx": 435,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want governace to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "governance"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 435,
+                "end_idx": 435,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the governace"
+                ]
+            },
+            {
+                "word": "governace",
+                "start_idx": 435,
+                "end_idx": 444,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want governace to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "governance"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 466,
+                "end_idx": 469,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 529,
+                "end_idx": 531,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "newspaper",
+                "start_idx": 532,
+                "end_idx": 541,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that newspaper may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "newspapers"
+                ]
+            },
+            {
+                "word": "Vietnamese",
+                "start_idx": 557,
+                "end_idx": 567,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "if Vietnamese"
+                ]
+            },
+            {
+                "word": "grant",
+                "start_idx": 610,
+                "end_idx": 615,
+                "error": "Change the verb form",
+                "error_des": "The plural verb grant does not appear to agree with the singular subject the location. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "grants"
+                ]
+            },
+            {
+                "word": "for ",
+                "start_idx": 616,
+                "end_idx": 620,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 625,
+                "end_idx": 628,
+                "error": "Change the word",
+                "error_des": "The word the may be incorrect in this context. Consider changing it.",
+                "suggetions": [
+                    "their"
+                ]
+            },
+            {
+                "word": "concerned",
+                "start_idx": 674,
+                "end_idx": 683,
+                "error": "Replace the word",
+                "error_des": "It appears that the form of the participle concerned is not correct in this context. Consider changing it.",
+                "suggetions": [
+                    "concerning"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 751,
+                "end_idx": 751,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want wil to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "will"
+                ]
+            },
+            {
+                "word": "wil",
+                "start_idx": 751,
+                "end_idx": 754,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want wil to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "will"
+                ]
+            },
+            {
+                "word": "them",
+                "start_idx": 763,
+                "end_idx": 767,
+                "error": "Correct your spelling",
+                "error_des": "The word them doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "following",
+                "start_idx": 768,
+                "end_idx": 777,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in following"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 778,
+                "end_idx": 780,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "finish",
+                "start_idx": 805,
+                "end_idx": 811,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb finish. Consider changing it.",
+                "suggetions": [
+                    "finishing"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 865,
+                "end_idx": 865,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want cound to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "could"
+                ]
+            },
+            {
+                "word": "cound",
+                "start_idx": 865,
+                "end_idx": 870,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want cound to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "could"
+                ]
+            },
+            {
+                "word": "weather",
+                "start_idx": 904,
+                "end_idx": 911,
+                "error": "Add an article",
+                "error_des": "The noun phrase weather forecast seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the weather"
+                ]
+            },
+            {
+                "word": "lacked",
+                "start_idx": 956,
+                "end_idx": 962,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb lacked. Consider changing it.",
+                "suggetions": [
+                    "lacking"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1071,
+                "end_idx": 1071,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want conditon to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "condition",
+                    "conditions"
+                ]
+            },
+            {
+                "word": "conditon",
+                "start_idx": 1071,
+                "end_idx": 1079,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want conditon to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "conditions"
+                ]
+            },
+            {
+                "word": "planing",
+                "start_idx": 1083,
+                "end_idx": 1090,
+                "error": "Correct your spelling",
+                "error_des": "The word planing doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "planning"
+                ]
+            },
+            {
+                "word": "unexpectable",
+                "start_idx": 1119,
+                "end_idx": 1131,
+                "error": "Replace the word",
+                "error_des": "The word unexpectable doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "unexpected"
+                ]
+            },
+            {
+                "word": "be happen",
+                "start_idx": 1146,
+                "end_idx": 1155,
+                "error": "Change the verb form",
+                "error_des": "It appears that the form of the verb happen does not work with be in this sentence.",
+                "suggetions": [
+                    "happen"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1172,
+                "end_idx": 1172,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want necessarry to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "necessary"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1172,
+                "end_idx": 1172,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the necessarry"
+                ]
+            },
+            {
+                "word": "necessarry",
+                "start_idx": 1172,
+                "end_idx": 1182,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want necessarry to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "necessary"
+                ]
+            },
+            {
+                "word": "step",
+                "start_idx": 1183,
+                "end_idx": 1187,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that step may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "steps"
+                ]
+            },
+            {
+                "word": "preparation",
+                "start_idx": 1191,
+                "end_idx": 1202,
+                "error": "Add an article",
+                "error_des": "The noun phrase preparation process seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the preparation"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1240,
+                "end_idx": 1240,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want sucessful to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "successful"
+                ]
+            },
+            {
+                "word": "sucessful",
+                "start_idx": 1240,
+                "end_idx": 1249,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want sucessful to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "successful"
+                ]
+            },
+            {
+                "word": "become",
+                "start_idx": 1260,
+                "end_idx": 1266,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun it and the verb become are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "becomes"
+                ]
+            },
+            {
+                "word": "apprarent",
+                "start_idx": 1267,
+                "end_idx": 1276,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want apprarent to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "apparent"
+                ]
+            },
+            {
+                "word": "with",
+                "start_idx": 1297,
+                "end_idx": 1301,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "kind",
+                "start_idx": 1335,
+                "end_idx": 1339,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun kind follows the quantifier many, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "kinds"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1358,
+                "end_idx": 1358,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want neccessary to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "necessary"
+                ]
+            },
+            {
+                "word": "neccessary",
+                "start_idx": 1358,
+                "end_idx": 1368,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want neccessary to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "necessary"
+                ]
+            },
+            {
+                "word": "concered",
+                "start_idx": 1369,
+                "end_idx": 1377,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want concered to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "concerned"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 1564,
+                "end_idx": 1567,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject news. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1593,
+                "end_idx": 1597,
+                "error": "Remove the article",
+                "error_des": "It is unlikely that your sentence needs the article the before our. Consider deleting the article.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "essetial",
+                "start_idx": 1621,
+                "end_idx": 1629,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want essetial to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "essential"
+                ]
+            }
+        ]
+    },
+    "submitter": "yenbao89",
+    "num_words": 282,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "for instance",
+            "for example",
+            "secondly",
+            "therefore",
+            "this",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "news",
+                "occurrences": [
+                    {
+                        "start_idx": 23,
+                        "end_idx": 27
+                    },
+                    {
+                        "start_idx": 73,
+                        "end_idx": 77
+                    },
+                    {
+                        "start_idx": 234,
+                        "end_idx": 238
+                    },
+                    {
+                        "start_idx": 298,
+                        "end_idx": 302
+                    },
+                    {
+                        "start_idx": 491,
+                        "end_idx": 495
+                    },
+                    {
+                        "start_idx": 532,
+                        "end_idx": 536
+                    },
+                    {
+                        "start_idx": 684,
+                        "end_idx": 688
+                    },
+                    {
+                        "start_idx": 888,
+                        "end_idx": 892
+                    },
+                    {
+                        "start_idx": 936,
+                        "end_idx": 940
+                    },
+                    {
+                        "start_idx": 1282,
+                        "end_idx": 1286
+                    },
+                    {
+                        "start_idx": 1343,
+                        "end_idx": 1347
+                    },
+                    {
+                        "start_idx": 1466,
+                        "end_idx": 1470
+                    },
+                    {
+                        "start_idx": 1559,
+                        "end_idx": 1563
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 89,
+                        "end_idx": 95
+                    },
+                    {
+                        "start_idx": 389,
+                        "end_idx": 395
+                    },
+                    {
+                        "start_idx": 568,
+                        "end_idx": 574
+                    },
+                    {
+                        "start_idx": 858,
+                        "end_idx": 864
+                    },
+                    {
+                        "start_idx": 1002,
+                        "end_idx": 1008
+                    },
+                    {
+                        "start_idx": 1435,
+                        "end_idx": 1441
+                    }
+                ]
+            },
+            {
+                "word": "weather",
+                "occurrences": [
+                    {
+                        "start_idx": 347,
+                        "end_idx": 354
+                    },
+                    {
+                        "start_idx": 904,
+                        "end_idx": 911
+                    },
+                    {
+                        "start_idx": 1063,
+                        "end_idx": 1070
+                    },
+                    {
+                        "start_idx": 1132,
+                        "end_idx": 1139
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-06T15:00:34.754Z"
+}

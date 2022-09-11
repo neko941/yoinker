@@ -1,0 +1,105 @@
+{
+    "url": "https://writing9.com/text/5dbcdcb3ed6fd80018109849-last-monday-you-flew-from-mumbai-to-bangalore-when-you",
+    "file": "data\\75\\5dbcdcb3ed6fd80018109849.json",
+    "topics": [
+        "monday",
+        "mumbai",
+        "bangalore",
+        "home",
+        "hand",
+        "bang",
+        "plane",
+        "airline",
+        "bag",
+        "contents"
+    ],
+    "question": "Last Monday you flew from Mumbai to Bangalore. When you reached home, you discovered that you had left your hand bang on the plane. Write a letter to the airline. In your letter you have to explain:\n\nWhere and when you lost the bag\nWhat your bag looks like\nWhat its contents were",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "I am writing to inform you about a lost handbag during my travel on your airline.",
+        "Last week Monday 21st October 2019, I travelled from Mumbai to Banglore on A370 Sri Lankan airlines flight. The flight left Mumbai at 2.45 in the afternoon. I kept the bag in the upper compartment of the luggage storage just above my seat number 23A. However, unfortunately, I forgot to take it with me.",
+        "It was a brown leather designer handbag. The Nike logo was on both sides of it. There were two large pockets, and in one of the pockets, there was another small hidden pocket to keep money safe. On top, I have stuck my name card, hence it is easy to find the owner of it.",
+        "Inside, it had my degree certificate and some other essential documents in one of the compartments. I kept my formal clothes in the other pocket. The smaller hidden pocket should contain two hundred American Dollars.",
+        "As you can imagine these things are very important for me and please let me know whether it is in your possesion and how can I get it back. I look forward to hearing from you soon.",
+        "Yours faithfully,",
+        "Nethandun Wijethilaka"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "A370",
+                "start_idx": 179,
+                "end_idx": 183,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "an A370"
+                ]
+            },
+            {
+                "word": ", I",
+                "start_idx": 611,
+                "end_idx": 614,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of, I"
+                ]
+            },
+            {
+                "word": "possesion",
+                "start_idx": 1006,
+                "end_idx": 1015,
+                "error": "Correct your spelling",
+                "error_des": "The word possesion is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "possession"
+                ]
+            }
+        ]
+    },
+    "submitter": "nethandun",
+    "num_words": 205,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "last",
+            "however",
+            "hence"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T17:33:33.495Z"
+}

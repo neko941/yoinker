@@ -1,0 +1,112 @@
+{
+    "url": "https://writing9.com/text/5f09ae7f401ea400186c5964",
+    "file": "data\\75\\5f09ae7f401ea400186c5964.json",
+    "topics": [
+        "parents",
+        "children",
+        "toys",
+        "child"
+    ],
+    "question": "Some parents buy their children a large number of toys to play with.What are the advantages and disadvantages for the child of having a large number of toys?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There are several advantages of buying many toys for children including the ability to develop various skills and a great lesson for children to care for others. However, children can be distracted from the formal school lesson and do not observe the value of money when they have too many toys.",
+        "In terms of advantages, having many different toys would help children to advance their various skills. Each toy is designed specifically for a certain purpose. For example, Lego might be able to help children to improve their logic and decision skills. Hence, it is not able to develop numeracy or literacy skills. Having more toys would fulfil this limitation. Moreover, parents can teach their kids about sharing and caring. In community settings, children can share their plenty of toys, which is a great lesson for them to care about others in society. Having more toys means more opportunities to develop as well as more socialising and caring for others.",
+        "However, a large number of toys might distract children from their formal school lesson. If the children spend too much time with their toys, they might have fewer interested in formal education. This often happens with attractive toys such as video games or iPad. Additionally, purchasing lots of toys might make children not considering the value of money. The kids will absorb this bad behaviour from their parents, and it will affect them in the long terms. They will suffer from various financial troubles in the future if this behaviour is not alleviated. An inadequate number of toys might affect children negatively, both short-term and long-term.",
+        "In conclusion, purchasing many toys have several benefits and drawbacks. Parents should consider various aspects before decided to purchase toys for their children."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "children including",
+                "start_idx": 53,
+                "end_idx": 71,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "children, including"
+                ]
+            },
+            {
+                "word": "have",
+                "start_idx": 1650,
+                "end_idx": 1654,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "has"
+                ]
+            }
+        ]
+    },
+    "submitter": "Aditya",
+    "num_words": 289,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "hence",
+            "for example",
+            "moreover",
+            "however",
+            "this",
+            "additionally",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "lesson",
+                "occurrences": [
+                    {
+                        "start_idx": 122,
+                        "end_idx": 128
+                    },
+                    {
+                        "start_idx": 221,
+                        "end_idx": 227
+                    },
+                    {
+                        "start_idx": 805,
+                        "end_idx": 811
+                    },
+                    {
+                        "start_idx": 1039,
+                        "end_idx": 1045
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-11T12:20:17.035Z"
+}

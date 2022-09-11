@@ -1,0 +1,129 @@
+{
+    "url": "https://writing9.com/text/5caed89a31790e4e3849d402",
+    "file": "data\\6\\5caed89a31790e4e3849d402.json",
+    "topics": [
+        "world",
+        "shop",
+        "work",
+        "people",
+        "internet",
+        "contact",
+        "development"
+    ],
+    "question": "In the modern world it is possible to shop, work and communicate with people via the internet and live without any face-to-face contact with others. Is this a positive or negative development?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that in contemporary life people in many parts of the world are able to do their shopping, work and communicate with each other via the internet. In my opinion, while there are clear positive aspects of this trend, there are also negative aspects of having less face-to-face contact with other people.",
+        "On the one hand, the internet can be very handy in many ways. Many people use it to keep in touch with friends and family, using Facebook, Skype or What\u2019s App to send instant messages or to enjoy a quick chat. Many also use the internet for online shopping, thus saving time and petrol on trips to the supermarket as well as hunting around different sites for bargains. However, it is in terms of work that the internet offers the most potential benefits. More and more people are working or even studying from home, at hours which suit their own schedules. Many hours are saved each week by eliminating the daily commute and the stress of coping with the rush hour.",
+        "On the other hand, as social beings, people need personal contacts. Firstly, virtual friendships which are formed online may not be genuine. The media carries many horror stories of youngsters who have fallen prey to pedophiles, for example. Secondly, online shopping is not always appropriate, depending on the item. It is best, for instance, to try on clothes before buying, and while a bookworm can find almost any book title that they want online, they will certainly miss browsing the shelves of bookstores. Finally, personal interaction with work colleagues can generate ideas and avoid misunderstandings.",
+        "In conclusion, although there are positive aspects of this trend, there are also aspects of face-to-face contact which it would be a shame to lose."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "work",
+                "start_idx": 711,
+                "end_idx": 715,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the work"
+                ]
+            },
+            {
+                "word": "carries",
+                "start_idx": 1133,
+                "end_idx": 1140,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "carry"
+                ]
+            },
+            {
+                "word": "pedophiles",
+                "start_idx": 1199,
+                "end_idx": 1209,
+                "error": "an adult who is sexually attracted to children",
+                "error_des": "",
+                "suggetions": [
+                    "paedophiles"
+                ]
+            }
+        ]
+    },
+    "submitter": "deepti.jan90",
+    "num_words": 295,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "for instance",
+            "for example",
+            "although",
+            "however",
+            "finally",
+            "this",
+            "also",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "internet",
+                "occurrences": [
+                    {
+                        "start_idx": 147,
+                        "end_idx": 155
+                    },
+                    {
+                        "start_idx": 334,
+                        "end_idx": 342
+                    },
+                    {
+                        "start_idx": 541,
+                        "end_idx": 549
+                    },
+                    {
+                        "start_idx": 724,
+                        "end_idx": 732
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-11T06:03:06.000Z"
+}

@@ -1,0 +1,135 @@
+{
+    "url": "https://writing9.com/text/5dbf72e6ed6fd80018115d16",
+    "file": "data\\6\\5dbf72e6ed6fd80018115d16.json",
+    "topics": [
+        "rain",
+        "forests",
+        "extinction",
+        "life"
+    ],
+    "question": "Logging of the rain forests is a serious problem and it may lead to the extinction of animal life and human life. Do u agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Cutting down the trees of the rain forests is a matter of serious concern which may cause the disappearance of humans and animals. I strongly agree that the lives of both of them are at stake due to deforestation in terms of global warming and air pollution.",
+        "",
+        "",
+        "Firstly, removing trees from the rain forests can produce long-term climate change, as the glaciers will start melting due to the rise in the earth's temperature which will reduce the survival rate of animals living in cold areas. Similarly, the people might not tolerate extremely hot summer season as the trees maintain humidity and temperature in the atmosphere and ultimately would end up dying. Take, for example, the national geographical channel has recently telecasted a programme on the extinction of a species of animals in Africa owing to scorching sunlight; unfortunately, the reason was deforestation in nearby areas.",
+        "",
+        "",
+        "Another important factor is that trees release oxygen gas in the air which is an essential element for living, but with the growing trend of destruction of the rainforests, air pollution seems taking over the world. In other words, decreasing the level of oxygen in the air can cause breathing issues; In this case, the death rate might increase. For instance, the Chinese government has strictly banned the removal of trees due to rising concern regarding the death of the people suffering from lungs diseases. This restriction has restored the quality of air and erased the chances of loss.",
+        "",
+        "In conclusion, unbearable heat in the summer season and melting of the glaciers due to deforestation can wipe out humans and animals, and it would also aid to enhance air pollution to a level where their lungs could not function properly and would be lifeless eventually."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "temperature which",
+                "start_idx": 413,
+                "end_idx": 430,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "temperature, which"
+                ]
+            },
+            {
+                "word": "air which",
+                "start_idx": 963,
+                "end_idx": 972,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "air, which"
+                ]
+            },
+            {
+                "word": "lungs",
+                "start_idx": 1394,
+                "end_idx": 1399,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "lung"
+                ]
+            }
+        ]
+    },
+    "submitter": "mic.jan.thomas",
+    "num_words": 290,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "similarly",
+            "in other words",
+            "this",
+            "also",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "air",
+                "occurrences": [
+                    {
+                        "start_idx": 244,
+                        "end_idx": 247
+                    },
+                    {
+                        "start_idx": 959,
+                        "end_idx": 962
+                    },
+                    {
+                        "start_idx": 1067,
+                        "end_idx": 1070
+                    },
+                    {
+                        "start_idx": 1164,
+                        "end_idx": 1167
+                    },
+                    {
+                        "start_idx": 1451,
+                        "end_idx": 1454
+                    },
+                    {
+                        "start_idx": 1655,
+                        "end_idx": 1658
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-04T00:37:58.835Z"
+}

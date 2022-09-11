@@ -1,0 +1,160 @@
+{
+    "url": "https://writing9.com/text/5d6cf4aa2d93490017917cb7",
+    "file": "data\\6\\5d6cf4aa2d93490017917cb7.json",
+    "topics": [
+        "people",
+        "work"
+    ],
+    "question": "Some people think the best way to motivate and encourage people to work hard is to pay them based on how much they produce and sell. Do you agree or disagree? Include relevant examples from your own experience.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is often thought by some individuals that payment according to the output and sales done by the employees is the appropriate method to prompt their efforts in their duties and responsibilities. In my opinion,  I agree that accurate monetary compensation should commensurate their productivity as this enables employees to be diligent and honest in their work.",
+        "To begin with,  the effective remuneration of staff according  to their production activities plays an important role in the diligence to their work. This is because when they feel satisfied with the conditions of service , it simply implies that both the staff and the  management will benefit from this. For instance,  in 2018, shoprite\u2019s human resources department was interviewed by journalist concerning their high rate of staff recruitment,  and  their striking response was that they ensure that employees are paid according to their achievement which in turn attracts job seekers to apply for a position in their organisation.",
+        "Another point to consider is that in order for the company to meet the target they aim for in the stock exchange market,  the level of productivity that is being done by its employees is absolutely important.  However,  the  turn over of the Organisation is determined according to the individual effort of the team. To illustrate,  Cocacola topped the list of the firms that made higher profit in a decade because of the constant increment in their sales turnover during that period.  Furthermore   during the recognition award ceremony,  the CEO stated that the dedication of his staff made this record a reality.",
+        "In conclusion,  workers tend to be more pro active  when they are rewarded accurately by their employers which in turn also gain higher turnover and profit in the stock exchange market."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "to",
+                "start_idx": 499,
+                "end_idx": 501,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 585,
+                "end_idx": 587,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "shoprite\u2019s",
+                "start_idx": 694,
+                "end_idx": 704,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Shoprite\u2019s",
+                    "supports"
+                ]
+            },
+            {
+                "word": "turn over",
+                "start_idx": 1226,
+                "end_idx": 1235,
+                "error": "the ratio of the number of workers that had to be replaced in a given time period to the average number of workers",
+                "error_des": "",
+                "suggetions": [
+                    "turnover"
+                ]
+            },
+            {
+                "word": "Cocacola",
+                "start_idx": 1334,
+                "end_idx": 1342,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Coca cola"
+                ]
+            },
+            {
+                "word": "Furthermore   during",
+                "start_idx": 1487,
+                "end_idx": 1507,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Furthermore, during"
+                ]
+            },
+            {
+                "word": "pro active",
+                "start_idx": 1659,
+                "end_idx": 1669,
+                "error": "descriptive of any event or stimulus or process that has an effect on events or stimuli or processes that occur subsequently",
+                "error_des": "",
+                "suggetions": [
+                    "proactive"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 289,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for instance",
+            "however",
+            "that is",
+            "this",
+            "to begin",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "staff",
+                "occurrences": [
+                    {
+                        "start_idx": 409,
+                        "end_idx": 414
+                    },
+                    {
+                        "start_idx": 619,
+                        "end_idx": 624
+                    },
+                    {
+                        "start_idx": 791,
+                        "end_idx": 796
+                    },
+                    {
+                        "start_idx": 1580,
+                        "end_idx": 1585
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-02T10:53:30.264Z"
+}

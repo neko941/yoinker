@@ -1,0 +1,131 @@
+{
+    "url": "https://writing9.com/text/5e136abfbfa19600117ceef9",
+    "file": "data\\7\\5e136abfbfa19600117ceef9.json",
+    "topics": [
+        "world",
+        "money",
+        "space",
+        "exploration",
+        "waste",
+        "time",
+        "caus"
+    ],
+    "question": "With all the problem in the world today spending money on space exploration is a complete waste of time and money. The money could be better spend on other caus. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Though space exploration is an advanced field which helps us know the un-explored regions of this vast universe, spending huge amounts of monetary and human resources in this field can be kept on pause for the time, until, some major problems in the current world scenario are addressed first. The investments made on unraveling the mysteries of the universe can be better used to tackle some of the evident world problems like water crisis, global warming etc.",
+        "We as humans should focus our time and money on medicine and on improving quality of life. These resources can be better put to use to eradicate existing diseases and researches around it. For instance, with the rise in diseases like Ebola, swine-flu and dengue, plethora of flora and fauna species are at the risk of extinction. Moreover, even homo-sapiens have not been spared from the risks of such diseases.",
+        "Furthermore, the money can be better spent on preserving existing resources on the earth. Global warming is one such issue which goes un-noticed and should be addressed immediately compared to any space exploration program which can wait until alarming issues such as water scarcity and deforestation are solved.To illustrate this, in the last decade, we have had over twenty space exploration missions, most of them failing due to minor technical issues like the Space-X and NASA exploration missions.This means humungous amounts of capital and time of some of the most brilliant minds have been put to waste with no scope of usage in the near future.",
+        "I second the fact that funding of space exploration missions should be put on hold until the basic needs of survival and well-being of mankind in the current world are resolved first."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "on",
+                "start_idx": 315,
+                "end_idx": 317,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "rsyrks07",
+    "num_words": 285,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "for instance",
+            "second",
+            "furthermore",
+            "moreover",
+            "this",
+            "last",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "exploration",
+                "occurrences": [
+                    {
+                        "start_idx": 13,
+                        "end_idx": 24
+                    },
+                    {
+                        "start_idx": 1077,
+                        "end_idx": 1088
+                    },
+                    {
+                        "start_idx": 1256,
+                        "end_idx": 1267
+                    },
+                    {
+                        "start_idx": 1355,
+                        "end_idx": 1366
+                    },
+                    {
+                        "start_idx": 1567,
+                        "end_idx": 1578
+                    }
+                ]
+            },
+            {
+                "word": "space",
+                "occurrences": [
+                    {
+                        "start_idx": 7,
+                        "end_idx": 12
+                    },
+                    {
+                        "start_idx": 1071,
+                        "end_idx": 1076
+                    },
+                    {
+                        "start_idx": 1250,
+                        "end_idx": 1255
+                    },
+                    {
+                        "start_idx": 1561,
+                        "end_idx": 1566
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-01-06T17:13:35.815Z"
+}

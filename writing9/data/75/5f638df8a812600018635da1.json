@@ -1,0 +1,155 @@
+{
+    "url": "https://writing9.com/text/5f638df8a812600018635da1-you-have-a-problem-with-the-computer-at-the-office",
+    "file": "data\\75\\5f638df8a812600018635da1.json",
+    "topics": [
+        "computer",
+        "office",
+        "work",
+        "manager",
+        "difficulties",
+        "create"
+    ],
+    "question": "You have a problem with the computer at the office which has affected your work Write a letter to your manager and say What problem do you have What difficulties does this create for you What could be done about it",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "My name is Jane and my employee ID is 432267. I am writing this letter to draw your attention to the issue with a desktop that I am being faced at the office. There was a problem with screen resolution and UPS. These have occurred since last month and I already told the team leader many times, still no progress on it.",
+        "Let me explain the complications thoroughly. Firstly, when I switch on the system, the screen goes blank for some time, afterward, it got fluctuate and some thin black lines appear on it. Moreover, after a couple of minutes, the screen gets back into the original position. By this, most of the time gets wasted and also causes a delay in delivering the work. Secondly, when the electricity goes off, the computer suddenly shuts down because the attached UPS is not working. So, the work which I was doing at that time, get lost. Consequently, this is putting a bad impact on my work and performance.",
+        "It would be great if you address the above-said issues as soon as possible so that I can deliver my work on time. I suggest you to kindly, replace the defected parts of the computer. I shall be very thankful to you.",
+        "I look forward to your prompt response.",
+        "Yours Sincerely,",
+        "Jane Shore"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "the",
+                "start_idx": 581,
+                "end_idx": 584,
+                "error": "Change the word",
+                "error_des": "The word the may be incorrect in this context. Consider changing it.",
+                "suggetions": [
+                    "its"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 1059,
+                "end_idx": 1062,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "defected",
+                "start_idx": 1082,
+                "end_idx": 1090,
+                "error": "Replace the word",
+                "error_des": "The word defected doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "defective"
+                ]
+            }
+        ]
+    },
+    "submitter": "Navpreet Kaur",
+    "num_words": 222,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "also",
+            "consequently",
+            "moreover",
+            "this",
+            "last",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 298,
+                        "end_idx": 302
+                    },
+                    {
+                        "start_idx": 444,
+                        "end_idx": 448
+                    },
+                    {
+                        "start_idx": 625,
+                        "end_idx": 629
+                    },
+                    {
+                        "start_idx": 844,
+                        "end_idx": 848
+                    },
+                    {
+                        "start_idx": 1039,
+                        "end_idx": 1043
+                    }
+                ]
+            },
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 684,
+                        "end_idx": 688
+                    },
+                    {
+                        "start_idx": 796,
+                        "end_idx": 800
+                    },
+                    {
+                        "start_idx": 813,
+                        "end_idx": 817
+                    },
+                    {
+                        "start_idx": 909,
+                        "end_idx": 913
+                    },
+                    {
+                        "start_idx": 1031,
+                        "end_idx": 1035
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-14T12:41:50.471Z"
+}

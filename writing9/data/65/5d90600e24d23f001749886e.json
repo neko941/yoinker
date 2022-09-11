@@ -1,0 +1,119 @@
+{
+    "url": "https://writing9.com/text/5d90600e24d23f001749886e",
+    "file": "data\\65\\5d90600e24d23f001749886e.json",
+    "topics": [
+        "people",
+        "governments",
+        "buildings",
+        "libraries",
+        "museums"
+    ],
+    "question": "Some people believe that governments should spend on new public buildings, such as libraries and museums, rather than renovating old buildings. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Whether the government should restore old buildings or not has always sparked a heated debate. Some people argue that instead of restoring old buildings, the government should build new roads and other structures. While I admit that restoration of ancient buildings involves a huge amount of money, spending on them is as important as building new roads and structures.",
+        "There are numerous reasons to support this view point. First of all, the old buildings depict our history and culture of people of ancient times. For example, the architecture and artistic work of old buildings are rare to find nowadays. Hence, they must be conserved. Moreover, we must preserve historical constructions for our future generations and understand that even if one piece is destroyed, it is destroyed forever. These buildings have their own character which we can\u2019t replicate in modern architecture. Another benefit of preserving these heritage buildings is that they can be converted into tourist attractions.",
+        "However, in spite of these benefits, there are some analysts who argue that it is more important to spend money on constructing new infrastructure rather than renovate old buildings. According to them, the hard earned money they give to the government in the form of taxes must be spent on something that is beneficial to them like new roads or flyovers. Since renovations involve a huge amount of money, they feel new buildings should be constructed as per the modern architecture and needs of the society.",
+        "In conclusion, although preserving ancient buildings involves a substantial amount of money, I insist that they must be preserved because they are reminders of our culture and heritage."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "view point",
+                "start_idx": 414,
+                "end_idx": 424,
+                "error": "a mental position from which things are viewed",
+                "error_des": "",
+                "suggetions": [
+                    "viewpoint"
+                ]
+            },
+            {
+                "word": "needs",
+                "start_idx": 1484,
+                "end_idx": 1489,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the needs"
+                ]
+            }
+        ]
+    },
+    "submitter": "mehrajsyed86",
+    "num_words": 270,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "hence",
+            "for example",
+            "moreover",
+            "instead",
+            "although",
+            "however",
+            "that is",
+            "this",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "money",
+                "occurrences": [
+                    {
+                        "start_idx": 292,
+                        "end_idx": 297
+                    },
+                    {
+                        "start_idx": 1102,
+                        "end_idx": 1107
+                    },
+                    {
+                        "start_idx": 1214,
+                        "end_idx": 1219
+                    },
+                    {
+                        "start_idx": 1394,
+                        "end_idx": 1399
+                    },
+                    {
+                        "start_idx": 1590,
+                        "end_idx": 1595
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-29T07:41:02.741Z"
+}

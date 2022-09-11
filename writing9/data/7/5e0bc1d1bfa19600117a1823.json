@@ -1,0 +1,145 @@
+{
+    "url": "https://writing9.com/text/5e0bc1d1bfa19600117a1823",
+    "file": "data\\7\\5e0bc1d1bfa19600117a1823.json",
+    "topics": [
+        "computers",
+        "world",
+        "place"
+    ],
+    "question": "Computers have made the world a better place. To what extent do you agree or disagree with this statement?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The technological advances have simplified our world than ever before, and computers are the key factor in such a trend. I completely agree that computers are an essential part of our modern world, and this essay will further explain why information technology, robotics, and data processing are our present and future.",
+        "Firstly, if it were not for automation, several means of transportation would never exist. Airplanes are a prime example. While 100 years ago travellers suffered from moving from one place to another, it has not been easier than today to travel around the globe. In another world, autopilots and electronic devices and components inside planes made it possible to conquer the barriers and to ease our lives in travelling. Another revolutionary outcome of computers is 3D printing, which will revolutionize the world in the coming 20 years, according to an article published in The Times. This technology will provide us with replaceable organs for human surgeries, help us build complete villages in days, and to copy every hard element in our world to be printed with just a click. It is believed that without computers, our world would never become the same as we see now.",
+        "Secondly, computers gave everyone the ability to communicate and to globalize. Having seen governments and private companies, such as Google and Facebook, trying to spread the use of technology, internet, and electronic devices, the world is derived into a more computerized one. This is advantageous because the more data computers process, the more governments, and companies can provide useful services. For example, hospitals that record their patients\u2019 data electronically can predict certain diseases according to a patient\u2019s habits and history. This shows that data processing through computers can save lives.",
+        "In conclusion, it is clear to me that technological advances through computers made our lives easier and more convenient. That is why I totally agree that we have a better world today because of them."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "Airplanes",
+                "start_idx": 412,
+                "end_idx": 421,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "days",
+                "start_idx": 1021,
+                "end_idx": 1025,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the days"
+                ]
+            },
+            {
+                "word": "is derived",
+                "start_idx": 1436,
+                "end_idx": 1446,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are derived"
+                ]
+            },
+            {
+                "word": "diseases according",
+                "start_idx": 1695,
+                "end_idx": 1713,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "diseases, according"
+                ]
+            }
+        ]
+    },
+    "submitter": "hegazy.mee",
+    "num_words": 322,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for example",
+            "such",
+            "further",
+            "that is",
+            "this",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "world",
+                "occurrences": [
+                    {
+                        "start_idx": 47,
+                        "end_idx": 52
+                    },
+                    {
+                        "start_idx": 191,
+                        "end_idx": 196
+                    },
+                    {
+                        "start_idx": 594,
+                        "end_idx": 599
+                    },
+                    {
+                        "start_idx": 830,
+                        "end_idx": 835
+                    },
+                    {
+                        "start_idx": 1064,
+                        "end_idx": 1069
+                    },
+                    {
+                        "start_idx": 1146,
+                        "end_idx": 1151
+                    },
+                    {
+                        "start_idx": 1428,
+                        "end_idx": 1433
+                    },
+                    {
+                        "start_idx": 1985,
+                        "end_idx": 1990
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-12-31T21:46:57.099Z"
+}

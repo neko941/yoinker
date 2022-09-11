@@ -1,0 +1,133 @@
+{
+    "url": "https://writing9.com/text/5f66a239a812600018636029",
+    "file": "data\\7\\5f66a239a812600018636029.json",
+    "topics": [
+        "think",
+        "generation",
+        "steps",
+        "environment",
+        "dis"
+    ],
+    "question": "Some  think the current generation should take steps to protect the environment for the next generation.to what extend do you agree or dis agree.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The environment is a humongous price is given by God for the wellbeing of human being. Most of the people in the society believe that environment should be conserved by the present generation for growing age groups in the prospective.Discussing this statement is worth and I completely agree with this.This essay will discuss negative and positive results regarding this statement.",
+        "On the one hand ,many people in the public have a belief that we should take an action to  ensure our nature for next generation.But, most people in the world do not care about  world wellness. For instance, for cultivation in many countries use chemical fertilizer rather than using organic fertilizer.As a result of this soil has been devastated in many areas and water springs also been smashed making kidney diseases to the people. According to the aforementioned reasons, it wouldn't be an advantage for future population.",
+        "On the other hand, Most of the public believe that  nature should be saved for the future.According to this opinion, many people contribute to it.To illustrate,They discard garbage properly,if they cut a tree for their uses, they are used to replant another five plants instead of that and look after they grow enough.Those are the steps of some people in  society have taken to save the world for future generation.",
+        "In conclusion,making some steps to conserve the environment is the best way to keep them well for the future.It is one of our responsibilities. If we protect it for tomorrow,its' benefits survival not only for them but also for us."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "h",
+                "start_idx": 74,
+                "end_idx": 75,
+                "error": "Add an article",
+                "error_des": "The noun phrase human being seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a",
+                    "the"
+                ]
+            },
+            {
+                "word": "n",
+                "start_idx": 495,
+                "end_idx": 496,
+                "error": "Add an article",
+                "error_des": "It appears that an article is missing before the word next. Consider adding the article.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "f",
+                "start_idx": 891,
+                "end_idx": 892,
+                "error": "Add an article",
+                "error_des": "The noun phrase future population seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "f",
+                "start_idx": 1308,
+                "end_idx": 1309,
+                "error": "Add an article",
+                "error_des": "The noun phrase future generation seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "gayan1990227",
+    "num_words": 257,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the other hand",
+            "for instance",
+            "as a result",
+            "instead",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "future",
+                "occurrences": [
+                    {
+                        "start_idx": 891,
+                        "end_idx": 897
+                    },
+                    {
+                        "start_idx": 993,
+                        "end_idx": 999
+                    },
+                    {
+                        "start_idx": 1308,
+                        "end_idx": 1314
+                    },
+                    {
+                        "start_idx": 1429,
+                        "end_idx": 1435
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-09-20T00:49:04.475Z"
+}

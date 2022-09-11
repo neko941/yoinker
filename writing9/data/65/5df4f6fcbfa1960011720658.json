@@ -1,0 +1,204 @@
+{
+    "url": "https://writing9.com/text/5df4f6fcbfa1960011720658",
+    "file": "data\\65\\5df4f6fcbfa1960011720658.json",
+    "topics": [
+        "people",
+        "experimentation",
+        "animals",
+        "discoveries",
+        "experiments",
+        "alternatives"
+    ],
+    "question": "Some people argue that all experimentation on animals is bad and should be outlawed.\nHowever, others believe that important scientific discoveries can be made from animal experiments\nCan experimentation on animals be justified? Are there any alternatives?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is widely argued that, testing on lab animals should be banned as it is a act of cruelty on them but other people think that it is necessary to perform such tests in order to make great scientific discoveries. This essay will discuss that animal testing cannot be justified and what are the other alternatives to it.",
+        "On the one hand, in order to make human live healthier and longer it is not required to kill speechless animals. This lab animals are often raised for experimenting new drugs, effect of medicine, and its symptoms. Moreover, if any experiment goes wrong this animals die with a painful and horrible death. In a article submitted by Animal Rights Protection Group in world every year total 10,000 guinea pig are killed during such tests.",
+        "On the other hand, new developments done in medical science, first it has to be made sure that is safe for use. As testing of such is mandatory but however, doing so directly on human or any animal is also unethical. It is not that we need to stop experimenting new developments, we should look for an alternate solution like developing a software which will provide us a perfect human subject on computer for testing. In addition, few of such experiments linked to DNA, always go through a computer simulation.",
+        "In conclusion, change in a necessary part of our life so in order to survive we need to keep on experimenting new things. But in doing so we must ensure no harm is done to any human or any animal. This can be done with help of latest technology."
+    ],
+    "errors": {
+        "num_error": "13",
+        "error_list": [
+            {
+                "word": "a",
+                "start_idx": 75,
+                "end_idx": 76,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an"
+                ]
+            },
+            {
+                "word": "them but",
+                "start_idx": 95,
+                "end_idx": 103,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "them, but"
+                ]
+            },
+            {
+                "word": "animals",
+                "start_idx": 579,
+                "end_idx": 586,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "animal"
+                ]
+            },
+            {
+                "word": "die",
+                "start_idx": 587,
+                "end_idx": 590,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "dies"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 629,
+                "end_idx": 630,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an"
+                ]
+            },
+            {
+                "word": "world",
+                "start_idx": 686,
+                "end_idx": 691,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the world"
+                ]
+            },
+            {
+                "word": "pig",
+                "start_idx": 723,
+                "end_idx": 726,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "pigs"
+                ]
+            },
+            {
+                "word": "done",
+                "start_idx": 794,
+                "end_idx": 798,
+                "error": "produced by a manufacturing process",
+                "error_des": "",
+                "suggetions": [
+                    "made"
+                ]
+            },
+            {
+                "word": "mandatory but",
+                "start_idx": 892,
+                "end_idx": 905,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "mandatory, but"
+                ]
+            },
+            {
+                "word": "human",
+                "start_idx": 936,
+                "end_idx": 941,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "humans"
+                ]
+            },
+            {
+                "word": "survive we",
+                "start_idx": 1340,
+                "end_idx": 1350,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "survive, we"
+                ]
+            },
+            {
+                "word": "so we",
+                "start_idx": 1406,
+                "end_idx": 1411,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "so, we"
+                ]
+            },
+            {
+                "word": "help",
+                "start_idx": 1490,
+                "end_idx": 1494,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the help"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 271,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "on the other hand",
+            "moreover",
+            "however",
+            "in addition",
+            "that is",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2019-12-14T14:51:40.188Z"
+}

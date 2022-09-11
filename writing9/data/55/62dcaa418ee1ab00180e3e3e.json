@@ -1,0 +1,226 @@
+{
+    "url": "https://writing9.com/text/62dcaa418ee1ab00180e3e3e-at-the-present-time-the-population-of-some-countries-includes",
+    "file": "data\\55\\62dcaa418ee1ab00180e3e3e.json",
+    "topics": [
+        "time",
+        "population",
+        "countries",
+        "adults",
+        "peoples"
+    ],
+    "question": "At the present time ,the population of some countries includes a relatively large number of young adults ,compared with no of older peoples .do the advantages outweigh the disadvantages.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, the population density of adolescents is much higher than the other age groups, especially the older people. This essay will first discuss about the advantages and, secondly, state some disadvantages of having less experienced people in a country.",
+        "The youth represents the hidden potential of a country. The nation which has the youth as a majority shall have multiple advantages for its development. This can be achieved by providing proper education facilities and training to the students. Most importantly, the ethics and moral values taught by the teachers during their schooling play an important role in making the right decisions. For example, India has the highest population of youth when compared to western countries. This may have a positive result in future, if they are well-trained starting from their primary education.",
+        "On the other hand, having more adolescents may result in having some major disadvantages. In particular, the older section of the society has the highest experience. Moreover, this valuable experience can help in development of their respective fields which in turn helps in an increase in the country\u2019s GDP. As a result, fewer numbers of older people may have a negative impact on the development of a nation. Furthermore, the human values might not be passed to the upcoming generations which may result in lack of essential skills in the youth.",
+        "In conclusion, the advantages certainly outweigh the disadvantages in this scenario. With proper knowledge and skills passed on to the new generations, certainly the country can allow it\u2019s true potential to be shown and become a well developed one."
+    ],
+    "errors": {
+        "num_error": "11",
+        "error_list": [
+            {
+                "word": "the ",
+                "start_idx": 101,
+                "end_idx": 105,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "about ",
+                "start_idx": 149,
+                "end_idx": 155,
+                "error": "Remove the preposition",
+                "error_des": "The preposition about seems unecessary after the verb discuss. Consider removing the preposition.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "The",
+                "start_idx": 315,
+                "end_idx": 318,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "A"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 782,
+                "end_idx": 783,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker if. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "having ",
+                "start_idx": 906,
+                "end_idx": 913,
+                "error": "Unnecessary verb",
+                "error_des": "The verb having appears to be unnecessary here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 975,
+                "end_idx": 979,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "development",
+                "start_idx": 1062,
+                "end_idx": 1073,
+                "error": "Add an article",
+                "error_des": "The noun phrase development seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the development"
+                ]
+            },
+            {
+                "word": "lack",
+                "start_idx": 1358,
+                "end_idx": 1362,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a lack"
+                ]
+            },
+            {
+                "word": "certainly",
+                "start_idx": 1549,
+                "end_idx": 1558,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase certainly. Consider adding a comma.",
+                "suggetions": [
+                    ",certainly"
+                ]
+            },
+            {
+                "word": "it\u2019s",
+                "start_idx": 1581,
+                "end_idx": 1585,
+                "error": "Correct your spelling",
+                "error_des": "The word it\u2019s doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "its"
+                ]
+            },
+            {
+                "word": "well developed",
+                "start_idx": 1626,
+                "end_idx": 1640,
+                "error": "Add a hyphen",
+                "error_des": "It seems that well developed is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "well-developed"
+                ]
+            }
+        ]
+    },
+    "submitter": "ppssandeep",
+    "num_words": 262,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "in particular",
+            "on the other hand",
+            "furthermore",
+            "for example",
+            "moreover",
+            "as a ",
+            "this",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "youth",
+                "occurrences": [
+                    {
+                        "start_idx": 262,
+                        "end_idx": 267
+                    },
+                    {
+                        "start_idx": 339,
+                        "end_idx": 344
+                    },
+                    {
+                        "start_idx": 698,
+                        "end_idx": 703
+                    },
+                    {
+                        "start_idx": 1388,
+                        "end_idx": 1393
+                    }
+                ]
+            },
+            {
+                "word": "result",
+                "occurrences": [
+                    {
+                        "start_idx": 765,
+                        "end_idx": 771
+                    },
+                    {
+                        "start_idx": 894,
+                        "end_idx": 900
+                    },
+                    {
+                        "start_idx": 1161,
+                        "end_idx": 1167
+                    },
+                    {
+                        "start_idx": 1346,
+                        "end_idx": 1352
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-24T02:11:15.197Z"
+}

@@ -1,0 +1,141 @@
+{
+    "url": "https://writing9.com/text/62c597fe8ee1ab00180e177f-you-recently-bought-a-camera-while-travelling-overseas-when-you",
+    "file": "data\\7\\62c597fe8ee1ab00180e177f.json",
+    "topics": [
+        "camera",
+        "destination",
+        "items",
+        "box",
+        "representative",
+        "company",
+        "\uf0b7give",
+        "\uf0b7explain",
+        "\uf0b7say"
+    ],
+    "question": "You recently bought a camera while travelling overseas. When you got to your destination you discovered that some important items were missing from the box.Write a letter to the local representative of the company. In your letter\uf0b7give details of the camera and where you bought it\uf0b7explain what has happened\uf0b7say what you want him/her to do about it",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "I am writing to express my dissatisfaction with the product of your company which I purchased it from store in Paris. I bought a digital camera last week while I took a vacation to French. when I arrived in my hometown, and opened a package, I found that the charging cable and camera case were missing.",
+        "I purchased the camera from the shop in the market nearby the Eiffel tower, It is a little shop,painting in green colour and in the opposite shop is a bakery shop. When I arrived home, I opened it, and I cannot find the charging cable, but it was supposed to be there. I curious whether this mistake comes from the shop or the manufacturing.",
+        "I, therefore, suggest that you replace the item or I will be given a full refund, as the warranty covers it.",
+        "Thanks in advance for giving the matter your attention, and I would like you to take the necessary measures so that it does not repeat in the future.",
+        "Best regards,",
+        "Jane P."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "store",
+                "start_idx": 121,
+                "end_idx": 126,
+                "error": "Add an article",
+                "error_des": "The noun phrase store seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a store",
+                    "the store"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 237,
+                "end_idx": 238,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound predicate. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 250,
+                "end_idx": 251,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "I ",
+                "start_idx": 592,
+                "end_idx": 594,
+                "error": "Add a verb",
+                "error_des": "Your sentence appears to be missing a verb.",
+                "suggetions": [
+                    "amI",
+                    "wasI"
+                ]
+            }
+        ]
+    },
+    "submitter": "kei_kee",
+    "num_words": 177,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "last",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "shop",
+                "occurrences": [
+                    {
+                        "start_idx": 355,
+                        "end_idx": 359
+                    },
+                    {
+                        "start_idx": 414,
+                        "end_idx": 418
+                    },
+                    {
+                        "start_idx": 464,
+                        "end_idx": 468
+                    },
+                    {
+                        "start_idx": 481,
+                        "end_idx": 485
+                    },
+                    {
+                        "start_idx": 638,
+                        "end_idx": 642
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-06T14:12:12.354Z"
+}

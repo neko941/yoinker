@@ -1,0 +1,150 @@
+{
+    "url": "https://writing9.com/text/62d5b8ce8ee1ab00180e322e-some-people-claim-that-workers-should-wear-uniforms-others-allege",
+    "file": "data\\7\\62d5b8ce8ee1ab00180e322e.json",
+    "topics": [
+        "people",
+        "workers",
+        "uniforms",
+        "choice"
+    ],
+    "question": "Some people claim that workers should wear uniforms. Others allege that people should be free in their choice. Discuss both opinions, and give your own opinion.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There has been a controversy about whether workers should wear uniforms while working. Some people claim it's necessary to wear, the others have the opposite opinion. I think employees should wear it, and my reasons will be explained in the following paragraphs.",
+        "First, uniforms can effectively manage staff. As we know, people in different positions have different uniforms; for example, office workers wear suits, and industrial workers wear cargo clothes. The reason why there is a difference in uniforms is that those clothes can remain the responsibility each worker should take, manage their behaviour, and give them an identity in the company.",
+        "Second, they can create an enterprise culture. No matter what employees do off duty, when they are on duty and wear the uniform, they can get into a working status promptly. Those uniforms don't only reflect staff's status; they also reflect the company's culture. For example, flight attendants constantly wear unified uniforms, and those uniforms convey a message of professionalism; in other words, they give their clients a feeling that this airline is professional. It's worth mentioning that a good uniform can promote staff's working efficiency. Whenever they wear this uniform, they feel a sense of belonging. As a result, they will work harder.",
+        "On the other hand, there are some disadvantages of wearing uniforms. For instance, it can bring discomfort and exhaustion. It's expected that some uniforms are formal, like suits, they are uncomfortable to wear and make staff feel ill at ease; especially females are required to wear high-wheel shoes in many occupations. And when they are off-duty, they probably feel extremely tired.",
+        "In conclusion, I believe the merits of uniforms outstrip their demerits."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "of",
+                "start_idx": 1356,
+                "end_idx": 1358,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            }
+        ]
+    },
+    "submitter": "junyiwu029",
+    "num_words": 278,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "on the other hand",
+            "second",
+            "for instance",
+            "as a result",
+            "for example",
+            "in other words",
+            "this",
+            "also",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "staff",
+                "occurrences": [
+                    {
+                        "start_idx": 302,
+                        "end_idx": 307
+                    },
+                    {
+                        "start_idx": 859,
+                        "end_idx": 864
+                    },
+                    {
+                        "start_idx": 1176,
+                        "end_idx": 1181
+                    },
+                    {
+                        "start_idx": 1525,
+                        "end_idx": 1530
+                    }
+                ]
+            },
+            {
+                "word": "uniforms",
+                "occurrences": [
+                    {
+                        "start_idx": 63,
+                        "end_idx": 71
+                    },
+                    {
+                        "start_idx": 270,
+                        "end_idx": 278
+                    },
+                    {
+                        "start_idx": 366,
+                        "end_idx": 374
+                    },
+                    {
+                        "start_idx": 499,
+                        "end_idx": 507
+                    },
+                    {
+                        "start_idx": 831,
+                        "end_idx": 839
+                    },
+                    {
+                        "start_idx": 971,
+                        "end_idx": 979
+                    },
+                    {
+                        "start_idx": 991,
+                        "end_idx": 999
+                    },
+                    {
+                        "start_idx": 1364,
+                        "end_idx": 1372
+                    },
+                    {
+                        "start_idx": 1452,
+                        "end_idx": 1460
+                    },
+                    {
+                        "start_idx": 1730,
+                        "end_idx": 1738
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-18T19:47:48.583Z"
+}

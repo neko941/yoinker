@@ -1,0 +1,174 @@
+{
+    "url": "https://writing9.com/text/62df8eed8ee1ab00180e42ed-some-people-think-the-main-purpose-of-schools-is-to",
+    "file": "data\\7\\62df8eed8ee1ab00180e42ed.json",
+    "topics": [
+        "people",
+        "purpose",
+        "schools",
+        "children",
+        "citizens",
+        "workers",
+        "benefit",
+        "individuals"
+    ],
+    "question": "Some people think the main purpose of schools is to turn children into good citizens and workers, rather than to benefit them as individuals. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Studying in school plays an important role in our life.We will spend around 12 years finishing studying.Some people argue that the target of leading in school is to change the children into perfect citizens not benefit them as an individual.However, I do not agree with this point.",
+        "On the one hand, teachers teach lots of basic knowledge about being a standard citizen or worker.However, there is some news on the tv talking about a man who cannot find a suitable job so he killed numerous people.Even though not all student will become a criminal in the future,  it will be a consequence while the school become a factory producing  good and ordinary student,which are useless to  society.",
+        "On the other hand,I think schools need to benefit the different students as individuals.Because,there are various  types of jobs in society.Hence,the school need to help the children to develop their own talent and individual.For example, there is a student who can run very fast but is not good at math.So what  the school need to do is to train him to become a professional athlete in the future ,not a mathematician.After being trained in  school,every student can find a suitable job in the future because of their own talent and individual.",
+        "To summarize, I do not agree the main purpose of school is to transform the kids into  good citizens or employees.Society needs numerous kinds of jobs and personalities to finish different kinds of work.Hence, what schools need to do is train the student to become  individual people in the future."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 786,
+                "end_idx": 787,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction Because. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "sinpaulpaul1234567890",
+    "num_words": 258,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "on the other hand",
+            "hence",
+            "for example",
+            "however",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "student",
+                "occurrences": [
+                    {
+                        "start_idx": 517,
+                        "end_idx": 524
+                    },
+                    {
+                        "start_idx": 652,
+                        "end_idx": 659
+                    },
+                    {
+                        "start_idx": 755,
+                        "end_idx": 762
+                    },
+                    {
+                        "start_idx": 941,
+                        "end_idx": 948
+                    },
+                    {
+                        "start_idx": 1147,
+                        "end_idx": 1154
+                    },
+                    {
+                        "start_idx": 1484,
+                        "end_idx": 1491
+                    }
+                ]
+            },
+            {
+                "word": "school",
+                "occurrences": [
+                    {
+                        "start_idx": 12,
+                        "end_idx": 18
+                    },
+                    {
+                        "start_idx": 152,
+                        "end_idx": 158
+                    },
+                    {
+                        "start_idx": 599,
+                        "end_idx": 605
+                    },
+                    {
+                        "start_idx": 717,
+                        "end_idx": 723
+                    },
+                    {
+                        "start_idx": 841,
+                        "end_idx": 847
+                    },
+                    {
+                        "start_idx": 1008,
+                        "end_idx": 1014
+                    },
+                    {
+                        "start_idx": 1134,
+                        "end_idx": 1140
+                    },
+                    {
+                        "start_idx": 1286,
+                        "end_idx": 1292
+                    },
+                    {
+                        "start_idx": 1452,
+                        "end_idx": 1458
+                    }
+                ]
+            },
+            {
+                "word": "future",
+                "occurrences": [
+                    {
+                        "start_idx": 555,
+                        "end_idx": 561
+                    },
+                    {
+                        "start_idx": 1082,
+                        "end_idx": 1088
+                    },
+                    {
+                        "start_idx": 1186,
+                        "end_idx": 1192
+                    },
+                    {
+                        "start_idx": 1528,
+                        "end_idx": 1534
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-26T06:54:13.072Z"
+}

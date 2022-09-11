@@ -1,0 +1,144 @@
+{
+    "url": "https://writing9.com/text/5de4e162b3b5840018dba3a2-you-live-in-an-english-speaking-country-and-you-want",
+    "file": "data\\7\\5de4e162b3b5840018dba3a2.json",
+    "topics": [
+        "english",
+        "country",
+        "work",
+        "company",
+        "expeditions",
+        "trips",
+        "skills",
+        "volunteer",
+        "sir",
+        "madam"
+    ],
+    "question": "You live in an English speaking country and you want to do some voluntary, unpaid work in a developing country. Write a letter to a company called Cultural Expeditions, which organizes such trips. In your letter:\n\nExplain why you want to do the voluntary work.\nState what your skills and experience are.\nIndicate where you would like to volunteer and for how long.\nBegin your letter as follows: Dear Sir / Madam",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir / Madam,",
+        "I am writing to let you know that I am interested in doing unpaid work with your company. Since I born and brought up in an orphanage in Canada, I have been interested in doing voluntary works from my childhood itself. I believe that doing some unpaid work is good for knowing more about the people around the world. Because of the reputation of the Cultural Expeditions in conducting voluntary works in developing countries, I am very much interested in working with your organisation as a volunteer.",
+        "Let me explain more about me. I have completed my degree in Social Welfare and as a part of my internship, I have done some voluntary works in Africa and Thailand. Last year, I was able to be a part of unpaid work conducted in an old age home in the Qubec.",
+        "Would you kindly allow me to be a part of upcoming welfare activity in India which is going to conduct by next year. As I am taking two years of break after my education, I would like to be there for in the meantime. I love the culture over there and that is the reason I am interested.",
+        "Thank you  for your consideration,",
+        "Yours faithfully,",
+        "Alen John Abraham"
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "born",
+                "start_idx": 118,
+                "end_idx": 122,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "was born"
+                ]
+            },
+            {
+                "word": "me",
+                "start_idx": 550,
+                "end_idx": 552,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "myself"
+                ]
+            },
+            {
+                "word": "Qubec",
+                "start_idx": 774,
+                "end_idx": 779,
+                "error": "Correct your spelling",
+                "error_des": "The word Qubec is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "Quebec"
+                ]
+            },
+            {
+                "word": "upcoming",
+                "start_idx": 824,
+                "end_idx": 832,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the upcoming"
+                ]
+            },
+            {
+                "word": ".",
+                "start_idx": 897,
+                "end_idx": 898,
+                "error": "Change the punctuation",
+                "error_des": "Consider using a question mark to signify that this sentence is a question.",
+                "suggetions": [
+                    "?"
+                ]
+            },
+            {
+                "word": "break",
+                "start_idx": 927,
+                "end_idx": 932,
+                "error": "Add an article",
+                "error_des": "The noun phrase break seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a break"
+                ]
+            },
+            {
+                "word": "for ",
+                "start_idx": 978,
+                "end_idx": 982,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 211,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "last",
+            "next",
+            "that is"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T17:56:35.884Z"
+}

@@ -1,0 +1,158 @@
+{
+    "url": "https://writing9.com/text/61f55372401136001800347f-everyone-should-become-vegetarian-since-they-do-not-need-to",
+    "file": "data\\75\\61f55372401136001800347f.json",
+    "topics": [
+        "meat",
+        "diet"
+    ],
+    "question": "Everyone should become vegetarian since they do not need to eat meat in order to have a healthy diet. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some people have said that all populations should consume only fruits and vegetables for health. If they ate meat, it would negatively affect their health conditions. I strongly disagree with this statement. In the following paragraphs, the reasons to support my opinion will be discussed.",
+        "If they are vegetarian without having any kind of meat\u2019s products, their health will probably be worse than balancing all types of food. Firstly, due to the energy that bodies have spent every day, meat or other types of protein are essential to sufficiently consume each day. Only fruits and vegetables are not able to offer energy for life\u2019s activities. Moreover, meat can be changed into small molecules for taking care of the injured parts of the body, especially if they have heavy exercise. Another reason is that numerous vital mechanisms or hormones within the human\u2019s body depend on protein received from meat. Therefore, cutting down on meat is likely to be more dangerous than getting better health.",
+        "Furthermore, the more they eat something too much, the more they take risks instead. Even though there are a lot of benefits from fruits and vegetables, consumers might lack some kinds of vitamins or minerals which are necessary to some human life\u2019s mechanisms. Those vitamins and minerals cannot discover except only in meat. In addition to all reasons, they might take synthetic chemicals, such as pesticides, spent in the process of modern agriculture. As a result, it is not guaranteed that they will get healthier if they are vegetarian.",
+        "In conclusion, I personally disagree with being healthy without meat consumption. It does not only do they lack essential food for vital parts of the body, but they also have various higher risks when they take something too much."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "spent",
+                "start_idx": 471,
+                "end_idx": 476,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb spent. Consider changing it.",
+                "suggetions": [
+                    "spend"
+                ]
+            },
+            {
+                "word": "consume",
+                "start_idx": 549,
+                "end_idx": 556,
+                "error": "Change the verb form",
+                "error_des": "The verb consume may be in the wrong form after the preposition to. Consider changing it to the gerund form.",
+                "suggetions": [
+                    "consuming"
+                ]
+            }
+        ]
+    },
+    "submitter": "choco_philia",
+    "num_words": 291,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "as a result",
+            "furthermore",
+            "moreover",
+            "instead",
+            "in addition",
+            "therefore",
+            "this",
+            "also",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 89,
+                        "end_idx": 95
+                    },
+                    {
+                        "start_idx": 148,
+                        "end_idx": 154
+                    },
+                    {
+                        "start_idx": 363,
+                        "end_idx": 369
+                    },
+                    {
+                        "start_idx": 993,
+                        "end_idx": 999
+                    },
+                    {
+                        "start_idx": 1510,
+                        "end_idx": 1516
+                    },
+                    {
+                        "start_idx": 1592,
+                        "end_idx": 1598
+                    }
+                ]
+            },
+            {
+                "word": "meat",
+                "occurrences": [
+                    {
+                        "start_idx": 109,
+                        "end_idx": 113
+                    },
+                    {
+                        "start_idx": 340,
+                        "end_idx": 344
+                    },
+                    {
+                        "start_idx": 488,
+                        "end_idx": 492
+                    },
+                    {
+                        "start_idx": 656,
+                        "end_idx": 660
+                    },
+                    {
+                        "start_idx": 904,
+                        "end_idx": 908
+                    },
+                    {
+                        "start_idx": 937,
+                        "end_idx": 941
+                    },
+                    {
+                        "start_idx": 1322,
+                        "end_idx": 1326
+                    },
+                    {
+                        "start_idx": 1608,
+                        "end_idx": 1612
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-01-29T14:57:04.742Z"
+}

@@ -1,0 +1,176 @@
+{
+    "url": "https://writing9.com/text/62c00e438ee1ab00180e0da5-some-people-think-that-it-is-a-waste-of-time",
+    "file": "data\\7\\62c00e438ee1ab00180e0da5.json",
+    "topics": [
+        "people",
+        "waste",
+        "time",
+        "school",
+        "students",
+        "study",
+        "literature",
+        "novels",
+        "poems"
+    ],
+    "question": "Some people think that it is a waste of time for high school students to study literature, such as novels and poems.\n\n\nTo what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many today claim that learning about literature should no longer be a key component of the high school curriculum. In my opinion, there are practical reasons for this sentiment but literature still serves a purpose.",
+        "Proponents of this reform argue other subjects deserve prioritisation. There is little doubt that in the 21st century, the most important subjects for students\u2019 future careers relate to the sciences, such as engineering and computer science, or the practical humanities, like business. The earlier that students begin specialising, the more likely they are to have a head start on the competition and secure a well-paying job immediately after graduating high school or university. In contrast, the novels and poems that students read in high school are usually completely forgotten within a few years and do not teach any tangible skills that will help them advance in the real world.",
+        "Nonetheless, literature contains many of the most important and fundamental truths about the human condition. Life is about more than a career and great authors tackle the most fundamental philosophical and psychological questions. For example, the masters of 19th century Russian literature, including Tolstoy and Dostoevsky, are primarily concerned with human psychology and how this fits into a larger context of man\u2019s search for meaning. Their exploration of these issues is relevant to everyone and cannot be replaced with a steady career. Moreover, the way in which great writers develop their themes, the aesthetic quality of their writing itself, imparts to careful readers the importance of artistic expression and may help them see outside the narrow modern confines of accumulating the most material wealth.",
+        "In conclusion, the utilitarian benefits of studying practical subjects do not outweigh the deeper values of literature. It is therefore advisable that literature be emphasised in high school classrooms."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "relate",
+                "start_idx": 392,
+                "end_idx": 398,
+                "error": "Change the form of the verb",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb relate. Consider changing it.",
+                "suggetions": [
+                    "related"
+                ]
+            },
+            {
+                "word": "business",
+                "start_idx": 492,
+                "end_idx": 500,
+                "error": "Add an article",
+                "error_des": "The noun phrase business seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a business"
+                ]
+            },
+            {
+                "word": "literature",
+                "start_idx": 915,
+                "end_idx": 925,
+                "error": "Add an article",
+                "error_des": "The noun phrase literature seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the literature"
+                ]
+            },
+            {
+                "word": "19th century",
+                "start_idx": 1162,
+                "end_idx": 1174,
+                "error": "Add a hyphen",
+                "error_des": "It seems that 19th century is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "19th-century"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 1510,
+                "end_idx": 1513,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and the"
+                ]
+            }
+        ]
+    },
+    "submitter": "jamshidobloqulov32",
+    "num_words": 297,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "nonetheless",
+            "for example",
+            "moreover",
+            "in contrast",
+            "therefore",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "school",
+                "occurrences": [
+                    {
+                        "start_idx": 96,
+                        "end_idx": 102
+                    },
+                    {
+                        "start_idx": 676,
+                        "end_idx": 682
+                    },
+                    {
+                        "start_idx": 759,
+                        "end_idx": 765
+                    },
+                    {
+                        "start_idx": 1905,
+                        "end_idx": 1911
+                    }
+                ]
+            },
+            {
+                "word": "literature",
+                "occurrences": [
+                    {
+                        "start_idx": 37,
+                        "end_idx": 47
+                    },
+                    {
+                        "start_idx": 181,
+                        "end_idx": 191
+                    },
+                    {
+                        "start_idx": 915,
+                        "end_idx": 925
+                    },
+                    {
+                        "start_idx": 1183,
+                        "end_idx": 1193
+                    },
+                    {
+                        "start_idx": 1829,
+                        "end_idx": 1839
+                    },
+                    {
+                        "start_idx": 1872,
+                        "end_idx": 1882
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-02T09:22:13.143Z"
+}

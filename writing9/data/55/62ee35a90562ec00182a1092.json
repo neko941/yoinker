@@ -1,0 +1,211 @@
+{
+    "url": "https://writing9.com/text/62ee35a90562ec00182a1092-some-people-believe-that-reading-stories-from-a-book-is",
+    "file": "data\\55\\62ee35a90562ec00182a1092.json",
+    "topics": [
+        "people",
+        "stories",
+        "book",
+        "tv",
+        "computer",
+        "games",
+        "children"
+    ],
+    "question": "Some people believe that reading stories from a book is better than watching TV or playing computer games for children. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is often argued that reading a book is superior to watching TV or playing games as regards children's academic proficiency and physical health.",
+        "To commence, reading books is the most effective way for children to acquire knowledge. The amount of knowledge attained from schools can be limited and incomprehensive because the maximum of time in school for each subject is just 45 minutes. Reading books, therefore, can certainly shed light on conundrums in school lectures, which are often misunderstood by students, paving the way for scion to perform academically successful at education institutions. As reported in the Times magazines, heir who are interested in reading book, are more likely to sustain their academic momentum and achieve more outstanding prizes in education competitions.",
+        "On the other hand, Reading book for pleasure can be advantageous for children's overall well-being in several ways. Firstly, both watching TV and playing video games involve using technology, juveniles often use electronic devices to watch their favourite TV programs or play online games which leads to the increasingly alarming rate of adolescents diagnosed with eye diseases. Additionally, reading book give today's youngsters a deep understanding of health and the importance of maintaining a healthy body. They, therefore, are more likely to try out a variety of physical activities that significantly enhance their physical levels, and which spread the positive energy to their peers who might have been addicted to video games or spent a great deal of time staying at home watching uneducational TV programs. I would argue that reading is potentially beneficial for offspring's physical health.",
+        "In conclusion, reading a book is preferable for children due to favourable advantages both in terms of academic insight and physical fitness."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "heir",
+                "start_idx": 642,
+                "end_idx": 646,
+                "error": "Add an article",
+                "error_des": "The noun phrase heir seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an heir",
+                    "the heir"
+                ]
+            },
+            {
+                "word": "reading",
+                "start_idx": 669,
+                "end_idx": 676,
+                "error": "Add an article",
+                "error_des": "The noun phrase reading book seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a reading"
+                ]
+            },
+            {
+                "word": "book",
+                "start_idx": 677,
+                "end_idx": 681,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that book may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "books"
+                ]
+            },
+            {
+                "word": "book",
+                "start_idx": 825,
+                "end_idx": 829,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that book may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "books"
+                ]
+            },
+            {
+                "word": "give",
+                "start_idx": 1204,
+                "end_idx": 1208,
+                "error": "Change the verb form",
+                "error_des": "The plural verb give does not appear to agree with the singular subject reading book. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "gives"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1453,
+                "end_idx": 1457,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "nhuminh031001",
+    "num_words": 283,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "additionally",
+            "on the other hand",
+            "firstly",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "children",
+                "occurrences": [
+                    {
+                        "start_idx": 94,
+                        "end_idx": 102
+                    },
+                    {
+                        "start_idx": 204,
+                        "end_idx": 212
+                    },
+                    {
+                        "start_idx": 866,
+                        "end_idx": 874
+                    },
+                    {
+                        "start_idx": 1747,
+                        "end_idx": 1755
+                    }
+                ]
+            },
+            {
+                "word": "book",
+                "occurrences": [
+                    {
+                        "start_idx": 34,
+                        "end_idx": 38
+                    },
+                    {
+                        "start_idx": 168,
+                        "end_idx": 172
+                    },
+                    {
+                        "start_idx": 399,
+                        "end_idx": 403
+                    },
+                    {
+                        "start_idx": 677,
+                        "end_idx": 681
+                    },
+                    {
+                        "start_idx": 824,
+                        "end_idx": 828
+                    },
+                    {
+                        "start_idx": 1198,
+                        "end_idx": 1202
+                    },
+                    {
+                        "start_idx": 1724,
+                        "end_idx": 1728
+                    }
+                ]
+            },
+            {
+                "word": "tv",
+                "occurrences": []
+            },
+            {
+                "word": "games",
+                "occurrences": [
+                    {
+                        "start_idx": 77,
+                        "end_idx": 82
+                    },
+                    {
+                        "start_idx": 957,
+                        "end_idx": 962
+                    },
+                    {
+                        "start_idx": 1080,
+                        "end_idx": 1085
+                    },
+                    {
+                        "start_idx": 1525,
+                        "end_idx": 1530
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-06T09:44:34.441Z"
+}

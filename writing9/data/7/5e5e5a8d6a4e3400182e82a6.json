@@ -1,0 +1,127 @@
+{
+    "url": "https://writing9.com/text/5e5e5a8d6a4e3400182e82a6",
+    "file": "data\\7\\5e5e5a8d6a4e3400182e82a6.json",
+    "topics": [
+        "percentage",
+        "children",
+        "society",
+        "%",
+        "ten",
+        "years",
+        "effects",
+        "trend"
+    ],
+    "question": "The percentage of overweight children in western society has increased by almost 20% in the last ten years.\n\n\nDiscuss the causes and effects of this disturbing trend.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Obesity is one of the major problems among pupils in recent times. The number of pupils suffering with excess weight problems has significantly increased in the western countries. Eating unhealthy foods and lack of physical activity are among the major causes of this problem. Due to this it will, it will not only affect their performance in academics, but also there is a high possibility of getting heart diseases.",
+        "Firstly, one of the major causes of this problem is due to improper or poor eating habits. In other words, these days, many children prefer to eat foods which are rich in fats and bad cholesterol like pizzas and fries rather than eating foods which are rich in nutrients and vitamins. Secondly, another cause is due to lack of physical activity or exercise among children in school or at home. Due to very competitive and busy lifestyle, pupils these days do not get sufficient exercise in their daily life. Specifically, children in western countries  with a sedentary lifestyle  and a poor diet are major victims of this issue.",
+        "There are two major problems that can affect kids with overweight, one of them is heart diseases. There is an increased risk of getting cardio problems by consuming unhealthy fatty foods. Moreover, unsaturated fats in these foods block veins in the heart causing heart attack or other cardio issues. Another problem with obese pupils is that they tend to perform poorly in academics. Due to lack of exercise and high stress makes them fatigued and restless. As a result, they won't be able to concentrate on studies.",
+        "To conclude, the overweight problems in pupils will deteriorate if this trend continues without taking proper measures. Avoiding unhealthy fatty foods and doing regular exercise will help to reduce risk of getting obesity related issues."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "heart causing",
+                "start_idx": 1299,
+                "end_idx": 1312,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "heart, causing"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 299,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "as a result",
+            "in other words",
+            "moreover",
+            "this",
+            "also",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "exercise",
+                "occurrences": [
+                    {
+                        "start_idx": 766,
+                        "end_idx": 774
+                    },
+                    {
+                        "start_idx": 896,
+                        "end_idx": 904
+                    },
+                    {
+                        "start_idx": 1447,
+                        "end_idx": 1455
+                    },
+                    {
+                        "start_idx": 1734,
+                        "end_idx": 1742
+                    }
+                ]
+            },
+            {
+                "word": "heart",
+                "occurrences": [
+                    {
+                        "start_idx": 402,
+                        "end_idx": 407
+                    },
+                    {
+                        "start_idx": 1130,
+                        "end_idx": 1135
+                    },
+                    {
+                        "start_idx": 1297,
+                        "end_idx": 1302
+                    },
+                    {
+                        "start_idx": 1311,
+                        "end_idx": 1316
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-03-03T13:24:29.249Z"
+}

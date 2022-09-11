@@ -1,0 +1,112 @@
+{
+    "url": "https://writing9.com/text/5f1ef60f93166d0018e53c51",
+    "file": "data\\7\\5f1ef60f93166d0018e53c51.json",
+    "topics": [
+        "author"
+    ],
+    "question": "Write your opinion. Do you agree or disagree with the author? Why?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Place matters most for the development of a infant. According to the author, people should prefer a metropolitan city over a village. In my opinion, big cities are a better place for children.",
+        "Firstly, living in a metropolitan city is more stressful than living in a village, as the cost of living is high. The environment in the countryside is pure. For instance, the pollution level of Delhi is highest, while it's vice versa in the villages of India. Children who grow up in a big city have more opportunities. If a minor wants to sing, dance, or play a musical instrument, he or she can easily find different teachers or clubs. A juvenile who is interested in sports has a lot of sports to choose from. In addition, most big cities have excellent museums, zoos, art galleries, and libraries. Therefore, children can spend their evenings, weekends, and summers learning about many different subjects. By experiencing a wide range of activities, children will be able to find out what they like and maybe find a special interest.",
+        "Secondly, despite some disadvantages, the number of advantages will overshadow it. The children will develop their perspective to see the earth along with ample opportunities available for their career. For example, children can choose their interested field as their career option, as they can easily find different teachers or clubs. Children can develop a earth view in a big city. In big cities, there are people from many different backgrounds. It is good for young people to meet people from different cultures It prepares them for the real world. They can learn ideas or opinions that are different from the ones they are used to. By meeting people from all around the earth, a big city teenager is more likely to consider many different solutions.",
+        "In conclusion, despite preferring village life, parents should choose metropolitan cities for more opportunities in the future."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "a",
+                "start_idx": 42,
+                "end_idx": 43,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 1389,
+                "end_idx": 1390,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an"
+                ]
+            }
+        ]
+    },
+    "submitter": "Ajay Panchani",
+    "num_words": 319,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for example",
+            "in addition",
+            "therefore",
+            "for instance",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "city",
+                "occurrences": [
+                    {
+                        "start_idx": 113,
+                        "end_idx": 117
+                    },
+                    {
+                        "start_idx": 227,
+                        "end_idx": 231
+                    },
+                    {
+                        "start_idx": 484,
+                        "end_idx": 488
+                    },
+                    {
+                        "start_idx": 1411,
+                        "end_idx": 1415
+                    },
+                    {
+                        "start_idx": 1721,
+                        "end_idx": 1725
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-27T15:45:56.303Z"
+}

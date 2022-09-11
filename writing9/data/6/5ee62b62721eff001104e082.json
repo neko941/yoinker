@@ -1,0 +1,214 @@
+{
+    "url": "https://writing9.com/text/5ee62b62721eff001104e082",
+    "file": "data\\6\\5ee62b62721eff001104e082.json",
+    "topics": [
+        "space",
+        "exploration",
+        "costs",
+        "tax",
+        "payers\u2019",
+        "amount",
+        "money",
+        "year"
+    ],
+    "question": "Space exploration costs tax payers\u2019 an exorbitant amount of money each year. What are the advantages and disadvantages of spending money on space exploration?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Citizens pay a big ratio of their taxes to space exploration each year. Some advantage of paying to space exploration companies is that they search for potential populable planets in our galaxy; they also help us in everyday situations, such as providing internet and helping us navigate anywhere. On the other hand, exploring space has disadvantages that are negligence to other institutions such as healthcare and education, and the threats to astronauts\u2019 lives.",
+        "",
+        "Governments all over the world have been funding space exploration since the middle of the previous century. Having done that they have given us various benefits, such as the ability to navigate easily around cities and the access to internet servers located in the furthest points in the world. It would be difficult to imagine our life without the internet because we are all dependent on it because it is a source of information, communication and entertainment. It would also be difficult to navigate if all the GPS satellites were to be turned off. In addition, exploring space has presented several populable planets which will be useful if the Earth is uninhabitable anymore.",
+        "The drawbacks of exploring space that not only does it put astronauts under great risk, but it also takes trillions of dollars to maintain thus leaving other essential institutions without funding. Being one of the most dangerous jobs, nearly 40% of astronauts do not return to their homes due to accidents. Additionally, little do most of us understand how expensive NASA research is. In other words, all the trillions of dollars spent on sending rockets into space could be spent on healthcare and education institutions. If the US government did not invest into space travelling, it would now be richer by fourteen trillion dollars.",
+        "In conclusion, even though space exploration is a very dangerous and costly, if it were not for the science institution we would not have such possibilities as preventing catastrophes and helping the humanity in the future."
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "to",
+                "start_idx": 97,
+                "end_idx": 99,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "populable",
+                "start_idx": 162,
+                "end_idx": 171,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "negligence",
+                "start_idx": 360,
+                "end_idx": 370,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "negligent"
+                ]
+            },
+            {
+                "word": "healthcare",
+                "start_idx": 401,
+                "end_idx": 411,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "health care"
+                ]
+            },
+            {
+                "word": "cities",
+                "start_idx": 676,
+                "end_idx": 682,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the cities"
+                ]
+            },
+            {
+                "word": "populable",
+                "start_idx": 1072,
+                "end_idx": 1081,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "into",
+                "start_idx": 1712,
+                "end_idx": 1716,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "institution we",
+                "start_idx": 1897,
+                "end_idx": 1911,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "institution, we"
+                ]
+            }
+        ]
+    },
+    "submitter": "Nataliia Litovchenko",
+    "num_words": 326,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "in other words",
+            "in addition",
+            "additionally",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "exploration",
+                "occurrences": [
+                    {
+                        "start_idx": 49,
+                        "end_idx": 60
+                    },
+                    {
+                        "start_idx": 106,
+                        "end_idx": 117
+                    },
+                    {
+                        "start_idx": 521,
+                        "end_idx": 532
+                    },
+                    {
+                        "start_idx": 1818,
+                        "end_idx": 1829
+                    }
+                ]
+            },
+            {
+                "word": "space",
+                "occurrences": [
+                    {
+                        "start_idx": 43,
+                        "end_idx": 48
+                    },
+                    {
+                        "start_idx": 100,
+                        "end_idx": 105
+                    },
+                    {
+                        "start_idx": 327,
+                        "end_idx": 332
+                    },
+                    {
+                        "start_idx": 515,
+                        "end_idx": 520
+                    },
+                    {
+                        "start_idx": 1043,
+                        "end_idx": 1048
+                    },
+                    {
+                        "start_idx": 1176,
+                        "end_idx": 1181
+                    },
+                    {
+                        "start_idx": 1610,
+                        "end_idx": 1615
+                    },
+                    {
+                        "start_idx": 1714,
+                        "end_idx": 1719
+                    },
+                    {
+                        "start_idx": 1812,
+                        "end_idx": 1817
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-06-14T13:51:33.424Z"
+}

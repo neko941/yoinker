@@ -1,0 +1,157 @@
+{
+    "url": "https://writing9.com/text/5cbcd6bac9f98d5bdadf7d27",
+    "file": "data\\7\\5cbcd6bac9f98d5bdadf7d27.json",
+    "topics": [
+        "traffic",
+        "congestion",
+        "cities",
+        "measures"
+    ],
+    "question": "Traffic congestion is becoming a huge problem for many major cities. Suggest some measures that could be taken to reduce traffic in big cities.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, it is obvious that the congestion in nearly all over the world is on the increase and cities are becoming busier. In my opinion, this problem must be tackled because it is a global issue and most of people, especially who live in big cities, are suffering from that.",
+        "",
+        "One of the main reasons which causes the traffic jam is that the majority of people prefer using their own cars instead of public transportation. However, it is not impossible to find good and effective ways to control the congestion. Public transportation is the easiest way to solve this trouble. If there are comfortable and cheap public transportations such as trains and buses, they will make people like to use them better than drive. For instance, in Manchester, Stagecoach buses are the most convenient buses that help the city to have comfortable life in its roads and streets during rush hours. In fact, governments should provide much better public transportation and charge prices that are affordable for everyone.",
+        "",
+        "Another solution to solve that is to charge the congestion fee for every car that will go into a city centre. It will either discourage people from driving into that area, or raise more money for public transportation. A good example of this situation is London, which now has a congestion charge. Going to the city centre in London costs about \u00a38 per day.",
+        "In conclusion, the problem of traffic congestion can be tackled by improving public transportation and by charging drivers who enter city centres."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "comfortable life",
+                "start_idx": 823,
+                "end_idx": 839,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a comfortable life"
+                ]
+            }
+        ]
+    },
+    "submitter": "brk_guney",
+    "num_words": 254,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for instance",
+            "instead",
+            "however",
+            "that is",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "transportation",
+                "occurrences": [
+                    {
+                        "start_idx": 408,
+                        "end_idx": 422
+                    },
+                    {
+                        "start_idx": 520,
+                        "end_idx": 534
+                    },
+                    {
+                        "start_idx": 619,
+                        "end_idx": 633
+                    },
+                    {
+                        "start_idx": 938,
+                        "end_idx": 952
+                    },
+                    {
+                        "start_idx": 1209,
+                        "end_idx": 1223
+                    },
+                    {
+                        "start_idx": 1447,
+                        "end_idx": 1461
+                    }
+                ]
+            },
+            {
+                "word": "city",
+                "occurrences": [
+                    {
+                        "start_idx": 809,
+                        "end_idx": 813
+                    },
+                    {
+                        "start_idx": 1103,
+                        "end_idx": 1107
+                    },
+                    {
+                        "start_idx": 1317,
+                        "end_idx": 1321
+                    },
+                    {
+                        "start_idx": 1496,
+                        "end_idx": 1500
+                    }
+                ]
+            },
+            {
+                "word": "congestion",
+                "occurrences": [
+                    {
+                        "start_idx": 33,
+                        "end_idx": 43
+                    },
+                    {
+                        "start_idx": 501,
+                        "end_idx": 511
+                    },
+                    {
+                        "start_idx": 1054,
+                        "end_idx": 1064
+                    },
+                    {
+                        "start_idx": 1285,
+                        "end_idx": 1295
+                    },
+                    {
+                        "start_idx": 1401,
+                        "end_idx": 1411
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-21T20:46:50.000Z"
+}

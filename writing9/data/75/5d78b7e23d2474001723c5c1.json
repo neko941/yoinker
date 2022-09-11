@@ -1,0 +1,163 @@
+{
+    "url": "https://writing9.com/text/5d78b7e23d2474001723c5c1",
+    "file": "data\\75\\5d78b7e23d2474001723c5c1.json",
+    "topics": [
+        "people",
+        "office",
+        "meals",
+        "relatives"
+    ],
+    "question": "As people are working strenuously hard at the office, this makes impossible to eat meals with relatives.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the past, the conventional system of each family of eating meals was sitting and dining on the table. However, these days, the tendency of eating a meal has changed, and people prefer to have food separately. There are lots of reasons which affects our relationship.",
+        "First and foremost, nowadays, people are maintaining a hectic schedule in the workplace, which considers as the main reason why family members are unable to dine together. The reality of each person, in modern time, is that they work outside of their houses, which may be very far from the office. Eventually, they get neither time to go home, nor any time to eat together with the family. For example, studies have shown that since most of the employers in the USA get a little time to fulfil their belly, they can not go home within a short time. This, invariably, leads them to take fast food which could be finished just having 4 or 5 bites. Therefore, people work strenuously hard at the office so that they are unable to go home, which makes them impossible to eat meals with relatives.",
+        "The influence of absence, in the dining table, is a very negative one. The reason is that when one of the family members is not present, he/she is unable to share his/her feelings, gloominess, and even hilarious moment outside the home such as in schools, offices, and with friends. For instance, when the individual does not dine with his parents even in mealtime, this, eventually, detaches them from the family members. As a result, since he is isolated from family, he would face a psychosomatic problem. Thus, dining, at the same table, has some positive impacts on individuals.",
+        "In conclusion, gone are those days when people dine together. This is because people are dealing with a busy routine which leads them in the condition of isolation due to unable to share the information of their lives with other family members."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "on",
+                "start_idx": 91,
+                "end_idx": 93,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "separately",
+                "start_idx": 200,
+                "end_idx": 210,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "separating"
+                ]
+            },
+            {
+                "word": "can not",
+                "start_idx": 783,
+                "end_idx": 790,
+                "error": "can not",
+                "error_des": "",
+                "suggetions": [
+                    "cannot"
+                ]
+            },
+            {
+                "word": "this",
+                "start_idx": 1431,
+                "end_idx": 1435,
+                "error": "(used to introduce a logical conclusion) from that fact or reason or as a result",
+                "error_des": "",
+                "suggetions": [
+                    "thus"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 328,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "thus",
+            "for instance",
+            "as a result",
+            "for example",
+            "however",
+            "therefore",
+            "this",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 480,
+                        "end_idx": 484
+                    },
+                    {
+                        "start_idx": 597,
+                        "end_idx": 601
+                    },
+                    {
+                        "start_idx": 622,
+                        "end_idx": 626
+                    },
+                    {
+                        "start_idx": 749,
+                        "end_idx": 753
+                    },
+                    {
+                        "start_idx": 813,
+                        "end_idx": 817
+                    },
+                    {
+                        "start_idx": 1423,
+                        "end_idx": 1427
+                    }
+                ]
+            },
+            {
+                "word": "home",
+                "occurrences": [
+                    {
+                        "start_idx": 608,
+                        "end_idx": 612
+                    },
+                    {
+                        "start_idx": 793,
+                        "end_idx": 797
+                    },
+                    {
+                        "start_idx": 1000,
+                        "end_idx": 1004
+                    },
+                    {
+                        "start_idx": 1294,
+                        "end_idx": 1298
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-11T09:01:22.523Z"
+}

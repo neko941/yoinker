@@ -1,0 +1,239 @@
+{
+    "url": "https://writing9.com/text/5d09bdda9494f5001057ee4d",
+    "file": "data\\6\\5d09bdda9494f5001057ee4d.json",
+    "topics": [
+        "places",
+        "world",
+        "tourism",
+        "source",
+        "income"
+    ],
+    "question": "A lot of places in the world rely on tourism as a main source of income. Unfortunately, tourism can also be a source of problems if it is not managed correctly. Describe the advantages and disadvantages of tourism in the modern world.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is undeniable true that tourists are the primary element of income for some places. However, mis-management leads to various issues such as degradation of environment and distortion of cultural heritage. This essay will discuss the merits and demerits of tourism in this modern era.",
+        "Tourism has numerous positives despite the downsides in this sector. Firstly, it promotes cultural exchange among people from different cultures thereby allowing them to meet and understand each other. Therefore, give them the opportunity to respect and foster the cultural diversity. Secondly, it helps in boosting the overall economic growth of the nation as tourists spend lavishly on their vacations thereby improves the GDP of  country. Thirdly, service sector which is directly linked to tourism provides various job opportunities for young adults. For instance, a survey conducted in 2017 depicts that the number of jobs in the hilly areas of India rose to 20% because of visitors.",
+        "Nevertheless, there are many benefits of tourism but there are some disadvantages of the same. The major problem is that people tends to destroy the local architecture and natural habitat of the region by throwing waste products and scribbling over monuments. In addition to this, resorts owners cut down the trees for their profits and to attracts more tourists therefore, degrading the environment. Moreover, at some places tourists spreads illegal activities such as importation of drugs and weed which as a consequences ,destroying the peace. To illustrate, the rise in crime at historic places has increased from 25% to 40% due to these practices.",
+        "In conclusion, tourism catalyses the growth of nation along with generation of employment  yet it leads to destruction of natural habitat and heritage sites."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "undeniable",
+                "start_idx": 6,
+                "end_idx": 16,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "undeniably"
+                ]
+            },
+            {
+                "word": "mis-management",
+                "start_idx": 96,
+                "end_idx": 110,
+                "error": "management that is careless or inefficient",
+                "error_des": "",
+                "suggetions": [
+                    "mismanagement"
+                ]
+            },
+            {
+                "word": "environment",
+                "start_idx": 158,
+                "end_idx": 169,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the environment"
+                ]
+            },
+            {
+                "word": "among",
+                "start_idx": 395,
+                "end_idx": 400,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "between"
+                ]
+            },
+            {
+                "word": "cultures thereby",
+                "start_idx": 423,
+                "end_idx": 439,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "cultures, thereby"
+                ]
+            },
+            {
+                "word": "country",
+                "start_idx": 720,
+                "end_idx": 727,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the country",
+                    "a country",
+                    "countries"
+                ]
+            },
+            {
+                "word": "sector which",
+                "start_idx": 746,
+                "end_idx": 758,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "sector, which"
+                ]
+            },
+            {
+                "word": "tourism but",
+                "start_idx": 1018,
+                "end_idx": 1029,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "tourism, but"
+                ]
+            },
+            {
+                "word": "tends",
+                "start_idx": 1105,
+                "end_idx": 1110,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "tend"
+                ]
+            },
+            {
+                "word": "monuments",
+                "start_idx": 1226,
+                "end_idx": 1235,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the monuments"
+                ]
+            },
+            {
+                "word": "attracts",
+                "start_idx": 1317,
+                "end_idx": 1325,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "attract"
+                ]
+            },
+            {
+                "word": "consequences",
+                "start_idx": 1488,
+                "end_idx": 1500,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "consequence"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 1500,
+                "end_idx": 1502,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "nation",
+                "start_idx": 1679,
+                "end_idx": 1685,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the nation"
+                ]
+            }
+        ]
+    },
+    "submitter": "Serhii Baraniuk",
+    "num_words": 280,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "for instance",
+            "thirdly",
+            "nevertheless",
+            "moreover",
+            "however",
+            "in addition",
+            "secondly",
+            "therefore",
+            "this",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "tourism",
+                "occurrences": [
+                    {
+                        "start_idx": 258,
+                        "end_idx": 265
+                    },
+                    {
+                        "start_idx": 780,
+                        "end_idx": 787
+                    },
+                    {
+                        "start_idx": 1016,
+                        "end_idx": 1023
+                    },
+                    {
+                        "start_idx": 1643,
+                        "end_idx": 1650
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-19T04:45:14.000Z"
+}

@@ -1,0 +1,120 @@
+{
+    "url": "https://writing9.com/text/61ed3a0040113600180028b5-you-have-a-complaint-about-the-hotel-you-stayed-at",
+    "file": "data\\65\\61ed3a0040113600180028b5.json",
+    "topics": [
+        "complaint",
+        "hotel",
+        "organiser",
+        "company",
+        "face"
+    ],
+    "question": "You have a complaint about the hotel you stayed at while attending a meeting that was booked by the organiser of a company meeting. Write a letter to the organiser of the meeting and include\u2022\tDetails about the meeting\u2022\tThe problem you face\u2022\tWhat should be done",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "I am writing to express my dissatisfaction about the Sunrise hotel that was booked by your organisation for the annual meeting of my IT company.",
+        "The scheduled meeting was from 9am until 3pm with a break of about 1 hour in between and consisted of a panel of 10 members. Important details about the financial status were discussed in the beginning and around 2pm there was supposed to have a private voting.",
+        "However, during the break hour, it was so disappointing that lunch was not arranged and we had to continue the meeting on an empty stomach. This was very annoying as we were not able to concentrate on the rest of the meeting. Consequently, the voting session was cancelled.",
+        "It would have been appreciated, if the starting and ending time of a meeting could be considered while your organisation make a booking. If the meeting includes lunch time, organising a lunch or even a brunch would be a good practice to improve the quality of your services.",
+        "I hope you would acknowledge this letter with high importance!",
+        "Yours faithfully,",
+        "Vani Manikkam."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "about",
+                "start_idx": 62,
+                "end_idx": 67,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 408,
+                "end_idx": 410,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun voting in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 730,
+                "end_idx": 731,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker if. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 861,
+                "end_idx": 861,
+                "error": "Correct your spelling",
+                "error_des": "The word lunch time seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "lunchtime"
+                ]
+            },
+            {
+                "word": "lunch time",
+                "start_idx": 861,
+                "end_idx": 871,
+                "error": "Correct your spelling",
+                "error_des": "The word lunch time seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "lunchtime"
+                ]
+            }
+        ]
+    },
+    "submitter": "vani950313",
+    "num_words": 186,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "consequently",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-01-23T11:21:18.224Z"
+}

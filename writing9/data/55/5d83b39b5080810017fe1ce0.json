@@ -1,0 +1,135 @@
+{
+    "url": "https://writing9.com/text/5d83b39b5080810017fe1ce0",
+    "file": "data\\55\\5d83b39b5080810017fe1ce0.json",
+    "topics": [
+        "say",
+        "music",
+        "art",
+        "drama",
+        "school",
+        "subjects",
+        "level"
+    ],
+    "question": "Some say that music, art, and drama are as important as other school subjects, especially at the primary level.\nDo you agree or disagree?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is argued that at the grade level music, art, and theatre are worth studying with other curricula. This essay completely disagrees with the statement because these subjects are of least importance according to recent trends and children are immature to recognize their interests.",
+        "This is an era of science and technology, so with the rapidly developing modern world rather than studying arts, music, and theatre, it is important to study science, math, and other related subjects according to the future prospect of the students. Furthermore, if grade students are interested, these subjects can be taught at home, in a summer vacation or as a side course during pupil\u2019s free time because the addition of these subjects in the curriculum would result in the waste of precious time in the learning phase of primary students.",
+        "At primary level students are too young to prioritize things and they barely know the importance of all subjects so, as these subject provide entertainment to the students it is more likely that they lose focus from the main course of study and deviate more towards these unimportant subjects. However, these should be subject of interest at secondary level when students are mature enough to select their career after considering everything. For example, a recent report published in the Daily times stated that the schools which introduce music and drama as part of curriculum fail to produce more creative students due to the lack of focus on important subjects.",
+        "To conclude, this essay suggests that at basic level singing, acting and arts must not be given more importance because in this contemporary era, scientists and technologists are in demand, moreover, it results in a deviation from normal study pattern."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "arts",
+                "start_idx": 391,
+                "end_idx": 395,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "art"
+                ]
+            },
+            {
+                "word": "pupil\u2019s free time",
+                "start_idx": 667,
+                "end_idx": 684,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the pupil\u2019s free time",
+                    "a pupil\u2019s free time",
+                    "pupil\u2019s free times"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 1040,
+                "end_idx": 1044,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "normal study pattern",
+                "start_idx": 1727,
+                "end_idx": 1747,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the normal study pattern"
+                ]
+            }
+        ]
+    },
+    "submitter": "zeerak0229",
+    "num_words": 284,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "furthermore",
+            "for example",
+            "moreover",
+            "however",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "level",
+                "occurrences": [
+                    {
+                        "start_idx": 31,
+                        "end_idx": 36
+                    },
+                    {
+                        "start_idx": 838,
+                        "end_idx": 843
+                    },
+                    {
+                        "start_idx": 1179,
+                        "end_idx": 1184
+                    },
+                    {
+                        "start_idx": 1540,
+                        "end_idx": 1545
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-19T16:58:03.631Z"
+}

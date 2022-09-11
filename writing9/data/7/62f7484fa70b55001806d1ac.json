@@ -1,0 +1,167 @@
+{
+    "url": "https://writing9.com/text/62f7484fa70b55001806d1ac-women-and-men-are-commonly-seen-as-having-different-strengths",
+    "file": "data\\7\\62f7484fa70b55001806d1ac.json",
+    "topics": [
+        "women",
+        "men",
+        "strengths",
+        "weaknesses",
+        "right",
+        "males",
+        "females",
+        "professions",
+        "gender"
+    ],
+    "question": "Women and men are commonly seen as having different strengths and weaknesses.  Is it right to exclude males or females from certain professions because of their gender?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many people nowadays discuss gender discrimination at work, and it's an ongoing debate whether men and women can perform a specific task based on their strengths and weakness. This essay does not agree with the statement that one should not be judged based on sex but hired based on knowledge, qualification and experience.",
+        "Firstly, nowadays, companies run campaigns on gender equality, representing that both males and females have equal rights in the available position. Although many say women are emotionally weaker; however, one can say that it's their key strength to understand the client's pain and offer better services, the same as men. Moreover, a recent survey shows that most customer support organisations have an equal seat for both genders, and women are keen to work round the clock compared to the last decade due to women's empowerment and security as well as educational qualification.",
+        "Secondly, it's not about the physical strength and weakness; even if it is, both share the podium equally while showing their power in weight lifting in the Olympics games. Besides this, a country like India, where one used to see gender inequality, has noticed a dramatic change during the pandemic as both genders stood together equally as doctors and nurses, serving the patient emotionally and efficiently. Again, this represents that males and females can stand the same level of stress and pressure; also, they can carry out any professional work based on their knowledge and experience.",
+        "To sum up, men and women should have the same right in any professional post, although physically, they might not be identical. However, hiring should be unbiased and offer a job to any gender who can do justice to the position based on their experience, knowledge and qualification rather than sex-gender discrimination."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "seat",
+                "start_idx": 734,
+                "end_idx": 738,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that seat may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "seats"
+                ]
+            }
+        ]
+    },
+    "submitter": "anil_dabhicp",
+    "num_words": 293,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "also",
+            "besides",
+            "moreover",
+            "although",
+            "however",
+            "this",
+            "last",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "both",
+                "occurrences": [
+                    {
+                        "start_idx": 405,
+                        "end_idx": 409
+                    },
+                    {
+                        "start_idx": 743,
+                        "end_idx": 747
+                    },
+                    {
+                        "start_idx": 982,
+                        "end_idx": 986
+                    },
+                    {
+                        "start_idx": 1209,
+                        "end_idx": 1213
+                    }
+                ]
+            },
+            {
+                "word": "gender",
+                "occurrences": [
+                    {
+                        "start_idx": 29,
+                        "end_idx": 35
+                    },
+                    {
+                        "start_idx": 370,
+                        "end_idx": 376
+                    },
+                    {
+                        "start_idx": 748,
+                        "end_idx": 754
+                    },
+                    {
+                        "start_idx": 1137,
+                        "end_idx": 1143
+                    },
+                    {
+                        "start_idx": 1214,
+                        "end_idx": 1220
+                    },
+                    {
+                        "start_idx": 1686,
+                        "end_idx": 1692
+                    },
+                    {
+                        "start_idx": 1799,
+                        "end_idx": 1805
+                    }
+                ]
+            },
+            {
+                "word": "women",
+                "occurrences": [
+                    {
+                        "start_idx": 103,
+                        "end_idx": 108
+                    },
+                    {
+                        "start_idx": 491,
+                        "end_idx": 496
+                    },
+                    {
+                        "start_idx": 761,
+                        "end_idx": 766
+                    },
+                    {
+                        "start_idx": 835,
+                        "end_idx": 840
+                    },
+                    {
+                        "start_idx": 1519,
+                        "end_idx": 1524
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-13T06:51:56.623Z"
+}

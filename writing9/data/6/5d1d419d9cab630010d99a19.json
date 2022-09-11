@@ -1,0 +1,123 @@
+{
+    "url": "https://writing9.com/text/5d1d419d9cab630010d99a19",
+    "file": "data\\6\\5d1d419d9cab630010d99a19.json",
+    "topics": [
+        "weddings",
+        "countries",
+        "comparison",
+        "reason",
+        "development"
+    ],
+    "question": "Weddings are more expensive in many countries comparison present and past. What is the reason behind this? Is this a positive or a negative development?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The rising costs of wedding in many nations is increasingly being witnessed these days. This essay will discuss the main causes of this trend including growing income and increased life expectancy. This essay will also explain why I believe this tendency can also stimulate many positive impacts on our society.",
+        "There are various compelling reasons why this trend is ubiquitous nowadays and the prominent one is that the average income of people is increased compared to the past as we tend to work harder to receive higher financial rewards which can improve our living conditions. Additionally, we are expecting an unforgettable, unique wedding memories as this event plays a significant part in our life. Take myself for example, my family spent a fortune when my brother got married last year because we all wish that an extravagant wedding ceremony can give him a once-a-life experience. For these reasons, people are willing to pay for the lavish wedding costs.",
+        "The crucial beneficial factor of this tendency is that it can effectively stimulate the economy growth as the tertiary industry will be hugely benefited because of this. For instance, a recent study conducted in Japan has revealed that the growing domestic consumption in recent years has made meaningful contributions to the economic growth. As can be seen, this advantage has a profound impact on us.",
+        "To sum up, people spend more money on weddings than in the past. This essay discussed how this change occurred including higher salaries and looking for unique memories. This essay also explained why the positive aspects of this tendency are superior."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "wedding",
+                "start_idx": 21,
+                "end_idx": 28,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "weddings",
+                    "the wedding"
+                ]
+            },
+            {
+                "word": "trend including",
+                "start_idx": 137,
+                "end_idx": 152,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "trend, including"
+                ]
+            },
+            {
+                "word": "occurred including",
+                "start_idx": 1474,
+                "end_idx": 1492,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "occurred, including"
+                ]
+            }
+        ]
+    },
+    "submitter": "wz9325",
+    "num_words": 264,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "last",
+            "this",
+            "additionally",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "essay",
+                "occurrences": [
+                    {
+                        "start_idx": 93,
+                        "end_idx": 98
+                    },
+                    {
+                        "start_idx": 203,
+                        "end_idx": 208
+                    },
+                    {
+                        "start_idx": 1441,
+                        "end_idx": 1446
+                    },
+                    {
+                        "start_idx": 1546,
+                        "end_idx": 1551
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-04T00:00:29.000Z"
+}

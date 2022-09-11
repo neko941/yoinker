@@ -1,0 +1,83 @@
+{
+    "url": "https://writing9.com/text/6304090a0751a40019b4cb41-you-are-a-teacher-at-a-secondary-school-high-school",
+    "file": "data\\85\\6304090a0751a40019b4cb41.json",
+    "topics": [
+        "teacher",
+        "school",
+        "visit",
+        "museum",
+        "tourist",
+        "attraction",
+        "students",
+        "manager",
+        "facilities",
+        "information"
+    ],
+    "question": "You are a teacher at a secondary school (high school). You have been asked to arrange a visit to a local museum or tourist attraction for some of your students. Write a letter to the manager of the museum or tourist attraction. In your letter you should:say who you are and which school you teach at?say why the school would like the students to visit the museum/attraction?ask about educational facilities or information that the museum/attraction can provide?",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear sir or madam,",
+        "I am a teacher at the White Star Secondary School, located in the West Gate region of the city. I am writing to ask for your help as we are very interested to arrange a group visit to your prestigious Natural History Museum.",
+        "As usual at this time every year, we are considering activities for students during the summer holiday. The recent dinosaur film made our students particularly thrilled and they had an overwhelming vote to choose to visit the Natural History Museum to see the dinosaur fossils and other remains of ancient creatures.",
+        "Our class size is about 40 and the students are around 12 years old, we would arrange the transportation ourselves and what we need is just a parking space for the coach and a guide to explain the exhibited items. If it is not too disturbing, I would politely ask for the explanation to be conducted a little bit slower than usual for their easiness to absorb, perhaps 20% more time longer than usual would be perfect, as we would like to have a quiz after that. We teachers will make sure that they are not disturbing other visitors .",
+        "All days of the first half of July are okay for us and I am looking forward to hearing good news from you. If you have any questions, please let me know.",
+        "Yours faithfully,",
+        "Alan Smith"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "usual",
+                "start_idx": 247,
+                "end_idx": 252,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase As usual. Consider adding a comma.",
+                "suggetions": [
+                    ",usual"
+                ]
+            }
+        ]
+    },
+    "submitter": "ABC_XYZ",
+    "num_words": 234,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "this",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-08-22T23:00:01.340Z"
+}

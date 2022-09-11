@@ -1,0 +1,140 @@
+{
+    "url": "https://writing9.com/text/5ea616f895d3d5001814f468",
+    "file": "data\\75\\5ea616f895d3d5001814f468.json",
+    "topics": [
+        "artists",
+        "amount",
+        "freedom",
+        "creativity",
+        "people",
+        "thoughts"
+    ],
+    "question": "Artists need a certain amount of freedom to develop their creativity. Some people think that artists should have total freedom to express any thoughts and ideas. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Artists require a certain amount of freedom for the development of their creativity whereas it is thought by some people that artists must have complete freedom for the expression of any thoughts and ideas. In my opinion, I believe that though art is a form of human expression and is vital for everyone, providing complete freedom to express all sorts of ideas would have detrimental effects on individuals and society.",
+        "Innovative ideas which are portrayed through music, paintings and films are very beneficial for the community. For example, the most famous Italian painter Leonardo Da Vinci provided the world with the great idea of flying in an aeroplane although it was something unimaginable and unheard of by the people in that era. Such paintings give individuals opportunities to invent something remarkable which greatly benefits mankind up to the present day.",
+        "On the other hand, when religion, casts and deities are wrongly represented by artists, it can cause havoc. For instance, the Bollywood movie Padmavat, directed by a well-known Indian director, stirred mayhem in the Northern parts of India as it portrayed cast systems which are considered reprehensible by the citizens. Moreover, political unrest and instability was also caused due to the freedom of expression by the director.",
+        "In conclusion, art must be a safe and beneficial form of expression to the society and must not be a reason for creating unrest. Therefore, in order to maintain peace and harmony around the world, I believe that artists should not have complete freedom of expressing their thoughts and ideas."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "creativity whereas",
+                "start_idx": 73,
+                "end_idx": 91,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "creativity, whereas"
+                ]
+            },
+            {
+                "word": "was ",
+                "start_idx": 1240,
+                "end_idx": 1244,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "were also caused"
+                ]
+            }
+        ]
+    },
+    "submitter": "fazla.ameer",
+    "num_words": 257,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "on the other hand",
+            "for example",
+            "although",
+            "moreover",
+            "therefore",
+            "for instance",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "freedom",
+                "occurrences": [
+                    {
+                        "start_idx": 36,
+                        "end_idx": 43
+                    },
+                    {
+                        "start_idx": 153,
+                        "end_idx": 160
+                    },
+                    {
+                        "start_idx": 324,
+                        "end_idx": 331
+                    },
+                    {
+                        "start_idx": 1263,
+                        "end_idx": 1270
+                    },
+                    {
+                        "start_idx": 1547,
+                        "end_idx": 1554
+                    }
+                ]
+            },
+            {
+                "word": "expression",
+                "occurrences": [
+                    {
+                        "start_idx": 169,
+                        "end_idx": 179
+                    },
+                    {
+                        "start_idx": 267,
+                        "end_idx": 277
+                    },
+                    {
+                        "start_idx": 1274,
+                        "end_idx": 1284
+                    },
+                    {
+                        "start_idx": 1359,
+                        "end_idx": 1369
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-04-26T23:19:20.799Z"
+}

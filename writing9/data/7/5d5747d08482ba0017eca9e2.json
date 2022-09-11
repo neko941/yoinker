@@ -1,0 +1,109 @@
+{
+    "url": "https://writing9.com/text/5d5747d08482ba0017eca9e2",
+    "file": "data\\7\\5d5747d08482ba0017eca9e2.json",
+    "topics": [
+        "people",
+        "music",
+        "cultures",
+        "ages"
+    ],
+    "question": "Some people say that music is a good way of bringing people of different cultures and ages together. To what extent do you agree or disagree with this opinion",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Even though music is seen as an art of universal appeal, I do not agree that it is a way of bringing people of different backgrounds together.",
+        "In the first place, most cultures have their sounds in their local language. It is thus an uphill task for a foreigner to enjoy what he cannot understand. This language barrier creates a wall against individuals from other cultures. Secondly, there have been genuine concerns about how globalization has caused the loss of certain genres of traditional music because the local people have stopped producing them and would rather learn foreign songs. This has led to the loss of indigenous tunes. For this reason, many traditional people in Africa, for example, have an aversion to foreign songs.",
+        "With respect to age groups, the people in one generation tend to have a different taste in music from people of another generation. Most elderly people love slow and thoughtful melodies, while younger people may prefer a more upbeat genre. This clash of interest does not make music a unifying factor rather, it makes it a source of division. Furthermore, technology has led to the production of all kinds of equipment that have totally changed the way music is produced, making it different from what the more traditionally elderly people are used to. Many elderly people will rather watch bands perform live, while the younger once would not mind studio-produced beats.",
+        "In summary, in as much as it can bring people of the same culture or age group together, the effects of music may not be the same amongst people of different cultural or generational backgrounds."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "factor rather,",
+                "start_idx": 1035,
+                "end_idx": 1049,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "factor, rather"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 270,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "thus",
+            "furthermore",
+            "for example",
+            "this",
+            "first",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "music",
+                "occurrences": [
+                    {
+                        "start_idx": 12,
+                        "end_idx": 17
+                    },
+                    {
+                        "start_idx": 496,
+                        "end_idx": 501
+                    },
+                    {
+                        "start_idx": 830,
+                        "end_idx": 835
+                    },
+                    {
+                        "start_idx": 1016,
+                        "end_idx": 1021
+                    },
+                    {
+                        "start_idx": 1192,
+                        "end_idx": 1197
+                    },
+                    {
+                        "start_idx": 1515,
+                        "end_idx": 1520
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-17T00:18:24.091Z"
+}

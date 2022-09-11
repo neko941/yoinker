@@ -1,0 +1,141 @@
+{
+    "url": "https://writing9.com/text/5d8e2a2524d23f001748f916",
+    "file": "data\\75\\5d8e2a2524d23f001748f916.json",
+    "topics": [
+        "noise",
+        "lives"
+    ],
+    "question": "There is increase of noise in our daily lives nowadays. Why is this a problem? What can be done to reduce it?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "One of the most controversial issues today is related to an increased rate of sound pollution at an alarming rate. In this essay, we shall explore various problems and solution to minimize noise side-effects.",
+        "Firstly, modern life presents us with various types of sound pollution inside and outside of the home. Inside the home, vehicle, machinery, and factory may develop noise. Due to this factor, the hearing level of children and the elderly may be affected. Another cause is that due to honking and loud music sleeps may suffer which can cause other serious health issues. For example, as per recent studies, 76% of adults in the USA are suffering from insomnia, and researchers found a shocking result that the main reason for that is loud music streaming during sleep time.",
+        "As every problem has a solution, this is not an exception. Noise pollution can also be treatable. Initially, the government should band honking in a residential area and congested areas. The Government can also organize awareness and motivational events so, people will be aware of its causes and take as a responsibility.  Secondly, It is the gospel truth that trees help to absorb noise from the environment. Ergo, people should grow trees near their premises and motivate others to do the same that is how we can decrease noise from our day to day life.",
+        "In conclusion, noise pollution is now a global problem as a result of the dramatic expansion of industries and globalization. However, there are various solutions which help to minimize sound pollution up to a certain level by penalizing if someone unnecessary honking and growing trees."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "solution",
+                "start_idx": 168,
+                "end_idx": 176,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "solutions"
+                ]
+            },
+            {
+                "word": "factory",
+                "start_idx": 355,
+                "end_idx": 362,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the factory"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 271,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "as a result",
+            "for example",
+            "however",
+            "that is",
+            "this",
+            "also",
+            "initially",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "pollution",
+                "occurrences": [
+                    {
+                        "start_idx": 84,
+                        "end_idx": 93
+                    },
+                    {
+                        "start_idx": 270,
+                        "end_idx": 279
+                    },
+                    {
+                        "start_idx": 846,
+                        "end_idx": 855
+                    },
+                    {
+                        "start_idx": 1359,
+                        "end_idx": 1368
+                    },
+                    {
+                        "start_idx": 1530,
+                        "end_idx": 1539
+                    }
+                ]
+            },
+            {
+                "word": "noise",
+                "occurrences": [
+                    {
+                        "start_idx": 189,
+                        "end_idx": 194
+                    },
+                    {
+                        "start_idx": 373,
+                        "end_idx": 378
+                    },
+                    {
+                        "start_idx": 1164,
+                        "end_idx": 1169
+                    },
+                    {
+                        "start_idx": 1306,
+                        "end_idx": 1311
+                    },
+                    {
+                        "start_idx": 1353,
+                        "end_idx": 1358
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-27T15:26:29.889Z"
+}

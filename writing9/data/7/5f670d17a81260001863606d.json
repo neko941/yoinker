@@ -1,0 +1,106 @@
+{
+    "url": "https://writing9.com/text/5f670d17a81260001863606d",
+    "file": "data\\7\\5f670d17a81260001863606d.json",
+    "topics": [
+        "people",
+        "students",
+        "news",
+        "school",
+        "waste",
+        "time"
+    ],
+    "question": "Some people believe that students should be taught international news as a subject at school. Others feel that this would be a waste of valuable school time. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In this contemporary era, the news is the indispensable part of life. The news gives  information about day to day affairs with people. So, some people believe that to introduce news as a subject in schools plays a vital role in the future life of students, whereas  others argue that it would be a waste of valuable time. I partially agree with the aforesaid statement.",
+        "First and foremost, nowadays, every person wants to be updated in every field with the help of news. To introduce this in the academic curriculum will develop students\u2019 interest, due to this they should well inform  the current affairs in over the world. Also, if they keen interest in it, then they will pursue this field in their future.",
+        "In addition to the above, they also can take small steps to mitigate some gigantic problems like global warming and polar ice melting at a small age, owing to this they, not only halt usage of plastic and reduce pollution  but also they can teach their children these things effectively. The main work of news is to prevail in the truth. If news introduces as a subject, then they should be aware of the value of the truth and they will teach this manners to their children as well.",
+        "On the other hand, sometimes to add extra subject is to give burden to students. Moreover, there are many events happening in the world and some are not related to the age of students. So, if students would know about this news, then it will affect them in a very bad manner, because of this they would suffer from some incurable diseases. Furthermore, sometimes news channels prod cast nuisance for their benefits.",
+        "To conclude, the government should introduce this subject with some restrictions. So, students have only knowledge which is related and require for them."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "this manners",
+                "start_idx": 1155,
+                "end_idx": 1167,
+                "error": "Change the determiner",
+                "error_des": "It appears that the singular demonstrative this is modifying the plural noun manners. Consider using a plural demonstrative or a singular noun instead.",
+                "suggetions": [
+                    "these manners"
+                ]
+            }
+        ]
+    },
+    "submitter": "Harvey",
+    "num_words": 308,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "on the other hand",
+            "then",
+            "furthermore",
+            "moreover",
+            "in addition",
+            "this",
+            "also",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "subject",
+                "occurrences": [
+                    {
+                        "start_idx": 188,
+                        "end_idx": 195
+                    },
+                    {
+                        "start_idx": 1073,
+                        "end_idx": 1080
+                    },
+                    {
+                        "start_idx": 1236,
+                        "end_idx": 1243
+                    },
+                    {
+                        "start_idx": 1660,
+                        "end_idx": 1667
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-09-20T08:13:58.840Z"
+}

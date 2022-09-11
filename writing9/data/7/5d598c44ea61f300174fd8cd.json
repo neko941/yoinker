@@ -1,0 +1,136 @@
+{
+    "url": "https://writing9.com/text/5d598c44ea61f300174fd8cd-you-should-spend-about-20-minutes-on-this-task-you-have",
+    "file": "data\\7\\5d598c44ea61f300174fd8cd.json",
+    "topics": [
+        "minutes",
+        "credit",
+        "card",
+        "bank",
+        "lists",
+        "purchases",
+        "manager",
+        "items",
+        "\u2013",
+        "vacation",
+        "case",
+        "statemen"
+    ],
+    "question": "You should spend about 20 minutes on this task.\nYou have just received a credit card statement from your bank. The statement lists a number of expensive purchases that you are sure you did not make.\nWrite a letter to the bank manager. In the letter:\n\u2022 Introduce yourself. \n\u2022 Explain that you did not buy the items listed. \u2013 I am on vacation\n\u2022 Say what you would like the bank to do to fix the problem.- investigate the case/send revised credit card statemen",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "I am Rose Ann Dagmang, currently holding a titanium master card with your bank.Mmy credit card number is 523482358124695 which have a credit limit of AED15, 000. The card has been in my possession for three years now. I am writing in reference to the credit card statement that you have sent to me.",
+        "Last month I was on my vacation in the Philippines and I just came back here in Dubai, 3 days ago. I have seen few transactions that I am firmly sure I am not accountable  in purchasing. The location of the transactions appears to be in Abu Dhabi which clearly proves that I am not the one who bought the items. I can show you my passport as a proof that I am out of the country for those dates listed in the statement. I suspect there might be a glitch in your system.",
+        "I would like you to investigate what happened and  send me the revised bank statement as well.",
+        "Yours faithfully,",
+        "Rose Ann Dagmang"
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "Mmy",
+                "start_idx": 95,
+                "end_idx": 98,
+                "error": "Correct your spelling",
+                "error_des": "The word Mmy is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "My",
+                    "May"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 393,
+                "end_idx": 395,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "  in",
+                "start_idx": 486,
+                "end_idx": 490,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 658,
+                "end_idx": 660,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "Rose",
+    "num_words": 172,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "1",
+        "list_linking_words": [
+            "last"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "card",
+                "occurrences": [
+                    {
+                        "start_idx": 75,
+                        "end_idx": 79
+                    },
+                    {
+                        "start_idx": 106,
+                        "end_idx": 110
+                    },
+                    {
+                        "start_idx": 182,
+                        "end_idx": 186
+                    },
+                    {
+                        "start_idx": 274,
+                        "end_idx": 278
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T16:27:34.832Z"
+}

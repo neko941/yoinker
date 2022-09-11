@@ -1,0 +1,104 @@
+{
+    "url": "https://writing9.com/text/5d7e6a5b3d24740017252029",
+    "file": "data\\7\\5d7e6a5b3d24740017252029.json",
+    "topics": [
+        "countries",
+        "people",
+        "fashion",
+        "hairstyle",
+        "development"
+    ],
+    "question": "Nowadays in many countries people are following the latest fashion, hairstyle and so on. Why are they so influenced by fashion? Is it a positive or negative development?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "People worldwide are following the latest fashion and are grooming themselves accordingly. I believe the easy availability of merchandise and advertising have made these revolutionary changes. It is a positive trend both for the individual and society.",
+        "To commence with, globalization and digital technology have made the way for international businesses to flourish across various nations. Top brands, trendy clothes and style which were limited to a particular country are now easily available in many countries.",
+        "People can buy them online or from stores. Moreover, advertisements have greatly influenced people to follow fashion trends. Many celebrities are made brand ambassadors and they start advertising for the products on television, newspapers and social media. Thus, people become aware of what is trending in the market and it certainly creates an impulse in them to buy it. Perhaps, they don\u2019t want to get bullied for doing something which is not in fashion, so they go along with the trend.",
+        "In my opinion, this is beneficial for an individual because it helps in enhancing one\u2019s personality. People who are up to date are always looked upon by their colleagues and friends and are appreciated. This boosts their self-confidence and body image. To illustrate this, studies have shown that people who are stylish and trendy are more happy and cheerful. Furthermore, due to increasing demand, there has been a tremendous growth in the business, which ultimately has increased the rate of employment. People are employed in various sections like production, marketing, packaging, sales and so on. Therefore, the public is being hired for the same and this has reduced the percentage of the unemployed population significantly which is good for the country\u2019s development.",
+        "In conclusion, as new fashion is accessible to people due to globalisation, they can follow it with ease. It creates employment to a large extent and also aids in boosting one\u2019s personality and confidence, so it is indeed a positive development."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "are following",
+                "start_idx": 17,
+                "end_idx": 30,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is following"
+                ]
+            }
+        ]
+    },
+    "submitter": "faruk4276880",
+    "num_words": 320,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "thus",
+            "accordingly",
+            "furthermore",
+            "moreover",
+            "therefore",
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "fashion",
+                "occurrences": [
+                    {
+                        "start_idx": 42,
+                        "end_idx": 49
+                    },
+                    {
+                        "start_idx": 624,
+                        "end_idx": 631
+                    },
+                    {
+                        "start_idx": 963,
+                        "end_idx": 970
+                    },
+                    {
+                        "start_idx": 1803,
+                        "end_idx": 1810
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-15T16:44:11.140Z"
+}

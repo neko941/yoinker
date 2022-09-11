@@ -1,0 +1,139 @@
+{
+    "url": "https://writing9.com/text/630ca9bd0751a40019b4d996-all-criminals-should-have-access-to-education-and-rehabilitation-programs",
+    "file": "data\\7\\630ca9bd0751a40019b4d996.json",
+    "topics": [
+        "criminals",
+        "access",
+        "education",
+        "rehabilitation",
+        "programs",
+        "prison"
+    ],
+    "question": "All criminals should have access to education and rehabilitation programs while in prison. To what extent do you agree or disagree",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is often argued that people in jail should participate in programs such as  study and  rehabilitate. The following paragraphs will highlight the reason based on my opinion and some relevant examples.",
+        "First of all, many criminals get involved in illegal situations as they did not have an opportunity of studies or work. Therefore they start committing crimes as it is an easy way to make money. For example, in Brazil is not legal to sell drugs, however, a lot of people become drug sellers as they need to survive, and this illegal market returns quick money. As a result, they end up in prison, if they spend a long time there without opportunities for work and studies, they would probably start to commit crimes again. For that reason, people in jail should have access to education.",
+        "On the other hand, others need attention related to their physiologic. They need to re-educate their mind before being put into society again. For instance, a man who was sent to prison because killed someone by fighting for what he believed is right, could easily commit the same crime when back to society. Thus,  rehabilitation is necessary to prevent other crimes, with significant benefits not only for the individuals concerned, but also for public safety.",
+        "To conclude, in my opinion, studies are important to help people to get an opportunity for a job and rehabilitation to help them to integrate into society again. These would help prevent other crimes again."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "  rehabilitate",
+                "start_idx": 88,
+                "end_idx": 102,
+                "error": "Replace the word",
+                "error_des": "The word rehabilitate doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "rehabilitation"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1225,
+                "end_idx": 1226,
+                "error": "Remove the comma",
+                "error_des": "The comma before the conjunction but also appears to be unnecessary. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "izabellaveresi",
+    "num_words": 247,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "thus",
+            "on the other hand",
+            "for instance",
+            "as a result",
+            "for example",
+            "however",
+            "therefore",
+            "this",
+            "also",
+            "first",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "crimes",
+                "occurrences": [
+                    {
+                        "start_idx": 355,
+                        "end_idx": 361
+                    },
+                    {
+                        "start_idx": 712,
+                        "end_idx": 718
+                    },
+                    {
+                        "start_idx": 1152,
+                        "end_idx": 1158
+                    },
+                    {
+                        "start_idx": 1447,
+                        "end_idx": 1453
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 24,
+                        "end_idx": 30
+                    },
+                    {
+                        "start_idx": 467,
+                        "end_idx": 473
+                    },
+                    {
+                        "start_idx": 743,
+                        "end_idx": 749
+                    },
+                    {
+                        "start_idx": 1312,
+                        "end_idx": 1318
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-29T12:03:23.498Z"
+}

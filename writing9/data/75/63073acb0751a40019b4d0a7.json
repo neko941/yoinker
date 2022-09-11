@@ -1,0 +1,116 @@
+{
+    "url": "https://writing9.com/text/63073acb0751a40019b4d0a7-there-are-severe-social-consequences-to-housing-shortages-in-cities",
+    "file": "data\\75\\63073acb0751a40019b4d0a7.json",
+    "topics": [
+        "consequences",
+        "shortages",
+        "cities",
+        "government"
+    ],
+    "question": "There are severe social consequences to housing shortages in cities and only the government can solve these problems.To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In recent years, overpopulation has caused major problems such as lack of housing and accommodation. In fact, housing shortages adversely impact living conditions in society. Some people believe that the government is entirely responsible for resolving this issue. Personally, I agree that the government should bear the burden of this responsibility.",
+        "Firstly, the construction process demands a great deal of money and resources. This process involves buying land, providing materials ,such as concrete, cement, and wood, and finally building. All the expenses in these steps should be funded by tax payments or national income. For instance, in recent years, Japan is tackling limited urban spaces to accommodate its citizens. This country has started to import essential construction materials and has bought many lands in suburban areas to solve this problem ,and it has succeeded.",
+        "Moreover, housing is an issue which should be strictly controlled for two main reasons. First and foremost, there are many derelict areas around the city that could be turned into housing or public spaces. These spaces should be recognised by the official centres which do not have a biased view. For example, if the issue is burdened by a private sector, they will be likely to have a tendency to make profits rather than solve the problem. Hence, these sectors may construct in areas with more commercial situations. Secondly, housing needs planning and regulations. There are many green spaces that should be preserved while the building is happening. In fact, these places are an integral part of an urban area which improve living conditions. Therefore, the authority could formulate some policies to prohibit construction in these spots.",
+        "To sum up, the government can develop some policies to control many problems including housing limitations by funding and overseeing."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "lack",
+                "start_idx": 66,
+                "end_idx": 70,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a lack"
+                ]
+            },
+            {
+                "word": "improve",
+                "start_idx": 1608,
+                "end_idx": 1615,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb improve does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "improves"
+                ]
+            }
+        ]
+    },
+    "submitter": "mitraghasemi6",
+    "num_words": 291,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "for instance",
+            "hence",
+            "for example",
+            "moreover",
+            "first",
+            "therefore",
+            "finally",
+            "secondly",
+            "this",
+            "firstly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "spaces",
+                "occurrences": [
+                    {
+                        "start_idx": 693,
+                        "end_idx": 699
+                    },
+                    {
+                        "start_idx": 1084,
+                        "end_idx": 1090
+                    },
+                    {
+                        "start_idx": 1098,
+                        "end_idx": 1104
+                    },
+                    {
+                        "start_idx": 1476,
+                        "end_idx": 1482
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-25T09:12:24.509Z"
+}

@@ -1,0 +1,134 @@
+{
+    "url": "https://writing9.com/text/62bee07b8ee1ab00180e0bcc-in-some-countries-people-are-forced-to-retire-when-they",
+    "file": "data\\7\\62bee07b8ee1ab00180e0bcc.json",
+    "topics": [
+        "countries",
+        "people",
+        "age"
+    ],
+    "question": "In some countries, people are forced to retire when they reach a certain age. What are the advantages and disadvantages of this?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Compulsory retirement has been mostly a significant issue. When the workforce is over 60 or 65 years old, pressure for older people to retire is highly common. This has both pros and cons, as will now be considered.",
+        "There are plenty of advantages to compelling people to retire. Firstly, the main benefit is that this system gives younger ones to find a job. That is, this provides opportunities to them to join the company. Because of an increasing population, graduate students face many difficulties looking for suitable jobs. Mandatory retirement may create many areas in the workplace. Secondly, if the number of young people who work for companies , they help more productive, creative, and up to date. Companies can boost their profit due to the fact that the younger generation can adapt to using technology easier than older ones in the workplace. As a result, it causes many benefits in business.",
+        "On the other hand, there are numerous detrimental effects of forced retirement. Older staff numbers could have more experience and may have no desire to leave their jobs. Some jobs that individuals cannot gain invaluable knowledge on the internet and reading articles about them need the experience to transmit to the younger generation. For example, the government in Turkiye has announced many doctors who have retired recently to return their work because of a lack of information. At some universities, there are no professors to educate students. Moreover, if the number of older adults who are encouraged by the government with pensions, it triggers an increased tax burden falls on young employers.",
+        "In conclusion, there are both social and economic benefits in allowing older people to remain in employment if so desired. However, compulsory retirement has many handicaps, which are related to a shortage of knowledge and taxation."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "to ",
+                "start_idx": 1337,
+                "end_idx": 1340,
+                "error": "Fix the infinitive",
+                "error_des": "It seems that the use of particle to may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "it ",
+                "start_idx": 1551,
+                "end_idx": 1554,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "cingihasret",
+    "num_words": 300,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "on the other hand",
+            "as a result",
+            "for example",
+            "moreover",
+            "however",
+            "that is",
+            "this",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 125,
+                        "end_idx": 131
+                    },
+                    {
+                        "start_idx": 261,
+                        "end_idx": 267
+                    },
+                    {
+                        "start_idx": 624,
+                        "end_idx": 630
+                    },
+                    {
+                        "start_idx": 1690,
+                        "end_idx": 1696
+                    }
+                ]
+            },
+            {
+                "word": "retirement",
+                "occurrences": [
+                    {
+                        "start_idx": 11,
+                        "end_idx": 21
+                    },
+                    {
+                        "start_idx": 540,
+                        "end_idx": 550
+                    },
+                    {
+                        "start_idx": 975,
+                        "end_idx": 985
+                    },
+                    {
+                        "start_idx": 1756,
+                        "end_idx": 1766
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-01T11:56:47.909Z"
+}

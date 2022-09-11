@@ -1,0 +1,129 @@
+{
+    "url": "https://writing9.com/text/5cb6f91e6859c181d10b651b",
+    "file": "data\\6\\5cb6f91e6859c181d10b651b.json",
+    "topics": [
+        "people",
+        "person",
+        "success",
+        "parents"
+    ],
+    "question": "Some people say that a person's success is as a result of the way he has been brought up by his parents.\n\nDo you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Parents have a huge impact on the personality of their children, and consequently, their success. They way a child is brought up can have lasting effects on how the child functions as an adult. Hence, in my opinion, the way children are brought up by their parents have an influence on their success.",
+        "Over the years, it's been widely argued that the personalities of parents really have an effect on children, not only because of genetic traits but everday habits. Children are like sponges, they absorb everything around them and hence learn those behaviours. For example, if a girl has a working mother, chances are that she will one day want to work and be determined to succeed at the work place. Similarly, if father's help around the house, young boys learn that trait as well and are more responsive to household responsibilities.",
+        "Moreover, it is the habits learnt in childhood that shape adults. Parents who teach their children integrity and respect, have children who grow up to be humble and honest. Whilst those parents who do not impart any discipline on their children end up raising disrespectful adults.",
+        "These traits are essential for success at life, in the work place as well as in relationships. If adults are not sincere, hard working and honest, it is unlikely they will see any form of success in their lives.",
+        "Hence, to conclude, it is the way children are brought up that determines their success in most situations, ultimately, success depends on individual efforts as well."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "everday",
+                "start_idx": 450,
+                "end_idx": 457,
+                "error": "found in the ordinary course of events",
+                "error_des": "",
+                "suggetions": [
+                    "everyday"
+                ]
+            },
+            {
+                "word": "work place",
+                "start_idx": 690,
+                "end_idx": 700,
+                "error": "a place where work is done",
+                "error_des": "",
+                "suggetions": [
+                    "workplace"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 1164,
+                "end_idx": 1166,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "rabia105",
+    "num_words": 254,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "hence",
+            "consequently",
+            "for example",
+            "similarly",
+            "moreover"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "success",
+                "occurrences": [
+                    {
+                        "start_idx": 89,
+                        "end_idx": 96
+                    },
+                    {
+                        "start_idx": 292,
+                        "end_idx": 299
+                    },
+                    {
+                        "start_idx": 1151,
+                        "end_idx": 1158
+                    },
+                    {
+                        "start_idx": 1308,
+                        "end_idx": 1315
+                    },
+                    {
+                        "start_idx": 1412,
+                        "end_idx": 1419
+                    },
+                    {
+                        "start_idx": 1452,
+                        "end_idx": 1459
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-17T09:59:58.000Z"
+}

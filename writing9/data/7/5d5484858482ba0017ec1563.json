@@ -1,0 +1,140 @@
+{
+    "url": "https://writing9.com/text/5d5484858482ba0017ec1563",
+    "file": "data\\7\\5d5484858482ba0017ec1563.json",
+    "topics": [
+        "universities",
+        "males",
+        "females"
+    ],
+    "question": "Question: Universities should accept equal number of males and females in every subject.\nTo what extent do you agree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Whether higher institutions should give equal quota to intending male and female students in all courses is a highly debated issue. This essay will partly agree with this view as it is impractical to have the same number of both genders in some subjects.",
+        "Admittedly, indeed, having an equal number of male and female in every university course may help to encourage female education, especially in settings where more males are educated than females. This rule encourages more females to attend universities since they are usually the ones that are deprived of education in some parts of the world. For instance, Forbes magazine published in its June 2010 monthly publication that China, which is a country with the world\u2019s lowest statistics of female education, witnessed a massive turnout of females in the universities when equal slots in all subjects were made available. Hence, female enrollment in third-level education can be improved if a similar number of entries are open to both genders.",
+        "However, while the idea mentioned above may seem laudable, it may be unrealistic to have an equal number of men and women in every course. The reason is that some fields are known to be gender-specific, and some of these students may not be interested in those courses as they may not naturally excel in them. For example, the nursing profession is known to be a female-dominated field, so accepting an equal number of males and females into this course may be unenforceable because naturally, more females will apply to study nursing than males who may consider courses, such as building and engineering more interesting. As this example shows, it may be impractical to have a similar number of genders in all university courses.",
+        "In conclusion, as attractive as the policy of equal quota for men and women seems, it may be impractical in some gender-related courses. It is hoped that students are allowed entry into higher institutions based on their interests and not their genders."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "enrollment",
+                "start_idx": 890,
+                "end_idx": 900,
+                "error": "the act of enrolling",
+                "error_des": "",
+                "suggetions": [
+                    "enrolment"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 1788,
+                "end_idx": 1791,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            }
+        ]
+    },
+    "submitter": "oladipoabiodun127",
+    "num_words": 328,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for instance",
+            "hence",
+            "third",
+            "for example",
+            "however",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "number",
+                "occurrences": [
+                    {
+                        "start_idx": 214,
+                        "end_idx": 220
+                    },
+                    {
+                        "start_idx": 291,
+                        "end_idx": 297
+                    },
+                    {
+                        "start_idx": 955,
+                        "end_idx": 961
+                    },
+                    {
+                        "start_idx": 1097,
+                        "end_idx": 1103
+                    },
+                    {
+                        "start_idx": 1408,
+                        "end_idx": 1414
+                    },
+                    {
+                        "start_idx": 1685,
+                        "end_idx": 1691
+                    }
+                ]
+            },
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 373,
+                        "end_idx": 382
+                    },
+                    {
+                        "start_idx": 561,
+                        "end_idx": 570
+                    },
+                    {
+                        "start_idx": 752,
+                        "end_idx": 761
+                    },
+                    {
+                        "start_idx": 916,
+                        "end_idx": 925
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-14T22:00:37.379Z"
+}

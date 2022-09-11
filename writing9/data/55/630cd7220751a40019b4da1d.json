@@ -1,0 +1,331 @@
+{
+    "url": "https://writing9.com/text/630cd7220751a40019b4da1d-in-spite-of-the-advances-made-in-agriculture-many-people",
+    "file": "data\\55\\630cd7220751a40019b4da1d.json",
+    "topics": [
+        "spite",
+        "advances",
+        "agriculture",
+        "people",
+        "world",
+        "case"
+    ],
+    "question": "In spite of the advances made in agriculture, many people around the world still go hungry.Why is this the case? What can be done about this problem?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the recent years, technological progress shaped agriculture, although many nations across the globe are still suffering from hunger. In this essay cause of such disaster will be addressed and solution to this problem will be proposed.",
+        "Despite industrial advancements, sphere of growing food is suffering in many countries, resulting into starvation. Main reason for such dramatic outcome is global warming and damaged climate. For instance, Africa has been an example, where drought caused inevitable harm to the soil, thus leading to crops not grown and food not harvested.",
+        "Global hunger can be solved once climate issues are addressed. In other words, appropriate for farming climate will help the crops to grow seasonally, becoming a stable source of food for hungry nations. For example, many sci-fi books mention the concept of climate control by humanity, where certain chemicals are spread into the sky to adjust properties of the weather within certain regions. This futuristic technology can potentially provide full control and is suitable for increasing the food growth industry significantly, what in turn can make food cheaper and more accessible.",
+        "To summarize, starvation across the world remains to be a global threat to human species, regardless of the speed of industrialization. This problem is caused mainly by climate conditions and drought that is damaging the soil and preventing crops from growing. A solution to this issue is to create technology that enables humanity to control and adjust the weather to satisfy the needs of those, who are responsible for crops growth and food production."
+    ],
+    "errors": {
+        "num_error": "18",
+        "error_list": [
+            {
+                "word": "the ",
+                "start_idx": 3,
+                "end_idx": 7,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "disaster",
+                "start_idx": 164,
+                "end_idx": 172,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a disaster"
+                ]
+            },
+            {
+                "word": "solution",
+                "start_idx": 195,
+                "end_idx": 203,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a solution"
+                ]
+            },
+            {
+                "word": "sphere",
+                "start_idx": 271,
+                "end_idx": 277,
+                "error": "Add an article",
+                "error_des": "The noun phrase sphere seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the sphere",
+                    "a sphere"
+                ]
+            },
+            {
+                "word": "into",
+                "start_idx": 336,
+                "end_idx": 340,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "Main",
+                "start_idx": 353,
+                "end_idx": 357,
+                "error": "Add an article",
+                "error_des": "The noun phrase Main reason seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "The main"
+                ]
+            },
+            {
+                "word": "such",
+                "start_idx": 369,
+                "end_idx": 373,
+                "error": "Add an article",
+                "error_des": "The noun phrase such dramatic outcome seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the such",
+                    "a such"
+                ]
+            },
+            {
+                "word": "outcome",
+                "start_idx": 383,
+                "end_idx": 390,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that outcome may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "outcomes"
+                ]
+            },
+            {
+                "word": "damaged",
+                "start_idx": 413,
+                "end_idx": 420,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a damaged"
+                ]
+            },
+            {
+                "word": "grown",
+                "start_idx": 548,
+                "end_idx": 553,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "being grown"
+                ]
+            },
+            {
+                "word": "harvested",
+                "start_idx": 567,
+                "end_idx": 576,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "being harvested"
+                ]
+            },
+            {
+                "word": "appropriate",
+                "start_idx": 657,
+                "end_idx": 668,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "an appropriate"
+                ]
+            },
+            {
+                "word": "for ",
+                "start_idx": 669,
+                "end_idx": 673,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "properties",
+                "start_idx": 923,
+                "end_idx": 933,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the properties"
+                ]
+            },
+            {
+                "word": "what",
+                "start_idx": 1108,
+                "end_idx": 1112,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "which"
+                ]
+            },
+            {
+                "word": "human",
+                "start_idx": 1239,
+                "end_idx": 1244,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the human"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 1369,
+                "end_idx": 1371,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb is does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "crops",
+                "start_idx": 1585,
+                "end_idx": 1590,
+                "error": "Change the noun form",
+                "error_des": "Your sentence appears to use the incorrect form of crops. Consider changing it to singular.",
+                "suggetions": [
+                    "crop"
+                ]
+            }
+        ]
+    },
+    "submitter": "maria.alekseeva.1998.1998",
+    "num_words": 254,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "for instance",
+            "for example",
+            "although",
+            "in other words",
+            "that ",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 289,
+                        "end_idx": 293
+                    },
+                    {
+                        "start_idx": 558,
+                        "end_idx": 562
+                    },
+                    {
+                        "start_idx": 757,
+                        "end_idx": 761
+                    },
+                    {
+                        "start_idx": 1072,
+                        "end_idx": 1076
+                    },
+                    {
+                        "start_idx": 1130,
+                        "end_idx": 1134
+                    },
+                    {
+                        "start_idx": 1602,
+                        "end_idx": 1606
+                    }
+                ]
+            },
+            {
+                "word": "climate",
+                "occurrences": [
+                    {
+                        "start_idx": 421,
+                        "end_idx": 428
+                    },
+                    {
+                        "start_idx": 611,
+                        "end_idx": 618
+                    },
+                    {
+                        "start_idx": 681,
+                        "end_idx": 688
+                    },
+                    {
+                        "start_idx": 836,
+                        "end_idx": 843
+                    },
+                    {
+                        "start_idx": 1333,
+                        "end_idx": 1340
+                    }
+                ]
+            },
+            {
+                "word": "crops",
+                "occurrences": [
+                    {
+                        "start_idx": 538,
+                        "end_idx": 543
+                    },
+                    {
+                        "start_idx": 703,
+                        "end_idx": 708
+                    },
+                    {
+                        "start_idx": 1405,
+                        "end_idx": 1410
+                    },
+                    {
+                        "start_idx": 1585,
+                        "end_idx": 1590
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-29T15:11:32.500Z"
+}

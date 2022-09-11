@@ -1,0 +1,165 @@
+{
+    "url": "https://writing9.com/text/5e18e9ed948fa00018063d65",
+    "file": "data\\55\\5e18e9ed948fa00018063d65.json",
+    "topics": [
+        "news",
+        "stories",
+        "tv",
+        "newspapers",
+        "pictures",
+        "people"
+    ],
+    "question": "News stories on TV and in newspapers are very often accompanied by pictures. Some people say that these pictures are more effective than words.\nWhat is your opinion about this?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Media organizations often times have the content of their news accompanied with pictures. I believe this is a more effective approach than wordy contents as pictures make stories fascinating, and comprehending.",
+        "Opponents of the above view may argue that pictorial content often times do not convey the intended meaning to the audience. For instance, sometimes ago, I read a story with the headline \u201cCorruption in Nigeria\u201d in one of the dailies in my country and this news has images of politicians hiding away stacks of money, attached to it. When I saw the image, the thought that came to mind is that politicians are the ones worsening the problem of corruption we have in the country, but when I read the news, the writer was talking about how corruption is happening in all spheres of life.",
+        "However, there are a number of reasons why having images as part of the content of news makes it more effective. Firstly, pictures make the news stories easier to read, and to understand. Most people have a busy lifestyle that they only have little moment to spare in order to keep abreast of the happenings around them. With pictures portraying some part of the news, they can quickly decipher what the story is about. In addition, pictorial content can be more fascinating and attractive especially to the youngsters. Research has shown that the number of teenagers who read has declined over the years, and the reason cited was that youngsters find pictorial content more appealing than just words.",
+        "In conclusion, it is clear to me that although news with pictorial content could sometimes not convey the intended meaning, the benefits of easy comprehension and fascination it offers cannot be outweighed."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "pictures",
+                "start_idx": 157,
+                "end_idx": 165,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the pictures"
+                ]
+            },
+            {
+                "word": "sometimes",
+                "start_idx": 351,
+                "end_idx": 360,
+                "error": "at some indefinite or unstated time",
+                "error_des": "",
+                "suggetions": [
+                    "sometime"
+                ]
+            },
+            {
+                "word": "corruption we",
+                "start_idx": 654,
+                "end_idx": 667,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "corruption, we"
+                ]
+            },
+            {
+                "word": "pictures",
+                "start_idx": 919,
+                "end_idx": 927,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the pictures"
+                ]
+            },
+            {
+                "word": "little moment",
+                "start_idx": 1039,
+                "end_idx": 1052,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a little moment"
+                ]
+            },
+            {
+                "word": "attractive especially",
+                "start_idx": 1276,
+                "end_idx": 1297,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "attractive, especially"
+                ]
+            }
+        ]
+    },
+    "submitter": "owaboyewuraola90",
+    "num_words": 286,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for instance",
+            "although",
+            "however",
+            "in addition",
+            "this",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "content",
+                "occurrences": [
+                    {
+                        "start_idx": 41,
+                        "end_idx": 48
+                    },
+                    {
+                        "start_idx": 145,
+                        "end_idx": 152
+                    },
+                    {
+                        "start_idx": 264,
+                        "end_idx": 271
+                    },
+                    {
+                        "start_idx": 867,
+                        "end_idx": 874
+                    },
+                    {
+                        "start_idx": 1238,
+                        "end_idx": 1245
+                    },
+                    {
+                        "start_idx": 1457,
+                        "end_idx": 1464
+                    },
+                    {
+                        "start_idx": 1564,
+                        "end_idx": 1571
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-01-10T21:17:33.835Z"
+}

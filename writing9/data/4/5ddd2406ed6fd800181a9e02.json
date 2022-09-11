@@ -1,0 +1,231 @@
+{
+    "url": "https://writing9.com/text/5ddd2406ed6fd800181a9e02",
+    "file": "data\\4\\5ddd2406ed6fd800181a9e02.json",
+    "topics": [
+        "people",
+        "history",
+        "school",
+        "subjects",
+        "today\u2019s",
+        "world",
+        "science",
+        "technology"
+    ],
+    "question": "Some people say History is one of the most important school subjects. Other people think that, in today\u2019s world, subjects like Science and Technology are more important than History.\nDiscuss both views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 4.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Which subjects in school are the most important was debated for a long time. Someone believe should be History, but someone think Science and Technology are more important. In my opinion, History is essential subject that people should learn.",
+        "History is not only the knowledge, but also a mirror to guide individual to achieve their life goals. People can learn how to get along with others and how to solve the problems that they meet from history. From ordinary people to national leader, history always plays a vital role. As the old saying \u00a8nothing new in history\u00a8. Citizen could learn how to catch the economic trend to achieve financial freedom through the national developing history, and the leader of government could know how to run a nation and what strategies should be implemented learning from history.",
+        "No one can deny the importance of Science and Technology subjects. They are a base stone of development of nation and the essential of human progress. Learning science and technology is necessary to raise scientist to make a better life. However, with the trend of cooperating, some subjects like Science and Technology are not indispensable for every students. As individuals as us nowadays, we can use refrigerator without knowing the principle of it. It is the reason why these targeted subjects are important but not necessary.",
+        "As far as I concerned,  History subject is a highlight which is helpful to every students to achieve their life goals correctly. The subjects like Science is important but not for everyone.  The statement above are the reasons why I support that History is one of the most important school subject."
+    ],
+    "errors": {
+        "num_error": "13",
+        "error_list": [
+            {
+                "word": "believe",
+                "start_idx": 85,
+                "end_idx": 92,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "believes"
+                ]
+            },
+            {
+                "word": "think",
+                "start_idx": 124,
+                "end_idx": 129,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "thinks"
+                ]
+            },
+            {
+                "word": "essential subject",
+                "start_idx": 199,
+                "end_idx": 216,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an essential subject",
+                    "essentially subject",
+                    "the essential subject"
+                ]
+            },
+            {
+                "word": "developing",
+                "start_idx": 672,
+                "end_idx": 682,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "developmental",
+                    "development"
+                ]
+            },
+            {
+                "word": "nation",
+                "start_idx": 924,
+                "end_idx": 930,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the nation",
+                    "nations",
+                    "a nation"
+                ]
+            },
+            {
+                "word": "essential",
+                "start_idx": 939,
+                "end_idx": 948,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "essence"
+                ]
+            },
+            {
+                "word": "students",
+                "start_idx": 1169,
+                "end_idx": 1177,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "student"
+                ]
+            },
+            {
+                "word": "individuals as",
+                "start_idx": 1182,
+                "end_idx": 1196,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "individuals, as"
+                ]
+            },
+            {
+                "word": "us",
+                "start_idx": 1197,
+                "end_idx": 1199,
+                "error": "plural of \"I\"",
+                "error_des": "",
+                "suggetions": [
+                    "we"
+                ]
+            },
+            {
+                "word": "refrigerator",
+                "start_idx": 1221,
+                "end_idx": 1233,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a refrigerator",
+                    "the refrigerator"
+                ]
+            },
+            {
+                "word": "students",
+                "start_idx": 1430,
+                "end_idx": 1438,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "student"
+                ]
+            },
+            {
+                "word": "important but",
+                "start_idx": 1507,
+                "end_idx": 1520,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "important, but"
+                ]
+            },
+            {
+                "word": "subject",
+                "start_idx": 1639,
+                "end_idx": 1646,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "subjects"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 273,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "also",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "history",
+                "occurrences": [
+                    {
+                        "start_idx": 441,
+                        "end_idx": 448
+                    },
+                    {
+                        "start_idx": 491,
+                        "end_idx": 498
+                    },
+                    {
+                        "start_idx": 560,
+                        "end_idx": 567
+                    },
+                    {
+                        "start_idx": 683,
+                        "end_idx": 690
+                    },
+                    {
+                        "start_idx": 808,
+                        "end_idx": 815
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-26T13:09:26.552Z"
+}

@@ -1,0 +1,139 @@
+{
+    "url": "https://writing9.com/text/5da41e074c685a0018ac7414",
+    "file": "data\\7\\5da41e074c685a0018ac7414.json",
+    "topics": [
+        "people",
+        "time",
+        "support"
+    ],
+    "question": "Do you agree or disagree with the following statement?\n\nPeople today spend too much time on personal enjoyment\u2014doing things they like to do rather than doing things they should do.  \n\nUse specific reasons and examples to support your answer.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "With businesses coming up with new ideas to entertain consumers, access to entertainment has never been easier. In my opinion, people are spending more time on leisure activities than they should. I believe that this has happened because of the plenty of options available for entertainment and also because of a lack of long term personal goals in people.",
+        "",
+        "To begin with, there are now plenty of options for fun than before thanks to the internet. As a result, people often get lost trying to choose or they end up spending too much time trying them all out. One can now spend hours watching movies on Netflix or reading celebrity gossip blogs. My personal experience is a compelling example of this. I had a friend called Jonathan who would hang out with us at the university two year ago. Being an English major, he really enjoyed watching English movies. Initially, he would go to the cinema to watch one movie once a week. However, after he bought a Netflix subscription, he would watch at least two movies everyday. Since more choices were available to him, he had this compulsive need to watch more movies. As a result, his grades kept falling. Had he opted to do things he should be doing, such as homework, his grades would not deteriorate.",
+        "",
+        "Secondly, more and more people are less concerned about their future. These days, people do not think about their long term goals. Since they are not internally motivated to work hard, they believe that it is okay for them to spend some quality time. An incident from my years at the university, about four years ago, illustrates this point. As a freshman, I was not concerned with my grades at all. I did not know why it was so important to maintain a high CGPA. Hence, when my friend offered to go to a music concert the day before my final exam, I quickly agreed. Even though I had not studied for my assessment, I still chose fun over studying. As a result, I failed that course. If I knew that maintaing a high grade was important for my future career, I would have stayed back and studied for my test. This example illustrates that when people do not understand why they're working hard at something, they tend to slack and spend more leisurely hours.",
+        "",
+        "In conclusion, nowadays, I think that people spend more time enjoying themselves than being responsible and working hard. This is the case because there are too many fun things to do out there and people cannot choose. Another reason is that since people worry less about the future now, they tend to choose short-term pleasure instead."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "year",
+                "start_idx": 784,
+                "end_idx": 788,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "years"
+                ]
+            },
+            {
+                "word": "everyday",
+                "start_idx": 1014,
+                "end_idx": 1022,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "every day"
+                ]
+            },
+            {
+                "word": "do not think",
+                "start_idx": 1344,
+                "end_idx": 1356,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are not thinking"
+                ]
+            },
+            {
+                "word": "maintaing",
+                "start_idx": 1954,
+                "end_idx": 1963,
+                "error": "keep in a certain state, position, or activity; e.g., \"keep clean\"",
+                "error_des": "",
+                "suggetions": [
+                    "maintain",
+                    "maintaining",
+                    "maintains"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 450,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "hence",
+            "as a result",
+            "instead",
+            "however",
+            "secondly",
+            "initially",
+            "this",
+            "to begin",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 152,
+                        "end_idx": 156
+                    },
+                    {
+                        "start_idx": 534,
+                        "end_idx": 538
+                    },
+                    {
+                        "start_idx": 1496,
+                        "end_idx": 1500
+                    },
+                    {
+                        "start_idx": 2266,
+                        "end_idx": 2270
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-14T07:04:39.982Z"
+}

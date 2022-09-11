@@ -1,0 +1,129 @@
+{
+    "url": "https://writing9.com/text/63170599aee9de0018761004-some-countries-import-a-large-amount-of-food-from-the",
+    "file": "data\\7\\63170599aee9de0018761004.json",
+    "topics": [
+        "countries",
+        "import",
+        "amount",
+        "food",
+        "parts",
+        "world",
+        "trend"
+    ],
+    "question": "Some countries import a large amount of food from the parts of the world.To what extent is this a positive or negative trend?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, some nations import a significant amount of food from around the globe. From my point of view, this imported food offers both positive and negative effects.",
+        "To begin with, as the number of people is rising, so does the demand for food is an increase. Hence, a lot of countries in the world have to order cuisine from other countries because it is necessary for their population to live. At the same time, this process will be unstable and lead to the risk of food shortages when the product can not be transported to them. It is because they may experience disasters or pandemics. In some cases, the item might be more expensive to purchase. This is adding to the rising cost of living. In addition, certain methods of food preservation include toxic chemicals as preservatives that are harmful to health, such as beverages, sweets, tinned food, and many more these days.",
+        "On the other hand, farming in many cities in order to export goods can improve their economies. For example, the main sources of income in Thailand in the third quarter of this year were from the exportation of rice, sugar, canned fruit, healthy drinks, and dried seafood. This means their population may have earned more money to live on. Several cities do not allow agriculture due to poor soil and water quality. That is why they have to order food from other parts.",
+        "Even though importing goods from other nations can be positive for people, it can also cause negative effects if they only choose frozen food to eat. Therefore, it is recommended that they avoid some diets."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "from ",
+                "start_idx": 1069,
+                "end_idx": 1074,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "khkanisara",
+    "num_words": 271,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "on the other hand",
+            "hence",
+            "for example",
+            "third",
+            "therefore",
+            "in addition",
+            "that is",
+            "this",
+            "to begin",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 54,
+                        "end_idx": 58
+                    },
+                    {
+                        "start_idx": 119,
+                        "end_idx": 123
+                    },
+                    {
+                        "start_idx": 240,
+                        "end_idx": 244
+                    },
+                    {
+                        "start_idx": 469,
+                        "end_idx": 473
+                    },
+                    {
+                        "start_idx": 729,
+                        "end_idx": 733
+                    },
+                    {
+                        "start_idx": 850,
+                        "end_idx": 854
+                    },
+                    {
+                        "start_idx": 1149,
+                        "end_idx": 1153
+                    },
+                    {
+                        "start_idx": 1329,
+                        "end_idx": 1333
+                    },
+                    {
+                        "start_idx": 1489,
+                        "end_idx": 1493
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-06T08:32:27.490Z"
+}
