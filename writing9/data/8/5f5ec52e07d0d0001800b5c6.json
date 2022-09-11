@@ -1,0 +1,129 @@
+{
+    "url": "https://writing9.com/text/5f5ec52e07d0d0001800b5c6",
+    "file": "data\\8\\5f5ec52e07d0d0001800b5c6.json",
+    "topics": [
+        "people",
+        "governments",
+        "countries",
+        "technologies",
+        "quality",
+        "life",
+        "offer",
+        "education"
+    ],
+    "question": "Some people think that governments in developing countries should introduce new technologies   to people  in order to improve the quality of life, while others believe that in order to achieve that  governments should  offer free education for all. Discuss both these views and give your own opinion",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the contemporary world, people have different views about whether governments in developing countries should raise the living standard by introducing technical advances or subsidising whole tuition fee for all citizens. While in some ways it may seem reasonable to offer free education, I believe that introducing new technologies is the better way to enhance life quality.",
+        "On the one hand, free education benefits the quality of human\u2019s life. With free education, children from a disadvantaged background can have access to school, which diminishes the illiteracy rate and boosts up the knowledge for all inhabitants. Therefore, there will be more adroit workforce serving for the national economy. For instance, some developing countries such as Vietnam and Laos subsidised  free schooling for some regions, which yielded an unprecedented and dramatic decrease in illiteracy and increase in economic growth rate.",
+        "On the other hand, I think the penetration of technology is the better solution to enhance national living standard. Firstly, technology is said to provide people with various information and news from all over the world. Were it not for the proliferation of the Internet and computers, the human would not be able to obtain updated information with a click of a mouse. Secondly, technological innovations decrease labour capacity and increase working efficiency. When applying automatic cutting machines, farmers in rural areas of Thailand not only saved labour capacity but also improved the crop\u2019s productivity. Thirdly, technology creates new means of communications, which connects people from distant places. For example, people detached by geographical barriers can communicate and make video calls with each other by using applications such as Viber and Zalo.",
+        "In conclusion, though free education can get rid of the illiteracy and improve life quality, it seems to me that it would be better, for governments to introduce new technology."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "n",
+                "start_idx": 1010,
+                "end_idx": 1011,
+                "error": "Add an article",
+                "error_des": "The noun phrase national living standard seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "Andy",
+    "num_words": 300,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "also",
+            "therefore",
+            "such",
+            "for instance",
+            "thirdly",
+            "secondly",
+            "for example",
+            "firstly",
+            "on the other hand"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "technology",
+                "occurrences": [
+                    {
+                        "start_idx": 964,
+                        "end_idx": 974
+                    },
+                    {
+                        "start_idx": 1044,
+                        "end_idx": 1054
+                    },
+                    {
+                        "start_idx": 1542,
+                        "end_idx": 1552
+                    },
+                    {
+                        "start_idx": 1952,
+                        "end_idx": 1962
+                    }
+                ]
+            },
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 279,
+                        "end_idx": 288
+                    },
+                    {
+                        "start_idx": 399,
+                        "end_idx": 408
+                    },
+                    {
+                        "start_idx": 457,
+                        "end_idx": 466
+                    },
+                    {
+                        "start_idx": 1813,
+                        "end_idx": 1822
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-09-14T01:20:43.498Z"
+}

@@ -1,0 +1,96 @@
+{
+    "url": "https://writing9.com/text/5e1fbe276536560018f1f93d-your-friend-will-be-staying-at-your-home-but-you",
+    "file": "data\\8\\5e1fbe276536560018f1f93d.json",
+    "topics": [
+        "friend",
+        "home",
+        "can\u2019t",
+        "keys",
+        "appliances",
+        "places",
+        "visit"
+    ],
+    "question": "Your friend will be staying at your home, but you can\u2019t be there. Write a letter in which you explain: - How the keys will get to him/her - How to use the electrical appliances - Recommend some interesting places to visit",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mohit,",
+        "",
+        "Hope this letter finds you in radiant health and the best of spirits. I was so happy to know you are coming here for a week\u2019s holiday but unfortunately, I have to leave for an urgent business trip to Delhi.",
+        "",
+        "I have to leave on 20th May as a few clients are coming from UK. There is an exhibition going on in Delhi which they are coming to see and they have requested me to show me our company\u2019s products there only. I shall be leaving the key with the neighbours. You will find everything you need inside. The fridge is stacked with eatables and the TV has a cable connection. If you have any problems regarding the usage of electrical appliances, you may ask my neighbour, Mrs Neeru. She is very helpful.",
+        "",
+        "There are some historical places in my home town which you must see. There are two temples related to the sixth guru of the Sikhs and an ancient Shiva Temple. Then there is a restaurant, Haveli, which depicts traditional Punjabi hospitality. Every night there is a cultural show also over there. Don\u2019t miss this show. You can ask my neighbour to accompany you.",
+        "",
+        "Hope you have a nice time. Once again I apologise for not being there to give you company.",
+        "",
+        "Yours lovingly,",
+        "Manjot."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "UK",
+                "start_idx": 287,
+                "end_idx": 289,
+                "error": "Correct article usage",
+                "error_des": "Your article usage with the geographic name UK may be incorrect.",
+                "suggetions": [
+                    "the UK"
+                ]
+            },
+            {
+                "word": "historical",
+                "start_idx": 742,
+                "end_idx": 752,
+                "error": "Replace the word",
+                "error_des": "The word historical doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "historic"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 219,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "also",
+            "then",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T18:24:00.111Z"
+}

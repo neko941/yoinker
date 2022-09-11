@@ -1,0 +1,110 @@
+{
+    "url": "https://writing9.com/text/5e2f23a427b79300115f1cf2",
+    "file": "data\\85\\5e2f23a427b79300115f1cf2.json",
+    "topics": [
+        "companies",
+        "reputation",
+        "term",
+        "strategies"
+    ],
+    "question": "Marketing in companies should be based on reputation or short term strategies?",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, with the increased competition in the global market, organizations are applying various methods to attract customers. While few believe that they should focus on the reputation, others assert that they must consider short term strategies. This essay will discuss both the aspects before reaching to a pragmatic conclusion.",
+        "To begin with, when a company plans on long term, it succeeds in making a brand value. Since people's one of the most essential factor in buying a product is its image and reliability, the organization must try extremely hard to maintain their brand value. Furthermore, once an image is established, their customers become loyal and buy things from them only. For instance, Apple Incorporation, which is the world's largest smartphone maker, planned meticulously for its product that benefitted them greatly.",
+        "On the contrary, if they plan for a short term, their immediate results will be improved by some margin. It is well known that, the actions that are planned for small duration reap benefits immediately because they are easy to implement and results would be seen early. For example, the Colgate Incorporation, saw a substantial improvement in the revenue soon after they elevated the product price. However, the long term effects of such actions prove detrimental.",
+        "In conclusion, it can be said that, although the short term strategies have instant advantages, but they prove alleviating in the longer duration. Thus, companies should heed their reputation as it helps in consumer loyalty. If each organization works on their image then they surely do better business."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "image ",
+                "start_idx": 1568,
+                "end_idx": 1574,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "image, then they"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 254,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "however",
+            "furthermore",
+            "thus",
+            "such",
+            "for instance",
+            "on the contrary",
+            "this",
+            "although",
+            "then",
+            "to begin",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "term",
+                "occurrences": [
+                    {
+                        "start_idx": 232,
+                        "end_idx": 236
+                    },
+                    {
+                        "start_idx": 377,
+                        "end_idx": 381
+                    },
+                    {
+                        "start_idx": 884,
+                        "end_idx": 888
+                    },
+                    {
+                        "start_idx": 1259,
+                        "end_idx": 1263
+                    },
+                    {
+                        "start_idx": 1362,
+                        "end_idx": 1366
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-01-27T17:53:40.666Z"
+}

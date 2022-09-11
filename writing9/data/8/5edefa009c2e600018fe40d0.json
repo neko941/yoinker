@@ -1,0 +1,132 @@
+{
+    "url": "https://writing9.com/text/5edefa009c2e600018fe40d0",
+    "file": "data\\8\\5edefa009c2e600018fe40d0.json",
+    "topics": [
+        "countries",
+        "crime",
+        "identity",
+        "theft",
+        "trend",
+        "effects",
+        "victims"
+    ],
+    "question": "In many countries, a financial crime involving identity theft is increasing. What are the causes of this trend, and what effects does it identity theft has on the victims involved?",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, economical crimes are increasing rapidly across the globe. Financial crimes involving identity theft are growing among many countries. This essay will discuss the major causes of this situation  and the effects on the victims involved.",
+        "To commence, the main causes of identity theft are data breach and phishing. Firstly, stealing personal data is one of the major source of this problem.People who leave their computers and mobiles unlocked are more prone to this type of breach. For example,  stolen Social insurance numbers are misused for applying credit from banks. Secondly, individuals receiving phishing emails working in the information technology companies are also affected by this situation. Users who are opening those emails will be affected by data hacking. For instance, hackers will use your data in the computer for various illegal purposes such as selling that data to anti social elements.",
+        "The major effects that identity theft has on the victims involved are becoming bank defaulters and unemployed. Although the criminals steal lots of data, sensitive information such as social insurance numbers are utilized for illegal purposes. They use this data for applying false loans and skip to repay them. To illustrate, providing the victim social numbers to the bank and default while paying the instalments.In addition, citizens who are affected by personal information theft lost jobs since they violated the company regulations. To give a clear example, employees who are victims lost jobs due to loosing valuable data of the company after the data robbery.",
+        "To conclude, financial crimes related to data robbery are climbing day by day around the world. This essay has discussed two major causes of identity theft and the effects on the victims who are involved in this crime."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "theft lost",
+                "start_idx": 1399,
+                "end_idx": 1409,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "theft, lost"
+                ]
+            }
+        ]
+    },
+    "submitter": "chigurupati",
+    "num_words": 285,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "also",
+            "in addition",
+            "such",
+            "for instance",
+            "secondly",
+            "this",
+            "although",
+            "for example",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "theft",
+                "occurrences": [
+                    {
+                        "start_idx": 105,
+                        "end_idx": 110
+                    },
+                    {
+                        "start_idx": 287,
+                        "end_idx": 292
+                    },
+                    {
+                        "start_idx": 952,
+                        "end_idx": 957
+                    },
+                    {
+                        "start_idx": 1399,
+                        "end_idx": 1404
+                    },
+                    {
+                        "start_idx": 1739,
+                        "end_idx": 1744
+                    }
+                ]
+            },
+            {
+                "word": "identity",
+                "occurrences": [
+                    {
+                        "start_idx": 96,
+                        "end_idx": 104
+                    },
+                    {
+                        "start_idx": 278,
+                        "end_idx": 286
+                    },
+                    {
+                        "start_idx": 943,
+                        "end_idx": 951
+                    },
+                    {
+                        "start_idx": 1730,
+                        "end_idx": 1738
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-06-09T02:58:01.441Z"
+}

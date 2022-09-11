@@ -1,0 +1,164 @@
+{
+    "url": "https://writing9.com/text/5ebe82481f37a60018f00bb1",
+    "file": "data\\85\\5ebe82481f37a60018f00bb1.json",
+    "topics": [
+        "levels",
+        "youth",
+        "crime",
+        "cities",
+        "world"
+    ],
+    "question": "Levels of youth crime are increasing rapidly in most cities \naround the world.\nWhat are the reasons for this, and suggest some solutions.",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There is no doubt that crime is one of the major problems of the government. The problem is increasing with the increasing number of children committing crime in cities across the world. This essay will look at some of the reasons and solution for this.",
+        "",
+        "Firstly, poverty levels are rising in big cities. This is because of the increasing population. The government has limited resources, and with larger population the resources per individual decreases. This encourages the youth to commit crimes. For example, in New Delhi, the people living under the poverty line have gone up in recent years. People do not have a place to stay of enough food to eat, so they tend to steal. The possible solution for this could be, that the government should come up with population control schemes, like limiting the number of children one adult can have. This ensures that every person gets the basic requirements.",
+        "",
+        "Secondly, the education of youth is fairly low. With the rising population, the competition to get a good school is increasing. As a result, many teenagers do not even complete high school.  For instance, in Indian villages, 50% of the youth is still uneducated. Consequently, many children commit crimes. For this, the government should provide free schools for every child, and educating their parents on the importance. This can bring a positive change and reduce the crime rate.",
+        "",
+        "To conclude, unless efforts are made by the government, this problem will only escalate. The solution to reducing crime is, controlling the population and reducing the people living in poverty."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "is increasing",
+                "start_idx": 89,
+                "end_idx": 102,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "is, increasing"
+                ]
+            }
+        ]
+    },
+    "submitter": "l2fk2c+27pyj7b34ouic",
+    "num_words": 261,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "consequently",
+            "as a result",
+            "for instance",
+            "secondly",
+            "this",
+            "for example",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "crime",
+                "occurrences": [
+                    {
+                        "start_idx": 23,
+                        "end_idx": 28
+                    },
+                    {
+                        "start_idx": 153,
+                        "end_idx": 158
+                    },
+                    {
+                        "start_idx": 492,
+                        "end_idx": 497
+                    },
+                    {
+                        "start_idx": 1204,
+                        "end_idx": 1209
+                    },
+                    {
+                        "start_idx": 1377,
+                        "end_idx": 1382
+                    },
+                    {
+                        "start_idx": 1504,
+                        "end_idx": 1509
+                    }
+                ]
+            },
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 65,
+                        "end_idx": 75
+                    },
+                    {
+                        "start_idx": 355,
+                        "end_idx": 365
+                    },
+                    {
+                        "start_idx": 729,
+                        "end_idx": 739
+                    },
+                    {
+                        "start_idx": 1226,
+                        "end_idx": 1236
+                    },
+                    {
+                        "start_idx": 1434,
+                        "end_idx": 1444
+                    }
+                ]
+            },
+            {
+                "word": "population",
+                "occurrences": [
+                    {
+                        "start_idx": 339,
+                        "end_idx": 349
+                    },
+                    {
+                        "start_idx": 405,
+                        "end_idx": 415
+                    },
+                    {
+                        "start_idx": 760,
+                        "end_idx": 770
+                    },
+                    {
+                        "start_idx": 970,
+                        "end_idx": 980
+                    },
+                    {
+                        "start_idx": 1530,
+                        "end_idx": 1540
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-05-15T11:51:36.570Z"
+}

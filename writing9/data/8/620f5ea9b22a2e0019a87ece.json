@@ -1,0 +1,151 @@
+{
+    "url": "https://writing9.com/text/620f5ea9b22a2e0019a87ece-in-some-countries-more-people-are-becoming-interested-in-finding",
+    "file": "data\\8\\620f5ea9b22a2e0019a87ece.json",
+    "topics": [
+        "countries",
+        "people",
+        "history",
+        "house",
+        "research"
+    ],
+    "question": "In some countries, more people are becoming interested in finding out about the history of the house or building they live in. What are the reasons for this? How can people research this question?",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "History is the route of what we are today. The societies of some regions of the world are more curious to look forward to the history of the residence of where they live in. This essay will elaborate on the causes of this and the way they find out about the history of their living place.",
+        "There are many causes to find out the historic background of the house. Furthermore, it will help to overcome some difficulties which will face in the future. For instance, the immediate owner of the house could be mortgaged or sold without nobody's awareness. Hence, by finding history, new owners to be well aware and he would find the best solution easily. Secondly, the individuals would be more proud of their ancestors by knowing how they sacrifice and were dedicated to building such a memorable place for future usage.",
+        "The best sources of a finding of the history are lawyers and elders nearby. The family lawyer is the person who is truly updated about the background of the relevant building might reveal the old incidents which were occurred in a logical manner. To illustrate, all the deeds and drawings of the place are available with the lawyer. Moreover, the elder people who are living around the particular place are mindful of the old incidents of the place. Since the research is based on the lawyers and people who are next to the home.",
+        "In conclusion, the public is always eager to search history of their home place, due to it has a greater value  to find out the law background for the sake of their future as well as  for the interest. The lawyers and the elderly person of neighbours are the best person of to open the history."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "history",
+                "start_idx": 1399,
+                "end_idx": 1406,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the history"
+                ]
+            },
+            {
+                "word": "person",
+                "start_idx": 1611,
+                "end_idx": 1617,
+                "error": "Change the noun form",
+                "error_des": "It appears that the subject and the predicate noun in this sentence do not agree in number. Consider making the noun person plural.",
+                "suggetions": [
+                    "people"
+                ]
+            }
+        ]
+    },
+    "submitter": "Mamta",
+    "num_words": 294,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "furthermore",
+            "next",
+            "such",
+            "for instance",
+            "secondly",
+            "moreover",
+            "this",
+            "hence"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "place",
+                "occurrences": [
+                    {
+                        "start_idx": 282,
+                        "end_idx": 287
+                    },
+                    {
+                        "start_idx": 792,
+                        "end_idx": 797
+                    },
+                    {
+                        "start_idx": 1112,
+                        "end_idx": 1117
+                    },
+                    {
+                        "start_idx": 1213,
+                        "end_idx": 1218
+                    },
+                    {
+                        "start_idx": 1259,
+                        "end_idx": 1264
+                    },
+                    {
+                        "start_idx": 1420,
+                        "end_idx": 1425
+                    }
+                ]
+            },
+            {
+                "word": "history",
+                "occurrences": [
+                    {
+                        "start_idx": 126,
+                        "end_idx": 133
+                    },
+                    {
+                        "start_idx": 258,
+                        "end_idx": 265
+                    },
+                    {
+                        "start_idx": 568,
+                        "end_idx": 575
+                    },
+                    {
+                        "start_idx": 853,
+                        "end_idx": 860
+                    },
+                    {
+                        "start_idx": 1398,
+                        "end_idx": 1405
+                    },
+                    {
+                        "start_idx": 1632,
+                        "end_idx": 1639
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-02-18T08:54:03.506Z"
+}

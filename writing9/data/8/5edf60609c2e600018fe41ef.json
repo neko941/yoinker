@@ -1,0 +1,109 @@
+{
+    "url": "https://writing9.com/text/5edf60609c2e600018fe41ef",
+    "file": "data\\8\\5edf60609c2e600018fe41ef.json",
+    "topics": [
+        "students",
+        "sorld",
+        "science",
+        "university",
+        "impact",
+        "community"
+    ],
+    "question": "Many students around the sorld do not choose science subject at University\nGive the reasons for this and describe the impact on community.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, it is quite common to see that a large number of students from different countries do not prefer to adopt medical and technological streams at tertiary education level. This essay will argue that many students feel inconvenient to cope up with the challenges arises in such fields, and this selection has a bad as well as a good impact on our society.",
+        "To begin with, science discipline is not opted by majority of students because for some students, it is difficult to grab the full knowledge of terms and concepts used in this field. In order to become proficient, medical and science subjects demand efforts and proper concentration of a student. Consequently, students are more likely to choose commerce and arts subjects rather than opting science which requires a vast range of competency. For example, the survey conducted by the Times New Magazine revealed that more than 61% of University student choose arts and commerce subjects because they do not want to put extra efforts to explore the difficult subject like science. Ultimately, they prefer the easiest streams.",
+        "The selection of the less complicated subjects in higher education, have a negative and positive impact on the community. Although these subjects are very convenient for students to understand and make their life stress free, sometimes they would face a lack of practical skills in their real life. Eventually, they can never complete worldwide. For instance, If a student does not show his interest in science, he will not contribute in the development of a country.",
+        "In conclusion, a number of students, all over the world do not like advanced subject at university level due to lack of confidence in them, which make them insecure to deal with difficult topics. As a result, they face a lack of practical skills later in their life."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "science",
+                "start_idx": 588,
+                "end_idx": 595,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "scientific"
+                ]
+            }
+        ]
+    },
+    "submitter": "Gursharan Kaur",
+    "num_words": 303,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "consequently",
+            "as a result",
+            "such",
+            "for instance",
+            "this",
+            "although",
+            "to begin",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "science",
+                "occurrences": [
+                    {
+                        "start_idx": 377,
+                        "end_idx": 384
+                    },
+                    {
+                        "start_idx": 588,
+                        "end_idx": 595
+                    },
+                    {
+                        "start_idx": 754,
+                        "end_idx": 761
+                    },
+                    {
+                        "start_idx": 1033,
+                        "end_idx": 1040
+                    },
+                    {
+                        "start_idx": 1490,
+                        "end_idx": 1497
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-06-09T10:28:33.758Z"
+}

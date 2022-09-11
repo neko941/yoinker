@@ -1,0 +1,150 @@
+{
+    "url": "https://writing9.com/text/5f5b6a7f07d0d0001800b2c2",
+    "file": "data\\85\\5f5b6a7f07d0d0001800b2c2.json",
+    "topics": [
+        "people",
+        "science"
+    ],
+    "question": "Some people believe that learning science is necessary for everyone, others disagree. Discuss both views and mention your opinion.",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "These days, education plays an essential role in the development of many countries. Some people have reason to believe that it is necessary to study science while others disagree with that statement. From my point of view, all subjects give enormous benefit to people; however, the most crucial one should be personal attentiveness. In this essay, we shall get further information and understanding of these topics.",
+        "",
+        "Firstly, thanks to science, a ton of brilliant modern inventions are designed to bring considerable advantages for well-being. Because of this, people should take serious consideration in studying this subject in order to acquire the vast majority of detailed knowledge. This means that science should be carried out in the study curriculum in order that students can broaden their knowledge. Practically, people can comprehend what is actually happening in daily life due to science; for example, people may know the importance of power and electricity based on apply science understanding.",
+        "",
+        "Nevertheless, some people might have a negative impression on science and think this kind of subject is not important. This might be understandable because of the introduction of a variety of valuable and influential fields of education such as business, art and information technology. In other words, if people can extend that knowledge, there might not be any concern with science. Notwithstanding, every subject deliver different pros and particular awareness",
+        "",
+        "In conclusion, learning science from my view should be based on personal interest and encouragement to have better experience in study. Besides the excellence of science, other fields of study offer overwhelming advantages"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "s",
+                "start_idx": 1608,
+                "end_idx": 1609,
+                "error": "Add an article",
+                "error_des": "The noun phrase study seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "Andy",
+    "num_words": 259,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "this",
+            "nevertheless",
+            "however",
+            "firstly",
+            "in other words",
+            "besides",
+            "such",
+            "for example",
+            "further"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "science",
+                "occurrences": [
+                    {
+                        "start_idx": 149,
+                        "end_idx": 156
+                    },
+                    {
+                        "start_idx": 436,
+                        "end_idx": 443
+                    },
+                    {
+                        "start_idx": 704,
+                        "end_idx": 711
+                    },
+                    {
+                        "start_idx": 893,
+                        "end_idx": 900
+                    },
+                    {
+                        "start_idx": 986,
+                        "end_idx": 993
+                    },
+                    {
+                        "start_idx": 1072,
+                        "end_idx": 1079
+                    },
+                    {
+                        "start_idx": 1386,
+                        "end_idx": 1393
+                    },
+                    {
+                        "start_idx": 1499,
+                        "end_idx": 1506
+                    },
+                    {
+                        "start_idx": 1637,
+                        "end_idx": 1644
+                    }
+                ]
+            },
+            {
+                "word": "study",
+                "occurrences": [
+                    {
+                        "start_idx": 143,
+                        "end_idx": 148
+                    },
+                    {
+                        "start_idx": 605,
+                        "end_idx": 610
+                    },
+                    {
+                        "start_idx": 741,
+                        "end_idx": 746
+                    },
+                    {
+                        "start_idx": 1604,
+                        "end_idx": 1609
+                    },
+                    {
+                        "start_idx": 1662,
+                        "end_idx": 1667
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-09-11T12:17:44.989Z"
+}

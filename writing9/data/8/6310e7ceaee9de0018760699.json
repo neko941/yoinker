@@ -1,0 +1,82 @@
+{
+    "url": "https://writing9.com/text/6310e7ceaee9de0018760699-your-company-has-recently-introduced-a-new-work-uniform-you",
+    "file": "data\\8\\6310e7ceaee9de0018760699.json",
+    "topics": [
+        "company",
+        "work",
+        "uniform",
+        "manager",
+        "don\u2019t"
+    ],
+    "question": "Your company has recently introduced a new work uniform. You are mostly happy with the uniform, but there is one thing that you do not like. Write a letter to your manager. In the letter\n\n\n- say what you like about the uniform\n- explain what you don\u2019t you like about the uniform\n- suggest how the uniform can be improved",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr Smith,",
+        "I am writing to you to suggest improvements for the new uniform that was recently announced.",
+        "First of all, I think that the designers did an overall good job. It looks like the feedback about the previous version was taken into account, and it is good to see that the work on mistakes has been completed. Also, I appreciate that it matches modern safety standards, which is highly important.",
+        "There is, however, still some room for improvement. To me and a few other members of our team yellow buttons and collars look too unprofessional. In my opinion, this could negatively affect the working atmosphere, as these elements are too eye-catching. I would strongly suggest choosing a neutral colour instead of yellow. In addition to that, it would be perfect if the collars were removable, this way washing will be significantly easier.",
+        "I hope that my feedback helps and we will have these new uniforms soon available to everyone.",
+        "Sincerely yours,",
+        "Dmitry"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "team",
+                "start_idx": 496,
+                "end_idx": 500,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase To me and a few other members of our team. Consider adding a comma.",
+                "suggetions": [
+                    ",team"
+                ]
+            }
+        ]
+    },
+    "submitter": "chugreevd",
+    "num_words": 164,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "also",
+            "however",
+            "in addition",
+            "instead",
+            "first",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-09-01T17:12:36.864Z"
+}

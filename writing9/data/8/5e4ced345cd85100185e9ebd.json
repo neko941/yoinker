@@ -1,0 +1,136 @@
+{
+    "url": "https://writing9.com/text/5e4ced345cd85100185e9ebd",
+    "file": "data\\8\\5e4ced345cd85100185e9ebd.json",
+    "topics": [
+        "demand",
+        "food",
+        "measures",
+        "community"
+    ],
+    "question": "Demand for food is increasing worldwide. What is the cause of this? What measures can the international community take to meet this demand?",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the modern world, one of the major concerns for the humankind is the growing demand for food. In this regard, scientists believe that the main cause of this problem is increasing number of the world population. However, it can be resolved through appropriate measures.",
+        "",
+        "It is widely known that the main cause of this problem is overpopulation. Actually, the worlds\u2019 population experienced a drastic increase in the last two decades. As a result, these can create a shortage of nutrition. To illustrate, world population is expected to increase from 7.9 billion in 2017 to 9.7 billion by 2050.Furthermore, climate change also can influence of the production of food. Nowadays, climatic changes happening due to various reasons like depletion of ozone layer, acid rain and global warming have led to a decrease in the production of food. For example, farmers can lose about 50% of their harvests, because of water shortage.",
+        "However, this issue can be improved by using advanced technologies and international aid. Firstly, farmers should use new technologies in order to increase their production. In this regard, they should create new ways of raising crops. A good illustration of this is a new environmental sustainable type of crop, which can survive in extreme conditions. Moreover, international organizations, such as the UN, should encourage wealthy countries to export their nutrient products in cheap prices to the poor countries, because it can alleviate the situation. For example, the UN can create a new branch, which can regulate this problem.",
+        "To conclude, although population is increasing and climatic changes have damaged the current supply of food, food market can be stimulated. In this regard, international aid and new technologies can partly solve this issue."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "population",
+                "start_idx": 1585,
+                "end_idx": 1595,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the population"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 283,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "however",
+            "also",
+            "although",
+            "as a result",
+            "furthermore",
+            "such",
+            "moreover",
+            "last",
+            "this",
+            "for example",
+            "firstly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "population",
+                "occurrences": [
+                    {
+                        "start_idx": 202,
+                        "end_idx": 212
+                    },
+                    {
+                        "start_idx": 335,
+                        "end_idx": 345
+                    },
+                    {
+                        "start_idx": 369,
+                        "end_idx": 379
+                    },
+                    {
+                        "start_idx": 512,
+                        "end_idx": 522
+                    },
+                    {
+                        "start_idx": 1582,
+                        "end_idx": 1592
+                    }
+                ]
+            },
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 91,
+                        "end_idx": 95
+                    },
+                    {
+                        "start_idx": 663,
+                        "end_idx": 667
+                    },
+                    {
+                        "start_idx": 833,
+                        "end_idx": 837
+                    },
+                    {
+                        "start_idx": 1663,
+                        "end_idx": 1667
+                    },
+                    {
+                        "start_idx": 1669,
+                        "end_idx": 1673
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-19T08:09:24.184Z"
+}

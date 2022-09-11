@@ -1,0 +1,126 @@
+{
+    "url": "https://writing9.com/text/60bdcc44fa75470018286b44-some-people-think-history-has-nothing-or-little-to-tell",
+    "file": "data\\8\\60bdcc44fa75470018286b44.json",
+    "topics": [
+        "people",
+        "history",
+        "two"
+    ],
+    "question": "Some people think history has nothing or little to tell us, but others think that studying the past history can help us better understand the present. Please discuss the two views and give your opinion",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A certain section of people believes that there is no use of past days but another section of people say that there is a lot to study from past which will help in making our present and future better. In my opinion, I feel that there is a need to consider  past inventions and move forward by inventing new things in life. This essay will discuss both sides of a coin.",
+        "On the one hand, a small group of people think that there is no use of the past inventions which in one way is correct. For example, now the whole world is facing a carona pandemic where there is no medicine previously. In addition, we lost so many life's of so many people all over the globe because there is nothing in  history regarding this. Scientist strives very hard for more than a year and found a vaccine which is helping the mankind to move into the future with good health.",
+        "On the other hand, another section of people believes that past studies will help a lot. We cannot move forward in our lives without previous inventions. For instance, previous studies on landing the moon have helped humankind to land on Mars also with few more new additions to past studies. So we need to give importance to the previous history also.",
+        "In conclusion, if there is nothing in the past, we need to work hard and find new things for the betterment of humankind. However, we should take into consideration of the previous studies and invent more advanced techniques."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "Scientist",
+                "start_idx": 715,
+                "end_idx": 724,
+                "error": "Add an article",
+                "error_des": "The noun phrase Scientist seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "A scientist"
+                ]
+            }
+        ]
+    },
+    "submitter": "gouni.prashanthreddy",
+    "num_words": 261,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "also",
+            "however",
+            "in addition",
+            "for instance",
+            "this",
+            "for example",
+            "on the other hand"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 21,
+                        "end_idx": 27
+                    },
+                    {
+                        "start_idx": 94,
+                        "end_idx": 100
+                    },
+                    {
+                        "start_idx": 403,
+                        "end_idx": 409
+                    },
+                    {
+                        "start_idx": 636,
+                        "end_idx": 642
+                    },
+                    {
+                        "start_idx": 893,
+                        "end_idx": 899
+                    }
+                ]
+            },
+            {
+                "word": "studies",
+                "occurrences": [
+                    {
+                        "start_idx": 919,
+                        "end_idx": 926
+                    },
+                    {
+                        "start_idx": 1032,
+                        "end_idx": 1039
+                    },
+                    {
+                        "start_idx": 1139,
+                        "end_idx": 1146
+                    },
+                    {
+                        "start_idx": 1389,
+                        "end_idx": 1396
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-06-07T07:38:11.181Z"
+}

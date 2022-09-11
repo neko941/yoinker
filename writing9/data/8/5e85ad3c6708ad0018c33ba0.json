@@ -1,0 +1,117 @@
+{
+    "url": "https://writing9.com/text/5e85ad3c6708ad0018c33ba0-you-and-a-couple-of-your-colleagues-would-like-to",
+    "file": "data\\8\\5e85ad3c6708ad0018c33ba0.json",
+    "topics": [
+        "couple",
+        "colleagues",
+        "seminar",
+        "person",
+        "charge",
+        "information",
+        "dates",
+        "program",
+        "schedule",
+        "enquire",
+        "cost",
+        "discounts",
+        "groups"
+    ],
+    "question": "You and a couple of your colleagues would like to participate in a work-related seminar.\nWrite a letter to the person in charge of the seminar and ask for\ndetailed information regarding the dates\nprogram schedule        \nEnquire about cost and possible discounts for groups",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir /Madam,",
+        "My name is Sujith and I\u2019m writing regarding the upcoming seminar to be held in Singapore, this year. I work as a general manager at an aerospace company and the content of this seminar will provide me with the expert knowledge valuable for my role.",
+        "As I live in Singapore and it will be easier for me to attend. I would like to get some information about the seminar, such as the duration of the symposium (including the exact dates), materials to be carried to the seminar hall and the essential identity papers to be presented.",
+        "Secondly, I would like to know the sections or the schedule of the discussion, including the speakers, each day who will be taking classes, and their timings.",
+        "Lastly, I would like to get some information on seminar fees, as well as the costs of meals, if you are providing like refreshments. My company will be paying for these. However, I need to prepare an estimate in order to get approval to participate in this forum. In addition, if any of my friends from other firms wishes to participate, will there be any discounts?",
+        "It would be great if you could help me with my queries at your earliest convenience.",
+        "Yours faithfully,",
+        "Sujith"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "wishes",
+                "start_idx": 1021,
+                "end_idx": 1027,
+                "error": "Change the verb form",
+                "error_des": "The verb wishes does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "wish"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 211,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "lastly",
+            "however",
+            "in addition",
+            "such",
+            "secondly",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "seminar",
+                "occurrences": [
+                    {
+                        "start_idx": 74,
+                        "end_idx": 81
+                    },
+                    {
+                        "start_idx": 194,
+                        "end_idx": 201
+                    },
+                    {
+                        "start_idx": 376,
+                        "end_idx": 383
+                    },
+                    {
+                        "start_idx": 483,
+                        "end_idx": 490
+                    },
+                    {
+                        "start_idx": 754,
+                        "end_idx": 761
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T20:22:27.462Z"
+}

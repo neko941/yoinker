@@ -1,0 +1,107 @@
+{
+    "url": "https://writing9.com/text/5d6bb17a2d9349001791330d",
+    "file": "data\\85\\5d6bb17a2d9349001791330d.json",
+    "topics": [
+        "species",
+        "activities",
+        "land",
+        "sea"
+    ],
+    "question": "The animal species are becoming extinct due to human activities on land and in sea. What are the reasons and solutions?",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It has been repetitively argued that extinction of numerous land and sea creatures is becoming a rising global concern due to excessive human practices. This, mainly, is because of killing of animals as a sport or in order to earn profit, and laws for animal protection, in addition to awareness are needed to tackle this issue.",
+        "Animal life on land, as well as in the waters, is becoming increasingly threatened due to human involvement. To explain, illegal trade of body parts of exotic living creatures for monetary gains is one of the most obvious reasons for these animals becoming endangered. For example, the White Rhinoceros species has been wiped out from the earth due to extensive and illegal poaching to obtain and sell their precious horns. Moreover, some animals and birds are killed for sports and recreational purposes. This, consequently leads to a decline in population of the hunted species.",
+        "To address this matter, the concerned authorities should, first of all, introduce effective laws that prohibit the hunting of animals that are threatened to become endangered. Such practices should be labelled as criminal, and strict punishments and heavy fines should be imposed so as to deter those who participate in such criminal activities. Additionally, the general public should not only be made properly aware of the consequences that can be caused as a result of extinction, but also trained about the various methods to tackle the concern. For instance, various animal rights organizations should arrange talks and seminars that inform people about the impact that extinction has on human life and the environment.",
+        "In conclusion, extinction is evolving as a serious threat to wildlife due to uncontrolled sporting activities and illegal hunting. However, efforts can be made to solve this issue by educating the public about the significance of these animals and by formulating stricter laws to save the threatened species."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "killing",
+                "start_idx": 181,
+                "end_idx": 188,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the killing"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 311,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "consequently",
+            "also",
+            "however",
+            "as a result",
+            "in addition",
+            "such",
+            "additionally",
+            "for instance",
+            "moreover",
+            "first",
+            "this",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "extinction",
+                "occurrences": [
+                    {
+                        "start_idx": 37,
+                        "end_idx": 47
+                    },
+                    {
+                        "start_idx": 1382,
+                        "end_idx": 1392
+                    },
+                    {
+                        "start_idx": 1585,
+                        "end_idx": 1595
+                    },
+                    {
+                        "start_idx": 1650,
+                        "end_idx": 1660
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-01T11:54:34.217Z"
+}

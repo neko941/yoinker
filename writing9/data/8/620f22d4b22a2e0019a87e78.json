@@ -1,0 +1,159 @@
+{
+    "url": "https://writing9.com/text/620f22d4b22a2e0019a87e78-some-people-prefer-to-spend-their-lives-doing-the-same",
+    "file": "data\\8\\620f22d4b22a2e0019a87e78.json",
+    "topics": [
+        "people",
+        "lives",
+        "change"
+    ],
+    "question": "Some people prefer to spend their lives doing the same things and avoiding change. Others, however, think that change is always a good thing.\n\nDiscuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is generally considered that  change is  constant and inevitable. While many people advocate stability and do not want to change the way they perform, others opine that embracing change can be beneficial. I firmly agree with the latter view.",
+        "To begin with, changes can be frightening and adapting to this can be difficult. Because of this, people are usually afraid of stepping out of the stable and comfortable path. For example, an employee, who has worked for a company for many years might not consider a better opportunity where he might need to face new challenges. Additionally, those who are stable are likely to predict what the future holds for them and can be prepared for it. Furthermore, if a change is sudden, it might impact the mental well being. For instance, when my friend got fired from his job, he got depressed thinking about it.",
+        "On the other hand, it is believed that with change comes better opportunities. To put it in other words, new ideas and experiences are  the cornerstone in the development of mankind and without adventure that seems difficult to achieve. Moreover, embracing change can prepare the mind for the hardships of forthcoming life. To quote an example, Lance Armstrong, a famous cyclist who was a four-time tour de France champion did not stop after his surgery, he embraced these changes and won again in para-Olympic. Therefore, facing different situations can be daunting but if done right can give better outcomes.",
+        "To conclude, though changes can be difficult to face sometimes, however the excitement and opportunity it brings can be vital in progress. I firmly believe that if changes are well informed and planned it can pave a new path for a better future."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "cornerstone",
+                "start_idx": 995,
+                "end_idx": 1006,
+                "error": "Change the noun form",
+                "error_des": "It appears that the subject and the predicate noun in this sentence do not agree in number. Consider making the noun cornerstone plural.",
+                "suggetions": [
+                    "cornerstones"
+                ]
+            },
+            {
+                "word": "however",
+                "start_idx": 1530,
+                "end_idx": 1537,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase however. Consider adding a comma.",
+                "suggetions": [
+                    ",however"
+                ]
+            }
+        ]
+    },
+    "submitter": "manojdodiya55",
+    "num_words": 289,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "therefore",
+            "furthermore",
+            "additionally",
+            "for instance",
+            "moreover",
+            "this",
+            "to begin",
+            "for example",
+            "in other words",
+            "on the other hand"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "changes",
+                "occurrences": [
+                    {
+                        "start_idx": 260,
+                        "end_idx": 267
+                    },
+                    {
+                        "start_idx": 1328,
+                        "end_idx": 1335
+                    },
+                    {
+                        "start_idx": 1486,
+                        "end_idx": 1493
+                    },
+                    {
+                        "start_idx": 1630,
+                        "end_idx": 1637
+                    }
+                ]
+            },
+            {
+                "word": "change",
+                "occurrences": [
+                    {
+                        "start_idx": 33,
+                        "end_idx": 39
+                    },
+                    {
+                        "start_idx": 125,
+                        "end_idx": 131
+                    },
+                    {
+                        "start_idx": 182,
+                        "end_idx": 188
+                    },
+                    {
+                        "start_idx": 260,
+                        "end_idx": 266
+                    },
+                    {
+                        "start_idx": 709,
+                        "end_idx": 715
+                    },
+                    {
+                        "start_idx": 899,
+                        "end_idx": 905
+                    },
+                    {
+                        "start_idx": 1112,
+                        "end_idx": 1118
+                    },
+                    {
+                        "start_idx": 1328,
+                        "end_idx": 1334
+                    },
+                    {
+                        "start_idx": 1486,
+                        "end_idx": 1492
+                    },
+                    {
+                        "start_idx": 1630,
+                        "end_idx": 1636
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-02-18T04:41:52.999Z"
+}

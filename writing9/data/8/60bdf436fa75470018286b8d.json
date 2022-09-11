@@ -1,0 +1,132 @@
+{
+    "url": "https://writing9.com/text/60bdf436fa75470018286b8d-some-people-say-that-the-government-should-stop-tv-and",
+    "file": "data\\8\\60bdf436fa75470018286b8d.json",
+    "topics": [
+        "people",
+        "government",
+        "tv",
+        "newspaper",
+        "crimes",
+        "media",
+        "coverage",
+        "criminals"
+    ],
+    "question": "Some people say that the government should stop TV and Newspaper from showing crimes because media coverage of violent crimes is frightening people and encouraging criminals. Do you agree or disagree with the statement?",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In  contemporary society, technology has offered several means like TV, the internet, magazine and newspaper to update us about  information worldwide. The restriction on the broadcast of crime scenes is a debatable topic as the violence can either be terrifying to the viewers or promoting offenders to commit crimes. I partially agree with the abovementioned statement as there is another perspective too. Both the opinions will be elaborated in the following paragraph with suitable examples.",
+        "On the one hand, indisputably, the brutality shown in programmes has a negative impact on human psychology. Firstly, the visualization of violence frightens people and disturbs their peace of mind. For instance, elder people feel depressed and scared after watching murderous or robbery episodes. Secondly, the detailed description helps the criminal to know about both the idea to execute a crime as well as to get escaped after doing a crime. Ergo, the government should impose a ban to broadcast such brutal acts.",
+        "On the other hand, some people opine that a clear, constructive and informative message is delivered to the young generation through these criminal reports. The horrifying consequences of wrongdoings counsel them not to get indulge in any offence such as drug abuse, alcohol abuse and mugging. Moreover, incidences explained in crime coverage inspire people to take measures and stay attentive in  society. Through this practice, they can protect themselves as well as their loved ones.",
+        "To conclude, the violence presented through any media coverage has both positive and negative influence on  society. Indeed, the coldblooded acts are fearful and promote more offensive activities. However, the productive moral to the adults and elders cannot be denied. In my perspective, the complete prohibition on such media coverage does not serve the purpose, though some filters can be applied to make it more effective for the audience."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 445,
+                "end_idx": 447,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on in"
+                ]
+            }
+        ]
+    },
+    "submitter": "girishsheetal",
+    "num_words": 302,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "however",
+            "such",
+            "for instance",
+            "secondly",
+            "moreover",
+            "this",
+            "firstly",
+            "on the other hand"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "crime",
+                "occurrences": [
+                    {
+                        "start_idx": 188,
+                        "end_idx": 193
+                    },
+                    {
+                        "start_idx": 311,
+                        "end_idx": 316
+                    },
+                    {
+                        "start_idx": 888,
+                        "end_idx": 893
+                    },
+                    {
+                        "start_idx": 934,
+                        "end_idx": 939
+                    },
+                    {
+                        "start_idx": 1341,
+                        "end_idx": 1346
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 653,
+                        "end_idx": 659
+                    },
+                    {
+                        "start_idx": 714,
+                        "end_idx": 720
+                    },
+                    {
+                        "start_idx": 1037,
+                        "end_idx": 1043
+                    },
+                    {
+                        "start_idx": 1364,
+                        "end_idx": 1370
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-06-07T10:27:26.430Z"
+}

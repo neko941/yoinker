@@ -1,0 +1,102 @@
+{
+    "url": "https://writing9.com/text/602fcf8c9e689200183c3a6c-you-live-in-a-house-opposite-a-park-every-day",
+    "file": "data\\85\\602fcf8c9e689200183c3a6c.json",
+    "topics": [
+        "house",
+        "park",
+        "man",
+        "dogs",
+        "council",
+        "danger",
+        "description"
+    ],
+    "question": "You live in a house opposite a park. Every day a man brings large dogs to the park and lets them run free. Write a letter to your local council complaining about the danger. In your letter -\tsay where the park is, -\tsay how often this happens -\tgive a description of the man and the dogs.",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Councillor Smith,",
+        "I am writing to you to see if you would be able to deal with a problem at the park across the street from where I live. I live on Ford Street and the park is Green Park.",
+        "The problem is that every day, a young man brings two large Dobermans to the park and allows them to run free, off the leash. Obviously, this is a potential danger to other people who use the park. Although I have not seen the dogs cause any injuries, they frequently frighten children there and cause concern to their parents. I have contacted the police, but they have not taken action, despite the fact that signs clearly state that dogs must be kept on leads.",
+        "The man appears to be in his late 20s, average height and well built. He usually wears a black leather jacket and blue jeans. His dogs are about a meter high, black and brown and well-groomed.",
+        "I hope that you will be able to take care of this matter.",
+        "Yours sincerely,",
+        "John Jones"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "average",
+                "start_idx": 699,
+                "end_idx": 706,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of average"
+                ]
+            }
+        ]
+    },
+    "submitter": "tatibek2",
+    "num_words": 178,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "this",
+            "although"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "park",
+                "occurrences": [
+                    {
+                        "start_idx": 101,
+                        "end_idx": 105
+                    },
+                    {
+                        "start_idx": 173,
+                        "end_idx": 177
+                    },
+                    {
+                        "start_idx": 270,
+                        "end_idx": 274
+                    },
+                    {
+                        "start_idx": 385,
+                        "end_idx": 389
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-11T17:07:12.881Z"
+}

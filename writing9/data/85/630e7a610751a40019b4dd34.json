@@ -1,0 +1,118 @@
+{
+    "url": "https://writing9.com/text/630e7a610751a40019b4dd34-some-schools-have-restricted-the-use-of-mobile-phones-is",
+    "file": "data\\85\\630e7a610751a40019b4dd34.json",
+    "topics": [
+        "schools",
+        "phones",
+        "development",
+        "negetive"
+    ],
+    "question": "Some Schools have restricted the use of mobile phones. Is it a positive development or a negetive one?",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Ever since the rise in mobile phones,use people debate whether phones should be allowed in schools or not. As a response to this ,trend few institutes have decided to ban smartphones from their campuses. In my opinion, this is a good change as it improves learning and makes them more conscientious.",
+        "Firstly, Having no mobile phones in the classroom improves learning because it makes kids less distracted. As these devices have a lot of distracting features which leads to children switching focus from lectures to phones constantly, training them to have a decreased attention span. For example, There were studies done on the use of Tik Tok by kids and adults. These experiments showed a very significant increase in ADHD symptoms and Decreased focus in the users as compared to the non-users. Hence, removing smart devices from the classroom is a positive step for better studying.",
+        "Secondly, a Decline in the use of mobiles makes students more industrious as it teaches them to delay gratification. Dopamine is a neurotransmitter that the brain uses to motivate humans to do anything. Every time something pleasurable is done the brain releases Dopamine incentivising repetition of that activity. The problem with mobiles is that they make kids feel good at the touch of a button which causes a Dopamine rush without much effort training them to expect instant gratification which makes them less willing to put effort without rewards. For instance, In the book Dopamine Nation the author Anna Lembke writes about how more usage of smart devices hijacks this Dopamine circuit making people impulsive and also how abstinence from highly Dopaminergic activities boosts productivity. In conclusion, No smartphones lead to harder-working students.",
+        "To conclude, Even though advancements in technology have made our lives easier in my ways the results haven't been the same in the education sector. I personally believe that limiting phones on campus is a positive change since it makes children more attentive and conscientious."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "Nation",
+                "start_idx": 1475,
+                "end_idx": 1481,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase In the book Dopamine Nation. Consider adding a comma.",
+                "suggetions": [
+                    ",Nation"
+                ]
+            }
+        ]
+    },
+    "submitter": "joshghuman123",
+    "num_words": 324,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "this",
+            "hence",
+            "firstly",
+            "secondly",
+            "also",
+            "for example",
+            "for instance"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "dopamine",
+                "occurrences": []
+            },
+            {
+                "word": "phones",
+                "occurrences": [
+                    {
+                        "start_idx": 30,
+                        "end_idx": 36
+                    },
+                    {
+                        "start_idx": 63,
+                        "end_idx": 69
+                    },
+                    {
+                        "start_idx": 176,
+                        "end_idx": 182
+                    },
+                    {
+                        "start_idx": 326,
+                        "end_idx": 332
+                    },
+                    {
+                        "start_idx": 516,
+                        "end_idx": 522
+                    },
+                    {
+                        "start_idx": 1708,
+                        "end_idx": 1714
+                    },
+                    {
+                        "start_idx": 1932,
+                        "end_idx": 1938
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-30T21:14:24.918Z"
+}
