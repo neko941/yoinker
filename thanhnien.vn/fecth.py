@@ -137,7 +137,7 @@ class ThanhNienScraper():
                 'tags' : self.tags,
             }
             with open(data_file, 'w', encoding='utf8') as fp:
-                json.dump(data, fp, indent=4, sort_keys=False) 
+                json.dump(data, fp, indent=4, sort_keys=False, ensure_ascii=False) 
             print(f'Data written => {advanced_path_join(data_file)}', end='\n\n')
         else:
             print(f'Errors => {self.url}', end='\n\n') 
@@ -213,19 +213,19 @@ def get_url(url, save_dir='data', save_file='thanhnien.txt'):
         if url == None:break
 
 if __name__ == "__main__":
-    for url in [
-        'https://thanhnien.vn/the-gioi/', 
-        'https://thanhnien.vn/thoi-su/', 
-        'https://thanhnien.vn/tai-chinh-kinh-doanh/', 
-        'https://thanhnien.vn/doi-song/',
-        'https://thanhnien.vn/du-lich/',
-        'https://thanhnien.vn/van-hoa/',
-        'https://thanhnien.vn/giai-tri/',
-        'https://thanhnien.vn/gioi-tre/',
-        'https://thanhnien.vn/giao-duc/',
-        'https://thanhnien.vn/the-thao/',
-        'https://thanhnien.vn/suc-khoe/']:
-        get_url(url)
+    # for url in [
+    #     'https://thanhnien.vn/the-gioi/', 
+    #     'https://thanhnien.vn/thoi-su/', 
+    #     'https://thanhnien.vn/tai-chinh-kinh-doanh/', 
+    #     'https://thanhnien.vn/doi-song/',
+    #     'https://thanhnien.vn/du-lich/',
+    #     'https://thanhnien.vn/van-hoa/',
+    #     'https://thanhnien.vn/giai-tri/',
+    #     'https://thanhnien.vn/gioi-tre/',
+    #     'https://thanhnien.vn/giao-duc/',
+    #     'https://thanhnien.vn/the-thao/',
+    #     'https://thanhnien.vn/suc-khoe/']:
+    #     get_url(url)
 
     for url in read(advanced_path_join(['data', 'thanhnien.txt'])):
         time.sleep(1)
