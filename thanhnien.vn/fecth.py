@@ -136,7 +136,7 @@ class ThanhNienScraper():
                 'content' : self.content,
                 'tags' : self.tags,
             }
-            with open(data_file, 'w') as fp:
+            with open(data_file, 'w', encoding='utf8') as fp:
                 json.dump(data, fp, indent=4, sort_keys=False) 
             print(f'Data written => {advanced_path_join(data_file)}', end='\n\n')
         else:
