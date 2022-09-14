@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/624f3180a010f000181b2b97-global-warming-is-one-of-the-most-serious-issues-that",
-    "file": "data\\9\\624f3180a010f000181b2b97.json",
+    "file": [
+        "data",
+        "9",
+        "624f3180a010f000181b2b97.json"
+    ],
     "topics": [
         "world",
         "measures",
@@ -52,43 +56,22 @@
     "linking_words": {
         "num_linking_words": "11",
         "list_linking_words": [
-            "this",
-            "hence",
-            "thereafter",
-            "to begin",
-            "however",
             "moreover",
-            "further",
-            "although",
-            "lastly",
+            "thereafter",
+            "hence",
             "in addition",
-            "consequently"
+            "further",
+            "consequently",
+            "this",
+            "although",
+            "to begin",
+            "lastly",
+            "however"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "2",
         "list_repeated_words": [
-            {
-                "word": "usage",
-                "occurrences": [
-                    {
-                        "start_idx": 825,
-                        "end_idx": 830
-                    },
-                    {
-                        "start_idx": 1125,
-                        "end_idx": 1130
-                    },
-                    {
-                        "start_idx": 1363,
-                        "end_idx": 1368
-                    },
-                    {
-                        "start_idx": 1559,
-                        "end_idx": 1564
-                    }
-                ]
-            },
             {
                 "word": "plastic",
                 "occurrences": [
@@ -111,6 +94,27 @@
                     {
                         "start_idx": 1712,
                         "end_idx": 1719
+                    }
+                ]
+            },
+            {
+                "word": "usage",
+                "occurrences": [
+                    {
+                        "start_idx": 825,
+                        "end_idx": 830
+                    },
+                    {
+                        "start_idx": 1125,
+                        "end_idx": 1130
+                    },
+                    {
+                        "start_idx": 1363,
+                        "end_idx": 1368
+                    },
+                    {
+                        "start_idx": 1559,
+                        "end_idx": 1564
                     }
                 ]
             }

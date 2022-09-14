@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62972b05349bd000180dd533-more-and-more-people-no-longer-read-newspaper-or-watch",
-    "file": "data\\9\\62972b05349bd000180dd533.json",
+    "file": [
+        "data",
+        "9",
+        "62972b05349bd000180dd533.json"
+    ],
     "topics": [
         "people",
         "newspaper",
@@ -56,48 +60,19 @@
     "linking_words": {
         "num_linking_words": "8",
         "list_linking_words": [
-            "to begin",
+            "for example",
             "on the other hand",
-            "instead",
-            "although",
             "therefore",
             "as a result",
-            "for example",
-            "for instance"
+            "although",
+            "for instance",
+            "to begin",
+            "instead"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
-            {
-                "word": "internet",
-                "occurrences": [
-                    {
-                        "start_idx": 70,
-                        "end_idx": 78
-                    },
-                    {
-                        "start_idx": 168,
-                        "end_idx": 176
-                    },
-                    {
-                        "start_idx": 312,
-                        "end_idx": 320
-                    },
-                    {
-                        "start_idx": 809,
-                        "end_idx": 817
-                    },
-                    {
-                        "start_idx": 1129,
-                        "end_idx": 1137
-                    },
-                    {
-                        "start_idx": 1356,
-                        "end_idx": 1364
-                    }
-                ]
-            },
             {
                 "word": "news",
                 "occurrences": [
@@ -149,6 +124,35 @@
                     {
                         "start_idx": 1445,
                         "end_idx": 1451
+                    }
+                ]
+            },
+            {
+                "word": "internet",
+                "occurrences": [
+                    {
+                        "start_idx": 70,
+                        "end_idx": 78
+                    },
+                    {
+                        "start_idx": 168,
+                        "end_idx": 176
+                    },
+                    {
+                        "start_idx": 312,
+                        "end_idx": 320
+                    },
+                    {
+                        "start_idx": 809,
+                        "end_idx": 817
+                    },
+                    {
+                        "start_idx": 1129,
+                        "end_idx": 1137
+                    },
+                    {
+                        "start_idx": 1356,
+                        "end_idx": 1364
                     }
                 ]
             }

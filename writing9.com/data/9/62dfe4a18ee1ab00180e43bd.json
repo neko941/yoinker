@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62dfe4a18ee1ab00180e43bd-mrs-barrett-an-english-speaking-woman-who-lives-in-your-town",
-    "file": "data\\9\\62dfe4a18ee1ab00180e43bd.json",
+    "file": [
+        "data",
+        "9",
+        "62dfe4a18ee1ab00180e43bd.json"
+    ],
     "topics": [
         "mrs",
         "barrett",
@@ -61,11 +65,11 @@
     "linking_words": {
         "num_linking_words": "5",
         "list_linking_words": [
-            "however",
             "moreover",
             "next",
             "in addition",
-            "also"
+            "also",
+            "however"
         ]
     },
     "repeated_words": {

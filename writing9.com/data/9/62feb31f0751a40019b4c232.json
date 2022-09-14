@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62feb31f0751a40019b4c232-in-some-countries-owning-a-home-rather",
-    "file": "data\\9\\62feb31f0751a40019b4c232.json",
+    "file": [
+        "data",
+        "9",
+        "62feb31f0751a40019b4c232.json"
+    ],
     "topics": [
         "countries",
         "home",
@@ -54,20 +58,45 @@
     "linking_words": {
         "num_linking_words": "9",
         "list_linking_words": [
-            "this",
-            "first",
             "moreover",
-            "on the other hand",
-            "secondly",
-            "in addition",
-            "such",
             "for example",
+            "on the other hand",
+            "first",
+            "in addition",
+            "secondly",
+            "this",
+            "such",
             "for instance"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "2",
         "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 15,
+                        "end_idx": 21
+                    },
+                    {
+                        "start_idx": 264,
+                        "end_idx": 270
+                    },
+                    {
+                        "start_idx": 733,
+                        "end_idx": 739
+                    },
+                    {
+                        "start_idx": 1261,
+                        "end_idx": 1267
+                    },
+                    {
+                        "start_idx": 1367,
+                        "end_idx": 1373
+                    }
+                ]
+            },
             {
                 "word": "home",
                 "occurrences": [
@@ -98,31 +127,6 @@
                     {
                         "start_idx": 1181,
                         "end_idx": 1185
-                    }
-                ]
-            },
-            {
-                "word": "people",
-                "occurrences": [
-                    {
-                        "start_idx": 15,
-                        "end_idx": 21
-                    },
-                    {
-                        "start_idx": 264,
-                        "end_idx": 270
-                    },
-                    {
-                        "start_idx": 733,
-                        "end_idx": 739
-                    },
-                    {
-                        "start_idx": 1261,
-                        "end_idx": 1267
-                    },
-                    {
-                        "start_idx": 1367,
-                        "end_idx": 1373
                     }
                 ]
             }

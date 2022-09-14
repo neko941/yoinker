@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/627e0fcb4bf2c20018e205fa-in-the-future-all-carsbuses-and-tracks-will-be-driverlessthe",
-    "file": "data\\9\\627e0fcb4bf2c20018e205fa.json",
+    "file": [
+        "data",
+        "9",
+        "627e0fcb4bf2c20018e205fa.json"
+    ],
     "topics": [
         "future",
         "cars",
@@ -56,38 +60,21 @@
         "num_linking_words": "11",
         "list_linking_words": [
             "moreover",
-            "last",
-            "on the other hand",
             "next",
-            "although",
-            "therefore",
-            "besides",
-            "as a result",
-            "then",
             "for example",
-            "for instance"
+            "therefore",
+            "on the other hand",
+            "as a result",
+            "last",
+            "then",
+            "for instance",
+            "besides",
+            "although"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "2",
         "list_repeated_words": [
-            {
-                "word": "one",
-                "occurrences": [
-                    {
-                        "start_idx": 277,
-                        "end_idx": 280
-                    },
-                    {
-                        "start_idx": 443,
-                        "end_idx": 446
-                    },
-                    {
-                        "start_idx": 1733,
-                        "end_idx": 1736
-                    }
-                ]
-            },
             {
                 "word": "vehicles",
                 "occurrences": [
@@ -110,6 +97,23 @@
                     {
                         "start_idx": 1717,
                         "end_idx": 1725
+                    }
+                ]
+            },
+            {
+                "word": "one",
+                "occurrences": [
+                    {
+                        "start_idx": 277,
+                        "end_idx": 280
+                    },
+                    {
+                        "start_idx": 443,
+                        "end_idx": 446
+                    },
+                    {
+                        "start_idx": 1733,
+                        "end_idx": 1736
                     }
                 ]
             }

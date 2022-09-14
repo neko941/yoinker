@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62c956e78ee1ab00180e1d96-we-have-been-living-in-the-nuclear-age-now-for",
-    "file": "data\\9\\62c956e78ee1ab00180e1d96.json",
+    "file": [
+        "data",
+        "9",
+        "62c956e78ee1ab00180e1d96.json"
+    ],
     "topics": [
         "age",
         "half",
@@ -65,43 +69,22 @@
     "linking_words": {
         "num_linking_words": "11",
         "list_linking_words": [
-            "this",
-            "however",
             "moreover",
-            "consequently",
             "on the other hand",
-            "as a result",
-            "besides",
-            "furthermore",
             "initially",
             "that is",
-            "for instance"
+            "as a result",
+            "consequently",
+            "this",
+            "furthermore",
+            "for instance",
+            "besides",
+            "however"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "2",
         "list_repeated_words": [
-            {
-                "word": "energy",
-                "occurrences": [
-                    {
-                        "start_idx": 469,
-                        "end_idx": 475
-                    },
-                    {
-                        "start_idx": 500,
-                        "end_idx": 506
-                    },
-                    {
-                        "start_idx": 576,
-                        "end_idx": 582
-                    },
-                    {
-                        "start_idx": 652,
-                        "end_idx": 658
-                    }
-                ]
-            },
             {
                 "word": "power",
                 "occurrences": [
@@ -128,6 +111,27 @@
                     {
                         "start_idx": 1716,
                         "end_idx": 1721
+                    }
+                ]
+            },
+            {
+                "word": "energy",
+                "occurrences": [
+                    {
+                        "start_idx": 469,
+                        "end_idx": 475
+                    },
+                    {
+                        "start_idx": 500,
+                        "end_idx": 506
+                    },
+                    {
+                        "start_idx": 576,
+                        "end_idx": 582
+                    },
+                    {
+                        "start_idx": 652,
+                        "end_idx": 658
                     }
                 ]
             }

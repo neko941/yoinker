@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/6292e722f17c900019d0fc2c-the-australian-government-has-a-policy-of-turning-back-the",
-    "file": "data\\9\\6292e722f17c900019d0fc2c.json",
+    "file": [
+        "data",
+        "9",
+        "6292e722f17c900019d0fc2c.json"
+    ],
     "topics": [
         "australian",
         "government",
@@ -56,20 +60,45 @@
     "linking_words": {
         "num_linking_words": "9",
         "list_linking_words": [
-            "this",
-            "however",
-            "first",
+            "for example",
             "on the other hand",
+            "first",
+            "that is",
+            "this",
             "although",
             "furthermore",
-            "for example",
-            "that is",
-            "for instance"
+            "for instance",
+            "however"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
+            {
+                "word": "australian",
+                "occurrences": []
+            },
+            {
+                "word": "refugees",
+                "occurrences": [
+                    {
+                        "start_idx": 53,
+                        "end_idx": 61
+                    },
+                    {
+                        "start_idx": 902,
+                        "end_idx": 910
+                    },
+                    {
+                        "start_idx": 984,
+                        "end_idx": 992
+                    },
+                    {
+                        "start_idx": 1386,
+                        "end_idx": 1394
+                    }
+                ]
+            },
             {
                 "word": "government",
                 "occurrences": [
@@ -96,31 +125,6 @@
                     {
                         "start_idx": 1615,
                         "end_idx": 1625
-                    }
-                ]
-            },
-            {
-                "word": "australian",
-                "occurrences": []
-            },
-            {
-                "word": "refugees",
-                "occurrences": [
-                    {
-                        "start_idx": 53,
-                        "end_idx": 61
-                    },
-                    {
-                        "start_idx": 902,
-                        "end_idx": 910
-                    },
-                    {
-                        "start_idx": 984,
-                        "end_idx": 992
-                    },
-                    {
-                        "start_idx": 1386,
-                        "end_idx": 1394
                     }
                 ]
             }

@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/621c067b63df6c0019054f4e-in-some-countries-there-has-been-an-increase-in-the",
-    "file": "data\\9\\621c067b63df6c0019054f4e.json",
+    "file": [
+        "data",
+        "9",
+        "621c067b63df6c0019054f4e.json"
+    ],
     "topics": [
         "countries",
         "advertisements",
@@ -56,14 +60,14 @@
     "linking_words": {
         "num_linking_words": "8",
         "list_linking_words": [
-            "this",
-            "on the other hand",
-            "thus",
-            "although",
-            "as a result",
-            "such",
             "for example",
-            "for instance"
+            "on the other hand",
+            "as a result",
+            "this",
+            "although",
+            "such",
+            "for instance",
+            "thus"
         ]
     },
     "repeated_words": {
@@ -95,27 +99,6 @@
                 ]
             },
             {
-                "word": "advertisements",
-                "occurrences": [
-                    {
-                        "start_idx": 343,
-                        "end_idx": 357
-                    },
-                    {
-                        "start_idx": 496,
-                        "end_idx": 510
-                    },
-                    {
-                        "start_idx": 745,
-                        "end_idx": 759
-                    },
-                    {
-                        "start_idx": 1545,
-                        "end_idx": 1559
-                    }
-                ]
-            },
-            {
                 "word": "children",
                 "occurrences": [
                     {
@@ -137,6 +120,27 @@
                     {
                         "start_idx": 1781,
                         "end_idx": 1789
+                    }
+                ]
+            },
+            {
+                "word": "advertisements",
+                "occurrences": [
+                    {
+                        "start_idx": 343,
+                        "end_idx": 357
+                    },
+                    {
+                        "start_idx": 496,
+                        "end_idx": 510
+                    },
+                    {
+                        "start_idx": 745,
+                        "end_idx": 759
+                    },
+                    {
+                        "start_idx": 1545,
+                        "end_idx": 1559
                     }
                 ]
             }

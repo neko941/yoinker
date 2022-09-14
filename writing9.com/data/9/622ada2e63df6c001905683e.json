@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/622ada2e63df6c001905683e-country-are-becoming-more-and-more-similar-because-people-are",
-    "file": "data\\9\\622ada2e63df6c001905683e.json",
+    "file": [
+        "data",
+        "9",
+        "622ada2e63df6c001905683e.json"
+    ],
     "topics": [
         "country",
         "people",
@@ -53,14 +57,14 @@
     "linking_words": {
         "num_linking_words": "8",
         "list_linking_words": [
-            "this",
-            "however",
-            "thus",
+            "for example",
             "nonetheless",
+            "this",
             "although",
             "such",
-            "for example",
-            "for instance"
+            "for instance",
+            "thus",
+            "however"
         ]
     },
     "repeated_words": {
@@ -88,27 +92,6 @@
                     {
                         "start_idx": 1440,
                         "end_idx": 1449
-                    }
-                ]
-            },
-            {
-                "word": "brand",
-                "occurrences": [
-                    {
-                        "start_idx": 229,
-                        "end_idx": 234
-                    },
-                    {
-                        "start_idx": 463,
-                        "end_idx": 468
-                    },
-                    {
-                        "start_idx": 903,
-                        "end_idx": 908
-                    },
-                    {
-                        "start_idx": 1578,
-                        "end_idx": 1583
                     }
                 ]
             },
@@ -154,6 +137,27 @@
                     {
                         "start_idx": 1614,
                         "end_idx": 1622
+                    }
+                ]
+            },
+            {
+                "word": "brand",
+                "occurrences": [
+                    {
+                        "start_idx": 229,
+                        "end_idx": 234
+                    },
+                    {
+                        "start_idx": 463,
+                        "end_idx": 468
+                    },
+                    {
+                        "start_idx": 903,
+                        "end_idx": 908
+                    },
+                    {
+                        "start_idx": 1578,
+                        "end_idx": 1583
                     }
                 ]
             }

@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/624816cc7f5f830019551f63-watching-too-much-television-reduces-peoples-capacity-to-think-for",
-    "file": "data\\9\\624816cc7f5f830019551f63.json",
+    "file": [
+        "data",
+        "9",
+        "624816cc7f5f830019551f63.json"
+    ],
     "topics": [
         "television",
         "people\u2019s",
@@ -52,26 +56,43 @@
     "linking_words": {
         "num_linking_words": "12",
         "list_linking_words": [
-            "this",
-            "however",
             "moreover",
+            "for example",
             "in addition",
-            "although",
-            "secondly",
             "as a result",
+            "secondly",
+            "consequently",
+            "this",
+            "although",
             "then",
             "such",
             "furthermore",
-            "for example",
-            "consequently"
+            "however"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
             {
-                "word": "tv",
-                "occurrences": []
+                "word": "television",
+                "occurrences": [
+                    {
+                        "start_idx": 141,
+                        "end_idx": 151
+                    },
+                    {
+                        "start_idx": 346,
+                        "end_idx": 356
+                    },
+                    {
+                        "start_idx": 1025,
+                        "end_idx": 1035
+                    },
+                    {
+                        "start_idx": 1528,
+                        "end_idx": 1538
+                    }
+                ]
             },
             {
                 "word": "people",
@@ -103,25 +124,8 @@
                 ]
             },
             {
-                "word": "television",
-                "occurrences": [
-                    {
-                        "start_idx": 141,
-                        "end_idx": 151
-                    },
-                    {
-                        "start_idx": 346,
-                        "end_idx": 356
-                    },
-                    {
-                        "start_idx": 1025,
-                        "end_idx": 1035
-                    },
-                    {
-                        "start_idx": 1528,
-                        "end_idx": 1538
-                    }
-                ]
+                "word": "tv",
+                "occurrences": []
             }
         ]
     },

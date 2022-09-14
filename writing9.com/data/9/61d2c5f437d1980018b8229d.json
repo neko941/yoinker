@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/61d2c5f437d1980018b8229d-many-people-like-unhealthy-food-although-they-know-it-is",
-    "file": "data\\9\\61d2c5f437d1980018b8229d.json",
+    "file": [
+        "data",
+        "9",
+        "61d2c5f437d1980018b8229d.json"
+    ],
     "topics": [
         "people",
         "food",
@@ -37,7 +41,6 @@
     },
     "text": [
         "In the modern world where convenience takes priority, more concerns are stemmed from people's consumerism of fast food. Even at the expense of health, people still opt for these unhealthy meals. This essay outlines some possible explanations for this phenomenon and gives out some ways to improve unwholesome eating practices.",
-        "",
         "To begin with, there are many factors lie that account for the general obsessive cravings. Scientific research has discovered that there is a high amount of sugar and saturated fat in these flavourful meals. For these elements, when we consume fast food, our brains generate chemicals stimulating a feeling of happiness and relaxation. Thus, constantly eating food is a way for our brain mechanism to seek pleasure. Moreover, these fat-laden food contains high calories counts so they provide lots of energy for a busy day. This convenience  has led many people with hectic schedules to choose fast food as their favourite meal. Therefore, despite being harmful, fast food is sought after in every meal of the day.",
         "In terms of being healthy, there are some feasible ways to have a salutary eating habit. The crucial thing is substituting high calories food with low energy but a big portion. In order to make this process less painful, people are recommended to find a dish that shares a similar taste . For example, salted nuts and grains can replace crunchy, tasty fried chicken or brown rice with vegetables and sauce can be more delectable than fried rice. In addition to food choices, busy workers are also encouraged to choose eateries providing organic and healthy meals over fast food joints. By strictly adhering to carefully choosing your food, there will be a great enhancement in one's health and invigorates.",
         "To conclude, unhealthy food is undoubtedly palatable because of the aforementioned reasons. However, by changing daily food choices, people can still enjoy the appetizing of dishes while improving their health."
@@ -52,73 +55,20 @@
     "linking_words": {
         "num_linking_words": "9",
         "list_linking_words": [
-            "this",
-            "to begin",
-            "however",
             "moreover",
-            "thus",
             "therefore",
+            "for example",
             "in addition",
             "also",
-            "for example"
+            "this",
+            "to begin",
+            "thus",
+            "however"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "2",
         "list_repeated_words": [
-            {
-                "word": "food",
-                "occurrences": [
-                    {
-                        "start_idx": 114,
-                        "end_idx": 118
-                    },
-                    {
-                        "start_idx": 577,
-                        "end_idx": 581
-                    },
-                    {
-                        "start_idx": 688,
-                        "end_idx": 692
-                    },
-                    {
-                        "start_idx": 770,
-                        "end_idx": 774
-                    },
-                    {
-                        "start_idx": 927,
-                        "end_idx": 931
-                    },
-                    {
-                        "start_idx": 996,
-                        "end_idx": 1000
-                    },
-                    {
-                        "start_idx": 1180,
-                        "end_idx": 1184
-                    },
-                    {
-                        "start_idx": 1504,
-                        "end_idx": 1508
-                    },
-                    {
-                        "start_idx": 1616,
-                        "end_idx": 1620
-                    },
-                    {
-                        "start_idx": 1677,
-                        "end_idx": 1681
-                    },
-                    {
-                        "start_idx": 1773,
-                        "end_idx": 1777
-                    },
-                    {
-                        "start_idx": 1869,
-                        "end_idx": 1873
-                    }
-                ]
-            },
             {
                 "word": "people",
                 "occurrences": [
@@ -131,16 +81,69 @@
                         "end_idx": 157
                     },
                     {
-                        "start_idx": 883,
-                        "end_idx": 889
+                        "start_idx": 882,
+                        "end_idx": 888
                     },
                     {
-                        "start_idx": 1264,
-                        "end_idx": 1270
+                        "start_idx": 1263,
+                        "end_idx": 1269
                     },
                     {
-                        "start_idx": 1883,
-                        "end_idx": 1889
+                        "start_idx": 1882,
+                        "end_idx": 1888
+                    }
+                ]
+            },
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 114,
+                        "end_idx": 118
+                    },
+                    {
+                        "start_idx": 576,
+                        "end_idx": 580
+                    },
+                    {
+                        "start_idx": 687,
+                        "end_idx": 691
+                    },
+                    {
+                        "start_idx": 769,
+                        "end_idx": 773
+                    },
+                    {
+                        "start_idx": 926,
+                        "end_idx": 930
+                    },
+                    {
+                        "start_idx": 995,
+                        "end_idx": 999
+                    },
+                    {
+                        "start_idx": 1179,
+                        "end_idx": 1183
+                    },
+                    {
+                        "start_idx": 1503,
+                        "end_idx": 1507
+                    },
+                    {
+                        "start_idx": 1615,
+                        "end_idx": 1619
+                    },
+                    {
+                        "start_idx": 1676,
+                        "end_idx": 1680
+                    },
+                    {
+                        "start_idx": 1772,
+                        "end_idx": 1776
+                    },
+                    {
+                        "start_idx": 1868,
+                        "end_idx": 1872
                     }
                 ]
             }

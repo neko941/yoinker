@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/61c172c67e857900184402f1-some-people-prefer-to-spend-their-lives-doing-the-same",
-    "file": "data\\9\\61c172c67e857900184402f1.json",
+    "file": [
+        "data",
+        "9",
+        "61c172c67e857900184402f1.json"
+    ],
     "topics": [
         "people",
         "lives",
@@ -51,45 +55,24 @@
     "linking_words": {
         "num_linking_words": "13",
         "list_linking_words": [
-            "this",
-            "hence",
-            "to begin",
-            "however",
-            "consequently",
             "moreover",
-            "firstly",
-            "although",
-            "also",
-            "furthermore",
             "for example",
+            "hence",
             "that is",
-            "for instance"
+            "also",
+            "consequently",
+            "this",
+            "although",
+            "furthermore",
+            "for instance",
+            "to begin",
+            "firstly",
+            "however"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
-            {
-                "word": "way",
-                "occurrences": [
-                    {
-                        "start_idx": 1545,
-                        "end_idx": 1548
-                    },
-                    {
-                        "start_idx": 1595,
-                        "end_idx": 1598
-                    },
-                    {
-                        "start_idx": 1709,
-                        "end_idx": 1712
-                    },
-                    {
-                        "start_idx": 2017,
-                        "end_idx": 2020
-                    }
-                ]
-            },
             {
                 "word": "life",
                 "occurrences": [
@@ -161,6 +144,27 @@
                     {
                         "start_idx": 1413,
                         "end_idx": 1419
+                    }
+                ]
+            },
+            {
+                "word": "way",
+                "occurrences": [
+                    {
+                        "start_idx": 1545,
+                        "end_idx": 1548
+                    },
+                    {
+                        "start_idx": 1595,
+                        "end_idx": 1598
+                    },
+                    {
+                        "start_idx": 1709,
+                        "end_idx": 1712
+                    },
+                    {
+                        "start_idx": 2017,
+                        "end_idx": 2020
                     }
                 ]
             }

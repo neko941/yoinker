@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/620f4f1fb22a2e0019a87eac-you-have-just-read-an-article-in-an-international-travel",
-    "file": "data\\9\\620f4f1fb22a2e0019a87eac.json",
+    "file": [
+        "data",
+        "9",
+        "620f4f1fb22a2e0019a87eac.json"
+    ],
     "topics": [
         "article",
         "travel",
@@ -57,9 +61,9 @@
     "linking_words": {
         "num_linking_words": "3",
         "list_linking_words": [
-            "this",
             "moreover",
-            "also"
+            "also",
+            "this"
         ]
     },
     "repeated_words": {

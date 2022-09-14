@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/625e6daabf0f3600197c8f4f-some-people-think-that-there-are-things-individuals-can-do",
-    "file": "data\\9\\625e6daabf0f3600197c8f4f.json",
+    "file": [
+        "data",
+        "9",
+        "625e6daabf0f3600197c8f4f.json"
+    ],
     "topics": [
         "people",
         "individuals",
@@ -56,21 +60,46 @@
     "linking_words": {
         "num_linking_words": "10",
         "list_linking_words": [
-            "this",
-            "firstly",
-            "on the other hand",
-            "instead",
             "therefore",
-            "secondly",
+            "for example",
+            "on the other hand",
             "in addition",
-            "such",
+            "secondly",
             "also",
-            "for example"
+            "this",
+            "such",
+            "instead",
+            "firstly"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "2",
         "list_repeated_words": [
+            {
+                "word": "energy",
+                "occurrences": [
+                    {
+                        "start_idx": 599,
+                        "end_idx": 605
+                    },
+                    {
+                        "start_idx": 687,
+                        "end_idx": 693
+                    },
+                    {
+                        "start_idx": 878,
+                        "end_idx": 884
+                    },
+                    {
+                        "start_idx": 1301,
+                        "end_idx": 1307
+                    },
+                    {
+                        "start_idx": 1347,
+                        "end_idx": 1353
+                    }
+                ]
+            },
             {
                 "word": "use",
                 "occurrences": [
@@ -97,31 +126,6 @@
                     {
                         "start_idx": 1466,
                         "end_idx": 1469
-                    }
-                ]
-            },
-            {
-                "word": "energy",
-                "occurrences": [
-                    {
-                        "start_idx": 599,
-                        "end_idx": 605
-                    },
-                    {
-                        "start_idx": 687,
-                        "end_idx": 693
-                    },
-                    {
-                        "start_idx": 878,
-                        "end_idx": 884
-                    },
-                    {
-                        "start_idx": 1301,
-                        "end_idx": 1307
-                    },
-                    {
-                        "start_idx": 1347,
-                        "end_idx": 1353
                     }
                 ]
             }

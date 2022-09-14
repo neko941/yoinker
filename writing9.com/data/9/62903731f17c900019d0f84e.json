@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62903731f17c900019d0f84e-many-people-believe-that-social-networking-sites-such-as-facebook",
-    "file": "data\\9\\62903731f17c900019d0f84e.json",
+    "file": [
+        "data",
+        "9",
+        "62903731f17c900019d0f84e.json"
+    ],
     "topics": [
         "people",
         "sites",
@@ -40,11 +44,8 @@
     },
     "text": [
         "With social media becoming a ubiquitous element of our daily lives, many believe that some of these sites have an adverse effect on us. In my opinion, I totally agree that they have exerted significant negative influences on both individuals and society.",
-        "",
         "To begin with, it is undeniable that social media often projects an unrealistic and unattainable standard on teenagers. Young people tend to be attention seekers, and they do seek positive feedback on social networking sites. For example, young people only post the most appealing pictures and the most positive parts of their lives on social media. Hence, it is easy for social networking sites to convey false standards of beauty and success to them, undermining the fact that imperfection is not a problem. Consequently, this can lead to low self-esteem and even depression problems in teenagers.",
-        "",
         "Secondly, equally worth mentioning is that social media has played an essential role in polarising our society. In an effort to boost revenue, some social networking sites are infamous for using artificial intelligence algorithms to manipulate netizens\u2019 behaviour online. As a result, this leads people to engage more in hate speeches or aggressive discussions, as people are inherently more focused on negativity. Furthermore, this can be exacerbated by political events. The recent US presidential election is a good example. In that election, Facebook and Twitter were notorious for spreading biases and causing conflicts across the country.",
-        "",
         "In conclusion, my view is that the algorithms of social networking platforms are massively misused for commercial and political purposes, and that has imposed harm on our youth\u2019s mental health and social harmony."
     ],
     "errors": {
@@ -57,40 +58,19 @@
     "linking_words": {
         "num_linking_words": "8",
         "list_linking_words": [
-            "this",
+            "for example",
             "hence",
-            "to begin",
             "secondly",
             "as a result",
+            "consequently",
+            "this",
             "furthermore",
-            "for example",
-            "consequently"
+            "to begin"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
-            {
-                "word": "sites",
-                "occurrences": [
-                    {
-                        "start_idx": 100,
-                        "end_idx": 105
-                    },
-                    {
-                        "start_idx": 475,
-                        "end_idx": 480
-                    },
-                    {
-                        "start_idx": 646,
-                        "end_idx": 651
-                    },
-                    {
-                        "start_idx": 1023,
-                        "end_idx": 1028
-                    }
-                ]
-            },
             {
                 "word": "media",
                 "occurrences": [
@@ -99,16 +79,37 @@
                         "end_idx": 17
                     },
                     {
-                        "start_idx": 300,
-                        "end_idx": 305
+                        "start_idx": 299,
+                        "end_idx": 304
                     },
                     {
-                        "start_idx": 599,
-                        "end_idx": 604
+                        "start_idx": 598,
+                        "end_idx": 603
                     },
                     {
-                        "start_idx": 907,
-                        "end_idx": 912
+                        "start_idx": 905,
+                        "end_idx": 910
+                    }
+                ]
+            },
+            {
+                "word": "sites",
+                "occurrences": [
+                    {
+                        "start_idx": 100,
+                        "end_idx": 105
+                    },
+                    {
+                        "start_idx": 474,
+                        "end_idx": 479
+                    },
+                    {
+                        "start_idx": 645,
+                        "end_idx": 650
+                    },
+                    {
+                        "start_idx": 1021,
+                        "end_idx": 1026
                     }
                 ]
             },
@@ -116,20 +117,20 @@
                 "word": "people",
                 "occurrences": [
                     {
-                        "start_idx": 382,
-                        "end_idx": 388
+                        "start_idx": 381,
+                        "end_idx": 387
                     },
                     {
-                        "start_idx": 501,
-                        "end_idx": 507
+                        "start_idx": 500,
+                        "end_idx": 506
                     },
                     {
-                        "start_idx": 1153,
-                        "end_idx": 1159
+                        "start_idx": 1151,
+                        "end_idx": 1157
                     },
                     {
-                        "start_idx": 1222,
-                        "end_idx": 1228
+                        "start_idx": 1220,
+                        "end_idx": 1226
                     }
                 ]
             }

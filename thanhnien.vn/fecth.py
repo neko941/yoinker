@@ -6,6 +6,7 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+# from multiprocessing import Pool
 
 def next_url(url):
     try:
@@ -24,7 +25,6 @@ class ThanhNienGetURLs():
         self.soup = BeautifulSoup(self.response.content, "html.parser")
 
     def get_sub_urls(self):
-        self.get_soup()
         return [urljoin(self.url, parent.find("a", class_="story__thumb").get('href')) for parent in self.soup.find(class_="relative").findAll(name='article', class_="story")]
 
 class ThanhNienScraper():
@@ -45,23 +45,18 @@ class ThanhNienScraper():
         self.soup = BeautifulSoup(self.response.content, "html.parser")
     
     def get_datetime(self):
-        self.get_soup()
         return self.soup.find(name='div', class_="meta").find(name='time').get('datetime')
 
     def get_author(self):
-        self.get_soup()
         return self.soup.find(name='div', class_="details__author").find(name='div', class_='details__author__meta').find(name='a').get('title')
 
     def get_title(self):
-        self.get_soup()
         return self.soup.find(name='h1', class_="details__headline cms-title").get_text().strip()
 
     def get_abstract(self):
-        self.get_soup()
         return self.soup.find(id='chapeau').get_text().strip()
 
     def get_content(self):
-        self.get_soup()
         for script in self.soup.findAll(name='table', class_='picture'):
             script.decompose()
         for script in self.soup.findAll(name='table', class_='video'):
@@ -71,7 +66,6 @@ class ThanhNienScraper():
         return "\n".join([a.get_text() for a in self.soup.find(id='abody').findAll(name='p')])
 
     def get_tags(self):
-        self.get_soup()
         return [a.get('title').strip() if a.get('title').strip().isupper() else a.get('title').strip().title() for a in self.soup.find(id='abde').find(name='div', class_='details__tags').findAll(name='a')]
     
     def fix(self, file_name):
@@ -87,35 +81,29 @@ class ThanhNienScraper():
             with open(data_file, 'a+', newline='', encoding="utf-8") as file:
                 csv.writer(file).writerow(['url', 'title', 'datetime', 'author', 'abstract', 'content', 'tags'])
 
-        data = pd.read_csv(data_file)
+        data = pd.read_csv(data_file, engine='python')
         with open(data_file, 'a+', newline='', encoding="utf-8") as file:
             writer = csv.writer(file)
             if not data.loc[(data['url'] == self.url)].any().all():
-                try:
-                    writer.writerow([self.url, self.get_title(), self.get_datetime(), self.get_author(), self.get_abstract(), self.get_content(), self.get_tags()])
-                    print(f'Saved => {data_file}\n')
-                except:
-                    pass
+                writer.writerow([self.url, self.get_title(), self.get_datetime(), self.get_author(), self.get_abstract(), self.get_content(), self.get_tags()])
+                print(f'Saved => {self.url}\n')
             else: 
-                print(f'Exists => {data_file}\n')
+                print(f'Exists => {self.url}\n')
         
         self.fix(data_file)
 
 def fetch(url):
     while True:
-        try:
-            print(url)
-            for u in ThanhNienGetURLs(url).get_sub_urls():
-                print(f'Fetching => {u}')
-                ThanhNienScraper(u).save('data') 
-            
-            url = next_url(url)
-            time.sleep(1)
+        print(url)
+        for u in ThanhNienGetURLs(url).get_sub_urls():
+            print(f'Fetching => {u}')
+            ThanhNienScraper(u).save('data') 
+        
+        url = next_url(url)
+        time.sleep(1)
 
-            if url == None:
-                break
-        except:
-            url = next_url(url)
+        if url == None:
+            break
 
 if __name__ == "__main__":
     for url in [
@@ -131,3 +119,16 @@ if __name__ == "__main__":
         'https://thanhnien.vn/the-thao/',
         'https://thanhnien.vn/suc-khoe/']:
         fetch(url)
+    # with Pool(5) as p:
+    #     print(p.map(fetch, [
+    #     'https://thanhnien.vn/the-gioi/', 
+    #     'https://thanhnien.vn/thoi-su/', 
+    #     'https://thanhnien.vn/tai-chinh-kinh-doanh/', 
+    #     'https://thanhnien.vn/doi-song/',
+    #     'https://thanhnien.vn/du-lich/',
+    #     'https://thanhnien.vn/van-hoa/',
+    #     'https://thanhnien.vn/giai-tri/',
+    #     'https://thanhnien.vn/gioi-tre/',
+    #     'https://thanhnien.vn/giao-duc/',
+    #     'https://thanhnien.vn/the-thao/',
+    #     'https://thanhnien.vn/suc-khoe/']))

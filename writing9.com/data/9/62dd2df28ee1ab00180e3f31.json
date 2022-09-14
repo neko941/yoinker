@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62dd2df28ee1ab00180e3f31-should-human-adapt-to-technology-or-should-technology-be-adapted",
-    "file": "data\\9\\62dd2df28ee1ab00180e3f31.json",
+    "file": [
+        "data",
+        "9",
+        "62dd2df28ee1ab00180e3f31.json"
+    ],
     "topics": [
         "technology",
         "point"
@@ -50,46 +54,21 @@
     "linking_words": {
         "num_linking_words": "10",
         "list_linking_words": [
-            "this",
-            "hence",
-            "to begin",
-            "thus",
-            "although",
+            "for example",
             "therefore",
             "nonetheless",
-            "then",
+            "hence",
             "in other words",
-            "for example"
+            "this",
+            "although",
+            "then",
+            "to begin",
+            "thus"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "2",
         "list_repeated_words": [
-            {
-                "word": "work",
-                "occurrences": [
-                    {
-                        "start_idx": 667,
-                        "end_idx": 671
-                    },
-                    {
-                        "start_idx": 780,
-                        "end_idx": 784
-                    },
-                    {
-                        "start_idx": 817,
-                        "end_idx": 821
-                    },
-                    {
-                        "start_idx": 917,
-                        "end_idx": 921
-                    },
-                    {
-                        "start_idx": 1204,
-                        "end_idx": 1208
-                    }
-                ]
-            },
             {
                 "word": "technology",
                 "occurrences": [
@@ -112,6 +91,31 @@
                     {
                         "start_idx": 1698,
                         "end_idx": 1708
+                    }
+                ]
+            },
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 667,
+                        "end_idx": 671
+                    },
+                    {
+                        "start_idx": 780,
+                        "end_idx": 784
+                    },
+                    {
+                        "start_idx": 817,
+                        "end_idx": 821
+                    },
+                    {
+                        "start_idx": 917,
+                        "end_idx": 921
+                    },
+                    {
+                        "start_idx": 1204,
+                        "end_idx": 1208
                     }
                 ]
             }

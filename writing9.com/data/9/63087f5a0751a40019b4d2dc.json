@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/63087f5a0751a40019b4d2dc-some-people-say-that-the-computer-is-an-integral-part",
-    "file": "data\\9\\63087f5a0751a40019b4d2dc.json",
+    "file": [
+        "data",
+        "9",
+        "63087f5a0751a40019b4d2dc.json"
+    ],
     "topics": [
         "people",
         "computer",
@@ -53,64 +57,19 @@
     "linking_words": {
         "num_linking_words": "8",
         "list_linking_words": [
-            "however",
+            "for example",
             "in addition",
+            "that is",
             "as a result",
+            "consequently",
             "then",
             "such",
-            "for example",
-            "that is",
-            "consequently"
+            "however"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
-            {
-                "word": "computer",
-                "occurrences": [
-                    {
-                        "start_idx": 41,
-                        "end_idx": 49
-                    },
-                    {
-                        "start_idx": 215,
-                        "end_idx": 223
-                    },
-                    {
-                        "start_idx": 325,
-                        "end_idx": 333
-                    },
-                    {
-                        "start_idx": 512,
-                        "end_idx": 520
-                    },
-                    {
-                        "start_idx": 1024,
-                        "end_idx": 1032
-                    },
-                    {
-                        "start_idx": 1108,
-                        "end_idx": 1116
-                    },
-                    {
-                        "start_idx": 1379,
-                        "end_idx": 1387
-                    },
-                    {
-                        "start_idx": 1452,
-                        "end_idx": 1460
-                    },
-                    {
-                        "start_idx": 1593,
-                        "end_idx": 1601
-                    },
-                    {
-                        "start_idx": 1636,
-                        "end_idx": 1644
-                    }
-                ]
-            },
             {
                 "word": "students",
                 "occurrences": [
@@ -178,6 +137,51 @@
                     {
                         "start_idx": 1636,
                         "end_idx": 1645
+                    }
+                ]
+            },
+            {
+                "word": "computer",
+                "occurrences": [
+                    {
+                        "start_idx": 41,
+                        "end_idx": 49
+                    },
+                    {
+                        "start_idx": 215,
+                        "end_idx": 223
+                    },
+                    {
+                        "start_idx": 325,
+                        "end_idx": 333
+                    },
+                    {
+                        "start_idx": 512,
+                        "end_idx": 520
+                    },
+                    {
+                        "start_idx": 1024,
+                        "end_idx": 1032
+                    },
+                    {
+                        "start_idx": 1108,
+                        "end_idx": 1116
+                    },
+                    {
+                        "start_idx": 1379,
+                        "end_idx": 1387
+                    },
+                    {
+                        "start_idx": 1452,
+                        "end_idx": 1460
+                    },
+                    {
+                        "start_idx": 1593,
+                        "end_idx": 1601
+                    },
+                    {
+                        "start_idx": 1636,
+                        "end_idx": 1644
                     }
                 ]
             }

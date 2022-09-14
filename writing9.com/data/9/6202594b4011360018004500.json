@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/6202594b4011360018004500-some-people-are-of-the-opinion-that-being-highly-qualified",
-    "file": "data\\9\\6202594b4011360018004500.json",
+    "file": [
+        "data",
+        "9",
+        "6202594b4011360018004500.json"
+    ],
     "topics": [
         "people",
         "job",
@@ -51,42 +55,21 @@
     "linking_words": {
         "num_linking_words": "10",
         "list_linking_words": [
-            "this",
-            "however",
             "moreover",
-            "first",
-            "firstly",
-            "on the other hand",
-            "lastly",
-            "furthermore",
             "for example",
-            "for instance"
+            "on the other hand",
+            "first",
+            "this",
+            "furthermore",
+            "for instance",
+            "lastly",
+            "firstly",
+            "however"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "2",
         "list_repeated_words": [
-            {
-                "word": "way",
-                "occurrences": [
-                    {
-                        "start_idx": 101,
-                        "end_idx": 104
-                    },
-                    {
-                        "start_idx": 209,
-                        "end_idx": 212
-                    },
-                    {
-                        "start_idx": 1448,
-                        "end_idx": 1451
-                    },
-                    {
-                        "start_idx": 1583,
-                        "end_idx": 1586
-                    }
-                ]
-            },
             {
                 "word": "experience",
                 "occurrences": [
@@ -105,6 +88,27 @@
                     {
                         "start_idx": 1018,
                         "end_idx": 1028
+                    }
+                ]
+            },
+            {
+                "word": "way",
+                "occurrences": [
+                    {
+                        "start_idx": 101,
+                        "end_idx": 104
+                    },
+                    {
+                        "start_idx": 209,
+                        "end_idx": 212
+                    },
+                    {
+                        "start_idx": 1448,
+                        "end_idx": 1451
+                    },
+                    {
+                        "start_idx": 1583,
+                        "end_idx": 1586
                     }
                 ]
             }

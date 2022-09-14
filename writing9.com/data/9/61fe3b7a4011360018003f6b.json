@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/61fe3b7a4011360018003f6b-you-have-recently-read-a-newspaper-article-about-your-school",
-    "file": "data\\9\\61fe3b7a4011360018003f6b.json",
+    "file": [
+        "data",
+        "9",
+        "61fe3b7a4011360018003f6b.json"
+    ],
     "topics": [
         "newspaper",
         "article",
@@ -56,10 +60,10 @@
     "linking_words": {
         "num_linking_words": "4",
         "list_linking_words": [
-            "this",
             "first",
             "also",
-            "moreover"
+            "moreover",
+            "this"
         ]
     },
     "repeated_words": {

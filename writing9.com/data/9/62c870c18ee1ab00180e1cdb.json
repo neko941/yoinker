@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62c870c18ee1ab00180e1cdb-it-will-be-better-for-society-and-individuals-if-driverless",
-    "file": "data\\9\\62c870c18ee1ab00180e1cdb.json",
+    "file": [
+        "data",
+        "9",
+        "62c870c18ee1ab00180e1cdb.json"
+    ],
     "topics": [
         "society",
         "individuals",
@@ -53,41 +57,20 @@
     "linking_words": {
         "num_linking_words": "9",
         "list_linking_words": [
-            "such",
-            "additionally",
             "moreover",
-            "firstly",
-            "last",
-            "instead",
             "as a result",
             "in other words",
-            "for instance"
+            "additionally",
+            "last",
+            "for instance",
+            "such",
+            "instead",
+            "firstly"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
-            {
-                "word": "cars",
-                "occurrences": [
-                    {
-                        "start_idx": 11,
-                        "end_idx": 15
-                    },
-                    {
-                        "start_idx": 1365,
-                        "end_idx": 1369
-                    },
-                    {
-                        "start_idx": 1497,
-                        "end_idx": 1501
-                    },
-                    {
-                        "start_idx": 1591,
-                        "end_idx": 1595
-                    }
-                ]
-            },
             {
                 "word": "traffic",
                 "occurrences": [
@@ -131,6 +114,27 @@
                     {
                         "start_idx": 1276,
                         "end_idx": 1282
+                    }
+                ]
+            },
+            {
+                "word": "cars",
+                "occurrences": [
+                    {
+                        "start_idx": 11,
+                        "end_idx": 15
+                    },
+                    {
+                        "start_idx": 1365,
+                        "end_idx": 1369
+                    },
+                    {
+                        "start_idx": 1497,
+                        "end_idx": 1501
+                    },
+                    {
+                        "start_idx": 1591,
+                        "end_idx": 1595
                     }
                 ]
             }

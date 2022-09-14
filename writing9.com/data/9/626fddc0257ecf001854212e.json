@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/626fddc0257ecf001854212e-in-the-past-people-ate-local-in-season-food-but-now",
-    "file": "data\\9\\626fddc0257ecf001854212e.json",
+    "file": [
+        "data",
+        "9",
+        "626fddc0257ecf001854212e.json"
+    ],
     "topics": [
         "people",
         "in-season",
@@ -54,45 +58,24 @@
     "linking_words": {
         "num_linking_words": "13",
         "list_linking_words": [
-            "this",
-            "hence",
-            "finally",
-            "to begin",
-            "on the other hand",
-            "thus",
-            "although",
             "therefore",
-            "as a result",
-            "such",
-            "also",
             "for example",
-            "for instance"
+            "on the other hand",
+            "hence",
+            "as a result",
+            "also",
+            "this",
+            "although",
+            "such",
+            "for instance",
+            "to begin",
+            "thus",
+            "finally"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "2",
         "list_repeated_words": [
-            {
-                "word": "people",
-                "occurrences": [
-                    {
-                        "start_idx": 177,
-                        "end_idx": 183
-                    },
-                    {
-                        "start_idx": 784,
-                        "end_idx": 790
-                    },
-                    {
-                        "start_idx": 1069,
-                        "end_idx": 1075
-                    },
-                    {
-                        "start_idx": 1267,
-                        "end_idx": 1273
-                    }
-                ]
-            },
             {
                 "word": "fruits",
                 "occurrences": [
@@ -111,6 +94,27 @@
                     {
                         "start_idx": 1952,
                         "end_idx": 1958
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 177,
+                        "end_idx": 183
+                    },
+                    {
+                        "start_idx": 784,
+                        "end_idx": 790
+                    },
+                    {
+                        "start_idx": 1069,
+                        "end_idx": 1075
+                    },
+                    {
+                        "start_idx": 1267,
+                        "end_idx": 1273
                     }
                 ]
             }

@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62081e104011360018004e0f-some-people-say-that-advertising-is-extremely-successful-at-persuading",
-    "file": "data\\9\\62081e104011360018004e0f.json",
+    "file": [
+        "data",
+        "9",
+        "62081e104011360018004e0f.json"
+    ],
     "topics": [
         "people",
         "attention"
@@ -36,7 +40,6 @@
     },
     "text": [
         "In order to sell a product, manufacturing companies often use advertising as a medium. There are arguments for and against advertisements with some people suggesting that it still influences them to buy products while others feel it hardly makes an impact on them. Personally, I believe it still works well as a means of marketing a product.",
-        "",
         "On one hand, the use of adverts to sell a product can be said to be successful as will be proved by the following reason. Ultimately, many of the goods that people now possess, came as a result of some advert they came across which showed to them how much they were missing by not having a particular item. To put this in perspective, if advertising has not been a success, then we would not have many if not all of the promoted goods being bought by the masses. To illustrate, a survey conducted by a certain marketing company on the effects of adverts on people proved that 90% of those who watched the promotions were able to buy the item eventually.",
         "Despite the foregoing reason, other people believe that advertisements bear little or no fruit. This is because ,in spite of the numerous adverts on various products on the market, people do not attempt to buy things they did not intend to purchase initially. In other words, rather than being made to buy something simply because someone praised it, people know what they need to buy without aid. Take, for example, an individual who plans to buy a laptop that he needs for studying purposes comes across an advert about a pair of shoes which he does not need, regardless of how much praise the shoe might receive through advertising, it will have no bearing on him.",
         "In conclusion,although certain people believe marketing a product has little impact on them because they can not be made to buy something they did not intend to, advertising aids in getting the right kind of items one needs. This is why I strongly concur with the sentiment that adverts are extremely successful today."
@@ -51,13 +54,13 @@
     "linking_words": {
         "num_linking_words": "7",
         "list_linking_words": [
-            "this",
             "for example",
-            "although",
+            "initially",
             "as a result",
-            "then",
             "in other words",
-            "initially"
+            "this",
+            "although",
+            "then"
         ]
     },
     "repeated_words": {
@@ -79,37 +82,16 @@
                         "end_idx": 340
                     },
                     {
-                        "start_idx": 385,
-                        "end_idx": 392
+                        "start_idx": 384,
+                        "end_idx": 391
                     },
                     {
-                        "start_idx": 1154,
-                        "end_idx": 1161
+                        "start_idx": 1153,
+                        "end_idx": 1160
                     },
                     {
-                        "start_idx": 1723,
-                        "end_idx": 1730
-                    }
-                ]
-            },
-            {
-                "word": "adverts",
-                "occurrences": [
-                    {
-                        "start_idx": 367,
-                        "end_idx": 374
-                    },
-                    {
-                        "start_idx": 889,
-                        "end_idx": 896
-                    },
-                    {
-                        "start_idx": 1135,
-                        "end_idx": 1142
-                    },
-                    {
-                        "start_idx": 1944,
-                        "end_idx": 1951
+                        "start_idx": 1722,
+                        "end_idx": 1729
                     }
                 ]
             },
@@ -121,28 +103,49 @@
                         "end_idx": 154
                     },
                     {
-                        "start_idx": 500,
-                        "end_idx": 506
+                        "start_idx": 499,
+                        "end_idx": 505
                     },
                     {
-                        "start_idx": 900,
-                        "end_idx": 906
+                        "start_idx": 899,
+                        "end_idx": 905
                     },
                     {
-                        "start_idx": 1033,
-                        "end_idx": 1039
+                        "start_idx": 1032,
+                        "end_idx": 1038
                     },
                     {
-                        "start_idx": 1178,
-                        "end_idx": 1184
+                        "start_idx": 1177,
+                        "end_idx": 1183
                     },
                     {
-                        "start_idx": 1348,
-                        "end_idx": 1354
+                        "start_idx": 1347,
+                        "end_idx": 1353
                     },
                     {
-                        "start_idx": 1696,
-                        "end_idx": 1702
+                        "start_idx": 1695,
+                        "end_idx": 1701
+                    }
+                ]
+            },
+            {
+                "word": "adverts",
+                "occurrences": [
+                    {
+                        "start_idx": 366,
+                        "end_idx": 373
+                    },
+                    {
+                        "start_idx": 888,
+                        "end_idx": 895
+                    },
+                    {
+                        "start_idx": 1134,
+                        "end_idx": 1141
+                    },
+                    {
+                        "start_idx": 1943,
+                        "end_idx": 1950
                     }
                 ]
             }

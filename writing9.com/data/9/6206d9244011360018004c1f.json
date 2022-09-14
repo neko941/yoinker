@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/6206d9244011360018004c1f-students-should-choose-an-university-major-that-the-prepares-them",
-    "file": "data\\9\\6206d9244011360018004c1f.json",
+    "file": [
+        "data",
+        "9",
+        "6206d9244011360018004c1f.json"
+    ],
     "topics": [
         "students",
         "university",
@@ -51,20 +55,45 @@
     "linking_words": {
         "num_linking_words": "9",
         "list_linking_words": [
+            "for example",
+            "on the contrary",
+            "second",
+            "first",
+            "that is",
+            "in other words",
             "this",
             "such",
-            "first",
-            "second",
-            "on the contrary",
-            "firstly",
-            "in other words",
-            "for example",
-            "that is"
+            "firstly"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 44,
+                        "end_idx": 52
+                    },
+                    {
+                        "start_idx": 370,
+                        "end_idx": 378
+                    },
+                    {
+                        "start_idx": 833,
+                        "end_idx": 841
+                    },
+                    {
+                        "start_idx": 1417,
+                        "end_idx": 1425
+                    },
+                    {
+                        "start_idx": 1551,
+                        "end_idx": 1559
+                    }
+                ]
+            },
             {
                 "word": "jobs",
                 "occurrences": [
@@ -91,31 +120,6 @@
                     {
                         "start_idx": 1510,
                         "end_idx": 1514
-                    }
-                ]
-            },
-            {
-                "word": "students",
-                "occurrences": [
-                    {
-                        "start_idx": 44,
-                        "end_idx": 52
-                    },
-                    {
-                        "start_idx": 370,
-                        "end_idx": 378
-                    },
-                    {
-                        "start_idx": 833,
-                        "end_idx": 841
-                    },
-                    {
-                        "start_idx": 1417,
-                        "end_idx": 1425
-                    },
-                    {
-                        "start_idx": 1551,
-                        "end_idx": 1559
                     }
                 ]
             },

@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/620144f4401136001800438c-some-people-believe-that-purpose-of-education-should-be-helping",
-    "file": "data\\9\\620144f4401136001800438c.json",
+    "file": [
+        "data",
+        "9",
+        "620144f4401136001800438c.json"
+    ],
     "topics": [
         "people",
         "purpose",
@@ -54,16 +58,16 @@
     "linking_words": {
         "num_linking_words": "10",
         "list_linking_words": [
-            "this",
-            "first",
-            "on the other hand",
-            "although",
             "therefore",
-            "in addition",
-            "for instance",
-            "furthermore",
             "for example",
-            "consequently"
+            "on the other hand",
+            "first",
+            "in addition",
+            "consequently",
+            "this",
+            "although",
+            "furthermore",
+            "for instance"
         ]
     },
     "repeated_words": {
@@ -103,27 +107,6 @@
                 ]
             },
             {
-                "word": "people",
-                "occurrences": [
-                    {
-                        "start_idx": 91,
-                        "end_idx": 97
-                    },
-                    {
-                        "start_idx": 164,
-                        "end_idx": 170
-                    },
-                    {
-                        "start_idx": 382,
-                        "end_idx": 388
-                    },
-                    {
-                        "start_idx": 1132,
-                        "end_idx": 1138
-                    }
-                ]
-            },
-            {
                 "word": "society",
                 "occurrences": [
                     {
@@ -141,6 +124,27 @@
                     {
                         "start_idx": 1856,
                         "end_idx": 1863
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 91,
+                        "end_idx": 97
+                    },
+                    {
+                        "start_idx": 164,
+                        "end_idx": 170
+                    },
+                    {
+                        "start_idx": 382,
+                        "end_idx": 388
+                    },
+                    {
+                        "start_idx": 1132,
+                        "end_idx": 1138
                     }
                 ]
             }

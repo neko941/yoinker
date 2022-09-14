@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62de16d18ee1ab00180e408c-the-average-standard-of-peoples-health-is-likely-to-be",
-    "file": "data\\9\\62de16d18ee1ab00180e408c.json",
+    "file": [
+        "data",
+        "9",
+        "62de16d18ee1ab00180e408c.json"
+    ],
     "topics": [
         "people\u2019s",
         "health",
@@ -51,21 +55,42 @@
     "linking_words": {
         "num_linking_words": "10",
         "list_linking_words": [
-            "this",
-            "however",
             "moreover",
-            "firstly",
-            "although",
-            "secondly",
             "therefore",
-            "in other words",
             "that is",
-            "consequently"
+            "secondly",
+            "in other words",
+            "consequently",
+            "this",
+            "although",
+            "firstly",
+            "however"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 50,
+                        "end_idx": 56
+                    },
+                    {
+                        "start_idx": 341,
+                        "end_idx": 347
+                    },
+                    {
+                        "start_idx": 1088,
+                        "end_idx": 1094
+                    },
+                    {
+                        "start_idx": 1781,
+                        "end_idx": 1787
+                    }
+                ]
+            },
             {
                 "word": "health",
                 "occurrences": [
@@ -137,27 +162,6 @@
                     {
                         "start_idx": 2001,
                         "end_idx": 2005
-                    }
-                ]
-            },
-            {
-                "word": "people",
-                "occurrences": [
-                    {
-                        "start_idx": 50,
-                        "end_idx": 56
-                    },
-                    {
-                        "start_idx": 341,
-                        "end_idx": 347
-                    },
-                    {
-                        "start_idx": 1088,
-                        "end_idx": 1094
-                    },
-                    {
-                        "start_idx": 1781,
-                        "end_idx": 1787
                     }
                 ]
             }

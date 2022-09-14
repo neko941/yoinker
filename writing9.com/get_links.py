@@ -41,7 +41,8 @@ class Writting9GetLinks():
                 if response.status_code == 200:
                     sub_urls = self.get_sub_urls(url)
                     if len(sub_urls) == 0:
-                        self.log(url, "Sub URLs")
+                        # self.log(url, "Sub URLs")
+                        continue
                     else:
                         if save:
                             assert name, format

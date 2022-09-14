@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62d93e938ee1ab00180e3875-news-editors-decide-what-to-broadcast-on-televison-and-what",
-    "file": "data\\9\\62d93e938ee1ab00180e3875.json",
+    "file": [
+        "data",
+        "9",
+        "62d93e938ee1ab00180e3875.json"
+    ],
     "topics": [
         "news",
         "editors",
@@ -57,18 +61,39 @@
     "linking_words": {
         "num_linking_words": "7",
         "list_linking_words": [
-            "this",
             "moreover",
-            "although",
-            "also",
             "for example",
             "that is",
+            "also",
+            "this",
+            "although",
             "for instance"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "2",
         "list_repeated_words": [
+            {
+                "word": "media",
+                "occurrences": [
+                    {
+                        "start_idx": 40,
+                        "end_idx": 45
+                    },
+                    {
+                        "start_idx": 140,
+                        "end_idx": 145
+                    },
+                    {
+                        "start_idx": 1636,
+                        "end_idx": 1641
+                    },
+                    {
+                        "start_idx": 1956,
+                        "end_idx": 1961
+                    }
+                ]
+            },
             {
                 "word": "news",
                 "occurrences": [
@@ -95,27 +120,6 @@
                     {
                         "start_idx": 2032,
                         "end_idx": 2036
-                    }
-                ]
-            },
-            {
-                "word": "media",
-                "occurrences": [
-                    {
-                        "start_idx": 40,
-                        "end_idx": 45
-                    },
-                    {
-                        "start_idx": 140,
-                        "end_idx": 145
-                    },
-                    {
-                        "start_idx": 1636,
-                        "end_idx": 1641
-                    },
-                    {
-                        "start_idx": 1956,
-                        "end_idx": 1961
                     }
                 ]
             }

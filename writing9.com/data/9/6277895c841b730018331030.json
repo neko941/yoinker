@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/6277895c841b730018331030-in-many-countries-people-are-woking-increasingly-longer-hours-what",
-    "file": "data\\9\\6277895c841b730018331030.json",
+    "file": [
+        "data",
+        "9",
+        "6277895c841b730018331030.json"
+    ],
     "topics": [
         "countries",
         "people",
@@ -52,16 +56,16 @@
     "linking_words": {
         "num_linking_words": "10",
         "list_linking_words": [
-            "this",
-            "however",
-            "firstly",
-            "last",
-            "on the other hand",
-            "instead",
             "therefore",
-            "secondly",
             "for example",
-            "for instance"
+            "on the other hand",
+            "secondly",
+            "this",
+            "last",
+            "for instance",
+            "instead",
+            "firstly",
+            "however"
         ]
     },
     "repeated_words": {
@@ -85,6 +89,39 @@
                     {
                         "start_idx": 1948,
                         "end_idx": 1953
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 436,
+                        "end_idx": 442
+                    },
+                    {
+                        "start_idx": 657,
+                        "end_idx": 663
+                    },
+                    {
+                        "start_idx": 926,
+                        "end_idx": 932
+                    },
+                    {
+                        "start_idx": 1009,
+                        "end_idx": 1015
+                    },
+                    {
+                        "start_idx": 1597,
+                        "end_idx": 1603
+                    },
+                    {
+                        "start_idx": 1766,
+                        "end_idx": 1772
+                    },
+                    {
+                        "start_idx": 1974,
+                        "end_idx": 1980
                     }
                 ]
             },
@@ -122,39 +159,6 @@
                     {
                         "start_idx": 2022,
                         "end_idx": 2026
-                    }
-                ]
-            },
-            {
-                "word": "people",
-                "occurrences": [
-                    {
-                        "start_idx": 436,
-                        "end_idx": 442
-                    },
-                    {
-                        "start_idx": 657,
-                        "end_idx": 663
-                    },
-                    {
-                        "start_idx": 926,
-                        "end_idx": 932
-                    },
-                    {
-                        "start_idx": 1009,
-                        "end_idx": 1015
-                    },
-                    {
-                        "start_idx": 1597,
-                        "end_idx": 1603
-                    },
-                    {
-                        "start_idx": 1766,
-                        "end_idx": 1772
-                    },
-                    {
-                        "start_idx": 1974,
-                        "end_idx": 1980
                     }
                 ]
             }

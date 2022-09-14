@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62df8b108ee1ab00180e42e4-government-should-close-companies-that-produce-toxic-waste-materials-without",
-    "file": "data\\9\\62df8b108ee1ab00180e42e4.json",
+    "file": [
+        "data",
+        "9",
+        "62df8b108ee1ab00180e42e4.json"
+    ],
     "topics": [
         "government",
         "companies",
@@ -55,43 +59,18 @@
     "linking_words": {
         "num_linking_words": "7",
         "list_linking_words": [
-            "this",
             "moreover",
-            "thus",
             "therefore",
             "for example",
             "that is",
-            "for instance"
+            "this",
+            "for instance",
+            "thus"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "2",
         "list_repeated_words": [
-            {
-                "word": "environment",
-                "occurrences": [
-                    {
-                        "start_idx": 47,
-                        "end_idx": 58
-                    },
-                    {
-                        "start_idx": 150,
-                        "end_idx": 161
-                    },
-                    {
-                        "start_idx": 275,
-                        "end_idx": 286
-                    },
-                    {
-                        "start_idx": 543,
-                        "end_idx": 554
-                    },
-                    {
-                        "start_idx": 1285,
-                        "end_idx": 1296
-                    }
-                ]
-            },
             {
                 "word": "companies",
                 "occurrences": [
@@ -114,6 +93,31 @@
                     {
                         "start_idx": 1529,
                         "end_idx": 1538
+                    }
+                ]
+            },
+            {
+                "word": "environment",
+                "occurrences": [
+                    {
+                        "start_idx": 47,
+                        "end_idx": 58
+                    },
+                    {
+                        "start_idx": 150,
+                        "end_idx": 161
+                    },
+                    {
+                        "start_idx": 275,
+                        "end_idx": 286
+                    },
+                    {
+                        "start_idx": 543,
+                        "end_idx": 554
+                    },
+                    {
+                        "start_idx": 1285,
+                        "end_idx": 1296
                     }
                 ]
             }

@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/6267b80e257ecf00185415a5-some-people-say-that-advertising-is-extremely-successful-at-increasing",
-    "file": "data\\9\\6267b80e257ecf00185415a5.json",
+    "file": [
+        "data",
+        "9",
+        "6267b80e257ecf00185415a5.json"
+    ],
     "topics": [
         "people",
         "sale",
@@ -51,18 +55,18 @@
     "linking_words": {
         "num_linking_words": "12",
         "list_linking_words": [
-            "this",
-            "however",
             "moreover",
-            "on the other hand",
-            "thus",
             "instead",
-            "although",
-            "therefore",
-            "for instance",
-            "also",
             "for example",
-            "consequently"
+            "on the other hand",
+            "therefore",
+            "also",
+            "consequently",
+            "this",
+            "although",
+            "for instance",
+            "thus",
+            "however"
         ]
     },
     "repeated_words": {
@@ -90,27 +94,6 @@
                 ]
             },
             {
-                "word": "advertisements",
-                "occurrences": [
-                    {
-                        "start_idx": 29,
-                        "end_idx": 43
-                    },
-                    {
-                        "start_idx": 837,
-                        "end_idx": 851
-                    },
-                    {
-                        "start_idx": 1100,
-                        "end_idx": 1114
-                    },
-                    {
-                        "start_idx": 1455,
-                        "end_idx": 1469
-                    }
-                ]
-            },
-            {
                 "word": "people",
                 "occurrences": [
                     {
@@ -132,6 +115,27 @@
                     {
                         "start_idx": 1701,
                         "end_idx": 1707
+                    }
+                ]
+            },
+            {
+                "word": "advertisements",
+                "occurrences": [
+                    {
+                        "start_idx": 29,
+                        "end_idx": 43
+                    },
+                    {
+                        "start_idx": 837,
+                        "end_idx": 851
+                    },
+                    {
+                        "start_idx": 1100,
+                        "end_idx": 1114
+                    },
+                    {
+                        "start_idx": 1455,
+                        "end_idx": 1469
                     }
                 ]
             }

@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/63123ff1aee9de001876088a-you-have-rented-an-apartment-recently-but-you-are-facing",
-    "file": "data\\9\\63123ff1aee9de001876088a.json",
+    "file": [
+        "data",
+        "9",
+        "63123ff1aee9de001876088a.json"
+    ],
     "topics": [
         "apartment",
         "landlord"
@@ -52,12 +56,12 @@
     "linking_words": {
         "num_linking_words": "6",
         "list_linking_words": [
-            "this",
-            "hence",
-            "however",
             "on the other hand",
+            "hence",
             "in addition",
-            "also"
+            "also",
+            "this",
+            "however"
         ]
     },
     "repeated_words": {

@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62c826ee8ee1ab00180e1c59-some-people-say-that-advertising-is-extremely-successful-at-pursuading",
-    "file": "data\\9\\62c826ee8ee1ab00180e1c59.json",
+    "file": [
+        "data",
+        "9",
+        "62c826ee8ee1ab00180e1c59.json"
+    ],
     "topics": [
         "people",
         "attention"
@@ -50,22 +54,35 @@
     "linking_words": {
         "num_linking_words": "11",
         "list_linking_words": [
-            "hence",
-            "however",
-            "first",
-            "second",
-            "accordingly",
-            "on the other hand",
-            "although",
-            "therefore",
-            "also",
             "for example",
-            "for instance"
+            "therefore",
+            "on the other hand",
+            "second",
+            "first",
+            "hence",
+            "also",
+            "accordingly",
+            "although",
+            "for instance",
+            "however"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "2",
         "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 185,
+                        "end_idx": 191
+                    },
+                    {
+                        "start_idx": 1069,
+                        "end_idx": 1075
+                    }
+                ]
+            },
             {
                 "word": "products",
                 "occurrences": [
@@ -84,19 +101,6 @@
                     {
                         "start_idx": 1592,
                         "end_idx": 1600
-                    }
-                ]
-            },
-            {
-                "word": "people",
-                "occurrences": [
-                    {
-                        "start_idx": 185,
-                        "end_idx": 191
-                    },
-                    {
-                        "start_idx": 1069,
-                        "end_idx": 1075
                     }
                 ]
             }

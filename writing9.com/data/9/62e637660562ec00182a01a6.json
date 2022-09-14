@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62e637660562ec00182a01a6-online-shopping-is-replacing-offline-or-shopping-from-storesdo-you",
-    "file": "data\\9\\62e637660562ec00182a01a6.json",
+    "file": [
+        "data",
+        "9",
+        "62e637660562ec00182a01a6.json"
+    ],
     "topics": [
         "offline",
         "stores",
@@ -51,48 +55,19 @@
     "linking_words": {
         "num_linking_words": "8",
         "list_linking_words": [
-            "this",
-            "to begin",
             "moreover",
+            "for example",
             "on the other hand",
             "as a result",
+            "further",
             "also",
-            "for example",
-            "further"
+            "this",
+            "to begin"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
-            {
-                "word": "issue",
-                "occurrences": [
-                    {
-                        "start_idx": 367,
-                        "end_idx": 372
-                    },
-                    {
-                        "start_idx": 814,
-                        "end_idx": 819
-                    },
-                    {
-                        "start_idx": 852,
-                        "end_idx": 857
-                    },
-                    {
-                        "start_idx": 904,
-                        "end_idx": 909
-                    },
-                    {
-                        "start_idx": 1421,
-                        "end_idx": 1426
-                    },
-                    {
-                        "start_idx": 1568,
-                        "end_idx": 1573
-                    }
-                ]
-            },
             {
                 "word": "points",
                 "occurrences": [
@@ -148,6 +123,35 @@
                     {
                         "start_idx": 669,
                         "end_idx": 675
+                    }
+                ]
+            },
+            {
+                "word": "issue",
+                "occurrences": [
+                    {
+                        "start_idx": 367,
+                        "end_idx": 372
+                    },
+                    {
+                        "start_idx": 814,
+                        "end_idx": 819
+                    },
+                    {
+                        "start_idx": 852,
+                        "end_idx": 857
+                    },
+                    {
+                        "start_idx": 904,
+                        "end_idx": 909
+                    },
+                    {
+                        "start_idx": 1421,
+                        "end_idx": 1426
+                    },
+                    {
+                        "start_idx": 1568,
+                        "end_idx": 1573
                     }
                 ]
             }

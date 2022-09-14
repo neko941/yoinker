@@ -7,10 +7,11 @@ import numpy as np
 from datetime import datetime
 from bs4 import BeautifulSoup
 
-from utils import find_all
 from utils import isfloat
-from utils import isfloatfromstring
+from utils import find_all
+from utils import advanced_join
 from utils import advanced_split
+from utils import isfloatfromstring
 
 class Writing9Scraper():
     def __init__(self, url):
@@ -18,6 +19,7 @@ class Writing9Scraper():
         self.response = requests.get(url)
         if self.response.status_code == 200:
             self.get_soup()
+        self.bug = 0
 
     def get_soup(self):
         self.soup = BeautifulSoup(self.response.content, "html.parser")
@@ -27,6 +29,7 @@ class Writing9Scraper():
             self.question = self.soup.find(name='h1', class_='jsx-3594441866').get_text().replace('\r\n', '').strip()
             return self.question
         except:
+            self.bug = 1
             self.log('Question')
 
     def get_topics(self):
@@ -34,6 +37,7 @@ class Writing9Scraper():
             self.topics = [topic.replace('#', '') for topic in self.soup.find(name='div', class_='jsx-2818493600 page-text__topics').get_text().strip().split(" ")]
             return self.topics
         except:
+            self.bug = 1
             self.log('Topics')
 
     def get_submitter(self):
@@ -48,6 +52,7 @@ class Writing9Scraper():
             self.datetime = self.soup.find(name='time', class_='jsx-2818493600').get('datetime')
             return self.datetime
         except:
+            self.bug = 1
             self.log('Datetime')
 
     def get_linking_words(self):
@@ -58,6 +63,7 @@ class Writing9Scraper():
             }
             return self.linking_words
         except:
+            self.bug = 1
             self.log('Linking Words')
 
     def get_repeated_words(self):
@@ -72,6 +78,7 @@ class Writing9Scraper():
             }
             return self.repeated_words
         except:
+            self.bug = 1
             self.log('Repeated Words')
 
     def get_text(self):
@@ -87,6 +94,7 @@ class Writing9Scraper():
             self.get_soup()
             return self.text
         except:
+            self.bug = 1
             self.log('Text')
 
 
@@ -94,25 +102,29 @@ class Writing9Scraper():
         try:
             self.errors = []
             for error in self.soup.findAll(name='span', class_='jsx-836047043 error'):
+                
                 error_word = error.find(name='span', class_='jsx-1879403401 text').get_text()
+                
                 previous_elements = []
                 previous_element = error.previous_sibling
-                while True:
-                    previous_elements.insert(0, previous_element)
-                    previous_element = previous_element.previous_sibling
-                    if previous_element == None:
-                        break
-
+                if not previous_element == None:
+                    while True:
+                        previous_elements.insert(0, previous_element)
+                        previous_element = previous_element.previous_sibling
+                        if previous_element == None:
+                            break
                 previous = ''
-                for ele in previous_elements:
-                    if isinstance(ele, str):
-                        previous += ele
-                    else:
-                        for script in ele.findAll(name='div', class_='jsx-1879403401 hover'):
-                            script.decompose() 
-                        previous += ele.get_text()
-                previous = ' '.join(previous.split('\r\n\r\n')).replace('\xa0', ' ')
-
+                if len(previous_elements) != 0:
+                    for ele in previous_elements:
+                        if isinstance(ele, str):
+                            previous += ele
+                        else:
+                            for script in ele.findAll(name='div', class_='jsx-1879403401 hover'):
+                                script.decompose() 
+                            previous += ele.get_text()
+                # previous = ' '.join(previous.split('\r\n\r\n')).replace('\xa0', ' ')
+                previous = advanced_split(text=previous, delimiters=['\r\n\r\n', '\n\n', '\n'], join_char=' ').replace('\xa0', ' ')
+                
                 try:
                     error_title = error.find('div', class_='jsx-1879403401 title').get_text().replace('\xa0', ' ')
                 except:
@@ -141,6 +153,7 @@ class Writing9Scraper():
                 'error_list' : self.errors}
             return self.errors
         except:
+            self.bug = 1
             self.log('Errors')
 
     def get_text_stats(self):
@@ -148,6 +161,7 @@ class Writing9Scraper():
             stats = [int(stat.get_text()) for stat in self.soup.find(name='div', class_='jsx-2802957637 page-draft-text-analyzer__section-container page-draft-text-analyzer__stats').findAll(name='span', class_='jsx-2802957637')]
             self.num_paragraphs, self.num_words = stats
         except:
+            self.bug = 1
             self.log('Text Statistics')
   
     def get_scores(self):
@@ -169,6 +183,7 @@ class Writing9Scraper():
                         else:
                             self.scores['_'.join(score[0].strip().lower().split(' '))]['_'.join(n.get_text().lower().split(' '))] = 0.0       
         except:
+            self.bug = 1
             self.log('Scores') 
         
     def log(self, message, log_dir='error_log'):
@@ -209,10 +224,12 @@ class Writing9Scraper():
                         'datetime_submitted' : self.datetime
                     }
 
-                    with open(save_dir, 'w') as fp:
-                        json.dump(data, fp, indent=4, sort_keys=False) 
-                    print(f'Data written => {save_dir}', end='\n\n')
-
+                    if self.bug == 0:
+                        with open(advanced_join(save_dir), 'w') as fp:
+                            json.dump(data, fp, indent=4, sort_keys=False) 
+                        print(f'Data written => {advanced_join(save_dir)}', end='\n\n')
+                    else:
+                        print(f'Errors => {self.url}', end='\n\n') 
                 except:
                     print(f'Errors => {self.url}', end='\n\n') 
 
@@ -232,8 +249,8 @@ if __name__ == "__main__":
             if row == ['url', 'band', 'file_name']:
                 continue
 
-            file_path = os.path.join(data_dir, os.path.join(row[1], row[2]))
-            if not os.path.exists(file_path):
+            file_path = [data_dir, row[1], row[2]]
+            if not os.path.exists(advanced_join(file_path)):
                 Writing9Scraper(url=row[0]).get_all_info(save_dir=file_path)
             else:
-                print(f'{file_path} exists', end='\n\n')
+                print(f'File exists => {advanced_join(file_path)}', end='\n\n')

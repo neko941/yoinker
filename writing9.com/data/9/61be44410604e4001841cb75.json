@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/61be44410604e4001841cb75-increasing-the-price-of-petrol-is-the-best-way",
-    "file": "data\\9\\61be44410604e4001841cb75.json",
+    "file": [
+        "data",
+        "9",
+        "61be44410604e4001841cb75.json"
+    ],
     "topics": [
         "price",
         "petrol",
@@ -53,44 +57,23 @@
     "linking_words": {
         "num_linking_words": "12",
         "list_linking_words": [
-            "this",
-            "to begin",
-            "third",
-            "firstly",
-            "on the other hand",
-            "although",
-            "secondly",
-            "as a result",
-            "similarly",
-            "in addition",
             "for example",
-            "for instance"
+            "on the other hand",
+            "in addition",
+            "as a result",
+            "secondly",
+            "similarly",
+            "this",
+            "although",
+            "third",
+            "for instance",
+            "to begin",
+            "firstly"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
-            {
-                "word": "pollution",
-                "occurrences": [
-                    {
-                        "start_idx": 99,
-                        "end_idx": 108
-                    },
-                    {
-                        "start_idx": 305,
-                        "end_idx": 314
-                    },
-                    {
-                        "start_idx": 746,
-                        "end_idx": 755
-                    },
-                    {
-                        "start_idx": 1786,
-                        "end_idx": 1795
-                    }
-                ]
-            },
             {
                 "word": "air",
                 "occurrences": [
@@ -134,6 +117,27 @@
                     {
                         "start_idx": 2005,
                         "end_idx": 2011
+                    }
+                ]
+            },
+            {
+                "word": "pollution",
+                "occurrences": [
+                    {
+                        "start_idx": 99,
+                        "end_idx": 108
+                    },
+                    {
+                        "start_idx": 305,
+                        "end_idx": 314
+                    },
+                    {
+                        "start_idx": 746,
+                        "end_idx": 755
+                    },
+                    {
+                        "start_idx": 1786,
+                        "end_idx": 1795
                     }
                 ]
             }

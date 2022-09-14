@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62c68f948ee1ab00180e1911-some-people-think-that-strict-punishment-for-driving-offences-are",
-    "file": "data\\9\\62c68f948ee1ab00180e1911.json",
+    "file": [
+        "data",
+        "9",
+        "62c68f948ee1ab00180e1911.json"
+    ],
     "topics": [
         "people",
         "punishment",
@@ -55,22 +59,68 @@
     "linking_words": {
         "num_linking_words": "11",
         "list_linking_words": [
-            "this",
-            "to begin",
-            "however",
+            "for example",
             "first",
-            "firstly",
-            "last",
-            "secondly",
             "in addition",
-            "such",
+            "secondly",
             "also",
-            "for example"
+            "this",
+            "last",
+            "such",
+            "to begin",
+            "firstly",
+            "however"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
+            {
+                "word": "rules",
+                "occurrences": [
+                    {
+                        "start_idx": 549,
+                        "end_idx": 554
+                    },
+                    {
+                        "start_idx": 834,
+                        "end_idx": 839
+                    },
+                    {
+                        "start_idx": 968,
+                        "end_idx": 973
+                    },
+                    {
+                        "start_idx": 1556,
+                        "end_idx": 1561
+                    }
+                ]
+            },
+            {
+                "word": "road",
+                "occurrences": [
+                    {
+                        "start_idx": 59,
+                        "end_idx": 63
+                    },
+                    {
+                        "start_idx": 314,
+                        "end_idx": 318
+                    },
+                    {
+                        "start_idx": 335,
+                        "end_idx": 339
+                    },
+                    {
+                        "start_idx": 1199,
+                        "end_idx": 1203
+                    },
+                    {
+                        "start_idx": 1790,
+                        "end_idx": 1794
+                    }
+                ]
+            },
             {
                 "word": "way",
                 "occurrences": [
@@ -101,52 +151,6 @@
                     {
                         "start_idx": 1707,
                         "end_idx": 1710
-                    }
-                ]
-            },
-            {
-                "word": "road",
-                "occurrences": [
-                    {
-                        "start_idx": 59,
-                        "end_idx": 63
-                    },
-                    {
-                        "start_idx": 314,
-                        "end_idx": 318
-                    },
-                    {
-                        "start_idx": 335,
-                        "end_idx": 339
-                    },
-                    {
-                        "start_idx": 1199,
-                        "end_idx": 1203
-                    },
-                    {
-                        "start_idx": 1790,
-                        "end_idx": 1794
-                    }
-                ]
-            },
-            {
-                "word": "rules",
-                "occurrences": [
-                    {
-                        "start_idx": 549,
-                        "end_idx": 554
-                    },
-                    {
-                        "start_idx": 834,
-                        "end_idx": 839
-                    },
-                    {
-                        "start_idx": 968,
-                        "end_idx": 973
-                    },
-                    {
-                        "start_idx": 1556,
-                        "end_idx": 1561
                     }
                 ]
             }

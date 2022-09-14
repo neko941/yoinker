@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/625add46bf0f3600197c8a86-in-many-developing-countries-there-is-a-problem-with-declining",
-    "file": "data\\9\\625add46bf0f3600197c8a86.json",
+    "file": [
+        "data",
+        "9",
+        "625add46bf0f3600197c8a86.json"
+    ],
     "topics": [
         "countries",
         "quality",
@@ -55,16 +59,16 @@
     "linking_words": {
         "num_linking_words": "11",
         "list_linking_words": [
-            "this",
-            "however",
-            "firstly",
-            "thirdly",
-            "for example",
-            "although",
             "therefore",
+            "for example",
+            "however",
             "secondly",
-            "such",
             "also",
+            "this",
+            "although",
+            "such",
+            "thirdly",
+            "firstly",
             "finally"
         ]
     },
@@ -97,27 +101,6 @@
                 ]
             },
             {
-                "word": "problems",
-                "occurrences": [
-                    {
-                        "start_idx": 250,
-                        "end_idx": 258
-                    },
-                    {
-                        "start_idx": 278,
-                        "end_idx": 286
-                    },
-                    {
-                        "start_idx": 1005,
-                        "end_idx": 1013
-                    },
-                    {
-                        "start_idx": 1740,
-                        "end_idx": 1748
-                    }
-                ]
-            },
-            {
                 "word": "energy",
                 "occurrences": [
                     {
@@ -135,6 +118,27 @@
                     {
                         "start_idx": 1638,
                         "end_idx": 1644
+                    }
+                ]
+            },
+            {
+                "word": "problems",
+                "occurrences": [
+                    {
+                        "start_idx": 250,
+                        "end_idx": 258
+                    },
+                    {
+                        "start_idx": 278,
+                        "end_idx": 286
+                    },
+                    {
+                        "start_idx": 1005,
+                        "end_idx": 1013
+                    },
+                    {
+                        "start_idx": 1740,
+                        "end_idx": 1748
                     }
                 ]
             }

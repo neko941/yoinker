@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/6228648563df6c001905645f-some-people-think-that-governments-should-spend-more-money-on",
-    "file": "data\\9\\6228648563df6c001905645f.json",
+    "file": [
+        "data",
+        "9",
+        "6228648563df6c001905645f.json"
+    ],
     "topics": [
         "people",
         "governments",
@@ -54,21 +58,42 @@
     "linking_words": {
         "num_linking_words": "10",
         "list_linking_words": [
-            "this",
-            "first",
-            "further",
             "on the other hand",
-            "secondly",
+            "first",
             "as a result",
-            "such",
+            "secondly",
+            "further",
             "also",
-            "furthermore",
-            "for instance"
+            "this",
+            "such",
+            "for instance",
+            "furthermore"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
+            {
+                "word": "facilities",
+                "occurrences": [
+                    {
+                        "start_idx": 59,
+                        "end_idx": 69
+                    },
+                    {
+                        "start_idx": 1176,
+                        "end_idx": 1186
+                    },
+                    {
+                        "start_idx": 1658,
+                        "end_idx": 1668
+                    },
+                    {
+                        "start_idx": 1828,
+                        "end_idx": 1838
+                    }
+                ]
+            },
             {
                 "word": "sports",
                 "occurrences": [
@@ -112,27 +137,6 @@
                     {
                         "start_idx": 1778,
                         "end_idx": 1788
-                    }
-                ]
-            },
-            {
-                "word": "facilities",
-                "occurrences": [
-                    {
-                        "start_idx": 59,
-                        "end_idx": 69
-                    },
-                    {
-                        "start_idx": 1176,
-                        "end_idx": 1186
-                    },
-                    {
-                        "start_idx": 1658,
-                        "end_idx": 1668
-                    },
-                    {
-                        "start_idx": 1828,
-                        "end_idx": 1838
                     }
                 ]
             }

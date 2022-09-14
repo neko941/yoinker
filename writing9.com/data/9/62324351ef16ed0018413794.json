@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62324351ef16ed0018413794-some-people-claim-that-not-enough-of-the-waste-from",
-    "file": "data\\9\\62324351ef16ed0018413794.json",
+    "file": [
+        "data",
+        "9",
+        "62324351ef16ed0018413794.json"
+    ],
     "topics": [
         "people",
         "waste",
@@ -54,42 +58,21 @@
     "linking_words": {
         "num_linking_words": "10",
         "list_linking_words": [
-            "this",
-            "nevertheless",
-            "however",
-            "otherwise",
             "next",
+            "for example",
             "therefore",
+            "nevertheless",
             "as a result",
-            "such",
+            "this",
             "furthermore",
-            "for example"
+            "otherwise",
+            "such",
+            "however"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
-            {
-                "word": "waste",
-                "occurrences": [
-                    {
-                        "start_idx": 22,
-                        "end_idx": 27
-                    },
-                    {
-                        "start_idx": 664,
-                        "end_idx": 669
-                    },
-                    {
-                        "start_idx": 872,
-                        "end_idx": 877
-                    },
-                    {
-                        "start_idx": 1567,
-                        "end_idx": 1572
-                    }
-                ]
-            },
             {
                 "word": "life",
                 "occurrences": [
@@ -137,6 +120,27 @@
                     {
                         "start_idx": 922,
                         "end_idx": 928
+                    }
+                ]
+            },
+            {
+                "word": "waste",
+                "occurrences": [
+                    {
+                        "start_idx": 22,
+                        "end_idx": 27
+                    },
+                    {
+                        "start_idx": 664,
+                        "end_idx": 669
+                    },
+                    {
+                        "start_idx": 872,
+                        "end_idx": 877
+                    },
+                    {
+                        "start_idx": 1567,
+                        "end_idx": 1572
                     }
                 ]
             }

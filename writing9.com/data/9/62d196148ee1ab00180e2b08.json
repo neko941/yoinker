@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62d196148ee1ab00180e2b08-teenagers-should-be-required-to-do-unpaid-work-in-their",
-    "file": "data\\9\\62d196148ee1ab00180e2b08.json",
+    "file": [
+        "data",
+        "9",
+        "62d196148ee1ab00180e2b08.json"
+    ],
     "topics": [
         "teenagers",
         "work",
@@ -53,43 +57,22 @@
     "linking_words": {
         "num_linking_words": "11",
         "list_linking_words": [
-            "this",
-            "likewise",
-            "to begin",
-            "consequently",
+            "for example",
             "therefore",
             "as a result",
-            "such",
+            "further",
             "also",
+            "likewise",
+            "this",
+            "consequently",
+            "such",
             "furthermore",
-            "for example",
-            "further"
+            "to begin"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "2",
         "list_repeated_words": [
-            {
-                "word": "skills",
-                "occurrences": [
-                    {
-                        "start_idx": 795,
-                        "end_idx": 801
-                    },
-                    {
-                        "start_idx": 913,
-                        "end_idx": 919
-                    },
-                    {
-                        "start_idx": 1038,
-                        "end_idx": 1044
-                    },
-                    {
-                        "start_idx": 2004,
-                        "end_idx": 2010
-                    }
-                ]
-            },
             {
                 "word": "people",
                 "occurrences": [
@@ -112,6 +95,27 @@
                     {
                         "start_idx": 1577,
                         "end_idx": 1583
+                    }
+                ]
+            },
+            {
+                "word": "skills",
+                "occurrences": [
+                    {
+                        "start_idx": 795,
+                        "end_idx": 801
+                    },
+                    {
+                        "start_idx": 913,
+                        "end_idx": 919
+                    },
+                    {
+                        "start_idx": 1038,
+                        "end_idx": 1044
+                    },
+                    {
+                        "start_idx": 2004,
+                        "end_idx": 2010
                     }
                 ]
             }

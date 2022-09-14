@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/61e4e6ed4011360018001c2b-a-persons-worth-nowadays-seems-to-be-judged-according-to",
-    "file": "data\\9\\61e4e6ed4011360018001c2b.json",
+    "file": [
+        "data",
+        "9",
+        "61e4e6ed4011360018001c2b.json"
+    ],
     "topics": [
         "person\u2019s",
         "status",
@@ -55,19 +59,19 @@
     "linking_words": {
         "num_linking_words": "13",
         "list_linking_words": [
-            "however",
-            "such",
             "moreover",
-            "first",
-            "thus",
-            "although",
             "therefore",
-            "besides",
+            "for example",
+            "first",
+            "that is",
             "secondly",
             "in other words",
             "also",
-            "for example",
-            "that is"
+            "although",
+            "such",
+            "besides",
+            "thus",
+            "however"
         ]
     },
     "repeated_words": {
@@ -99,27 +103,6 @@
                 ]
             },
             {
-                "word": "compassion",
-                "occurrences": [
-                    {
-                        "start_idx": 119,
-                        "end_idx": 129
-                    },
-                    {
-                        "start_idx": 438,
-                        "end_idx": 448
-                    },
-                    {
-                        "start_idx": 718,
-                        "end_idx": 728
-                    },
-                    {
-                        "start_idx": 975,
-                        "end_idx": 985
-                    }
-                ]
-            },
-            {
                 "word": "honour",
                 "occurrences": [
                     {
@@ -141,6 +124,27 @@
                     {
                         "start_idx": 1856,
                         "end_idx": 1862
+                    }
+                ]
+            },
+            {
+                "word": "compassion",
+                "occurrences": [
+                    {
+                        "start_idx": 119,
+                        "end_idx": 129
+                    },
+                    {
+                        "start_idx": 438,
+                        "end_idx": 448
+                    },
+                    {
+                        "start_idx": 718,
+                        "end_idx": 728
+                    },
+                    {
+                        "start_idx": 975,
+                        "end_idx": 985
                     }
                 ]
             }

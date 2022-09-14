@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/6245e748e1797300188da82f-in-some-countries-more-and-more-adults-are-living-with",
-    "file": "data\\9\\6245e748e1797300188da82f.json",
+    "file": [
+        "data",
+        "9",
+        "6245e748e1797300188da82f.json"
+    ],
     "topics": [
         "countries",
         "adults",
@@ -55,41 +59,20 @@
     "linking_words": {
         "num_linking_words": "9",
         "list_linking_words": [
-            "this",
-            "firstly",
             "on the other hand",
-            "although",
-            "secondly",
-            "such",
-            "also",
             "that is",
-            "further"
+            "secondly",
+            "further",
+            "also",
+            "this",
+            "although",
+            "such",
+            "firstly"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
-            {
-                "word": "adults",
-                "occurrences": [
-                    {
-                        "start_idx": 143,
-                        "end_idx": 149
-                    },
-                    {
-                        "start_idx": 404,
-                        "end_idx": 410
-                    },
-                    {
-                        "start_idx": 563,
-                        "end_idx": 569
-                    },
-                    {
-                        "start_idx": 700,
-                        "end_idx": 706
-                    }
-                ]
-            },
             {
                 "word": "people",
                 "occurrences": [
@@ -108,6 +91,27 @@
                     {
                         "start_idx": 1533,
                         "end_idx": 1539
+                    }
+                ]
+            },
+            {
+                "word": "adults",
+                "occurrences": [
+                    {
+                        "start_idx": 143,
+                        "end_idx": 149
+                    },
+                    {
+                        "start_idx": 404,
+                        "end_idx": 410
+                    },
+                    {
+                        "start_idx": 563,
+                        "end_idx": 569
+                    },
+                    {
+                        "start_idx": 700,
+                        "end_idx": 706
                     }
                 ]
             },

@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62751b6a841b730018330d28-some-people-say-that-now-we-can-see-films-on",
-    "file": "data\\9\\62751b6a841b730018330d28.json",
+    "file": [
+        "data",
+        "9",
+        "62751b6a841b730018330d28.json"
+    ],
     "topics": [
         "people",
         "films",
@@ -53,21 +57,42 @@
     "linking_words": {
         "num_linking_words": "10",
         "list_linking_words": [
-            "this",
-            "in contrast",
-            "to begin",
-            "however",
+            "for example",
             "on the other hand",
             "in addition",
-            "such",
+            "that is",
+            "this",
             "furthermore",
-            "for example",
-            "that is"
+            "such",
+            "to begin",
+            "in contrast",
+            "however"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "2",
         "list_repeated_words": [
+            {
+                "word": "device",
+                "occurrences": [
+                    {
+                        "start_idx": 65,
+                        "end_idx": 71
+                    },
+                    {
+                        "start_idx": 840,
+                        "end_idx": 846
+                    },
+                    {
+                        "start_idx": 1360,
+                        "end_idx": 1366
+                    },
+                    {
+                        "start_idx": 1724,
+                        "end_idx": 1730
+                    }
+                ]
+            },
             {
                 "word": "cinema",
                 "occurrences": [
@@ -98,27 +123,6 @@
                     {
                         "start_idx": 1700,
                         "end_idx": 1706
-                    }
-                ]
-            },
-            {
-                "word": "device",
-                "occurrences": [
-                    {
-                        "start_idx": 65,
-                        "end_idx": 71
-                    },
-                    {
-                        "start_idx": 840,
-                        "end_idx": 846
-                    },
-                    {
-                        "start_idx": 1360,
-                        "end_idx": 1366
-                    },
-                    {
-                        "start_idx": 1724,
-                        "end_idx": 1730
                     }
                 ]
             }

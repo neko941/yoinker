@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/61cbf22c0427240018926678-some-people-think-that-children-should-be-taught-to-be",
-    "file": "data\\9\\61cbf22c0427240018926678.json",
+    "file": [
+        "data",
+        "9",
+        "61cbf22c0427240018926678.json"
+    ],
     "topics": [
         "people",
         "children",
@@ -54,20 +58,41 @@
     "linking_words": {
         "num_linking_words": "9",
         "list_linking_words": [
-            "this",
-            "on the other hand",
-            "thus",
-            "although",
             "therefore",
+            "on the other hand",
+            "for example",
             "as a result",
             "also",
-            "for example",
-            "for instance"
+            "this",
+            "although",
+            "for instance",
+            "thus"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 545,
+                        "end_idx": 549
+                    },
+                    {
+                        "start_idx": 693,
+                        "end_idx": 697
+                    },
+                    {
+                        "start_idx": 1042,
+                        "end_idx": 1046
+                    },
+                    {
+                        "start_idx": 1598,
+                        "end_idx": 1602
+                    }
+                ]
+            },
             {
                 "word": "school",
                 "occurrences": [
@@ -123,27 +148,6 @@
                     {
                         "start_idx": 1565,
                         "end_idx": 1573
-                    }
-                ]
-            },
-            {
-                "word": "life",
-                "occurrences": [
-                    {
-                        "start_idx": 545,
-                        "end_idx": 549
-                    },
-                    {
-                        "start_idx": 693,
-                        "end_idx": 697
-                    },
-                    {
-                        "start_idx": 1042,
-                        "end_idx": 1046
-                    },
-                    {
-                        "start_idx": 1598,
-                        "end_idx": 1602
                     }
                 ]
             }

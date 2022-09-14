@@ -1,6 +1,10 @@
 {
     "url": "https://writing9.com/text/62f37a4ba70b55001806cba7-in-recent-times-many-people-have-focused-on-the-adverse",
-    "file": "data\\9\\62f37a4ba70b55001806cba7.json",
+    "file": [
+        "data",
+        "9",
+        "62f37a4ba70b55001806cba7.json"
+    ],
     "topics": [
         "times",
         "people",
@@ -56,45 +60,20 @@
     "linking_words": {
         "num_linking_words": "9",
         "list_linking_words": [
-            "this",
-            "thus",
-            "therefore",
-            "as a result",
-            "in addition",
             "in particular",
-            "such",
+            "therefore",
             "for example",
-            "consequently"
+            "in addition",
+            "as a result",
+            "consequently",
+            "this",
+            "such",
+            "thus"
         ]
     },
     "repeated_words": {
         "num_repeated_words": "3",
         "list_repeated_words": [
-            {
-                "word": "food",
-                "occurrences": [
-                    {
-                        "start_idx": 478,
-                        "end_idx": 482
-                    },
-                    {
-                        "start_idx": 561,
-                        "end_idx": 565
-                    },
-                    {
-                        "start_idx": 668,
-                        "end_idx": 672
-                    },
-                    {
-                        "start_idx": 708,
-                        "end_idx": 712
-                    },
-                    {
-                        "start_idx": 790,
-                        "end_idx": 794
-                    }
-                ]
-            },
             {
                 "word": "children",
                 "occurrences": [
@@ -158,6 +137,31 @@
                     {
                         "start_idx": 1592,
                         "end_idx": 1599
+                    }
+                ]
+            },
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 478,
+                        "end_idx": 482
+                    },
+                    {
+                        "start_idx": 561,
+                        "end_idx": 565
+                    },
+                    {
+                        "start_idx": 668,
+                        "end_idx": 672
+                    },
+                    {
+                        "start_idx": 708,
+                        "end_idx": 712
+                    },
+                    {
+                        "start_idx": 790,
+                        "end_idx": 794
                     }
                 ]
             }
