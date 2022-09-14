@@ -1,0 +1,119 @@
+{
+    "url": "https://writing9.com/text/5d4092e1475cb80017a2cf02",
+    "file": [
+        "data",
+        "75",
+        "5d4092e1475cb80017a2cf02.json"
+    ],
+    "topics": [
+        "people",
+        "children",
+        "leisure",
+        "activities",
+        "waste",
+        "time"
+    ],
+    "question": "Some people believe that children's leisure activities must be educational, otherwise they are a complete waste of time.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "We live in a world of fierce competition. This sense of competition comes from our comparative thinking, which never leads us towards satisfaction. From childhood, children must learn to find a better life principle and let him grow naturally in their own unique way.",
+        "There are some effective conveniences in student life, they take up learning instead of wasting time by playing, walking and chatting. First, spending time and educational activities is an important trend because students can use this habit to increase their knowledge. This can bring great benefits to students whenever they face future life. Second, in some countries, it is difficult to be admitted to universities without good academic performance. Therefore, students who want to be part of higher education in these countries need to learn at any time. For example, many countries like China have a large number of students, but they have few good universities. As can be seen from the above explanation, children should make proper use of their time.",
+        "While studying, it is the mind that learns, but it is the body which rejoices in physical leisure activities. Learning is always a progressive activity and must be instilled; otherwise, the child is easily exhausted and leads to loss of interest in learning. In addition, the hobby provides confidence to the children and provides a sense of personal accomplishment, which enhances self-esteem. They got some curiosity to get more information. If children get positive feedback from their skills, they are less likely to turn to drug and alcohol.",
+        "In summary, extracurricular activities should be combined with academic activities to cultivate trained talents. Children should be allowed to participate in extracurricular activities to vent their suppressed emotions. As well as participating in outdoor activities, regular exercise can prevent obesity and ensure body growth."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "is",
+                "start_idx": 450,
+                "end_idx": 452,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "drug",
+                "start_idx": 1554,
+                "end_idx": 1558,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "drugs"
+                ]
+            }
+        ]
+    },
+    "submitter": "jjjjk",
+    "num_words": 298,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "otherwise",
+            "second",
+            "this",
+            "in addition",
+            "therefore",
+            "first",
+            "instead",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 364,
+                        "end_idx": 368
+                    },
+                    {
+                        "start_idx": 419,
+                        "end_idx": 423
+                    },
+                    {
+                        "start_idx": 821,
+                        "end_idx": 825
+                    },
+                    {
+                        "start_idx": 1020,
+                        "end_idx": 1024
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-30T18:56:33.361Z"
+}

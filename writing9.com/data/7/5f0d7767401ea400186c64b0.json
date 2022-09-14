@@ -1,0 +1,186 @@
+{
+    "url": "https://writing9.com/text/5f0d7767401ea400186c64b0",
+    "file": [
+        "data",
+        "7",
+        "5f0d7767401ea400186c64b0.json"
+    ],
+    "topics": [
+        "trees",
+        "environment",
+        "people",
+        "areas",
+        "cities",
+        "towns",
+        "facilities"
+    ],
+    "question": "Planting trees is very important for the environment. Some people says trees should be planted in the vacant areas of cities and towns, while others says housing facilities should be build instead. Do you agree of disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the contemporary world, concurrent with the increase of the concerns about air quality, the significance of green spaces has been mounted. The advocates of green measures presume that it can protect the environment and trees should be bred in urban unloaded areas while others believe that  dwelling facilities should be constructed in these regions. It seems that there are some truths in both views, while I fully incline to agree that green spaces are essential for cities, I can consider the second idea can be rational to some extent.",
+        "On the one hand, planting trees in the empty spaces of towns radically advantageous. Trees contribute to the decrease of the air pollution issue. Since trees reduce the greenhouse effect and air contamination not only by utilizing co2 but also by generating o2, planting trees is one of the most beneficial actions which can be taken by states. Moreover, cities need parks and green environments in order to boost their residents' moral. From a psychological perspective, humans rely on nature to ease their tension. People living in cities without green spaces will be more likely in danger of depression in comparison to those who live in cities in which parks and acceptable amount of trees can be found. For example, This fact has been proved by a recent statistics published in American science magazine which show the level of life satisfaction is remarkably higher in green cities.",
+        "On the other hand, building houses facilities can be advantageous too. It can lead to distribution patterns of population in cities. Since excessive density of population in cities has some problems such as overcrowding public means of transportation or overusing the resources in one particular zone, construction in urban areas which has remained secluded can offset the mentioned problematic situations. Furthermore, establishment of the new dwellings can provide better living conditions for more people. The demand of housing is being increased day by day due to rapid pace of population growth therefore, if more houses are processed, more people will be likely to own a home. For instance, in a vacant area of Tehran called chitgar a few units of skyscrapers was built some years ago which is the home of many people nowadays.",
+        "To conclude, although cities need trees as an agent of reducing air pollution and spirit enhancer of their habitants, building new housing facilities can be beneficial as it can scatter population and cause people to have accommodation."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "American science magazine which",
+                "start_idx": 1325,
+                "end_idx": 1356,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an American science magazine, which",
+                    "an American science magazine which",
+                    "the American science magazine which"
+                ]
+            },
+            {
+                "word": "excessive density",
+                "start_idx": 1570,
+                "end_idx": 1587,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the excessive density"
+                ]
+            },
+            {
+                "word": "overcrowding public",
+                "start_idx": 1638,
+                "end_idx": 1657,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "overcrowding, public"
+                ]
+            },
+            {
+                "word": "rapid pace",
+                "start_idx": 1999,
+                "end_idx": 2009,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the rapid pace"
+                ]
+            },
+            {
+                "word": "chitgar",
+                "start_idx": 2162,
+                "end_idx": 2169,
+                "error": "a roll of tobacco for smoking",
+                "error_des": "",
+                "suggetions": [
+                    "cigar"
+                ]
+            },
+            {
+                "word": "habitants",
+                "start_idx": 2372,
+                "end_idx": 2381,
+                "error": "the type of environment in which an organism or group normally lives or occurs",
+                "error_des": "",
+                "suggetions": [
+                    "habitats"
+                ]
+            }
+        ]
+    },
+    "submitter": "Azin",
+    "num_words": 408,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "furthermore",
+            "second",
+            "on the other hand",
+            "this",
+            "moreover",
+            "also",
+            "for instance",
+            "such",
+            "therefore",
+            "for example",
+            "although"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "population",
+                "occurrences": [
+                    {
+                        "start_idx": 1543,
+                        "end_idx": 1553
+                    },
+                    {
+                        "start_idx": 1592,
+                        "end_idx": 1602
+                    },
+                    {
+                        "start_idx": 2014,
+                        "end_idx": 2024
+                    },
+                    {
+                        "start_idx": 2452,
+                        "end_idx": 2462
+                    }
+                ]
+            },
+            {
+                "word": "air",
+                "occurrences": [
+                    {
+                        "start_idx": 78,
+                        "end_idx": 81
+                    },
+                    {
+                        "start_idx": 668,
+                        "end_idx": 671
+                    },
+                    {
+                        "start_idx": 734,
+                        "end_idx": 737
+                    },
+                    {
+                        "start_idx": 2330,
+                        "end_idx": 2333
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-14T09:14:19.891Z"
+}

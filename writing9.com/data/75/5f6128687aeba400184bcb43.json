@@ -1,0 +1,166 @@
+{
+    "url": "https://writing9.com/text/5f6128687aeba400184bcb43",
+    "file": [
+        "data",
+        "75",
+        "5f6128687aeba400184bcb43.json"
+    ],
+    "topics": [
+        "companies",
+        "offer",
+        "term",
+        "contract",
+        "employees",
+        "practice"
+    ],
+    "question": "Companies nowadays rarely offer long term contract to their employees. What are the advantages and disadvantages to this practice?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is indeed true that these days long term contracts are hardly been given to employees by companies and this trend has both merit and demerit. Easily switch to a new job is its benefit and not being certain about the future is its drawback.",
+        "One predominant advantage of this practice is that it allows personnel to change their employment. To elaborate, working in the same companies, if personnel find a good job in another firm with a decent salary, undoubtedly, they can shift from one organization to another. For example, a recent article by the Times of India reported that many MNCs\u2019 do temporary contracts which enable 35% employees to change their jobs every year easily. This results in not being stick in the same firm and not losing good job prospects.",
+        "Despite being the aforementioned benefit, this practice has also some demerits, and one of them is being suspicious about the future life. This is because, if the company offer short term contracts, employees will not be able to take out a loan from the banks as it gives loan on the basis of the income statement. Hence, such personnel to get a loan from the banks. For example, employees who are working in MNCs\u2019 such as Infosys and TCS with the long term contract gets the home loan, car loan or education loan from the banks easily than those who are working with the temporary contract.",
+        "In conclusion, although working in the organization who hardly do the long term contract is advantageous because it enables personnel to switch their job easily, having a doubt regarding future and not getting a loan from the bank is its biggest drawback."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "s",
+                "start_idx": 708,
+                "end_idx": 709,
+                "error": "Add an article",
+                "error_des": "The noun phrase stick seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a",
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "jdsmss",
+    "num_words": 281,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "this",
+            "hence",
+            "also",
+            "such",
+            "for example",
+            "although"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "job",
+                "occurrences": [
+                    {
+                        "start_idx": 168,
+                        "end_idx": 171
+                    },
+                    {
+                        "start_idx": 412,
+                        "end_idx": 415
+                    },
+                    {
+                        "start_idx": 659,
+                        "end_idx": 662
+                    },
+                    {
+                        "start_idx": 752,
+                        "end_idx": 755
+                    },
+                    {
+                        "start_idx": 1509,
+                        "end_idx": 1512
+                    }
+                ]
+            },
+            {
+                "word": "loan",
+                "occurrences": [
+                    {
+                        "start_idx": 1007,
+                        "end_idx": 1011
+                    },
+                    {
+                        "start_idx": 1039,
+                        "end_idx": 1043
+                    },
+                    {
+                        "start_idx": 1113,
+                        "end_idx": 1117
+                    },
+                    {
+                        "start_idx": 1248,
+                        "end_idx": 1252
+                    },
+                    {
+                        "start_idx": 1258,
+                        "end_idx": 1262
+                    },
+                    {
+                        "start_idx": 1276,
+                        "end_idx": 1280
+                    },
+                    {
+                        "start_idx": 1571,
+                        "end_idx": 1575
+                    }
+                ]
+            },
+            {
+                "word": "term",
+                "occurrences": [
+                    {
+                        "start_idx": 39,
+                        "end_idx": 43
+                    },
+                    {
+                        "start_idx": 950,
+                        "end_idx": 954
+                    },
+                    {
+                        "start_idx": 1220,
+                        "end_idx": 1224
+                    },
+                    {
+                        "start_idx": 1434,
+                        "end_idx": 1438
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-09-15T20:47:40.189Z"
+}

@@ -1,0 +1,117 @@
+{
+    "url": "https://writing9.com/text/6311c70eaee9de001876078f-you-want-to-start-your-own-small-business-write-a",
+    "file": [
+        "data",
+        "8",
+        "6311c70eaee9de001876078f.json"
+    ],
+    "topics": [
+        "business",
+        "bank",
+        "information",
+        "loan",
+        "finance",
+        "company",
+        "money",
+        "length",
+        "time",
+        "addresses"
+    ],
+    "question": "You want to start your own small business. Write a letter to a bank requesting information about obtaining a business loan to finance your new company.In your letter, include the following information:what kind of business you want to starthow much money you needthe length of time over which you would expect to repay the moneyWrite at least 150 words.You do NOT need to write any addresses.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I am Anand Vaishnav staying at  Forest Street, Australia. I am writing a letter to get the specific requirements in regards to receiving a business loan to invest in my new venture.",
+        "I am planning to establish a Computer Software and development company. Since, the new organization requires a number of computers, accessories, systems, infrastructure and huge office space, I would have a requirement for a significant amount of loan. Our customer is one of the USA's reputed technology vendors who will utilize our application and program to use in their manufacturing chip.",
+        "Therefore, I would have the necessity of $ 50,000 for the initial start-up and pay out the expenses. Moreover, I am expecting to  meet the regulation clearance certificate by next week. So, I will be applying the loan by the next week along with all statutory documents.",
+        "Although  It will be just the beginning of our company, however, I am expecting 7% profit growth per year. I am apparently assuming that the total loan amount would be paid within 2 years from the date of loan commencement.",
+        "I am looking forward to hearing from you.",
+        "Yours faithfully,",
+        "Anand Vaishnav"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "applying",
+                "start_idx": 785,
+                "end_idx": 793,
+                "error": "Add the preposition",
+                "error_des": "The phrase following the intransitive verb applying seems to be missing a preposition. Consider adding one.",
+                "suggetions": [
+                    "forapplying"
+                ]
+            }
+        ]
+    },
+    "submitter": "mohan",
+    "num_words": 194,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "next",
+            "therefore",
+            "although",
+            "moreover",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "loan",
+                "occurrences": [
+                    {
+                        "start_idx": 158,
+                        "end_idx": 162
+                    },
+                    {
+                        "start_idx": 439,
+                        "end_idx": 443
+                    },
+                    {
+                        "start_idx": 799,
+                        "end_idx": 803
+                    },
+                    {
+                        "start_idx": 1004,
+                        "end_idx": 1008
+                    },
+                    {
+                        "start_idx": 1062,
+                        "end_idx": 1066
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-02T09:05:58.449Z"
+}

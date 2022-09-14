@@ -1,0 +1,135 @@
+{
+    "url": "https://writing9.com/text/6305d1320751a40019b4ce0d-some-people-believe-that-teenagers-should-focus-on-all-school",
+    "file": [
+        "data",
+        "7",
+        "6305d1320751a40019b4ce0d.json"
+    ],
+    "topics": [
+        "people",
+        "teenagers",
+        "focus",
+        "school",
+        "subjects",
+        "interest"
+    ],
+    "question": "Some people believe that teenagers should focus on all school subjects. But others believe that teenagers should focus on the subject that they are good at or that they find the most interest. Discuss both sides and give your opinion.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The notion concerning the selection of subjects in school seems to trigger a considerable debate. An opinion in this regard, put forward by a cluster of like-minded people, is that schoolgoers should give equal importance to all subjects. Others, however, do not follow the suit and feel that they should put concentration on their interesting subjects. I firmly believe an equal focus on all subjects could help in the overall development of a child. The concerned facts and figures are defined in the following paragraphs in a more specified way.",
+        "Initially, the proponents of the former view assert that giving proper attention to all subjects helps in the overall development of a pupil. Every subject has a great importance till secondary education because it provides all the basic and necessary knowledge that could be utilized in our daily routine. Moreover, after secondary school, a student becomes enough mature to take decisions wisely and thereafter, freedom of selection of interesting subjects is available in every nation. In India, for instance, after tenth grade, a student becomes eligible to choose a field of interest, be it commerce, non-medical- engineering, Medical or Arts- Administrative or literature.",
+        "Nevertheless, the other side of the picture is also grim as the people strongly believe that devoting more concentration to some specified subjects, in which a teenager is highly interested, could help a student to achieve his desired goal. To be precise, one could work on his interesting field with his full energy and concentration, and out-of-the-box results could be expected. For instance, either a doctor or a scientist always focuses on a particular subject to become proficient in their field instead of going through multiple subjects.",
+        "In conclusion, providing equal time and importance to all subjects will help in the overall growth. However, the latter view has one-dimensional development. Therefore, I strongly appreciate the study of all subjects rather than some specified ones."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 708,
+                "end_idx": 710,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun importance in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "SANDHU2037",
+    "num_words": 317,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "initially",
+            "this",
+            "nevertheless",
+            "therefore",
+            "moreover",
+            "however",
+            "for instance",
+            "also",
+            "instead",
+            "thereafter"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "subjects",
+                "occurrences": [
+                    {
+                        "start_idx": 39,
+                        "end_idx": 47
+                    },
+                    {
+                        "start_idx": 229,
+                        "end_idx": 237
+                    },
+                    {
+                        "start_idx": 344,
+                        "end_idx": 352
+                    },
+                    {
+                        "start_idx": 393,
+                        "end_idx": 401
+                    },
+                    {
+                        "start_idx": 637,
+                        "end_idx": 645
+                    },
+                    {
+                        "start_idx": 999,
+                        "end_idx": 1007
+                    },
+                    {
+                        "start_idx": 1367,
+                        "end_idx": 1375
+                    },
+                    {
+                        "start_idx": 1764,
+                        "end_idx": 1772
+                    },
+                    {
+                        "start_idx": 1832,
+                        "end_idx": 1840
+                    },
+                    {
+                        "start_idx": 1982,
+                        "end_idx": 1990
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-24T16:20:36.306Z"
+}

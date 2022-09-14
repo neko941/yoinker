@@ -1,0 +1,110 @@
+{
+    "url": "https://writing9.com/text/5d5ff8ab5fcc5c0017f04b08-a-restaurant-has-placed-an-advertisement-for-waiters-and-waitresses",
+    "file": [
+        "data",
+        "85",
+        "5d5ff8ab5fcc5c0017f04b08.json"
+    ],
+    "topics": [
+        "restaurant",
+        "advertisement",
+        "waiters",
+        "waitresses",
+        "newspaper",
+        "job",
+        "suitability",
+        "area",
+        "work",
+        "interview"
+    ],
+    "question": "A restaurant has placed an advertisement for waiters and waitresses in your local newspaper.\n\nWrite a letter to the restaurant, applying for the job. In your letter:\n\nexplain what you are currently doing\ndescribe your suitability for this area of work\nsay when you can attend an interview",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Respected Sir/Madam,",
+        "I read about a job vacancy in the post of a waiter in your restaurant \u2018Starbucks\u2019 through a local newspaper. I am looking forward to applying for the post and hereby attaching my resume for your reference.",
+        "I am currently pursuing a master's in Psychology, and plan to work with your restaurant to gain some experience. Also, during my free time, I take baking classes for pastries and cakes, and I am very passionate about it.",
+        "I believe I am suitable for this job because studying Psychology has taught me how one should interact with clients which will be helpful. I am a very friendly person and have good interpersonal as well as communication skills that are required in this work. Further, I speak 4 languages fluently. Considering the area, I believe that a lot of Gujarati crowd comes to the restaurant, so I will have no problem in striking a conversation. The restaurant is 5 minutes away from my house and it will be extremely convenient.",
+        "I can come for the interview tomorrow or at a time of your convenience. I am looking forward to your response.",
+        "Yours Faithfully,",
+        "Kush"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "in ",
+                "start_idx": 857,
+                "end_idx": 860,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "kush_pshah",
+    "num_words": 193,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "further",
+            "also",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "restaurant",
+                "occurrences": [
+                    {
+                        "start_idx": 80,
+                        "end_idx": 90
+                    },
+                    {
+                        "start_idx": 304,
+                        "end_idx": 314
+                    },
+                    {
+                        "start_idx": 820,
+                        "end_idx": 830
+                    },
+                    {
+                        "start_idx": 890,
+                        "end_idx": 900
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T16:29:01.082Z"
+}

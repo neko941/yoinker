@@ -1,0 +1,114 @@
+{
+    "url": "https://writing9.com/text/6305609c0751a40019b4cd73-you-and-a-couple-of-your-colleagues-would-like-to",
+    "file": [
+        "data",
+        "85",
+        "6305609c0751a40019b4cd73.json"
+    ],
+    "topics": [
+        "couple",
+        "colleagues",
+        "seminar",
+        "colleague",
+        "person",
+        "charge",
+        "information",
+        "dates",
+        "program",
+        "schedule",
+        "enquire",
+        "cost",
+        "discounts",
+        "groups"
+    ],
+    "question": "You and a couple of your colleagues would like to participate in a work-related seminar.Write a letter to your colleague who is the person in charge of the seminar and ask for:Detailed information regarding the datesProgram schedule        Enquire about cost and possible discounts for groups",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Tom,",
+        "I learn that the group human resources department is organizing an employment law and regulations seminar soon and the human resources department of our company is assisting with that. I want to volunteer three of my colleagues and myself to attend the seminar, so there are totally four people joining.",
+        "Firstly, I want to know the cost involved. I understand our holding company is not going to charge us for the seminar but the function will be held in another city and hence there are costs like air tickets and hotel fees. I would also like to know if there are any group discounts on booking the hotel if there are only four people (3 rooms) . If there isn't any group discount available, what are the dates of the seminar available? I would love to separate the dates our colleagues attending if the cost doesn't vary too much as I don't want everybody in the department unreachable on a particular day.  In addition, I would appreciate if you can send the detailed program schedule to me.",
+        "Thank you for all your help in advance and I am looking forward to hearing from you.",
+        "Regards,",
+        "Alan"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "if",
+                "start_idx": 952,
+                "end_idx": 954,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "it if"
+                ]
+            }
+        ]
+    },
+    "submitter": "ABC_XYZ",
+    "num_words": 198,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "also",
+            "firstly",
+            "hence",
+            "in addition"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "seminar",
+                "occurrences": [
+                    {
+                        "start_idx": 108,
+                        "end_idx": 115
+                    },
+                    {
+                        "start_idx": 263,
+                        "end_idx": 270
+                    },
+                    {
+                        "start_idx": 424,
+                        "end_idx": 431
+                    },
+                    {
+                        "start_idx": 730,
+                        "end_idx": 737
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-23T23:22:03.189Z"
+}

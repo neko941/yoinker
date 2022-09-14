@@ -1,0 +1,120 @@
+{
+    "url": "https://writing9.com/text/5e44f1c11738c20018104724-you-recently-organised-an-all-day-meeting-for-your-company",
+    "file": [
+        "data",
+        "8",
+        "5e44f1c11738c20018104724.json"
+    ],
+    "topics": [
+        "company",
+        "place",
+        "hotel",
+        "feedback",
+        "participants",
+        "food",
+        "lunch",
+        "manager",
+        "participant",
+        "futures"
+    ],
+    "question": "You recently organised an all day meeting for your company, which took place in a local hotel. In their feedback, participants at the meeting said that they liked the hotel, but they were unhappy about the food that was served for lunch. Write a letter to the manager of the hotel. In your letter\n\nSay what the participant liked about the hotel.\nExplain why they were unhappy about the hotel.\nSuggest what the manager should do to improve the food in futures.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear sir,",
+        "I am writing in connection with the event I organized for my company, ABC ltd, on Nov 20th at your hotel. I would like to take this opportunity to thank you for hosting us. Although the participants liked the ambience of the hotel and the services of your courteous staff, they all complained about the food.",
+        "Let me explain in detail. Some of the food items served during the event were cold and we found it really hard to eat them particularly the rotis which obviously should be served hot. Another issue was that there was no variety. We had participants from abroad who were not particularly fond of Indian food.",
+        "I suggest you install food warmers for all the dishes, and not just for the gravies. I also recommend that you add some western dishes like pasta and toast to your menu.",
+        "I really hope that you will consider my suggestions.",
+        "Yours faithfully,",
+        "(Name)"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "ltd",
+                "start_idx": 83,
+                "end_idx": 86,
+                "error": "Change the capitalization",
+                "error_des": "It appears that the word ltd may be a proper noun in this context. Consider capitalizing the word.",
+                "suggetions": [
+                    "Ltd"
+                ]
+            },
+            {
+                "word": "rotis",
+                "start_idx": 458,
+                "end_idx": 463,
+                "error": "Change the capitalization",
+                "error_des": "It appears that the word rotis may be a proper noun in this context. Consider capitalizing the word.",
+                "suggetions": [
+                    "Rotis"
+                ]
+            }
+        ]
+    },
+    "submitter": "dutt244",
+    "num_words": 157,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "also",
+            "although",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 313,
+                        "end_idx": 317
+                    },
+                    {
+                        "start_idx": 357,
+                        "end_idx": 361
+                    },
+                    {
+                        "start_idx": 621,
+                        "end_idx": 625
+                    },
+                    {
+                        "start_idx": 649,
+                        "end_idx": 653
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T19:02:05.142Z"
+}

@@ -1,0 +1,137 @@
+{
+    "url": "https://writing9.com/text/5f1daf5d93166d0018e536ac",
+    "file": [
+        "data",
+        "7",
+        "5f1daf5d93166d0018e536ac.json"
+    ],
+    "topics": [
+        "computers",
+        "part",
+        "school",
+        "lessons"
+    ],
+    "question": "Computers are becoming an essential part of school lessons.\n\nDiscuss the advantages and disadvantages and give your own opinion.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Technology has been flourishing by leaps and bounds automation are becoming a most significant aspects of life. Nowadays, a computer is considered a significant portion of academic learning. There is  a plethora of benefit and several detrimental effects of this trend. I believe that this has a more drawbacks than its advantages.",
+        "To begin with, the majority of the institutions are today use a computer for their different sorts of activities. Such as, delivering a lesson or for presentation purpose. This is extremely helpful for students as they can be a better understand with visulas, it has a huge impact on their mind. For instances, an oral lecture is provided by the faculty is more far better than those visual presentations delivering by computer. In addition to this, teachers can use computer for teaching to numbers of things such as, learning Gmail and drawing the designs.",
+        "However, there are some of the demerits also. First of all, it is very difficult to be a dependent on technology as it may sometime to be costly. To illustrate, it may be possible that sometimes the virus can be affected and all data that is stored in a device may corrupt. Hence, it does not make sense to depend on the system. Apart from this, there are some students who need some extra care while teaching them this is not possible in case of computer based lessons. Thus, it's not rational to be taught via the system.",
+        "To conclude, there is a plethora of advantages of school lessons through computer such as, it has a good understanding and lots of things can be learned. However, there is a plethora of negative impacts such as data corruption and lack of a poor attention on a special kind of students."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "visulas",
+                "start_idx": 582,
+                "end_idx": 589,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "computer",
+                "start_idx": 798,
+                "end_idx": 806,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a computer",
+                    "the computer",
+                    "computers"
+                ]
+            },
+            {
+                "word": "computer ",
+                "start_idx": 1487,
+                "end_idx": 1496,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "computer, such"
+                ]
+            }
+        ]
+    },
+    "submitter": "asif",
+    "num_words": 295,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "this",
+            "in addition",
+            "hence",
+            "first",
+            "that is",
+            "however",
+            "also",
+            "thus",
+            "such",
+            "to begin"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "computer",
+                "occurrences": [
+                    {
+                        "start_idx": 124,
+                        "end_idx": 132
+                    },
+                    {
+                        "start_idx": 396,
+                        "end_idx": 404
+                    },
+                    {
+                        "start_idx": 751,
+                        "end_idx": 759
+                    },
+                    {
+                        "start_idx": 799,
+                        "end_idx": 807
+                    },
+                    {
+                        "start_idx": 1338,
+                        "end_idx": 1346
+                    },
+                    {
+                        "start_idx": 1488,
+                        "end_idx": 1496
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-26T16:35:58.710Z"
+}

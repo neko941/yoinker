@@ -1,0 +1,118 @@
+{
+    "url": "https://writing9.com/text/5f3ce498b66d150018c2ef4f",
+    "file": [
+        "data",
+        "8",
+        "5f3ce498b66d150018c2ef4f.json"
+    ],
+    "topics": [
+        "people",
+        "countries",
+        "trend"
+    ],
+    "question": "Many retired people today are choosing to live in other countries. What are the advantages and disadvantages of this trend?",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is not uncommon these days to see an increasing number of people opting to settle abroad after their retirement. However, while this gives them an opportunity to acquire familiarity with foreign traditions and cultures, it poses them great social and practical obstacles owing to the prevailing linguistic challenges.",
+        "There is a multitude of advantages to living abroad after retirement. First of all, the retired senior citizens might become depressed by having no goals to achieve any further. They may begin to question their existence. In this case, relocation to a new country gives a new meaning to their lives, with new duties to perform such as looking for a new residence abroad. For example, a recent survey suggested that people over 60 more successfully cope with depression if they have new motives to attain. Moreover, living abroad after retirement enables people to become acquainted with foreign traditions and cultures, which would not have been possible for them while living in their home countries. Hence, moving abroad not only enables the retirees to overcome the post-retirement depression and anxiety issues, but it also gives them an incredible chance of getting foreign traditional and cultural awareness.",
+        "Conversely, shifting abroad after retirement is not without its disadvantages, however. The senior citizens benefit from various old-age financial support programs abroad, which are extremely beneficial to them individually but imposes an unwarranted burden on the country\u2019s economy. The Canadian Government, for example, has increased taxes to overcome this load due to the increasing number of people immigrating. In addition, the retirees may confront certain social and practical challenges in their daily lives due to the language barrier. Even opening a bank account, for example, may become a tedious task for them. Thus, shifting overseas after getting retired causes undue load on the other country\u2019s economy and adaptability issues on an individual level.",
+        "To conclude, moving abroad after retirement is becoming incredibly common. Despite being useful in overcoming depression that may arise after getting retired, it causes people great hurdles in their social and practical lives due to the language differences that prevail."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "individually but",
+                "start_idx": 1446,
+                "end_idx": 1462,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "individually, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "Andy",
+    "num_words": 348,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "thus",
+            "such",
+            "further",
+            "conversely",
+            "hence",
+            "in addition",
+            "first",
+            "also",
+            "moreover",
+            "this",
+            "for example",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "retirement",
+                "occurrences": [
+                    {
+                        "start_idx": 104,
+                        "end_idx": 114
+                    },
+                    {
+                        "start_idx": 379,
+                        "end_idx": 389
+                    },
+                    {
+                        "start_idx": 856,
+                        "end_idx": 866
+                    },
+                    {
+                        "start_idx": 1095,
+                        "end_idx": 1105
+                    },
+                    {
+                        "start_idx": 1270,
+                        "end_idx": 1280
+                    },
+                    {
+                        "start_idx": 2035,
+                        "end_idx": 2045
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-08-19T08:36:42.885Z"
+}

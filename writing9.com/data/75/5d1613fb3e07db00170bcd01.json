@@ -1,0 +1,139 @@
+{
+    "url": "https://writing9.com/text/5d1613fb3e07db00170bcd01-you-would-like-to-participate-in-a-work-related-seminar-in",
+    "file": [
+        "data",
+        "75",
+        "5d1613fb3e07db00170bcd01.json"
+    ],
+    "topics": [
+        "seminar",
+        "country",
+        "person",
+        "charge",
+        "information",
+        "dates",
+        "program",
+        "accommodation",
+        "cost"
+    ],
+    "question": "You would like to participate in a work-related seminar in another country. Write a letter to the person in charge of the seminar and ask for detailed information regarding the dates, program, accommodation and cost.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Manohar,",
+        "My name is Vishal Bhat and I am from Jammu, India. I am writing this letter to you with reference to the advertisement about microbiology practical course seminar in your K. P. college, London. I saw this notice in the local newspaper last week. I am interested in this course work as my background is Bachelor\u2019s in microbiology and this course will help to get a job in food industry, therefore I have decided to join this course to sharp my career objective.",
+        "I am keen to know more details about the course work; I would request you to please provide the details as such schedule dates so that I can book my tickets as early as possible. Further I wish to know about the accommodation, whether you will be providing the residence or the learner required to book his own and finally the fee structure of the course.",
+        "I hope you will understand my needs and let me know as early as possible so that I can book my tickets on early basic.",
+        "Thank you in anticipation.",
+        "Yours Sincerely,",
+        "Vishal Bhat"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "college",
+                "start_idx": 190,
+                "end_idx": 197,
+                "error": "Change the capitalization",
+                "error_des": "It appears that the word college may be a proper noun in this context. Consider capitalizing the word.",
+                "suggetions": [
+                    "College"
+                ]
+            },
+            {
+                "word": "food",
+                "start_idx": 384,
+                "end_idx": 388,
+                "error": "Add an article",
+                "error_des": "The noun phrase food industry seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the food"
+                ]
+            },
+            {
+                "word": "Further",
+                "start_idx": 653,
+                "end_idx": 660,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Further. Consider adding a comma.",
+                "suggetions": [
+                    ",Further"
+                ]
+            }
+        ]
+    },
+    "submitter": "writing745",
+    "num_words": 184,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "last",
+            "this",
+            "finally",
+            "such",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "course",
+                "occurrences": [
+                    {
+                        "start_idx": 162,
+                        "end_idx": 168
+                    },
+                    {
+                        "start_idx": 284,
+                        "end_idx": 290
+                    },
+                    {
+                        "start_idx": 352,
+                        "end_idx": 358
+                    },
+                    {
+                        "start_idx": 438,
+                        "end_idx": 444
+                    },
+                    {
+                        "start_idx": 516,
+                        "end_idx": 522
+                    },
+                    {
+                        "start_idx": 823,
+                        "end_idx": 829
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T16:05:13.399Z"
+}

@@ -21,7 +21,7 @@ def advanced_flatten_list(alist):
     flattened_list = []
     for element in alist:
         if isinstance(element, list):
-            flattened_list+=advanced_flatten_list(element)
+            flattened_list.extend(advanced_flatten_list(element))
         else:
             flattened_list.append(element)
     return flattened_list
@@ -61,5 +61,5 @@ def advanced_split(text, delimiters, maxsplit=0, flags=0, strip=True, keep_delim
     
     return new
 
-def advanced_join(alist):
+def advanced_path_join(alist):
     return os.path.join(*advanced_flatten_list(alist))

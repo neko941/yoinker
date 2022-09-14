@@ -1,0 +1,136 @@
+{
+    "url": "https://writing9.com/text/5ddae4f4ed6fd8001819e14a",
+    "file": [
+        "data",
+        "8",
+        "5ddae4f4ed6fd8001819e14a.json"
+    ],
+    "topics": [
+        "people",
+        "scale"
+    ],
+    "question": "Some people think that environmental problems should be solved on a global scale while others believe it is better to deal with them nationally.\n\nDiscuss both sides and give your opinion.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There are people who agree that all environment related issues should be dealt internationally, but others are of the opinion that it is better when handled on a national level.  In my opinion, it is impactful when it is on every country\u2019s agenda to improve their environmental issues.",
+        "On one hand, climate change has become a global problem, when addressed properly on global forums such as United Nations etc., the impact would be bigger.  For example, in recent past, the Amazon forest faced its record fires of all times, with this, all countries showed their concern and offered financial help to Brazil, which has the largest part of the forest.  In contrast, if no one had helped brazil, the great fires could not have stopped, and the world would have lost its greatest green lung.",
+        "On the other hand, I support the view that every nation has its own geography and needs a plan which works specifically for them.  Moreover, a green regime should focus on a national level so that it can reach to its people and benefit them also.  Furthermore, when a policy is prepared to benefit the citizens, they would take more interest in it and it will definitely serve the larger purpose of fighting with climate change.",
+        "In conclusion, while it is vital to address grave climate change issues internationally, I firmly believe that when it comes to make an impact, it is better to address it on a state level rather than on an international forum.  If every nation takes their responsibility towards this, we can win the climate change battle efficiently."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "recent past",
+                "start_idx": 457,
+                "end_idx": 468,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the recent past"
+                ]
+            },
+            {
+                "word": "brazil",
+                "start_idx": 686,
+                "end_idx": 692,
+                "error": "the largest Latin American country and the largest Portuguese speaking country in the world; located in the central and northeastern part of South America; world's leading coffee exporter",
+                "error_des": "",
+                "suggetions": [
+                    "Brazil"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 267,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "in contrast",
+            "such",
+            "on the other hand",
+            "furthermore",
+            "also",
+            "moreover",
+            "this",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "climate",
+                "occurrences": [
+                    {
+                        "start_idx": 299,
+                        "end_idx": 306
+                    },
+                    {
+                        "start_idx": 1203,
+                        "end_idx": 1210
+                    },
+                    {
+                        "start_idx": 1269,
+                        "end_idx": 1276
+                    },
+                    {
+                        "start_idx": 1519,
+                        "end_idx": 1526
+                    }
+                ]
+            },
+            {
+                "word": "change",
+                "occurrences": [
+                    {
+                        "start_idx": 307,
+                        "end_idx": 313
+                    },
+                    {
+                        "start_idx": 1211,
+                        "end_idx": 1217
+                    },
+                    {
+                        "start_idx": 1277,
+                        "end_idx": 1283
+                    },
+                    {
+                        "start_idx": 1527,
+                        "end_idx": 1533
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-24T20:15:48.824Z"
+}

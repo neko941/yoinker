@@ -1,0 +1,161 @@
+{
+    "url": "https://writing9.com/text/630640c00751a40019b4cf17-you-have-just-read-an-article-in-a-national-newspaper",
+    "file": [
+        "data",
+        "7",
+        "630640c00751a40019b4cf17.json"
+    ],
+    "topics": [
+        "article",
+        "newspaper",
+        "claims",
+        "town",
+        "centers",
+        "country",
+        "look",
+        "editor",
+        "points",
+        "center",
+        "tour",
+        "writer"
+    ],
+    "question": "you have just read an article in a national newspaper which claims that town centers in your country all look very similar to each other you don't fully agree with this opinion.write a letter to the editor of the newspaper. In your lettersay which points in the article you agree withexplain ways in which your town center is different from most other town centersOffered to give a guided tour of your town to the writer of the article",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "I am writing to inform you that I partially agree with the article on how the country's town centres look similar to one another.",
+        "First of all, I would like to start with some of the points that i agree with in the article. It is true that the shape of the town centre is similar. This is because they all are rectangular in design. Secondly, I agree with another point that they are similar in colour as they are all painted in white.",
+        "However, I would like to explain that the town centre in my area is unique compared to those in others. To begin with, the town centre in my area is larger in size, it has a square foot of 3000 which is twice that of in other areas. Moreover, the material used in the town centre is of good quality compared to those in other locations.",
+        "I would like to invite you for a guided tour of my town. There are beautiful scenery and exotic shops. Moreover, you would be able to see how the town centre in my town is different to those in others.",
+        "Thank you for your consideration,",
+        "Sincerely,",
+        "Imtiaz Chowdhury"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "i",
+                "start_idx": 213,
+                "end_idx": 214,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            }
+        ]
+    },
+    "submitter": "imtiazedubd",
+    "num_words": 202,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "secondly",
+            "this",
+            "first",
+            "moreover",
+            "however",
+            "to begin"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "town",
+                "occurrences": [
+                    {
+                        "start_idx": 107,
+                        "end_idx": 111
+                    },
+                    {
+                        "start_idx": 276,
+                        "end_idx": 280
+                    },
+                    {
+                        "start_idx": 497,
+                        "end_idx": 501
+                    },
+                    {
+                        "start_idx": 578,
+                        "end_idx": 582
+                    },
+                    {
+                        "start_idx": 723,
+                        "end_idx": 727
+                    },
+                    {
+                        "start_idx": 843,
+                        "end_idx": 847
+                    },
+                    {
+                        "start_idx": 938,
+                        "end_idx": 942
+                    },
+                    {
+                        "start_idx": 956,
+                        "end_idx": 960
+                    }
+                ]
+            },
+            {
+                "word": "centre",
+                "occurrences": [
+                    {
+                        "start_idx": 112,
+                        "end_idx": 118
+                    },
+                    {
+                        "start_idx": 281,
+                        "end_idx": 287
+                    },
+                    {
+                        "start_idx": 502,
+                        "end_idx": 508
+                    },
+                    {
+                        "start_idx": 583,
+                        "end_idx": 589
+                    },
+                    {
+                        "start_idx": 728,
+                        "end_idx": 734
+                    },
+                    {
+                        "start_idx": 943,
+                        "end_idx": 949
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-24T15:17:12.361Z"
+}

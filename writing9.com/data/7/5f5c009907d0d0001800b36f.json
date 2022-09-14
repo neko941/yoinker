@@ -1,0 +1,165 @@
+{
+    "url": "https://writing9.com/text/5f5c009907d0d0001800b36f",
+    "file": [
+        "data",
+        "7",
+        "5f5c009907d0d0001800b36f.json"
+    ],
+    "topics": [
+        "people",
+        "employers",
+        "work",
+        "environment",
+        "employee",
+        "focus",
+        "facilities",
+        "equipment"
+    ],
+    "question": "Some people think that employers should ensure a supportive and pleasant work environment where each employee is respected and valued equally while others think employers should focus instead on providing better facilities and equipment .\n \nWhat is your opinion?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is thought by some that equality in respect and appreciation amongst Employees should be promoted by the Organisation while others believe that Managers should concentrate on improved tools and amenities. In my opinion, I agree that Employees should work in an environment that values and appreciates them because they will be encouraged to perform well on their jobs and it will also result in an improved  relationship among them.",
+        "Firstly, Employees are encouraged to perform excellently well on their jobs. Workers  who exceed the expectation of their Managers are usually those who are appreciated and rewarded for their efforts. This is because their Bosses motivate them while constantly assuring them of their continuous support. For instance, the survey conducted by Cambridge University suggests that 80% of Employees who perform their roles beyond their respective job description, are those who are rewarded for doing beyond what is required of them.",
+        "In addition, the relationship among Employees is improved. A work environment free of strife and disgruntled Employees will definitely result in a cordial relationship within the organisation. Employees are always happy as a result of the humane treatment they receive from their Employers thus enhancing the relationship among them. For example, according to the article published in Guardian newspaper, the number of satisfied employees increased drastically in a firm when Managers changed their style of leadership.",
+        "In conclusion, Employers should create an environment that respects and values their workers for better performance on their job and an enhanced working relationship."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "on",
+                "start_idx": 497,
+                "end_idx": 499,
+                "error": "Verify preposition usage",
+                "error_des": "It appears that the preposition on may be incorrect in this context. Consider changing it.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "Employees",
+                "start_idx": 819,
+                "end_idx": 828,
+                "error": "Correct your spelling",
+                "error_des": "The word Employees doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "employees"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 893,
+                "end_idx": 894,
+                "error": "Remove the comma",
+                "error_des": "The comma may be separating the subject and verb in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "among",
+                "start_idx": 994,
+                "end_idx": 999,
+                "error": "Verify preposition usage",
+                "error_des": "It appears that the preposition among may be incorrect in this context. Consider changing it.",
+                "suggetions": [
+                    "between"
+                ]
+            },
+            {
+                "word": "G",
+                "start_idx": 1349,
+                "end_idx": 1350,
+                "error": "Add an article",
+                "error_des": "It appears that an article is missing before the word Guardian. Consider adding the article.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "Employers",
+                "start_idx": 1499,
+                "end_idx": 1508,
+                "error": "Correct your spelling",
+                "error_des": "The word Employers doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "employers"
+                ]
+            }
+        ]
+    },
+    "submitter": "attybabie",
+    "num_words": 250,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "this",
+            "firstly",
+            "in addition",
+            "as a result",
+            "also",
+            "for instance",
+            "thus",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "relationship",
+                "occurrences": [
+                    {
+                        "start_idx": 411,
+                        "end_idx": 423
+                    },
+                    {
+                        "start_idx": 982,
+                        "end_idx": 994
+                    },
+                    {
+                        "start_idx": 1120,
+                        "end_idx": 1132
+                    },
+                    {
+                        "start_idx": 1274,
+                        "end_idx": 1286
+                    },
+                    {
+                        "start_idx": 1638,
+                        "end_idx": 1650
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-09-11T23:00:19.475Z"
+}

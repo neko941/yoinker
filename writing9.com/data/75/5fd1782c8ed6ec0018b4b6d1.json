@@ -1,0 +1,151 @@
+{
+    "url": "https://writing9.com/text/5fd1782c8ed6ec0018b4b6d1-a-year-ago-you-lent-your-favorite-book-to-a",
+    "file": [
+        "data",
+        "75",
+        "5fd1782c8ed6ec0018b4b6d1.json"
+    ],
+    "topics": [
+        "year",
+        "book",
+        "friend",
+        "value",
+        "grandmother"
+    ],
+    "question": "A year ago, you lent your favorite book to a friend who you thought would enjoy it. Unfortunately, your friend has forgotten to return it. The book has sentimental value to you as it had been presented by your grandmother.Write a letter to your friend. In the letter:ask how he or she is doingremind him/her about the bookexplain why you need it back",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sara,",
+        "How are you? It\u2019s been a long time since I have spoken to you after graduation. I hope you have adjusted well with your new job and enjoying the new environment. Well, I am writing to check if you still have my book which I gave you last year.",
+        "I remember giving the booking in May 2019 during our mid semester break. The book\u2019s title was \u2019The Secret\u2019 and had a yellow cover. I think you finished reading half of the book while we were in contact, just before I left for Auckland for further studies.",
+        "Just today, while I was cleaning my book shelve, I realised that I am missing the book. This book is very special to me as it was gifted by my grandmother on my 21st birthday. Sadly, she passed away few months back so I want to treasure all her gifts and belongings that could remind me of her love and affection.",
+        "I would be more than happy if you want to return the book in person, it would be a great chance for us to catch up. Let me know what suits you the best.",
+        "Warm regards,",
+        "Rachana."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "with",
+                "start_idx": 120,
+                "end_idx": 124,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "mid semester",
+                "start_idx": 307,
+                "end_idx": 319,
+                "error": "Add a hyphen",
+                "error_des": "It appears that mid semester is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "mid-semester"
+                ]
+            },
+            {
+                "word": "shelve",
+                "start_idx": 551,
+                "end_idx": 557,
+                "error": "Correct your spelling",
+                "error_des": "The word shelve doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "shelf"
+                ]
+            },
+            {
+                "word": "few",
+                "start_idx": 709,
+                "end_idx": 712,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase few months back does not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "a few"
+                ]
+            }
+        ]
+    },
+    "submitter": "rachanaahire07",
+    "num_words": 196,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "last",
+            "further",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "book",
+                "occurrences": [
+                    {
+                        "start_idx": 222,
+                        "end_idx": 226
+                    },
+                    {
+                        "start_idx": 277,
+                        "end_idx": 281
+                    },
+                    {
+                        "start_idx": 332,
+                        "end_idx": 336
+                    },
+                    {
+                        "start_idx": 427,
+                        "end_idx": 431
+                    },
+                    {
+                        "start_idx": 547,
+                        "end_idx": 551
+                    },
+                    {
+                        "start_idx": 593,
+                        "end_idx": 597
+                    },
+                    {
+                        "start_idx": 604,
+                        "end_idx": 608
+                    },
+                    {
+                        "start_idx": 878,
+                        "end_idx": 882
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-11T16:30:15.153Z"
+}

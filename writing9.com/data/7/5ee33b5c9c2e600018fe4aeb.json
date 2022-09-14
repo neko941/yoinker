@@ -1,0 +1,139 @@
+{
+    "url": "https://writing9.com/text/5ee33b5c9c2e600018fe4aeb",
+    "file": [
+        "data",
+        "7",
+        "5ee33b5c9c2e600018fe4aeb.json"
+    ],
+    "topics": [
+        "country",
+        "health",
+        "service",
+        "treatments"
+    ],
+    "question": "Every country should have a free health service even if this means that the latest treatments may not be available through this service because they are too expensive.To what extend do you agree or disagree with this opinion?Give reasons for your answer and include any relevant examples from your own knowledge or experience",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Receiving proper health care is one of the basic needs in the modern society. Some people argue that countries should have free health insurance service even though the cutting-edge medical advancements might not be available as there won\u2019t be enough budget. However, I disagree with this statement and in this essay, I will elaborate how a country can have free health benefits without compromising availability of modern medical research and techniques.",
+        "Firstly, research in the medical domain is not dependent on the money received from the patient as part of their hospital bills. In fact, pharmaceutical companies and drug manufacturers are the primary providers for developing new methodologies in this sector. For instance, a recent research from the Vietnamese health non-governmental organization shows that 95% of the time, developing a new method for a specialized treatment is funded by private companies. In short, free health service and using recent advancement are not mutually exclusive.",
+        "Secondly, not all the latest and greatest treatments are expensive. With the rapid expansion of disruptive technologies such as deep learning and machine learning, many expensive medical procedures cost a fraction now as compared to before. For example, a study from Hanoi Medical University confirms that 85% of the various full body imaging tests, once considered one of the most expensive procedure, cost only one tenth now compared to the price in 2015.",
+        "In conclusion, most of the advancements in medical area is not dependent on the health care budget as those are privately funded and not all the latest medical processes are costly. Hence, receiving free or cheap health benefits can be achievable without cutting down the newest available medical treatments."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 54,
+                "end_idx": 56,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "availability",
+                "start_idx": 399,
+                "end_idx": 411,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the availability"
+                ]
+            },
+            {
+                "word": "medical area",
+                "start_idx": 1505,
+                "end_idx": 1517,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the medical area"
+                ]
+            }
+        ]
+    },
+    "submitter": "M\u00edt t\u1edd Nguy\u1ec5n",
+    "num_words": 276,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "secondly",
+            "this",
+            "firstly",
+            "hence",
+            "however",
+            "for instance",
+            "such",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 17,
+                        "end_idx": 23
+                    },
+                    {
+                        "start_idx": 128,
+                        "end_idx": 134
+                    },
+                    {
+                        "start_idx": 363,
+                        "end_idx": 369
+                    },
+                    {
+                        "start_idx": 769,
+                        "end_idx": 775
+                    },
+                    {
+                        "start_idx": 933,
+                        "end_idx": 939
+                    },
+                    {
+                        "start_idx": 1543,
+                        "end_idx": 1549
+                    },
+                    {
+                        "start_idx": 1676,
+                        "end_idx": 1682
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-06-12T08:22:55.480Z"
+}

@@ -1,0 +1,150 @@
+{
+    "url": "https://writing9.com/text/5e26af5ebe852b00187b70c6",
+    "file": [
+        "data",
+        "75",
+        "5e26af5ebe852b00187b70c6.json"
+    ],
+    "topics": [
+        "people",
+        "research",
+        "governments",
+        "companies"
+    ],
+    "question": "Many people believe that scientific research should be carried out and controlled by the governments rather than private companies.\nTo what extent do you agree or disagree with this opinion?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "People assume that scientific research is supposed to be supervised by the government instead of the private organization. I personally, share a similar view with this statement with the reasons stated below.",
+        "Many reasons can clarify the essential part of the government role to control scientific studies. First of all, various research activities are carried out by private companies such as pharmaceutical companies to produce a new remedy for a certain illness. This leads to exclusive claim for the medication by a sole company merely for the sake of economic commodity without offering an advantage to the public health. Therefore, in this case, the government should implement policies such as granting a limited time for the company to produce and sell the medication as well as adjusting the medication price in the market. Thus, this remedy is affordable for people.",
+        "Moreover, many scientific research projects are funded by the government grant which is derived from public money such as taxes. The government ought to make sure that this study is not wasting money and can bring about the beneficial effects on society. Furthermore, many scientific studies involve human as objects. For this, the government should employ a strict regulation to protect and to ensure that there is no violation of human rights as well as no negative consequences resulting from this process.",
+        "To sum up, I believe that the role of government to control scientific studies is essential to ensure that all the research purpose is purely to bring benefit to community."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "I personally",
+                "start_idx": 122,
+                "end_idx": 134,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "I, personally"
+                ]
+            },
+            {
+                "word": "community",
+                "start_idx": 1548,
+                "end_idx": 1557,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the community"
+                ]
+            }
+        ]
+    },
+    "submitter": "wardiatiyusuf",
+    "num_words": 252,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "furthermore",
+            "this",
+            "therefore",
+            "first",
+            "moreover",
+            "thus",
+            "such",
+            "instead"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 75,
+                        "end_idx": 85
+                    },
+                    {
+                        "start_idx": 260,
+                        "end_idx": 270
+                    },
+                    {
+                        "start_idx": 656,
+                        "end_idx": 666
+                    },
+                    {
+                        "start_idx": 939,
+                        "end_idx": 949
+                    },
+                    {
+                        "start_idx": 1010,
+                        "end_idx": 1020
+                    },
+                    {
+                        "start_idx": 1209,
+                        "end_idx": 1219
+                    },
+                    {
+                        "start_idx": 1425,
+                        "end_idx": 1435
+                    }
+                ]
+            },
+            {
+                "word": "research",
+                "occurrences": [
+                    {
+                        "start_idx": 30,
+                        "end_idx": 38
+                    },
+                    {
+                        "start_idx": 329,
+                        "end_idx": 337
+                    },
+                    {
+                        "start_idx": 903,
+                        "end_idx": 911
+                    },
+                    {
+                        "start_idx": 1502,
+                        "end_idx": 1510
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-01-21T07:59:26.772Z"
+}

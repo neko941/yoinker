@@ -9,9 +9,9 @@ from bs4 import BeautifulSoup
 
 from utils import isfloat
 from utils import find_all
-from utils import advanced_join
 from utils import advanced_split
 from utils import isfloatfromstring
+from utils import advanced_path_join
 
 class Writing9Scraper():
     def __init__(self, url):
@@ -225,9 +225,9 @@ class Writing9Scraper():
                     }
 
                     if self.bug == 0:
-                        with open(advanced_join(save_dir), 'w') as fp:
+                        with open(advanced_path_join(save_dir), 'w') as fp:
                             json.dump(data, fp, indent=4, sort_keys=False) 
-                        print(f'Data written => {advanced_join(save_dir)}', end='\n\n')
+                        print(f'Data written => {advanced_path_join(save_dir)}', end='\n\n')
                     else:
                         print(f'Errors => {self.url}', end='\n\n') 
                 except:
@@ -250,7 +250,7 @@ if __name__ == "__main__":
                 continue
 
             file_path = [data_dir, row[1], row[2]]
-            if not os.path.exists(advanced_join(file_path)):
+            if not os.path.exists(advanced_path_join(file_path)):
                 Writing9Scraper(url=row[0]).get_all_info(save_dir=file_path)
             else:
-                print(f'File exists => {advanced_join(file_path)}', end='\n\n')
+                print(f'File exists => {advanced_path_join(file_path)}', end='\n\n')

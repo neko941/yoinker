@@ -1,0 +1,155 @@
+{
+    "url": "https://writing9.com/text/5d76b0fbc9c06f0017bb6297",
+    "file": [
+        "data",
+        "8",
+        "5d76b0fbc9c06f0017bb6297.json"
+    ],
+    "topics": [
+        "people",
+        "libraries"
+    ],
+    "question": "Some people think that public libraries are no longer important, while others disagree. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Although It is often believed by some that public libraries are of no importance in today's world, other people do not agree with this assertion. I, however, think that these libraries are indeed no longer vital.",
+        "On the one hand, there has been a decline in the number of visits to the library because of the advancing role of technology in making data research more accessible and easy. In other words, as a result of technological evolution, people can now use the internet to source for information without any hassle. Also with the use of this web, one can have access to a vast number of educational websites at the touch of a button, unlike the library where one has to walk around going through stacks of books which might be obsolete. For example, a student can now get in-depth knowledge about any subject from websites such as Yahoo, Wikipedia and Drugs. Com without stress. I believe this school of thought is right because information gotten from libraries might be out of date and can affect a learner's performance.",
+        "On the other hand, it is thought that public libraries are still vital because it is unaffected by limitation of technology, and also because books in the library contain original contents. Firstly, books in the state library are not affected by situations like poor internet access or power outage, which might be the case when computers are used in place of traditional libraries. Furthermore, in order to prevent getting adulterated information, it is important that these places remain open. This is because some information sourced from the internet might be incorrect or even false.",
+        "To conclude, although general libraries contain books in their original content and are not affected by limitations in technology, I believe that these libraries are no longer as vital as they used to because the advent of technology has made accessibility to information easier and much faster."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "Com",
+                "start_idx": 864,
+                "end_idx": 867,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Come",
+                    "Con"
+                ]
+            }
+        ]
+    },
+    "submitter": "Mabel",
+    "num_words": 320,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "in other words",
+            "such",
+            "firstly",
+            "as a result",
+            "on the other hand",
+            "although",
+            "also",
+            "furthermore",
+            "this",
+            "for example",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "technology",
+                "occurrences": [
+                    {
+                        "start_idx": 327,
+                        "end_idx": 337
+                    },
+                    {
+                        "start_idx": 1143,
+                        "end_idx": 1153
+                    },
+                    {
+                        "start_idx": 1738,
+                        "end_idx": 1748
+                    },
+                    {
+                        "start_idx": 1842,
+                        "end_idx": 1852
+                    }
+                ]
+            },
+            {
+                "word": "library",
+                "occurrences": [
+                    {
+                        "start_idx": 286,
+                        "end_idx": 293
+                    },
+                    {
+                        "start_idx": 651,
+                        "end_idx": 658
+                    },
+                    {
+                        "start_idx": 1185,
+                        "end_idx": 1192
+                    },
+                    {
+                        "start_idx": 1248,
+                        "end_idx": 1255
+                    }
+                ]
+            },
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 490,
+                        "end_idx": 501
+                    },
+                    {
+                        "start_idx": 935,
+                        "end_idx": 946
+                    },
+                    {
+                        "start_idx": 1466,
+                        "end_idx": 1477
+                    },
+                    {
+                        "start_idx": 1547,
+                        "end_idx": 1558
+                    },
+                    {
+                        "start_idx": 1879,
+                        "end_idx": 1890
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-09T20:07:23.050Z"
+}

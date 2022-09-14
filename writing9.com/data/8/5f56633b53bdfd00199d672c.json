@@ -1,0 +1,110 @@
+{
+    "url": "https://writing9.com/text/5f56633b53bdfd00199d672c",
+    "file": [
+        "data",
+        "8",
+        "5f56633b53bdfd00199d672c.json"
+    ],
+    "topics": [
+        "countries",
+        "quality",
+        "air",
+        "water",
+        "industry",
+        "construction",
+        "measures"
+    ],
+    "question": "In many developing countries there is a problem with declining quality of air and water from both industry and construction. What measures could be taken to prevent this?",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Industrialisation and urbanization have caused drastic environmental pollution to countries in the global south, which may ultimately cause potential health issues to people living in polluted regions. In order to tackle this, the authority has to impose more environmental regulations to restrict economic activities as well as encourage people to produce in a greener fashion.",
+        "To begin with, local governments should pass legislation to reduce the release of pollutant to water source and the atmosphere. For instance, sewage released from factories and farms would contaminate the rivers. New regulations could ensure factories to detoxified and purified them in water treatment plants before releasing to nearby streams. Offenders will be penalised to deter others from following. This suggestion could help ensure clean drinking water to local communities. Therefore, environmental laws could force corporations to produce in a more responsible manner.",
+        "In addition to this, the authority could provide incentives to business to substitute practices which caused serious pollution. For example, financial aid could be given to factories to replace out-of-date machines with news ones, which are more effective and would emit less toxic gases. The reduction of carbon dioxide emission could improve the air quality nearby and is good for our respiratory health. Consequently, these programs could motivate people to limit the release of pollutants.",
+        "In conclusion, strict regulations as well as government support to lure people to produce accountably could help reverse the downfall of air and water quality in developing countries. After all, it is vital for us to safeguard our habitat so that we could live a long-lasting and healthy life."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "w",
+                "start_idx": 473,
+                "end_idx": 474,
+                "error": "Add an article",
+                "error_des": "The noun phrase water source seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a",
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "funder5torm710",
+    "num_words": 263,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "consequently",
+            "therefore",
+            "for instance",
+            "to begin",
+            "in addition",
+            "this",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "water",
+                "occurrences": [
+                    {
+                        "start_idx": 474,
+                        "end_idx": 479
+                    },
+                    {
+                        "start_idx": 666,
+                        "end_idx": 671
+                    },
+                    {
+                        "start_idx": 834,
+                        "end_idx": 839
+                    },
+                    {
+                        "start_idx": 1597,
+                        "end_idx": 1602
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-09-07T16:45:49.735Z"
+}

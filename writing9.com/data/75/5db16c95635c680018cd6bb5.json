@@ -1,0 +1,171 @@
+{
+    "url": "https://writing9.com/text/5db16c95635c680018cd6bb5-you-are-working-for-a-company-you-need-to-take",
+    "file": [
+        "data",
+        "75",
+        "5db16c95635c680018cd6bb5.json"
+    ],
+    "topics": [
+        "company",
+        "time",
+        "work",
+        "manager",
+        "amount"
+    ],
+    "question": "You are working for a company. You need to take some time off work and want to ask your manager about this. Write a letter to your manager.\n\nIn your letter:\n\nExplain why you want to take time off work?\nGive details of the amount of time you need.\nSuggest how your work could be covered while you are away.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr. James,",
+        "I am writing this letter to request you about the break I need from work for ten days and spend some family time.",
+        "I am not finding time to spend time with children daily because of work pressures. Hence, I would like to plan for a holiday vacation for ten days, as my children have Diwali vacation for a period of fifteen days. To spend the quality time with family in a hectic schedule, I would like to ask you to grant me leave for ten days from 25th October to 5th November. Accordingly, we may book our tickets to Goa.",
+        "During my absence, I would request one of my colleagues to handle the works. In case of emergency in technical issues if any, I will be available on call for the resolutions. I will be communicating through mails only when required.",
+        "I would be grateful to you if leave is granted for a period of ten days. As soon as I return I will complete all my jobs at the earliest.",
+        "Yours sincerely",
+        "Goerge Thomas"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "Mr.",
+                "start_idx": 4,
+                "end_idx": 7,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 352,
+                "end_idx": 356,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "mails",
+                "start_idx": 745,
+                "end_idx": 750,
+                "error": "Correct your spelling",
+                "error_des": "The word mails doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "emails"
+                ]
+            }
+        ]
+    },
+    "submitter": "panchavarni.uppuluri",
+    "num_words": 179,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "hence",
+            "this",
+            "accordingly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "days",
+                "occurrences": [
+                    {
+                        "start_idx": 97,
+                        "end_idx": 101
+                    },
+                    {
+                        "start_idx": 272,
+                        "end_idx": 276
+                    },
+                    {
+                        "start_idx": 338,
+                        "end_idx": 342
+                    },
+                    {
+                        "start_idx": 454,
+                        "end_idx": 458
+                    },
+                    {
+                        "start_idx": 839,
+                        "end_idx": 843
+                    }
+                ]
+            },
+            {
+                "word": "ten",
+                "occurrences": [
+                    {
+                        "start_idx": 93,
+                        "end_idx": 96
+                    },
+                    {
+                        "start_idx": 268,
+                        "end_idx": 271
+                    },
+                    {
+                        "start_idx": 450,
+                        "end_idx": 453
+                    },
+                    {
+                        "start_idx": 835,
+                        "end_idx": 838
+                    }
+                ]
+            },
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 124,
+                        "end_idx": 128
+                    },
+                    {
+                        "start_idx": 147,
+                        "end_idx": 151
+                    },
+                    {
+                        "start_idx": 161,
+                        "end_idx": 165
+                    },
+                    {
+                        "start_idx": 365,
+                        "end_idx": 369
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T17:09:12.162Z"
+}

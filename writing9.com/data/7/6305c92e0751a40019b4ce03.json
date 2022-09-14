@@ -1,0 +1,148 @@
+{
+    "url": "https://writing9.com/text/6305c92e0751a40019b4ce03-some-people-think-that-teenagers-should-follow-the-example-of",
+    "file": [
+        "data",
+        "7",
+        "6305c92e0751a40019b4ce03.json"
+    ],
+    "topics": [
+        "people",
+        "teenagers",
+        "challenge"
+    ],
+    "question": "Some people think that teenagers should follow the example of older people. Others think that it is natural for teenagers to challenge what older people say. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The notion concerning the difference between the thinking of today's generation and old ones seems to trigger a considerable debate. An opinion in this regard, put forward by a cluster of like-minded people, is that the instructions set by old persons must be followed by the youngsters. Others, however, do not follow the suit and believe that it is in the nature of teens to contradict the thoughts of older ones. I entirely agree with the former statement.",
+        "The proponents of the former statement assert that they should follow old persons because they not only have vast experience of life but also have ability to deal with many issues. To be clearer, the previous generation always sets a number of examples for the new generation not to repeat the same mistake. Therefore, just by looking into such matters new generations can survive in their bad periods. Tata motors- an Indian automobile giant, for instance, was about to bankrupt when the new generation started introducing new concepts, later, by following the instructions of Rana Tata, founder of Tata, it gained its position in the market again.",
+        "Others, nevertheless, feel teens always follow their own rules while challenging previous generations because of their immaturity. To be precise, adolescents often feel more confident and smarter than others, especially grey-haired persons, because of immaturity and high energy level; meanwhile, they forget to listen to their older ones. Consequently, youngsters end up often to a huge loss; they find it hard to accept such unfavourable circumstances. A piece of advice, from an old aged known, in such harsh conditions could help someone to regain confidence and rise up, as the Sun rises in the dawn after dusk.",
+        "In conclusion, older people have vast experience of life therefore their saying could help the new generation to work hard and overcome from hard times. Undoubtedly, their new technological advancements could help in development."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "ability",
+                "start_idx": 606,
+                "end_idx": 613,
+                "error": "Change the article",
+                "error_des": "It appears that the noun ability is not preceded by the correct article. Consider changing the article.",
+                "suggetions": [
+                    "the ability"
+                ]
+            },
+            {
+                "word": "conditions",
+                "start_idx": 1621,
+                "end_idx": 1631,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter in such harsh conditions. Consider adding the comma(s).",
+                "suggetions": [
+                    ",conditions"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 1783,
+                "end_idx": 1784,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter therefore. Consider adding the comma(s).",
+                "suggetions": [
+                    ", therefore,"
+                ]
+            },
+            {
+                "word": "from ",
+                "start_idx": 1862,
+                "end_idx": 1867,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "SANDHU2037",
+    "num_words": 316,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "this",
+            "nevertheless",
+            "also",
+            "however",
+            "for instance",
+            "such",
+            "therefore",
+            "consequently"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "generation",
+                "occurrences": [
+                    {
+                        "start_idx": 69,
+                        "end_idx": 79
+                    },
+                    {
+                        "start_idx": 669,
+                        "end_idx": 679
+                    },
+                    {
+                        "start_idx": 725,
+                        "end_idx": 735
+                    },
+                    {
+                        "start_idx": 817,
+                        "end_idx": 827
+                    },
+                    {
+                        "start_idx": 953,
+                        "end_idx": 963
+                    },
+                    {
+                        "start_idx": 1200,
+                        "end_idx": 1210
+                    },
+                    {
+                        "start_idx": 1826,
+                        "end_idx": 1836
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-24T07:05:04.732Z"
+}

@@ -1,0 +1,112 @@
+{
+    "url": "https://writing9.com/text/63144205aee9de0018760bc0-you-should-spend-about-40-minutes-on-this-task-write-about",
+    "file": [
+        "data",
+        "75",
+        "63144205aee9de0018760bc0.json"
+    ],
+    "topics": [
+        "minutes",
+        "topic",
+        "country",
+        "health",
+        "service",
+        "treatments"
+    ],
+    "question": "You should spend about 40 minutes on this task.Write about the following topic:Every country should have a free health service, even if this means that the latest medical treatments may not be available through the service because they are too expensive.To what extent do you agree or disagree?Give reasons for your answer and include any relevant examples from your own knowledge or experience.You should write at least 250 words.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Ever since the recent pandemic, the importance of public healthcare is on rising all over the world. Some taxpayers argue that any healthcare service must be subsidised by our taxation whereas governments are concerned to afford expensive medication to provide to the public. It is extremely crucial to have fair public health treatments for all citizens; however, the limit may be considered.",
+        "From the perspective of Individuals, having healthcare services free of charge is absolutely fascinating. For example, some developed European countries already apply these rules and there is no fee charged from the beginning of being born and until being dead. Although not everyone always needs to go to a hospital, to maintain this system, their citizens must pay approximately 20% of VAT tax and more of salary tax, as well as a long waiting time.",
+        "Additionally, It is certain that some poor people can not receive proper treatment and this can be against equality. Instead, it might be more effective for government to introduce exclusive benefits to\u00a0only certain individuals. For instance, they can be exempted from paying taxes and they can have a regular health check-up for free. Due to the limited budget of government expenditure,  medical quality may have to be sacrificed and this can clearly risk everyone.",
+        "To conclude, introducing free healthcare may be able to support certain levels of the public however, increasing taxes and sacrificing quality will give more difficult circumstances for the future. In my opinion, I highly suggest government  develop an efficient healthcare scheme to balance  everyone's health equality."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "check-up",
+                "start_idx": 1162,
+                "end_idx": 1170,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that check-up may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "check-ups"
+                ]
+            }
+        ]
+    },
+    "submitter": "amyheo92",
+    "num_words": 258,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "this",
+            "however",
+            "additionally",
+            "for instance",
+            "instead",
+            "for example",
+            "although"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "healthcare",
+                "occurrences": [
+                    {
+                        "start_idx": 57,
+                        "end_idx": 67
+                    },
+                    {
+                        "start_idx": 131,
+                        "end_idx": 141
+                    },
+                    {
+                        "start_idx": 438,
+                        "end_idx": 448
+                    },
+                    {
+                        "start_idx": 1344,
+                        "end_idx": 1354
+                    },
+                    {
+                        "start_idx": 1577,
+                        "end_idx": 1587
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-04T06:27:07.285Z"
+}

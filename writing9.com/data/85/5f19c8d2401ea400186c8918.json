@@ -1,0 +1,113 @@
+{
+    "url": "https://writing9.com/text/5f19c8d2401ea400186c8918-you-ordered-a-book-online-for-exam-preparation-it-has",
+    "file": [
+        "data",
+        "85",
+        "5f19c8d2401ea400186c8918.json"
+    ],
+    "topics": [
+        "book",
+        "exam",
+        "preparation",
+        "time",
+        "e-commerce",
+        "company",
+        "purchase",
+        "importance"
+    ],
+    "question": "You ordered a book online for exam preparation. It has been some time since you ordered it and still has not received your book. Write a letter to the e-commerce company about this.\u2022\tDescribe your purchase order of the book \u2022\tExplain the importance of the book \u2022\tSay what you want the company to do for you",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "I am writing to the customer service manager regarding the book that I purchased from your website last month. I am a loyal customer of your company and have been buying many goods from your e-commerce website, however this time I am highly disappointed with your services for the Cambridge IELTS book with order number #24566839 that was purchased on 22nd June 2020. There is a delay in the order from your side and I have not yet received it.",
+        "Let me explain to you my situation. The book is important to me because it is the official guide for IELTS preparation, which is scheduled for 8th August 2020. I need enough practice for it since the questions are closest to what is asked in the exam and failing to do so can result in a poorer band score.",
+        "As a part of compensation, I would appreciate it if you could speed post the book from another courier that can deliver it within 2 days as the book is non- returnable as well as non-refundable. Moreover, please share the tracking details with me on my email ID.",
+        "Looking forward to hearing from you.",
+        "Yours faithfully,",
+        "Emily Jackson"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "non- returnable",
+                "start_idx": 919,
+                "end_idx": 934,
+                "error": "Correct your spelling",
+                "error_des": "The word non- returnable seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "non-returnable"
+                ]
+            }
+        ]
+    },
+    "submitter": "Ideator_25 RockZz",
+    "num_words": 199,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "moreover",
+            "this",
+            "however",
+            "last"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "book",
+                "occurrences": [
+                    {
+                        "start_idx": 75,
+                        "end_idx": 79
+                    },
+                    {
+                        "start_idx": 313,
+                        "end_idx": 317
+                    },
+                    {
+                        "start_idx": 501,
+                        "end_idx": 505
+                    },
+                    {
+                        "start_idx": 845,
+                        "end_idx": 849
+                    },
+                    {
+                        "start_idx": 912,
+                        "end_idx": 916
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-14T11:51:48.720Z"
+}

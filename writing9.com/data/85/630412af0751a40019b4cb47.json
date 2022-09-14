@@ -1,0 +1,118 @@
+{
+    "url": "https://writing9.com/text/630412af0751a40019b4cb47-there-have-been-some-problems-with-the-bus-servicing-especially",
+    "file": [
+        "data",
+        "85",
+        "630412af0751a40019b4cb47.json"
+    ],
+    "topics": [
+        "bus",
+        "reliability",
+        "area",
+        "two",
+        "weeks",
+        "manager",
+        "company"
+    ],
+    "question": "There have been some problems with the bus servicing, especially its reliability, in your area over the last two weeks. Write a letter to the manager of the bus company, in your letter:\nDescribe what the problems are\nExplain how these problems are affecting you\nSuggest what you would like the company to do",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear sir or madam,",
+        "My name is Alan White, a resident of the northern region of this city. I am writing to complain about the recent unreliability of your bus company's service.",
+        "I have been taking your 301 bus to work for many years. I habitually get on the bus at the Star Road station at 8.15am and get off at the Cook Road one and I note that the 301 bus normally does not delay for more than 10 minutes even though there is mild snow in the winter. Things changed completely since August, however. Buses are now more often than not missing the timetables although I do not see any traffic congestion after i get on the bus, I guess there must not be a traffic jam before I get on too as those areas are not in the city centre.  With that being said, now I need to get up half an hour earlier and take the 7.45am bus to provide spare time for bus delays. This is actually eating into my rest time and makes me extremely tired.",
+        "I request your company to fully investigate what had happened and come up with a plan to rectify this as soon as possible.",
+        "Yours faithfully,",
+        "Alan White"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "i",
+                "start_idx": 608,
+                "end_idx": 609,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            }
+        ]
+    },
+    "submitter": "ABC_XYZ",
+    "num_words": 209,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "although",
+            "this",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "bus",
+                "occurrences": [
+                    {
+                        "start_idx": 154,
+                        "end_idx": 157
+                    },
+                    {
+                        "start_idx": 205,
+                        "end_idx": 208
+                    },
+                    {
+                        "start_idx": 257,
+                        "end_idx": 260
+                    },
+                    {
+                        "start_idx": 353,
+                        "end_idx": 356
+                    },
+                    {
+                        "start_idx": 622,
+                        "end_idx": 625
+                    },
+                    {
+                        "start_idx": 815,
+                        "end_idx": 818
+                    },
+                    {
+                        "start_idx": 845,
+                        "end_idx": 848
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-22T23:37:49.991Z"
+}

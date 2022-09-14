@@ -1,0 +1,149 @@
+{
+    "url": "https://writing9.com/text/5f670b66a81260001863606b",
+    "file": [
+        "data",
+        "7",
+        "5f670b66a81260001863606b.json"
+    ],
+    "topics": [
+        "diet",
+        "meat",
+        "health"
+    ],
+    "question": "Everyone should adopt a vegetarian diet because eating meat can cause serious health problems. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is indubitable that  many people prefer to follow non-vegetarian  food items. However,it is sometimes thought  being vegan is better in terms of health issues. In my opinion, I believe that including animal products would bring more benefits to  the human body.",
+        "Firstly,  if a person consumes only plant-origin products would lack some essential nutrients from their diet. As a result, they may experience deficiency disorders, consequently, they prone many associated diseases. For example, when somebody purposefully avoid  flesh edibles, would result in  protien deficiency and body mass reduces, eventually, high risk for communicable diseases. Thus, it is important to have these foods on a regular basis.",
+        "Secondly, It has proven that we, humans, historically omnivorous never be herbivorous. Similarly, those who live in  extreme climates such as cold and hot, they could only find animals for consumption as there would not be any vegetation grow, for them this vegan diet never practical.  For instance, medical practitioners of that area advise inhabitants to have more protien, which is abundant in mefleshat, to fight against the weather. By seeing this, it is illogical to think to become  vegetarian. Since there is no scientific evidence to prove the vegetables is  only enough to have a balanced diet for a human.",
+        "In conclusion, people have a different view on whether to eat meat or only plant based diet. I firmly consider that if eating flesh, it would bring  many benefits to mankind. It is recommended that there should be more research on this field for a better future."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "avoid  ",
+                "start_idx": 521,
+                "end_idx": 528,
+                "error": "Change the verb form",
+                "error_des": "It appears that the indefinite pronoun somebody does not agree with the verb avoid in your sentence. Consider changing the form of the verb.",
+                "suggetions": [
+                    "avoids"
+                ]
+            },
+            {
+                "word": "protien",
+                "start_idx": 559,
+                "end_idx": 566,
+                "error": "Correct your spelling",
+                "error_des": "The word protien is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "protein"
+                ]
+            },
+            {
+                "word": "protien",
+                "start_idx": 1081,
+                "end_idx": 1088,
+                "error": "Correct your spelling",
+                "error_des": "The word protien is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "protein"
+                ]
+            },
+            {
+                "word": "mefleshat",
+                "start_idx": 1111,
+                "end_idx": 1120,
+                "error": "Correct your spelling",
+                "error_des": "The word mefleshat is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "defleshed"
+                ]
+            },
+            {
+                "word": "plant based",
+                "start_idx": 1406,
+                "end_idx": 1417,
+                "error": "Add a hyphen",
+                "error_des": "It appears that plant based is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "plant-based"
+                ]
+            }
+        ]
+    },
+    "submitter": "Sal",
+    "num_words": 255,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "secondly",
+            "this",
+            "firstly",
+            "similarly",
+            "as a result",
+            "however",
+            "thus",
+            "consequently",
+            "such",
+            "for instance",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "diet",
+                "occurrences": [
+                    {
+                        "start_idx": 370,
+                        "end_idx": 374
+                    },
+                    {
+                        "start_idx": 978,
+                        "end_idx": 982
+                    },
+                    {
+                        "start_idx": 1314,
+                        "end_idx": 1318
+                    },
+                    {
+                        "start_idx": 1419,
+                        "end_idx": 1423
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-09-20T08:03:27.012Z"
+}

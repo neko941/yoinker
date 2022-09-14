@@ -1,0 +1,114 @@
+{
+    "url": "https://writing9.com/text/631637a6aee9de0018760ede-you-should-spend-about-20-minutes-on-this-task-you-have",
+    "file": [
+        "data",
+        "8",
+        "631637a6aee9de0018760ede.json"
+    ],
+    "topics": [
+        "minutes",
+        "camera",
+        "home",
+        "company",
+        "representative",
+        "week",
+        "situation",
+        "action"
+    ],
+    "question": "You should spend about 20 minutes on this task.You have bought a new camera but when you got it home you found it had some problems. You returned the camera and spoke to the company representative a week ago but the camera has still not been repaired.Write a letter to the company. In your letter:introduce yourselfexplain the situationsay what action you would like the company to takeYou should write at least 150 words.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "My name is Anand Vaishnav and I am writing this letter to inform you concerning the difficulties, I  faced related to a new camera which had been bought two weeks earlier.",
+        "I purchased the camera Nokia-770 DSLR from the Avenue Branch. It was having the issue of battery operated shutter. As a result , while switching off the Camera, the shutter was not closing  automatically. The next day I visited the branch and explained the problem to the company officer. He advised me the camera will be sent to the central workshop for repair. They will inform me accordingly.",
+        "However, after a week, Unfortunately, I did not get any response from them. Therefore, I would like to draw your attention to the necessary action. Firstly, replace the camera with a new one or if it is not available, kindly refund me the money. Secondly, inform your staff to follow the commitment and timeframe as they agreed, otherwise it will definitely impact your sales and drop the number of customers.",
+        "I am looking forward to hearing from you.",
+        "Yours faithfully,",
+        "Anand Vaishanv"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "Vaishanv",
+                "start_idx": 1053,
+                "end_idx": 1061,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Vaishanv to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "Vaishnav"
+                ]
+            }
+        ]
+    },
+    "submitter": "mohan",
+    "num_words": 183,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "next",
+            "secondly",
+            "firstly",
+            "as a result",
+            "otherwise",
+            "therefore",
+            "accordingly",
+            "this",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "camera",
+                "occurrences": [
+                    {
+                        "start_idx": 134,
+                        "end_idx": 140
+                    },
+                    {
+                        "start_idx": 198,
+                        "end_idx": 204
+                    },
+                    {
+                        "start_idx": 489,
+                        "end_idx": 495
+                    },
+                    {
+                        "start_idx": 747,
+                        "end_idx": 753
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-05T17:57:17.317Z"
+}

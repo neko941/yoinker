@@ -1,0 +1,153 @@
+{
+    "url": "https://writing9.com/text/630a33d60751a40019b4d58f-in-spite-of-the-advances-made-in-agriculture-many-people",
+    "file": [
+        "data",
+        "7",
+        "630a33d60751a40019b4d58f.json"
+    ],
+    "topics": [
+        "spite",
+        "advances",
+        "agriculture",
+        "people",
+        "world",
+        "case"
+    ],
+    "question": "In spite of the advances made in agriculture, many people around the worldstill go hungry. Why is this the case? What can be done about this problem?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that fast food appears in many places in the world  because this type of food is relatively inexpensive and easy to buy. Although this development can bring about some positive impacts, the drawbacks involved are far more significant.",
+        "\ufeffThere are (some) certain minor benefits to fast bread becoming more affordable and widely available for individuals and society. Chief among these is that a fast meal is a good solution for busy officers or workers. This results from the convenience of fast meal, which means the way that customers buy and eats them. Hamburgers, for example,  are easy to buy on any streets and they are prepared and served instantly, which is the ideal option for those who have very little time to eat. (how fast it can be consumed is impressive when compared with other food). Another advantage is that the expansion fast food industry gives adult students opportunities to have a job. It means that students can work in various (some) positions such as waiters, and cashiers in  fast-food stores, where there is a need for a huge workforce.",
+        "\ufeffDespite these beneficial effects, fast food development can be more disadvantageous for several reasons. Perhaps one of these is that people will be at  risk of being subject to many serious health conditions such as obesity or cardiovascular diseases. This stems from the consumption of many foods containing rich sources of fat or energy, which have an adverse impact on people's health and on  public health care facilities. The second issue is that fast food will be detrimental  to traditions in some countries. This can be seen in the results of the different traditional cultures of Asian families, who usually eat together at dinner. Therefore, the appearance of fast food will change this habit because they tend to eat separately on the way home or at fast-food restaurants.\ufeff",
+        "\ufeffIn conclusion, however, this phenomenon can produce some negative impacts which are greater than the significant."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "fast",
+                "start_idx": 499,
+                "end_idx": 503,
+                "error": "Add an article",
+                "error_des": "The noun phrase fast meal seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the fast",
+                    "a fast"
+                ]
+            },
+            {
+                "word": "streets",
+                "start_idx": 613,
+                "end_idx": 620,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that streets may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "street"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1960,
+                "end_idx": 1964,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "psycost01",
+    "num_words": 327,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "second",
+            "this",
+            "however",
+            "such",
+            "therefore",
+            "for example",
+            "although"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 21,
+                        "end_idx": 25
+                    },
+                    {
+                        "start_idx": 84,
+                        "end_idx": 88
+                    },
+                    {
+                        "start_idx": 804,
+                        "end_idx": 808
+                    },
+                    {
+                        "start_idx": 856,
+                        "end_idx": 860
+                    },
+                    {
+                        "start_idx": 1019,
+                        "end_idx": 1023
+                    },
+                    {
+                        "start_idx": 1116,
+                        "end_idx": 1120
+                    },
+                    {
+                        "start_idx": 1370,
+                        "end_idx": 1374
+                    },
+                    {
+                        "start_idx": 1535,
+                        "end_idx": 1539
+                    },
+                    {
+                        "start_idx": 1753,
+                        "end_idx": 1757
+                    },
+                    {
+                        "start_idx": 1844,
+                        "end_idx": 1848
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-27T15:23:11.503Z"
+}
