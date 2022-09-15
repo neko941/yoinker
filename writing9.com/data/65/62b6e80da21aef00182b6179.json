@@ -1,0 +1,127 @@
+{
+    "url": "https://writing9.com/text/62b6e80da21aef00182b6179-you-are-watching-television-and-saw-a-program-being-shown",
+    "file": [
+        "data",
+        "65",
+        "62b6e80da21aef00182b6179.json"
+    ],
+    "topics": [
+        "television",
+        "program",
+        "violence",
+        "time",
+        "manager",
+        "station",
+        "reason"
+    ],
+    "question": "You are watching television and saw a program being shown early in the morning that contained a lot of violence. You believe the program is unsuitable for that time of day. Write a letter to the manager of the television station. In your letter :-\nGive reason for writing.\nExplain what you think the problem is with the program.\nSay what you would like the station manager to do.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "I am writing this letter to put forward my serious concern about the serial \u2018The Crime\u2019 which is broadcast at 6 AM daily.",
+        "At the onset, the main reason behind writing this letter is the intensity of violent content in the serial. Because this serial is based upon the real time crime incidents so it mostly contains beheaded dead bodies or sometimes horrible killing scenes. Though this serial is to make people aware of criminal activities, morning time is not suitable for it. It adversely impacts on the fresh mood of people in the morning which ultimately decreases their productivity of the day.",
+        "Thus, I would like to suggest that if it is possible to change the time of the serial, please shift the serial anytime after 7 PM. Moreover, in order to decrease the violent material, you may take a meeting with the director and producer of the serial so they can blur or remove such scenes. I hope you would consider the genuinity of my points and act accordingly.",
+        "Look forward to hearing from you soon.",
+        "Yours faithfully,",
+        "Harry Brown"
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "serial",
+                "start_idx": 258,
+                "end_idx": 264,
+                "error": "Replace the word",
+                "error_des": "The word serial doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "series"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 279,
+                "end_idx": 283,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 283,
+                "end_idx": 283,
+                "error": "Add a hyphen",
+                "error_des": "It appears that real time is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "real-time"
+                ]
+            },
+            {
+                "word": "real time",
+                "start_idx": 283,
+                "end_idx": 292,
+                "error": "Add a hyphen",
+                "error_des": "It seems that real time is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "real-time"
+                ]
+            },
+            {
+                "word": "on ",
+                "start_idx": 515,
+                "end_idx": 518,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "Mrjit147",
+    "num_words": 184,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "moreover",
+            "this",
+            "such",
+            "accordingly",
+            "thus"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-06-25T10:48:46.670Z"
+}

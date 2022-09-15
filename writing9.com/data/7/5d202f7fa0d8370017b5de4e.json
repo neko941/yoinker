@@ -1,0 +1,119 @@
+{
+    "url": "https://writing9.com/text/5d202f7fa0d8370017b5de4e",
+    "file": [
+        "data",
+        "7",
+        "5d202f7fa0d8370017b5de4e.json"
+    ],
+    "topics": [
+        "people",
+        "birth",
+        "thirties",
+        "development"
+    ],
+    "question": "Today, most people get married and give birth in their thirties rather than when they are younger. Is this a positive or negative development?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, people are conditioned to settle down later in their years than it was used to be before, and this essay will discuss this notion by providing arguments and examples to support ensuing positive effects.",
+        "First and foremost, starting living together is a serious step, and for that reason a vast majority of individuals opt to develop mentally and financially first. In fact, there is ample evidence to suggest that an increasing number of couples have found themselves in a difficult state by starting an early family. On the contrary, University of Toronto has conducted a sophisticated research by interviewing married couples in their thirties, and it has been found that the time they spend developing and actualizing in their twenties has substantially contributed to their married life satisfaction. That is to say, it seems that individuals strive to improve themselves first before committing to a family life which seems like a favorable development.",
+        "There is, however, another argument for this late engagement enthusiasm, and that is more successful and loved children. To illustrate this point, kids in the previous years had young people with no parental experience what so ever, therefore, leading to usually unbalanced children who had little attention from their parents, as those were busy figuring out their life goals. Alternatively, now families consist of two interdependent individuals with some life experience that they can utilize to appropriately transfer to their pupils. Indeed, children with grown-up parents have higher chances to succeed in life than those with no future expectations.",
+        "In conclusion, while many people decide to get married and make babies in their thirties, they have more chances to have a happy family and highly developed kids."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "favorable",
+                "start_idx": 945,
+                "end_idx": 954,
+                "error": "encouraging or approving or pleasing",
+                "error_des": "",
+                "suggetions": [
+                    "favourable"
+                ]
+            },
+            {
+                "word": "engagement enthusiasm",
+                "start_idx": 1018,
+                "end_idx": 1039,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "engagement, enthusiasm"
+                ]
+            }
+        ]
+    },
+    "submitter": "nehaarora3379",
+    "num_words": 281,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "first",
+            "that is",
+            "however",
+            "therefore",
+            "this",
+            "on the contrary"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 796,
+                        "end_idx": 800
+                    },
+                    {
+                        "start_idx": 922,
+                        "end_idx": 926
+                    },
+                    {
+                        "start_idx": 1335,
+                        "end_idx": 1339
+                    },
+                    {
+                        "start_idx": 1427,
+                        "end_idx": 1431
+                    },
+                    {
+                        "start_idx": 1581,
+                        "end_idx": 1585
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-06T05:19:59.000Z"
+}

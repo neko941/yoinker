@@ -65,4 +65,7 @@ class Writting9GetLinks():
         return self
 
 if __name__ == "__main__":
-    thething = Writting9GetLinks([num if isfloat(num) else int(num) for num in np.arange(9, 3.5, -0.5)]).get_urls(save=True, name='writing9', format='csv')    
+    if int(datetime.now().strftime("%d")) % 2 == 1:
+        Writting9GetLinks([num if isfloat(num) else int(num) for num in np.arange(9, 3.5, -0.5)]).get_urls(save=True, name='writing9', format='csv')   
+    else: 
+        Writting9GetLinks([num if isfloat(num) else int(num) for num in np.arange(4, 9.5, 0.5)]).get_urls(save=True, name='writing9', format='csv')    

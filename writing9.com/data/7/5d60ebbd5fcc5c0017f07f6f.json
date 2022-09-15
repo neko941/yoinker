@@ -1,0 +1,134 @@
+{
+    "url": "https://writing9.com/text/5d60ebbd5fcc5c0017f07f6f",
+    "file": [
+        "data",
+        "7",
+        "5d60ebbd5fcc5c0017f07f6f.json"
+    ],
+    "topics": [
+        "cities",
+        "control",
+        "design",
+        "construction",
+        "homes",
+        "office",
+        "buildings",
+        "people",
+        "style"
+    ],
+    "question": "In some cities, there is less control over the design and construction of new homes and office buildings. People can build in whatever style  they like. Do you think the advantages outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The number of buildings being constructed are growing rapidly. In certain cities, the government has less control over the planning and architecture of residential and corporate buildings which are constructed according to peoples own preference. In my perspective, the negative implications of it are higher than its positives.",
+        "To be begin with, people construct a building without considering any future aspects. They do not consider about any future development which might happen around the place. Besides that, people try to occupy nearby places as well illegally that later becomes disputed land and cause obstruction for growth in coming years. For illustration, many residents in Mumbai city have settled in the isolated area where the highway was supposed to be constructed. This shows that, the development of the city becomes difficult when individuals build homes on their own.",
+        "Similarly, poorly planned large office buildings causes traffic congestion. It was observed in the past that, corporate giants take over land from poor people and build shopping malls and offices. This is done without looking at the traffic flow from that area. This aggravates the situation as, soon after the completion of the building, the number of vehicles going from that area increases because people will come there for the job. For example, construction of the Twin Towers in Pune city's outskirts has caused major traffic jam regularly as planners did not have visibility of vehicles flowing from that area. Therefore, government's approval must be taken to avoid blockage.",
+        "In conclusion, I strongly believe that, although the number of new buildings are growing at a fast pace, however, they should be made only after approval from the system. Otherwise, it will have demerits in future growth and traffic. If such practise continues, natural calamities can happen like earthquake or flood."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "are growing",
+                "start_idx": 1650,
+                "end_idx": 1661,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is growing"
+                ]
+            }
+        ]
+    },
+    "submitter": "ratanandaustin",
+    "num_words": 297,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "for example",
+            "otherwise",
+            "although",
+            "therefore",
+            "however",
+            "this",
+            "besides",
+            "similarly",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "area",
+                "occurrences": [
+                    {
+                        "start_idx": 729,
+                        "end_idx": 733
+                    },
+                    {
+                        "start_idx": 1146,
+                        "end_idx": 1150
+                    },
+                    {
+                        "start_idx": 1268,
+                        "end_idx": 1272
+                    },
+                    {
+                        "start_idx": 1502,
+                        "end_idx": 1506
+                    }
+                ]
+            },
+            {
+                "word": "traffic",
+                "occurrences": [
+                    {
+                        "start_idx": 946,
+                        "end_idx": 953
+                    },
+                    {
+                        "start_idx": 1123,
+                        "end_idx": 1130
+                    },
+                    {
+                        "start_idx": 1414,
+                        "end_idx": 1421
+                    },
+                    {
+                        "start_idx": 1799,
+                        "end_idx": 1806
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-24T07:48:13.356Z"
+}

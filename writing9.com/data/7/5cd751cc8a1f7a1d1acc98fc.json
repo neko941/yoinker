@@ -1,0 +1,159 @@
+{
+    "url": "https://writing9.com/text/5cd751cc8a1f7a1d1acc98fc",
+    "file": [
+        "data",
+        "7",
+        "5cd751cc8a1f7a1d1acc98fc.json"
+    ],
+    "topics": [
+        "people",
+        "cars",
+        "bicycle",
+        "case",
+        "usage",
+        "bicycles"
+    ],
+    "question": "People are using more and more cars recently. This has resulted in people using bicycle less. Why is this the case? How can usage of bicycles be enhanced?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The use of various forms of transportation has become a major debate in both developed and undeveloped countrys. Many individuals these days have resulted to the use of vehicles as a means of transportation, which in turn has lead to a decrease in the use of bicycles. This essay will discuss the major reason which is, easy transportation, as well as, the way bicycles, as a means of transport can be encouraged which is majorly by public awareness.",
+        "The main reason why cars are frequently been used is majorly for easy movement. In other words, a car would get a person or a family from point A to point B easily and faster without having to either stop or, slow down. Take for example, a family of 5, going to the local park, would rather than each taking different bicycles, would just take one car that would get them to the park at the same time. Hence, having a vehicle as a means of transport not only makes life easier but also fast.",
+        "The use of bicycles can be encouraged by providing public awareness about the dangers of smoke from vehicles. Take for instance, the Save the Air campaign, which aired in 2010 for about 7 months. This campaign aimed at educating the general public about the various causes of air pollution. A research carried out about 6 months after showed, a decline in the purchase of vehicles as more individuals took either public transports or bicycles. Thus, informing the public about dangers of air pollutants such as smoke would increase the use of other means of transportations.",
+        "In conclusion, if the government would educate the general public, this would decrease the use of cars, and increase the use of bicycles as a means of transport."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "countrys",
+                "start_idx": 102,
+                "end_idx": 110,
+                "error": "a politically organized body of people under a single government",
+                "error_des": "",
+                "suggetions": [
+                    "countries"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 154,
+                "end_idx": 156,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "been",
+                "start_idx": 490,
+                "end_idx": 494,
+                "error": "the state or fact of existing",
+                "error_des": "",
+                "suggetions": [
+                    "being"
+                ]
+            },
+            {
+                "word": "easier",
+                "start_idx": 920,
+                "end_idx": 926,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "easy"
+                ]
+            }
+        ]
+    },
+    "submitter": "lagbaja2000",
+    "num_words": 296,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "hence",
+            "for example",
+            "also",
+            "this",
+            "such",
+            "in other words",
+            "for instance",
+            "thus"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "use",
+                "occurrences": [
+                    {
+                        "start_idx": 4,
+                        "end_idx": 7
+                    },
+                    {
+                        "start_idx": 162,
+                        "end_idx": 165
+                    },
+                    {
+                        "start_idx": 252,
+                        "end_idx": 255
+                    },
+                    {
+                        "start_idx": 496,
+                        "end_idx": 499
+                    },
+                    {
+                        "start_idx": 947,
+                        "end_idx": 950
+                    },
+                    {
+                        "start_idx": 1211,
+                        "end_idx": 1214
+                    },
+                    {
+                        "start_idx": 1479,
+                        "end_idx": 1482
+                    },
+                    {
+                        "start_idx": 1609,
+                        "end_idx": 1612
+                    },
+                    {
+                        "start_idx": 1639,
+                        "end_idx": 1642
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-11T22:50:52.000Z"
+}

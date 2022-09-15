@@ -1,0 +1,141 @@
+{
+    "url": "https://writing9.com/text/5d5076ad296f170017394caa-write-a-letter-to-an-english-speaking-friend-in-your-letter-1",
+    "file": [
+        "data",
+        "7",
+        "5d5076ad296f170017394caa.json"
+    ],
+    "topics": [
+        "friend",
+        "house",
+        "visit"
+    ],
+    "question": "Write a letter to an English-speaking friend. In your letter:\n1). Explain why you have moved.\n2). Describe the new house.\n3). Invite your friend to come visit.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Nathan,",
+        "Hope you\u2019re doing great. Sorry we haven\u2019t been able to speak since the last time we met, I\u2019ve been very busy with work.",
+        "You remember when I told you that where I was living was becoming inconvenient for me, because a new night club has just been open there and the noise coming out of the building at night is making me to be uncomfortable. Well, I just want to tell you that I have relocated.",
+        "I moved into a new three bedroom house that has just been newly developed. This building is located about 5km from my initial place. Each of the rooms in the house has its own bathroom and toilet, a study area, laundry room, kitchen and dining. Also, there\u2019s a space outside that I can park my car. The good thing about the area is that it is more peaceful with nice gardens.",
+        "I am inviting you to come see my new house, there\u2019s an annual festival of culture coming up in October 15th and the venue is the City Hall which is not too far from my place. We could use the opportunity to attend the festival together. I\u2019m sure it will be fun, as there will be plenty to eat and drink. Get back to me as soon as you can.",
+        "See you soon.",
+        "Oghenevwede"
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "Sorry",
+                "start_idx": 37,
+                "end_idx": 42,
+                "error": "Add the punctuation",
+                "error_des": "It appears that you are missing a punctuation mark after the interjection Sorry. Consider adding a comma.",
+                "suggetions": [
+                    ",Sorry"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 218,
+                "end_idx": 219,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker because. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "night club",
+                "start_idx": 233,
+                "end_idx": 243,
+                "error": "Correct your spelling",
+                "error_des": "The word night club seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "nightclub"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 332,
+                "end_idx": 335,
+                "error": "Change the verb form",
+                "error_des": "It appears that the verb to be should be in the bare infinitive form. Consider removing to from in front of this verb.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "three bedroom",
+                "start_idx": 425,
+                "end_idx": 438,
+                "error": "Add a hyphen",
+                "error_des": "It appears that three bedroom is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "three-bedroom"
+                ]
+            },
+            {
+                "word": "come",
+                "start_idx": 803,
+                "end_idx": 807,
+                "error": "Add the particle",
+                "error_des": "It appears that the verb see should be in the to-infinitive form. Consider adding the word to.",
+                "suggetions": [
+                    "tocome"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 874,
+                "end_idx": 876,
+                "error": "Change the preposition",
+                "error_des": "The preposition in may be incorrect. Consider changing it to another preposition.",
+                "suggetions": [
+                    "on"
+                ]
+            }
+        ]
+    },
+    "submitter": "roefobo",
+    "num_words": 223,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "last",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T16:24:52.448Z"
+}

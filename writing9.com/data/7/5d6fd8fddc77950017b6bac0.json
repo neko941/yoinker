@@ -1,0 +1,128 @@
+{
+    "url": "https://writing9.com/text/5d6fd8fddc77950017b6bac0",
+    "file": [
+        "data",
+        "7",
+        "5d6fd8fddc77950017b6bac0.json"
+    ],
+    "topics": [
+        "people",
+        "governments",
+        "buildings",
+        "libraries",
+        "museums"
+    ],
+    "question": "Some people believe that governments should spend on new public buildings, such as libraries and museums, rather than renovating old buildings. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The idea of whether to invest in giving state buildings a facelift rather than building new ones is debatable. I strongly agree that government should consider re-branding old structures as this will help save cost and preserve our cultural heritage.",
+        "To begin, constructing new offices by the state is going to increase the financial burden of the government, this is because of the ever increasing cost of buying building materials. You will agree, that a lower amount will be spent in renovating an existing monument when compared to raising a new one from scratch. For example, recently, Surulere local government carried out a comparative cost analysis on the financial implication of building a new library versus remodelling  the existing one. The result showed a sixty percent variance in favour of the latter.",
+        "In addition to the point raised above, repositioning existing public houses is a great way of preserving our inheritance. If these old buildings are abandoned for new ones, the upcoming generation may miss out of some essential aspects of our history as every existing edifice has a story that can be communicated to those that will come after us. For instance, the French government recently decided to rebuild the burnt Novare cathedral because of its important place in the history of the country.",
+        "In summary, restoring existing structures to previous state will help optimize cost which can be used to provide other forms of development. It will also give our children the opportunity to learn from stories behind these important buildings."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "by",
+                "start_idx": 285,
+                "end_idx": 287,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of",
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 253,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for example",
+            "in addition",
+            "also",
+            "this",
+            "to begin",
+            "for instance"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 133,
+                        "end_idx": 143
+                    },
+                    {
+                        "start_idx": 348,
+                        "end_idx": 358
+                    },
+                    {
+                        "start_idx": 606,
+                        "end_idx": 616
+                    },
+                    {
+                        "start_idx": 1191,
+                        "end_idx": 1201
+                    }
+                ]
+            },
+            {
+                "word": "cost",
+                "occurrences": [
+                    {
+                        "start_idx": 210,
+                        "end_idx": 214
+                    },
+                    {
+                        "start_idx": 399,
+                        "end_idx": 403
+                    },
+                    {
+                        "start_idx": 643,
+                        "end_idx": 647
+                    },
+                    {
+                        "start_idx": 1398,
+                        "end_idx": 1402
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-04T15:32:13.557Z"
+}

@@ -1,0 +1,142 @@
+{
+    "url": "https://writing9.com/text/5e9f4213f6626d001863e71c-write-a-letter-to-a-friend-who-lives-in-a",
+    "file": [
+        "data",
+        "7",
+        "5e9f4213f6626d001863e71c.json"
+    ],
+    "topics": [
+        "friend",
+        "lives",
+        "city",
+        "job",
+        "offer",
+        "b",
+        "arrangement",
+        "dinner",
+        "achievement",
+        "c",
+        "accommodation"
+    ],
+    "question": "Write a letter to a friend who lives in a different city.a.\tTell him/her about your recent job offerb.\tTell him/her about your arrangement of a dinner to celebrate your achievementc.\tInform him/her about the arrangement of his/her accommodation",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Priya,",
+        "How are you? Hope this letter bring you good health. I would like to share my happiness with you about my new job.",
+        "I got a job offer from Oracle corporation, California two days before. I had my interview with technical lead and the human resource manager last month and I was waiting for my result. Finally, I got my update and offer letter on 22nd April, Thursday and was selected for the post as a database administrator and I need to join the company on 1st June.",
+        "I would like to celebrate this achievement with you as you know how much interest I\u2019ve to join this firm. So, I booked a table in the Hilton hotel in Sharjah for coming Saturday to have a dinner and to celebrate this success. Also, they have some live concert, which you like most to watch and hence I planned for that too.",
+        "I know that you are free on Saturday and Sunday and you can start by Friday evening from Abu Dhabi and you can reach the Sharjah early morning. I booked a room for you in Hilton hotel itself, so that you can take some rest. Hope you will not be having any other important task and this plan will work out for you.",
+        "Look forward to seeing you soon.",
+        "Best wishes,",
+        "Saru"
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "technical",
+                "start_idx": 221,
+                "end_idx": 230,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the technical"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 665,
+                "end_idx": 667,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun dinner in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "concert",
+                "start_idx": 731,
+                "end_idx": 738,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that concert may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "concerts"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 920,
+                "end_idx": 924,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "Hilton",
+                "start_idx": 974,
+                "end_idx": 980,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the Hilton"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 994,
+                "end_idx": 995,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker so that. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "sarulatha1.g",
+    "num_words": 224,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "hence",
+            "also",
+            "last",
+            "finally",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-14T07:37:01.730Z"
+}

@@ -1,0 +1,179 @@
+{
+    "url": "https://writing9.com/text/5d36a94e95b1490010dbb60c",
+    "file": [
+        "data",
+        "7",
+        "5d36a94e95b1490010dbb60c.json"
+    ],
+    "topics": [
+        "people",
+        "event",
+        "country"
+    ],
+    "question": "Many people think hosting an international sporting event is beneficial to a country, while others disagree. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A lot of people believe that organizing a global sports event is very useful to the hosting country. Although some may argue that expending money on such events is a waste, I strongly believe that any country will economically benefit from hosting them.",
+        "It\u2019s well known that in order to set up an international sports event a large sum of money is required to be spent. Some people find this totally unworthy. That is because they are convinced that these amounts of cash should be spent on developing the country\u2019s infrastructure and improving national public services like education, health and transportation. For instance, major sporting events like the world football cup or the Olympics are only organized in developed countries because they have the funds to do so unlike third world countries who can\u2019t use their already limited resources to host such luxurious events. Instead, their governments will use the money on projects that will benefit the citizens. However, this essay disagrees with that view because any nation will gain from the exposure and tourism resulting from having such mega-sporting incidents.",
+        "On the other hand, some individuals support the idea of hosting these kinds of events simply because the country will be a touristic attraction. Many sports fans will travel from all over the world to attend which consequently will nurture the country\u2019s economy through tourism and entertainment. For example: the London 2012 Olympics drew in thousands of sports lovers which ultimately made the country benefit a lot in terms of employing large number of people and receiving big number of revenues from selling tickets. For these reasons, this essay completely agrees that hosting worldwide sports occasions will be so rewarding.",
+        "In conclusion, despite the fact that organizing high profile athletic events needs a huge sum of money, they benefit the host nation economically and politically."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "developed",
+                "start_idx": 714,
+                "end_idx": 723,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "developing"
+                ]
+            },
+            {
+                "word": "so unlike",
+                "start_idx": 768,
+                "end_idx": 777,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "so, unlike"
+                ]
+            },
+            {
+                "word": "big number",
+                "start_idx": 1600,
+                "end_idx": 1610,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a big number"
+                ]
+            }
+        ]
+    },
+    "submitter": "surekhak458",
+    "num_words": 306,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "on the other hand",
+            "for example",
+            "although",
+            "that is",
+            "however",
+            "consequently",
+            "this",
+            "such",
+            "instead",
+            "for instance",
+            "third"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "benefit",
+                "occurrences": [
+                    {
+                        "start_idx": 227,
+                        "end_idx": 234
+                    },
+                    {
+                        "start_idx": 946,
+                        "end_idx": 953
+                    },
+                    {
+                        "start_idx": 1528,
+                        "end_idx": 1535
+                    },
+                    {
+                        "start_idx": 1865,
+                        "end_idx": 1872
+                    }
+                ]
+            },
+            {
+                "word": "country",
+                "occurrences": [
+                    {
+                        "start_idx": 92,
+                        "end_idx": 99
+                    },
+                    {
+                        "start_idx": 201,
+                        "end_idx": 208
+                    },
+                    {
+                        "start_idx": 506,
+                        "end_idx": 513
+                    },
+                    {
+                        "start_idx": 1229,
+                        "end_idx": 1236
+                    },
+                    {
+                        "start_idx": 1368,
+                        "end_idx": 1375
+                    },
+                    {
+                        "start_idx": 1520,
+                        "end_idx": 1527
+                    }
+                ]
+            },
+            {
+                "word": "money",
+                "occurrences": [
+                    {
+                        "start_idx": 140,
+                        "end_idx": 145
+                    },
+                    {
+                        "start_idx": 339,
+                        "end_idx": 344
+                    },
+                    {
+                        "start_idx": 918,
+                        "end_idx": 923
+                    },
+                    {
+                        "start_idx": 1853,
+                        "end_idx": 1858
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-23T06:29:34.000Z"
+}

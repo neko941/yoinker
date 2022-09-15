@@ -1,0 +1,110 @@
+{
+    "url": "https://writing9.com/text/5d0d9e706cc3890017ecca8d",
+    "file": [
+        "data",
+        "7",
+        "5d0d9e706cc3890017ecca8d.json"
+    ],
+    "topics": [
+        "technology",
+        "world"
+    ],
+    "question": "Eventually, technology will solve the most important environmental problems the world faces today.  \n\nTo what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some people expect that technology will solve the most critical global environmental issues. While technology will undoubtedly play a significant role in addressing these problems, I believe solutions must also involve a broader social movement.",
+        "To be sure, environmentally friendly technology has already shown great promise for its ability to tackle global issues. For example, it is now fairly common to see hybrid and fully electric vehicles on the road. The environmental impact of these technologies, at least in my city, has been noticeable.  Where I live, air-quality continues to improve.  Each year my state reports that we are getting closer and closer to achieving our goal of 100% renewable energy production, all thanks to new clean technologies. These innovations show that, indeed, technical innovation can directly address some of the world\u2019s most pressing environmental problems.",
+        "However, in many areas, new technologies are not developing or spreading rapidly enough to resolve critical environmental issues.  In these situations, the only immediate solution is for people to work collectively by changing behaviors that damage the environment.  For example, consider the alarming amount of plastic particles in the world\u2019s oceans. Some technological solutions to this problem are currently in development.  I have read about a large sea \u201cvacuum\u201d and even genetically modified animals that can eat plastic.  Yet, these solutions may not solve the ocean-plastic problem before it\u2019s too late for ocean ecosystems.  Instead, more cities, businesses, and households will need to take steps to limit everyday plastic use.  Some grocery stores no longer use plastic bags, for example.  Some families choose to use reusable containers for food instead of single-use plastic ones.  Changes like these must be adopted by a very large number of people to have a real impact because technological remedies are not yet available.",
+        "In conclusion, while we should continue to seek technological solutions to environmental problems, these innovations cannot sufficiently address them all. People must work together, on a large scale, to address the most serious issues we face as well."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "behaviors",
+                "start_idx": 1124,
+                "end_idx": 1133,
+                "error": "manner of acting or controlling yourself",
+                "error_des": "",
+                "suggetions": [
+                    "behaviours"
+                ]
+            }
+        ]
+    },
+    "submitter": "hayataast",
+    "num_words": 333,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "for example",
+            "also",
+            "however",
+            "this",
+            "instead"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "plastic",
+                "occurrences": [
+                    {
+                        "start_idx": 1210,
+                        "end_idx": 1217
+                    },
+                    {
+                        "start_idx": 1417,
+                        "end_idx": 1424
+                    },
+                    {
+                        "start_idx": 1472,
+                        "end_idx": 1479
+                    },
+                    {
+                        "start_idx": 1623,
+                        "end_idx": 1630
+                    },
+                    {
+                        "start_idx": 1671,
+                        "end_idx": 1678
+                    },
+                    {
+                        "start_idx": 1778,
+                        "end_idx": 1785
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-22T03:20:16.000Z"
+}

@@ -1,0 +1,147 @@
+{
+    "url": "https://writing9.com/text/5d2638ac8e49bd0017ad017c",
+    "file": [
+        "data",
+        "7",
+        "5d2638ac8e49bd0017ad017c.json"
+    ],
+    "topics": [
+        "countries"
+    ],
+    "question": "Rich countries are getting richer while poor countries are getting poorer. What is the cause of this? What could be done to solve this problem?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, wealthy nations are becoming wealthier and financially down countries are getting poorer. This essay will discuss cause of this development and solution to mitigate this issue.",
+        "Wealthy nations are spending and working further on its economic sector, which makes them progress more and strengthening its economy. It is a known fact that money produces money by investing it in different sectors. Developed counties do not need money from other countries and are independent in the economic domain and hence can achieve growth without requiring any assistance. Similarly, poor nations are getting financial assistance and loans from rich countries which makes them in debt, and in turn, result in higher taxes on all commodities. These taxes on different commodities bring a burden on the finance of government and public and thus makes them poorer. A recent report by the International Monetary Fund, for instance, reported that countries who takes financial assistance from rich nations are getting financially down by 20% each year.",
+        "Equal money distribution is a critical way to solve the difference between rich and poor countries. Wealthy nations ought to assist financially the poor countries by giving money to them and not taking it back. This will not affect the economy of developed countries and poor nations will be able to decrease its financial strain, and consequently will come out from financial problems. Research by the Economics Institute of London, for example, concluded a study that, if countries with more wealth gives 10% of their money to the poor nations, they will get rid of financial problems.",
+        "In conclusion, financially well nations working on strengthening their economy more and poor countries taking financial loans from developed countries are the reasons of rich countries become richer and poor countries become poorer. Even money distribution by rich countries to the poor one\u2019s is the main way to cope with this issue."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "cause",
+                "start_idx": 123,
+                "end_idx": 128,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the causes",
+                    "causes"
+                ]
+            },
+            {
+                "word": "counties",
+                "start_idx": 414,
+                "end_idx": 422,
+                "error": "a politically organized body of people under a single government",
+                "error_des": "",
+                "suggetions": [
+                    "countries"
+                ]
+            },
+            {
+                "word": "countries which",
+                "start_idx": 645,
+                "end_idx": 660,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "countries, which"
+                ]
+            },
+            {
+                "word": "developed",
+                "start_idx": 1290,
+                "end_idx": 1299,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "developing"
+                ]
+            }
+        ]
+    },
+    "submitter": "rehans.khan1992",
+    "num_words": 311,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "hence",
+            "for example",
+            "consequently",
+            "this",
+            "similarly",
+            "further",
+            "for instance",
+            "thus"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "money",
+                "occurrences": [
+                    {
+                        "start_idx": 346,
+                        "end_idx": 351
+                    },
+                    {
+                        "start_idx": 361,
+                        "end_idx": 366
+                    },
+                    {
+                        "start_idx": 436,
+                        "end_idx": 441
+                    },
+                    {
+                        "start_idx": 1050,
+                        "end_idx": 1055
+                    },
+                    {
+                        "start_idx": 1217,
+                        "end_idx": 1222
+                    },
+                    {
+                        "start_idx": 1564,
+                        "end_idx": 1569
+                    },
+                    {
+                        "start_idx": 1870,
+                        "end_idx": 1875
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-10T19:12:44.000Z"
+}

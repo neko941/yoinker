@@ -1,0 +1,200 @@
+{
+    "url": "https://writing9.com/text/5eb526ff614ac5001875a4ed",
+    "file": [
+        "data",
+        "7",
+        "5eb526ff614ac5001875a4ed.json"
+    ],
+    "topics": [
+        "internet",
+        "people",
+        "computers",
+        "phones",
+        "world",
+        "trend"
+    ],
+    "question": "The internet has made knowledge immediately available to people through computers and smart phones all around the world. Much of this knowledge is also free. Discuss the advantages and Disadvantages of this trend.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The internet is like an ocean of knowledge filled to the brim that anyone can easily access on their computer or mobile phone. This essay will discuss the benefits and the drawbacks of this trend.",
+        "On the one hand, the internet offers in-depth information on any topic in a fraction of seconds. Firstly, it provides many web sites which have accumulated vast knowledge from many sources making it easier for educational purposes. If this option is not available then students will be forced to read / refer various books or speak to an expert to get answers to their questions. Secondly, the internet has made information gathering an enjoyable activity. For example, we can learn about geographical or historical information about our home or favorite places with the help of multimedia applications. Overall, we can get abundant knowledge through the internet.",
+        "However, readily available information is not without its disadvantages. Some of the materials / content we access on the internet may not be genuine. For instance, a few may carry propaganda or fake information and direct the users to do harmful things. Studies have shown that many terror outfits misuse social media platforms to lure youngsters into becoming a part of them. This is indeed a dangerous aspect of the internet and users should be prepared to protect themselves from such threats.",
+        "In conclusion, this essay discussed the advantages and disadvantages related to the availability of abundant information on the internet. In short, the benefits are enormous, but the drawbacks cannot be overlooked."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "web sites",
+                "start_idx": 319,
+                "end_idx": 328,
+                "error": "a computer connected to the internet that maintains a series of web pages on the World Wide Web",
+                "error_des": "",
+                "suggetions": [
+                    "websites"
+                ]
+            },
+            {
+                "word": "sources making",
+                "start_idx": 377,
+                "end_idx": 391,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "sources, making"
+                ]
+            },
+            {
+                "word": "available ",
+                "start_idx": 450,
+                "end_idx": 460,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "available, then"
+                ]
+            },
+            {
+                "word": "geographical",
+                "start_idx": 685,
+                "end_idx": 697,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "geography"
+                ]
+            },
+            {
+                "word": "favorite",
+                "start_idx": 742,
+                "end_idx": 750,
+                "error": "something regarded with special favor or liking",
+                "error_des": "",
+                "suggetions": [
+                    "favourite"
+                ]
+            },
+            {
+                "word": "materials",
+                "start_idx": 946,
+                "end_idx": 955,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "material"
+                ]
+            }
+        ]
+    },
+    "submitter": "rahatbhateja",
+    "num_words": 254,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "then",
+            "for example",
+            "for instance",
+            "however",
+            "such",
+            "this",
+            "firstly",
+            "secondly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 243,
+                        "end_idx": 254
+                    },
+                    {
+                        "start_idx": 609,
+                        "end_idx": 620
+                    },
+                    {
+                        "start_idx": 713,
+                        "end_idx": 724
+                    },
+                    {
+                        "start_idx": 889,
+                        "end_idx": 900
+                    },
+                    {
+                        "start_idx": 1062,
+                        "end_idx": 1073
+                    },
+                    {
+                        "start_idx": 1469,
+                        "end_idx": 1480
+                    }
+                ]
+            },
+            {
+                "word": "internet",
+                "occurrences": [
+                    {
+                        "start_idx": 4,
+                        "end_idx": 12
+                    },
+                    {
+                        "start_idx": 218,
+                        "end_idx": 226
+                    },
+                    {
+                        "start_idx": 591,
+                        "end_idx": 599
+                    },
+                    {
+                        "start_idx": 852,
+                        "end_idx": 860
+                    },
+                    {
+                        "start_idx": 984,
+                        "end_idx": 992
+                    },
+                    {
+                        "start_idx": 1281,
+                        "end_idx": 1289
+                    },
+                    {
+                        "start_idx": 1488,
+                        "end_idx": 1496
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-05-08T09:31:43.720Z"
+}

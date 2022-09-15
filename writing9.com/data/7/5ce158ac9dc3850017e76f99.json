@@ -1,0 +1,136 @@
+{
+    "url": "https://writing9.com/text/5ce158ac9dc3850017e76f99",
+    "file": [
+        "data",
+        "7",
+        "5ce158ac9dc3850017e76f99.json"
+    ],
+    "topics": [
+        "students",
+        "study",
+        "subjects",
+        "people",
+        "waste",
+        "time"
+    ],
+    "question": "Many students have to study subjects which they do not like. Some people think this is a complete waste of time. Do you agree or disagree with this statement?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is often argued that students often study some subjects that they are not interested in. I completely agree with this opinion and think that students should have more free time instead of studying.",
+        "First of all, I believe that studying less makes students relax and enjoy their teenage life. These days, there are a lot of subjects at school and they cannot absorb all the information. If boring subjects can be removed, they will have time spending on their favorite ones and might be a specialist in that field. Moreover, they can use their free time to learn soft skills such as public speaking and communication which is definitely necessary to their future. Therefore, it is more important to spend time wisely than just focus on studying.",
+        "Secondly, studying subjects that students hate at school can kill their creativity and interest. Although knowledge is essential to the development of young people, classes are usually designed based on tasks and instructions. As a result, it prevents their creative ability. Furthermore, if students find studying boring and exhausting because of their dislike subjects, they can easily get stressed and do not want to pursue academic path in the future. As a result, it is harmful to the economy due to lacking white-collar workers. Thus, students need to keep their motivation than gain as much knowledge as that they can.",
+        "In conclusion, I strongly believe that students should have more time to enjoy their life instead of studying subjects that they do not like. This is because they can open their minds and create new things when they feel relaxed and chill."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "are",
+                "start_idx": 312,
+                "end_idx": 315,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "favorite",
+                "start_idx": 461,
+                "end_idx": 469,
+                "error": "something regarded with special favor or liking",
+                "error_des": "",
+                "suggetions": [
+                    "favourite"
+                ]
+            },
+            {
+                "word": "academic path",
+                "start_idx": 1174,
+                "end_idx": 1187,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an academic path"
+                ]
+            }
+        ]
+    },
+    "submitter": "Thanh",
+    "num_words": 270,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "as a result",
+            "first",
+            "although",
+            "therefore",
+            "moreover",
+            "this",
+            "furthermore",
+            "such",
+            "instead",
+            "secondly",
+            "thus"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 175,
+                        "end_idx": 179
+                    },
+                    {
+                        "start_idx": 439,
+                        "end_idx": 443
+                    },
+                    {
+                        "start_idx": 551,
+                        "end_idx": 555
+                    },
+                    {
+                        "start_idx": 707,
+                        "end_idx": 711
+                    },
+                    {
+                        "start_idx": 1439,
+                        "end_idx": 1443
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-19T13:22:52.000Z"
+}

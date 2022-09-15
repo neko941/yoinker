@@ -1,0 +1,119 @@
+{
+    "url": "https://writing9.com/text/5e66634d19d5c100187d8786",
+    "file": [
+        "data",
+        "7",
+        "5e66634d19d5c100187d8786.json"
+    ],
+    "topics": [
+        "people",
+        "university",
+        "students",
+        "study",
+        "subjects",
+        "future",
+        "science",
+        "technology"
+    ],
+    "question": "Some people think that all university students should study whatever they like. Others believe that they should only be allowed to study subjects that will be useful in the future, such as those related to science and technology. Discuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is considered by some that university students should choose their own major, while others think that they should be limited to subjects that are beneficial in the future. Although these subjects are important, I believe that students should be free to learn whatever subject they want.",
+        "On the one hand, some people argue that students ought to be free to choose their field, and I agree. If they are forced to study a certain subject, it would stifle their creativity and doom them to fail. However, studying a major that they love allows them to be creative and succeed. For example, if a student is talented in art, it would be unfair to waste their talent and force them to study science. Another benefit is that countries need all professions and restricting students to certain fields can destroy the balance in the job market. In order for a country to thrive, it needs designers, doctors, mechanics, farmers, as well as artists.",
+        "On the other hand, others think that students should only learn subjects that are useful in the future. Due to the heavy reliance on technology nowadays, there are more job opportunities for scientists. As a consequence, science and IT graduates can get good jobs and earn high salaries. Furthermore, it can improve the economic progress of countries since scientists are the driving force of companies. For instance, if there are more science and IT graduates, then more businesses would flourish due to having qualified employees. However, studying these subjects only has severe consequences as the job market will lose its balance.",
+        "In conclusion, while people have varying perspectives, I believe that allowing students to follow their passion and learn what they love is more advantageous than restricting them to science and technology."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "some that university",
+                "start_idx": 19,
+                "end_idx": 39,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "some university that"
+                ]
+            },
+            {
+                "word": "then",
+                "start_idx": 1401,
+                "end_idx": 1405,
+                "error": "conjunction used in comparatives",
+                "error_des": "",
+                "suggetions": [
+                    "than"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 294,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the other hand",
+            "for example",
+            "although",
+            "however",
+            "furthermore",
+            "for instance"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "science",
+                "occurrences": [
+                    {
+                        "start_idx": 687,
+                        "end_idx": 694
+                    },
+                    {
+                        "start_idx": 1161,
+                        "end_idx": 1168
+                    },
+                    {
+                        "start_idx": 1376,
+                        "end_idx": 1383
+                    },
+                    {
+                        "start_idx": 1759,
+                        "end_idx": 1766
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-03-09T15:39:57.857Z"
+}

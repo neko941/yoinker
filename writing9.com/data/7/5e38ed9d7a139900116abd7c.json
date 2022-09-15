@@ -1,0 +1,180 @@
+{
+    "url": "https://writing9.com/text/5e38ed9d7a139900116abd7c",
+    "file": [
+        "data",
+        "7",
+        "5e38ed9d7a139900116abd7c.json"
+    ],
+    "topics": [
+        "development",
+        "tourism",
+        "english",
+        "language",
+        "world"
+    ],
+    "question": "The Development Of Tourism Contributed To English Becoming The Most Prominent Language In The World",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "As per capita income of the world has been at its highest in the last decade, more travelers are visiting various tourist destinations than ever before. With this there is a growing perception that eventually English will become the only spoken language globally. Although it is true that when English becomes a common language we will have a much closer and understanding international community, it would certainly be at the expense of smaller indigenous people and their languages.",
+        "Even though English is currently used for communication in most countries, there is still a wide disparity between the number of people who speak it and those who don\u2019t. People native to South America or China still like to communicate in their local languages and possess little or no knowledge of English. If English becomes the primary language all over the globe, then it would certainly reduce the communication barrier between nations. With better understanding, more and more visitors would be willing to visit these countries and hence it can prove to be a boon for the local tourism industry. For example, countries like China and South Korea have been seeing significant fall in their annual tourism with tourists complaining that most common services like hotels, road signs and maps are not bilingual.",
+        "On the other hand, electing English as the only spoken language around the world would certainly prove a threat to small cultures around the world, especially indigenous communities. Already one can witness that there are many tribes which are disconnected from the world, and if English were to become the main language, it would push those groups further away. If there is no support provided to market their local language and culture, their heritage would fade away by lack of visits from tourists. For instance, many small tribes living in Peru and islands of Japan see a lot of visitors who are very curious of their old and rich history.",
+        "In conclusion, with more and more tourists visiting various cultures and places, the rationale behind making English as a global language will only get stronger. This might prove effective in removing misunderstandings and communication barriers among the global community, but the cost of endangering future of indigenous communities is simply too high to pay."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "travelers",
+                "start_idx": 82,
+                "end_idx": 91,
+                "error": "a person who changes location",
+                "error_des": "",
+                "suggetions": [
+                    "travellers"
+                ]
+            },
+            {
+                "word": "islands",
+                "start_idx": 1852,
+                "end_idx": 1859,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the islands"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 1912,
+                "end_idx": 1914,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "about"
+                ]
+            },
+            {
+                "word": "future",
+                "start_idx": 2245,
+                "end_idx": 2251,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the future"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 375,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "then",
+            "hence",
+            "on the other hand",
+            "for example",
+            "although",
+            "last",
+            "this",
+            "further",
+            "for instance"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "world",
+                "occurrences": [
+                    {
+                        "start_idx": 28,
+                        "end_idx": 33
+                    },
+                    {
+                        "start_idx": 1374,
+                        "end_idx": 1379
+                    },
+                    {
+                        "start_idx": 1440,
+                        "end_idx": 1445
+                    },
+                    {
+                        "start_idx": 1565,
+                        "end_idx": 1570
+                    }
+                ]
+            },
+            {
+                "word": "language",
+                "occurrences": [
+                    {
+                        "start_idx": 245,
+                        "end_idx": 253
+                    },
+                    {
+                        "start_idx": 319,
+                        "end_idx": 327
+                    },
+                    {
+                        "start_idx": 474,
+                        "end_idx": 482
+                    },
+                    {
+                        "start_idx": 736,
+                        "end_idx": 744
+                    },
+                    {
+                        "start_idx": 824,
+                        "end_idx": 832
+                    },
+                    {
+                        "start_idx": 1354,
+                        "end_idx": 1362
+                    },
+                    {
+                        "start_idx": 1611,
+                        "end_idx": 1619
+                    },
+                    {
+                        "start_idx": 1716,
+                        "end_idx": 1724
+                    },
+                    {
+                        "start_idx": 2073,
+                        "end_idx": 2081
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-04T04:05:49.706Z"
+}

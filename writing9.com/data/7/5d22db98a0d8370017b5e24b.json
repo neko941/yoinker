@@ -1,0 +1,105 @@
+{
+    "url": "https://writing9.com/text/5d22db98a0d8370017b5e24b",
+    "file": [
+        "data",
+        "7",
+        "5d22db98a0d8370017b5e24b.json"
+    ],
+    "topics": [
+        "people",
+        "movies",
+        "waste",
+        "time"
+    ],
+    "question": "Some people think watching movies is a waste of time. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "People really like watching movies either at the cinemas or on their laptop. However, some people believe that watching movies is just a waste of time. In this essay, I shall give my personal opinion to oppose this statement.",
+        "To begin with, people need to refresh their mind after they do the tiring work. By watching movies, they can relax a bit and get lost in the movie plot which can help them in recharging their energy. It also allows people to strengthen their relationship with friends and family. For example, so many couples and family go to the cinema at the weekend as a form of spending quality time with their beloved ones. I believe that sharing similar interest and doing activities together with family and friends can bring joy and happiness among society. Another example is teenagers may have different interest and knowledge regarding so many things with their parents. Thus, watching the same movie together can solve this generation gap issue and allow teenagers to share common movie-related topics with their parents.",
+        "Second, watching movies is also the most effective way to learn new languages. For example, there are so many Indonesian teenagers who can speak fluently since they watch Korean dramas. I am certain that this method is more effective than in-class learning. It makes people learn new languages unconsciously.",
+        "In conclusion, watching movies has several benefits, namely it can refresh our mind, make us closer to our friends and families, and allow us to learn new language effectively. I believe its benefits outweigh the drawbacks, so this activity cannot be considered as a waste of time."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "is",
+                "start_idx": 126,
+                "end_idx": 128,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "have been",
+                    "are being"
+                ]
+            },
+            {
+                "word": "people learn",
+                "start_idx": 1309,
+                "end_idx": 1321,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "people, learn"
+                ]
+            },
+            {
+                "word": "new language",
+                "start_idx": 1502,
+                "end_idx": 1514,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a new language"
+                ]
+            }
+        ]
+    },
+    "submitter": "mega.watty1994",
+    "num_words": 271,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "second",
+            "for example",
+            "also",
+            "however",
+            "this",
+            "to begin",
+            "thus"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2019-07-08T05:58:48.000Z"
+}

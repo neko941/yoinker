@@ -1,0 +1,152 @@
+{
+    "url": "https://writing9.com/text/5e05e24ebfa196001177f86a",
+    "file": [
+        "data",
+        "7",
+        "5e05e24ebfa196001177f86a.json"
+    ],
+    "topics": [
+        "internet",
+        "access",
+        "information"
+    ],
+    "question": "The internet has greatly increased our access to information. To what extent do you think this is a good thing?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nYou should write at least 250 words.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "These days, whether an increase in information provided by the Internet is beneficial for humankind or not has sparked a heated debate. Although such issue is contested by many, it is regarded thoroughly both constructive and positive by a substantial number of individuals. As such, there are both merits and demerits to this trend, but I am of the opinion that the former outdo the latter.",
+        "Firstly, the Internet plays an important role in education. Particularly, the Internet helps people to access more articles and journals in a faster way. For example, in the past, most students need to spend long hours in the library to research, find a book and collect the information that they want for their essay. In contrast, in modern days, students can stay home and find all the information that they want in a faster way by using the Internet. Moreover, the Internet provides various ways for people to learn new skills and knowledge. In detailed, these days, it is not necessary for people to go to university to obtain new knowledge. For instance, people who are busy with working can still study online to achieve higher qualification such as MBA degree for their further career.",
+        "Secondly, the Internet is a key factor in spreading the information and connecting the world. Specifically, due to far geographical distance, people are unable to attend in important events such as World Cup or Sea Games. However, with the advent of the Internet, people can watch it by using online streaming. Similarly, with international corporations such as Hilton, Accor, it is common for them to have an international meeting. In this case, the Internet help people to organise the meeting online without travelling to one particular location.",
+        "In conclusion, the benefits of the Internet are too great to ignore. Internet is an important tool not only in education but also in communication."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "higher qualification",
+                "start_idx": 1118,
+                "end_idx": 1138,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "higher qualifications"
+                ]
+            },
+            {
+                "word": "MBA degree",
+                "start_idx": 1147,
+                "end_idx": 1157,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an MBA degree",
+                    "the MBA degree"
+                ]
+            },
+            {
+                "word": "World Cup",
+                "start_idx": 1382,
+                "end_idx": 1391,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the World Cup"
+                ]
+            },
+            {
+                "word": "Internet",
+                "start_idx": 1803,
+                "end_idx": 1811,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "The internet"
+                ]
+            },
+            {
+                "word": "education but",
+                "start_idx": 1845,
+                "end_idx": 1858,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "education, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 313,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "13",
+        "list_linking_words": [
+            "for example",
+            "although",
+            "in contrast",
+            "further",
+            "also",
+            "secondly",
+            "however",
+            "such",
+            "this",
+            "moreover",
+            "similarly",
+            "firstly",
+            "for instance"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 35,
+                        "end_idx": 46
+                    },
+                    {
+                        "start_idx": 667,
+                        "end_idx": 678
+                    },
+                    {
+                        "start_idx": 780,
+                        "end_idx": 791
+                    },
+                    {
+                        "start_idx": 1241,
+                        "end_idx": 1252
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-12-27T10:51:58.862Z"
+}
