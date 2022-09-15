@@ -1,0 +1,131 @@
+{
+    "url": "https://writing9.com/text/5e4b9acf1738c2001810569a",
+    "file": [
+        "data",
+        "7",
+        "5e4b9acf1738c2001810569a.json"
+    ],
+    "topics": [
+        "people",
+        "trend",
+        "travel",
+        "distance",
+        "reason"
+    ],
+    "question": "People trend to travel longer distance nowadays than in the past. What are reason for this? Is this a positive or negative trend?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is believed that travelling has become a major trend in this century and people are extending their route of destinations longer. This positive trend and several factors will be examined in this following essay.",
+        "Numerous studies have consistently found that there are various reasons why travellers extending their destinations longer distances. Firstly, travellers intensively due to the existence of low-cost airlines. It is a fact that airline companies such as Air Asia or Nok Air are providing economy and affordable ticket price, people who have limited the budget can purchase to faraway countries such as Japan or Korea. Secondly, there is no boundary of the world due to the internet and social media, the wide ranges of journeys from the bloggers inspire people to get a chance and discover the world. For instance, they are going to Iceland to search for northern light and walking on the black sand beach or trekking to the Everest base camp in Nepal. Lastly, nowadays, people earn more money from their jobs. Some of them have part-time jobs on the weekend. As a result, they received a lot of money and paid for their dream destinations easier.",
+        "In my opinion, this positive trend effect impact directly on the new generation. This leads to many youngsters to get out of their comfort zones and gain the new experience from other continents, learning other rich cultures and adapting to their life. Furthermore, they can get money from their valuable experiences. For example, they can create a YouTube channel to show their trips and earn money from view count.",
+        "To sum up, there are various reasons why people travel longer distances and this becomes a positive trend, especially for the new generation who will lead the future."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "intensively",
+                "start_idx": 368,
+                "end_idx": 379,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "intensified",
+                    "intensifying"
+                ]
+            }
+        ]
+    },
+    "submitter": "i.pattarakan",
+    "num_words": 291,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "secondly",
+            "this",
+            "firstly",
+            "such",
+            "furthermore",
+            "as a result",
+            "lastly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "trend",
+                "occurrences": [
+                    {
+                        "start_idx": 50,
+                        "end_idx": 55
+                    },
+                    {
+                        "start_idx": 147,
+                        "end_idx": 152
+                    },
+                    {
+                        "start_idx": 1191,
+                        "end_idx": 1196
+                    },
+                    {
+                        "start_idx": 1679,
+                        "end_idx": 1684
+                    }
+                ]
+            },
+            {
+                "word": "money",
+                "occurrences": [
+                    {
+                        "start_idx": 1002,
+                        "end_idx": 1007
+                    },
+                    {
+                        "start_idx": 1110,
+                        "end_idx": 1115
+                    },
+                    {
+                        "start_idx": 1441,
+                        "end_idx": 1446
+                    },
+                    {
+                        "start_idx": 1556,
+                        "end_idx": 1561
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-18T08:05:35.138Z"
+}

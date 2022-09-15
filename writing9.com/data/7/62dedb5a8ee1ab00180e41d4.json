@@ -1,0 +1,127 @@
+{
+    "url": "https://writing9.com/text/62dedb5a8ee1ab00180e41d4-people-in-many-countries-are-spending-less-time-with-their",
+    "file": [
+        "data",
+        "7",
+        "62dedb5a8ee1ab00180e41d4.json"
+    ],
+    "topics": [
+        "people",
+        "countries",
+        "time",
+        "effects"
+    ],
+    "question": "People in many countries are spending less time with their family. What are the reasons, and effects of this?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many people are of the opinion that these days humans rather be outside than stay with their families. There are many reasons leading for this phenomenon, thereby leading to significant consequences, both in society and the family members.",
+        "There are compelling reasons why family time is on the decline. People spend more time at work than with their loved ones because of the money that they can earn to make a living and while others work hard to climb the corporate ladder. As a result, they struggle for time to bond properly with their spouse and offspring. Another driving factor that results in insufficient time for family is that they want to hang out with their friends. This is mainly because being with a partner or children usually involves household chores while humans tend to do fun activities such as doing their hobbies, socializing, and relaxing. With the development of technology, young people are overly addicted to digital devices such as mobile phones or tablets and consequently become disconnected from their families. Most teenagers, for example, spend countless hours texting their friends on social media rather than engaging in conversation with their parents.",
+        "This growing trend phenomenon will do harm to family relationships. With the absence of family time will culminate in the distance between family members, which leads to misunderstandings, conflicts and even divorces in the family circle. On the societal level, the deterioration of family relations can contribute to various problems. For instance, if parents spend more time working than being with  their children and teaching them right from wrong, they will lack education or information about the world, and this result in misbehaviour due to the manipulation of the toxic influences. In the worst-case scenario, they will commit a crime or become addicted to drugs. This will culminate in the proliferation of criminals in the country.",
+        "In conclusion, missing time with family is a big issue that affects a lot of aspects."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "for",
+                "start_idx": 133,
+                "end_idx": 136,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1759,
+                "end_idx": 1763,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "myngoc3003",
+    "num_words": 325,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "consequently",
+            "for instance",
+            "for example",
+            "this",
+            "such",
+            "as a result"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 280,
+                        "end_idx": 284
+                    },
+                    {
+                        "start_idx": 322,
+                        "end_idx": 326
+                    },
+                    {
+                        "start_idx": 508,
+                        "end_idx": 512
+                    },
+                    {
+                        "start_idx": 615,
+                        "end_idx": 619
+                    },
+                    {
+                        "start_idx": 1286,
+                        "end_idx": 1290
+                    },
+                    {
+                        "start_idx": 1563,
+                        "end_idx": 1567
+                    },
+                    {
+                        "start_idx": 1957,
+                        "end_idx": 1961
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-25T18:38:32.607Z"
+}

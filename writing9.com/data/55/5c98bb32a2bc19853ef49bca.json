@@ -1,0 +1,318 @@
+{
+    "url": "https://writing9.com/text/5c98bb32a2bc19853ef49bca",
+    "file": [
+        "data",
+        "55",
+        "5c98bb32a2bc19853ef49bca.json"
+    ],
+    "topics": [
+        "price",
+        "petrol",
+        "traffic",
+        "pollution"
+    ],
+    "question": "Increasing the price of petrol is the best way to solve growing traffic and pollution problems.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Traffic congestion and pollution have become global issues. However, it is possible to control these problems by escalating the cost of fuel. I totally agree with this because economy is a factor which influence the most in many situations",
+        "There are many benefits of raising rates of petrol. Firstly, due to high rates nobody will want to buy private cars. People will use local transport  for long distance such as buses ,trains, ship or air planes, and  short distance will be covered by bicycle. This will help a lot in declining traffic burden, daily accidents and noise pollution. Occurrence of accident will decrease ,due to high prices less automobiles will be on road and there will be easy for government to control accidents and mishaps on roads.",
+        "Secondly, contamination of environment with impurities will be minimized by setting up high prices of vehicle oils. Due to use of less fuel ,the emission of carbon monoxide will be reduced. Environment Defence Fund estimates that on-road vehicles are the cause of one-third of the air pollution. Therefore, we have to take few steps to combat this, otherwise, we will pay huge amount. Everyday approximately 200 tons of impurities in just 12 square meter is noted. Number of patient of respiratory track has increased due to uncontrolled gases emitted from road vehicles.",
+        "To conclude, it is recommended that government should rise the price of fuel to get rid of all problems caused by traffic and there must be proper rules and regulation regarding number of cars and pollution on road"
+    ],
+    "errors": {
+        "num_error": "22",
+        "error_list": [
+            {
+                "word": "e",
+                "start_idx": 175,
+                "end_idx": 176,
+                "error": "Add an article",
+                "error_des": "The noun phrase economy seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "influence",
+                "start_idx": 201,
+                "end_idx": 210,
+                "error": "Change the verb form",
+                "error_des": "The plural verb influence does not appear to agree with the singular subject a factor. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "influences"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 263,
+                "end_idx": 265,
+                "error": "Verify preposition usage",
+                "error_des": "It appears that the preposition of may be incorrect in this context. Consider changing it.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "h",
+                "start_idx": 307,
+                "end_idx": 308,
+                "error": "Add an article",
+                "error_des": "It appears that an article is missing before the word high. Consider adding the article.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 318,
+                "end_idx": 319,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase due to high rates. Consider adding a comma.",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "long distance",
+                "start_idx": 393,
+                "end_idx": 406,
+                "error": "Add a hyphen",
+                "error_des": "It appears that long distance is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "long-distance"
+                ]
+            },
+            {
+                "word": "air planes",
+                "start_idx": 438,
+                "end_idx": 448,
+                "error": "Correct your spelling",
+                "error_des": "The word air planes seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "aeroplanes"
+                ]
+            },
+            {
+                "word": "Occurrence",
+                "start_idx": 585,
+                "end_idx": 595,
+                "error": "Add an article",
+                "error_des": "The noun phrase Occurrence seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "The occurrence"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 599,
+                "end_idx": 600,
+                "error": "Add an article",
+                "error_des": "The noun phrase accident seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the",
+                    "an"
+                ]
+            },
+            {
+                "word": "less",
+                "start_idx": 642,
+                "end_idx": 646,
+                "error": "Change the quantifier",
+                "error_des": "It appears that the quantifier less does not fit with the countable noun automobiles. Consider changing the quantifier or the noun.",
+                "suggetions": [
+                    "fewer"
+                ]
+            },
+            {
+                "word": "on road",
+                "start_idx": 667,
+                "end_idx": 674,
+                "error": "Add a hyphen",
+                "error_des": "It appears that on road is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "on-road"
+                ]
+            },
+            {
+                "word": "g",
+                "start_idx": 702,
+                "end_idx": 703,
+                "error": "Add an article",
+                "error_des": "The noun phrase government seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "e",
+                "start_idx": 783,
+                "end_idx": 784,
+                "error": "Add an article",
+                "error_des": "The noun phrase environment seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "u",
+                "start_idx": 879,
+                "end_idx": 880,
+                "error": "Add an article",
+                "error_des": "It appears that an article is missing before the word use. Consider adding the article.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "f",
+                "start_idx": 1079,
+                "end_idx": 1080,
+                "error": "Add an article",
+                "error_des": "It appears that an article is missing before the word few. Consider adding the article.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "h",
+                "start_idx": 1128,
+                "end_idx": 1129,
+                "error": "Add an article",
+                "error_des": "The noun phrase huge amount seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "Everyday",
+                "start_idx": 1141,
+                "end_idx": 1149,
+                "error": "Replace the word",
+                "error_des": "The word Everyday may be used incorrectly. Review the following notes to determine the appropriate usage for your context.",
+                "suggetions": [
+                    "Every day"
+                ]
+            },
+            {
+                "word": "Number",
+                "start_idx": 1221,
+                "end_idx": 1227,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase Number does not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "The number"
+                ]
+            },
+            {
+                "word": "r",
+                "start_idx": 1242,
+                "end_idx": 1243,
+                "error": "Add an article",
+                "error_des": "The noun phrase respiratory track seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "rise",
+                "start_idx": 1382,
+                "end_idx": 1386,
+                "error": "Correct your spelling",
+                "error_des": "The word rise doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "raise"
+                ]
+            },
+            {
+                "word": "n",
+                "start_idx": 1506,
+                "end_idx": 1507,
+                "error": "Add an article",
+                "error_des": "The noun phrase number seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "r",
+                "start_idx": 1538,
+                "end_idx": 1539,
+                "error": "Add an article",
+                "error_des": "The noun phrase road seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "madihaawan1010",
+    "num_words": 257,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "third",
+            "otherwise",
+            "secondly",
+            "this",
+            "however",
+            "firstly",
+            "such",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "pollution",
+                "occurrences": [
+                    {
+                        "start_idx": 23,
+                        "end_idx": 32
+                    },
+                    {
+                        "start_idx": 575,
+                        "end_idx": 584
+                    },
+                    {
+                        "start_idx": 1042,
+                        "end_idx": 1051
+                    },
+                    {
+                        "start_idx": 1526,
+                        "end_idx": 1535
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-25T11:27:46.000Z"
+}

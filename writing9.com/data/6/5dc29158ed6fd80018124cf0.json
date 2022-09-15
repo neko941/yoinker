@@ -1,0 +1,128 @@
+{
+    "url": "https://writing9.com/text/5dc29158ed6fd80018124cf0",
+    "file": [
+        "data",
+        "6",
+        "5dc29158ed6fd80018124cf0.json"
+    ],
+    "topics": [
+        "cities",
+        "video",
+        "cameras",
+        "places",
+        "crime",
+        "people",
+        "measures",
+        "freedom",
+        "security"
+    ],
+    "question": "In many cities the use of video cameras in public places is being increased in order to reduce crime, but some people believe that these measures restrict our individual freedom.Do the benefits of increased security outweigh the drawbacks?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that video surveillance has become commonplace in many cities in recent years. While I understand that criticsmay see this as an invasion of privacy, I believe that the benefits do outweigh the drawbacks.",
+        "There are two main reasons why people might disapprove of the use of video cameras in public places. The first objection is that these cameras invade our privacy, in the sense that we are constantly being watched by the authorities or by private security firms. Many people find this intrusive and feel that the recording of their movements is a form of state control that curtails their individual freedom. The second argument against the proliferation of CCTV cameras is that they are being used as an alternative to police officers patrolling the streets. If this is indeed happening, then it is unlikely that members of the public will feel safer.",
+        "In spite of the drawbacks mentioned above, I believe that the use of video cameras to monitor public areas is a positive measure. The key objective of video surveillance is to deter criminals and to prevent crime. For example, petty criminals like shoplifters and pickpockets are less likely to operate in parts of cities where they know that they are being watched. At the same time, when crimes are committed, the police can use video evidence to catch and prosecute offenders. Therefore, in my view, video cameras offer valuable support to police officers, and they make cities safer for inhabitants, workers and visitors alike.",
+        "In conclusion, it seems to me that we gain more than we lose from the enhanced security that CCTV cameras bring to our cities."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "criticsmay",
+                "start_idx": 113,
+                "end_idx": 123,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "critics may"
+                ]
+            },
+            {
+                "word": "cities",
+                "start_idx": 1618,
+                "end_idx": 1624,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "city"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 274,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "second",
+            "for example",
+            "first",
+            "then",
+            "this",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "video",
+                "occurrences": [
+                    {
+                        "start_idx": 16,
+                        "end_idx": 21
+                    },
+                    {
+                        "start_idx": 285,
+                        "end_idx": 290
+                    },
+                    {
+                        "start_idx": 937,
+                        "end_idx": 942
+                    },
+                    {
+                        "start_idx": 1019,
+                        "end_idx": 1024
+                    },
+                    {
+                        "start_idx": 1299,
+                        "end_idx": 1304
+                    },
+                    {
+                        "start_idx": 1371,
+                        "end_idx": 1376
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-06T09:24:40.834Z"
+}

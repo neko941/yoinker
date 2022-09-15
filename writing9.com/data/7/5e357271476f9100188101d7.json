@@ -1,0 +1,183 @@
+{
+    "url": "https://writing9.com/text/5e357271476f9100188101d7",
+    "file": [
+        "data",
+        "7",
+        "5e357271476f9100188101d7.json"
+    ],
+    "topics": [
+        "tourism",
+        "people",
+        "demand",
+        "flights",
+        "environment",
+        "measures"
+    ],
+    "question": "As a result of tourism and the increasing number of people\ntravelling there is an growing demand for more flights.\nwhat problems does this have on the environment?\nwhat measures could be taken to solve the problems?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Owing to the increased activities of tourists and having quite a large number of persons travelling for different reasons, there is a spike in the need for adequate means of air transportation. This is problematic because hydrocarbon fuels cause global warming. To solve this problem, electrically powered planes ought to be introduced to mitigate such problems.",
+        "To begin with, the major problem of having more flights running on fossill fuels is air pollution. For instance, aeroplanes fueled by methane emit carbon mono-oxide, which tears down the ozone layer that protects the earth from the direct impact of the sun on human skin.  Because of this, our planet will become warmer, and the harsh environment will tend to destroy many habitats of some living organisms. Therefore, controlling the kind of fuels used to fly aeroplanes will help to reduce the negative effect of warming such emissions can cause.",
+        "In other to solve this problem, it seems pertinent to manufacture more electric aircrafts. For instance, the German AK-15 aeroplanes do not emit any unwanted gas, and if this is produced in mass quantity, it will save the world's global warming by 95 percent, according to a recent study. This is because such method of air transportation, which uses electric power is usually designed fully with electric components. However, this method seems to be beneficial to the world, especially as we tend towards green energy.",
+        "In conclusion, the gradual increase in tours around the world by means of travelling via air has profound impact on the environment. The use of hydrocarbon aviation fuels seem to cause more harm to the environment because it depletes the ozone layer, and makes the world warmer thereby destroying the habitat of many living organisms. The best solution seems to be the usage of alternative energy source like electricity to fly such planes, thereby conserving the environment in a friendly manner."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "electrically",
+                "start_idx": 284,
+                "end_idx": 296,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "electric"
+                ]
+            },
+            {
+                "word": "fossill",
+                "start_idx": 429,
+                "end_idx": 436,
+                "error": "characteristic of a fossil",
+                "error_des": "",
+                "suggetions": [
+                    "fossil"
+                ]
+            },
+            {
+                "word": "fueled",
+                "start_idx": 486,
+                "end_idx": 492,
+                "error": "heated, driven, or produced by burning fuel",
+                "error_des": "",
+                "suggetions": [
+                    "fuelled"
+                ]
+            },
+            {
+                "word": "seem",
+                "start_idx": 1602,
+                "end_idx": 1606,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "seems"
+                ]
+            }
+        ]
+    },
+    "submitter": "ayodelesam.adebisi",
+    "num_words": 313,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for instance",
+            "to begin",
+            "this",
+            "such",
+            "however",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "world",
+                "occurrences": [
+                    {
+                        "start_idx": 1134,
+                        "end_idx": 1139
+                    },
+                    {
+                        "start_idx": 1381,
+                        "end_idx": 1386
+                    },
+                    {
+                        "start_idx": 1488,
+                        "end_idx": 1493
+                    },
+                    {
+                        "start_idx": 1697,
+                        "end_idx": 1702
+                    }
+                ]
+            },
+            {
+                "word": "environment",
+                "occurrences": [
+                    {
+                        "start_idx": 698,
+                        "end_idx": 709
+                    },
+                    {
+                        "start_idx": 1552,
+                        "end_idx": 1563
+                    },
+                    {
+                        "start_idx": 1634,
+                        "end_idx": 1645
+                    },
+                    {
+                        "start_idx": 1896,
+                        "end_idx": 1907
+                    }
+                ]
+            },
+            {
+                "word": "air",
+                "occurrences": [
+                    {
+                        "start_idx": 174,
+                        "end_idx": 177
+                    },
+                    {
+                        "start_idx": 447,
+                        "end_idx": 450
+                    },
+                    {
+                        "start_idx": 992,
+                        "end_idx": 995
+                    },
+                    {
+                        "start_idx": 1232,
+                        "end_idx": 1235
+                    },
+                    {
+                        "start_idx": 1521,
+                        "end_idx": 1524
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-01T12:43:29.082Z"
+}

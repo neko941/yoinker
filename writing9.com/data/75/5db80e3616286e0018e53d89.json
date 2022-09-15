@@ -1,0 +1,85 @@
+{
+    "url": "https://writing9.com/text/5db80e3616286e0018e53d89-you-are-working-for-a-company-you-need-to-take",
+    "file": [
+        "data",
+        "75",
+        "5db80e3616286e0018e53d89.json"
+    ],
+    "topics": [
+        "company",
+        "time",
+        "work",
+        "manager",
+        "amount"
+    ],
+    "question": "You are working for a company. You need to take some time off work and want to ask your manager about this.\nWrite a letter to your manager. In your letter\n1) explain why you want to take time off work\n2) give details of the amount of time you need\n3) suggest how your work could be covered while you are away",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Niel,",
+        "I am writing this letter to request for some personal days off from work. I have some personal commitments for which I have to travel out of the city for a few days.",
+        "Let me explain my situation in more detail. My sister who has been living in Bangalore is expecting her first child, and she is due for delivery next week. I want to be around her during that time. Therefore, I would need two weeks of leave from 1st November through 13th November.",
+        "Even though all the deliverables have been fulfilled for the project if in case something comes up Sanjay could handle them. I have briefed him regarding all details and shared all relevant codes and data files. Also, if there is an issue I would be available on my mobile.",
+        "Kindly approve my request. I shall be very grateful.",
+        "Yours sincerely,",
+        "Ritika Watsya"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "for ",
+                "start_idx": 46,
+                "end_idx": 50,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 149,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "first",
+            "next",
+            "also",
+            "this",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T17:32:55.657Z"
+}

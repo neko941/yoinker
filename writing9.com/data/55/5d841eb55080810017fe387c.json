@@ -1,0 +1,345 @@
+{
+    "url": "https://writing9.com/text/5d841eb55080810017fe387c-you-have-lost-your-student-identification-card-this-has-created",
+    "file": [
+        "data",
+        "55",
+        "5d841eb55080810017fe387c.json"
+    ],
+    "topics": [
+        "student",
+        "identification",
+        "card",
+        "director",
+        "services",
+        "situation",
+        "request",
+        "addresses"
+    ],
+    "question": "You have lost your student identification card. This has created some problems for you.\n\nWrite a letter to the director of student services. In your letter\n\nadvise them of your situation\nexplain how this is affecting you\nrequest a new card\nYou do NOT need to write any addresses. Begin your letter as follows:\n\nDear\n\n\nYou should write at least 150 words.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 5.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "My name is Madhuri. I am studying second year Computer Science subject in your college. I am writing this letter to appeal for new student ID card as I have lost my Identity card in college premises on Friday when I came to an attend extra class. I have been searching from two days and I am not able to find it.",
+        "I am very unahppy and depressed about loosing the ID card as it is one of the paramount rules of our college to bring the student card along with them.  Besides, I have been facing many problems lately. I am afraid I cannot borrow the books from the university library without my student ID card as my  exams are coming in 2 weeks. It will be a terrible problem for me if I I did not attend the exams. Furthermore, I also requested our university transport services office about my problem as the transport in charge didnot allowed me to broad our college bus and I was unaware that students can not travel unless they have the student proof.",
+        "And same with the computer department. I appreciate if you can approve a new student Identification card so that it will be beneficial for me to prepare for my exams as well as to use the university student services. I have filled in and attached the New ID request form walong with this letter. I hope to get my new ID as soon as possible.",
+        "Yours faithfully,",
+        "Madhuri"
+    ],
+    "errors": {
+        "num_error": "16",
+        "error_list": [
+            {
+                "word": "second year",
+                "start_idx": 49,
+                "end_idx": 60,
+                "error": "Add a hyphen",
+                "error_des": "It appears that second year is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "second-year"
+                ]
+            },
+            {
+                "word": "new",
+                "start_idx": 142,
+                "end_idx": 145,
+                "error": "Add an article",
+                "error_des": "The noun phrase new student ID card seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a new"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 194,
+                "end_idx": 196,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "college",
+                "start_idx": 197,
+                "end_idx": 204,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the college"
+                ]
+            },
+            {
+                "word": "an ",
+                "start_idx": 239,
+                "end_idx": 242,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 284,
+                "end_idx": 288,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "unahppy",
+                "start_idx": 338,
+                "end_idx": 345,
+                "error": "Correct your spelling",
+                "error_des": "The word unahppy is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "unhappy"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 366,
+                "end_idx": 366,
+                "error": "Replace the word",
+                "error_des": "The word loosing may be used incorrectly. Review the following notes to determine the appropriate usage for your context.",
+                "suggetions": [
+                    "losing"
+                ]
+            },
+            {
+                "word": "loosing",
+                "start_idx": 366,
+                "end_idx": 373,
+                "error": "Correct your spelling",
+                "error_des": "The word loosing doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "losing"
+                ]
+            },
+            {
+                "word": "I ",
+                "start_idx": 700,
+                "end_idx": 702,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "in charge",
+                "start_idx": 835,
+                "end_idx": 844,
+                "error": "Add a hyphen",
+                "error_des": "It appears that in charge is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "in-charge"
+                ]
+            },
+            {
+                "word": "didnot",
+                "start_idx": 845,
+                "end_idx": 851,
+                "error": "Correct your spelling",
+                "error_des": "The word didnot is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "did not"
+                ]
+            },
+            {
+                "word": "broad",
+                "start_idx": 866,
+                "end_idx": 871,
+                "error": "Correct your spelling",
+                "error_des": "The word broad doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "board"
+                ]
+            },
+            {
+                "word": "same",
+                "start_idx": 975,
+                "end_idx": 979,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the same"
+                ]
+            },
+            {
+                "word": "if",
+                "start_idx": 1023,
+                "end_idx": 1025,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "it if"
+                ]
+            },
+            {
+                "word": "walong",
+                "start_idx": 1242,
+                "end_idx": 1248,
+                "error": "Correct your spelling",
+                "error_des": "The word walong is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "along"
+                ]
+            }
+        ]
+    },
+    "submitter": "salesforcemadhuri",
+    "num_words": 251,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "this",
+            "furthermore",
+            "besides",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "card",
+                "occurrences": [
+                    {
+                        "start_idx": 158,
+                        "end_idx": 162
+                    },
+                    {
+                        "start_idx": 190,
+                        "end_idx": 194
+                    },
+                    {
+                        "start_idx": 382,
+                        "end_idx": 386
+                    },
+                    {
+                        "start_idx": 459,
+                        "end_idx": 463
+                    },
+                    {
+                        "start_idx": 620,
+                        "end_idx": 624
+                    },
+                    {
+                        "start_idx": 1072,
+                        "end_idx": 1076
+                    }
+                ]
+            },
+            {
+                "word": "id",
+                "occurrences": [
+                    {
+                        "start_idx": 220,
+                        "end_idx": 222
+                    },
+                    {
+                        "start_idx": 485,
+                        "end_idx": 487
+                    },
+                    {
+                        "start_idx": 541,
+                        "end_idx": 543
+                    },
+                    {
+                        "start_idx": 706,
+                        "end_idx": 708
+                    },
+                    {
+                        "start_idx": 847,
+                        "end_idx": 849
+                    }
+                ]
+            },
+            {
+                "word": "student",
+                "occurrences": [
+                    {
+                        "start_idx": 147,
+                        "end_idx": 154
+                    },
+                    {
+                        "start_idx": 451,
+                        "end_idx": 458
+                    },
+                    {
+                        "start_idx": 609,
+                        "end_idx": 616
+                    },
+                    {
+                        "start_idx": 912,
+                        "end_idx": 919
+                    },
+                    {
+                        "start_idx": 957,
+                        "end_idx": 964
+                    },
+                    {
+                        "start_idx": 1049,
+                        "end_idx": 1056
+                    },
+                    {
+                        "start_idx": 1171,
+                        "end_idx": 1178
+                    }
+                ]
+            },
+            {
+                "word": "college",
+                "occurrences": [
+                    {
+                        "start_idx": 95,
+                        "end_idx": 102
+                    },
+                    {
+                        "start_idx": 198,
+                        "end_idx": 205
+                    },
+                    {
+                        "start_idx": 430,
+                        "end_idx": 437
+                    },
+                    {
+                        "start_idx": 877,
+                        "end_idx": 884
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T16:53:07.106Z"
+}

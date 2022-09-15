@@ -1,0 +1,161 @@
+{
+    "url": "https://writing9.com/text/5c9eefdf25d89029fd149b8f",
+    "file": [
+        "data",
+        "55",
+        "5c9eefdf25d89029fd149b8f.json"
+    ],
+    "topics": [
+        "machines",
+        "robots",
+        "place",
+        "beings"
+    ],
+    "question": "Intelligent machines such as robots are widely applied to take the place of human beings. Please discuss the advantages and disadvantages.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The technology of intelligent machines improves amazingly with the help of artificial intelligence. Robots, known as steel-collar workers, are widely employed in different aspects, such as marine research, space exploration and some modern assembly lines. Robots bring about advantages undoubtedly, and meanwhile, they are not as versatile as expected.",
+        "The advantages of robots are innumerable. The employment of robots on assembly lines saves a lot of labor forces. Robots are widely used in developed countries. In Japan, one out of ten thousand workers are robots, which not only improve the working efficiency, but also enhance accuracy. That is the reason why robots are so popular in automobile industry and electronic production line.",
+        "Another merit is that robots can take the place of human beings and work in the dangerous environment or the places not accessible for us. Human beings have extended their cognition to the outer space, where there are considerable unpredictable dangers. Robots can work in any kind of situation, no matter how awful the environment is. In hospital, robots work as professional doctors doing operation on the patients. Furthermore, robots can work around the clock, never knowing what tiredness is.",
+        "However, the disadvantages of robots are undeniable. Firstly, all the robots and other intelligent machines are designed by human beings. What robots do is follow the instruction and pre-set programming by human beings. If there is something wrong with the electric circuit or programs, robots will become good-for-nothing machines. Besides, robots cannot work creatively when confronted with complicated situation.",
+        "In short, robots are subsidiary to human beings. However competent they are in various kinds of field, robots will never take the place of human beings and play a decisive role in our work and life."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "labor forces",
+                "start_idx": 452,
+                "end_idx": 464,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the labour force",
+                    "labour forces",
+                    "labour force",
+                    "labor force"
+                ]
+            },
+            {
+                "word": "automobile industry",
+                "start_idx": 689,
+                "end_idx": 708,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the automobile industry"
+                ]
+            },
+            {
+                "word": "doing",
+                "start_idx": 1126,
+                "end_idx": 1131,
+                "error": "the act that results in something coming to be",
+                "error_des": "",
+                "suggetions": [
+                    "making"
+                ]
+            },
+            {
+                "word": "complicated situation",
+                "start_idx": 1632,
+                "end_idx": 1653,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "complicated situations",
+                    "a complicated situation"
+                ]
+            }
+        ]
+    },
+    "submitter": "huynhnguyentrucmai",
+    "num_words": 287,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "that is",
+            "besides",
+            "also",
+            "such",
+            "however",
+            "firstly",
+            "furthermore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 130,
+                        "end_idx": 134
+                    },
+                    {
+                        "start_idx": 548,
+                        "end_idx": 552
+                    },
+                    {
+                        "start_idx": 595,
+                        "end_idx": 599
+                    },
+                    {
+                        "start_idx": 810,
+                        "end_idx": 814
+                    },
+                    {
+                        "start_idx": 1007,
+                        "end_idx": 1011
+                    },
+                    {
+                        "start_idx": 1098,
+                        "end_idx": 1102
+                    },
+                    {
+                        "start_idx": 1184,
+                        "end_idx": 1188
+                    },
+                    {
+                        "start_idx": 1596,
+                        "end_idx": 1600
+                    },
+                    {
+                        "start_idx": 1840,
+                        "end_idx": 1844
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-30T04:26:07.000Z"
+}

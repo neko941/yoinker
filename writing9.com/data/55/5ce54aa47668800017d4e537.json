@@ -1,0 +1,155 @@
+{
+    "url": "https://writing9.com/text/5ce54aa47668800017d4e537",
+    "file": [
+        "data",
+        "55",
+        "5ce54aa47668800017d4e537.json"
+    ],
+    "topics": [
+        "children",
+        "countries",
+        "effects"
+    ],
+    "question": "More children in developed countries are becoming overweight. This is a serious problem for wealthy countries.\n\nDiscuss some causes and effects of this problem. Give reasons for your answer and include any relevant examples from your own knowledge or experience",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The number of overweight children has increased tremendously within developed nations. This is an extremely serious problem which is caused by a number of factors such as poor diet and affects both the children and the society.",
+        "One of the causes of overweight among children is poor diet. Children are exposed to unhealthy processed food such as fast foods which mainly contain sugar, fat and salt. Research has proven that consuming these foods tend to increase appetite which leads to overeating and overeating is directly linked to overweight. Another cause of overweight problem among children is the lack of physical exercise. Physical exercise is very important as it enables children to transform calories from food into useful energy. This is very essential because without it the calories from food will be stored as fat within",
+        "the body which will eventually lead to overweight.",
+        "There are several effects as a result of children of overweight. Firstly, children overweight can lead to slow brain development as a result of lack of proper nutrients that facilitate growth. This is a problem because such children will be unable to fully participate in their classes which can lead to isolation. In addition, children overweight can lead to low energy levels and low self-esteem. Moreover, another effect of overweight if not tackled often leads to obesity. Obesity is linked to various diseases such as diabetes, high blood pressure and high cholesterol which can cause irreversible damage in a child\u2019s life.",
+        "In conclusion, children overweight is a serious problem that can lead to low energy levels, poor selfesteem and various health diseases if it is not solved."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "the",
+                "start_idx": 836,
+                "end_idx": 839,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "The"
+                ]
+            },
+            {
+                "word": "children overweight",
+                "start_idx": 961,
+                "end_idx": 980,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "children, overweight"
+                ]
+            },
+            {
+                "word": "children overweight",
+                "start_idx": 1215,
+                "end_idx": 1234,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "children, overweight"
+                ]
+            },
+            {
+                "word": "cholesterol which",
+                "start_idx": 1449,
+                "end_idx": 1466,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "cholesterol, which"
+                ]
+            },
+            {
+                "word": "children overweight",
+                "start_idx": 1531,
+                "end_idx": 1550,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "children, overweight"
+                ]
+            },
+            {
+                "word": "selfesteem",
+                "start_idx": 1613,
+                "end_idx": 1623,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "self esteem"
+                ]
+            }
+        ]
+    },
+    "submitter": "ntake98",
+    "num_words": 270,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "this",
+            "firstly",
+            "such",
+            "moreover",
+            "in addition",
+            "as a result"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "problem",
+                "occurrences": [
+                    {
+                        "start_idx": 116,
+                        "end_idx": 123
+                    },
+                    {
+                        "start_idx": 575,
+                        "end_idx": 582
+                    },
+                    {
+                        "start_idx": 1091,
+                        "end_idx": 1098
+                    },
+                    {
+                        "start_idx": 1565,
+                        "end_idx": 1572
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-22T13:12:04.000Z"
+}

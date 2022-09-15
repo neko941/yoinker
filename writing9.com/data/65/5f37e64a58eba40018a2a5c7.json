@@ -1,0 +1,122 @@
+{
+    "url": "https://writing9.com/text/5f37e64a58eba40018a2a5c7",
+    "file": [
+        "data",
+        "65",
+        "5f37e64a58eba40018a2a5c7.json"
+    ],
+    "topics": [
+        "people",
+        "brands",
+        "clothes",
+        "car",
+        "items",
+        "trend",
+        "development"
+    ],
+    "question": "More and more people want to buy famous brands of clothes, car and other items. Why is this trend?  Do you think it is a positive or negative development?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In recent years, more people incline to buy products coming from famous labels. This tendency can be associated with the customer assumptions about the high quality of top brands and the ongoing trend among their peers. From my perspective,  I believe that there are more negative impacts than positive ones.",
+        "There are several reasons as to why popular brand names often attract a large number of customers, one of which is from its reputation for high-quality merchandise. Generally, manufacturers of well-known brands predominantly aim their products at affluent shoppers who often set high requirements for the quality of products. As a result, to meet the demands of their potential customers, items produced by famous brands are of outstanding quality and reliability, which unintentionally draw more attention from buyers. Also, there is a common trend among people to purchase items from famous franchises as a means of showing off their prosperity. This increasing matter is because these products are so prohibitively expensive that people without a lucrative career find it quite challenging to own one.",
+        "In my opinion, the dominance of famous brands is highly detrimental as it obliterates healthy competition between companies. For example, the smartphone market is now under the control of the two biggest moguls Apple and Samsung, leaving other small companies and start-ups unable to sell their products on a large scale. Gradually, this monopoly will hinder innovations when the decision about future trends could be on the hands of one or two large corporations. Besides, by continuing to support famous brands, we are giving them too much power that can even pose a serious threat to the control of the government.",
+        "In conclusion, people are indeed becoming more interested in buying items with a well-known name because of the quality of products and the feeling of fitting in. My opinion is that this trend is negative for small companies and society as a whole."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "start-ups",
+                "start_idx": 1377,
+                "end_idx": 1386,
+                "error": "the act of setting in operation",
+                "error_des": "",
+                "suggetions": [
+                    "startups",
+                    "startup"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 1531,
+                "end_idx": 1533,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "Andy",
+    "num_words": 318,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "for example",
+            "besides",
+            "also",
+            "this",
+            "as a result"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "quality",
+                "occurrences": [
+                    {
+                        "start_idx": 157,
+                        "end_idx": 164
+                    },
+                    {
+                        "start_idx": 453,
+                        "end_idx": 460
+                    },
+                    {
+                        "start_idx": 614,
+                        "end_idx": 621
+                    },
+                    {
+                        "start_idx": 749,
+                        "end_idx": 756
+                    },
+                    {
+                        "start_idx": 1844,
+                        "end_idx": 1851
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-08-15T13:42:36.228Z"
+}

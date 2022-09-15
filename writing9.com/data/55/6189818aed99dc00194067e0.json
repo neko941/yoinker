@@ -1,0 +1,296 @@
+{
+    "url": "https://writing9.com/text/6189818aed99dc00194067e0-employers-sometimes-ask-people-applying-for-jobs-for-personal-information",
+    "file": [
+        "data",
+        "55",
+        "6189818aed99dc00194067e0.json"
+    ],
+    "topics": [
+        "employers",
+        "people",
+        "jobs",
+        "information",
+        "hobbies",
+        "interests"
+    ],
+    "question": "Employers sometimes ask people applying for jobs for personal information, such as their hobbies and interests, and whether they are married or single. Some people say that this information may be relevant and useful. Others disagree.\nDiscuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "These days some employers are need to know some personal information from the candidates. For instance, their interesting things and general hobbies. While some believe that these personal information could be highly important, others argue that it is not necessary to get involved in their personal life. I completely agree with the former one, and in this essay I will discuss both sides of the argument.",
+        "People who believe that the personal information such as marital status and other interests of the employees are not important, I totally disagree with them, because when employers do not know any background about their candidates who would be hired in their company, this could be risky for the work sake. One of these risky reasons is that may be the employee is unreliable person.",
+        "In contrast, people who would argue that it is essential to know some personal information about the employees before they getting hired. This may has advantages outweigh the disadvantages. For example, the employers could determine the salaries based on the marital status. Furthermore, being aware of employees interests could improve work progress and the efficiently of the workforce would be evolved. Employers could help employees to improve their habits and interests.",
+        "In conclusion, employers who would not know anything about their workers would have been more in dangerous than the employers who know some basics about their employees. In my point of view, there are no credible alternatives for the employers, except that they should know more about their employers."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "are need",
+                "start_idx": 25,
+                "end_idx": 33,
+                "error": "Change the verb form",
+                "error_des": "It appears that the form of the verb need does not work with are in this sentence.",
+                "suggetions": [
+                    "need"
+                ]
+            },
+            {
+                "word": "these personal ",
+                "start_idx": 173,
+                "end_idx": 188,
+                "error": "Change the determiner",
+                "error_des": "It appears that the plural demonstrative these is modifying the singular noun information. Consider using a singular demonstrative or a plural noun instead.",
+                "suggetions": [
+                    "this personal information"
+                ]
+            },
+            {
+                "word": "essay",
+                "start_idx": 357,
+                "end_idx": 362,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase in this essay. Consider adding a comma.",
+                "suggetions": [
+                    ",essay"
+                ]
+            },
+            {
+                "word": "unreliable",
+                "start_idx": 771,
+                "end_idx": 781,
+                "error": "Add an article",
+                "error_des": "The noun phrase unreliable person seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an unreliable",
+                    "the unreliable"
+                ]
+            },
+            {
+                "word": "who ",
+                "start_idx": 810,
+                "end_idx": 814,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "getting",
+                "start_idx": 913,
+                "end_idx": 920,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb getting. Consider changing it.",
+                "suggetions": [
+                    "get"
+                ]
+            },
+            {
+                "word": "has",
+                "start_idx": 937,
+                "end_idx": 940,
+                "error": "Change the verb form",
+                "error_des": "The verb has after the modal verb may does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "have"
+                ]
+            },
+            {
+                "word": "outweigh",
+                "start_idx": 952,
+                "end_idx": 960,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "that outweigh"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 993,
+                "end_idx": 997,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1023,
+                "end_idx": 1027,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1045,
+                "end_idx": 1049,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "efficiently",
+                "start_idx": 1149,
+                "end_idx": 1160,
+                "error": "Replace the word",
+                "error_des": "The word efficiently doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "efficiency"
+                ]
+            },
+            {
+                "word": "in ",
+                "start_idx": 1360,
+                "end_idx": 1363,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "dangerous",
+                "start_idx": 1363,
+                "end_idx": 1372,
+                "error": "Replace the word",
+                "error_des": "The word dangerous doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "danger"
+                ]
+            }
+        ]
+    },
+    "submitter": "fahdhussien21",
+    "num_words": 251,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "furthermore",
+            "this",
+            "such",
+            "in contrast"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "employers",
+                "occurrences": [
+                    {
+                        "start_idx": 16,
+                        "end_idx": 25
+                    },
+                    {
+                        "start_idx": 578,
+                        "end_idx": 587
+                    },
+                    {
+                        "start_idx": 998,
+                        "end_idx": 1007
+                    },
+                    {
+                        "start_idx": 1282,
+                        "end_idx": 1291
+                    },
+                    {
+                        "start_idx": 1383,
+                        "end_idx": 1392
+                    },
+                    {
+                        "start_idx": 1501,
+                        "end_idx": 1510
+                    },
+                    {
+                        "start_idx": 1558,
+                        "end_idx": 1567
+                    }
+                ]
+            },
+            {
+                "word": "employees",
+                "occurrences": [
+                    {
+                        "start_idx": 506,
+                        "end_idx": 515
+                    },
+                    {
+                        "start_idx": 892,
+                        "end_idx": 901
+                    },
+                    {
+                        "start_idx": 1094,
+                        "end_idx": 1103
+                    },
+                    {
+                        "start_idx": 1218,
+                        "end_idx": 1227
+                    },
+                    {
+                        "start_idx": 1426,
+                        "end_idx": 1435
+                    }
+                ]
+            },
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 57,
+                        "end_idx": 68
+                    },
+                    {
+                        "start_idx": 189,
+                        "end_idx": 200
+                    },
+                    {
+                        "start_idx": 444,
+                        "end_idx": 455
+                    },
+                    {
+                        "start_idx": 870,
+                        "end_idx": 881
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-11-08T19:59:08.656Z"
+}

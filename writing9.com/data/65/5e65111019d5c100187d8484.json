@@ -1,0 +1,155 @@
+{
+    "url": "https://writing9.com/text/5e65111019d5c100187d8484",
+    "file": [
+        "data",
+        "65",
+        "5e65111019d5c100187d8484.json"
+    ],
+    "topics": [
+        "school",
+        "education",
+        "age",
+        "years",
+        "support"
+    ],
+    "question": "Should school education be made compulsory till the age of 18 years? Support your opinion with reasons and examples",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The foundation of a successful life, both socially and economically, is built during school years. In school children not only learn subjects, but also interact with the peer group. This not only builds a knowledge base, but also the ability and confidence to express themselves. For these reasons, I believe school education should be compulsory for every child.",
+        "Educating children on diverse subjects is important to make them informed and better citizens. Learning the history of a country helps them understand the innumerable sacrifices, various individuals made to build their country. For instance, learning South African history helps the young generation understand and recognize how their country is built upon the foundation of sacrifices that won independence but also ended exploitative apartheid system.",
+        "Similarly, a deeper understanding of sciences and mathematics enables them to comprehend the rapidly evolving world of modern technology. This also gives them the power to make calculated decisions in the world of business. Moreover, subjects such as geography increase their understanding of their country\u2019s landscape and its people.",
+        "Researchers have proven that children learn as much from teachers and books as they learn from their peer group. Interaction and discussion with classmates are vital to long-term retention and character building of children. Schools provides a perfect platform for this purpose. For example, research has shown that even in schools in the remotest corners of India, where quality teachers and infrastructure are not available, students\u2019 intelligence quotient is close to those in the capital. This has largely been attributed to social interaction in schools.",
+        "In conclusion, school education plays a major role in the creation of responsible and well-informed citizens. Compulsory school education ensures that every child in the country learns subjects necessary to make informed choices and interacts with his peer group in an intelligent way."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "school children",
+                "start_idx": 101,
+                "end_idx": 116,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "school, children"
+                ]
+            },
+            {
+                "word": "school education",
+                "start_idx": 1727,
+                "end_idx": 1743,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "school, education"
+                ]
+            }
+        ]
+    },
+    "submitter": "sweta.singh0987",
+    "num_words": 300,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "also",
+            "this",
+            "such",
+            "moreover",
+            "similarly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "country",
+                "occurrences": [
+                    {
+                        "start_idx": 485,
+                        "end_idx": 492
+                    },
+                    {
+                        "start_idx": 583,
+                        "end_idx": 590
+                    },
+                    {
+                        "start_idx": 699,
+                        "end_idx": 706
+                    },
+                    {
+                        "start_idx": 1117,
+                        "end_idx": 1124
+                    },
+                    {
+                        "start_idx": 1883,
+                        "end_idx": 1890
+                    }
+                ]
+            },
+            {
+                "word": "school",
+                "occurrences": [
+                    {
+                        "start_idx": 85,
+                        "end_idx": 91
+                    },
+                    {
+                        "start_idx": 102,
+                        "end_idx": 108
+                    },
+                    {
+                        "start_idx": 309,
+                        "end_idx": 315
+                    },
+                    {
+                        "start_idx": 1477,
+                        "end_idx": 1483
+                    },
+                    {
+                        "start_idx": 1704,
+                        "end_idx": 1710
+                    },
+                    {
+                        "start_idx": 1728,
+                        "end_idx": 1734
+                    },
+                    {
+                        "start_idx": 1834,
+                        "end_idx": 1840
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-03-08T15:36:48.081Z"
+}

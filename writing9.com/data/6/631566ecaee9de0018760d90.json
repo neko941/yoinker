@@ -1,0 +1,170 @@
+{
+    "url": "https://writing9.com/text/631566ecaee9de0018760d90-you-recently-did-a-short-cookery-coursethe-cookery-school-has",
+    "file": [
+        "data",
+        "6",
+        "631566ecaee9de0018760d90.json"
+    ],
+    "topics": [
+        "cookery",
+        "course",
+        "school",
+        "feedback",
+        "director",
+        "offer"
+    ],
+    "question": "You recently did a short cookery course.The cookery school has asked for your feedback on this course. Write a letter to the course director at the cookery school. In your letter:\n- describe what you enjoyed about the course\n- say how much cooking you have done since the course\n- suggest another cookery course you'd like the school to offer.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "I am writing to share my feedback on your cookery course which I have attended one month back.",
+        "My name is Aman Malik, and I enrolled for your course on north-indian food. It was one of the best decisions of my life because such a wide variety of dishes were taught in the seven days program. Also, I really enjoyed the practical session where it was also shown that how the use of spices can make a big difference in the taste.",
+        "Earlier, I used to order food from outside, but ever since I completed the course, I am cooking my dinner daily and feel really proud to eat delicious self-cooked food. Moreover, I received so much applause from my friends when I invited them over dinner, and the credit goes to your course.",
+        "When I told my friends about your school, some of them also wanted to join the course. They are, however, looking for a program which teaches south-indian recipes. It would be great if your could curate and offer a course on similar lines as many of my friends would be surely joining it.",
+        "Please let me know whenever you start the new course.",
+        "Yours faithfully,",
+        "Aman Malik"
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "have ",
+                "start_idx": 83,
+                "end_idx": 88,
+                "error": "Unnecessary verb",
+                "error_des": "The verb have appears to be unnecessary here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 151,
+                "end_idx": 154,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "indian",
+                "start_idx": 177,
+                "end_idx": 183,
+                "error": "Change the capitalization",
+                "error_des": "If you do not want indian to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "Indian"
+                ]
+            },
+            {
+                "word": "that ",
+                "start_idx": 379,
+                "end_idx": 384,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "dinner",
+                "start_idx": 694,
+                "end_idx": 700,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for dinner"
+                ]
+            },
+            {
+                "word": "indian",
+                "start_idx": 887,
+                "end_idx": 893,
+                "error": "Change the capitalization",
+                "error_des": "If you do not want indian to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "Indian"
+                ]
+            }
+        ]
+    },
+    "submitter": "amanmalik640",
+    "num_words": 205,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "such",
+            "however",
+            "moreover",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "course",
+                "occurrences": [
+                    {
+                        "start_idx": 69,
+                        "end_idx": 75
+                    },
+                    {
+                        "start_idx": 161,
+                        "end_idx": 167
+                    },
+                    {
+                        "start_idx": 522,
+                        "end_idx": 528
+                    },
+                    {
+                        "start_idx": 731,
+                        "end_idx": 737
+                    },
+                    {
+                        "start_idx": 818,
+                        "end_idx": 824
+                    },
+                    {
+                        "start_idx": 954,
+                        "end_idx": 960
+                    },
+                    {
+                        "start_idx": 1074,
+                        "end_idx": 1080
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-05T03:04:46.607Z"
+}

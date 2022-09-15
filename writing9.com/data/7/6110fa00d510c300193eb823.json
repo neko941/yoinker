@@ -1,0 +1,151 @@
+{
+    "url": "https://writing9.com/text/6110fa00d510c300193eb823-some-people-say-that-advertising-is-extremely-successful-at-persuading",
+    "file": [
+        "data",
+        "7",
+        "6110fa00d510c300193eb823.json"
+    ],
+    "topics": [
+        "people",
+        "attention"
+    ],
+    "question": "Some people say that advertising is extremely successful at persuading us to buy things. Other people think that advertising is so common that we no longer pay attention to it.Discuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Ever since the day of their creation, advertisements have become a standard aspect of marketing. With their persuasive power, they were utilized by many companies and businesses for higher sales. However, many people state that commercials can no longer grab their attention, especially with their common appearances. In my opinion, advertisements still could sway people into buying things.",
+        "One of the most prominent powers of commercials is the amount of information. According to one research by a group of renowned psychologists, humans tend to record the information that they have heard about previously, even if they cannot recall doing so. Because of that, when those people see the products that were advertised, their brains will subconsciously feel a connection to the items, thus motivating them to buy. Other powers, such as raising awareness and building credibility, share the same method for influencing others.",
+        "Despite commercials' various capabilities, none of them is permanent. One of the most important rules for advertising is the speed in which customers' attention is captured. Since people have a slight distaste for advertisements because they see them as fake and unreliable, it is not possible to induce a long-term positive effect about advertised products on the customers. Nevertheless, advertisements can still affect people, and regardless of how oblivious they are, those commercials will still have power over their attention.",
+        "In conclusion, even though advertising is not as omnipotent as some might believe, it is undoubtedly a marketing method that has successfully persuaded people into purchasing things."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 1058,
+                "end_idx": 1060,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            }
+        ]
+    },
+    "submitter": "odukiko",
+    "num_words": 250,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "such",
+            "however",
+            "nevertheless",
+            "thus"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "commercials",
+                "occurrences": [
+                    {
+                        "start_idx": 228,
+                        "end_idx": 239
+                    },
+                    {
+                        "start_idx": 428,
+                        "end_idx": 439
+                    },
+                    {
+                        "start_idx": 936,
+                        "end_idx": 947
+                    },
+                    {
+                        "start_idx": 1406,
+                        "end_idx": 1417
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 210,
+                        "end_idx": 216
+                    },
+                    {
+                        "start_idx": 365,
+                        "end_idx": 371
+                    },
+                    {
+                        "start_idx": 676,
+                        "end_idx": 682
+                    },
+                    {
+                        "start_idx": 1108,
+                        "end_idx": 1114
+                    },
+                    {
+                        "start_idx": 1350,
+                        "end_idx": 1356
+                    },
+                    {
+                        "start_idx": 1614,
+                        "end_idx": 1620
+                    }
+                ]
+            },
+            {
+                "word": "advertisements",
+                "occurrences": [
+                    {
+                        "start_idx": 38,
+                        "end_idx": 52
+                    },
+                    {
+                        "start_idx": 333,
+                        "end_idx": 347
+                    },
+                    {
+                        "start_idx": 1142,
+                        "end_idx": 1156
+                    },
+                    {
+                        "start_idx": 1318,
+                        "end_idx": 1332
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-08-09T09:55:18.046Z"
+}

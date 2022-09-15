@@ -1,0 +1,121 @@
+{
+    "url": "https://writing9.com/text/5d15d39d3e07db00170bccb3",
+    "file": [
+        "data",
+        "65",
+        "5d15d39d3e07db00170bccb3.json"
+    ],
+    "topics": [
+        "companies",
+        "uniforms",
+        "staff",
+        "times"
+    ],
+    "question": "Some companies have uniforms for their staff which must be worn at all times.\nDiscuss the advantages and disadvantages and give your own opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some companies have a dress code for their employees, which they should wear all the time at work.  While the major disadvantage could be causing the inconvenience to staff, I believe it promotes unity in the company which is a primary benefit.",
+        "The main drawback of wearing the same piece of clothing at all times will cause discomfort to the people working in that company. That is to say, they feel less motivated to work and lose interest to complete the designated tasks resulting in poor performance. For example, in 2011 20% of employees working in Infosys left their jobs because of the dress code system and joined other companies who gave them dressing liberty. Despite this, I believe that uniforms create a good atmosphere in the offices for people to work efficiently.",
+        "The main advantage of companies having uniforms for their staff is that it offers a healthy working environment. In other words, this practice eliminates the differentiation between the authorities and staff members leading to a better overall result. It encourages equity among and motivates them to work collectively. For instance, Google achieved the number one position in terms of providing services because of the collaborative work done by their employees due to the dress code. I believe that the advantage of unity among the people at the job is more important for any organisation.",
+        "In conclusion, although there could be a disadvantage of discomfort in the people because of the uniforms, the unification of the individuals in the company is a crucial benefit to yield the best outcome."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "at",
+                "start_idx": 1321,
+                "end_idx": 1323,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "on"
+                ]
+            }
+        ]
+    },
+    "submitter": "kchintu2000",
+    "num_words": 261,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "that is",
+            "in other words",
+            "this",
+            "although"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 93,
+                        "end_idx": 97
+                    },
+                    {
+                        "start_idx": 350,
+                        "end_idx": 354
+                    },
+                    {
+                        "start_idx": 419,
+                        "end_idx": 423
+                    },
+                    {
+                        "start_idx": 544,
+                        "end_idx": 548
+                    },
+                    {
+                        "start_idx": 763,
+                        "end_idx": 767
+                    },
+                    {
+                        "start_idx": 873,
+                        "end_idx": 877
+                    },
+                    {
+                        "start_idx": 1082,
+                        "end_idx": 1086
+                    },
+                    {
+                        "start_idx": 1215,
+                        "end_idx": 1219
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-28T08:45:17.000Z"
+}

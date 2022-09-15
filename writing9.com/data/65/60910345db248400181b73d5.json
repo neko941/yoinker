@@ -1,0 +1,232 @@
+{
+    "url": "https://writing9.com/text/60910345db248400181b73d5-you-eat-at-your-college-cafeteria-every-lunchtime-however-you",
+    "file": [
+        "data",
+        "65",
+        "60910345db248400181b73d5.json"
+    ],
+    "topics": [
+        "college",
+        "cafeteria",
+        "lunchtime",
+        "improvements",
+        "magazine"
+    ],
+    "question": "You eat at your college cafeteria every lunchtime. However, you think it needs some improvements.\nWrite a letter to the college magazine. In your letter,\n\n\nexplain what you like about the cafeteria \nSay what is wrong with it\nSuggest how it could be improved",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear sir,",
+        "I am a regular visitor who eat lunch at the college cafeteria purely on grounds that the food service in it is hygienic and fresh, suitable priced and it has a friendly atmosphere. There are, however, a number of deficiencies which I believe should be put right.",
+        "To begin with, although your staffs try to keep the tables clean, there are not enough employees at peak time to clear their tables themselves then they finished eating. Moreover, certain students do not bother to do this, there are a numerous students who do not wait in the queue to be served, which is very annoying for the majority of us. Last but not list, there is only one billing counter and this makes it extremely busy.",
+        "As mention earlier, from my perspective, it would be a good idea providing that more signs were put around the cafeteria asking students put their plates and cutlery on the trolleys provided and throw awaytheir leftovers and rubbish. In addition, you shoul tell students when they are being anti-social and jumping the queue. Finally, you should consider add more billing counter so that we not be late for our classes.",
+        "I appreciate your time and attention to these matters.",
+        "Your faithfully,",
+        "Thu Loan Nguyen"
+    ],
+    "errors": {
+        "num_error": "13",
+        "error_list": [
+            {
+                "word": "eat",
+                "start_idx": 36,
+                "end_idx": 39,
+                "error": "Change the verb form",
+                "error_des": "The plural verb eat does not appear to agree with the singular subject a regular visitor. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "eats"
+                ]
+            },
+            {
+                "word": "food ",
+                "start_idx": 98,
+                "end_idx": 103,
+                "error": "Correct your spelling",
+                "error_des": "The word food service seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "foodservice"
+                ]
+            },
+            {
+                "word": "service",
+                "start_idx": 103,
+                "end_idx": 110,
+                "error": "Replace the word",
+                "error_des": "The word service doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "served"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 505,
+                "end_idx": 507,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun students in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "list",
+                "start_idx": 628,
+                "end_idx": 632,
+                "error": "Correct your spelling",
+                "error_des": "The word list doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "least"
+                ]
+            },
+            {
+                "word": "put",
+                "start_idx": 839,
+                "end_idx": 842,
+                "error": "Fix the infinitive",
+                "error_des": "It seems that the use of particle to may be incorrect here.",
+                "suggetions": [
+                    "to put"
+                ]
+            },
+            {
+                "word": "awaytheir",
+                "start_idx": 903,
+                "end_idx": 912,
+                "error": "Correct your spelling",
+                "error_des": "The word awaytheir is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "away their"
+                ]
+            },
+            {
+                "word": "shoul",
+                "start_idx": 953,
+                "end_idx": 958,
+                "error": "Correct your spelling",
+                "error_des": "The word shoul is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "should"
+                ]
+            },
+            {
+                "word": "add",
+                "start_idx": 1057,
+                "end_idx": 1060,
+                "error": "Change the verb form",
+                "error_des": "The verb add is usually in the gerund form when following the word consider. Consider replacing it with the -ing form.",
+                "suggetions": [
+                    "adding"
+                ]
+            },
+            {
+                "word": "counter",
+                "start_idx": 1074,
+                "end_idx": 1081,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that counter may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "counters"
+                ]
+            },
+            {
+                "word": "not be",
+                "start_idx": 1093,
+                "end_idx": 1099,
+                "error": "Change the verb form",
+                "error_des": "It appears that the negative verb form not be is incorrect. Consider changing the verb form.",
+                "suggetions": [
+                    "are not",
+                    "were not"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1177,
+                "end_idx": 1177,
+                "error": "Correct the word",
+                "error_des": "It appears that the word Your is not the correct form of the possessive pronoun. Consider changing it.",
+                "suggetions": [
+                    "Yours"
+                ]
+            },
+            {
+                "word": "Your",
+                "start_idx": 1177,
+                "end_idx": 1181,
+                "error": "Correct your spelling",
+                "error_des": "The word Your doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "Yours"
+                ]
+            }
+        ]
+    },
+    "submitter": "lamnq77",
+    "num_words": 211,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "to begin",
+            "finally",
+            "last",
+            "then",
+            "this",
+            "however",
+            "moreover",
+            "although",
+            "in addition"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 461,
+                        "end_idx": 469
+                    },
+                    {
+                        "start_idx": 517,
+                        "end_idx": 525
+                    },
+                    {
+                        "start_idx": 831,
+                        "end_idx": 839
+                    },
+                    {
+                        "start_idx": 965,
+                        "end_idx": 973
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-11T17:44:46.320Z"
+}

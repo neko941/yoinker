@@ -1,0 +1,133 @@
+{
+    "url": "https://writing9.com/text/5ce12f899dc3850017e76f46",
+    "file": [
+        "data",
+        "6",
+        "5ce12f899dc3850017e76f46.json"
+    ],
+    "topics": [
+        "education",
+        "employment",
+        "people",
+        "work"
+    ],
+    "question": "In education and employment, some people work harder than others. Why do some people work harder? Is it always a good thing to work hard?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that when it comes to studies and work, some individuals are more hardworking than others. This essay will explain that some people work harder than others because they want to improve their lifestyle and hard work can lead to a boost in exam scores and career prospects.",
+        "To begin with, some people put in more efforts in their work because they want to improve their way of life. Individuals, who are born in middle and lower classes of society, often put in more efforts in their studies because they do not want to live in their current conditions anymore, whereas many rich people lack the same type of motivation because they are less ambitious. For example, a study by the Forbes Magazine revealed that 40% of self-made millionaires in the world stated that financial troubles were their main source of motivation to be successful.",
+        "Working hard can to be a rewarding experience in the long run. If people work hard, they will be recognized for their efforts, and it would improve their results in exams and boost their job prospects. Consequently, these people would to be more successful in their careers than others. For example, a survey by the American Education council found that 30% of companies would hire people who are highly motivated to work than those who are not.",
+        "In conclusion, some individuals work harder than others because they want to improve their living conditions and those who work hard would most likely be successful in their careers."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "middle",
+                "start_idx": 420,
+                "end_idx": 426,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the middle"
+                ]
+            },
+            {
+                "word": "would to be",
+                "start_idx": 1077,
+                "end_idx": 1088,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "would be"
+                ]
+            }
+        ]
+    },
+    "submitter": "sdd",
+    "num_words": 253,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "consequently",
+            "this",
+            "for example",
+            "to begin"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 45,
+                        "end_idx": 49
+                    },
+                    {
+                        "start_idx": 81,
+                        "end_idx": 85
+                    },
+                    {
+                        "start_idx": 143,
+                        "end_idx": 147
+                    },
+                    {
+                        "start_idx": 221,
+                        "end_idx": 225
+                    },
+                    {
+                        "start_idx": 339,
+                        "end_idx": 343
+                    },
+                    {
+                        "start_idx": 922,
+                        "end_idx": 926
+                    },
+                    {
+                        "start_idx": 1266,
+                        "end_idx": 1270
+                    },
+                    {
+                        "start_idx": 1327,
+                        "end_idx": 1331
+                    },
+                    {
+                        "start_idx": 1418,
+                        "end_idx": 1422
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-19T10:27:21.000Z"
+}

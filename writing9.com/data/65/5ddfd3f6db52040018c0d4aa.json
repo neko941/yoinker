@@ -1,0 +1,149 @@
+{
+    "url": "https://writing9.com/text/5ddfd3f6db52040018c0d4aa",
+    "file": [
+        "data",
+        "65",
+        "5ddfd3f6db52040018c0d4aa.json"
+    ],
+    "topics": [
+        "people",
+        "children",
+        "leisure",
+        "activities",
+        "waste",
+        "time"
+    ],
+    "question": "Some people believe that children's leisure activities must be educational, otherwise they are a complete waste of time.\nDo you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is argued by some that children's free time spent on extra-curricular activities is an absolute waste of time. In my opinion, I disagree that the time spent on these activities is useless because such activities offer benefits which are indispensable for the holistic growth of our children.",
+        "To begin with, non-educational activities that engage children mentally and physically contribute significantly to their mental and physical growth. As a result, children are able to perform well in their education as well. To exemplify, it is often observed that the children who participate regularly in outdoor sports, are found performing tremendously well in their studies also. In addition, children who play in team sports such as cricket, football or hockey develop coordination, quick decision making, and teamworking skills which are very useful in their future.",
+        "Moreover, there are some extra-curricular activities which help children to discover their hidden talents or even passions. For example, acting, drawing, painting, reading, writing or playing a musical instrument allows children to explore their creativity which they cannot while only studying. According to a reseach published by Harvard University, children who learn to play a musical instrument in their childhood, the chances of development of the both sides of their brains are significantly increased, which makes them more creative and ingenious. Furthermore, extra-curricular improve children's cognition and behavior as they are a great way for children to release stress. These activities also enable them to free up their mind and enjoy the moment without any worries for their studies.",
+        "In conclusion, extra-curricular activities are not a waste of children's time. They are essential for children's mental and physical growth and allow them to explore their hidden creativity and ingeniousness."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "develop",
+                "start_idx": 760,
+                "end_idx": 767,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "develops"
+                ]
+            },
+            {
+                "word": "teamworking",
+                "start_idx": 809,
+                "end_idx": 820,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "team working"
+                ]
+            },
+            {
+                "word": "reseach",
+                "start_idx": 1178,
+                "end_idx": 1185,
+                "error": "systematic investigation to establish facts",
+                "error_des": "",
+                "suggetions": [
+                    "research"
+                ]
+            },
+            {
+                "word": "behavior",
+                "start_idx": 1486,
+                "end_idx": 1494,
+                "error": "manner of acting or controlling yourself",
+                "error_des": "",
+                "suggetions": [
+                    "behaviour"
+                ]
+            },
+            {
+                "word": "ingeniousness",
+                "start_idx": 1861,
+                "end_idx": 1874,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "ingenuity"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 283,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "for example",
+            "to begin",
+            "also",
+            "such",
+            "moreover",
+            "in addition",
+            "furthermore",
+            "as a result"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 42,
+                        "end_idx": 46
+                    },
+                    {
+                        "start_idx": 108,
+                        "end_idx": 112
+                    },
+                    {
+                        "start_idx": 149,
+                        "end_idx": 153
+                    },
+                    {
+                        "start_idx": 1741,
+                        "end_idx": 1745
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-28T14:04:38.846Z"
+}

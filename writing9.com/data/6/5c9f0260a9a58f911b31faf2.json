@@ -1,0 +1,177 @@
+{
+    "url": "https://writing9.com/text/5c9f0260a9a58f911b31faf2",
+    "file": [
+        "data",
+        "6",
+        "5c9f0260a9a58f911b31faf2.json"
+    ],
+    "topics": [
+        "today\u2019s",
+        "world",
+        "science",
+        "technology",
+        "value",
+        "artists",
+        "musicians",
+        "painters",
+        "writers",
+        "arts",
+        "life"
+    ],
+    "question": "In today\u2019s world of advanced science and technology, we still greatly value our artists such as musicians, painters and writers. What can arts tell us about life that science and technology cannot?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the modern world, although the scientific and technological advances become dominant, we still pay attention to people who work in the arts field such as musicians or writers. The reason is that arts can teach us various things than we cannot learn from science and technology.",
+        "First of all, it is undeniable that arts allow us to see things from different perspectives. This is because in the arts world, we have opportunities to use our creativity and imagination to see and interpret things in the way we want. For instance, in the researcher\u2019s eyes, cat is merely an animal with fur and four legs, while from the writer\u2019s perspective, cat can be a close friend or even a hero. This, as a result, would help us nurture our creativity and gain deeper insights into the world that we live in. Additionally, we can also be able to think from different perspectives when encountering problems.",
+        "Furthermore, while advanced science and technology bring a wide range of benefits to our physical lives, arts instill spiritual values into each individual. For example, when people feel upset or depressed, they tend to listen to songs or read books whose lyrics or contents contain the encouraging and inspiring words and sentences. This, consequently, might help them to refresh their minds and be more optimistic about the problems that they have to face up with.",
+        "In conclusion, for all reasons mentioned above, it is true that arts can tell us a variety of meaningful things that are absent in the science and technology world."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "arts",
+                "start_idx": 197,
+                "end_idx": 201,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the arts"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 251,
+                "end_idx": 255,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "about"
+                ]
+            },
+            {
+                "word": "arts",
+                "start_idx": 316,
+                "end_idx": 320,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the arts"
+                ]
+            },
+            {
+                "word": "arts",
+                "start_idx": 396,
+                "end_idx": 400,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "art"
+                ]
+            },
+            {
+                "word": "cat",
+                "start_idx": 556,
+                "end_idx": 559,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the cat"
+                ]
+            },
+            {
+                "word": "This",
+                "start_idx": 683,
+                "end_idx": 687,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Thus"
+                ]
+            },
+            {
+                "word": "arts",
+                "start_idx": 1426,
+                "end_idx": 1430,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the arts"
+                ]
+            }
+        ]
+    },
+    "submitter": "nhaianh27",
+    "num_words": 259,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "consequently",
+            "for instance",
+            "for example",
+            "first",
+            "additionally",
+            "also",
+            "such",
+            "this",
+            "although",
+            "furthermore",
+            "as a result"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "world",
+                "occurrences": [
+                    {
+                        "start_idx": 14,
+                        "end_idx": 19
+                    },
+                    {
+                        "start_idx": 402,
+                        "end_idx": 407
+                    },
+                    {
+                        "start_idx": 774,
+                        "end_idx": 779
+                    },
+                    {
+                        "start_idx": 1521,
+                        "end_idx": 1526
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-30T05:45:04.000Z"
+}

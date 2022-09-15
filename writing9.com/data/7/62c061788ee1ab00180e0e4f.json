@@ -1,0 +1,173 @@
+{
+    "url": "https://writing9.com/text/62c061788ee1ab00180e0e4f-planting-trees-is-very-important-for-the-environment-some-people",
+    "file": [
+        "data",
+        "7",
+        "62c061788ee1ab00180e0e4f.json"
+    ],
+    "topics": [
+        "trees",
+        "environment",
+        "people",
+        "areas",
+        "cities",
+        "towns",
+        "facilities",
+        "-do"
+    ],
+    "question": "Planting trees is very important for the environment. Some people say trees should be planted in vacant areas of cities and towns, while others say housing facilities should be made instead.\t-Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In recent decades, statistics indicate that there is a growing number of tree planting activities launched by charitable organizations. Some people believe planting trees is a waste of land while others believe it can improve the city's profile. Personally, I strongly agree that trees are essential to  city planning and I will elaborate on the reasons  in this essay.",
+        "Admittedly, due to the fact that there is a persistent shortage of accommodation in metropolitan cities, building more housing blocks is necessary. However, the protection of natural habitats and green lands is more significant than ever given it can effectively enhance city's profile.  Wetlands play an indispensable role in filtering filthy air and assimilating greenhouse gas. Considering the deteriorated air pollution in cities, planting trees is the only solution to solve the unprecedented problem. With large areas of natural reservations, city dwellers are not only able to breathe fresh air  but also have the chance to appreciate the beauty of  great nature.",
+        "In addition, trees are important to individuals' mental and physical well-being. For example, studies from Harvard University reveal that people can expand their lifespan if they can have clean water and fresh water. The chemical released by trees contributes to people's health as it helps them to generate healthy hormones and increase their sense of happiness. Many office workers reported that they feel refreshed and energetic from watching trees and flowers. Plants can effectively relax people's nerves and reduce the likelihood of contracting stress-induced illness.",
+        "In conclusion, It is safe to say that planting trees in vacant areas of cities brings lots of benefits."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "city's",
+                "start_idx": 640,
+                "end_idx": 646,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a city's"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 1591,
+                "end_idx": 1592,
+                "error": "Add an article",
+                "error_des": "The noun phrase stress-induced illness seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the",
+                    "a"
+                ]
+            }
+        ]
+    },
+    "submitter": "jiachenguq",
+    "num_words": 265,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "for example",
+            "also",
+            "this",
+            "however",
+            "in addition"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "city",
+                "occurrences": [
+                    {
+                        "start_idx": 230,
+                        "end_idx": 234
+                    },
+                    {
+                        "start_idx": 304,
+                        "end_idx": 308
+                    },
+                    {
+                        "start_idx": 641,
+                        "end_idx": 645
+                    },
+                    {
+                        "start_idx": 919,
+                        "end_idx": 923
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 141,
+                        "end_idx": 147
+                    },
+                    {
+                        "start_idx": 1179,
+                        "end_idx": 1185
+                    },
+                    {
+                        "start_idx": 1304,
+                        "end_idx": 1310
+                    },
+                    {
+                        "start_idx": 1535,
+                        "end_idx": 1541
+                    }
+                ]
+            },
+            {
+                "word": "trees",
+                "occurrences": [
+                    {
+                        "start_idx": 165,
+                        "end_idx": 170
+                    },
+                    {
+                        "start_idx": 280,
+                        "end_idx": 285
+                    },
+                    {
+                        "start_idx": 814,
+                        "end_idx": 819
+                    },
+                    {
+                        "start_idx": 1054,
+                        "end_idx": 1059
+                    },
+                    {
+                        "start_idx": 1283,
+                        "end_idx": 1288
+                    },
+                    {
+                        "start_idx": 1487,
+                        "end_idx": 1492
+                    },
+                    {
+                        "start_idx": 1663,
+                        "end_idx": 1668
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-02T15:49:14.686Z"
+}

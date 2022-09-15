@@ -1,0 +1,133 @@
+{
+    "url": "https://writing9.com/text/5db1ef6d635c680018cd8fe9",
+    "file": [
+        "data",
+        "65",
+        "5db1ef6d635c680018cd8fe9.json"
+    ],
+    "topics": [
+        "countries",
+        "weight",
+        "people",
+        "level",
+        "health",
+        "fitness"
+    ],
+    "question": "In some countries, the average weight of people is increasing and their level of health and fitness is decreasing.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays most people are not fit and active enough, compared to the past. What are the main causes of this situation? Suggest some possible solutions.",
+        "In many countries, the number of people who became overweight has increased and their health condition and fitness level are declining. This essay will discuss some of the reasons why these problems have arisen and some of the steps that can be taken to address them.",
+        "For several reasons, the average body weight of people in several countries is rising these days, and they have problems with the physical condition as well. Firstly, a lot of people prefer to consume fast food outlets nowadays. It is undeniable that most of the fast-food restaurants serve foods that contain fat and sugar, and as a result, those who frequently consume the food get overweight. Secondly, it is a fact that business competition is getting tougher due to globalization, and people have to work for longer hours. They have to wake up very early in the morning to go to their workplace and arrive home late at night; therefore they have no time in doing some exercises. Consequently, many of these people have some serious health problems, such as obesity and diabetes.",
+        "There are several things that people can do to resolve the problems. One of them is that people should be more selective in choosing their diets. People should avoid consuming fast food since they contain a lot of high cholesterol ingredients which are dangerous for their health. They should consume more of the healthier ingredients such as wheat, oat, vegetable or fruit rather than consuming fried chicken or hamburgers. The other thing is that people should do more physical exercise and burn more calories in their life. One of the ways is by changing their mode of transportation. For example, they could change the way they commute from driving a car to riding a bicycle. It is not just making the body healthier, but bike riding also reduces air pollution as well.",
+        "In conclusion, many people are indeed having problems with bodyweight and health conditions these days. The problems are mostly caused by unhealthy lifestyles and there are several things that people could do to fix the problems. They should be more selective in choosing their diets and they should have more exercise in their life."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "Nowadays most",
+                "start_idx": 0,
+                "end_idx": 13,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Nowadays, most"
+                ]
+            },
+            {
+                "word": "bodyweight",
+                "start_idx": 2035,
+                "end_idx": 2045,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "body weight"
+                ]
+            }
+        ]
+    },
+    "submitter": "saeedrahmo",
+    "num_words": 390,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "consequently",
+            "for example",
+            "also",
+            "secondly",
+            "this",
+            "firstly",
+            "such",
+            "therefore",
+            "as a result"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 237,
+                        "end_idx": 243
+                    },
+                    {
+                        "start_idx": 1156,
+                        "end_idx": 1162
+                    },
+                    {
+                        "start_idx": 1476,
+                        "end_idx": 1482
+                    },
+                    {
+                        "start_idx": 1516,
+                        "end_idx": 1522
+                    },
+                    {
+                        "start_idx": 1914,
+                        "end_idx": 1920
+                    },
+                    {
+                        "start_idx": 2051,
+                        "end_idx": 2057
+                    },
+                    {
+                        "start_idx": 2117,
+                        "end_idx": 2123
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-24T18:37:33.463Z"
+}

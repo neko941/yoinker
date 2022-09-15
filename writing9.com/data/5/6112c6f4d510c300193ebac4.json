@@ -1,0 +1,300 @@
+{
+    "url": "https://writing9.com/text/6112c6f4d510c300193ebac4-in-some-countries-it-is-illegal-for-companies-to-reject",
+    "file": [
+        "data",
+        "5",
+        "6112c6f4d510c300193ebac4.json"
+    ],
+    "topics": [
+        "countries",
+        "companies",
+        "job",
+        "applicants",
+        "age",
+        "development"
+    ],
+    "question": "In some countries, it is illegal for companies to reject job applicants for their age.Is this a positive or negative development?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "As we know that companies give preference to experienced people. I would say this is not good for all. Although we come to know that, some countries it is not allowed at all. In my opinion, this would give negative impression as if you reject people on age basis; it would create stress on younger people who are energetic and ready to start their practical life.",
+        "It is important to note that companies want to have those workforce which have skills and experience and deficiently nobody will not get without spending years into particular field. However, on the other hand, in order to hire these type of experience people company should have huge amount of capital to pay the salaries as well as elderly people tend to have more medical issues as compare to younger people. for example , old man need to have extra medical care along with insurance due to these type of diseases like sugar, blood pressure and heart diseases etc on the other hand , if you provide opportunities to younger people  not only they can work even faster than the elderly people but also gain experience along with better contribution to the society.",
+        "Furthermore, if you give a job to older person, it has been observed that they rest more and they require more care like you will have to hire one assistant to assist them ultimately it will increase your cost .",
+        "In a nutshell, it is not allowed to rejecting the people due to their ages , I do believe it is a negative impact thus older people need some rest. However, offering a job to the younger people provide benefit to the both company and the employee which ultimately company can seen in term of growth and profitability."
+    ],
+    "errors": {
+        "num_error": "17",
+        "error_list": [
+            {
+                "word": "some",
+                "start_idx": 133,
+                "end_idx": 137,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in some"
+                ]
+            },
+            {
+                "word": "negative",
+                "start_idx": 205,
+                "end_idx": 213,
+                "error": "Add an article",
+                "error_des": "The noun phrase negative impression seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the negative",
+                    "a negative"
+                ]
+            },
+            {
+                "word": "age",
+                "start_idx": 252,
+                "end_idx": 255,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "an age"
+                ]
+            },
+            {
+                "word": "those workforce",
+                "start_idx": 415,
+                "end_idx": 430,
+                "error": "Change the determiner",
+                "error_des": "It appears that the plural demonstrative those is modifying the singular noun workforce. Consider using a singular demonstrative or a plural noun instead.",
+                "suggetions": [
+                    "that workforce",
+                    "those workforces"
+                ]
+            },
+            {
+                "word": "not ",
+                "start_idx": 492,
+                "end_idx": 496,
+                "error": "Rewrite the sentence",
+                "error_des": "Your sentence appears to include a double negative with the inclusion of both nobody and not. Remove a negative word, or make certain you intend to have the positive result.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "particular",
+                "start_idx": 528,
+                "end_idx": 538,
+                "error": "Add an article",
+                "error_des": "The noun phrase particular field seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a particular"
+                ]
+            },
+            {
+                "word": "type",
+                "start_idx": 597,
+                "end_idx": 601,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that type may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "types"
+                ]
+            },
+            {
+                "word": "huge",
+                "start_idx": 643,
+                "end_idx": 647,
+                "error": "Add an article",
+                "error_des": "The noun phrase huge amount seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a huge"
+                ]
+            },
+            {
+                "word": " as well as elderly ",
+                "start_idx": 686,
+                "end_idx": 706,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter as well as elderly people. Consider adding the comma(s).",
+                "suggetions": [
+                    ", as well as elderly people,"
+                ]
+            },
+            {
+                "word": "compare",
+                "start_idx": 748,
+                "end_idx": 755,
+                "error": "Change the form of the verb",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb compare. Consider changing it.",
+                "suggetions": [
+                    "compared"
+                ]
+            },
+            {
+                "word": "man",
+                "start_idx": 793,
+                "end_idx": 796,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that man may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "men"
+                ]
+            },
+            {
+                "word": "need",
+                "start_idx": 797,
+                "end_idx": 801,
+                "error": "Change the verb form",
+                "error_des": "The plural verb need does not appear to agree with the singular subject old man. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "needs"
+                ]
+            },
+            {
+                "word": "type",
+                "start_idx": 863,
+                "end_idx": 867,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that type may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "types"
+                ]
+            },
+            {
+                "word": "older",
+                "start_idx": 1163,
+                "end_idx": 1168,
+                "error": "Add an article",
+                "error_des": "The noun phrase older person seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an older",
+                    "the older"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1387,
+                "end_idx": 1391,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1554,
+                "end_idx": 1558,
+                "error": "Remove the article",
+                "error_des": "It is unlikely that your sentence needs the article the before both. Consider deleting the article.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "seen",
+                "start_idx": 1617,
+                "end_idx": 1621,
+                "error": "Change the verb form",
+                "error_des": "The verb seen after the modal verb can does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "see"
+                ]
+            }
+        ]
+    },
+    "submitter": "rumaisavohra1",
+    "num_words": 296,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "although",
+            "for example",
+            "also",
+            "this",
+            "however",
+            "on the other hand",
+            "furthermore",
+            "thus"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 57,
+                        "end_idx": 63
+                    },
+                    {
+                        "start_idx": 243,
+                        "end_idx": 249
+                    },
+                    {
+                        "start_idx": 298,
+                        "end_idx": 304
+                    },
+                    {
+                        "start_idx": 617,
+                        "end_idx": 623
+                    },
+                    {
+                        "start_idx": 706,
+                        "end_idx": 712
+                    },
+                    {
+                        "start_idx": 768,
+                        "end_idx": 774
+                    },
+                    {
+                        "start_idx": 991,
+                        "end_idx": 997
+                    },
+                    {
+                        "start_idx": 1051,
+                        "end_idx": 1057
+                    },
+                    {
+                        "start_idx": 1392,
+                        "end_idx": 1398
+                    },
+                    {
+                        "start_idx": 1467,
+                        "end_idx": 1473
+                    },
+                    {
+                        "start_idx": 1529,
+                        "end_idx": 1535
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-08-10T18:35:50.938Z"
+}

@@ -1,0 +1,129 @@
+{
+    "url": "https://writing9.com/text/5f5f638107d0d0001800b669",
+    "file": [
+        "data",
+        "7",
+        "5f5f638107d0d0001800b669.json"
+    ],
+    "topics": [
+        "children",
+        "time",
+        "tv",
+        "change"
+    ],
+    "question": "Today children are spending much more time watching TV compared to the past. Why do you think this happens? Is this a positive or a negative change?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, young people are sitting in front of the TV screen more often then their parents in their ages. In my opinion, the main reason for this trend is based on the fact that there is a huge number of various channels and programs for any tastes without any breaks and vacations in the schedule. It brings a negative shift to society as it has a harmful impact on the health and hinders educational and social development.",
+        "More often children prefer to watch different shows and serials than to spend their time with friends outside. In the previous centuries, there was no some enormous variety of media entertainments or just a limited quantity of them. Moreover, the film production industry was not so developed and film companies could create only one or maybe two new films per year. That is why, according to increasing the scale of media programs, modern children spend more hours watching them.",
+        "A new children`s interest can be considered as non-positive cause due to it their health,  education and social life can suffer. First of all, for instance, the sitting in the front of screen during several hours has a hazardous influence on the person`s vision. As a consequence, in the best scenario people have to wear glasses, or in the worst one, they need to make a difficult and expensive operation on their eyes. Secondly, just a minority of teenagers are interested in educational channels such as \"Discovery\" or \"BBC\", more often the overwhelming majority prefer TV-shows and films, cartoons about superheroes. Consequently, they have less time and wish to study. Furthermore, some children limit their communication with peers and replace them by unreal people from the screen. These preferences and actions can be defined as reasons for decreasing educational and social development among student.",
+        "To sum up, with the growing number of different TV-shows and programs young people spend a large amount of time behind the screen. Instead of some pluses, I strongly believe that this way of activity brings much harm to personal and physical development."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "then",
+                "start_idx": 71,
+                "end_idx": 75,
+                "error": "Replace the word",
+                "error_des": "The word then may be used incorrectly. Review the following notes to determine the appropriate usage for your context.",
+                "suggetions": [
+                    "than"
+                ]
+            },
+            {
+                "word": "s",
+                "start_idx": 1091,
+                "end_idx": 1092,
+                "error": "Add an article",
+                "error_des": "It appears that an article is missing before the word screen. Consider adding the article.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 1208,
+                "end_idx": 1209,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase in the best scenario. Consider adding a comma.",
+                "suggetions": [
+                    ","
+                ]
+            }
+        ]
+    },
+    "submitter": "Diana Vasileva",
+    "num_words": 343,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "consequently",
+            "for instance",
+            "that is",
+            "first",
+            "secondly",
+            "this",
+            "such",
+            "moreover",
+            "instead",
+            "furthermore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "screen",
+                "occurrences": [
+                    {
+                        "start_idx": 54,
+                        "end_idx": 60
+                    },
+                    {
+                        "start_idx": 1092,
+                        "end_idx": 1098
+                    },
+                    {
+                        "start_idx": 1688,
+                        "end_idx": 1694
+                    },
+                    {
+                        "start_idx": 1940,
+                        "end_idx": 1946
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-09-14T12:35:16.579Z"
+}

@@ -1,0 +1,122 @@
+{
+    "url": "https://writing9.com/text/5da6ec384c685a0018ad3e35-you-recently-organised-an-all-day-meeting-for-your-company",
+    "file": [
+        "data",
+        "7",
+        "5da6ec384c685a0018ad3e35.json"
+    ],
+    "topics": [
+        "company",
+        "place",
+        "hotel",
+        "feedback",
+        "participants",
+        "food",
+        "lunch",
+        "manager",
+        "participant",
+        "futures"
+    ],
+    "question": "You recently organised an all day meeting for your company, which took place in a local hotel. In their feedback, participants at the meeting said that they liked the hotel, but they were unhappy about the food that was served for lunch. Write a letter to the manager of the hotel. In your letter\n\nSay what the participant liked about the hotel.\nExplain why they were unhappy about the hotel.\nSuggest what the manager should do to improve the food in futures.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mike,",
+        "I am writing to inform you about our experience during our annual all day event at your hotel. Although, most of the attendants at the meeting were happy with the hospitality showed by the hotel staffs, they were disappointed with the food. I will like to suggest some possible solutions to avoid such in the future.",
+        "The hotel workers were really professional about their work. The security personnel at the entrance were very polite and they were very helpful in assisting with the car parking. The receptionist was also very caring, she noticed that one of my company\u2019s employees was struggling to carry some items and she immediately called someone to help with the load. Overall, the feedback on the treatment most of the participant got from your staff were positive ones.",
+        "However, the same couldn\u2019t be said about the meal. First of all, there were not a lot of choices to choose from as most of the dishes were mainly protein food. Secondly the eggs were not properly fried as evident by the raw taste in the mouth. I personally was not happy as some of the plates in which the food was served were dirty.",
+        "I would suggest adding a nutritionist to your kitchen staff to help in creating a variation in your meals.",
+        "I hope this feedback would help you improve your services.",
+        "Yours faithfully,",
+        "Victor Oyelude"
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "all day",
+                "start_idx": 76,
+                "end_idx": 83,
+                "error": "Add a hyphen",
+                "error_des": "It appears that all day is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "all-day"
+                ]
+            },
+            {
+                "word": "staffs",
+                "start_idx": 205,
+                "end_idx": 211,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that staffs may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "staff"
+                ]
+            },
+            {
+                "word": "participant",
+                "start_idx": 736,
+                "end_idx": 747,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that participant may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "participants"
+                ]
+            },
+            {
+                "word": "Secondly",
+                "start_idx": 948,
+                "end_idx": 956,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Secondly. Consider adding a comma.",
+                "suggetions": [
+                    ",Secondly"
+                ]
+            }
+        ]
+    },
+    "submitter": "oyeludevictor25",
+    "num_words": 232,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "first",
+            "also",
+            "such",
+            "however",
+            "this",
+            "although"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T17:02:59.979Z"
+}

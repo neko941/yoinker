@@ -1,0 +1,218 @@
+{
+    "url": "https://writing9.com/text/631437cdaee9de0018760bad-in-some-countries-it-is-thought-advisable-that-children-begin",
+    "file": [
+        "data",
+        "6",
+        "631437cdaee9de0018760bad.json"
+    ],
+    "topics": [
+        "countries",
+        "children",
+        "education",
+        "four",
+        "years",
+        "school",
+        "seven",
+        "eight"
+    ],
+    "question": "In some countries it is thought advisable that children begin formal education at four years old, while in others they do not have to start school until they are seven or eight.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Every country in the world has its own learning style, causing many types of education system. But some   education systems do not work at all. To illustrate this further, we all know that developed countries\u2019 governments educate their population better than lower countries\u2019 governments. That is  because they use a different path to educate their people.",
+        "In some states, especially in the far eastern, people want issues to initiate their education at age of four, starting with nursery school as the very first step of learning. After nursery school, the formal education will begin with primary school through middle and high till the children  graduate. Those people are thinking that their children could learn  more than other children. And they also think that they would be convenient in universities.",
+        "In contrast, some countries choose to start formal education when the student is seven or eight years old. Before they begin their formal education, children will stay with their family, learning from real experience and other skills like social and education. That is the reason why they can do well when studying at an institution.",
+        "In my opinion, I think children should begin formal learning at the age of seven. Learning by themselves is an initiation of their knowledge. Moreover, they can learn things they like or dislike. For some countries that begin formal education at four years old, that is too early for the children to start academic learning. Learning from their experience is the better way for them. Despite knowing that, some parents choose to send their issues to school, noticing that their children have to compete with others for a better place in society. In conclusion, I do agree with the education system that begins formal education at the age of seven."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": " ",
+                "start_idx": 76,
+                "end_idx": 77,
+                "error": "Add an article",
+                "error_des": "The noun phrase education system seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "system",
+                "start_idx": 86,
+                "end_idx": 92,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that system may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "systems"
+                ]
+            },
+            {
+                "word": "eastern",
+                "start_idx": 394,
+                "end_idx": 401,
+                "error": "Replace the word",
+                "error_des": "The word eastern doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "east"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 590,
+                "end_idx": 591,
+                "error": "Add an article",
+                "error_des": "The noun phrase primary school seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "tr.zarwaihnin",
+    "num_words": 294,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "that is",
+            "further",
+            "first",
+            "also",
+            "this",
+            "moreover",
+            "in contrast"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "children",
+                "occurrences": [
+                    {
+                        "start_idx": 639,
+                        "end_idx": 647
+                    },
+                    {
+                        "start_idx": 696,
+                        "end_idx": 704
+                    },
+                    {
+                        "start_idx": 734,
+                        "end_idx": 742
+                    },
+                    {
+                        "start_idx": 960,
+                        "end_idx": 968
+                    },
+                    {
+                        "start_idx": 1168,
+                        "end_idx": 1176
+                    },
+                    {
+                        "start_idx": 1433,
+                        "end_idx": 1441
+                    },
+                    {
+                        "start_idx": 1623,
+                        "end_idx": 1631
+                    }
+                ]
+            },
+            {
+                "word": "school",
+                "occurrences": [
+                    {
+                        "start_idx": 489,
+                        "end_idx": 495
+                    },
+                    {
+                        "start_idx": 546,
+                        "end_idx": 552
+                    },
+                    {
+                        "start_idx": 599,
+                        "end_idx": 605
+                    },
+                    {
+                        "start_idx": 1595,
+                        "end_idx": 1601
+                    }
+                ]
+            },
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 77,
+                        "end_idx": 86
+                    },
+                    {
+                        "start_idx": 106,
+                        "end_idx": 115
+                    },
+                    {
+                        "start_idx": 441,
+                        "end_idx": 450
+                    },
+                    {
+                        "start_idx": 565,
+                        "end_idx": 574
+                    },
+                    {
+                        "start_idx": 862,
+                        "end_idx": 871
+                    },
+                    {
+                        "start_idx": 949,
+                        "end_idx": 958
+                    },
+                    {
+                        "start_idx": 1061,
+                        "end_idx": 1070
+                    },
+                    {
+                        "start_idx": 1378,
+                        "end_idx": 1387
+                    },
+                    {
+                        "start_idx": 1726,
+                        "end_idx": 1735
+                    },
+                    {
+                        "start_idx": 1762,
+                        "end_idx": 1771
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-04T05:34:57.095Z"
+}

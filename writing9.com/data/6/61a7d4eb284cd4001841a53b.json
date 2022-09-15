@@ -1,0 +1,239 @@
+{
+    "url": "https://writing9.com/text/61a7d4eb284cd4001841a53b-consider-a-situation-where-you-are-asked-by-your-supervisor",
+    "file": [
+        "data",
+        "6",
+        "61a7d4eb284cd4001841a53b.json"
+    ],
+    "topics": [
+        "situation",
+        "supervisor",
+        "group",
+        "project",
+        "work",
+        "someone",
+        "person",
+        "idea"
+    ],
+    "question": "Consider a situation where you are asked by your supervisor to participate in a group project at work. Your supervisor wants you to work with someone who has opinions that are very different than yours. Moreover, they feel very strongly about these opinions. Do you think that working with this person is a good idea?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "When a group of people is working in a project that is assigned to them, diversity of ideas there may become a problem that can intensify the stress of the individuals in the project. On the other hand, some mentors believe, not only are different thoughts are benign, but also, they can help to enhance the point of view of participants in the assignment.",
+        "Working in a group that has a lot of members with divergent ideas can help to develop the project. Different ideas to solve a problem helps people to see it from different angles. This is one of the vital steps to finish project flawlessly. For example, in an engineering task, when a group is designing a car, a person cannot fit the motors while keeping the aerodynamic design. Another person has the idea to put the motor at the back of the car. The latter idea may generate the intention to keep the aerodynamic design and put the engine at the back.",
+        "Although the diversity of opinions is good in the projects, rigid people can be intolerable during the working at the project. It is inflexible people who make problems. For instance, in a computer project, two folks have two different algorithms to progress the project. If these two people are astute, they discuses about it and choose the algorithm that is better for the assignment, but if two people are rigid about it, they may argue a lot of time that which algorithm is better while they are losing time.",
+        "To sum up, everything that have been stated, participating in a group project that people on it have divergent idea about how to progress the project can be good and help full if participants are flexible enough to accept where to change their mind if it is necessary."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 33,
+                "end_idx": 35,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "project",
+                "start_idx": 577,
+                "end_idx": 584,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a project"
+                ]
+            },
+            {
+                "word": "have",
+                "start_idx": 1451,
+                "end_idx": 1455,
+                "error": "Change the verb form",
+                "error_des": "The plural verb have does not appear to agree with the singular subject everything. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "has"
+                ]
+            },
+            {
+                "word": "divergent",
+                "start_idx": 1525,
+                "end_idx": 1534,
+                "error": "Add an article",
+                "error_des": "The noun phrase divergent idea seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a divergent"
+                ]
+            }
+        ]
+    },
+    "submitter": "arshia.toliat",
+    "num_words": 303,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "although",
+            "for example",
+            "that is",
+            "for instance",
+            "also",
+            "this",
+            "on the other hand"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "group",
+                "occurrences": [
+                    {
+                        "start_idx": 7,
+                        "end_idx": 12
+                    },
+                    {
+                        "start_idx": 370,
+                        "end_idx": 375
+                    },
+                    {
+                        "start_idx": 642,
+                        "end_idx": 647
+                    },
+                    {
+                        "start_idx": 1489,
+                        "end_idx": 1494
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 16,
+                        "end_idx": 22
+                    },
+                    {
+                        "start_idx": 497,
+                        "end_idx": 503
+                    },
+                    {
+                        "start_idx": 978,
+                        "end_idx": 984
+                    },
+                    {
+                        "start_idx": 1056,
+                        "end_idx": 1062
+                    },
+                    {
+                        "start_idx": 1197,
+                        "end_idx": 1203
+                    },
+                    {
+                        "start_idx": 1310,
+                        "end_idx": 1316
+                    },
+                    {
+                        "start_idx": 1508,
+                        "end_idx": 1514
+                    }
+                ]
+            },
+            {
+                "word": "project",
+                "occurrences": [
+                    {
+                        "start_idx": 39,
+                        "end_idx": 46
+                    },
+                    {
+                        "start_idx": 175,
+                        "end_idx": 182
+                    },
+                    {
+                        "start_idx": 447,
+                        "end_idx": 454
+                    },
+                    {
+                        "start_idx": 578,
+                        "end_idx": 585
+                    },
+                    {
+                        "start_idx": 962,
+                        "end_idx": 969
+                    },
+                    {
+                        "start_idx": 1030,
+                        "end_idx": 1037
+                    },
+                    {
+                        "start_idx": 1110,
+                        "end_idx": 1117
+                    },
+                    {
+                        "start_idx": 1175,
+                        "end_idx": 1182
+                    },
+                    {
+                        "start_idx": 1495,
+                        "end_idx": 1502
+                    },
+                    {
+                        "start_idx": 1567,
+                        "end_idx": 1574
+                    }
+                ]
+            },
+            {
+                "word": "two",
+                "occurrences": [
+                    {
+                        "start_idx": 1119,
+                        "end_idx": 1122
+                    },
+                    {
+                        "start_idx": 1134,
+                        "end_idx": 1137
+                    },
+                    {
+                        "start_idx": 1193,
+                        "end_idx": 1196
+                    },
+                    {
+                        "start_idx": 1306,
+                        "end_idx": 1309
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-12-01T20:03:52.273Z"
+}

@@ -1,0 +1,194 @@
+{
+    "url": "https://writing9.com/text/5d715f035d7c95001796d6de",
+    "file": [
+        "data",
+        "65",
+        "5d715f035d7c95001796d6de.json"
+    ],
+    "topics": [
+        "countries",
+        "europe",
+        "children",
+        "age",
+        "schools",
+        "skills",
+        "job",
+        "education",
+        "students",
+        "world",
+        "work"
+    ],
+    "question": "In some countries in Europe, some children from the age of 11 or 13 go to schools to learn more practical skills that will help them get a job. Other children stay in schools which provide a more general academic education.\n\nWhat should schools do to prepare students for the world of work?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Practical knowledge and theoretical knowledge always go hand-in-hand. So, in a few European countries, children at a very early age like 11 or 13 starts going to school which will aid them in getting a job. However, some schools still provide theoretical education to children. Whatever the case may be, schools should create a balance between practical and academic education in their system. This essay will discuss how schools can prepare students for the world of work by providing them field training with the theoretical exams.",
+        "One should not forget their roots. In the older education system, there was only theoretical knowledge which students gain from school and help them in securing a good job in the future. This will help students to understand the concepts very well and also their way of conveying things will improve by giving exams in their own words. For example, if a student learns about how the car's engine is working and the same is asked to explain in a theoretical exam than it will help them to memorize keywords along with functionality. This will not only give them good grades but also helps them to improve their writing skills which is very much required in today's world.",
+        "Now along with theoretical knowledge if students are also provided with practical session then they will be able to implement whatever they have learned in their academic classes. They will have hands-on on different technologies before stepping out in the corporate world. For instance, computers have become an essential part of the working culture. So knowing how to convey a message using e-mail and what software is being used to write notes, they should be prepared with the word or the notepad software used in computers. This will boost their confidence and they will be eager to learn new and more technologies.",
+        "In conclusion, to prepare children for the corporate world schools should keep a mixture of theoretical and practical exams and should be given grades based on their performances in both types of education. This will help students and their parents to be ready for future working culture."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "help",
+                "start_idx": 672,
+                "end_idx": 676,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "will help"
+                ]
+            },
+            {
+                "word": "keywords",
+                "start_idx": 1030,
+                "end_idx": 1038,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the keywords"
+                ]
+            },
+            {
+                "word": "grades but",
+                "start_idx": 1099,
+                "end_idx": 1109,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "grades, but"
+                ]
+            },
+            {
+                "word": "session ",
+                "start_idx": 1286,
+                "end_idx": 1294,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "session, then"
+                ]
+            },
+            {
+                "word": "with",
+                "start_idx": 1676,
+                "end_idx": 1680,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "by"
+                ]
+            }
+        ]
+    },
+    "submitter": "priyadarshini.trivedi",
+    "num_words": 353,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "also",
+            "then",
+            "this",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "world",
+                "occurrences": [
+                    {
+                        "start_idx": 459,
+                        "end_idx": 464
+                    },
+                    {
+                        "start_idx": 1198,
+                        "end_idx": 1203
+                    },
+                    {
+                        "start_idx": 1472,
+                        "end_idx": 1477
+                    },
+                    {
+                        "start_idx": 1879,
+                        "end_idx": 1884
+                    }
+                ]
+            },
+            {
+                "word": "knowledge",
+                "occurrences": [
+                    {
+                        "start_idx": 10,
+                        "end_idx": 19
+                    },
+                    {
+                        "start_idx": 36,
+                        "end_idx": 45
+                    },
+                    {
+                        "start_idx": 627,
+                        "end_idx": 636
+                    },
+                    {
+                        "start_idx": 1232,
+                        "end_idx": 1241
+                    }
+                ]
+            },
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 255,
+                        "end_idx": 264
+                    },
+                    {
+                        "start_idx": 367,
+                        "end_idx": 376
+                    },
+                    {
+                        "start_idx": 582,
+                        "end_idx": 591
+                    },
+                    {
+                        "start_idx": 2022,
+                        "end_idx": 2031
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-05T19:16:19.837Z"
+}

@@ -1,0 +1,129 @@
+{
+    "url": "https://writing9.com/text/5e32eee427b79300115f2562-you-recently-received-a-letter-from-a-friend-asking-for",
+    "file": [
+        "data",
+        "7",
+        "5e32eee427b79300115f2562.json"
+    ],
+    "topics": [
+        "friend",
+        "advice",
+        "college",
+        "job",
+        "idea"
+    ],
+    "question": "You recently received a letter from a friend asking for advice about whether to go to college or to try to get a job. You think he should get a job.\nWrite a letter to your friend . In your letter\n.say why he would not enjoy going to college\n.explain why getting a job is good idea for him\n.suggest types of job that will be suitable for him.\nwrite 150 words.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Rohit,",
+        "How are you doing buddy? I am writing you to tell you that, my suggestion to you will be to search for a job, rather than thinking of going back to post graduate school for a course.",
+        "According to me, I don't think you will have fun if you go to college now. Firstly, there are going to be too many assignments, which you may have to prepare and long essays, that you may have to write which you just hate completely. Secondly, the age group of students that generally enrol for this course are way too young compared to your age. Therefore, you may not enjoy the company of the people around you.",
+        "On the contrary, I feel that getting a job will be a much better option for you, because it will give you financial stability and it will help to improve your confidence level. Additionally, it will also give you a very good exposure to cooperate life that will boost up your resume drastically.",
+        "As I know, you have an amazing quality of interpretation and you have received an award in your internship when you worked as an analyst in your previous company, I feel you should search for similar work, for example, the role of an analyst. I am sure will flourish well in that role.",
+        "Write me what are your thoughts",
+        "Lots of love,",
+        "Sonia"
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "you",
+                "start_idx": 49,
+                "end_idx": 52,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to you"
+                ]
+            },
+            {
+                "word": "post graduate",
+                "start_idx": 159,
+                "end_idx": 172,
+                "error": "Correct your spelling",
+                "error_des": "The word post graduate seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "postgraduate"
+                ]
+            },
+            {
+                "word": "me",
+                "start_idx": 207,
+                "end_idx": 209,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "my"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 688,
+                "end_idx": 689,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker because. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "me",
+                "start_idx": 1196,
+                "end_idx": 1198,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to me"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 232,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "for example",
+            "additionally",
+            "also",
+            "secondly",
+            "this",
+            "firstly",
+            "therefore",
+            "on the contrary"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T18:40:31.615Z"
+}

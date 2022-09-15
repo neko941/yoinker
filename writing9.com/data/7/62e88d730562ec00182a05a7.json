@@ -1,0 +1,137 @@
+{
+    "url": "https://writing9.com/text/62e88d730562ec00182a05a7-some-people-say-that-the-main-environment-problem-of-our",
+    "file": [
+        "data",
+        "7",
+        "62e88d730562ec00182a05a7.json"
+    ],
+    "topics": [
+        "people",
+        "environment",
+        "time",
+        "loss",
+        "species",
+        "plants",
+        "animals"
+    ],
+    "question": "some people say that the main environment problem of our time is the loss of particular species of plants and animals.Others say that there are more significant environment problems.Discuss both these views and give own opinions",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A section of society is of the opinion that the major environmental degradation currently is the extinction of  plants and animals.However ,others opine that there are more vital environmental issues.I agree with the latter viewpoint because of pollution and traffic jams.This essay will discuss both sides of the argument as well as my stance in the subsequent paragraphs with examples.",
+        "On the one hand,people are of the view that wildlife and plant species  becoming extinct is the main problem because of  human survival.Individuals depend on these species for  their optimum health.Plants provide individuals with oxygen whereas humans provide them with carbon dioxide.Oxygen is needed for us to survive.There is an adage that 'if the last plant dies ,the final man dies.Hence ,it is better to protect these species from dying out.In addition ,some creatures serve as a treatment modality.They are used to cure human beings suffering from diseases.For instance ,insulin is made from the pancreas of pigs and  such creatures are all lost .The treatment of Diabetes will be difficult and the vast majority of citizens will die.",
+        "On the other hand,I and some school of thought are of the view that pollution and traffic congestion is the main problem of the environment.The water bodies and atmospheres are being polluted by individuals.The fishermen use chemicals like DDT and dynamite to catch more fish which when taken into the body makes it unsafe for our health.Although citizens will contract water-borne diseases , fishermen will benefit.Moreover,water is used by inhabitants for domestic and industrial purposes .Polluting  it will increase the  number of clients visiting the hospital.If the government bar the use of chemicals,diseases associated with waterways will be reduced.For example,there is a high risk of cancer in Adiembra because of the use of dynamites for fishing.",
+        "Furthermore,congested traffic is a vital issue in the cities because a lot of people drive their own cars which affects commuters during peak hours.",
+        "In conclusion,the survival of humans is the reason some people argue that is a major problem for the environment.Meanwhile,I and some people are of the conviction that pollution and traffic jams are  crucial environmental degradation."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "affects",
+                "start_idx": 2000,
+                "end_idx": 2007,
+                "error": "Change the verb form",
+                "error_des": "The singular verb affects does not appear to agree with the plural subject their own cars. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "affect"
+                ]
+            }
+        ]
+    },
+    "submitter": "agozie2018",
+    "num_words": 353,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "13",
+        "list_linking_words": [
+            "for instance",
+            "although",
+            "for example",
+            "that is",
+            "last",
+            "on the other hand",
+            "hence",
+            "this",
+            "however",
+            "such",
+            "moreover",
+            "in addition",
+            "furthermore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 404,
+                        "end_idx": 410
+                    },
+                    {
+                        "start_idx": 1967,
+                        "end_idx": 1973
+                    },
+                    {
+                        "start_idx": 2094,
+                        "end_idx": 2100
+                    },
+                    {
+                        "start_idx": 2172,
+                        "end_idx": 2178
+                    }
+                ]
+            },
+            {
+                "word": "traffic",
+                "occurrences": [
+                    {
+                        "start_idx": 259,
+                        "end_idx": 266
+                    },
+                    {
+                        "start_idx": 1212,
+                        "end_idx": 1219
+                    },
+                    {
+                        "start_idx": 1911,
+                        "end_idx": 1918
+                    },
+                    {
+                        "start_idx": 2220,
+                        "end_idx": 2227
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-02T02:44:12.068Z"
+}

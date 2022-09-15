@@ -1,0 +1,132 @@
+{
+    "url": "https://writing9.com/text/5e36acbb476f910018810443",
+    "file": [
+        "data",
+        "55",
+        "5e36acbb476f910018810443.json"
+    ],
+    "topics": [
+        "people",
+        "case",
+        "traveller"
+    ],
+    "question": "Today more people are travelling than ever before. Why is this the case? What are the benefits of travelling for the traveller?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "These days, undoubtedly the number of travellers has increased significantly. The main reason for this is the globalisation along with the fastest and cheaper rates of transportation, and this not only helps an individual to expand their business, but also abolishes the cultural differences between the people of various regions.",
+        "The crucial reason for the proliferated rate of travelling is the expansion of markets throughout the globe. Nowadays people travel to different places in order to promote their work by conducting various seminars and meetings with international clients. As a result, their career excels not only in their native region but throughout the world. To exemplify, according to the recent report by the aviation authority of India, 20% of the total daily travellers in aeroplanes are business tycoons. Therefore, travelling has become a quintessential part to run a successful business.",
+        "Furthermore, many countries have taken tourism seriously and promote their attractions all over the world. Countries like Macau, Maldives and Fiji heavily rely on tourism and they do everything possible to bring more tourists to their home. As a result, more people travel these days. Advancement of the technology has made it possible for people to learn about world-cities and the lust for travelling has been further accelerated by the cheap flight and speedy transports.",
+        "Travelling benefits people in many ways. The first and foremost is the promotion of their business. Through travelling, travellers can commercialise their local products and earn profits, which can also increase the number of their international clients. Secondly, when people travel to other regions, this narrow downs the cultural differences which further lead to oneness and brotherhood reducing the tensions between various countries and regions. Additionally, this also provides various opportunities for young people to work in technically advanced areas.",
+        "In conclusion, despite the increased cost of travelling, people prefer to commute to other domestic areas or international nations, owing to the better transport facilities and in order to expand their business globally. The commercialisation of local products and employment opportunities are the major advantages of travelling to travellers."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "the fastest",
+                "start_idx": 134,
+                "end_idx": 145,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the fast"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1138,
+                "end_idx": 1140,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "into"
+                ]
+            },
+            {
+                "word": "world",
+                "start_idx": 1274,
+                "end_idx": 1279,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the world"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 344,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "further",
+            "first",
+            "additionally",
+            "also",
+            "secondly",
+            "this",
+            "furthermore",
+            "therefore",
+            "as a result"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "business",
+                "occurrences": [
+                    {
+                        "start_idx": 238,
+                        "end_idx": 246
+                    },
+                    {
+                        "start_idx": 810,
+                        "end_idx": 818
+                    },
+                    {
+                        "start_idx": 903,
+                        "end_idx": 911
+                    },
+                    {
+                        "start_idx": 1478,
+                        "end_idx": 1486
+                    },
+                    {
+                        "start_idx": 2153,
+                        "end_idx": 2161
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-02T11:04:27.691Z"
+}

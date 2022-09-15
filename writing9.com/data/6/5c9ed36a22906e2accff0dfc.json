@@ -1,0 +1,162 @@
+{
+    "url": "https://writing9.com/text/5c9ed36a22906e2accff0dfc",
+    "file": [
+        "data",
+        "6",
+        "5c9ed36a22906e2accff0dfc.json"
+    ],
+    "topics": [
+        "world",
+        "work",
+        "employees",
+        "conditions",
+        "life",
+        "people",
+        "future"
+    ],
+    "question": "The world of work is rapidly changing and employees cannot depend on having the same work or the same work conditions for life. Discuss the possible causes and suggest ways to prepare people for work in the future.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is widely acknowledged that the job market is ever-evolving. However, along with the opportunities that this dynamic environment creates, there are also challenges. One particular difficulty for the employed today is that no working arrangement is absolute, and tenure is not always guaranteed. There are a number of factors driving this instability, and several steps need to be taken if workers are to remain relevant in the future.",
+        "Several trends can shed light on why employees today are not able to cling to the same job for the rest of their lives. First, rapid technological advancements mean that certain industries are being marginalized or are undergoing a complete overhaul, during which a vast number of workers are inevitably laid off. At the same time, the integration of modern technologies in the workplace has rendered some skills obsolete, and individuals who cannot adapt, regardless of their seniority, may face employment termination. Finally, as living costs get exorbitant especially in big cities, sticking to a job that pays poorly with no prospects is simply out of the question, and many are coerced into job hopping in search of better pay and opportunities,",
+        "In order to cope with the erratic nature of the job market, workers or those who are about to embark on working should consider some of the following preparatory steps. Obviously, while sound expertise is still of fundamental importance, equipping oneself with transferrable skills is critical. For example, being proficient in languages and computers will not only make a candidate infinitely more employable but also allow them to switch jobs quickly if needed. In addition, becoming self-employed and starting a business are also options worth exploring. While getting started on these ventures may seem risky compared to working for a company, it bears repeating that the latter route no longer offers much assurance in the current climate of the labor market, and technology has significantly lowered the barriers to entry for startups.",
+        "In conclusion, being able to work in the same place and having guaranteed benefits is no longer possible due to major shifts in the economy. Those who are adaptable, however, can still navigate the complex waters of the job market and carve out a career for themselves. Learning practical skills and having their own businesses are two viable measures to this end."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "exorbitant especially",
+                "start_idx": 987,
+                "end_idx": 1008,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "exorbitant, especially"
+                ]
+            },
+            {
+                "word": "transferrable",
+                "start_idx": 1450,
+                "end_idx": 1463,
+                "error": "capable of being moved or conveyed from one place to another",
+                "error_des": "",
+                "suggetions": [
+                    "transferable"
+                ]
+            },
+            {
+                "word": "labor",
+                "start_idx": 1940,
+                "end_idx": 1945,
+                "error": "a social class comprising those who do manual labor or work for wages",
+                "error_des": "",
+                "suggetions": [
+                    "labour"
+                ]
+            }
+        ]
+    },
+    "submitter": "laamdomai",
+    "num_words": 385,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for example",
+            "finally",
+            "first",
+            "also",
+            "this",
+            "however",
+            "in addition"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "job",
+                "occurrences": [
+                    {
+                        "start_idx": 35,
+                        "end_idx": 38
+                    },
+                    {
+                        "start_idx": 525,
+                        "end_idx": 528
+                    },
+                    {
+                        "start_idx": 1039,
+                        "end_idx": 1042
+                    },
+                    {
+                        "start_idx": 1135,
+                        "end_idx": 1138
+                    },
+                    {
+                        "start_idx": 1238,
+                        "end_idx": 1241
+                    },
+                    {
+                        "start_idx": 1630,
+                        "end_idx": 1633
+                    },
+                    {
+                        "start_idx": 2252,
+                        "end_idx": 2255
+                    }
+                ]
+            },
+            {
+                "word": "market",
+                "occurrences": [
+                    {
+                        "start_idx": 39,
+                        "end_idx": 45
+                    },
+                    {
+                        "start_idx": 1242,
+                        "end_idx": 1248
+                    },
+                    {
+                        "start_idx": 1947,
+                        "end_idx": 1953
+                    },
+                    {
+                        "start_idx": 2256,
+                        "end_idx": 2262
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-30T02:24:42.000Z"
+}

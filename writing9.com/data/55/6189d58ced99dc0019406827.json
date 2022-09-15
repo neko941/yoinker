@@ -1,0 +1,450 @@
+{
+    "url": "https://writing9.com/text/6189d58ced99dc0019406827-some-people-think-that-it-is-important-to-have-a",
+    "file": [
+        "data",
+        "55",
+        "6189d58ced99dc0019406827.json"
+    ],
+    "topics": [
+        "people",
+        "language",
+        "countries",
+        "loss",
+        "culture"
+    ],
+    "question": "Some people think that it is important to have a single language as an international official language. Others think that it will make it difficult to identify countries and cause a loss of culture. What is your opinion on this?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 5.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The idea of single international language is quite a buzz in recent years. Some individuals believe that this idea will lead to loss of culture and identity of a country while others contrast. However, I am in complete harmony with thought of having a  single international language as it will increase the bond between different countries, and it will promote tourism as well.",
+        "The first point to be noted is that having single language strengthens the relationship between different countries. There are many diplomates of each country who interacts with other countries' representatives regularly and having common language in which they can share their view points, makes these interactions more effective. For an instance, a spokesperson from India recently delivered speech in English  at UN meeting about pandemic Covid-19 current condition in India in front of various leaders of different countries. Had the speech been in Hindi, no leader could have understood the same. Hence, common official language is advantageous in certain ways.",
+        "The another point to be noted is that by having common international language, it becomes easier for foreign tourists to interact with other country's residents or officials. While visiting any other country tourists have many issues like finding hotel, restaurant and queries about attractions where they want to visit, so a common international language helps them to share their doubts with ease to any official tourism department. My uncle's visit to USA perfectly exemplifies this scenario, where he had to spend more than 2 hours at airport of USA because he could not find the exit to airport and landed at wrong section of airport just because he could not read and speak any other language except Hindi and all the sign boards were in English language. Therefore, notion of having single international language is beneficial in case of tourism as well.",
+        "To conclude, it can be asserted that usage and presence of common language is must for bonding between various nations, and for tourism. Therefore, there should be single official international language."
+    ],
+    "errors": {
+        "num_error": "26",
+        "error_list": [
+            {
+                "word": "single",
+                "start_idx": 11,
+                "end_idx": 17,
+                "error": "Add an article",
+                "error_des": "The noun phrase single international language seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a single"
+                ]
+            },
+            {
+                "word": "loss",
+                "start_idx": 127,
+                "end_idx": 131,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the loss"
+                ]
+            },
+            {
+                "word": "thought",
+                "start_idx": 231,
+                "end_idx": 238,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the thought"
+                ]
+            },
+            {
+                "word": "single",
+                "start_idx": 420,
+                "end_idx": 426,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a single"
+                ]
+            },
+            {
+                "word": "common",
+                "start_idx": 609,
+                "end_idx": 615,
+                "error": "Add an article",
+                "error_des": "The noun phrase common language seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a common"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 655,
+                "end_idx": 655,
+                "error": "Correct your spelling",
+                "error_des": "The word view points seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "viewpoints"
+                ]
+            },
+            {
+                "word": "view points",
+                "start_idx": 655,
+                "end_idx": 666,
+                "error": "Correct your spelling",
+                "error_des": "The word view points seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "viewpoints"
+                ]
+            },
+            {
+                "word": "speech",
+                "start_idx": 771,
+                "end_idx": 777,
+                "error": "Add an article",
+                "error_des": "The noun phrase speech seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a speech"
+                ]
+            },
+            {
+                "word": "UN",
+                "start_idx": 793,
+                "end_idx": 795,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a UN"
+                ]
+            },
+            {
+                "word": "pandemic",
+                "start_idx": 810,
+                "end_idx": 818,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the pandemic"
+                ]
+            },
+            {
+                "word": "common",
+                "start_idx": 986,
+                "end_idx": 992,
+                "error": "Add an article",
+                "error_des": "The noun phrase common official language seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the common"
+                ]
+            },
+            {
+                "word": "The another",
+                "start_idx": 1044,
+                "end_idx": 1055,
+                "error": "Remove the article",
+                "error_des": "It is unlikely that your sentence needs the article The before another. Consider deleting the article.",
+                "suggetions": [
+                    "Another"
+                ]
+            },
+            {
+                "word": "common",
+                "start_idx": 1092,
+                "end_idx": 1098,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a common"
+                ]
+            },
+            {
+                "word": "hotel",
+                "start_idx": 1291,
+                "end_idx": 1296,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a hotel"
+                ]
+            },
+            {
+                "word": "USA",
+                "start_idx": 1499,
+                "end_idx": 1502,
+                "error": "Correct article usage",
+                "error_des": "Your article usage with the geographic name USA may be incorrect.",
+                "suggetions": [
+                    "the USA"
+                ]
+            },
+            {
+                "word": "airport",
+                "start_idx": 1583,
+                "end_idx": 1590,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the airport"
+                ]
+            },
+            {
+                "word": "airport",
+                "start_idx": 1636,
+                "end_idx": 1643,
+                "error": "Add an article",
+                "error_des": "The noun phrase airport seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the airport"
+                ]
+            },
+            {
+                "word": "wrong",
+                "start_idx": 1658,
+                "end_idx": 1663,
+                "error": "Add an article",
+                "error_des": "The noun phrase wrong section seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the wrong"
+                ]
+            },
+            {
+                "word": "airport",
+                "start_idx": 1675,
+                "end_idx": 1682,
+                "error": "Add an article",
+                "error_des": "The noun phrase airport seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the airport"
+                ]
+            },
+            {
+                "word": "sign boards",
+                "start_idx": 1768,
+                "end_idx": 1779,
+                "error": "Correct your spelling",
+                "error_des": "The word sign boards seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "signboards"
+                ]
+            },
+            {
+                "word": "English",
+                "start_idx": 1788,
+                "end_idx": 1795,
+                "error": "Change the article",
+                "error_des": "It appears that the article usage in the phrase English language is incorrect. Consider changing your article usage in this phrase.",
+                "suggetions": [
+                    "the English"
+                ]
+            },
+            {
+                "word": "notion",
+                "start_idx": 1817,
+                "end_idx": 1823,
+                "error": "Add an article",
+                "error_des": "The noun phrase notion seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the notion"
+                ]
+            },
+            {
+                "word": "single",
+                "start_idx": 1834,
+                "end_idx": 1840,
+                "error": "Add an article",
+                "error_des": "The noun phrase single international language seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a single"
+                ]
+            },
+            {
+                "word": "case",
+                "start_idx": 1881,
+                "end_idx": 1885,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the case"
+                ]
+            },
+            {
+                "word": "must",
+                "start_idx": 1984,
+                "end_idx": 1988,
+                "error": "Add an article",
+                "error_des": "The noun phrase must seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a must"
+                ]
+            },
+            {
+                "word": "single",
+                "start_idx": 2070,
+                "end_idx": 2076,
+                "error": "Add an article",
+                "error_des": "The noun phrase single official international language seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a single"
+                ]
+            }
+        ]
+    },
+    "submitter": "Pooja Dhindsa",
+    "num_words": 336,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "first",
+            "hence",
+            "this",
+            "however",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "tourism",
+                "occurrences": [
+                    {
+                        "start_idx": 361,
+                        "end_idx": 368
+                    },
+                    {
+                        "start_idx": 1460,
+                        "end_idx": 1467
+                    },
+                    {
+                        "start_idx": 1890,
+                        "end_idx": 1897
+                    },
+                    {
+                        "start_idx": 2035,
+                        "end_idx": 2042
+                    }
+                ]
+            },
+            {
+                "word": "countries",
+                "occurrences": [
+                    {
+                        "start_idx": 330,
+                        "end_idx": 339
+                    },
+                    {
+                        "start_idx": 484,
+                        "end_idx": 493
+                    },
+                    {
+                        "start_idx": 562,
+                        "end_idx": 571
+                    },
+                    {
+                        "start_idx": 897,
+                        "end_idx": 906
+                    }
+                ]
+            },
+            {
+                "word": "country",
+                "occurrences": [
+                    {
+                        "start_idx": 162,
+                        "end_idx": 169
+                    },
+                    {
+                        "start_idx": 529,
+                        "end_idx": 536
+                    },
+                    {
+                        "start_idx": 1186,
+                        "end_idx": 1193
+                    },
+                    {
+                        "start_idx": 1245,
+                        "end_idx": 1252
+                    }
+                ]
+            },
+            {
+                "word": "language",
+                "occurrences": [
+                    {
+                        "start_idx": 33,
+                        "end_idx": 41
+                    },
+                    {
+                        "start_idx": 274,
+                        "end_idx": 282
+                    },
+                    {
+                        "start_idx": 428,
+                        "end_idx": 436
+                    },
+                    {
+                        "start_idx": 617,
+                        "end_idx": 625
+                    },
+                    {
+                        "start_idx": 1003,
+                        "end_idx": 1011
+                    },
+                    {
+                        "start_idx": 1114,
+                        "end_idx": 1122
+                    },
+                    {
+                        "start_idx": 1392,
+                        "end_idx": 1400
+                    },
+                    {
+                        "start_idx": 1735,
+                        "end_idx": 1743
+                    },
+                    {
+                        "start_idx": 1797,
+                        "end_idx": 1805
+                    },
+                    {
+                        "start_idx": 1856,
+                        "end_idx": 1864
+                    },
+                    {
+                        "start_idx": 1973,
+                        "end_idx": 1981
+                    },
+                    {
+                        "start_idx": 2101,
+                        "end_idx": 2109
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-11-09T01:57:34.145Z"
+}

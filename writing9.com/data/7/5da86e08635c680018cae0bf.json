@@ -1,0 +1,149 @@
+{
+    "url": "https://writing9.com/text/5da86e08635c680018cae0bf-you-recently-bought-a-piece-of-equipment-for-your-kitchen",
+    "file": [
+        "data",
+        "7",
+        "5da86e08635c680018cae0bf.json"
+    ],
+    "topics": [
+        "piece",
+        "equipment",
+        "kitchen",
+        "work",
+        "shop",
+        "action",
+        "manager"
+    ],
+    "question": "You recently bought a piece of equipment for your kitchen but it did not work. You phoned the shop but no action was taken.\nWrite a letter to the shop manager. In your letter:\n\u2022\tdescribe the problem with the equipment\n\u2022\texplain what happened when you phoned the shop\n\u2022\tsay what you would like the manager to do",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "I am writing to you regarding the microwave that I purchased on 16th October, 2019 from your department stores at Utako branch which is not functioning. This equipment cannot be used because the start button is stiff. Consequently, I cannot power it on despite the fact that the plug is functioning.",
+        "In order to rectify this issue, I called the help lines which I saw on the receipt and Mr. Pedro advised me on what to do. The first step was to send a snapshot of the receipt that was issued to me after a successful purchase. Furthermore, he also advised me to send a complaint letter to this email: [email\u00a0protected] for verification. Unfortunately, they neither responded to my complaint mail, nor resolved the issue, despite the fact that I followed his instruction,",
+        "However, I would appreciate it if you would give me a new replacement since I have not used the product. Besides that, I believe I am entitled to this because the warranty policy said complaint must be made within 3 days of purchase.",
+        "Thank you for your time while I await a positive feedback from you.",
+        "Yours faithfully,",
+        "Cynthia Rex."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 95,
+                "end_idx": 96,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have incorrectly used a comma with a date. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "Utako",
+                "start_idx": 132,
+                "end_idx": 137,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the Utako"
+                ]
+            },
+            {
+                "word": "help lines",
+                "start_idx": 363,
+                "end_idx": 373,
+                "error": "Correct your spelling",
+                "error_des": "The word help lines seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "helplines"
+                ]
+            },
+            {
+                "word": "Mr.",
+                "start_idx": 405,
+                "end_idx": 408,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 714,
+                "end_idx": 715,
+                "error": "Remove the comma",
+                "error_des": "The comma before the conjunction nor appears to be unnecessary. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "complaint",
+                "start_idx": 973,
+                "end_idx": 982,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a complaint"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 1061,
+                "end_idx": 1063,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun feedback in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "ollyasielue",
+    "num_words": 197,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "consequently",
+            "first",
+            "besides",
+            "also",
+            "this",
+            "however",
+            "furthermore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T17:03:37.651Z"
+}

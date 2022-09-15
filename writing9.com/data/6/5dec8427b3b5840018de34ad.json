@@ -1,0 +1,172 @@
+{
+    "url": "https://writing9.com/text/5dec8427b3b5840018de34ad",
+    "file": [
+        "data",
+        "6",
+        "5dec8427b3b5840018de34ad.json"
+    ],
+    "topics": [
+        "people",
+        "range",
+        "technology",
+        "individuals",
+        "gap",
+        "effect"
+    ],
+    "question": "some people believe the range of technology available to individuals today is increasing the gap between poor and rich people. Others think it is having the opposite effect. Discuss both views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is commonly believed that modern technological advancements are widening the gap between the upper class and the lower class. Others, however, believe the opposite. In my opinion, certain technological innovations are available to all people in the society and make contributions to bridging the wealth gap, nevertheless, certain innovations are inaccessible to poor because of their high cost.",
+        "On the one hand, some people think that certain innovation and discoveries play an integral role in filling the gap between different income levels. This is because they are accessible to all people among different social class due to their easy availability at cheaper rates. For instance, the internet technology is available to almost all sections of the society. It is affordable to all the people and certain places such as railway station, bus station and airport are wifi hotspots where the internet is freely available. Besides this, modern technologies have provided great opportunities for the poor to get rich. For example, the internet has already made many people become billionaire by setting their own commercial website. Compared to traditional industries, which require large initial investment and higher operational costs. Hence, the internet is much better and cheaper platform to make fortune for people from all social backgrounds.",
+        "On the other hand, many people argued that certain advancements in technology is not affordable for the poorer sections of the society. Modern medicines, for example, is expensive. Certain new drugs and diagnostic procedures are very costly. Certain affluent people who developed cancer took treatment with special kind of protein which was very expensive but had fewer side effects compared to conventional chemotherapy. Rich people can access these treatments by spending only a small amount of their income and improve their health. Poor people, on the other side, have to spend all of their money for conventional treatment and yet there is no guarantee of returning to a state of good health.",
+        "To conclude, although some claim that modern technology magnifies the gap between the rich and the poor, I strongly believe that it could narrow the difference between social classes."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "poor",
+                "start_idx": 364,
+                "end_idx": 368,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the poor"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 1518,
+                "end_idx": 1520,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "special kind",
+                "start_idx": 1658,
+                "end_idx": 1670,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a special kind"
+                ]
+            },
+            {
+                "word": "protein which",
+                "start_idx": 1674,
+                "end_idx": 1687,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "protein, which"
+                ]
+            },
+            {
+                "word": "expensive but",
+                "start_idx": 1697,
+                "end_idx": 1710,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "expensive, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 348,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "although",
+            "besides",
+            "hence",
+            "this",
+            "however",
+            "such",
+            "nevertheless",
+            "on the other hand"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "gap",
+                "occurrences": [
+                    {
+                        "start_idx": 80,
+                        "end_idx": 83
+                    },
+                    {
+                        "start_idx": 306,
+                        "end_idx": 309
+                    },
+                    {
+                        "start_idx": 510,
+                        "end_idx": 513
+                    },
+                    {
+                        "start_idx": 2120,
+                        "end_idx": 2123
+                    }
+                ]
+            },
+            {
+                "word": "internet",
+                "occurrences": [
+                    {
+                        "start_idx": 693,
+                        "end_idx": 701
+                    },
+                    {
+                        "start_idx": 896,
+                        "end_idx": 904
+                    },
+                    {
+                        "start_idx": 1037,
+                        "end_idx": 1045
+                    },
+                    {
+                        "start_idx": 1251,
+                        "end_idx": 1259
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-12-08T05:03:35.713Z"
+}

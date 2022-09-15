@@ -1,0 +1,119 @@
+{
+    "url": "https://writing9.com/text/631025a9aee9de001876050b-write-a-letter-to-your-internet-service-provider-to-complain",
+    "file": [
+        "data",
+        "6",
+        "631025a9aee9de001876050b.json"
+    ],
+    "topics": [
+        "internet",
+        "service",
+        "provider",
+        "engineer",
+        "visit",
+        "home",
+        "request",
+        "reduction",
+        "bill"
+    ],
+    "question": "Write a letter to your internet service provider to complain. In the letter:- Describe the problem and why you are unhappy- Arrange for an engineer to visit your home- Request a reduction in your bill",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 4.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 6.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "My name is Jenny and I am writing this letter to draw your draw your attention to an issue which is currently facing because of your internet service.",
+        "Yesterday, the internet speed drop way down in the evening for some reason and  I'm still having the same issue. As I work from home, the internet is a very important factor for me and it could possibly affect my work. I tried to reset the router, but it didn't work out. I called the service centre as well but I had to wait for about 3 hours to reach out to an agent but then they told me that they had nothing they can do for me and asked me to write this letter to you.",
+        "If it is possible, I would like to book an appointment with an engineer from your side and let them take a look at my internet router and the cable to investigate what the issue was. Tomorrow around noon would be perfect for me.",
+        "Having said that, I would appreciate if I can get a discount for this matter on this month's bill as well as there is a statement that says customers can request a reduction if they go through any inconvenience.",
+        "I am looking forward to your prompt reply.",
+        "Regards,",
+        "Jenny Choi"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "draw your ",
+                "start_idx": 68,
+                "end_idx": 78,
+                "error": "Remove the redundancy",
+                "error_des": "Oops! It appears that you typed draw your twice in a row. Consider deleting one of them.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "if",
+                "start_idx": 900,
+                "end_idx": 902,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "it if"
+                ]
+            }
+        ]
+    },
+    "submitter": "thatkxkds2",
+    "num_words": 221,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "this",
+            "then"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "internet",
+                "occurrences": [
+                    {
+                        "start_idx": 143,
+                        "end_idx": 151
+                    },
+                    {
+                        "start_idx": 176,
+                        "end_idx": 184
+                    },
+                    {
+                        "start_idx": 299,
+                        "end_idx": 307
+                    },
+                    {
+                        "start_idx": 753,
+                        "end_idx": 761
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-01T03:23:22.944Z"
+}

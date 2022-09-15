@@ -1,0 +1,262 @@
+{
+    "url": "https://writing9.com/text/5d0eeaf86cc3890017eccc6a",
+    "file": [
+        "data",
+        "55",
+        "5d0eeaf86cc3890017eccc6a.json"
+    ],
+    "topics": [
+        "forms",
+        "leisure",
+        "activity",
+        "countries",
+        "adults",
+        "development"
+    ],
+    "question": "Shopping is now one of the most popular forms of leisure activity in many countries for young adults. Why is this? Do you think this is a positive or a negative development?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The society is changing every day. Traditional way of spending our free time has changed drastically in recent years. Shopping takes the priority of young adult's leisure bucket list. Some folks insist that, this affects the society in positive way while others insist that it has a negative impact. In this article I am going to discuss this in further, before come to a conclusion.",
+        "Firstly, some people say that, shopping has a positive impact to the society. The lives of people have greatly affected and changed after invention of social media platforms and the internet. Because people see what others do and what are the latest trends through those medias. For example, people are lined up near the Apple mobile stores whenever a new flagship arrived to the market. Because people are very keen to update their tech devices. Another example is that, after a famous movie is released, people try to imitate those actors by wearing those costumes. Due these reasons, shopping has become the number one leisure activity among young adults.",
+        "On the other hand, some folks elaborate that this is a negative trend. Because these people insist that the energy of these young adults are wasting for nothing. They hold the notion that the energy should spend toward the positive outcome of the society. For example, organize a protest for environmental impact by the factories. Also, the young adults are spending their hard-earned money for these tech gadgets and cloths which is a waste of money. Because whenever a new set of gadgets are found they are going to dump the previously owned gadeget which to the same job and buy a new one. Because of all these reasons, some people say shopping is a negative development.",
+        "In my opinion, It is good to update about the latest trends. For example, by shopping if you can find something good that makes your life easier and simpler, then you should buy that products. Also I believe that as long as if you are a self disciplined person, this development does not impact you in bad manner.",
+        "In conclusion, every development has both negative and positive impact to our lives and to the society. It is our duty to apply these changes to our lives in a positive way."
+    ],
+    "errors": {
+        "num_error": "11",
+        "error_list": [
+            {
+                "word": "Traditional way",
+                "start_idx": 34,
+                "end_idx": 49,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "A traditional way",
+                    "Traditional ways"
+                ]
+            },
+            {
+                "word": "adult's",
+                "start_idx": 154,
+                "end_idx": 161,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "adults'"
+                ]
+            },
+            {
+                "word": "positive way",
+                "start_idx": 235,
+                "end_idx": 247,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a positive way",
+                    "positive ways"
+                ]
+            },
+            {
+                "word": "come",
+                "start_idx": 361,
+                "end_idx": 365,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "coming"
+                ]
+            },
+            {
+                "word": "invention",
+                "start_idx": 521,
+                "end_idx": 530,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the invention"
+                ]
+            },
+            {
+                "word": "medias",
+                "start_idx": 654,
+                "end_idx": 660,
+                "error": "a means or instrumentality for storing or communicating information",
+                "error_des": "",
+                "suggetions": [
+                    "media",
+                    "mediums"
+                ]
+            },
+            {
+                "word": "gadeget",
+                "start_idx": 1586,
+                "end_idx": 1593,
+                "error": "a device or control that is very useful for a particular job",
+                "error_des": "",
+                "suggetions": [
+                    "gadgets"
+                ]
+            },
+            {
+                "word": "then",
+                "start_idx": 1875,
+                "end_idx": 1879,
+                "error": "conjunction used in comparatives",
+                "error_des": "",
+                "suggetions": [
+                    "than"
+                ]
+            },
+            {
+                "word": "products",
+                "start_idx": 1900,
+                "end_idx": 1908,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "product"
+                ]
+            },
+            {
+                "word": "Also I",
+                "start_idx": 1910,
+                "end_idx": 1916,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Also, I"
+                ]
+            },
+            {
+                "word": "bad manner",
+                "start_idx": 2019,
+                "end_idx": 2029,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a bad manner",
+                    "the bad manner"
+                ]
+            }
+        ]
+    },
+    "submitter": "suttassuttaho-7797",
+    "num_words": 381,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "further",
+            "for ",
+            "also",
+            "this",
+            "firstly",
+            "on the other hand"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "society",
+                "occurrences": [
+                    {
+                        "start_idx": 4,
+                        "end_idx": 11
+                    },
+                    {
+                        "start_idx": 225,
+                        "end_idx": 232
+                    },
+                    {
+                        "start_idx": 453,
+                        "end_idx": 460
+                    },
+                    {
+                        "start_idx": 1290,
+                        "end_idx": 1297
+                    },
+                    {
+                        "start_idx": 2127,
+                        "end_idx": 2134
+                    }
+                ]
+            },
+            {
+                "word": "example",
+                "occurrences": [
+                    {
+                        "start_idx": 667,
+                        "end_idx": 674
+                    },
+                    {
+                        "start_idx": 839,
+                        "end_idx": 846
+                    },
+                    {
+                        "start_idx": 1303,
+                        "end_idx": 1310
+                    },
+                    {
+                        "start_idx": 1783,
+                        "end_idx": 1790
+                    }
+                ]
+            },
+            {
+                "word": "impact",
+                "occurrences": [
+                    {
+                        "start_idx": 292,
+                        "end_idx": 298
+                    },
+                    {
+                        "start_idx": 439,
+                        "end_idx": 445
+                    },
+                    {
+                        "start_idx": 1349,
+                        "end_idx": 1355
+                    },
+                    {
+                        "start_idx": 2006,
+                        "end_idx": 2012
+                    },
+                    {
+                        "start_idx": 2096,
+                        "end_idx": 2102
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-23T02:59:04.000Z"
+}

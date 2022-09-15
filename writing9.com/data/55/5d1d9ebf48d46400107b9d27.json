@@ -1,0 +1,287 @@
+{
+    "url": "https://writing9.com/text/5d1d9ebf48d46400107b9d27",
+    "file": [
+        "data",
+        "55",
+        "5d1d9ebf48d46400107b9d27.json"
+    ],
+    "topics": [
+        "countries",
+        "world",
+        "volume",
+        "road",
+        "traffic",
+        "rate",
+        "roads"
+    ],
+    "question": "In countries all over the world, the volume of road traffic is increasing at a faster rate than new roads are built. What are the causes of this problem? What are some potential solutions?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In today's modern world, countries are facing the issue of road traffic volume which is increasing at a higher level than the construction of new roads. The increase in traffic on roads is mainly due to people having access to buying personal vehicles on affordable rates and packages as well as the city sprawl. The said issue can be solved by promoting mode of mass public transportation and implementing taxes on purchasing vehicles.",
+        "One of the main reasons for the above-mentioned problem is the affordable price of vehicles, nowadays. For example, due to the increasing competition among various cars manufacturing companies, vehicles are now being offered to be bought on numerous packages and easy installments by the companies. This led to the higher purchasing of vehicles by the common man which resulted in higher volume of traffic on roads. Another cause is that since the population is growing rapidly, the cities have now been started to sprawl resulting in longer distance between home and workplace. This has caused more usage of vehicles on daily basis, thus, causing huge traffic on roads.",
+        "This problem can be solved in many ways. One of the viable solutions is to develop/upgrade and promote the use of mass public transportation which can be done by the government on macro level. For instance, in Japan, majority of people use Subway transport service, which is a form of mass public transportation, to commute daily, due to which there is no load of traffic on the roads of this country. Furthermore, applying taxes on the purchasing of vehicles can also result in less affordability by the customers and may result in lesser volume of traffic on the roads.",
+        "In conclusion, nowadays, although traffic volumes are increasing at a higher rate than the development of roads in many countries all around the world, due to the factors of vehicle purchasing affordability and the city sprawl, it can be resolved by introducing or promoting mass public transportation and applying more taxes on buying vehicles."
+    ],
+    "errors": {
+        "num_error": "13",
+        "error_list": [
+            {
+                "word": "volume which",
+                "start_idx": 71,
+                "end_idx": 83,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "volume, which"
+                ]
+            },
+            {
+                "word": "mode",
+                "start_idx": 354,
+                "end_idx": 358,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "modes",
+                    "a mode"
+                ]
+            },
+            {
+                "word": "cars",
+                "start_idx": 600,
+                "end_idx": 604,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "car"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 674,
+                "end_idx": 676,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "installments",
+                "start_idx": 704,
+                "end_idx": 716,
+                "error": "a payment of part of a debt; usually paid at regular intervals",
+                "error_des": "",
+                "suggetions": [
+                    "instalments",
+                    "instalments'"
+                ]
+            },
+            {
+                "word": "man which",
+                "start_idx": 795,
+                "end_idx": 804,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "man, which"
+                ]
+            },
+            {
+                "word": "higher volume",
+                "start_idx": 817,
+                "end_idx": 830,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a higher volume"
+                ]
+            },
+            {
+                "word": "daily basis",
+                "start_idx": 1057,
+                "end_idx": 1068,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a daily basis"
+                ]
+            },
+            {
+                "word": "transportation which",
+                "start_idx": 1233,
+                "end_idx": 1253,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "transportation, which"
+                ]
+            },
+            {
+                "word": "macro level",
+                "start_idx": 1287,
+                "end_idx": 1298,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a macro level",
+                    "the macro level"
+                ]
+            },
+            {
+                "word": "majority",
+                "start_idx": 1324,
+                "end_idx": 1332,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the majority"
+                ]
+            },
+            {
+                "word": "Subway transport service",
+                "start_idx": 1347,
+                "end_idx": 1371,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the Subway transport service",
+                    "Subway transport services"
+                ]
+            },
+            {
+                "word": "purchasing",
+                "start_idx": 1544,
+                "end_idx": 1554,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "purchase"
+                ]
+            }
+        ]
+    },
+    "submitter": "Serhii Baraniuk",
+    "num_words": 334,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "also",
+            "this",
+            "although",
+            "furthermore",
+            "thus"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "transportation",
+                "occurrences": [
+                    {
+                        "start_idx": 375,
+                        "end_idx": 389
+                    },
+                    {
+                        "start_idx": 1234,
+                        "end_idx": 1248
+                    },
+                    {
+                        "start_idx": 1405,
+                        "end_idx": 1419
+                    },
+                    {
+                        "start_idx": 1967,
+                        "end_idx": 1981
+                    }
+                ]
+            },
+            {
+                "word": "traffic",
+                "occurrences": [
+                    {
+                        "start_idx": 64,
+                        "end_idx": 71
+                    },
+                    {
+                        "start_idx": 169,
+                        "end_idx": 176
+                    },
+                    {
+                        "start_idx": 835,
+                        "end_idx": 842
+                    },
+                    {
+                        "start_idx": 1090,
+                        "end_idx": 1097
+                    },
+                    {
+                        "start_idx": 1472,
+                        "end_idx": 1479
+                    },
+                    {
+                        "start_idx": 1658,
+                        "end_idx": 1665
+                    },
+                    {
+                        "start_idx": 1714,
+                        "end_idx": 1721
+                    }
+                ]
+            },
+            {
+                "word": "mass",
+                "occurrences": [
+                    {
+                        "start_idx": 363,
+                        "end_idx": 367
+                    },
+                    {
+                        "start_idx": 1222,
+                        "end_idx": 1226
+                    },
+                    {
+                        "start_idx": 1393,
+                        "end_idx": 1397
+                    },
+                    {
+                        "start_idx": 1955,
+                        "end_idx": 1959
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-04T06:37:51.000Z"
+}

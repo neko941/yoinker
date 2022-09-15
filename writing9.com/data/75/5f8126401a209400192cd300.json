@@ -1,0 +1,93 @@
+{
+    "url": "https://writing9.com/text/5f8126401a209400192cd300-you-have-just-moved-into-a-new-home-and-are",
+    "file": [
+        "data",
+        "75",
+        "5f8126401a209400192cd300.json"
+    ],
+    "topics": [
+        "home",
+        "party",
+        "noise",
+        "neighbour",
+        "plans",
+        "addresses"
+    ],
+    "question": "You have just moved into a new home and are planning to hold a party. You are worried that the noise may disturb your neighbour.Write a letter to your neighbour. In your letter\u2022\tintroduce yourself\u2022\tdescribe your plans for the party\u2022\tinvite your neighbour to comeYou do NOT need to write any addresses.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr Jones,",
+        "My name is Liza and I have just moved here. I am writing for two main reasons, first I invited some of my friends over to a party on the weekend in order to celebrate my first single apartment in the city and considering that I am your next-door neighbour, I needed to assure that the noise will not be a problem. It will be a small gathering, but we will have music, food and beverages so it is very likely to get a little bit loud.",
+        "Second, I would appreciate if you could come, not just to prevent the issue with loud music but it could be a nice occasion to get to know each other as we will probably be neighbours for a while. There will be plenty of food and if in the end,you decide to come, you only have to bring something to drink, alcoholic or not, it does not matter.",
+        "Looking forward to hearing from you,",
+        "Yours faithfully,",
+        "Liza"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "that",
+                "start_idx": 290,
+                "end_idx": 294,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "you that"
+                ]
+            },
+            {
+                "word": "if",
+                "start_idx": 475,
+                "end_idx": 477,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "it if"
+                ]
+            }
+        ]
+    },
+    "submitter": "brenda144",
+    "num_words": 167,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "second",
+            "next",
+            "first"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-14T13:01:28.083Z"
+}

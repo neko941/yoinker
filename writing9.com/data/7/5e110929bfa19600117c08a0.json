@@ -1,0 +1,106 @@
+{
+    "url": "https://writing9.com/text/5e110929bfa19600117c08a0-you-recently-went-on-holiday-with-your-family-to-an",
+    "file": [
+        "data",
+        "7",
+        "5e110929bfa19600117c08a0.json"
+    ],
+    "topics": [
+        "holiday",
+        "island",
+        "resort",
+        "home",
+        "item",
+        "hotel",
+        "manager"
+    ],
+    "question": "You recently went on holiday with your family to an island resort . Upon your return home, you discovered that you had forgotten a very valuable item there. \n\n\nWrite a letter to the hotel manager to inform him/her of your problem. In the letter, you should: \n\n    Describe the item \n    Say why it is important that you get the item back \n    Tell the manager what you would like him/her to do.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 4.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "I was recently a guest at your hotel in Cuba, where my family and I had a very pleasant stay. Unfortunately, upon my return home I have that I had left my laptop in my room at the hotel, and so I am writing to ask you to please ship it to me.",
+        "The laptop is a 15-inch black Dell, with a silver logo on the cover and a small Batman sticker (placed there by my son) at the bottom right-hand corner of the keyboard. The keyboard itself is worn with some of the letters missing. It should be easy to identify.",
+        "I am a university researcher and, though on vacation, I had to work on a major project. I did not have the opportunity to upload this vital work to the Cloud, and thereby have a backup, so I genuinely need to recover the laptop as soon as possible.",
+        "Could you please ship it to me by express mail? I will immediately transfer the full costs involved to a bank in your area. Please let me know you have the laptop and can send it, as well as the banking details.",
+        "I appreciate your assistance in this matter.",
+        "Best regards,",
+        "JOHN SMITH"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "on",
+                "start_idx": 564,
+                "end_idx": 566,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter on vacation. Consider adding the comma(s).",
+                "suggetions": [
+                    ",on"
+                ]
+            }
+        ]
+    },
+    "submitter": "mike19922010",
+    "num_words": 207,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "1",
+        "list_linking_words": [
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "laptop",
+                "occurrences": [
+                    {
+                        "start_idx": 174,
+                        "end_idx": 180
+                    },
+                    {
+                        "start_idx": 266,
+                        "end_idx": 272
+                    },
+                    {
+                        "start_idx": 745,
+                        "end_idx": 751
+                    },
+                    {
+                        "start_idx": 929,
+                        "end_idx": 935
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T18:16:47.128Z"
+}

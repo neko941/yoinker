@@ -1,0 +1,144 @@
+{
+    "url": "https://writing9.com/text/5f031bd12ecf6900181ef3eb",
+    "file": [
+        "data",
+        "65",
+        "5f031bd12ecf6900181ef3eb.json"
+    ],
+    "topics": [
+        "artists",
+        "sums",
+        "money",
+        "struggle",
+        "governments",
+        "steps",
+        "situation"
+    ],
+    "question": "some modern artists receive huge sums of money for the things they create, while others struggle to survive. Governments should take steps to resolve this unfair situation",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the state-of-the-art world, people have different views about the funding of creative artists. While some demographics protect the opinion that the government should spend money to support unpopular artists, I disagree with the statement that the government has no responsibility for this.",
+        "First of all, it is true that the value of an artwork depends on the natural demands of people. To be more precise, it depends on how many people want to possess it. The more famous and attractive the masterpiece is, the more people want to purchase that. For example, in the auction where they sell masterpieces of many well-known artists, attracting the attention of numerous traders and collectors around the world. This will make the products to be more valuable and sought after. As a result, this situation should be free from the control of the government because when it comes to personal tastes, there should not have any force.",
+        "Second of all, successful artists have been working so hard by using their talent to make incredible paintings, so they deserve the financial rewards. In addition, most of the artists start with scratching and learning before they have their own reputation. They had to spend their time practicing and had to cope with failure so many times. However, they did not give up and continue devoting their talent to the art career. Vincent Van Gogh is a typical example. Artists\u2019 achievement is hard-earned, so if they received huge money from what they create, it is their financial rewards and the government should not join in.",
+        "To sum up, it is undeniable that artists had worked diligently to accomplish a reputation in the art field and the money they received is their reward. So, if the government wants to equalize the well-known and the unknown artists by giving the unknown ones equal money, it would be not fair for those who are talented and dedicated for the artwork."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "The more famous",
+                "start_idx": 458,
+                "end_idx": 473,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "The most famous"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 1888,
+                "end_idx": 1891,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to"
+                ]
+            }
+        ]
+    },
+    "submitter": "T\u00fa Anh Nguy\u1ec5n Ng\u1ecdc",
+    "num_words": 321,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for example",
+            "second",
+            "first",
+            "this",
+            "however",
+            "in addition",
+            "as a result"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "money",
+                "occurrences": [
+                    {
+                        "start_idx": 175,
+                        "end_idx": 180
+                    },
+                    {
+                        "start_idx": 1458,
+                        "end_idx": 1463
+                    },
+                    {
+                        "start_idx": 1671,
+                        "end_idx": 1676
+                    },
+                    {
+                        "start_idx": 1820,
+                        "end_idx": 1825
+                    }
+                ]
+            },
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 151,
+                        "end_idx": 161
+                    },
+                    {
+                        "start_idx": 250,
+                        "end_idx": 260
+                    },
+                    {
+                        "start_idx": 845,
+                        "end_idx": 855
+                    },
+                    {
+                        "start_idx": 1525,
+                        "end_idx": 1535
+                    },
+                    {
+                        "start_idx": 1719,
+                        "end_idx": 1729
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-06T12:40:51.641Z"
+}

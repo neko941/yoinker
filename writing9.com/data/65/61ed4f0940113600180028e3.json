@@ -1,0 +1,534 @@
+{
+    "url": "https://writing9.com/text/61ed4f0940113600180028e3-you-recently-bought-a-jacket-but-when-you-got-home",
+    "file": [
+        "data",
+        "65",
+        "61ed4f0940113600180028e3.json"
+    ],
+    "topics": [
+        "jacket",
+        "home",
+        "store",
+        "merchandise",
+        "manager"
+    ],
+    "question": "You recently bought a jacket, but when you got home, you discovered it was damaged. When you took it back to the store, you were told that merchandise cannot be returned.Write a letter to the store manager. In your letterDescribe the problem with the jacket.Explain what happened when you tried to return it.Say what you would like the manager to do.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "Hope you are well. I am writing this letter to express my sadness about previous shop from your store. I had bought a jacket, but when I came to home, I have realized it was damaged very bad. It was impossible to wear.",
+        "When I was in store, I haven't controlled the jacket totally. However, I tried to wear at home, I couldn't wear it because of zipper is not working. It was broken. Also there were some white blemish on the arms of the jacket.",
+        "After I discovered these problems, I went to your store last Tuesday. I have talked with your store associate. She told me, because of discounts, we can't return any of products. Though, I couldn't return my damaged product.",
+        "As a being consumer, I request you to change my damaged jacket with new one. I like your store and I do shop quite often from your store. Nobody can wear this jacket with current condition. I would be very glad if you change my product.",
+        "Sincerely,",
+        "Ezgi Ko\u00e7ak"
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "previous",
+                "start_idx": 81,
+                "end_idx": 89,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase previous shop does not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "the previous"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 151,
+                "end_idx": 154,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "home",
+                "start_idx": 154,
+                "end_idx": 158,
+                "error": "Add an article",
+                "error_des": "The noun phrase home seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the home"
+                ]
+            },
+            {
+                "word": "bad",
+                "start_idx": 196,
+                "end_idx": 199,
+                "error": "Replace the word",
+                "error_des": "The word bad doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "badly"
+                ]
+            },
+            {
+                "word": "store",
+                "start_idx": 242,
+                "end_idx": 247,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the store"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 315,
+                "end_idx": 317,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "it at"
+                ]
+            },
+            {
+                "word": "zipper",
+                "start_idx": 354,
+                "end_idx": 360,
+                "error": "Add an article",
+                "error_des": "The noun phrase zipper seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the zipper"
+                ]
+            },
+            {
+                "word": "Also",
+                "start_idx": 392,
+                "end_idx": 396,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Also. Consider adding a comma.",
+                "suggetions": [
+                    ",Also"
+                ]
+            },
+            {
+                "word": "were",
+                "start_idx": 403,
+                "end_idx": 407,
+                "error": "Change the verb form",
+                "error_des": "The plural form of be were does not seem to agree with the singular subject some white blemish. Consider changing the verb form.",
+                "suggetions": [
+                    "was"
+                ]
+            },
+            {
+                "word": "blemish",
+                "start_idx": 419,
+                "end_idx": 426,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that blemish may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "blemishes"
+                ]
+            },
+            {
+                "word": "products",
+                "start_idx": 623,
+                "end_idx": 631,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the products"
+                ]
+            },
+            {
+                "word": "new",
+                "start_idx": 747,
+                "end_idx": 750,
+                "error": "Add an article",
+                "error_des": "The noun phrase new one seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a new",
+                    "the new"
+                ]
+            },
+            {
+                "word": "with",
+                "start_idx": 845,
+                "end_idx": 849,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "current",
+                "start_idx": 850,
+                "end_idx": 857,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "its current"
+                ]
+            }
+        ]
+    },
+    "submitter": "ezgikocak93",
+    "num_words": 175,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "last",
+            "this",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "t",
+                "occurrences": [
+                    {
+                        "start_idx": 37,
+                        "end_idx": 38
+                    },
+                    {
+                        "start_idx": 42,
+                        "end_idx": 43
+                    },
+                    {
+                        "start_idx": 49,
+                        "end_idx": 50
+                    },
+                    {
+                        "start_idx": 50,
+                        "end_idx": 51
+                    },
+                    {
+                        "start_idx": 54,
+                        "end_idx": 55
+                    },
+                    {
+                        "start_idx": 80,
+                        "end_idx": 81
+                    },
+                    {
+                        "start_idx": 107,
+                        "end_idx": 108
+                    },
+                    {
+                        "start_idx": 124,
+                        "end_idx": 125
+                    },
+                    {
+                        "start_idx": 133,
+                        "end_idx": 134
+                    },
+                    {
+                        "start_idx": 138,
+                        "end_idx": 139
+                    },
+                    {
+                        "start_idx": 152,
+                        "end_idx": 153
+                    },
+                    {
+                        "start_idx": 178,
+                        "end_idx": 179
+                    },
+                    {
+                        "start_idx": 203,
+                        "end_idx": 204
+                    },
+                    {
+                        "start_idx": 220,
+                        "end_idx": 221
+                    },
+                    {
+                        "start_idx": 244,
+                        "end_idx": 245
+                    },
+                    {
+                        "start_idx": 258,
+                        "end_idx": 259
+                    },
+                    {
+                        "start_idx": 263,
+                        "end_idx": 264
+                    },
+                    {
+                        "start_idx": 271,
+                        "end_idx": 272
+                    },
+                    {
+                        "start_idx": 280,
+                        "end_idx": 281
+                    },
+                    {
+                        "start_idx": 282,
+                        "end_idx": 283
+                    },
+                    {
+                        "start_idx": 284,
+                        "end_idx": 285
+                    },
+                    {
+                        "start_idx": 302,
+                        "end_idx": 303
+                    },
+                    {
+                        "start_idx": 308,
+                        "end_idx": 309
+                    },
+                    {
+                        "start_idx": 317,
+                        "end_idx": 318
+                    },
+                    {
+                        "start_idx": 334,
+                        "end_idx": 335
+                    },
+                    {
+                        "start_idx": 342,
+                        "end_idx": 343
+                    },
+                    {
+                        "start_idx": 367,
+                        "end_idx": 368
+                    },
+                    {
+                        "start_idx": 379,
+                        "end_idx": 380
+                    },
+                    {
+                        "start_idx": 398,
+                        "end_idx": 399
+                    },
+                    {
+                        "start_idx": 417,
+                        "end_idx": 418
+                    },
+                    {
+                        "start_idx": 431,
+                        "end_idx": 432
+                    },
+                    {
+                        "start_idx": 443,
+                        "end_idx": 444
+                    },
+                    {
+                        "start_idx": 452,
+                        "end_idx": 453
+                    },
+                    {
+                        "start_idx": 457,
+                        "end_idx": 458
+                    },
+                    {
+                        "start_idx": 474,
+                        "end_idx": 475
+                    },
+                    {
+                        "start_idx": 495,
+                        "end_idx": 496
+                    },
+                    {
+                        "start_idx": 497,
+                        "end_idx": 498
+                    },
+                    {
+                        "start_idx": 506,
+                        "end_idx": 507
+                    },
+                    {
+                        "start_idx": 514,
+                        "end_idx": 515
+                    },
+                    {
+                        "start_idx": 532,
+                        "end_idx": 533
+                    },
+                    {
+                        "start_idx": 541,
+                        "end_idx": 542
+                    },
+                    {
+                        "start_idx": 550,
+                        "end_idx": 551
+                    },
+                    {
+                        "start_idx": 562,
+                        "end_idx": 563
+                    },
+                    {
+                        "start_idx": 570,
+                        "end_idx": 571
+                    },
+                    {
+                        "start_idx": 597,
+                        "end_idx": 598
+                    },
+                    {
+                        "start_idx": 608,
+                        "end_idx": 609
+                    },
+                    {
+                        "start_idx": 612,
+                        "end_idx": 613
+                    },
+                    {
+                        "start_idx": 630,
+                        "end_idx": 631
+                    },
+                    {
+                        "start_idx": 651,
+                        "end_idx": 652
+                    },
+                    {
+                        "start_idx": 655,
+                        "end_idx": 656
+                    },
+                    {
+                        "start_idx": 677,
+                        "end_idx": 678
+                    },
+                    {
+                        "start_idx": 709,
+                        "end_idx": 710
+                    },
+                    {
+                        "start_idx": 715,
+                        "end_idx": 716
+                    },
+                    {
+                        "start_idx": 741,
+                        "end_idx": 742
+                    },
+                    {
+                        "start_idx": 745,
+                        "end_idx": 746
+                    },
+                    {
+                        "start_idx": 770,
+                        "end_idx": 771
+                    },
+                    {
+                        "start_idx": 792,
+                        "end_idx": 793
+                    },
+                    {
+                        "start_idx": 797,
+                        "end_idx": 798
+                    },
+                    {
+                        "start_idx": 812,
+                        "end_idx": 813
+                    },
+                    {
+                        "start_idx": 834,
+                        "end_idx": 835
+                    },
+                    {
+                        "start_idx": 844,
+                        "end_idx": 845
+                    },
+                    {
+                        "start_idx": 848,
+                        "end_idx": 849
+                    },
+                    {
+                        "start_idx": 857,
+                        "end_idx": 858
+                    },
+                    {
+                        "start_idx": 864,
+                        "end_idx": 865
+                    },
+                    {
+                        "start_idx": 914,
+                        "end_idx": 915
+                    }
+                ]
+            },
+            {
+                "word": "jacket",
+                "occurrences": [
+                    {
+                        "start_idx": 128,
+                        "end_idx": 134
+                    },
+                    {
+                        "start_idx": 275,
+                        "end_idx": 281
+                    },
+                    {
+                        "start_idx": 447,
+                        "end_idx": 453
+                    },
+                    {
+                        "start_idx": 736,
+                        "end_idx": 742
+                    },
+                    {
+                        "start_idx": 839,
+                        "end_idx": 845
+                    }
+                ]
+            },
+            {
+                "word": "store",
+                "occurrences": [
+                    {
+                        "start_idx": 106,
+                        "end_idx": 111
+                    },
+                    {
+                        "start_idx": 243,
+                        "end_idx": 248
+                    },
+                    {
+                        "start_idx": 505,
+                        "end_idx": 510
+                    },
+                    {
+                        "start_idx": 549,
+                        "end_idx": 554
+                    },
+                    {
+                        "start_idx": 769,
+                        "end_idx": 774
+                    },
+                    {
+                        "start_idx": 811,
+                        "end_idx": 816
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-01-23T12:50:18.750Z"
+}

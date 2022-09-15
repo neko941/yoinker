@@ -1,0 +1,97 @@
+{
+    "url": "https://writing9.com/text/6273fece841b730018330b4b-some-people-today-prefer-to-get-advice-for-medical-problems",
+    "file": [
+        "data",
+        "7",
+        "6273fece841b730018330b4b.json"
+    ],
+    "topics": [
+        "people",
+        "advice",
+        "visit",
+        "doctor",
+        "development"
+    ],
+    "question": "Some people today prefer to get advice for medical problems and do not want to visit a doctor.Why is this?Is this a positive or a negative development?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that nowadays a particular part of society would better ask for advice for health issues than having an examination by a doctor. Although there are a number of reasons for this occurring, I believe that it is a negative change.",
+        "With regard to the attendance at medical institutions, now people are afraid of seeing a great deal of money in their bills for a visit made to the doctor. In other words, the amount of money which goes into medical care is noticeably higher when compared with a decade ago. For instance, dentists in particular regions require roughly twice more for their work than ten years ago. Moreover, in our full work world individuals really appreciate their time. The public considers that it is unnecessary to have any examinations because doctors usually tell about ways of treatment that folk already uses.",
+        "Nowadays, the major part of society does not have any health checks if there are no symptoms. However, in the past this kind of check was obligatory and everyone has been doing it on regular basis. As a result, the rate of public well-being was higher because most serious illnesses were recorded in the beginning stage and prevented on time. Another consequence of today's method is that infectious illnesses spread rapidly. The majority of diseases share similarities in symptoms, so a great number of people treat it at home thinking that it is a simple cold, while it may be a contagious illness. For example, in times of coronavirus many people got treatment at home resulting in the spread of this disease among their close persons.",
+        "In conclusion, although in our days there is a lack of money and time for many individuals in this busy world, I believe that the health of a person is much more important."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "world",
+                "start_idx": 647,
+                "end_idx": 652,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase in our full work world. Consider adding a comma.",
+                "suggetions": [
+                    ",world"
+                ]
+            },
+            {
+                "word": "coronavirus",
+                "start_idx": 1467,
+                "end_idx": 1478,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase in times of coronavirus. Consider adding a comma.",
+                "suggetions": [
+                    ",coronavirus"
+                ]
+            }
+        ]
+    },
+    "submitter": "jaker.raimov",
+    "num_words": 303,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "for instance",
+            "in particular",
+            "for example",
+            "in other words",
+            "this",
+            "however",
+            "moreover",
+            "although",
+            "as a result"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-05-05T16:54:48.581Z"
+}

@@ -1,0 +1,150 @@
+{
+    "url": "https://writing9.com/text/63106328aee9de0018760568-many-people-say-that-companies-factory-owners-and-privates-tour",
+    "file": [
+        "data",
+        "65",
+        "63106328aee9de0018760568.json"
+    ],
+    "topics": [
+        "people",
+        "companies",
+        "factory",
+        "owners",
+        "privates",
+        "tour",
+        "bills",
+        "pollution",
+        "government"
+    ],
+    "question": "Many people say that companies, factory owners and privates tour operates should pay the bills for cleaning up pollution, instead of government. To what extend do you agree or disagree.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In today's society, it is apparent that more pollution is being generated as companies expand. Some individuals argue that firms, factory owners, and private tour operators, rather than the government, should foot the tab for pollution cleanup. This article will argue that they, not the government, should be held accountable for this.",
+        "Many people believe that the government should prioritize other areas of the nation's existence above pollution. Despite the fact that the government has set up campaigns and legislation to minimize pollution, utilizing taxes paid by the people to support these programs, it never appears to diminish since the source of it has not been addressed. For example, manufacturers are required not to discharge chemical and hazardous waste into the river or face penalties and imprisonment. It is still a failure and a burden on the government and society. As a result, these bills should be aimed towards those responsible.",
+        "Companies, industrial owners, and private tours, in my view, should bear the brunt of these costs. Various types of garbage have frequently been dumped into the water and air by these industries. For example, regulations are in place, yet companies continue to surreptitiously dump chemical waste into rivers or provide large products and services that spew harmful gases into the atmosphere. Regardless of the circumstances or steps taken by the authorities, it is pointless if these corporations continue to turn a blind eye. For these reasons, they should be held accountable for environmental cleanup.",
+        "In conclusion, many individuals feel that private firms, factory owners, and private tours, rather than the government, should foot the tab for pollution cleanup. This is something I wholeheartedly agree with. If these firms continue to operate in this way, the responsibility will eventually fall on the taxpayers who pay taxes."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "towards",
+                "start_idx": 928,
+                "end_idx": 935,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "taken",
+                "start_idx": 1389,
+                "end_idx": 1394,
+                "error": "Add the auxiliary verb",
+                "error_des": "The past participle verb taken has been used without an auxiliary verb. Consider adding one or using the past simple instead.",
+                "suggetions": [
+                    "were taken"
+                ]
+            }
+        ]
+    },
+    "submitter": "Abhishek",
+    "num_words": 296,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "as a result",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 190,
+                        "end_idx": 200
+                    },
+                    {
+                        "start_idx": 288,
+                        "end_idx": 298
+                    },
+                    {
+                        "start_idx": 366,
+                        "end_idx": 376
+                    },
+                    {
+                        "start_idx": 476,
+                        "end_idx": 486
+                    },
+                    {
+                        "start_idx": 864,
+                        "end_idx": 874
+                    },
+                    {
+                        "start_idx": 1670,
+                        "end_idx": 1680
+                    }
+                ]
+            },
+            {
+                "word": "pollution",
+                "occurrences": [
+                    {
+                        "start_idx": 45,
+                        "end_idx": 54
+                    },
+                    {
+                        "start_idx": 226,
+                        "end_idx": 235
+                    },
+                    {
+                        "start_idx": 439,
+                        "end_idx": 448
+                    },
+                    {
+                        "start_idx": 536,
+                        "end_idx": 545
+                    },
+                    {
+                        "start_idx": 1706,
+                        "end_idx": 1715
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-01T07:53:25.362Z"
+}

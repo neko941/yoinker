@@ -1,0 +1,178 @@
+{
+    "url": "https://writing9.com/text/5d8f958424d23f0017495633",
+    "file": [
+        "data",
+        "6",
+        "5d8f958424d23f0017495633.json"
+    ],
+    "topics": [
+        "people",
+        "computers",
+        "life",
+        "support"
+    ],
+    "question": "Some people say that computers have made life easier and more convenient. Other people say that computers have made life more complex and stressful.\n\nWhat is your opinion? Use specific reasons and examples to support your answer.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "We live in society highly technological where computers have become central in the daily routine of almost everybody. Although, some people think that computers have worsened our lifestyles, increasing the level of anxiety. In any case, I strongly believe that notebooks and laptops have made our lives simpler and overall more relaxed compared to the past.",
+        "For some, computers are highly addictive and made us slaves of technology. People are not able to conduct anymore a happy life without the support of computers and they need to use them every single day, even for the most irrelevant actions, like shopping at supermarkets. In a certain way, we are not masters of our own lives anymore. It is indisputable that our society has become fully computerised. Nevertheless, the benefits that these devices have brought to our world are unquestionable i.e. medical support, faster lines, easier access to our money and so on.",
+        "Computers are an indispensable part of the society of the second millennium. The world as we know it would collapse if a sudden crash would occur to computers. We have the possibility to be connected live 24/7 with anybody on earth. There are no limits on what computers can do and the majority of us do not know the potential these machines have. In addition, something that for us has become natural like buying flight tickets or booking hotels, before were actions much more difficult and complex.",
+        "In conclusion, it maybe true that we have become dependent to computers and this may cause more tension, but it is also accurate to say that very often our lives would have been much more stressful without the support of these technological friends. I grow up surrounded by technology since my day zero and therefore, it would be really hard for me to imagine a society without the support of external devices."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "society",
+                "start_idx": 10,
+                "end_idx": 17,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a society"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 851,
+                "end_idx": 852,
+                "error": "refers to the speaker or writer",
+                "error_des": "",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "medical",
+                "start_idx": 856,
+                "end_idx": 863,
+                "error": "relating to the study or practice of medicine",
+                "error_des": "",
+                "suggetions": [
+                    "Medical"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1071,
+                "end_idx": 1073,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "with",
+                    "in"
+                ]
+            },
+            {
+                "word": "maybe",
+                "start_idx": 1444,
+                "end_idx": 1449,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "may be"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1485,
+                "end_idx": 1487,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "on"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 310,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "although",
+            "second",
+            "also",
+            "this",
+            "nevertheless",
+            "in addition",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "support",
+                "occurrences": [
+                    {
+                        "start_idx": 497,
+                        "end_idx": 504
+                    },
+                    {
+                        "start_idx": 865,
+                        "end_idx": 872
+                    },
+                    {
+                        "start_idx": 1637,
+                        "end_idx": 1644
+                    },
+                    {
+                        "start_idx": 1809,
+                        "end_idx": 1816
+                    }
+                ]
+            },
+            {
+                "word": "society",
+                "occurrences": [
+                    {
+                        "start_idx": 11,
+                        "end_idx": 18
+                    },
+                    {
+                        "start_idx": 722,
+                        "end_idx": 729
+                    },
+                    {
+                        "start_idx": 969,
+                        "end_idx": 976
+                    },
+                    {
+                        "start_idx": 1789,
+                        "end_idx": 1796
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-28T17:16:52.796Z"
+}

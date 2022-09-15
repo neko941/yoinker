@@ -1,0 +1,208 @@
+{
+    "url": "https://writing9.com/text/5d599d6aea61f300174fdbd0-you-have-recently-used-a-moving-company-to-move-your",
+    "file": [
+        "data",
+        "65",
+        "5d599d6aea61f300174fdbd0.json"
+    ],
+    "topics": [
+        "company",
+        "move",
+        "household",
+        "items",
+        "place",
+        "transfer",
+        "company\u2019s",
+        "manager",
+        "\u2013",
+        "complaint"
+    ],
+    "question": "You have recently used a moving company to move your household items to a new place and they have been damaged in transfer. Write a letter to the company\u2019s manager and say\n\n\u2013 When and where did it take place?\n\u2013 What is your complaint?\n\u2013 Suggest a reasonable solution.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "My name is Robert Smith, I am writing this letter regarding the damaged made to my household chores  by your company, Moving Limited while shifting my stuff to the new house. As per discussion with your branch office all the stuff should be moved to a new place on 5th of March from Bayview to North York.",
+        "Although, I had been receiving my items on time at my new location. But when I was unwrapping cartons then I found out there is a massive dent on my front door of the refrigerator was bought by me just two months ago. This is not ending here, I was so furious when I saw that my newly gifted Television screen had cracked too. At the time of order place your branch manager assured me that all my luggage will be safe and not happen any kind of damage.",
+        "I would like to have a full inquiry about how this damage happened along with I need my compensate for all those items.The possible reason for this kind of damage are lack of supervising the cartons when they are packed to ensure the safety. Carelessness of the labours that could break while loading or unloading from tjhe truck. I would like to suggest that hope you hire a new quality assurance staff who will take care of this.",
+        "I am sure you'll look into my suggestion will take action on that. Waiting for your prompt response.",
+        "Your Sincerely,",
+        "Robert Smith"
+    ],
+    "errors": {
+        "num_error": "13",
+        "error_list": [
+            {
+                "word": "damaged",
+                "start_idx": 73,
+                "end_idx": 80,
+                "error": "Replace the word",
+                "error_des": "The word damaged doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "damage"
+                ]
+            },
+            {
+                "word": "office",
+                "start_idx": 219,
+                "end_idx": 225,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase with your branch office. Consider adding a comma.",
+                "suggetions": [
+                    ",office"
+                ]
+            },
+            {
+                "word": "my",
+                "start_idx": 461,
+                "end_idx": 463,
+                "error": "Change the word",
+                "error_des": "The word my may be incorrect in this context. Consider changing it.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "was",
+                "start_idx": 495,
+                "end_idx": 498,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "that was"
+                ]
+            },
+            {
+                "word": "place",
+                "start_idx": 663,
+                "end_idx": 668,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase At the time of order place. Consider adding a comma.",
+                "suggetions": [
+                    ",place"
+                ]
+            },
+            {
+                "word": "compensate",
+                "start_idx": 856,
+                "end_idx": 866,
+                "error": "Replace the word",
+                "error_des": "The word compensate doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "compensation"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 931,
+                "end_idx": 931,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "is are"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 931,
+                "end_idx": 934,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject reason. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "lack",
+                "start_idx": 935,
+                "end_idx": 939,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the lack"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 998,
+                "end_idx": 1002,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "Carelessness",
+                "start_idx": 1010,
+                "end_idx": 1022,
+                "error": "Add an article",
+                "error_des": "The noun phrase Carelessness seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "The carelessness"
+                ]
+            },
+            {
+                "word": "tjhe",
+                "start_idx": 1087,
+                "end_idx": 1091,
+                "error": "Correct your spelling",
+                "error_des": "The word tjhe is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "Your",
+                "start_idx": 1301,
+                "end_idx": 1305,
+                "error": "Correct your spelling",
+                "error_des": "The word Your doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "Yours"
+                ]
+            }
+        ]
+    },
+    "submitter": "ride",
+    "num_words": 248,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "this",
+            "then",
+            "although"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T16:27:47.179Z"
+}

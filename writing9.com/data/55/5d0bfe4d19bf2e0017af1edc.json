@@ -1,0 +1,157 @@
+{
+    "url": "https://writing9.com/text/5d0bfe4d19bf2e0017af1edc",
+    "file": [
+        "data",
+        "55",
+        "5d0bfe4d19bf2e0017af1edc.json"
+    ],
+    "topics": [
+        "growth",
+        "daylead",
+        "shops",
+        "town"
+    ],
+    "question": "the growth of online shopping will one daylead to all shops in town closing. do you agree or disagree",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the nearest future, the increasing popularity of online shops would result to closure of regular shops in town and cities. In my opinion, I agree with this assertion because of the convenience and time saving this method of shopping provides. This essay will discuss the reasons explicitly.",
+        "The obvious reason why electronic shopping is preferred is because it is very convenient. It avails the customers the opportunity to buy product anywhere across the globe from the comfort of their own homes. Also, clients are able to transact at any time without considering the closing time of the stores, as they offer around the clock services. An example, last weekend, I used my mobile phone to buy items from www.aliexpress.com, an online store located in China. The service was very convenient and I also enjoyed the doorstep delivery service offered by the online stores.",
+        "Another point to consider, lot of individuals opt to shop online because it saves time. Owing to the wide variety of products sold from a particular store, through its website, customers are able to purchase product without having to search different shops. For instance, Next shoppers, a local outlet in my neighbourhood, does not sell fresh farm produce. Hence, when such products are required at my home. It is easier and saves time to buy online rather than searching from other stores.",
+        "To conclude, I agree that convenient of use and time saving measures are the reasons why interest shopping would result in termination of operations of normal shops"
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "to",
+                "start_idx": 77,
+                "end_idx": 79,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "aliexpress",
+                "start_idx": 713,
+                "end_idx": 723,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Express",
+                    "Aliexpress"
+                ]
+            },
+            {
+                "word": "com",
+                "start_idx": 724,
+                "end_idx": 727,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Com"
+                ]
+            },
+            {
+                "word": "product",
+                "start_idx": 1081,
+                "end_idx": 1088,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "products",
+                    "the product",
+                    "a product"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 1269,
+                "end_idx": 1271,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "hollasoju",
+    "num_words": 253,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "for instance",
+            "last",
+            "next",
+            "also",
+            "hence",
+            "this",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 200,
+                        "end_idx": 204
+                    },
+                    {
+                        "start_idx": 544,
+                        "end_idx": 548
+                    },
+                    {
+                        "start_idx": 581,
+                        "end_idx": 585
+                    },
+                    {
+                        "start_idx": 956,
+                        "end_idx": 960
+                    },
+                    {
+                        "start_idx": 1305,
+                        "end_idx": 1309
+                    },
+                    {
+                        "start_idx": 1413,
+                        "end_idx": 1417
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-20T21:44:45.000Z"
+}

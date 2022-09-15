@@ -1,0 +1,119 @@
+{
+    "url": "https://writing9.com/text/62e646dc0562ec00182a01d2-you-recently-spent-a-night-in-a-hotel-and-had",
+    "file": [
+        "data",
+        "55",
+        "62e646dc0562ec00182a01d2.json"
+    ],
+    "topics": [
+        "night",
+        "hotel",
+        "noise",
+        "system",
+        "manager",
+        "contact",
+        "compensation",
+        "haven",
+        "time"
+    ],
+    "question": "You recently spent a night in a hotel and had to put up with a great deal of noise very early in the morning because of a faulty central heating system. The manager promised to contact you regarding compensation but you still haven't heard from him.Write a letter to the hotel. In the letterdescribe the problem at the hotelexplain what the manager had said at the timesay what you want the manager to do.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 5.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir",
+        "I am writing this letter regarding that we visit your hotel on 5 December and there were some problems in this date.",
+        "I already told you that you had a serious issue in your hotel especially in room 552 which was regarding the heating system which started early as 4 o\u2019clock in the morning which caused that we did not have a good sleep also, my son had a sick due to that night.",
+        "However, I discussed with Mr. Ali About solving this situation and he agreed that we have  the right to complain in addition to that, he promised that he will give us fair compensation and he told you will get a luxury suite at any time but, we did not get all these promises.",
+        "I would like to get a new deal with this hotel to forget all these suffer I need a cash compensation in the amount 5000$ or I will go to  the ministry of tourism to take real measures with your hotel",
+        "I look forward to hearing from you very soon"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "especially",
+                "start_idx": 187,
+                "end_idx": 197,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter especially in room 552 which was regarding the heating system which started early as 4 o\u2019clock in the morning which caused that we did not have a good sleep also, my son had a sick due to that night. Consider adding the comma(s).",
+                "suggetions": [
+                    ",especially"
+                ]
+            },
+            {
+                "word": "Mr.",
+                "start_idx": 413,
+                "end_idx": 416,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            }
+        ]
+    },
+    "submitter": "alruhaimi6",
+    "num_words": 179,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "this",
+            "however",
+            "also",
+            "in addition"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "hotel",
+                "occurrences": [
+                    {
+                        "start_idx": 63,
+                        "end_idx": 68
+                    },
+                    {
+                        "start_idx": 182,
+                        "end_idx": 187
+                    },
+                    {
+                        "start_idx": 706,
+                        "end_idx": 711
+                    },
+                    {
+                        "start_idx": 859,
+                        "end_idx": 864
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-31T09:10:55.011Z"
+}

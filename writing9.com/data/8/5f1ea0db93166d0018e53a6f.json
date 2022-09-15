@@ -1,0 +1,106 @@
+{
+    "url": "https://writing9.com/text/5f1ea0db93166d0018e53a6f",
+    "file": [
+        "data",
+        "8",
+        "5f1ea0db93166d0018e53a6f.json"
+    ],
+    "topics": [
+        "people",
+        "buildings"
+    ],
+    "question": "Some people say that historical buildings should be knocked down while others say that they should be preserved. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It has been told by a few people that old heritage buildings should be demolished because of the public safety issues  and  economic benefits for a country, however I believe that  old buildings should be saved as these are historically important for the society and tax revenue of a country.  This essay will discuss both sides.",
+        "Let's begin with why some people think these should be knocked down. Safety can be the biggest concern if these types of building standing tall. These are centuries old architectures and can fall anytime; consequently many people could die underneath this, so it should be wise if they can be demolished.  For example, last year, in India, 100 people died due to an old building fall down.  Secondly, people can get jobs if something new such as a shopping mall can be built at the place of these. This new mall can have 100 of shops and people can get their business and thousands of jobs can be created for this.",
+        "On the other hand, I believe these buildings should be preserved. To begin with,  people can get to know their history with the help of these. As these were built by their ancestors, people can feel the connection with them or can remember them with these.  Secondly, a government can generate tourism from these. Needless to say, how important and beneficial the tourism industry is for a country. Many foreigners come to see and a country can generate revenue from this. To illustrate, last year, U.P, a state in India, generated 10 million rupees only from a building, named as Taj Mahal,  as a revenue.",
+        "To conclude, although a few people think that old architecture should be demolished due to safety issues and business benefits, I believe these should be saved as these are the only way for people to connect with their past and tourism benefits for a nation."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "however I",
+                "start_idx": 156,
+                "end_idx": 165,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "however, I"
+                ]
+            }
+        ]
+    },
+    "submitter": "test",
+    "num_words": 317,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "consequently",
+            "although",
+            "for example",
+            "to begin",
+            "last",
+            "secondly",
+            "this",
+            "such",
+            "on the other hand"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "country",
+                "occurrences": [
+                    {
+                        "start_idx": 148,
+                        "end_idx": 155
+                    },
+                    {
+                        "start_idx": 284,
+                        "end_idx": 291
+                    },
+                    {
+                        "start_idx": 1335,
+                        "end_idx": 1342
+                    },
+                    {
+                        "start_idx": 1378,
+                        "end_idx": 1385
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-27T09:42:52.801Z"
+}

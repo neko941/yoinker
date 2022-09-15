@@ -1,0 +1,159 @@
+{
+    "url": "https://writing9.com/text/61f2c2224011360018003111-some-people-believe-that-there-are-many-reasons-that-can",
+    "file": [
+        "data",
+        "8",
+        "61f2c2224011360018003111.json"
+    ],
+    "topics": [
+        "people",
+        "person",
+        "company",
+        "money",
+        "reason"
+    ],
+    "question": "Some people believe that there are many reasons that can motivate a person to keepworking for the same company whereas others say that money is the main reason. Do you\r agree or disagree",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is considered by some people that a person can be motivated by many things to keep their job, and others believe that income is the main reason. I personally agree that money is very essential to keep someone in their job. However, the possibility to grow in the working area also plays a significant role as a motivation for someone to keep their position in the company.",
+        "Money has become the main component that employees are considered for the first time, before they accept the profession. In fact, people need salaries to fulfil all their needs and provide support for their families. Often time, they do not enjoy their work, but because it offers a good amount of money, they still kept their career and find happiness in other places.  The financial broker, for example, they were being paid at a high rate every month, but they did not enjoy their monotonous activity. However, they kept the position because it offers a high amount of wage. They find happiness by spending their money on luxurious stuff instead.",
+        "Although money can be the main reason for keeping someone in a company, many people also consider another component to keep their career. It is mostly experienced by young people without any spouse or child(s) for them to provide.  A freshly graduated worker, for instance,  consider the possibility to improve their position in work as the main reason to keep them on the job. Thus, they believe that they have a chance to grow with the company which will lead them to success and happiness.",
+        "In conclusion, salary is an essential item that a company can offer to their employees. However, another opportunity might be more tempting to certain people, especially those who still want to grow themself. Therefore, it is very important to understand the need of each employee to keep their loyalty to the company."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 460,
+                "end_idx": 461,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker before. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "Kusuman.retno",
+    "num_words": 315,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "for instance",
+            "for example",
+            "first",
+            "also",
+            "however",
+            "instead",
+            "although",
+            "therefore",
+            "thus"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "money",
+                "occurrences": [
+                    {
+                        "start_idx": 172,
+                        "end_idx": 177
+                    },
+                    {
+                        "start_idx": 674,
+                        "end_idx": 679
+                    },
+                    {
+                        "start_idx": 992,
+                        "end_idx": 997
+                    },
+                    {
+                        "start_idx": 1035,
+                        "end_idx": 1040
+                    }
+                ]
+            },
+            {
+                "word": "company",
+                "occurrences": [
+                    {
+                        "start_idx": 367,
+                        "end_idx": 374
+                    },
+                    {
+                        "start_idx": 1089,
+                        "end_idx": 1096
+                    },
+                    {
+                        "start_idx": 1464,
+                        "end_idx": 1471
+                    },
+                    {
+                        "start_idx": 1569,
+                        "end_idx": 1576
+                    },
+                    {
+                        "start_idx": 1829,
+                        "end_idx": 1836
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 25,
+                        "end_idx": 31
+                    },
+                    {
+                        "start_idx": 506,
+                        "end_idx": 512
+                    },
+                    {
+                        "start_idx": 1103,
+                        "end_idx": 1109
+                    },
+                    {
+                        "start_idx": 1198,
+                        "end_idx": 1204
+                    },
+                    {
+                        "start_idx": 1670,
+                        "end_idx": 1676
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-01-27T16:14:53.254Z"
+}

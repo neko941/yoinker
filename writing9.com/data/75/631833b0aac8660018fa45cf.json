@@ -1,0 +1,111 @@
+{
+    "url": "https://writing9.com/text/631833b0aac8660018fa45cf-some-people-choose-to-eat-meat-or-fish-they-believe-that",
+    "file": [
+        "data",
+        "75",
+        "631833b0aac8660018fa45cf.json"
+    ],
+    "topics": [
+        "people",
+        "meat",
+        "fish",
+        "health",
+        "world"
+    ],
+    "question": "Some people choose to eat meat or fish.They believe that is not only better for their own health but also benefits the world as a whole.Discuss this view and give your own opinion.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 4.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In modern society, vegan lifestyles are the standard for being healthy. While some propose that consuming meat and seafood would not affect their health and community, conversely, I disagree with this opinion.",
+        "Admittedly, only terrestrial and sea animals can provide specific nutrition, such as protein. Protein is part of the main attribute of muscle growth. However, if humans stop consuming protein, it will accelerate muscle loss. Hence, people will become thinner. Therefore, eating meat can improve human health to some extent. Furthermore,  eating meat and fish can also enhance economic growth. By having more meat eaters, meaning farms' sales will increase. For countries like Australia, their financial system is dependent on agriculture industries. So, when the need for flesh grows, it could boost a country's finances.",
+        "Despite these arguments, the outcome of an animal diet still outweighs its benefits. Firstly, from the health improvement perspective. Animal flesh contains numerous excess fat, which is difficult to digest, causing obesity problems. On the other hand, vegetables or fruit, such as avocados, contain the perfect amount of healthy fat and fabric. By consuming them, humans can quickly replenish energy, digest excess nutrition, and help keep fit simultaneously. Secondly, animals like cows will fasten global warming. Carbon dioxide is considered the main factor of global warming. However, cows will produce carbon dioxide by breathing and excrement. Hence, if people keep eating beef, more cows will be raised and slaughtered, and the loop will continue, leading to the fast growth of global warming.",
+        "To conclude, fleshes contain essential nutrients for humans and will boost the economic system by consuming them. But, it could also lead to obesity and environmental problems if consumed too much."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 1645,
+                "end_idx": 1646,
+                "error": "Remove the comma",
+                "error_des": "The comma may be separating the subject and verb in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "jackyyung0613",
+    "num_words": 279,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "also",
+            "hence",
+            "conversely",
+            "this",
+            "however",
+            "such",
+            "firstly",
+            "secondly",
+            "on the other hand",
+            "furthermore",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "meat",
+                "occurrences": [
+                    {
+                        "start_idx": 106,
+                        "end_idx": 110
+                    },
+                    {
+                        "start_idx": 488,
+                        "end_idx": 492
+                    },
+                    {
+                        "start_idx": 555,
+                        "end_idx": 559
+                    },
+                    {
+                        "start_idx": 618,
+                        "end_idx": 622
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-07T06:24:07.983Z"
+}

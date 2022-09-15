@@ -1,0 +1,311 @@
+{
+    "url": "https://writing9.com/text/5d0868345b0f79001761cfa0",
+    "file": [
+        "data",
+        "6",
+        "5d0868345b0f79001761cfa0.json"
+    ],
+    "topics": [
+        "people",
+        "work",
+        "company",
+        "organization",
+        "be",
+        "case"
+    ],
+    "question": "Nowadays many people choose to be self-emploed rather than to work for company or organization.\nWhy might this be the case?.\nWhat could be the disadvantages of being self-employed?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, self employment has risen on great extent. Although, there are many people who prefer to do work for their own company rather than to other's firm, while others believe to do job under experienced supervision brings best out of a person and chances of insolvence is also low.",
+        "At one hand of the statement, regarding the self employment, no need required to work under any supreme. In other words, one is free to do anything without any fear, stress and tension, as these are the problems associated in the job under boss. Consequently, it brings the creative side of a person. For example, the man behind the success of new startup 'zero', was also the part of google. But his company got a public recognition, and everyone appreciate his unique style. Moreover, chance of flexible working, own setup rules, profit to own only and most importantly chances of getting blamed for others work boss is less which is very frequent if someone is working for other organization.",
+        "In contrast, the positives of self-employment carry some disadvantages along with them like more risk associated to loss in terms of finance, which ultimately lead the conditions of company fall down. Money loss, and lastly depression caused by it all. As per the recent survey in India, around more than 800 startups had been registered in 2018 but only 45% of them are actively running. In addition, it is sometime thought that work for other company plays the safer side of everyone life in terms of benefits attached with it like job security, finance security, medical allowances.",
+        "In conclusion, there are some advantages and disadvantages of running own company. Self-employed person can work freely but chances of risks are more with it."
+    ],
+    "errors": {
+        "num_error": "17",
+        "error_list": [
+            {
+                "word": "job",
+                "start_idx": 184,
+                "end_idx": 187,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the job",
+                    "a job"
+                ]
+            },
+            {
+                "word": "best",
+                "start_idx": 225,
+                "end_idx": 229,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the best"
+                ]
+            },
+            {
+                "word": "insolvence",
+                "start_idx": 261,
+                "end_idx": 271,
+                "error": "promise of reimbursement in the case of loss; paid to people or companies so concerned about hazards that they have made prepayments to an insurance company",
+                "error_des": "",
+                "suggetions": [
+                    "insurance"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 272,
+                "end_idx": 274,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "At",
+                "start_idx": 285,
+                "end_idx": 287,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "On"
+                ]
+            },
+            {
+                "word": "hand of",
+                "start_idx": 292,
+                "end_idx": 299,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "hand, of"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 508,
+                "end_idx": 510,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "with",
+                    "during"
+                ]
+            },
+            {
+                "word": "boss",
+                "start_idx": 525,
+                "end_idx": 529,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a boss",
+                    "the boss",
+                    "bosses"
+                ]
+            },
+            {
+                "word": "other",
+                "start_idx": 961,
+                "end_idx": 966,
+                "error": "any of various alternatives; some other",
+                "error_des": "",
+                "suggetions": [
+                    "another"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1094,
+                "end_idx": 1096,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "Money",
+                "start_idx": 1182,
+                "end_idx": 1187,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Monetary"
+                ]
+            },
+            {
+                "word": "other",
+                "start_idx": 1420,
+                "end_idx": 1425,
+                "error": "any of various alternatives; some other",
+                "error_des": "",
+                "suggetions": [
+                    "another"
+                ]
+            },
+            {
+                "word": "everyone",
+                "start_idx": 1458,
+                "end_idx": 1466,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "everyone's"
+                ]
+            },
+            {
+                "word": "finance",
+                "start_idx": 1529,
+                "end_idx": 1536,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "financial"
+                ]
+            },
+            {
+                "word": "freely but",
+                "start_idx": 1680,
+                "end_idx": 1690,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "freely, but"
+                ]
+            },
+            {
+                "word": "chances",
+                "start_idx": 1691,
+                "end_idx": 1698,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the chances"
+                ]
+            },
+            {
+                "word": "with",
+                "start_idx": 1717,
+                "end_idx": 1721,
+                "error": "worthy of being treated in a particular way",
+                "error_des": "",
+                "suggetions": [
+                    "worth"
+                ]
+            }
+        ]
+    },
+    "submitter": "pandey.ankita0309",
+    "num_words": 290,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "consequently",
+            "for example",
+            "in other words",
+            "also",
+            "moreover",
+            "although",
+            "in contrast",
+            "lastly",
+            "in addition"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "company",
+                "occurrences": [
+                    {
+                        "start_idx": 121,
+                        "end_idx": 128
+                    },
+                    {
+                        "start_idx": 687,
+                        "end_idx": 694
+                    },
+                    {
+                        "start_idx": 1164,
+                        "end_idx": 1171
+                    },
+                    {
+                        "start_idx": 1427,
+                        "end_idx": 1434
+                    },
+                    {
+                        "start_idx": 1642,
+                        "end_idx": 1649
+                    }
+                ]
+            },
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 102,
+                        "end_idx": 106
+                    },
+                    {
+                        "start_idx": 367,
+                        "end_idx": 371
+                    },
+                    {
+                        "start_idx": 792,
+                        "end_idx": 796
+                    },
+                    {
+                        "start_idx": 895,
+                        "end_idx": 899
+                    },
+                    {
+                        "start_idx": 950,
+                        "end_idx": 954
+                    },
+                    {
+                        "start_idx": 1412,
+                        "end_idx": 1416
+                    },
+                    {
+                        "start_idx": 1676,
+                        "end_idx": 1680
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-18T04:27:32.000Z"
+}

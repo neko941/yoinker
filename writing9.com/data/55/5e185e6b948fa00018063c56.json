@@ -1,0 +1,205 @@
+{
+    "url": "https://writing9.com/text/5e185e6b948fa00018063c56-your-childs-school-is-going-for-a-trip-out-of",
+    "file": [
+        "data",
+        "55",
+        "5e185e6b948fa00018063c56.json"
+    ],
+    "topics": [
+        "child",
+        "school",
+        "trip",
+        "country",
+        "parent",
+        "group",
+        "questions"
+    ],
+    "question": "Your child's school is going for a trip out of the country for 3 days and parent is allowed to join the group. Write a letter to school.\n\nIn your letter, you should:\nask questions about the trip\ntell them why you want to join the group\nexplain how you can help",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I am writing this letter to enquire about the United States tour, which school has planned for children and parents. Also I would like to express my interest in joining this trip and to offer my help for any admin related work require during the trip.",
+        "I wonder if you could help me with duration and if any planned activity, so that I can prepare myself for this wonderful trip. I have seen on the internet it would be mostly rainy all the time, so I would like to know if you could provide us umbrella or rainy clothes or I have to shop it from the market.",
+        "I was always excited to visit the United States, though due to some work engagement I was not able to make plan for this. so I would be more than happy to join school trip with my kids.",
+        "Also, I have done volunteering to so many trips organised by our office, so I am excited if i get something to work in your trip.",
+        "I am looking forward to hearing from you.",
+        "Regards,",
+        "Aman Kansal"
+    ],
+    "errors": {
+        "num_error": "10",
+        "error_list": [
+            {
+                "word": "Also",
+                "start_idx": 126,
+                "end_idx": 130,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Also. Consider adding a comma.",
+                "suggetions": [
+                    ",Also"
+                ]
+            },
+            {
+                "word": "require",
+                "start_idx": 236,
+                "end_idx": 243,
+                "error": "Change the form of the verb",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb require. Consider changing it.",
+                "suggetions": [
+                    "required"
+                ]
+            },
+            {
+                "word": "umbrella",
+                "start_idx": 503,
+                "end_idx": 511,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with umbrella"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 547,
+                "end_idx": 547,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for it"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 547,
+                "end_idx": 549,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "them"
+                ]
+            },
+            {
+                "word": "plan",
+                "start_idx": 674,
+                "end_idx": 678,
+                "error": "Add an article",
+                "error_des": "The noun phrase plan seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a plan"
+                ]
+            },
+            {
+                "word": "school",
+                "start_idx": 727,
+                "end_idx": 733,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a school"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 784,
+                "end_idx": 786,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 845,
+                "end_idx": 846,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 869,
+                "end_idx": 871,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 185,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "this",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "trip",
+                "occurrences": [
+                    {
+                        "start_idx": 184,
+                        "end_idx": 188
+                    },
+                    {
+                        "start_idx": 256,
+                        "end_idx": 260
+                    },
+                    {
+                        "start_idx": 383,
+                        "end_idx": 387
+                    },
+                    {
+                        "start_idx": 735,
+                        "end_idx": 739
+                    },
+                    {
+                        "start_idx": 796,
+                        "end_idx": 800
+                    },
+                    {
+                        "start_idx": 878,
+                        "end_idx": 882
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T18:21:31.581Z"
+}

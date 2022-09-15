@@ -1,0 +1,224 @@
+{
+    "url": "https://writing9.com/text/5c9e156ad895f78a638c3e9c",
+    "file": [
+        "data",
+        "6",
+        "5c9e156ad895f78a638c3e9c.json"
+    ],
+    "topics": [
+        "people",
+        "meat",
+        "fish",
+        "health",
+        "world"
+    ],
+    "question": "Some people choose to eat no meat or fish. They believe that this is not only better for their own health but also benefits the world as a whole.\nDiscuss this view and give your own opinion.\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A section of society has been observed to consume only vegetarian food because they believe it to be good for the body and the earth. In my opinion, it is a personal choice to eat a vegetarian diet; however, a person cannot stay healthy or save the planet by restricting the non-vegetarian diet.",
+        "To begin with, the foremost reason that proves the non-vegetarian food healthy is the availability of certain essential nutrients which are present only in animal meat or seafood. Additionally, there should be a variety of food, so that the body gets all the essential elements to stay fit and healthy. For example, if a person just relies on plants then he would become deficient in vitamin B, which can be obtained only from animals. Similarly, the sea-food provides Omega-3 which is present only in fish. Thus, food derived from animals is equally important for maintaining good health.",
+        "Another reason for not restricting the non-vegetarian food is it balances the ecosystem. Admittedly, if animals like goats and sheep are not consumed by mankind then it may happen that their number grows drastically and may create a problem in the environment. As a result, it is proper to consume non-vegetarian food along with vegetarian meals, which will keep their numbers in check.",
+        "In conclusion, I pen down saying that one should have a variety of food types in diet and should not restrict himself to just vegetarian food. The food from land and sea animals certainly is beneficial to overall health and eating just fruits and plants would make the body weak and deficient in essential vitamins. Moreover, the food chain and ecosystem can also be managed effectively if we include meat and fish in our diet."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "plants ",
+                "start_idx": 638,
+                "end_idx": 645,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "plants, then"
+                ]
+            },
+            {
+                "word": "sea-",
+                "start_idx": 746,
+                "end_idx": 750,
+                "error": "edible fish (broadly including freshwater fish) or shellfish or roe etc",
+                "error_des": "",
+                "suggetions": [
+                    "seafood"
+                ]
+            },
+            {
+                "word": "mankind ",
+                "start_idx": 1038,
+                "end_idx": 1046,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "mankind, then"
+                ]
+            },
+            {
+                "word": "down saying",
+                "start_idx": 1293,
+                "end_idx": 1304,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "down, saying"
+                ]
+            },
+            {
+                "word": "diet",
+                "start_idx": 1353,
+                "end_idx": 1357,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the diet"
+                ]
+            }
+        ]
+    },
+    "submitter": "shamimpatelin",
+    "num_words": 288,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "for example",
+            "to begin",
+            "additionally",
+            "also",
+            "then",
+            "however",
+            "similarly",
+            "moreover",
+            "as a result",
+            "thus"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "non-vegetarian",
+                "occurrences": [
+                    {
+                        "start_idx": 275,
+                        "end_idx": 289
+                    },
+                    {
+                        "start_idx": 347,
+                        "end_idx": 361
+                    },
+                    {
+                        "start_idx": 925,
+                        "end_idx": 939
+                    },
+                    {
+                        "start_idx": 1184,
+                        "end_idx": 1198
+                    }
+                ]
+            },
+            {
+                "word": "diet",
+                "occurrences": [
+                    {
+                        "start_idx": 193,
+                        "end_idx": 197
+                    },
+                    {
+                        "start_idx": 290,
+                        "end_idx": 294
+                    },
+                    {
+                        "start_idx": 1354,
+                        "end_idx": 1358
+                    },
+                    {
+                        "start_idx": 1695,
+                        "end_idx": 1699
+                    }
+                ]
+            },
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 66,
+                        "end_idx": 70
+                    },
+                    {
+                        "start_idx": 362,
+                        "end_idx": 366
+                    },
+                    {
+                        "start_idx": 470,
+                        "end_idx": 474
+                    },
+                    {
+                        "start_idx": 519,
+                        "end_idx": 523
+                    },
+                    {
+                        "start_idx": 751,
+                        "end_idx": 755
+                    },
+                    {
+                        "start_idx": 810,
+                        "end_idx": 814
+                    },
+                    {
+                        "start_idx": 940,
+                        "end_idx": 944
+                    },
+                    {
+                        "start_idx": 1199,
+                        "end_idx": 1203
+                    },
+                    {
+                        "start_idx": 1340,
+                        "end_idx": 1344
+                    },
+                    {
+                        "start_idx": 1410,
+                        "end_idx": 1414
+                    },
+                    {
+                        "start_idx": 1420,
+                        "end_idx": 1424
+                    },
+                    {
+                        "start_idx": 1603,
+                        "end_idx": 1607
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-29T12:54:02.000Z"
+}

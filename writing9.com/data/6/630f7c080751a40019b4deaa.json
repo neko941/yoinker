@@ -1,0 +1,132 @@
+{
+    "url": "https://writing9.com/text/630f7c080751a40019b4deaa-you-need-to-take-some-time-off-of-work-to",
+    "file": [
+        "data",
+        "6",
+        "630f7c080751a40019b4deaa.json"
+    ],
+    "topics": [
+        "time",
+        "work",
+        "holiday",
+        "manager",
+        "dates",
+        "times",
+        "absence",
+        "ms",
+        "snyder"
+    ],
+    "question": "You need to take some time off of work to go on holiday.Write a letter to your direct manager. In your letter:Ask for time off and explain whyProvide the dates and times for which you will be unavailable to workDescribe what you will do to prepare or make up for your absenceWrite at least 150 words. Begin your letter as follows:Dear Ms. Snyder,",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr. Snyder,",
+        "I am writing a letter to inform you that I will be on time off due to my trip scheduled next month.",
+        "I am organizing a trip to my home town to attend a wedding ceremony. This has been planned recently and we have been cordially invited. It is my best childhood friend's son's marriage. We are like brothers and I need to attend it without fail. Although, I tried my level best to convince him but he is not accepting it.",
+        "Therefore, I will be on time off for 10 days starting from 1st September 2022. I have clubbed my time off with weekends in order to get some more days. I will be joining the duty on 11 September at 9:00 AM. I have already filled out the application form and just waiting for your forma approval.",
+        "I fully aware that our project deadline is very near. However, please note that I have completed all my activities and the project cycle is on the next stage. Therefore, my absence will not impact any schedule. Moreover, I will hand over all my other jobs to my colleague Mr. David.",
+        "I am looking forward to hearing from you.",
+        "Yours faithfully,",
+        "Anand Vaishnav"
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "Mr.",
+                "start_idx": 4,
+                "end_idx": 7,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": "but ",
+                "start_idx": 408,
+                "end_idx": 412,
+                "error": "Remove the conjunction",
+                "error_des": "It appears that the word but is unnecessary in this sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "I ",
+                "start_idx": 732,
+                "end_idx": 734,
+                "error": "Add a verb",
+                "error_des": "Your sentence appears to be missing a verb.",
+                "suggetions": [
+                    "amI",
+                    "wasI"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 872,
+                "end_idx": 874,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "Mr.",
+                "start_idx": 1004,
+                "end_idx": 1007,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            }
+        ]
+    },
+    "submitter": "mohan",
+    "num_words": 205,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "next",
+            "this",
+            "however",
+            "moreover",
+            "although",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-08-31T15:22:03.386Z"
+}

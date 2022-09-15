@@ -1,0 +1,214 @@
+{
+    "url": "https://writing9.com/text/5d83af775080810017fe1cba",
+    "file": [
+        "data",
+        "55",
+        "5d83af775080810017fe1cba.json"
+    ],
+    "topics": [
+        "university",
+        "guarantees",
+        "people",
+        "job"
+    ],
+    "question": "Having a good university degree guarantees people a good job.\nTo what extent do you agree.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some would argue that while in this competitive era, tertiary education is utterly important for securing a better place in the job market. This essay will have a deep insight into all aspects of the argument; whereas, I completely agree with the statement because higher education ensures individuals a highly-paid position and they are in demand.",
+        "To embark with, while universities offer professional degrees, courses are designed in such a way that it shapes a student to fit well into the job industry. This is to say, university mentors are trained in molding a student\u2019s abilities according to their carrier\u2019s future perspective. For instance, tertiary education teaches students softcore skills, provide exposure to the practical experience by offering internship programs, and they equip the students with the skills required to become a competent professional.",
+        "What is a more, diploma or technical education is enough for the junior or middle-level job but for many well-reputed jobs; therefore, a professional degree is mandatory such as medical or engineering without that no one is able to get doctor or engineer job. For illustration, for a pharmacist position, one has to study for a period of five years and sit for a pre-defined test in order to get a license and start practicing. Furthermore, university education increases the knowledge and decision making skills of the students, and Both qualities will benefit them when they enter the job market.",
+        "To conclude, this essay argued that university education is a must for holding a better position because it empowers them with all the necessary skills needed for a good job and many jobs require special skills that cannot be obtained without any authorized educational institute."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "into",
+                "start_idx": 483,
+                "end_idx": 487,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "molding",
+                "start_idx": 556,
+                "end_idx": 563,
+                "error": "the act of creating something by casting it in a mold",
+                "error_des": "",
+                "suggetions": [
+                    "moulding",
+                    "modern"
+                ]
+            },
+            {
+                "word": "students",
+                "start_idx": 676,
+                "end_idx": 684,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "students'"
+                ]
+            },
+            {
+                "word": "softcore",
+                "start_idx": 685,
+                "end_idx": 693,
+                "error": "(computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in read/write memory",
+                "error_des": "",
+                "suggetions": [
+                    "software"
+                ]
+            },
+            {
+                "word": "job but",
+                "start_idx": 957,
+                "end_idx": 964,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "job, but"
+                ]
+            },
+            {
+                "word": "doctor",
+                "start_idx": 1105,
+                "end_idx": 1111,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a doctor"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 1226,
+                "end_idx": 1229,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "zeerak0229",
+    "num_words": 279,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "for instance",
+            "this",
+            "such",
+            "furthermore",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "job",
+                "occurrences": [
+                    {
+                        "start_idx": 128,
+                        "end_idx": 131
+                    },
+                    {
+                        "start_idx": 493,
+                        "end_idx": 496
+                    },
+                    {
+                        "start_idx": 958,
+                        "end_idx": 961
+                    },
+                    {
+                        "start_idx": 988,
+                        "end_idx": 991
+                    },
+                    {
+                        "start_idx": 1125,
+                        "end_idx": 1128
+                    },
+                    {
+                        "start_idx": 1457,
+                        "end_idx": 1460
+                    },
+                    {
+                        "start_idx": 1639,
+                        "end_idx": 1642
+                    },
+                    {
+                        "start_idx": 1652,
+                        "end_idx": 1655
+                    }
+                ]
+            },
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 62,
+                        "end_idx": 71
+                    },
+                    {
+                        "start_idx": 272,
+                        "end_idx": 281
+                    },
+                    {
+                        "start_idx": 659,
+                        "end_idx": 668
+                    },
+                    {
+                        "start_idx": 907,
+                        "end_idx": 916
+                    },
+                    {
+                        "start_idx": 1322,
+                        "end_idx": 1331
+                    },
+                    {
+                        "start_idx": 1516,
+                        "end_idx": 1525
+                    },
+                    {
+                        "start_idx": 1727,
+                        "end_idx": 1736
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-19T16:40:23.728Z"
+}

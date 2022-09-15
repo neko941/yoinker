@@ -1,0 +1,230 @@
+{
+    "url": "https://writing9.com/text/5d47e7d1b5d22f00177e3b0a-you-have-seen-an-advertisement-for-a-community-college-that",
+    "file": [
+        "data",
+        "65",
+        "5d47e7d1b5d22f00177e3b0a.json"
+    ],
+    "topics": [
+        "advertisement",
+        "community",
+        "college",
+        "teachers",
+        "night",
+        "classes",
+        "course",
+        "teacher"
+    ],
+    "question": "You have seen an advertisement for a community college that needs teachers for night classes.\n\nWrite a letter to the community college. In your letter:\n\nsay which advertisement you are answering\ndescribe which course(s) you want to teach, and what it/they would be about\nexplain why you would be a suitable teacher",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I am Surya, I am a teacher with Master's in Computer Science and Engineering. I have recently noticed an advertisment for the requirement of a teacher for the community college. The college is located on El-camino road 10 meter from the bus stop.",
+        "I looked into college's course work and came up with courses that interests me to teach. I am willing to take up courses in the field of computer science. The course offered will be on Artificial Intelligence as it is popular among current trends, apart from that I like to teach basics of Computer science and Operating System. The AI is mostly about computer artifically learning to search/identify object based on the models we train.",
+        "I strongly believe, I am best fit for this position because of the qualification and the work experience in this field. Moreover, I have Master's in Artificial Intelligence which makes me stand apart from rest of the applicants.",
+        "Yours Faithfully,",
+        "Surya"
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "",
+                "start_idx": 41,
+                "end_idx": 41,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a Master's"
+                ]
+            },
+            {
+                "word": "Master's",
+                "start_idx": 41,
+                "end_idx": 49,
+                "error": "Change the noun form",
+                "error_des": "It appears that the noun Master's should not be in the possessive form. Consider changing it to the non-possessive singular or plural form.",
+                "suggetions": [
+                    "Masters",
+                    "Master"
+                ]
+            },
+            {
+                "word": "advertisment",
+                "start_idx": 114,
+                "end_idx": 126,
+                "error": "Correct your spelling",
+                "error_des": "The word advertisment is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "advertisement"
+                ]
+            },
+            {
+                "word": "camino",
+                "start_idx": 217,
+                "end_idx": 223,
+                "error": "Change the capitalization",
+                "error_des": "It appears that the word camino may be a proper noun in this context. Consider capitalizing the word.",
+                "suggetions": [
+                    "Camino"
+                ]
+            },
+            {
+                "word": "meter",
+                "start_idx": 231,
+                "end_idx": 236,
+                "error": "Change to a plural noun",
+                "error_des": "The singular noun meter follows a number other than one. Consider changing the noun to the plural form.",
+                "suggetions": [
+                    "meters"
+                ]
+            },
+            {
+                "word": "course work",
+                "start_idx": 280,
+                "end_idx": 291,
+                "error": "Correct your spelling",
+                "error_des": "The word course work seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "coursework"
+                ]
+            },
+            {
+                "word": "interests",
+                "start_idx": 322,
+                "end_idx": 331,
+                "error": "Change the verb form",
+                "error_des": "The singular verb interests does not appear to agree with the plural subject courses. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "interest"
+                ]
+            },
+            {
+                "word": "computer",
+                "start_idx": 608,
+                "end_idx": 616,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that computer may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "computers"
+                ]
+            },
+            {
+                "word": "artifically",
+                "start_idx": 617,
+                "end_idx": 628,
+                "error": "Correct your spelling",
+                "error_des": "The word artifically is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "artificially",
+                    "artificial"
+                ]
+            },
+            {
+                "word": "object",
+                "start_idx": 657,
+                "end_idx": 663,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that object may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "objects"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 713,
+                "end_idx": 714,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma between the verb and object in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "best",
+                "start_idx": 719,
+                "end_idx": 723,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the best"
+                ]
+            },
+            {
+                "word": "Master's",
+                "start_idx": 831,
+                "end_idx": 839,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a Master's"
+                ]
+            },
+            {
+                "word": "rest",
+                "start_idx": 899,
+                "end_idx": 903,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the rest"
+                ]
+            }
+        ]
+    },
+    "submitter": "SuryaTeja Duggi",
+    "num_words": 161,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "this",
+            "moreover"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "computer",
+                "occurrences": [
+                    {
+                        "start_idx": 394,
+                        "end_idx": 402
+                    },
+                    {
+                        "start_idx": 609,
+                        "end_idx": 617
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T16:04:09.446Z"
+}
