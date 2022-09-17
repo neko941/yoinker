@@ -1,0 +1,181 @@
+{
+    "url": "https://writing9.com/text/5caa05ddad22e35c41f3df1c",
+    "file": [
+        "data",
+        "6",
+        "5caa05ddad22e35c41f3df1c.json"
+    ],
+    "topics": [
+        "people",
+        "crime",
+        "sentences"
+    ],
+    "question": "Some people believe that a good way to reduce crime is longer sentences. Others may think there are alternate ways to this problem. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Crime has tremendously increased across the globe over the decade. people are committing unimaginable heinous crimes and are given long sentences as punishment. However, there are a few countries which impose other ways of punishment. The following essay discusses both the views.",
+        "All crimes committed cannot be treated as equal and not all punishments imposed should be the same. Many teenagers commit crime unknowingly and their maturity levels and level of understanding about social lawe are at a naive level. These tender buds who commit crime cannot be given long sentences as they have a bright future ahead of them and would like to correct themselves if given a chance. Moreover, many people who commit crime keep appealing in higher courts to reduce their time which might take several years or even decades.",
+        "On the contrary, many countries have started alternate ways of punishing people. Governments have started counselling sessions by showing videos about how difficult life can be behind bars. For instance, in India people who drive vehicles rashly and commit accidents are shown videos about prisoners and their life behind bars. In addition, some countries have even started imposing community service as a punishment. Offenders are asked to do community service for 6 months or a year depending on the intensity of the crime.",
+        "To conclude, I believe that not all crimes should be treated equally and different punishments should be given for different crimes. Long sentences is not the only way to correct a person but other ways such a community service should be tried first to correct themselves."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "people",
+                "start_idx": 66,
+                "end_idx": 72,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "People"
+                ]
+            },
+            {
+                "word": "lawe",
+                "start_idx": 486,
+                "end_idx": 490,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "la we"
+                ]
+            },
+            {
+                "word": "time which",
+                "start_idx": 765,
+                "end_idx": 775,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "time, which"
+                ]
+            },
+            {
+                "word": "are asked",
+                "start_idx": 1246,
+                "end_idx": 1255,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "have been asked"
+                ]
+            },
+            {
+                "word": "year depending",
+                "start_idx": 1298,
+                "end_idx": 1312,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "year, depending"
+                ]
+            },
+            {
+                "word": "person but",
+                "start_idx": 1525,
+                "end_idx": 1535,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "person, but"
+                ]
+            },
+            {
+                "word": "ways ",
+                "start_idx": 1542,
+                "end_idx": 1547,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "ways, such"
+                ]
+            }
+        ]
+    },
+    "submitter": "msn.chaitanya06",
+    "num_words": 262,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the contrary",
+            "such",
+            "first",
+            "however",
+            "in addition",
+            "for instance",
+            "moreover"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "crime",
+                "occurrences": [
+                    {
+                        "start_idx": 110,
+                        "end_idx": 115
+                    },
+                    {
+                        "start_idx": 285,
+                        "end_idx": 290
+                    },
+                    {
+                        "start_idx": 403,
+                        "end_idx": 408
+                    },
+                    {
+                        "start_idx": 543,
+                        "end_idx": 548
+                    },
+                    {
+                        "start_idx": 712,
+                        "end_idx": 717
+                    },
+                    {
+                        "start_idx": 1338,
+                        "end_idx": 1343
+                    },
+                    {
+                        "start_idx": 1381,
+                        "end_idx": 1386
+                    },
+                    {
+                        "start_idx": 1470,
+                        "end_idx": 1475
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-07T14:14:53.000Z"
+}

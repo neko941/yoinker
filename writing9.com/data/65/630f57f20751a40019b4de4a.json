@@ -1,0 +1,146 @@
+{
+    "url": "https://writing9.com/text/630f57f20751a40019b4de4a-some-countries-allow-old-people-to-work-at-any-age",
+    "file": [
+        "data",
+        "65",
+        "630f57f20751a40019b4de4a.json"
+    ],
+    "topics": [
+        "countries",
+        "people",
+        "work",
+        "age",
+        "advantage",
+        "outweight"
+    ],
+    "question": "Some countries allow old people to work at any age that they want. Do the advantage outweight the disadvantage ?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The retired working force is the real gem for any country therefore some countries didn't set up upper age limit for  retirement. I believe demerits outweigh merit.My subsequent crumb of writing will elucidate my viewpoints with relevant examples.",
+        "To start with, in today's fast-moving world, the organisation has more expectation from the workforce to achieve common goals where uninterrupted work, high focus and concentration is required.To achieve all these,young energetic blood is required and an old experienced workforce can't handle such pressurized situations.Also in such a competitive environment, employees should be familiar with the new technologies and learn them quickly whenever  required,moreover,after a certain age people lose the tendency to learn and grasp new things, due to which the aged workforce remains behind all time.For example, in my organisation, a group of aged employees were handling the legacy system and when it replaces legacy systems with the latest technology it was hard for them to learn and work.",
+        "There are certain areas where old employees have the upper hand over the young energetic workforce.In some industries, experience played a crucial role like handling account books, and managing the volatile workforce in the garment industries.With their experience and immense knowledge they can teach new employees so that they turn them productive quickly in a short span of time.",
+        "To conclude, in my opinion, in certain areas aged workforce played a crucial role where they are sharing their experience with others to achieve common goals quickly, however, such experiences faded out if work is replaced with a new workflow or with new technologies."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "aged",
+                "start_idx": 808,
+                "end_idx": 812,
+                "error": "Replace the word",
+                "error_des": "It appears that the form of the participle aged is not correct in this context. Consider changing it.",
+                "suggetions": [
+                    "ageing"
+                ]
+            },
+            {
+                "word": "knowledge",
+                "start_idx": 1318,
+                "end_idx": 1327,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase With their experience and immense knowledge. Consider adding a comma.",
+                "suggetions": [
+                    ",knowledge"
+                ]
+            }
+        ]
+    },
+    "submitter": "abt.dhruv",
+    "num_words": 261,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "also",
+            "such",
+            "however",
+            "therefore",
+            "for example",
+            "moreover"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "workforce",
+                "occurrences": [
+                    {
+                        "start_idx": 340,
+                        "end_idx": 349
+                    },
+                    {
+                        "start_idx": 519,
+                        "end_idx": 528
+                    },
+                    {
+                        "start_idx": 814,
+                        "end_idx": 823
+                    },
+                    {
+                        "start_idx": 1131,
+                        "end_idx": 1140
+                    },
+                    {
+                        "start_idx": 1249,
+                        "end_idx": 1258
+                    },
+                    {
+                        "start_idx": 1475,
+                        "end_idx": 1484
+                    }
+                ]
+            },
+            {
+                "word": "employees",
+                "occurrences": [
+                    {
+                        "start_idx": 610,
+                        "end_idx": 619
+                    },
+                    {
+                        "start_idx": 897,
+                        "end_idx": 906
+                    },
+                    {
+                        "start_idx": 1076,
+                        "end_idx": 1085
+                    },
+                    {
+                        "start_idx": 1348,
+                        "end_idx": 1357
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-31T13:00:10.887Z"
+}

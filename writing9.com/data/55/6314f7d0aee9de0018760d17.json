@@ -1,0 +1,113 @@
+{
+    "url": "https://writing9.com/text/6314f7d0aee9de0018760d17-some-people-say-that-professional-workers-such-as-doctors-nurses",
+    "file": [
+        "data",
+        "55",
+        "6314f7d0aee9de0018760d17.json"
+    ],
+    "topics": [
+        "people",
+        "workers",
+        "doctors",
+        "nurses",
+        "teachers",
+        "contribution",
+        "society",
+        "sports",
+        "athletes",
+        "entertainment",
+        "stars"
+    ],
+    "question": "Some people say that professional workers such as doctors, nurses and teachers who make a greater contribution to society should be paid more than sports athletes and entertainment stars. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.5,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "I am writing in regard to the discharge of Mr Lionel Ramamurthy from the Newtown Public Hospital. He was presented to the hospital due to pneumonia and will be needing your assistance regarding his transition back to the retirement home.",
+        "His clinical progress was better overall. He is now free of fever, additionally, his inflammatory benchmarks are back to normal range. His weight gain was up by 1.5 kilograms, post review by his dietician. However, he experiences a dry cough, and some abdominal and chest pain. Lastly, he can walk independently and go to the shower and toilet at a slow pace.",
+        "On March 04 2018, Mr Ramamurthy has had chronic pulmonary disease. He has also diabetes type 2 diagnosed since 2007, and it was controlled by his diet. He was treated in our hospital due to a cascade of symptoms. In addition, he can mobilize with a pick-up frame and needs assistance to do the activities of daily living.",
+        "He was encouraged for chest physiotherapy by doing deep breathing and coughing exercises. Therefore, his physiotherapist review reveals he can ambulate. Subsequently, preferred to sit rather than lie for proper postural drainage.",
+        "We advised that Mr Ramamurthy stays warm and can give paracetamol as needed for his chest and abdominal pain. Additionally, he needs to be monitored regarding his diet he was then advised to increase fluid intake, and eat eggs, fruits and vegetables for his healthy nutrition.",
+        "If you have any questions regarding Mr Ramamurthy, please do not hesitate to contact me."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 467,
+                "end_idx": 469,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun cough in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "since",
+                "start_idx": 702,
+                "end_idx": 707,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "d_jays08",
+    "num_words": 253,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "also",
+            "then",
+            "additionally",
+            "however",
+            "in addition",
+            "therefore",
+            "subsequently",
+            "lastly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "mr",
+                "occurrences": []
+            },
+            {
+                "word": "ramamurthy",
+                "occurrences": []
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-04T19:36:23.792Z"
+}

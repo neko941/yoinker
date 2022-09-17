@@ -1,0 +1,200 @@
+{
+    "url": "https://writing9.com/text/5e48b87d1738c20018104ff6-you-are-studying-a-short-course-in-another-country-your",
+    "file": [
+        "data",
+        "6",
+        "5e48b87d1738c20018104ff6.json"
+    ],
+    "topics": [
+        "course",
+        "country",
+        "accommodation",
+        "provider",
+        "-say",
+        "-describe",
+        "-ask"
+    ],
+    "question": "You are studying a short course in another country. Your accommodation was arranged by the course provider. There is a major problem with the accommodation.\nWrite a letter to the course provider:\n-Say what the problem is\n-describe the accommodation you thought you were getting\n-ask the provider to solve the problem",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr. Walter,",
+        "I am Charvi Patel pursuing a specialised course in Marketing Management. I am here for the short term course of 3 months sponsored by my company Kaizen consultancy. I am writing to bring into notice about the several difficulties I am facing here at the accommodation.",
+        "Let me explain, because of the fellow flatmates I am feeling disinclined towards studies and which is creating negative impact. We are four flatmates in total and other three are here for the training course of computer skills for which they are not at all serious about studies. Moreover, all the time they does disturbing activities such as partying at our place, playing video games, calling their friends and chit-chats for hours.",
+        "As a result, it is directly affects my studies as I always quest for tranquillity for better concentration. However, while providing me the residence I was told to that the other flatmates would also be of the same course stream and a personal room will be allotted which is not the thing.",
+        "I would be glad if I am relocated to another room where I can have the room for myself, or I may use the money kept for accommodation for hotel payment.",
+        "I look forward to hear from you at the earliest.",
+        "Yours Sincerely,",
+        "Charvi"
+    ],
+    "errors": {
+        "num_error": "10",
+        "error_list": [
+            {
+                "word": "Mr.",
+                "start_idx": 4,
+                "end_idx": 7,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": "into",
+                "start_idx": 203,
+                "end_idx": 207,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "about ",
+                "start_idx": 215,
+                "end_idx": 221,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "other",
+                "start_idx": 448,
+                "end_idx": 453,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the other"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 493,
+                "end_idx": 495,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "does",
+                "start_idx": 593,
+                "end_idx": 597,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun they and the verb does are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "do"
+                ]
+            },
+            {
+                "word": "is directly affects",
+                "start_idx": 736,
+                "end_idx": 755,
+                "error": "Change the verb form",
+                "error_des": "It appears that the form of the verb affects does not work with is in this sentence.",
+                "suggetions": [
+                    "is directly affecting"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 856,
+                "end_idx": 859,
+                "error": "Add the preposition",
+                "error_des": "It appears that you are missing a preposition with the verb providing. Consider adding the preposition.",
+                "suggetions": [
+                    "with the"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 881,
+                "end_idx": 884,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "hear",
+                "start_idx": 1181,
+                "end_idx": 1185,
+                "error": "Change the verb form",
+                "error_des": "The verb hear is usually in the gerund form when following the word look forward to. Consider replacing it with the -ing form.",
+                "suggetions": [
+                    "hearing"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 217,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "also",
+            "such",
+            "as a result",
+            "however",
+            "moreover"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "course",
+                "occurrences": [
+                    {
+                        "start_idx": 58,
+                        "end_idx": 64
+                    },
+                    {
+                        "start_idx": 119,
+                        "end_idx": 125
+                    },
+                    {
+                        "start_idx": 487,
+                        "end_idx": 493
+                    },
+                    {
+                        "start_idx": 936,
+                        "end_idx": 942
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T19:07:13.256Z"
+}

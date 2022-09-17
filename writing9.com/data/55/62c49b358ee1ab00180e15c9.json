@@ -1,0 +1,139 @@
+{
+    "url": "https://writing9.com/text/62c49b358ee1ab00180e15c9-some-people-thing-that-parents-should-teach-children-how-to",
+    "file": [
+        "data",
+        "55",
+        "62c49b358ee1ab00180e15c9.json"
+    ],
+    "topics": [
+        "people",
+        "parents",
+        "children",
+        "members",
+        "society",
+        "belive",
+        "school",
+        "place"
+    ],
+    "question": "some people thing that parents should teach children how to be good members of the society. others, however, belive that school is the place to learn this",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is certain that the future of mankind depends on the future generation. People hold a different opinions on, who is responsible to guide the to build a better planet. In this article, I will argue both parents and teachers have equal responsibility to direct towards the right path.",
+        "In recent times, I could see the media predominantly covers the crimes committed by very young people. Obviously, the parents play a vital role in their activities as the home is the first school where children learn their behaviours by looking at the parents. For instance, we might see a child trying to smoke by using a piece of paper. As a result, after they grow up, the impact would be on the community.",
+        "On the other hand, a school is a place, where the student interacts with the whole variety of people from wider society such as teachers, peers and other students. In addition to that, in many countries, the government has included social study in the local curriculum to teach morals and values which further assist the students in learning behavioural science. Hence, the experience might influence the children on how to co-operate and learn to respect others' values. Therefore, we cannot leave the responsibility only to the parents for their children\u2019s behaviours.",
+        "Considering the above statements and views, in my opinion, I strongly accept both parents and school have equal responsibility over the behaviours of the children. We, as a society should work together to guide our next generation for their betterment and society."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "a different opinions",
+                "start_idx": 86,
+                "end_idx": 106,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun opinions in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "different opinions",
+                    "a different opinion"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 139,
+                "end_idx": 142,
+                "error": "Correct your spelling",
+                "error_des": "The word the doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "them"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 768,
+                "end_idx": 771,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a"
+                ]
+            }
+        ]
+    },
+    "submitter": "hinasmohamed.hm",
+    "num_words": 256,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "further",
+            "such",
+            "first",
+            "as a result",
+            "hence",
+            "next",
+            "in addition",
+            "therefore",
+            "on the other hand",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "parents",
+                "occurrences": [
+                    {
+                        "start_idx": 205,
+                        "end_idx": 212
+                    },
+                    {
+                        "start_idx": 404,
+                        "end_idx": 411
+                    },
+                    {
+                        "start_idx": 538,
+                        "end_idx": 545
+                    },
+                    {
+                        "start_idx": 1226,
+                        "end_idx": 1233
+                    },
+                    {
+                        "start_idx": 1349,
+                        "end_idx": 1356
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-05T20:17:15.212Z"
+}

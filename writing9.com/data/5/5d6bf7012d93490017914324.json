@@ -1,0 +1,272 @@
+{
+    "url": "https://writing9.com/text/5d6bf7012d93490017914324",
+    "file": [
+        "data",
+        "5",
+        "5d6bf7012d93490017914324.json"
+    ],
+    "topics": [
+        "people",
+        "choices"
+    ],
+    "question": "Some people believe that nowadays we have too many choices. \nTo what extent do you agree or disagree with this statement.",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is thought by some people that in the present age available options are manyfold. In my opinion, I agree that number of present options have now increased dramatically but it depends on the field in which one is looking for the options.",
+        "To find a specific choice is always desired but rarely found but in the present age the horizon of possibilities has really broadened. In the field of education and pursuing the future career, one can have many choices available. For example, if a student cannot get the required grades in a particular field then it doesnot mean that he stands nowhere. A number of jobs are there according to the aptitude and capabilities of the student.",
+        "Another point to consider regarding the altenatives is in the field of automobiles. In the present time, moving from one place to another is not a big consideration. It all depends upon the finances and the possibilities can be many and that too very coste ffective. For instance, if one wants to own a car, it can be very easily afforded on installments these days. Moreover, public transport sector is so well developed that day to day routine can be carried out in a very efficient way even without owning a car.",
+        "Finally, the most important issue with a vast majority of possibilities is the field of communication. To remain connected with the world is of prime importance in the present era and at the same time it has become so convinient that we can communicate with eachother by literally spending nothing by using modalities such as e-mail, facebook and twitter.",
+        "In conclusion, this is the age of technology and with each passing day man has an increased number of options available to him that decision making is becoming easier."
+    ],
+    "errors": {
+        "num_error": "15",
+        "error_list": [
+            {
+                "word": "manyfold",
+                "start_idx": 74,
+                "end_idx": 82,
+                "error": "a pipe that has several lateral outlets to or from other pipes",
+                "error_des": "",
+                "suggetions": [
+                    "manifold"
+                ]
+            },
+            {
+                "word": "present",
+                "start_idx": 122,
+                "end_idx": 129,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "presentation"
+                ]
+            },
+            {
+                "word": "dramatically but",
+                "start_idx": 157,
+                "end_idx": 173,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "dramatically, but"
+                ]
+            },
+            {
+                "word": "found but",
+                "start_idx": 294,
+                "end_idx": 303,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "found, but"
+                ]
+            },
+            {
+                "word": "field ",
+                "start_idx": 542,
+                "end_idx": 548,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "field, then"
+                ]
+            },
+            {
+                "word": "doesnot",
+                "start_idx": 556,
+                "end_idx": 563,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "does not"
+                ]
+            },
+            {
+                "word": "there according",
+                "start_idx": 614,
+                "end_idx": 629,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "there, according"
+                ]
+            },
+            {
+                "word": "altenatives",
+                "start_idx": 719,
+                "end_idx": 730,
+                "error": "one of a number of things from which only one can be chosen",
+                "error_des": "",
+                "suggetions": [
+                    "alternatives"
+                ]
+            },
+            {
+                "word": "In",
+                "start_idx": 763,
+                "end_idx": 765,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "At"
+                ]
+            },
+            {
+                "word": "coste ffective",
+                "start_idx": 930,
+                "end_idx": 944,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "cost effective"
+                ]
+            },
+            {
+                "word": "installments",
+                "start_idx": 1021,
+                "end_idx": 1033,
+                "error": "a payment of part of a debt; usually paid at regular intervals",
+                "error_des": "",
+                "suggetions": [
+                    "instalments",
+                    "instruments",
+                    "instalments'"
+                ]
+            },
+            {
+                "word": "convinient",
+                "start_idx": 1413,
+                "end_idx": 1423,
+                "error": "suited to your comfort or purpose or needs",
+                "error_des": "",
+                "suggetions": [
+                    "convenient"
+                ]
+            },
+            {
+                "word": "eachother",
+                "start_idx": 1453,
+                "end_idx": 1462,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "each other"
+                ]
+            },
+            {
+                "word": "e-mail",
+                "start_idx": 1521,
+                "end_idx": 1527,
+                "error": "(computer science) a system of world-wide electronic communication in which a computer user can compose a message at one terminal that can be regenerated at the recipient's terminal when the recipient logs in",
+                "error_des": "",
+                "suggetions": [
+                    "email"
+                ]
+            },
+            {
+                "word": "facebook",
+                "start_idx": 1529,
+                "end_idx": 1537,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Facebook"
+                ]
+            }
+        ]
+    },
+    "submitter": "shafqat",
+    "num_words": 299,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "such",
+            "then",
+            "finally",
+            "for instance",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "one",
+                "occurrences": [
+                    {
+                        "start_idx": 208,
+                        "end_idx": 211
+                    },
+                    {
+                        "start_idx": 433,
+                        "end_idx": 436
+                    },
+                    {
+                        "start_idx": 797,
+                        "end_idx": 800
+                    },
+                    {
+                        "start_idx": 964,
+                        "end_idx": 967
+                    }
+                ]
+            },
+            {
+                "word": "field",
+                "occurrences": [
+                    {
+                        "start_idx": 193,
+                        "end_idx": 198
+                    },
+                    {
+                        "start_idx": 382,
+                        "end_idx": 387
+                    },
+                    {
+                        "start_idx": 543,
+                        "end_idx": 548
+                    },
+                    {
+                        "start_idx": 742,
+                        "end_idx": 747
+                    },
+                    {
+                        "start_idx": 1275,
+                        "end_idx": 1280
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-01T16:51:13.106Z"
+}

@@ -1,0 +1,164 @@
+{
+    "url": "https://writing9.com/text/60a22008c312c40018d64c1a-in-the-world-of-the-internet-people-write-product-reviews",
+    "file": [
+        "data",
+        "85",
+        "60a22008c312c40018d64c1a.json"
+    ],
+    "topics": [
+        "world",
+        "internet",
+        "people",
+        "product",
+        "reviews",
+        "products",
+        "services",
+        "development"
+    ],
+    "question": "In the world of the internet, people write product reviews of products and services. Do you think this is a positive or negative development?",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the modern world of internet technologies, people tend to write about the experience about products and services that they use. In my opinion, it is a positive tendency as it helps others in making the right choice and stimulates producers and service providers to increase the quality of products.",
+        "First of all, a wide range of products is suggested for every customer nowadays. This puts many in a difficult spot because, to find the best or the necessary thing, a person has to spend a lot of time weighing the pros and cons. With the help of the internet, a great amount of time can be saved and modern search engines can precisely suggest the necessary services according to the preferences of most people. For instance, when using Amazon, it suggests top products in every category according to the reviews and feedbacks left by other customers.",
+        "Furthermore, the reviews are monitored and processed by many commercial companies. This means that they are taken into account to increase the level of satisfaction among current and potential buyers. Thus, products and services become better with every iteration pushing the progress in many spheres as it requires optimization and finding more efficient approaches. For example, products in Japan require thorough testing and review from a group of randomly chosen people before mass production.",
+        "In conclusion, I think the fact that people write product reviews of products and services is a positive tendency. Such a development simplifies the process of making choice and increases general quality."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "about",
+                "start_idx": 87,
+                "end_idx": 92,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            }
+        ]
+    },
+    "submitter": "Khan",
+    "num_words": 253,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "thus",
+            "such",
+            "first",
+            "furthermore",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "products",
+                "occurrences": [
+                    {
+                        "start_idx": 94,
+                        "end_idx": 102
+                    },
+                    {
+                        "start_idx": 292,
+                        "end_idx": 300
+                    },
+                    {
+                        "start_idx": 332,
+                        "end_idx": 340
+                    },
+                    {
+                        "start_idx": 764,
+                        "end_idx": 772
+                    },
+                    {
+                        "start_idx": 1062,
+                        "end_idx": 1070
+                    },
+                    {
+                        "start_idx": 1236,
+                        "end_idx": 1244
+                    },
+                    {
+                        "start_idx": 1422,
+                        "end_idx": 1430
+                    }
+                ]
+            },
+            {
+                "word": "services",
+                "occurrences": [
+                    {
+                        "start_idx": 107,
+                        "end_idx": 115
+                    },
+                    {
+                        "start_idx": 661,
+                        "end_idx": 669
+                    },
+                    {
+                        "start_idx": 1075,
+                        "end_idx": 1083
+                    },
+                    {
+                        "start_idx": 1435,
+                        "end_idx": 1443
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 46,
+                        "end_idx": 52
+                    },
+                    {
+                        "start_idx": 707,
+                        "end_idx": 713
+                    },
+                    {
+                        "start_idx": 1322,
+                        "end_idx": 1328
+                    },
+                    {
+                        "start_idx": 1390,
+                        "end_idx": 1396
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-05-17T07:50:30.596Z"
+}

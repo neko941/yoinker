@@ -1,0 +1,109 @@
+{
+    "url": "https://writing9.com/text/62daf1608ee1ab00180e3ba8-a-friend-has-written-a-letter-to-you-informing-you",
+    "file": [
+        "data",
+        "85",
+        "62daf1608ee1ab00180e3ba8.json"
+    ],
+    "topics": [
+        "friend",
+        "plan",
+        "visit",
+        "country",
+        "city",
+        "place",
+        "pack",
+        "travel"
+    ],
+    "question": "A friend has written a letter to you informing you about his or her plan to visit your country/city.Write a letter to him/ her. In your letter, write:what he or she can do in your country/cityadvise him about the place he could stay atsuggest to him/her what to pack and bring while coming to travel to your country/city",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Norton,",
+        "I am so delighted to receive your letter and writing back to say that I am fascinated to have you in my city in a few days. I cannot wait to receive you at the airport!",
+        "I guess this is your first time visit to Italy and I am sure you will enjoy your stay and take back some excellent memories. Once you finish your official tasks in Rome, you can spend a day or two there to enjoy the capital city, especially the Colosseum, Castel Sant'Angelo, St. Peter's Basilica, Trevi Fountain and the Pantheon. You can stay at the Hotel Palladium Palace if your accommodation is not already settled by your office.",
+        "Then fly directly to Lucca, the city I am residing in. Give me a call before you reach the airport and I will be there. I would like you to stay at my place as long as you wish. If you insist on staying at a hotel, you can try Villa Corte Degli Dei or Hotel Napoleon. We will enjoy local food, watch a movie and do boating. We can enjoy scenic beauty every evening.",
+        "I would recommend you to bring some warm clothes as the winter is setting in. Do not forget to bring your camera to capture the beauty of the rivers and traditional street views. Also, bring any medicines you take.",
+        "Looking forward to having you in my city soon.",
+        "Warm wishes,",
+        "Marco"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "first time",
+                "start_idx": 202,
+                "end_idx": 212,
+                "error": "Add a hyphen",
+                "error_des": "It appears that first time is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "first-time"
+                ]
+            }
+        ]
+    },
+    "submitter": "Ti R",
+    "num_words": 241,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "also",
+            "then",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "city",
+                "occurrences": [
+                    {
+                        "start_idx": 117,
+                        "end_idx": 121
+                    },
+                    {
+                        "start_idx": 406,
+                        "end_idx": 410
+                    },
+                    {
+                        "start_idx": 649,
+                        "end_idx": 653
+                    },
+                    {
+                        "start_idx": 1234,
+                        "end_idx": 1238
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-22T19:05:49.606Z"
+}

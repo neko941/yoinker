@@ -1,0 +1,157 @@
+{
+    "url": "https://writing9.com/text/5e88aefc2b106c00182c0f6a-a-recent-newspaper-article-discussed-the-threat-of-technology-taking",
+    "file": [
+        "data",
+        "55",
+        "5e88aefc2b106c00182c0f6a.json"
+    ],
+    "topics": [
+        "newspaper",
+        "article",
+        "threat",
+        "technology",
+        "homes",
+        "lives",
+        "editor"
+    ],
+    "question": "A recent newspaper article discussed the threat of technology taking over our homes and lives. You think that the views expressed in the article were one-sided and have decided to write a letter to the editor. You want to highlight the benefits of technology in our daily lives",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear editor,",
+        "I am writing this letter in response to your article about the usage of technology on our daily lives, on the grounds that only negative effects were taken into account. As such, I decided to express my stand on the topic",
+        "As the article correctly pinpointed, it is true that  recent advances of scientific research allowed technology to improve by leaps and bounds, so as to shrink the dimension of devices of every kind while increasing their potentialities. It comes as no surprise that the amount of such commodities at our disposal increased at dizzying speed, endowing our houses with devices of every sort. What I found ludicrous, however , is the inaccurate depiction of such, as the article names it, technological flood. Whilst it is true that a chunk of the population, particularly the elderly, found their lives impinged by the onset of smartphone and tablets, this only stands as a stark example of the inability of such people to adapt to this  brand-new reality, which is all but deleterious.",
+        "In fact, not only are these devices conceived as a means to facilitate us overcoming the hurdles posed by the daily grind, but should we use them conscientiously, we would even suss out  their fundamental utility in smoothing out problems in our way to achieve what we desire.  Were one to look at the bright side, the enormous wealth of information disclosed by the onset of the internet , allowed everyone to achieve objectives previously deemed far from their grasp.",
+        "All things considered, there is mounting evidence of the rise of smartphone addiction amongst the younger generation,but  the blame is to be put on the behaviour of people in particular, and not in technology in itself. In fact,only by curbing the unnecessary time spent on these devices will we be able to really benefit from their usage.",
+        "Regards."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "on",
+                "start_idx": 95,
+                "end_idx": 97,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 304,
+                "end_idx": 306,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "amount",
+                "start_idx": 505,
+                "end_idx": 511,
+                "error": "Change the quantifier",
+                "error_des": "It appears that the quantifier the amount does not fit with the countable noun commodities. Consider changing the quantifier or the noun.",
+                "suggetions": [
+                    "number"
+                ]
+            },
+            {
+                "word": "smartphone",
+                "start_idx": 861,
+                "end_idx": 871,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that smartphone may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "smartphones"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1142,
+                "end_idx": 1143,
+                "error": "Remove the comma",
+                "error_des": "The comma before the conjunction but appears to be unnecessary. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 1685,
+                "end_idx": 1687,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 311,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "in particular",
+            "however",
+            "such",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "devices",
+                "occurrences": [
+                    {
+                        "start_idx": 412,
+                        "end_idx": 419
+                    },
+                    {
+                        "start_idx": 603,
+                        "end_idx": 610
+                    },
+                    {
+                        "start_idx": 1049,
+                        "end_idx": 1056
+                    },
+                    {
+                        "start_idx": 1771,
+                        "end_idx": 1778
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T20:26:10.143Z"
+}

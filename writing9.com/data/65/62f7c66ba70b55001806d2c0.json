@@ -1,0 +1,138 @@
+{
+    "url": "https://writing9.com/text/62f7c66ba70b55001806d2c0-you-have-eaten-at-a-restaurant-and-it-was-such",
+    "file": [
+        "data",
+        "65",
+        "62f7c66ba70b55001806d2c0.json"
+    ],
+    "topics": [
+        "restaurant",
+        "manager",
+        "money",
+        "\u2013",
+        "facts",
+        "insults",
+        "outline",
+        "firmness"
+    ],
+    "question": "You have eaten at a restaurant and it was such a terrible experience that you have decided to inform the manager by letter of what happened, and that you want your money back. Things to include:\u2013 Facts. You need to be concise but explain what happened.\u2013 Polite. No one responds to insults.\u2013 Outline what you wish from this. What do you want to happen?\u2013 Firmness. You want to be taken seriously.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "I am writing this letter to report an unfavourable situation that occurred at your restaurant last Friday and to request a refund.",
+        "Last week, I booked a VIP room for last Friday evening for business dinner with my four important partners and myself at The Brew via phone call and the receptionist confirmed the booking. I also ordered seven dishes to make it ready when we arrive. The receptionist requested me to pay for the deposit 50% and I paid via my credit card. When I arrived there on the day, the manager informed me that he cannot find my name on the booking list and as all the rooms are occupied, they cannot provide a private room for us. Although I was really upset, I explained to him that I have booked a room, ordered food, and even paid 50% of the bill. However, he kept refusing to find an appropriate room for us and convinced us to take a table in the hall. Since all my partners had arrived at that time, and were standing and waiting for arrangements, I had no other choice than to take a table just beside the walkway. Surprisingly, the manager did not even show any sense of respect and responsibility.",
+        "I would like to request you to investigate on this occasion, finding out the responsible receptionist for her poor service on booking record. Additionally, I would suggest you provide proper training to your manager for formal communication and problem-solving skills. I must say he needs to improve to a certain extent. Besides, could you please transfer my money back to my bank account mentioned at the end of the letter?",
+        "I must admit that I was quite inconvenienced and felt insulted by your manager and his poor service team in front of my business partners on that evening. I hope you will take proper action against your team based on my letter.",
+        "Sincerely,",
+        "Zay Yar Myint."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 944,
+                "end_idx": 945,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound predicate. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "zayyar6367",
+    "num_words": 328,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "also",
+            "although",
+            "besides",
+            "however",
+            "last",
+            "additionally",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "room",
+                "occurrences": [
+                    {
+                        "start_idx": 176,
+                        "end_idx": 180
+                    },
+                    {
+                        "start_idx": 608,
+                        "end_idx": 612
+                    },
+                    {
+                        "start_idx": 658,
+                        "end_idx": 662
+                    },
+                    {
+                        "start_idx": 740,
+                        "end_idx": 744
+                    },
+                    {
+                        "start_idx": 840,
+                        "end_idx": 844
+                    }
+                ]
+            },
+            {
+                "word": "manager",
+                "occurrences": [
+                    {
+                        "start_idx": 525,
+                        "end_idx": 532
+                    },
+                    {
+                        "start_idx": 1080,
+                        "end_idx": 1087
+                    },
+                    {
+                        "start_idx": 1355,
+                        "end_idx": 1362
+                    },
+                    {
+                        "start_idx": 1643,
+                        "end_idx": 1650
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-13T15:47:59.087Z"
+}

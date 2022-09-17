@@ -1,0 +1,332 @@
+{
+    "url": "https://writing9.com/text/62fc6c5a0751a40019b4bdbd-young-people-these-days-tend-to-be-less-polite-and",
+    "file": [
+        "data",
+        "45",
+        "62fc6c5a0751a40019b4bdbd.json"
+    ],
+    "topics": [
+        "people",
+        "caurses"
+    ],
+    "question": "Young people these days tend to be less polite and respectful than in the past.what are the caurses and solutions of this problem",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 4.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays , young generation are going in the dark side and also they lost their diamond as a culture . In addition, they become aggressive and disrespectful person so that this essay illustrates so this problem and give some useful solution.",
+        "First of all, the main reason is that technology because they uses such kind of activity which do not give knowledge and information for example, today's generation are wasting their golden time on the devices and also uses some dark website that is help them to make person into the devil as a result they are lost their rights which gave from their parents.",
+        "Moreover, the film sector also has some contribution in this problem because they shows some advance level scene in the movie such as some films were banned in the country because of their script so that they cannot spread dirt in it.",
+        "However, Here is a solution for the above problems foremost is that guardian should take care of child that what are they doing ? , For instance, you should say that you must do study first then you will done any kind of activities. secondly , the law should give notice to remove the scene otherwise we should Banned it such as some films are not allow to show minor people as a result it cannot negative impact on them.",
+        "In conclusion , people should wake up and try to solve this problem because children are tomorrow's main so that the government also must take a decision for it."
+    ],
+    "errors": {
+        "num_error": "25",
+        "error_list": [
+            {
+                "word": "young",
+                "start_idx": 10,
+                "end_idx": 15,
+                "error": "Add an article",
+                "error_des": "The noun phrase young generation seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the young"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 27,
+                "end_idx": 30,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject young generation. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 37,
+                "end_idx": 39,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "into"
+                ]
+            },
+            {
+                "word": "aggressive",
+                "start_idx": 127,
+                "end_idx": 137,
+                "error": "Add an article",
+                "error_des": "The noun phrase aggressive and disrespectful person seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an aggressive"
+                ]
+            },
+            {
+                "word": "that ",
+                "start_idx": 166,
+                "end_idx": 171,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "uses",
+                "start_idx": 303,
+                "end_idx": 307,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun they and the verb uses are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "use"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 374,
+                "end_idx": 377,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter for example. Consider adding the comma(s).",
+                "suggetions": [
+                    ",for"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 406,
+                "end_idx": 409,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject today's generation. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "person",
+                "start_idx": 509,
+                "end_idx": 515,
+                "error": "Add an article",
+                "error_des": "The noun phrase person seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a person",
+                    "the person"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 531,
+                "end_idx": 532,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter as a result. Consider adding the comma(s).",
+                "suggetions": [
+                    ", as a result,"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 654,
+                "end_idx": 656,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "shows",
+                "start_idx": 683,
+                "end_idx": 688,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun they and the verb shows are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "show"
+                ]
+            },
+            {
+                "word": "advance",
+                "start_idx": 694,
+                "end_idx": 701,
+                "error": "Replace the word",
+                "error_des": "The word advance doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "advanced"
+                ]
+            },
+            {
+                "word": "as ",
+                "start_idx": 732,
+                "end_idx": 735,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "were",
+                "start_idx": 746,
+                "end_idx": 750,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "that were"
+                ]
+            },
+            {
+                "word": "guardian",
+                "start_idx": 904,
+                "end_idx": 912,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that guardian may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "guardians"
+                ]
+            },
+            {
+                "word": "child",
+                "start_idx": 933,
+                "end_idx": 938,
+                "error": "Add an article",
+                "error_des": "The noun phrase child seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a child",
+                    "the child"
+                ]
+            },
+            {
+                "word": "done",
+                "start_idx": 1040,
+                "end_idx": 1044,
+                "error": "Change the verb form",
+                "error_des": "The verb done after the modal verb will does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "do",
+                    "be done"
+                ]
+            },
+            {
+                "word": "notice",
+                "start_idx": 1100,
+                "end_idx": 1106,
+                "error": "Change the article",
+                "error_des": "It appears that the noun notice is not preceded by the correct article. Consider changing the article.",
+                "suggetions": [
+                    "the notice"
+                ]
+            },
+            {
+                "word": "Banned",
+                "start_idx": 1147,
+                "end_idx": 1153,
+                "error": "Change the verb form",
+                "error_des": "The verb Banned after the modal verb should does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "Ban"
+                ]
+            },
+            {
+                "word": "such ",
+                "start_idx": 1157,
+                "end_idx": 1162,
+                "error": "Correct quantifier usage",
+                "error_des": "It seems that quantifier use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "allow",
+                "start_idx": 1184,
+                "end_idx": 1189,
+                "error": "Change the form of the verb",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb allow. Consider changing it.",
+                "suggetions": [
+                    "allowed"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 1211,
+                "end_idx": 1212,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter as a result. Consider adding the comma(s).",
+                "suggetions": [
+                    ", as a result,"
+                ]
+            },
+            {
+                "word": "that ",
+                "start_idx": 1366,
+                "end_idx": 1371,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 1412,
+                "end_idx": 1415,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "about"
+                ]
+            }
+        ]
+    },
+    "submitter": "ssangani6161",
+    "num_words": 256,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "14",
+        "list_linking_words": [
+            "secondly",
+            "otherwise",
+            "also",
+            "such",
+            "first",
+            "as a result",
+            "then",
+            "however",
+            "in addition",
+            "that is",
+            "for instance",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-08-17T04:19:40.934Z"
+}

@@ -1,0 +1,188 @@
+{
+    "url": "https://writing9.com/text/5d448415a93d1f0017e27ed7",
+    "file": [
+        "data",
+        "65",
+        "5d448415a93d1f0017e27ed7.json"
+    ],
+    "topics": [
+        "role",
+        "education",
+        "children",
+        "world",
+        "schools",
+        "art",
+        "music",
+        "curriculum",
+        "focus",
+        "subjects",
+        "information",
+        "technology"
+    ],
+    "question": "The role of education is to prepare children for the modern world. Schools should cut art and music out of the curriculum so that children can focus on useful subjects such as information technology. To what extent do you agree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is undoubtedly true that the prime aim of the educational system is preparing youngsters for the future. While it may seem like a good idea to eliminate Art and Music from schools and teach other theoritical subjects such as Information Technology instead, I completely disagree.",
+        "First of all, Art can improve pupils\u2019 creativity and enhance their memory. This is mainly because Art provokes children to utilize their imagination abilities frequently which solidates the neural network related to creativity in their brains. Moreover, most Art students have to visualize what they are going to work at first and then they work from their memories which strengthens their long-term memory. In 2009, for instance, a study was conducted on artists by Harvard University showed that artists have the same IQ level as Math scientists and less likely to have Alzheimer when they grow up.",
+        "In addition, music can reduce violence among students. This is due to its sedating effect on pupils\u2019 brains which makes them feel safe and unstressed. In Kenya, for example, when they introduced music as a seperate subject to primary school students, violence among them dropped by 50%. In contrast, if educational authorities replaced music by other subject, pupils would be stressed for longer hours which can lead to violence; teaching music should be obligatory in all public and private schools.",
+        "To conclude, due to their benefits such as improving students\u2019 creativity and decreasing violence among pupils, I completely believe that Art and Music must be taught in all schools."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "theoritical",
+                "start_idx": 198,
+                "end_idx": 209,
+                "error": "concerned primarily with theories or hypotheses rather than practical considerations",
+                "error_des": "",
+                "suggetions": [
+                    "theoretical"
+                ]
+            },
+            {
+                "word": "frequently which",
+                "start_idx": 441,
+                "end_idx": 457,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "frequently, which"
+                ]
+            },
+            {
+                "word": "solidates",
+                "start_idx": 458,
+                "end_idx": 467,
+                "error": "characterized by good substantial quality",
+                "error_des": "",
+                "suggetions": [
+                    "solids"
+                ]
+            },
+            {
+                "word": "seperate",
+                "start_idx": 1089,
+                "end_idx": 1097,
+                "error": "act as a barrier between; stand between",
+                "error_des": "",
+                "suggetions": [
+                    "separate"
+                ]
+            },
+            {
+                "word": "other",
+                "start_idx": 1228,
+                "end_idx": 1233,
+                "error": "any of various alternatives; some other",
+                "error_des": "",
+                "suggetions": [
+                    "another"
+                ]
+            },
+            {
+                "word": "hours which",
+                "start_idx": 1279,
+                "end_idx": 1290,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "hours, which"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 252,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "instead",
+            "such",
+            "first",
+            "in contrast",
+            "then",
+            "in addition",
+            "for instance",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "violence",
+                "occurrences": [
+                    {
+                        "start_idx": 914,
+                        "end_idx": 922
+                    },
+                    {
+                        "start_idx": 1135,
+                        "end_idx": 1143
+                    },
+                    {
+                        "start_idx": 1304,
+                        "end_idx": 1312
+                    },
+                    {
+                        "start_idx": 1474,
+                        "end_idx": 1482
+                    }
+                ]
+            },
+            {
+                "word": "music",
+                "occurrences": [
+                    {
+                        "start_idx": 897,
+                        "end_idx": 902
+                    },
+                    {
+                        "start_idx": 1079,
+                        "end_idx": 1084
+                    },
+                    {
+                        "start_idx": 1220,
+                        "end_idx": 1225
+                    },
+                    {
+                        "start_idx": 1323,
+                        "end_idx": 1328
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-02T18:42:29.081Z"
+}

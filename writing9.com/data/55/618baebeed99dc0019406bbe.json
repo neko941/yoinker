@@ -1,0 +1,150 @@
+{
+    "url": "https://writing9.com/text/618baebeed99dc0019406bbe-nowadays-the-way-many-people-interact-with-each-other-has",
+    "file": [
+        "data",
+        "55",
+        "618baebeed99dc0019406bbe.json"
+    ],
+    "topics": [
+        "people",
+        "technology",
+        "relationships",
+        "become",
+        "development"
+    ],
+    "question": "Nowadays the way many people interact with each other has changed because of technology. In what ways has technology affected personal relationships? Has this become a positive or negative development?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Technological development of the last several decades has impacted many aspects of human lives, especially the way individuals communicate with one another. Phones and internet positively impacted interactions of people with each other, making them faster and helping to solve issues on the run.",
+        "New communication technologies made it possible to socialize instantly, even when the needed person is located in a different part of the globe. The development of the internet, especially social media, helped people to maintain long-distance relationships, allowing them to keep in touch with close people, without seeing them in person. For instance, recent studies demonstrated that those couples who talk with one another on daily basis, when separated by long distances, tend to have stronger relationships than those who communicate only several times a week.",
+        "It looks like most of the developments brought by the internet and telephone have a positive influence on the way people communicate. Before these inventions, the fastest way of communication were letters, and it could take up to several months to receive the message from the sender, or, if it was close by, in-person meeting was needed. For example, when one needed a plumber he had to go workshop, whereas now it is a matter of minutes to open the phone and order him via an app. Therefore, new technologies made communication more convenient and comfortable.",
+        "To conclude, the influence of technological advancement in personal relationships of people are beneficial for them, as they help to maintain relationships over  long distances and make interactions more comfortable."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "internet",
+                "start_idx": 167,
+                "end_idx": 175,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the internet"
+                ]
+            },
+            {
+                "word": "in-person",
+                "start_idx": 1170,
+                "end_idx": 1179,
+                "error": "Add an article",
+                "error_des": "The noun phrase in-person meeting seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the in-person",
+                    "an in-person"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 1516,
+                "end_idx": 1519,
+                "error": "Change the verb form",
+                "error_des": "The verb are does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "is"
+                ]
+            }
+        ]
+    },
+    "submitter": "urunova7777",
+    "num_words": 256,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "for instance",
+            "last",
+            "for example",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 213,
+                        "end_idx": 219
+                    },
+                    {
+                        "start_idx": 506,
+                        "end_idx": 512
+                    },
+                    {
+                        "start_idx": 596,
+                        "end_idx": 602
+                    },
+                    {
+                        "start_idx": 976,
+                        "end_idx": 982
+                    },
+                    {
+                        "start_idx": 1510,
+                        "end_idx": 1516
+                    }
+                ]
+            },
+            {
+                "word": "relationships",
+                "occurrences": [
+                    {
+                        "start_idx": 539,
+                        "end_idx": 552
+                    },
+                    {
+                        "start_idx": 794,
+                        "end_idx": 807
+                    },
+                    {
+                        "start_idx": 1493,
+                        "end_idx": 1506
+                    },
+                    {
+                        "start_idx": 1567,
+                        "end_idx": 1580
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-11-10T11:49:27.491Z"
+}

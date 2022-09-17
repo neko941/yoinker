@@ -1,0 +1,574 @@
+{
+    "url": "https://writing9.com/text/630ef1800751a40019b4ddc6-students-in-school-should-learn-academic-subjects-and-pass-exams",
+    "file": [
+        "data",
+        "65",
+        "630ef1800751a40019b4ddc6.json"
+    ],
+    "topics": [
+        "students",
+        "school",
+        "subjects",
+        "exams",
+        "skills",
+        "cookery",
+        "woodwork",
+        "learnt",
+        "friends"
+    ],
+    "question": "Students in school should learn academic subjects and pass exams. Other skills such as cookery, dressmaking and woodwork  can be learnt well from family and friends. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Although study main subjects and finish all the examination is crucial for the future of the students, I do belive that less important subjects should not study from others people instead of teachers.",
+        "To begin with, friends and family are not professional to teach students the right way and the correct theory to practice their cookery, dressmaking and woodmaker skills. Therefore, students should learn those subjects from the experts at school so that they can avoid accident in woodmaking. In accdition, students might found their talent when study sub-subjects and that will be their memorable experience. These subjects may not useful at the present but maybe in the future they will be able to use it, for example when your shirt is broken, you will know how to fix it because you had studied dressmaking before.",
+        "On the other hand, athough sub-subjects is helpful and fun, but students should spend limit time with them to have more time for academic subjects. Learning math, history, philosophy and others main subjects can training studens\u2019 mind and they will have a good foundation to hunt a good scores from every exam. As a result, they can have more achievement to decorate their CV for a better future. With all the knowledge students collect from their education path, they will have a extensive knowledge and wide vision of the world to develope themselves. For instance, study a lots help us improve ourselves and closer to success.",
+        "To summarize, not only students should learn sub-subjects in school if they be able to, but also they should spend more time for the main subjects to pass exams. However,  they should balance study between crucial and less important subjects."
+    ],
+    "errors": {
+        "num_error": "38",
+        "error_list": [
+            {
+                "word": "study",
+                "start_idx": 8,
+                "end_idx": 13,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb study. Consider changing it.",
+                "suggetions": [
+                    "studying"
+                ]
+            },
+            {
+                "word": "main",
+                "start_idx": 14,
+                "end_idx": 18,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the main"
+                ]
+            },
+            {
+                "word": "finish",
+                "start_idx": 32,
+                "end_idx": 38,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb finish. Consider changing it.",
+                "suggetions": [
+                    "finishing"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 107,
+                "end_idx": 107,
+                "error": "Correct your spelling",
+                "error_des": "The word belive doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "believe"
+                ]
+            },
+            {
+                "word": "belive",
+                "start_idx": 107,
+                "end_idx": 113,
+                "error": "Correct your spelling",
+                "error_des": "The word belive doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "believe"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 160,
+                "end_idx": 164,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "by"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 165,
+                "end_idx": 165,
+                "error": "Correct quantifier usage",
+                "error_des": "It seems that quantifier use may be incorrect here.",
+                "suggetions": [
+                    "other"
+                ]
+            },
+            {
+                "word": "others",
+                "start_idx": 165,
+                "end_idx": 171,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "other"
+                ]
+            },
+            {
+                "word": "woodmaker",
+                "start_idx": 353,
+                "end_idx": 362,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want woodmaker to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "wood maker"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 469,
+                "end_idx": 469,
+                "error": "Add an article",
+                "error_des": "The noun phrase accident seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an accident"
+                ]
+            },
+            {
+                "word": "accident",
+                "start_idx": 469,
+                "end_idx": 477,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that accident may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "accidents"
+                ]
+            },
+            {
+                "word": "woodmaking",
+                "start_idx": 481,
+                "end_idx": 491,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want woodmaking to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "wood making"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 496,
+                "end_idx": 496,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want accdition to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "addition"
+                ]
+            },
+            {
+                "word": "accdition",
+                "start_idx": 496,
+                "end_idx": 505,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want accdition to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "addition"
+                ]
+            },
+            {
+                "word": "found",
+                "start_idx": 522,
+                "end_idx": 527,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb found. Consider changing it.",
+                "suggetions": [
+                    "find"
+                ]
+            },
+            {
+                "word": "study",
+                "start_idx": 546,
+                "end_idx": 551,
+                "error": "Replace the word",
+                "error_des": "The word study doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "studying"
+                ]
+            },
+            {
+                "word": "their",
+                "start_idx": 582,
+                "end_idx": 587,
+                "error": "Change the word",
+                "error_des": "The word their may be incorrect in this context. Consider changing it.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "useful",
+                "start_idx": 633,
+                "end_idx": 639,
+                "error": "Replace the word",
+                "error_des": "The word useful doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "use"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 704,
+                "end_idx": 706,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "them"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 838,
+                "end_idx": 838,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want athough to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "although",
+                    "though"
+                ]
+            },
+            {
+                "word": "athough",
+                "start_idx": 838,
+                "end_idx": 845,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want athough to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "although"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 859,
+                "end_idx": 861,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb is does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "but ",
+                "start_idx": 879,
+                "end_idx": 883,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "limit",
+                "start_idx": 905,
+                "end_idx": 910,
+                "error": "Replace the word",
+                "error_des": "The word limit doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "limited"
+                ]
+            },
+            {
+                "word": "others",
+                "start_idx": 1006,
+                "end_idx": 1012,
+                "error": "Correct quantifier usage",
+                "error_des": "It seems that quantifier use may be incorrect here.",
+                "suggetions": [
+                    "other"
+                ]
+            },
+            {
+                "word": "training",
+                "start_idx": 1031,
+                "end_idx": 1039,
+                "error": "Change the verb form",
+                "error_des": "The verb training after the modal verb can does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "train",
+                    "be training"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1040,
+                "end_idx": 1040,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want studens' to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "student's",
+                    "students"
+                ]
+            },
+            {
+                "word": "studens\u2019",
+                "start_idx": 1040,
+                "end_idx": 1048,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want studens to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "students\u2019"
+                ]
+            },
+            {
+                "word": "mind",
+                "start_idx": 1049,
+                "end_idx": 1053,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that mind may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "minds"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 1099,
+                "end_idx": 1101,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun scores in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 1113,
+                "end_idx": 1117,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "a extensive knowledge",
+                "start_idx": 1298,
+                "end_idx": 1319,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun knowledge in your sentence. Consider removing it.",
+                "suggetions": [
+                    "extensive knowledge",
+                    "a piece of extensive knowledge"
+                ]
+            },
+            {
+                "word": "wide",
+                "start_idx": 1324,
+                "end_idx": 1328,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a wide"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1352,
+                "end_idx": 1352,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want develope to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "develop"
+                ]
+            },
+            {
+                "word": "develope",
+                "start_idx": 1352,
+                "end_idx": 1360,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want develope to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "develop"
+                ]
+            },
+            {
+                "word": "study",
+                "start_idx": 1387,
+                "end_idx": 1392,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb study. Consider changing it.",
+                "suggetions": [
+                    "studying"
+                ]
+            },
+            {
+                "word": "be",
+                "start_idx": 1525,
+                "end_idx": 1527,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun they and the verb be are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 1574,
+                "end_idx": 1577,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            }
+        ]
+    },
+    "submitter": "daisyle1811",
+    "num_words": 282,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "to begin",
+            "instead",
+            "also",
+            "although",
+            "as a result",
+            "however",
+            "therefore",
+            "on the other hand",
+            "for instance",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 93,
+                        "end_idx": 101
+                    },
+                    {
+                        "start_idx": 265,
+                        "end_idx": 273
+                    },
+                    {
+                        "start_idx": 383,
+                        "end_idx": 391
+                    },
+                    {
+                        "start_idx": 508,
+                        "end_idx": 516
+                    },
+                    {
+                        "start_idx": 884,
+                        "end_idx": 892
+                    },
+                    {
+                        "start_idx": 1240,
+                        "end_idx": 1248
+                    },
+                    {
+                        "start_idx": 1473,
+                        "end_idx": 1481
+                    }
+                ]
+            },
+            {
+                "word": "study",
+                "occurrences": [
+                    {
+                        "start_idx": 9,
+                        "end_idx": 14
+                    },
+                    {
+                        "start_idx": 155,
+                        "end_idx": 160
+                    },
+                    {
+                        "start_idx": 547,
+                        "end_idx": 552
+                    },
+                    {
+                        "start_idx": 1388,
+                        "end_idx": 1393
+                    },
+                    {
+                        "start_idx": 1642,
+                        "end_idx": 1647
+                    }
+                ]
+            },
+            {
+                "word": "subjects",
+                "occurrences": [
+                    {
+                        "start_idx": 20,
+                        "end_idx": 28
+                    },
+                    {
+                        "start_idx": 135,
+                        "end_idx": 143
+                    },
+                    {
+                        "start_idx": 411,
+                        "end_idx": 419
+                    },
+                    {
+                        "start_idx": 557,
+                        "end_idx": 565
+                    },
+                    {
+                        "start_idx": 617,
+                        "end_idx": 625
+                    },
+                    {
+                        "start_idx": 851,
+                        "end_idx": 859
+                    },
+                    {
+                        "start_idx": 958,
+                        "end_idx": 966
+                    },
+                    {
+                        "start_idx": 1019,
+                        "end_idx": 1027
+                    },
+                    {
+                        "start_idx": 1499,
+                        "end_idx": 1507
+                    },
+                    {
+                        "start_idx": 1588,
+                        "end_idx": 1596
+                    },
+                    {
+                        "start_idx": 1683,
+                        "end_idx": 1691
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-31T05:28:33.588Z"
+}

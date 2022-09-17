@@ -1,0 +1,132 @@
+{
+    "url": "https://writing9.com/text/5ccb22743fe704209e42dc06",
+    "file": [
+        "data",
+        "5",
+        "5ccb22743fe704209e42dc06.json"
+    ],
+    "topics": [
+        "children",
+        "diseases"
+    ],
+    "question": "Vaccinating children against preventable diseases is not only unnecessary but also dangerous. \n\nTo what extent do you agree or disagree.",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, one of the topical issues in medicine is the recurring debate on whether infants and younger ones should be vaccinated or not. Many are of the school of thought that this phenomenon is deadly and uncalled for while others believe in the necessity of immunizing children especially immediately they are given birth to. As will be buttressed in the sequel of this essay, I completely disagree with the former because vaccination is a measure to prevent imminent diseases that could eventually lead to death, and thus, should be encouraged.",
+        "To start with, administering vaccines to children especially, the newly born, is essential to forestall possible potential diseases that affect children right from childhood. Diseases such as yellow fever and convulsion are better prevented via vaccines taken especially between one to three months after a child is born as these ailments seem to be incurable once the child grows to a certain age. As an example, the child mortality rate in Nigeria in the past two decades compared to now has declined significantly. From the report released by the Federal Ministry of Health in 2018, the statistics of infant death revealed an amazing 70% decrease between years 2010 and 2016 compared to what was recorded between year 2000 and 2009.",
+        "However, due to accompanying complications that might ensue from immunization, people at the other side of the divide are of the opinion that giving vaccination should be abolished. To this class of people, encouraging vaccination is as good as administering euthanasia which eventually leads to health deterioration and ultimately, death. But then, statistics show that people with this mind-set are majorly rural dwellers who have less access to medical professionals and healthcare facilities.",
+        "Conclusively, the importance of vaccination in children in considerably limiting the incidence of infant mortality cannot be over-emphasised in our world today, but, this has to be carried out by trained medical professionals in order to forestall impending health challenges in the future."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "given",
+                "start_idx": 311,
+                "end_idx": 316,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "giving"
+                ]
+            },
+            {
+                "word": "ailments",
+                "start_idx": 877,
+                "end_idx": 885,
+                "error": "violent or severe weather (viewed as caused by the action of the four elements)",
+                "error_des": "",
+                "suggetions": [
+                    "elements"
+                ]
+            },
+            {
+                "word": "years",
+                "start_idx": 1205,
+                "end_idx": 1210,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the years"
+                ]
+            },
+            {
+                "word": "euthanasia which",
+                "start_idx": 1542,
+                "end_idx": 1558,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "euthanasia, which"
+                ]
+            }
+        ]
+    },
+    "submitter": "ojediransamuel",
+    "num_words": 326,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "thus",
+            "such",
+            "then",
+            "however",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "vaccination",
+                "occurrences": [
+                    {
+                        "start_idx": 425,
+                        "end_idx": 436
+                    },
+                    {
+                        "start_idx": 1433,
+                        "end_idx": 1444
+                    },
+                    {
+                        "start_idx": 1503,
+                        "end_idx": 1514
+                    },
+                    {
+                        "start_idx": 1813,
+                        "end_idx": 1824
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-02T17:01:40.000Z"
+}

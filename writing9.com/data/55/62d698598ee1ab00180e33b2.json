@@ -1,0 +1,321 @@
+{
+    "url": "https://writing9.com/text/62d698598ee1ab00180e33b2-some-people-believe-that-the-education-system-should-only-focus",
+    "file": [
+        "data",
+        "55",
+        "62d698598ee1ab00180e33b2.json"
+    ],
+    "topics": [
+        "people",
+        "education",
+        "system",
+        "focus",
+        "students",
+        "employment",
+        "functions"
+    ],
+    "question": "Some people believe that the education system should only focus on preparing students for employment, while others believe it has other important functions.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There is a continuous argument that getting pupils for their careers should only be the main focus of schools, whereas many people believe that schools have additional purposes. The purpose of this essay is to analyze both sides of the argument and then I\u2019ll give my own opinion.",
+        "On one side of this argument it's widely believed that education system should only concentrate on providing knowledge for students, which is essential of their employments. The main reason of this believing is that it helps students to have better career and to earn more money in the future. People who are sufficiently knowledgeable in particular fields are appreciated by employers when they\u2019re interviewed. One good illustration of this is a medical college is preparing their students for practice regularly, which helps them get a good position, so the academic organization plays an important role in interviewing. The second point is that it leads to a better workforce which gives benefits to society. This benefits society by increasing productivity and determining that employers have the necessary labor they require.",
+        "On the other hand, it is often argued that in fact there are also advantages of school having other function. People often have this opinion because schools should teach students skills to make them well-rounded, such as communication skills and how to use technology. In today\u2019s modern society, the ability to communicate and use technology, which education system should teach pupils, is essential. It\u2019s a good example of this is that people who have better social skills will easily get a good position in companies as well as in society. Moreover, it\u2019s necessary for schools to teach morals and ethics. This is because this will make the society better. Humans are the foundation of society, so if people have good characteristic, society will develop.",
+        "In conclusion, I believe both arguments have their merits. On balance, however, I feel that learning systems should have additional functions. It\u2019s because if students are well-rounded, they will be more successful in their lives and contribute more to society"
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "argument",
+                "start_idx": 299,
+                "end_idx": 307,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase On one side of this argument. Consider adding a comma.",
+                "suggetions": [
+                    ",argument"
+                ]
+            },
+            {
+                "word": "education",
+                "start_idx": 334,
+                "end_idx": 343,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the education"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 431,
+                "end_idx": 433,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "employments",
+                "start_idx": 440,
+                "end_idx": 451,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that employments may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "employment"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 469,
+                "end_idx": 471,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "believing",
+                "start_idx": 477,
+                "end_idx": 486,
+                "error": "Replace the word",
+                "error_des": "The word believing doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "belief"
+                ]
+            },
+            {
+                "word": "better",
+                "start_idx": 521,
+                "end_idx": 527,
+                "error": "Add an article",
+                "error_des": "The noun phrase better career seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a better"
+                ]
+            },
+            {
+                "word": "career",
+                "start_idx": 528,
+                "end_idx": 534,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that career may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "careers"
+                ]
+            },
+            {
+                "word": "labor",
+                "start_idx": 1090,
+                "end_idx": 1095,
+                "error": "Change the spelling",
+                "error_des": "The spelling of labor is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "labour"
+                ]
+            },
+            {
+                "word": "function",
+                "start_idx": 1210,
+                "end_idx": 1218,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that function may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "functions"
+                ]
+            },
+            {
+                "word": "education",
+                "start_idx": 1459,
+                "end_idx": 1468,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the education"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1748,
+                "end_idx": 1752,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "good",
+                "start_idx": 1824,
+                "end_idx": 1828,
+                "error": "Add an article",
+                "error_des": "The noun phrase good characteristic seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a good",
+                    "the good"
+                ]
+            },
+            {
+                "word": "characteristic",
+                "start_idx": 1829,
+                "end_idx": 1843,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that characteristic may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "characteristics"
+                ]
+            }
+        ]
+    },
+    "submitter": "domaianh.uliser",
+    "num_words": 341,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "in particular",
+            "also",
+            "such",
+            "then",
+            "however",
+            "on the other hand",
+            "second",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "society",
+                "occurrences": [
+                    {
+                        "start_idx": 983,
+                        "end_idx": 990
+                    },
+                    {
+                        "start_idx": 1006,
+                        "end_idx": 1013
+                    },
+                    {
+                        "start_idx": 1398,
+                        "end_idx": 1405
+                    },
+                    {
+                        "start_idx": 1644,
+                        "end_idx": 1651
+                    },
+                    {
+                        "start_idx": 1753,
+                        "end_idx": 1760
+                    },
+                    {
+                        "start_idx": 1798,
+                        "end_idx": 1805
+                    },
+                    {
+                        "start_idx": 1846,
+                        "end_idx": 1853
+                    },
+                    {
+                        "start_idx": 2121,
+                        "end_idx": 2128
+                    }
+                ]
+            },
+            {
+                "word": "schools",
+                "occurrences": [
+                    {
+                        "start_idx": 102,
+                        "end_idx": 109
+                    },
+                    {
+                        "start_idx": 144,
+                        "end_idx": 151
+                    },
+                    {
+                        "start_idx": 1260,
+                        "end_idx": 1267
+                    },
+                    {
+                        "start_idx": 1682,
+                        "end_idx": 1689
+                    }
+                ]
+            },
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 403,
+                        "end_idx": 411
+                    },
+                    {
+                        "start_idx": 505,
+                        "end_idx": 513
+                    },
+                    {
+                        "start_idx": 762,
+                        "end_idx": 770
+                    },
+                    {
+                        "start_idx": 1281,
+                        "end_idx": 1289
+                    },
+                    {
+                        "start_idx": 2027,
+                        "end_idx": 2035
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 124,
+                        "end_idx": 130
+                    },
+                    {
+                        "start_idx": 1548,
+                        "end_idx": 1554
+                    },
+                    {
+                        "start_idx": 1813,
+                        "end_idx": 1819
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-19T11:57:06.011Z"
+}

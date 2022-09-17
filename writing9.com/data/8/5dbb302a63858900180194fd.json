@@ -1,0 +1,153 @@
+{
+    "url": "https://writing9.com/text/5dbb302a63858900180194fd",
+    "file": [
+        "data",
+        "8",
+        "5dbb302a63858900180194fd.json"
+    ],
+    "topics": [
+        "people",
+        "school",
+        "life",
+        "case"
+    ],
+    "question": "Some people fail in school, but end up being successful in life. Why do you think that is the case? What is the most important thing to succeed in life?",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "These days many people believe that those who have academic qualifications are successful and being a good student is the only way to succeed. However, I do not agree with this view because there are several factors in practical life which determine the accomplishment of an individual. I think one of the requirements to become successful is hard working.",
+        "To begin, many educational institutes are still following the old-fashioned and outdated methods of teaching; Therefore the creativity of many students does not flourish. Additionally, students' talent is not assessed by schools. The only thing that is considered is their grade. Consequently, many students drop out. Thus, it is evident that if a person fails in school, it cannot be a sign of intellectual weakness. On the other hand it indicates some students are not able to benefit from conventional methods of learning. There are also many students who fail in school because they have the passion for doing something other than education. For instance, many athletes were not interested in study, but when they recognized their talent they succeeded in life. Plus, they may be good at singing, painting or trading.",
+        "To be successful in life, one needs to possess some skills and personal traits. For example, one of the most valuable things is persistent effort. A person must have the right attitude, determination and willingness to work hard. Furthermore, have some academic certificate increase their chances of success. Although education could have a positive effect, without hard work and perseverance no one can achieve success in life.",
+        "In conclusion, failure in school does not mean that people cannot become successful in life. Academic background could certainly improve a person's chance of achievement,but it is not the only reason for being successful. There are many important factors such as hard working on a regular basis."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "days many",
+                "start_idx": 5,
+                "end_idx": 14,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "days, many"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1777,
+                "end_idx": 1778,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            }
+        ]
+    },
+    "submitter": "solmazk639",
+    "num_words": 305,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "15",
+        "list_linking_words": [
+            "to begin",
+            "thus",
+            "also",
+            "such",
+            "furthermore",
+            "although",
+            "however",
+            "additionally",
+            "therefore",
+            "that is",
+            "consequently",
+            "on the other hand",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "one",
+                "occurrences": [
+                    {
+                        "start_idx": 295,
+                        "end_idx": 298
+                    },
+                    {
+                        "start_idx": 428,
+                        "end_idx": 431
+                    },
+                    {
+                        "start_idx": 1205,
+                        "end_idx": 1208
+                    },
+                    {
+                        "start_idx": 1272,
+                        "end_idx": 1275
+                    },
+                    {
+                        "start_idx": 1575,
+                        "end_idx": 1578
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 229,
+                        "end_idx": 233
+                    },
+                    {
+                        "start_idx": 1117,
+                        "end_idx": 1121
+                    },
+                    {
+                        "start_idx": 1199,
+                        "end_idx": 1203
+                    },
+                    {
+                        "start_idx": 1602,
+                        "end_idx": 1606
+                    },
+                    {
+                        "start_idx": 1695,
+                        "end_idx": 1699
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-31T19:04:10.331Z"
+}

@@ -1,0 +1,509 @@
+{
+    "url": "https://writing9.com/text/6300f4750751a40019b4c600-some-children-spend-hours-every-day-on-their-smartphones-why-is",
+    "file": [
+        "data",
+        "55",
+        "6300f4750751a40019b4c600.json"
+    ],
+    "topics": [
+        "children",
+        "hours",
+        "smartphones",
+        "case",
+        "development"
+    ],
+    "question": "Some children spend hours every day on their smartphones.\nWhy is this the case? Do you think this is a positive or a negative development?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that smartphone has an imperative role to play in the contemporary society. Hence, it is more common to see children to have their own smartphone than before. While some parents harbor a belief that it is normal and even conducive to their child; others hold the reverse viewpoints. From my perspective, it is a controversial topic which deserves an in-depth discussion.",
+        "Initially, the front and center in its favor is that mobile enables children to absorb and learn massive information happened or happening through different online resources. For example, even a baby can be familiar with the melodies of popular songs simply through smartphone. And teenagers can self-learn what they really are interested in over the hyper-connected world without any physical limitations. Moreover, it believed that with appropriate use of smart-mobile, adolescents can alleviate their stress from studying or socializing, etc. For instance, children can easily find any music or comed from lots of streaming media such as Youtube to release their pressure. Or they can talk to whoever they want to pour their trouble out at anytime and anyplace. These compelling proofs indicate that with apposite use of smartphone, children can benefit through this perfect medium.",
+        "At the other end of the spectrum, such a pivotal role does instruction of proper using cellphone plays in developing children\u2019s mental and physical health. Parents occasionally realize the extent to which most of the teenager dwell in cyberspace because of incorrect recognition. For example, most of kids would be addicted to online games which may waste their treasury time and even cause myopia. Besides the aforementioned, without healthy and mature mental conditions, children can be easily and latently affected by the misleading information or even illegal news which may cause harmful impact to their minds. Based on such potentially negative effect on kids, the adult should properly guide their children how to use the smartphone correctly.",
+        "In sum, improperly using the smart-mobile certainly has many demerits in the development of children; However, with suitable guide, I personally believe that the advantages of smartphones far outweigh those disadvantages. As a proverb saying: \u2018\u2019If I have seen further, it is by standing on the shoulders of giants\u201d. To make greater contribution to the human society, it is reasonable to do it by the wisdom of the past."
+    ],
+    "errors": {
+        "num_error": "36",
+        "error_list": [
+            {
+                "word": "the ",
+                "start_idx": 60,
+                "end_idx": 64,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 127,
+                "end_idx": 130,
+                "error": "Change the verb form",
+                "error_des": "It appears that the verb to have should be in the bare infinitive form. Consider removing to from in front of this verb.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "smartphone",
+                "start_idx": 145,
+                "end_idx": 155,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that smartphone may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "smartphones"
+                ]
+            },
+            {
+                "word": "harbor",
+                "start_idx": 188,
+                "end_idx": 194,
+                "error": "Change the spelling",
+                "error_des": "The spelling of harbor is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "harbour"
+                ]
+            },
+            {
+                "word": "center",
+                "start_idx": 406,
+                "end_idx": 412,
+                "error": "Change the spelling",
+                "error_des": "The spelling of center is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "centre"
+                ]
+            },
+            {
+                "word": "favor",
+                "start_idx": 420,
+                "end_idx": 425,
+                "error": "Change the spelling",
+                "error_des": "The spelling of favor is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "favour"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 426,
+                "end_idx": 428,
+                "error": "Change the verb form",
+                "error_des": "It appears that the singular verb is does not agree with the plural compound subject the front and center in its favor. Consider changing the verb to the plural form.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "smartphone",
+                "start_idx": 647,
+                "end_idx": 657,
+                "error": "Add an article",
+                "error_des": "The noun phrase smartphone seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a smartphone",
+                    "the smartphone"
+                ]
+            },
+            {
+                "word": "over",
+                "start_idx": 723,
+                "end_idx": 727,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "believed",
+                "start_idx": 801,
+                "end_idx": 809,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "is believed"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 979,
+                "end_idx": 979,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want comed to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "come",
+                    "comes"
+                ]
+            },
+            {
+                "word": "comed",
+                "start_idx": 979,
+                "end_idx": 984,
+                "error": "Correct your spelling",
+                "error_des": "It appears that the verb comed is misspelled. Correct the spelling.",
+                "suggetions": [
+                    "came"
+                ]
+            },
+            {
+                "word": "whoever",
+                "start_idx": 1077,
+                "end_idx": 1084,
+                "error": "Change the pronoun",
+                "error_des": "It appears that the pronoun whoever may be used incorrectly. Consider changing it.",
+                "suggetions": [
+                    "whomever"
+                ]
+            },
+            {
+                "word": "anytime",
+                "start_idx": 1124,
+                "end_idx": 1131,
+                "error": "Replace the word",
+                "error_des": "It appears that anytime may be used incorrectly. Review the following notes to determine the appropriate usage for your context.",
+                "suggetions": [
+                    "any time"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1205,
+                "end_idx": 1205,
+                "error": "Add an article",
+                "error_des": "The noun phrase smartphone seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a smartphone",
+                    "the smartphone"
+                ]
+            },
+            {
+                "word": "smartphone",
+                "start_idx": 1205,
+                "end_idx": 1215,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that smartphone may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "smartphones"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 1338,
+                "end_idx": 1340,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 1477,
+                "end_idx": 1480,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1480,
+                "end_idx": 1484,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "teenager",
+                "start_idx": 1484,
+                "end_idx": 1492,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that teenager may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "teenagers"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 1565,
+                "end_idx": 1568,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "kids",
+                "start_idx": 1568,
+                "end_idx": 1572,
+                "error": "Add an article",
+                "error_des": "The phrase most of kids may require the use of the article the. Consider inserting the before the noun in your sentence.",
+                "suggetions": [
+                    "the kids"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1788,
+                "end_idx": 1792,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "harmful",
+                "start_idx": 1852,
+                "end_idx": 1859,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a harmful"
+                ]
+            },
+            {
+                "word": "impact",
+                "start_idx": 1860,
+                "end_idx": 1866,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that impact may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "impacts"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1867,
+                "end_idx": 1869,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "such",
+                "start_idx": 1892,
+                "end_idx": 1896,
+                "error": "Add an article",
+                "error_des": "The noun phrase such potentially negative effect seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the such"
+                ]
+            },
+            {
+                "word": "effect",
+                "start_idx": 1918,
+                "end_idx": 1924,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that effect may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "effects"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1934,
+                "end_idx": 1938,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "how",
+                "start_idx": 1981,
+                "end_idx": 1984,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on how"
+                ]
+            },
+            {
+                "word": "smart-mobile",
+                "start_idx": 2047,
+                "end_idx": 2059,
+                "error": "Correct your spelling",
+                "error_des": "The word smart-mobile doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "smart mobile"
+                ]
+            },
+            {
+                "word": "suitable",
+                "start_idx": 2134,
+                "end_idx": 2142,
+                "error": "Add an article",
+                "error_des": "The noun phrase suitable guide seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a suitable",
+                    "the suitable"
+                ]
+            },
+            {
+                "word": "guide",
+                "start_idx": 2143,
+                "end_idx": 2148,
+                "error": "Replace the word",
+                "error_des": "The word guide doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "guidance"
+                ]
+            },
+            {
+                "word": "saying",
+                "start_idx": 2253,
+                "end_idx": 2259,
+                "error": "Change the form of the verb",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb saying. Consider changing it.",
+                "suggetions": [
+                    "says"
+                ]
+            },
+            {
+                "word": "greater",
+                "start_idx": 2342,
+                "end_idx": 2349,
+                "error": "Add an article",
+                "error_des": "The noun phrase greater contribution seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a greater"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 2366,
+                "end_idx": 2370,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "ccgoabroad",
+    "num_words": 386,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "further",
+            "such",
+            "initially",
+            "hence",
+            "besides",
+            "however",
+            "for instance",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "smartphone",
+                "occurrences": [
+                    {
+                        "start_idx": 16,
+                        "end_idx": 26
+                    },
+                    {
+                        "start_idx": 146,
+                        "end_idx": 156
+                    },
+                    {
+                        "start_idx": 648,
+                        "end_idx": 658
+                    },
+                    {
+                        "start_idx": 1206,
+                        "end_idx": 1216
+                    },
+                    {
+                        "start_idx": 1997,
+                        "end_idx": 2007
+                    },
+                    {
+                        "start_idx": 2195,
+                        "end_idx": 2205
+                    }
+                ]
+            },
+            {
+                "word": "children",
+                "occurrences": [
+                    {
+                        "start_idx": 119,
+                        "end_idx": 127
+                    },
+                    {
+                        "start_idx": 450,
+                        "end_idx": 458
+                    },
+                    {
+                        "start_idx": 942,
+                        "end_idx": 950
+                    },
+                    {
+                        "start_idx": 1218,
+                        "end_idx": 1226
+                    },
+                    {
+                        "start_idx": 1385,
+                        "end_idx": 1393
+                    },
+                    {
+                        "start_idx": 1741,
+                        "end_idx": 1749
+                    },
+                    {
+                        "start_idx": 1973,
+                        "end_idx": 1981
+                    },
+                    {
+                        "start_idx": 2111,
+                        "end_idx": 2119
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-20T14:49:27.694Z"
+}

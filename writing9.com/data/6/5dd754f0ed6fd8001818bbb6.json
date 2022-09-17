@@ -1,0 +1,122 @@
+{
+    "url": "https://writing9.com/text/5dd754f0ed6fd8001818bbb6",
+    "file": [
+        "data",
+        "6",
+        "5dd754f0ed6fd8001818bbb6.json"
+    ],
+    "topics": [
+        "people",
+        "music",
+        "culture",
+        "ages"
+    ],
+    "question": "Some people say music is a good way of bringing people of different culture and ages together. To what extent do you agree or disagree",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Music is a universal source of energy which connects people with each other. Therefore, it has been said by more than a few individuals that songs are the essential product to tune the people of different cultures and generations together in one single mental space. I completely agree with the statement as albums of different countries have a powerful impact on our lives.",
+        "Firstly, with the advent of technology, the job of artist's in marketing their product has become easy. The role of an internet is huge in connecting  various different melodies from all over the world in one application. The youth of our nation is inspired by the albums like 'QUEEN' and 'Cold Play'. Mankind of different countries have also been mesmerized by the art of our country, especially the work of 'Indian Ocean and legends like 'Kishor Kumar' has been revolutionary in building our nation to a musical country.",
+        "Another point to consider is that in our nation, we have almost hundreds of languages and people of all the states have songs in their own native language. However, when it comes to a Bollywood, classical song or a retro song people of our country connect with each in a whisker.",
+        "They dance and repeat the lines of their song as if it was their composition. Teens and senior citizens connect with each other when an old song is playing on a radio, and it is inspiring to see that word when generated in tune can make the surroundings around us completely different.",
+        "In conclusion, music definitely plays a crucial role in bringing humankind of different tradition and ages together and hopefully, it will continue to do the same."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "to",
+                "start_idx": 875,
+                "end_idx": 877,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "tune",
+                "start_idx": 1400,
+                "end_idx": 1404,
+                "error": "a circular segment of a curve",
+                "error_des": "",
+                "suggetions": [
+                    "turn"
+                ]
+            }
+        ]
+    },
+    "submitter": "davearjun54",
+    "num_words": 280,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "also",
+            "however",
+            "firstly",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "song",
+                "occurrences": [
+                    {
+                        "start_idx": 141,
+                        "end_idx": 145
+                    },
+                    {
+                        "start_idx": 1018,
+                        "end_idx": 1022
+                    },
+                    {
+                        "start_idx": 1103,
+                        "end_idx": 1107
+                    },
+                    {
+                        "start_idx": 1119,
+                        "end_idx": 1123
+                    },
+                    {
+                        "start_idx": 1219,
+                        "end_idx": 1223
+                    },
+                    {
+                        "start_idx": 1318,
+                        "end_idx": 1322
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-22T03:24:32.816Z"
+}

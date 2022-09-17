@@ -1,0 +1,177 @@
+{
+    "url": "https://writing9.com/text/5cf4ee92bde8cf0017859cae",
+    "file": [
+        "data",
+        "45",
+        "5cf4ee92bde8cf0017859cae.json"
+    ],
+    "topics": [
+        "english",
+        "languages",
+        "risk"
+    ],
+    "question": "Learning English is often seen as more important than learning local languages. If these are not taught, many are at risk of dying out.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the modern era, more emphasis is laid on learning English than other local languages, and if these languages are not given their due share of importance are in danger of becoming obsolete. In my opinion, the significance of English language cannot be denied. However, I am also of the view that local languages must not be disregarded.",
+        "Nowadays, most of the literature we come across is written in English, and it has become a necessity for everyone to be familiar with it. Therefore, in today\u2019s world it has become a norm for this language to be exalted over the others. Majority of schools put enormous effort in trying to get their students accustomed to the basics of English language. However, in doing so, a wide number of local languages are often neglected.",
+        "Our country shows great diversity when it comes to literature and heritage. A wide variety of languages are spoken here, each having its own history. All these language, although not as widely used, still contribute a lot to our culture. With the growing use of English, most of these languages are often overlooked, thus resulting in a decline in their usage over time. Many schools have omitted most of these languages from their curriculums. There is a risk that if not enough efforts are made to save  them, they will soon become extinct.",
+        "In conclusion, I would like to say that our local languages, though not as commonly or widely used as English, still need to be respected, and our educational institutions should take necessary measures in order to preserve them."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "English ",
+                "start_idx": 226,
+                "end_idx": 234,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the English language"
+                ]
+            },
+            {
+                "word": "world it",
+                "start_idx": 498,
+                "end_idx": 506,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "world, it"
+                ]
+            },
+            {
+                "word": "Majority",
+                "start_idx": 574,
+                "end_idx": 582,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "The majority",
+                    "A majority"
+                ]
+            },
+            {
+                "word": "English ",
+                "start_idx": 674,
+                "end_idx": 682,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the English language"
+                ]
+            },
+            {
+                "word": "language",
+                "start_idx": 928,
+                "end_idx": 936,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "languages"
+                ]
+            }
+        ]
+    },
+    "submitter": "umairtahir94",
+    "num_words": 264,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "thus",
+            "also",
+            "although",
+            "however",
+            "therefore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "language",
+                "occurrences": [
+                    {
+                        "start_idx": 78,
+                        "end_idx": 86
+                    },
+                    {
+                        "start_idx": 102,
+                        "end_idx": 110
+                    },
+                    {
+                        "start_idx": 235,
+                        "end_idx": 243
+                    },
+                    {
+                        "start_idx": 304,
+                        "end_idx": 312
+                    },
+                    {
+                        "start_idx": 535,
+                        "end_idx": 543
+                    },
+                    {
+                        "start_idx": 683,
+                        "end_idx": 691
+                    },
+                    {
+                        "start_idx": 738,
+                        "end_idx": 746
+                    },
+                    {
+                        "start_idx": 863,
+                        "end_idx": 871
+                    },
+                    {
+                        "start_idx": 929,
+                        "end_idx": 937
+                    },
+                    {
+                        "start_idx": 1054,
+                        "end_idx": 1062
+                    },
+                    {
+                        "start_idx": 1180,
+                        "end_idx": 1188
+                    },
+                    {
+                        "start_idx": 1362,
+                        "end_idx": 1370
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-03T09:55:30.000Z"
+}

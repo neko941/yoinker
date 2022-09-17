@@ -1,0 +1,157 @@
+{
+    "url": "https://writing9.com/text/6314d03daee9de0018760cbb-increasing-numbers-of-students-are-going-to-university-instead-of",
+    "file": [
+        "data",
+        "45",
+        "6314d03daee9de0018760cbb.json"
+    ],
+    "topics": [
+        "numbers",
+        "students",
+        "university",
+        "school",
+        "people"
+    ],
+    "question": "Increasing numbers of students are going to university instead of working after high school.Discuss the advantages and disadvantages for young people who do this.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Owing thanks to the rapid development of technology, agriculture has made noteworthy advancement over the years. Despite that fact, there still exists the phenomenon of people suffering from malnourishment. This essay will thoroughly discuss various explanations and provide a number of appropriate solutions to the problem.",
+        "Interestingly, there are a myriad of factors that contribute to the ongoing famine happening all across the globe. First of all, the most vulnerable target of this trend appears to be citizens of undeveloped countries, presumably due to the fact that those nations lack the funds to develop their food industry. As a consequence, shortages of necessities occur daily, resulting in mass starvation. Furthermore, there are parts of the world where the climate is essentially unsuitable for agriculture. For instance, deserts are evident to be excessively dry for crops to grow, which can be detrimental for the residents's quantity of food.",
+        "Fortunately, a multitude of practical approaches can be adapted in order to tackle this particular predicament. Firstly, developed countries should contribute an adequate amount of money to reform food industries in poorer nations. In addition, organizations around the world could reduce the impact of this phenomenon by donating necessities such as rice and wheat to nations in need of them.",
+        "To recapitulate, famine is a predicament that has yet to vanish in many parts of the world predominantly due to environmental challenges as well as the shortage of funds to support the development of the food industry. While the difficulties in addressing this issue are still apparent, there are various measures that can make an impact if properly executed."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "advancement",
+                "start_idx": 84,
+                "end_idx": 95,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that advancement may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "advancements"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 345,
+                "end_idx": 348,
+                "error": "Change the verb form",
+                "error_des": "The plural form of be are does not seem to agree with the singular subject a myriad. Consider changing the verb form.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 349,
+                "end_idx": 351,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 358,
+                "end_idx": 361,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 925,
+                "end_idx": 928,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "residents's",
+                "start_idx": 933,
+                "end_idx": 944,
+                "error": "Remove the s",
+                "error_des": "The word 's is not the correct form for the plural possessive of the noun residents. Remove the final s.",
+                "suggetions": [
+                    "residents'"
+                ]
+            }
+        ]
+    },
+    "submitter": "nghiemthanhlg432005",
+    "num_words": 266,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "such",
+            "first",
+            "furthermore",
+            "firstly",
+            "in addition",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 622,
+                        "end_idx": 626
+                    },
+                    {
+                        "start_idx": 958,
+                        "end_idx": 962
+                    },
+                    {
+                        "start_idx": 1161,
+                        "end_idx": 1165
+                    },
+                    {
+                        "start_idx": 1562,
+                        "end_idx": 1566
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-04T16:20:14.792Z"
+}

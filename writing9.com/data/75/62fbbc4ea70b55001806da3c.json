@@ -1,0 +1,171 @@
+{
+    "url": "https://writing9.com/text/62fbbc4ea70b55001806da3c-many-museums-and-historical-sites-are-mainly-visited-by-tourists",
+    "file": [
+        "data",
+        "75",
+        "62fbbc4ea70b55001806da3c.json"
+    ],
+    "topics": [
+        "museums",
+        "sites",
+        "tourists",
+        "people",
+        "case",
+        "people\uff1f"
+    ],
+    "question": "Many museums and historical sites are mainly visited by tourists, not local people. Why is this the case and what can be done to attract local people\uff1f",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A number of museums and historical buildings are an important part of cultural heritage, but they are mainly visited by tourists rather than residents, for which there are several reasons and some measures can be taken to address this issue.",
+        "There are some reasons that result in this phenomenon. One reason is that local museums and historical sites are good ways for holidaymakers to experience other cultures first-hand, which helps them to learn to respect local traditions and customs. As a result, most  travellers choose local museums as their ideal places to travel, leading  the number of them exceed that of local people. Another cause is that city dwellers are reluctant to spend their time  visiting tourist attractions since they prefer to stay at home and catch up sleep on holidays after hectic daily schemes. That is to say, people lack time and energy to visit local museums and historical buildings.",
+        "Various measures can be taken to tackle this situation. Firstly, the government can give financial support to museums and historical sites in order to improve the quality of exhibitions and facilities, and hire more professional travel guides. If museums become more educational and enjoyable, they would attract more local people to visit. Also, the government can run campaigns to arouse citizens\u2019 awareness of cultural heritage, especially the youth. For instance, governments can give a speech to students at school to deepen their understanding of the importance of museums. Furthermore, the local museum can lower their ticket price or allow local residents to visit free of charge. This would boost their interest in local museums and lighten the financial burden of disadvantaged people who have a tight budget to afford tickets.",
+        "All in all, to conclude, there are several reasons for this issue. But we can solve these problems by funding local museums, running campaigns as well as offering free tickets."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "exceed",
+                "start_idx": 602,
+                "end_idx": 608,
+                "error": "Fix the infinitive",
+                "error_des": "It seems that the use of particle to may be incorrect here.",
+                "suggetions": [
+                    "to exceed"
+                ]
+            },
+            {
+                "word": "that city dwellers",
+                "start_idx": 648,
+                "end_idx": 666,
+                "error": "Change the determiner",
+                "error_des": "It appears that the singular demonstrative that is modifying the plural noun dwellers. Consider using a plural demonstrative or a singular noun instead.",
+                "suggetions": [
+                    "that city dweller",
+                    "those city dwellers"
+                ]
+            },
+            {
+                "word": "sleep",
+                "start_idx": 778,
+                "end_idx": 783,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on sleep"
+                ]
+            }
+        ]
+    },
+    "submitter": "testuya1116",
+    "num_words": 311,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "also",
+            "first",
+            "furthermore",
+            "as a result",
+            "firstly",
+            "that is",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "museums",
+                "occurrences": [
+                    {
+                        "start_idx": 12,
+                        "end_idx": 19
+                    },
+                    {
+                        "start_idx": 322,
+                        "end_idx": 329
+                    },
+                    {
+                        "start_idx": 534,
+                        "end_idx": 541
+                    },
+                    {
+                        "start_idx": 884,
+                        "end_idx": 891
+                    },
+                    {
+                        "start_idx": 1028,
+                        "end_idx": 1035
+                    },
+                    {
+                        "start_idx": 1165,
+                        "end_idx": 1172
+                    },
+                    {
+                        "start_idx": 1489,
+                        "end_idx": 1496
+                    },
+                    {
+                        "start_idx": 1648,
+                        "end_idx": 1655
+                    },
+                    {
+                        "start_idx": 1872,
+                        "end_idx": 1879
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 624,
+                        "end_idx": 630
+                    },
+                    {
+                        "start_idx": 841,
+                        "end_idx": 847
+                    },
+                    {
+                        "start_idx": 1242,
+                        "end_idx": 1248
+                    },
+                    {
+                        "start_idx": 1706,
+                        "end_idx": 1712
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-16T15:52:32.196Z"
+}

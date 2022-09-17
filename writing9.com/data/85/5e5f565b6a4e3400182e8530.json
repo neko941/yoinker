@@ -1,0 +1,85 @@
+{
+    "url": "https://writing9.com/text/5e5f565b6a4e3400182e8530-you-recently-stayed-in-a-hotel-in-a-large-city",
+    "file": [
+        "data",
+        "85",
+        "5e5f565b6a4e3400182e8530.json"
+    ],
+    "topics": [
+        "hotel",
+        "city",
+        "weather",
+        "time",
+        "year",
+        "system",
+        "manager",
+        "action"
+    ],
+    "question": "You recently stayed in a hotel in a large city. The weather was very unusual for the time of year and the heating / cooling system in the hotel was quite inadequate. Write a letter to the manager of the hotel. In your letter: give details of what went wrong explain what you had to do to overcome the problem at the time say what action you would like the manager to take",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir / Madam",
+        "I am writing in connection with my recent stay at the Four Seasons in London, England. Unfortunately, due to a malfunctioning heater in my room, I spent three miserable nights at your hotel from April 26 to 29, 2010.",
+        "When I arrived in London, there was an unexpected snowstorm. I understand it does not usually snow in April; however, when I got to my place, there was no heat. After complaining, a technician was sent up, who informed me they had to install a new heating unit. When I asked to be moved to another place, I was told the hotel was completely booked. Unfortunately, each night after work I returned to discover the problem had not been rectified. Eventually, I spent three horribly uncomfortable nights, wearing my coat to bed, wearing socks around the place and ending up with a bad cold of the unheated room. I had no time to complain as I had to catch a flight home right after my conference.",
+        "I am shocked by this terrible service. This is not what anyone expects for $400 a night! To compensate me for this tremendous inconvenience, I ask that you refund my money right away and offer me a free, more comfortable stay in one of your finer suites in the future. If not, I am prepared to take my complaint to a higher authority.",
+        "I look forward to hearing from you at the earliest,",
+        "Yours faithfully,",
+        "Mr John McFee"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "of",
+                "start_idx": 820,
+                "end_idx": 822,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "ishahd8",
+    "num_words": 247,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "however",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T19:34:37.797Z"
+}

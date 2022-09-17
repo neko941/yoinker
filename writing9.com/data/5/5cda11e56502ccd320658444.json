@@ -1,0 +1,162 @@
+{
+    "url": "https://writing9.com/text/5cda11e56502ccd320658444",
+    "file": [
+        "data",
+        "5",
+        "5cda11e56502ccd320658444.json"
+    ],
+    "topics": [
+        "children",
+        "diseases",
+        "adults",
+        "obesity",
+        "disease"
+    ],
+    "question": "Modern Children are suffering from the diseases that were once considered to be meant for adults only. Obesity is a major disease prevalent among children. What are its causes and what solutions can be offered?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Though obesity was previously thought to be an ailment for the elderly, however, the incident rate of it among the children are rising remarkably. The prime reasons to aggravate the condition might be the sedentary lifestyle as well as the choice of foods to consump. In this essay, we will further address the reasons behind and the feasible solutions to it.",
+        "It is undeniable that the overall health condition of the individuals including the children is deteriorating in terms of weight-related issues. As the scientific advancement offers various electronic gadgets to spend time with, the youngsters are gradually getting addicted to the screen, which further led to a sedentary lifestyle allowing less physical activities. For instance, a recent study conducted in the USA by John Hopkins Medical School indicated the alarming rate of childhood obesity and its grave consequences.",
+        "Additionally, eating habit is also a key factor leading to obesity. Nowadays younger people love to devour junk foods more often than healthy fresh dishes. Consequently, having a lot of processed foods and soft drinks make the children morbidly obese. However, the elders are to blame equally for developing such habits by the children as they tend to imitate the adults.",
+        "To address this health issue, both the government and the individuals should work hand in hand. The state should implement measures to raise awareness as well as can organise sporting events to attract younger people to participate and thus reducing screen addiction. Furthermore, the authority can also impose higher taxes on convenience foods so that the people find it less tempting. For the adults, they are required to set an example of a healthy lifestyle to be followed by the children.",
+        "To sum up, undoubtedly, obesity among children is rising alarmingly in this current era, as a combined effect of physical inactivity and consumption of can-foods, however, with the parallel effort of the state and aware elders, the condition can be fought back to normal. Otherwise, the future is bleak in terms of dealing with the disease."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "consump",
+                "start_idx": 258,
+                "end_idx": 265,
+                "error": "eat immoderately",
+                "error_des": "",
+                "suggetions": [
+                    "consume"
+                ]
+            },
+            {
+                "word": "individuals including",
+                "start_idx": 417,
+                "end_idx": 438,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "individuals, including"
+                ]
+            },
+            {
+                "word": "to spend",
+                "start_idx": 568,
+                "end_idx": 576,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "spend"
+                ]
+            },
+            {
+                "word": "by",
+                "start_idx": 1205,
+                "end_idx": 1207,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "consumption",
+                "start_idx": 1888,
+                "end_idx": 1899,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the consumption"
+                ]
+            },
+            {
+                "word": "can",
+                "start_idx": 1903,
+                "end_idx": 1906,
+                "error": "feed (cattle) with corn",
+                "error_des": "",
+                "suggetions": [
+                    "corn"
+                ]
+            }
+        ]
+    },
+    "submitter": "umama.khan8619",
+    "num_words": 337,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "further",
+            "thus",
+            "otherwise",
+            "also",
+            "such",
+            "furthermore",
+            "however",
+            "additionally",
+            "consequently",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "obesity",
+                "occurrences": [
+                    {
+                        "start_idx": 7,
+                        "end_idx": 14
+                    },
+                    {
+                        "start_idx": 850,
+                        "end_idx": 857
+                    },
+                    {
+                        "start_idx": 945,
+                        "end_idx": 952
+                    },
+                    {
+                        "start_idx": 1776,
+                        "end_idx": 1783
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-14T00:55:01.000Z"
+}

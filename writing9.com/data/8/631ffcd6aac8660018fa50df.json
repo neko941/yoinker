@@ -1,0 +1,167 @@
+{
+    "url": "https://writing9.com/text/631ffcd6aac8660018fa50df-nowadays-more-people-would-rather-purchase-food-than-cook-at",
+    "file": [
+        "data",
+        "8",
+        "631ffcd6aac8660018fa50df.json"
+    ],
+    "topics": [
+        "people",
+        "purchase",
+        "food",
+        "cook",
+        "home",
+        "trend"
+    ],
+    "question": "Nowadays, more people would rather purchase food than cook at home. What are the advantages and disadvantages of this trend?",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In today\u2019s modern society, it has become more common for people to eat out rather than preparing food at home. I personally believe that the downsides of this trend are weightier than the upsides.",
+        "On the one hand, there are several merits of having meals prepared by a restaurant. To begin with, it could be seen that purchasing food is more convenient than making it at home. People, especially those who have to work long hours, do not have to prepare their own meals, which generally takes a huge amount of time. Moreover, when eating at a restaurant, people could have more opportunities to try a variety of dishes. Several dishes, especially those coming from another cuisine, require special ingredients or preparations. For instance, it is extremely complicated to prepare sushi from Japan at home.",
+        "On the other hand, I am firmly convinced that the demerits of eating out are more considerable. First, one might not be able to determine the quality of the food. It is hard for them to make sure that the ingredients that the restaurant uses are fresh or not. For example, many restaurants in Vietnam often reuse their cooking oil many times, which is really harmful to consumers\u2019 health. Another drawback of having ready-made meals is that it is generally more expensive than home-prepared ones. The main reason is that people have to pay for not only the food but also the service fees. Some eateries even charge their customers with a small amount of tax.",
+        "In conclusion, purchasing food instead of cooking at home has both good points and bad points. However, it is my firm belief that the negative effects are more significant than the positive ones."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "preparing",
+                "start_idx": 86,
+                "end_idx": 95,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb preparing. Consider changing it.",
+                "suggetions": [
+                    "prepare"
+                ]
+            },
+            {
+                "word": "with ",
+                "start_idx": 1436,
+                "end_idx": 1441,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "huynhtrucminhthu39",
+    "num_words": 284,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "to begin",
+            "instead",
+            "also",
+            "first",
+            "however",
+            "on the other hand",
+            "for instance",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 97,
+                        "end_idx": 101
+                    },
+                    {
+                        "start_idx": 329,
+                        "end_idx": 333
+                    },
+                    {
+                        "start_idx": 963,
+                        "end_idx": 967
+                    },
+                    {
+                        "start_idx": 1363,
+                        "end_idx": 1367
+                    },
+                    {
+                        "start_idx": 1491,
+                        "end_idx": 1495
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 57,
+                        "end_idx": 63
+                    },
+                    {
+                        "start_idx": 555,
+                        "end_idx": 561
+                    },
+                    {
+                        "start_idx": 1327,
+                        "end_idx": 1333
+                    }
+                ]
+            },
+            {
+                "word": "home",
+                "occurrences": [
+                    {
+                        "start_idx": 105,
+                        "end_idx": 109
+                    },
+                    {
+                        "start_idx": 371,
+                        "end_idx": 375
+                    },
+                    {
+                        "start_idx": 800,
+                        "end_idx": 804
+                    },
+                    {
+                        "start_idx": 1283,
+                        "end_idx": 1287
+                    },
+                    {
+                        "start_idx": 1518,
+                        "end_idx": 1522
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-13T03:45:28.264Z"
+}

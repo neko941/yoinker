@@ -1,0 +1,133 @@
+{
+    "url": "https://writing9.com/text/62da7ca68ee1ab00180e3a83-developed-countries-have-created-many-environmental-problems-in-the-world",
+    "file": [
+        "data",
+        "85",
+        "62da7ca68ee1ab00180e3a83.json"
+    ],
+    "topics": [
+        "countries",
+        "world",
+        "particulary",
+        "contribution",
+        "dangers"
+    ],
+    "question": "Developed countries have created many environmental problems in the world, particulary in their contribution to global warming. \nWhy is global warming a problem?\nWhat can be done to reduce the dangers of global warming?",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Recently, there has been a public consensus that the environment has borne the brunt of irresponsible actions of industrialized countries. It is agreed that the increase in the world's temperature is directly correlated to these countries. In the following essay, the detrimental consequences of global warming, along with the measures that can be taken, will be further scrutinized.",
+        "To begin with, the problem of the increase in the world's temperature poses a threat to both the environment and the ecosystem balance. This is because when the temperature surges as a result of depletion of the ozone layer, massive fires will be triggered in rainforests; consequently, endangered species and green areas will suffer from extinction. An eminent example of this is the Amazon rain forests which have recently witnessed massive fires. Thus, not only does this rise in the world's temperature threaten the biodiversity of animals, but it also poses a deleterious threat to trees which can assist in mitigating this problem.",
+        "Furthermore, in order that this problem can be solved, it is proposed that pragmatic approaches to mitigating this issue can be offered by the world's governments in terms of using alternative energy sources. To illustrate this, if authorities subsidize industrial companies, they will be encouraged to utilize solar, wind and tidal energy sources in their manufacturing procedures. For instance, Tesla Elon Musk, Who is the CEO of the solar city, demonstrated this by drawing a small square on the USA map and confirmed that this small area can generate electricity to supply the whole country if it is covered with solar power. Hence, what can be said is that although authorized individuals have not approached this issue until today, their contribution will eventually make a great difference.",
+        "In conclusion, after this essay has manifested the above-mentioned points, it can be reiterated that the ramifications of global warming have a deleterious impact on creatures and the environment, whereas authorities can take initiatives by offering viable solutions to mitigate this issue such as funding factories to use renewable sources of energy."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "the ",
+                "start_idx": 1453,
+                "end_idx": 1457,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "dentistmargo",
+    "num_words": 340,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "further",
+            "to begin",
+            "thus",
+            "also",
+            "such",
+            "furthermore",
+            "although",
+            "as a result",
+            "hence",
+            "consequently",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "world",
+                "occurrences": [
+                    {
+                        "start_idx": 177,
+                        "end_idx": 182
+                    },
+                    {
+                        "start_idx": 434,
+                        "end_idx": 439
+                    },
+                    {
+                        "start_idx": 871,
+                        "end_idx": 876
+                    },
+                    {
+                        "start_idx": 1165,
+                        "end_idx": 1170
+                    }
+                ]
+            },
+            {
+                "word": "temperature",
+                "occurrences": [
+                    {
+                        "start_idx": 185,
+                        "end_idx": 196
+                    },
+                    {
+                        "start_idx": 442,
+                        "end_idx": 453
+                    },
+                    {
+                        "start_idx": 545,
+                        "end_idx": 556
+                    },
+                    {
+                        "start_idx": 879,
+                        "end_idx": 890
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-22T11:49:23.061Z"
+}

@@ -1,0 +1,148 @@
+{
+    "url": "https://writing9.com/text/5d811ffa3d2474001725cb26",
+    "file": [
+        "data",
+        "6",
+        "5d811ffa3d2474001725cb26.json"
+    ],
+    "topics": [
+        "people",
+        "events",
+        "host",
+        "country"
+    ],
+    "question": "Some people think that big international sporting events are not worthwhile for the host country.\nDo you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The argument, over whether sports competitions at global-level are beneficial or futile for the hosting states, has not been settled yet; however, I completely disagree with the statement because international tournaments are a great source of revenue for the organizing country and it also opens employment opportunities for its citizens.",
+        "To embark with, the countries, where international events are organized, earn a lot of money. Firstly, it comes from several sources such as advertisement agencies who pay a hefty amount to sponsor these events, and in return get publicity and product recognition all over the world. Secondly, the audience who come to watch live matches spend handsome amount to purchase tickets, and also the cost of air travel, visa fee, and accommodation cost, provide benefit to host countries in the form of tax. For example, the Daily Times in the United Kingdom published a report that the government\u2019s monetary status was boosted to fifty billion pounds in the Cricket world cup 2019.",
+        "What is more, jobs are created in the respective country due to the requirement of the huge labor force for the smooth running of the event. This workforce comprises of white-collar jobs such as engineers, doctors, security staff and, managers; whereas, blue-collar include cleaner, waiters, and helpers. For instance, Brazil has invited two thousand nationals to apply for full-time and part-time employment for the upcoming Olympics on an attractive remuneration. Therefore, more employed nationals work for the prosperity of the country and also improve its economy.",
+        "To conclude, I disagree with the notion that big competitions are fruitless because it would lower the unemployment rate of the country, and it also helps in growth of the economy."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "global-level",
+                "start_idx": 49,
+                "end_idx": 61,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the global - level"
+                ]
+            },
+            {
+                "word": "come",
+                "start_idx": 650,
+                "end_idx": 654,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "comes"
+                ]
+            },
+            {
+                "word": "handsome amount",
+                "start_idx": 683,
+                "end_idx": 698,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a handsome amount"
+                ]
+            },
+            {
+                "word": "labor",
+                "start_idx": 1108,
+                "end_idx": 1113,
+                "error": "a social class comprising those who do manual labor or work for wages",
+                "error_des": "",
+                "suggetions": [
+                    "labour"
+                ]
+            },
+            {
+                "word": "growth",
+                "start_idx": 1744,
+                "end_idx": 1750,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the growth"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 279,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "secondly",
+            "also",
+            "such",
+            "firstly",
+            "however",
+            "therefore",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "country",
+                "occurrences": [
+                    {
+                        "start_idx": 271,
+                        "end_idx": 278
+                    },
+                    {
+                        "start_idx": 1066,
+                        "end_idx": 1073
+                    },
+                    {
+                        "start_idx": 1549,
+                        "end_idx": 1556
+                    },
+                    {
+                        "start_idx": 1715,
+                        "end_idx": 1722
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-17T18:03:38.152Z"
+}

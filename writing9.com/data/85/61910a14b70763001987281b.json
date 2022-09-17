@@ -1,0 +1,88 @@
+{
+    "url": "https://writing9.com/text/61910a14b70763001987281b-you-are-a-member-of-an-organisation-which-meets-regularly",
+    "file": [
+        "data",
+        "85",
+        "61910a14b70763001987281b.json"
+    ],
+    "topics": [
+        "member",
+        "organisation",
+        "restaurant",
+        "manager",
+        "service",
+        "group",
+        "addresses"
+    ],
+    "question": "You are a member of an organisation which meets regularly at a particular restaurant. The most recent meal you had there was not satisfactory.Write a letter to the manager of the restaurant. In your letterexplain why you are writingdescribe what went wrong with the meal and servicesuggest what the manager should do to ensure that you and your group return to the restaurantYou do NOT need to write any addresses.Begin your letter as follows:Dear,...You should write at least 150 words.",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Peter,",
+        "I am writing to express my dissatisfaction towards the food served to me yesterday. Not only was it cold and sub-standard, but the waiters were extremely rude and inattentive.",
+        "Let me explain my situation, I came to your restaurant yesterday with my associates to celebrate the winning of some big cases. In doing so, we ordered a tandoori platter along with the grilled chicken. Despite waiting for an hour, neither the order arrived nor did any of the serving people come to explain the delay. Consequently, I raised a complaint to the attentive, however, I was ignored at first and then was abruptly asked to wait for some more time. After some further delay of 15 mins, our order arrived, but unfortunately, it was cold and poorly cooked. Never have I ever been so embarrassed before my colleagues in my 5 years of hosting events at your restaurant.",
+        "I believe that you need to keep your things in order and train your staff properly. Since I have suffered such a loss, I hope that compensation in the form of a complimentary dinner will be provided to us next time when we visit. I would greatly appreciate the prompt resolution of the matter.",
+        "Yours Sincerely,",
+        "Dhruvraj Tomar"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "towards",
+                "start_idx": 54,
+                "end_idx": 61,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with"
+                ]
+            }
+        ]
+    },
+    "submitter": "drt1311",
+    "num_words": 208,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "further",
+            "such",
+            "first",
+            "then",
+            "however",
+            "next",
+            "consequently"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-11-14T13:07:34.046Z"
+}

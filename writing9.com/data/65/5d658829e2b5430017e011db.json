@@ -1,0 +1,147 @@
+{
+    "url": "https://writing9.com/text/5d658829e2b5430017e011db",
+    "file": [
+        "data",
+        "65",
+        "5d658829e2b5430017e011db.json"
+    ],
+    "topics": [
+        "countries",
+        "rates",
+        "crimes",
+        "people",
+        "measures"
+    ],
+    "question": "In some countries, even though the rates of serious crimes are decreasing, people feel less safe than ever before.\nWhat do you think are the causes of this problem and what measures could be taken to solve it?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "People do not feel safe anymore although the rates of severe crimes in some countries are on the decline. The main cause of this problem is that serious crimes are not easily forgettable and the most viable solution is to educate the victims.",
+        "The main cause of people not feeling safe is that severe crime is difficult to forget. That is to say that the after effects of a crime remain in the victim's mind for years to come, which is also reflected in their personality. As a result, the person does not feel safe because he thinks that the same crime might be repeated in his life. For example, The Sunday Times reported that although the crime rate in Nairobi decline, the locals are still in a state of fear because they cannot eliminate the thought of the crime happening again in their lives.",
+        "However, the most viable solution to deal with such a situation is to educate the victims through publicity campaigns. In other words, the local security personnel and police officers could meet all the victims and take them in confidence regarding the security of the country and their safety. This would result in the victims getting their confidence back in life and they could even feel safer in society. For instance, when the Orlando police officer met with the survivors of shooting attack and educate them in public gatherings, they started to feel much safer in the society among other people.",
+        "In conclusion, people feel insecure because it is difficult to overlook the serious crimes in life, but educating sufferers in public could solve this problem, and also help them live a normal life."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "anymore ",
+                "start_idx": 23,
+                "end_idx": 31,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "anymore, although"
+                ]
+            }
+        ]
+    },
+    "submitter": "sawalkhan11",
+    "num_words": 278,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "also",
+            "such",
+            "although",
+            "as a result",
+            "however",
+            "that is",
+            "for instance",
+            "for example",
+            "in other words",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "crime",
+                "occurrences": [
+                    {
+                        "start_idx": 61,
+                        "end_idx": 66
+                    },
+                    {
+                        "start_idx": 153,
+                        "end_idx": 158
+                    },
+                    {
+                        "start_idx": 300,
+                        "end_idx": 305
+                    },
+                    {
+                        "start_idx": 373,
+                        "end_idx": 378
+                    },
+                    {
+                        "start_idx": 547,
+                        "end_idx": 552
+                    },
+                    {
+                        "start_idx": 641,
+                        "end_idx": 646
+                    },
+                    {
+                        "start_idx": 761,
+                        "end_idx": 766
+                    },
+                    {
+                        "start_idx": 1486,
+                        "end_idx": 1491
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 578,
+                        "end_idx": 582
+                    },
+                    {
+                        "start_idx": 1160,
+                        "end_idx": 1164
+                    },
+                    {
+                        "start_idx": 1496,
+                        "end_idx": 1500
+                    },
+                    {
+                        "start_idx": 1595,
+                        "end_idx": 1599
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-27T19:44:41.621Z"
+}

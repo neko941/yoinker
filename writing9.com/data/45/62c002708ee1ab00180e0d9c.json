@@ -1,0 +1,193 @@
+{
+    "url": "https://writing9.com/text/62c002708ee1ab00180e0d9c-write-about-the-following-topic-every-country-has-poor-people-and",
+    "file": [
+        "data",
+        "45",
+        "62c002708ee1ab00180e0d9c.json"
+    ],
+    "topics": [
+        "topic",
+        "country",
+        "people",
+        "world",
+        "poverty",
+        "answers"
+    ],
+    "question": "Write about the following topic:Every country has poor people and every country has different ways of dealing with the poor.What are some of the reasons for world poverty? How can the poor be helped?Give reasons for your answers and include any relevant examples from your own knowledge or experience.You should write at least 250 words.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Poverty is a global issue and the same shall be dealt in high respect. There is a community in each country who are less privileged compared to others and suffering from various basics issues. This essay will mention about main causes including education and employment, and suggest authority steps to assist to the weaker sections of society.",
+        "With the increasing population, poverty has increased a lot in recent times. The government has failed to fulfil basic necessities like food, health treatment and education.",
+        "The illiteracy rate has increased drastically and people failed to receive basic skills required for livelihood. Moreover, due to an unemployment, people do not have work to earn their bread and accommodate their routine lifestyle. The latest survey carried out by Oxford University shows that 69% of the total population is living beyond the poverty line in South Africa.",
+        "Government shall take steps to promote industrialisation to create enough job opportunities and accommodate people to fulfil their basic requirements. In addition to that, education and vocational training can be helpful to enhance necessary skills for jobs. Recently, the Government of India launched a program called \"Make in India\" which promotes international brands to manufacture their products in India.",
+        "Poverty is a burning issue across the globe. The world has to come on a common platform and help each other for immediate resolutions. Nevertheless, the government of each country shall initiate a mass movement for providing education, train people and bring more industries to generate millions of new jobs. I believe that jointly the issue can be resolved."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 53,
+                "end_idx": 55,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with in"
+                ]
+            },
+            {
+                "word": "basics",
+                "start_idx": 177,
+                "end_idx": 183,
+                "error": "Change the noun form",
+                "error_des": "Your sentence appears to use the incorrect form of basics. Consider changing it to singular.",
+                "suggetions": [
+                    "basic"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 308,
+                "end_idx": 311,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "basic",
+                "start_idx": 592,
+                "end_idx": 597,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the basic"
+                ]
+            },
+            {
+                "word": "an ",
+                "start_idx": 647,
+                "end_idx": 650,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, an, may be redundant when used with the uncountable noun unemployment in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "rafikshama",
+    "num_words": 260,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "nevertheless",
+            "in addition",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "poverty",
+                "occurrences": [
+                    {
+                        "start_idx": 376,
+                        "end_idx": 383
+                    },
+                    {
+                        "start_idx": 861,
+                        "end_idx": 868
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 568,
+                        "end_idx": 574
+                    },
+                    {
+                        "start_idx": 665,
+                        "end_idx": 671
+                    },
+                    {
+                        "start_idx": 999,
+                        "end_idx": 1005
+                    },
+                    {
+                        "start_idx": 1544,
+                        "end_idx": 1550
+                    }
+                ]
+            },
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 245,
+                        "end_idx": 254
+                    },
+                    {
+                        "start_idx": 507,
+                        "end_idx": 516
+                    },
+                    {
+                        "start_idx": 1063,
+                        "end_idx": 1072
+                    },
+                    {
+                        "start_idx": 1527,
+                        "end_idx": 1536
+                    }
+                ]
+            },
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 425,
+                        "end_idx": 435
+                    },
+                    {
+                        "start_idx": 1455,
+                        "end_idx": 1465
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-02T08:37:12.617Z"
+}

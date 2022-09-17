@@ -1,0 +1,378 @@
+{
+    "url": "https://writing9.com/text/62d273338ee1ab00180e2c46-online-education-is-becoming-increasingly-popular-many-university-students-are",
+    "file": [
+        "data",
+        "55",
+        "62d273338ee1ab00180e2c46.json"
+    ],
+    "topics": [
+        "education",
+        "university",
+        "students",
+        "study",
+        "face",
+        "distance"
+    ],
+    "question": "Online education is becoming increasingly popular. Many university students are choosing to study online instead of face to face. Do the advantages of distance education outweigh disadvantages?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Every student dreams of getting a world-class education from a renowned institute, and choosing a major or an institute is a daunting decision that they make in their lives. It is not always possible to visit a different country or state for higher education and thus, many are opting for distant education these days. In this essay, I will contend how it is advantageous and what disadvantages it can have. In my view, although it is a matter of choice and individuals should weigh both positives and negatives depending on their circumstances, it is best to have offline education.",
+        "To begin with, students who prefer online mode of education, so so probably because of two reasons. One is, online education is far less expensive and affordable for many than the offline one. Certainly, if a student, for instance, is studying abroad and has to visit their homeland after every 6 months then they have to bear the airtravel cost. Moreover, they have to bear accommodation, food and other living costs. Another reason for choosing distant mode of study is homesickness, which is a major one for many individuals. They prefer to stay with their families and wish to get a degree from their dream institute as well, therefore, the best option for them is enrolling in an online course at a university of their choice.",
+        "There are, however, a few disadvantages of online mode of study as well. First of all, college life doesn't come back. It is probably once or twice in your lifetime that you get to experience it, and I believe, this is one reason why some do not let go of the opportunity to be physically present at the college/university were they are studying. It is of course beneficial in other ways as well: able to work with peers, getting hands-on experience, learning co-operation and other practical as well as social skills. Another, perhaps related, disadvantage would be, unable to get in-person knowledge from teachers and lecturers. Undoubtedly, teachers are able to share real life examples and are able to demonstrate things in a better way when their students are physically present.",
+        "In conclusion, although it is understandable that why students are increasingly opting for online education, in my opinion, it is better to experience college life. Nevertheless, if the students' circumstances do not allow to study offline, they should go for distant education."
+    ],
+    "errors": {
+        "num_error": "22",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 81,
+                "end_idx": 82,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound predicate. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "online",
+                "start_idx": 618,
+                "end_idx": 624,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the online"
+                ]
+            },
+            {
+                "word": "online",
+                "start_idx": 691,
+                "end_idx": 697,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "that online"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 759,
+                "end_idx": 763,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "airtravel",
+                "start_idx": 914,
+                "end_idx": 923,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want airtravel to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "air travel"
+                ]
+            },
+            {
+                "word": "distant",
+                "start_idx": 1030,
+                "end_idx": 1037,
+                "error": "Add an article",
+                "error_des": "The noun phrase distant mode seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the distant",
+                    "a distant"
+                ]
+            },
+            {
+                "word": "enrolling",
+                "start_idx": 1252,
+                "end_idx": 1261,
+                "error": "Change the verb form",
+                "error_des": "Enrolling doesn\u2019t seem to work here.",
+                "suggetions": [
+                    "to enroll"
+                ]
+            },
+            {
+                "word": "online",
+                "start_idx": 1358,
+                "end_idx": 1364,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the online"
+                ]
+            },
+            {
+                "word": "lifetime",
+                "start_idx": 1471,
+                "end_idx": 1479,
+                "error": "Replace the word",
+                "error_des": "The word lifetime doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "life"
+                ]
+            },
+            {
+                "word": "were",
+                "start_idx": 1638,
+                "end_idx": 1642,
+                "error": "Replace the word",
+                "error_des": "It appears that were is not correct in this context. Consider changing it.",
+                "suggetions": [
+                    "where"
+                ]
+            },
+            {
+                "word": " of course",
+                "start_idx": 1668,
+                "end_idx": 1678,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter of course. Consider adding the comma(s).",
+                "suggetions": [
+                    ", of course,"
+                ]
+            },
+            {
+                "word": "practical",
+                "start_idx": 1798,
+                "end_idx": 1807,
+                "error": "Replace the word",
+                "error_des": "The word practical doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "practices"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1842,
+                "end_idx": 1843,
+                "error": "Remove the comma",
+                "error_des": "The comma may be separating the subject and verb in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1859,
+                "end_idx": 1860,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma between the verb and object in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "disadvantage",
+                "start_idx": 1860,
+                "end_idx": 1872,
+                "error": "Add an article",
+                "error_des": "The noun phrase disadvantage seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the disadvantage",
+                    "a disadvantage"
+                ]
+            },
+            {
+                "word": "unable",
+                "start_idx": 1883,
+                "end_idx": 1889,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the unable"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1986,
+                "end_idx": 1986,
+                "error": "Add a hyphen",
+                "error_des": "It appears that real life is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "real-life"
+                ]
+            },
+            {
+                "word": "real life",
+                "start_idx": 1986,
+                "end_idx": 1995,
+                "error": "Add a hyphen",
+                "error_des": "It seems that real life is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "real-life"
+                ]
+            },
+            {
+                "word": "that ",
+                "start_idx": 2145,
+                "end_idx": 2150,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "students'",
+                "start_idx": 2286,
+                "end_idx": 2295,
+                "error": "Correct your spelling",
+                "error_des": "The word students' doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "student's"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 2323,
+                "end_idx": 2325,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "them to"
+                ]
+            },
+            {
+                "word": "distant",
+                "start_idx": 2360,
+                "end_idx": 2367,
+                "error": "Replace the word",
+                "error_des": "The word distant doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "distance"
+                ]
+            }
+        ]
+    },
+    "submitter": "amanmalik640",
+    "num_words": 398,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "to begin",
+            "thus",
+            "first",
+            "nevertheless",
+            "although",
+            "then",
+            "however",
+            "therefore",
+            "for instance",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "one",
+                "occurrences": [
+                    {
+                        "start_idx": 772,
+                        "end_idx": 775
+                    },
+                    {
+                        "start_idx": 1087,
+                        "end_idx": 1090
+                    },
+                    {
+                        "start_idx": 1535,
+                        "end_idx": 1538
+                    }
+                ]
+            },
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 599,
+                        "end_idx": 607
+                    },
+                    {
+                        "start_idx": 2068,
+                        "end_idx": 2076
+                    },
+                    {
+                        "start_idx": 2155,
+                        "end_idx": 2163
+                    },
+                    {
+                        "start_idx": 2287,
+                        "end_idx": 2295
+                    }
+                ]
+            },
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 46,
+                        "end_idx": 55
+                    },
+                    {
+                        "start_idx": 249,
+                        "end_idx": 258
+                    },
+                    {
+                        "start_idx": 297,
+                        "end_idx": 306
+                    },
+                    {
+                        "start_idx": 573,
+                        "end_idx": 582
+                    },
+                    {
+                        "start_idx": 634,
+                        "end_idx": 643
+                    },
+                    {
+                        "start_idx": 699,
+                        "end_idx": 708
+                    },
+                    {
+                        "start_idx": 2199,
+                        "end_idx": 2208
+                    },
+                    {
+                        "start_idx": 2369,
+                        "end_idx": 2378
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-16T08:14:54.875Z"
+}

@@ -1,0 +1,557 @@
+{
+    "url": "https://writing9.com/text/5e54e0ec5e618b0018381dd0",
+    "file": [
+        "data",
+        "4",
+        "5e54e0ec5e618b0018381dd0.json"
+    ],
+    "topics": [
+        "governments",
+        "money",
+        "art",
+        "projects",
+        "paintings",
+        "sculptures",
+        "places",
+        "people",
+        "interest"
+    ],
+    "question": "it is observed that most governments pay a lot of money for the art projects. For instance, there are more and more paintings and sculptures seen in public places. Some people say that it is wrong and governments should spend more money on other important things of public interest. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Governments nowadays spend lot of money in improving the appearence of various parts of cities . We can see paintings , sculptures, carvings",
+        "and many more artistic objects on display at crossroads,underpasses & at diiferent public places .This development is good,",
+        "proivded that it does not occur at the expense of essential needs.",
+        "Such projects and artistic monuments are the need of our hour . First , from tourism point of view it attracts lot of domestic and foreign tourists",
+        "which help government to generate revenue for development.Secondly, it provides livelyhood to people living in the vicinity of the building or monument.",
+        "In addition , they also help children to learn about their culture & history by learning stories related to it .",
+        "On the other hand , generally these monuments require lot of involment of foreign people to build these monuments . This include from design stage to the development stage .",
+        "Moreover we need to import lot of foreign material to build these monuments which can be very expensive & time consuming also .which can put lot of financial burden",
+        "on economic growth of our country .",
+        "Next almonst all the countries require funds for essential needs like providing better healthcare , infrastructure , education and other facilities to their citizens .",
+        "It seems awkward if a citizen of a country does not have basic healthcare or primary education and the government is occupied in spending on artistic projects .",
+        "Finally , i believe that allocating funds for artistic projects is indeed good as it makes our living environmrnt more aesthetic . However, such expenses must be avoided",
+        "if prerequisites of the people are getting suffered."
+    ],
+    "errors": {
+        "num_error": "46",
+        "error_list": [
+            {
+                "word": "lot",
+                "start_idx": 26,
+                "end_idx": 29,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a lot",
+                    "lots"
+                ]
+            },
+            {
+                "word": "appearence",
+                "start_idx": 56,
+                "end_idx": 66,
+                "error": "outward or visible aspect of a person or thing",
+                "error_des": "",
+                "suggetions": [
+                    "appearance"
+                ]
+            },
+            {
+                "word": "various parts",
+                "start_idx": 70,
+                "end_idx": 83,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the various parts"
+                ]
+            },
+            {
+                "word": "cities",
+                "start_idx": 87,
+                "end_idx": 93,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the cities"
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 94,
+                "end_idx": 96,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 117,
+                "end_idx": 119,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "and",
+                "start_idx": 140,
+                "end_idx": 143,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "And"
+                ]
+            },
+            {
+                "word": "crossroads",
+                "start_idx": 185,
+                "end_idx": 195,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a crossroads"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 196,
+                "end_idx": 197,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "diiferent",
+                "start_idx": 213,
+                "end_idx": 222,
+                "error": "unlike in nature or quality or form or degree",
+                "error_des": "",
+                "suggetions": [
+                    "different"
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 237,
+                "end_idx": 239,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            },
+            {
+                "word": "proivded",
+                "start_idx": 264,
+                "end_idx": 272,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Provided",
+                    "Proivded"
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 393,
+                "end_idx": 395,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 401,
+                "end_idx": 403,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "view it",
+                "start_idx": 425,
+                "end_idx": 432,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "view, it"
+                ]
+            },
+            {
+                "word": "lot",
+                "start_idx": 442,
+                "end_idx": 445,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a lot",
+                    "lots"
+                ]
+            },
+            {
+                "word": "which",
+                "start_idx": 479,
+                "end_idx": 484,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Which"
+                ]
+            },
+            {
+                "word": "help",
+                "start_idx": 485,
+                "end_idx": 489,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "helps"
+                ]
+            },
+            {
+                "word": "livelyhood",
+                "start_idx": 559,
+                "end_idx": 569,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a livelihood",
+                    "livelihood",
+                    "livelihoods"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 644,
+                "end_idx": 646,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 743,
+                "end_idx": 745,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 763,
+                "end_idx": 765,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "lot",
+                "start_idx": 799,
+                "end_idx": 802,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a lot"
+                ]
+            },
+            {
+                "word": "involment",
+                "start_idx": 806,
+                "end_idx": 815,
+                "error": "the act of sharing in the activities of a group",
+                "error_des": "",
+                "suggetions": [
+                    "involvement"
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 859,
+                "end_idx": 861,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            },
+            {
+                "word": "include",
+                "start_idx": 866,
+                "end_idx": 873,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "includes"
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 917,
+                "end_idx": 919,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            },
+            {
+                "word": "Moreover we",
+                "start_idx": 919,
+                "end_idx": 930,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Moreover, we"
+                ]
+            },
+            {
+                "word": "lot",
+                "start_idx": 946,
+                "end_idx": 949,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "lots"
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 1045,
+                "end_idx": 1047,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            },
+            {
+                "word": "which",
+                "start_idx": 1047,
+                "end_idx": 1052,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Which"
+                ]
+            },
+            {
+                "word": "lot",
+                "start_idx": 1060,
+                "end_idx": 1063,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a lot"
+                ]
+            },
+            {
+                "word": "burden",
+                "start_idx": 1077,
+                "end_idx": 1083,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "burden?"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 1084,
+                "end_idx": 1086,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "On"
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 1118,
+                "end_idx": 1120,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            },
+            {
+                "word": "almonst",
+                "start_idx": 1125,
+                "end_idx": 1132,
+                "error": "(of actions or states) slightly short of or not quite accomplished; all but",
+                "error_des": "",
+                "suggetions": [
+                    "almost",
+                    "amongst"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 1218,
+                "end_idx": 1220,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 1235,
+                "end_idx": 1237,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 1286,
+                "end_idx": 1288,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            },
+            {
+                "word": "healthcare",
+                "start_idx": 1351,
+                "end_idx": 1361,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "health care"
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 1447,
+                "end_idx": 1449,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 1457,
+                "end_idx": 1459,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 1459,
+                "end_idx": 1460,
+                "error": "refers to the speaker or writer",
+                "error_des": "",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "environmrnt",
+                "start_idx": 1551,
+                "end_idx": 1562,
+                "error": "the totality of surrounding conditions",
+                "error_des": "",
+                "suggetions": [
+                    "environment"
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 1578,
+                "end_idx": 1580,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            },
+            {
+                "word": "if",
+                "start_idx": 1619,
+                "end_idx": 1621,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "If"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 278,
+    "num_paragraphs": 13,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "secondly",
+            "also",
+            "such",
+            "first",
+            "however",
+            "next",
+            "in addition",
+            "finally",
+            "on the other hand",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2020-02-25T08:55:08.219Z"
+}

@@ -1,0 +1,133 @@
+{
+    "url": "https://writing9.com/text/5f38120c58eba40018a2a6d1",
+    "file": [
+        "data",
+        "65",
+        "5f38120c58eba40018a2a6d1.json"
+    ],
+    "topics": [
+        "countries",
+        "truancy",
+        "parents",
+        "educators",
+        "effects",
+        "child",
+        "wilder",
+        "community"
+    ],
+    "question": "In many countries, truancy is a worrying problem for both parents and educators. What are the causes of truancy, and what may be the effects on the child and the wilder community?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "High on the educators\u2019 agenda are the solutions to truancy, a youthful misdemeanor that, supposedly, would lead to a myriad of social problems in the imminent future. The roots of this issue appear to stem from peer pressure and learning curriculum. Contrary to popular belief, this type of misconduct is not always detrimental, provided the teenagers acknowledge their missions in life.",
+        "According to psychologists, adolescents are, more often than not, under the constraint of conformity. For example, if witnessing their peers skip classes, youngsters are more likely to do likewise because of the urge to conform to a social group. Sooner or later, these impressionable youngsters will regard unauthorized absence as a norm. Besides, the fear of bullying may also demotivate pusillanimous students to study. Moreover, it is indeed the fundamental flaws in the academic system that deprives the children of the curiosity to learn. For example, the excessive stress of homework overload and the gnawing anxiety of standardized tests tend to be daunting to those pupils who cannot resist the lure of the unknown awaiting them outside the classroom. That is not to mention the tedious lectures, which undoubtedly play a significant role in the cause of truancy. Accordingly, there is no wonder why it is prevalent among juveniles to skip school without feeling any guilt.",
+        "The effects of truancy may vary considerably, from devastating to beneficial. Although skipping a few classes may have little or no severe impacts, if left unchecked, absenteeism would lead youngsters down the path of social misfits. For instance, students with poor attendance are more likely to fail the exams, commit juvenile delinquency, and end up in unemployment. Nevertheless, it is indisputable that academic success is no guarantee of quantum achievements. For example, Mark Zuckerberg, Bill Gates, and Steve Jobs who all dropped out of university to pursue their passions have transformed the world beyond recognition in the field of technology. Therefore, it is quite challenging to justify a case of truancy owning to the unpredictability of its influences.",
+        "In conclusion, there is a multitude of justified reasons for unauthorized absence. This thorny issue is perplexing when contemplating its outcomes in the long run with an objective perspective."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "misdemeanor",
+                "start_idx": 70,
+                "end_idx": 81,
+                "error": "a crime less serious than a felony",
+                "error_des": "",
+                "suggetions": [
+                    "misdemeanour"
+                ]
+            },
+            {
+                "word": "demotivate",
+                "start_idx": 766,
+                "end_idx": 776,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "achievements",
+                "start_idx": 1822,
+                "end_idx": 1834,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "achieving"
+                ]
+            }
+        ]
+    },
+    "submitter": "Andy",
+    "num_words": 364,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "nevertheless",
+            "this",
+            "for example",
+            "accordingly",
+            "besides",
+            "therefore",
+            "likewise",
+            "moreover",
+            "although",
+            "for instance",
+            "that is",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "truancy",
+                "occurrences": [
+                    {
+                        "start_idx": 51,
+                        "end_idx": 58
+                    },
+                    {
+                        "start_idx": 1252,
+                        "end_idx": 1259
+                    },
+                    {
+                        "start_idx": 1386,
+                        "end_idx": 1393
+                    },
+                    {
+                        "start_idx": 2083,
+                        "end_idx": 2090
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-08-15T16:49:18.104Z"
+}

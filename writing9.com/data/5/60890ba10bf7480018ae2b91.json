@@ -1,0 +1,218 @@
+{
+    "url": "https://writing9.com/text/60890ba10bf7480018ae2b91-should-students-be-allowed-to-choose-which-classes-they-take",
+    "file": [
+        "data",
+        "5",
+        "60890ba10bf7480018ae2b91.json"
+    ],
+    "topics": [
+        "students",
+        "classes",
+        "approach",
+        "education"
+    ],
+    "question": "Should students be allowed to choose which classes they take, or should they be required to take the same classes as everyone else?What are the advantages and disadvantages of each approach to education?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Agriculture has been much easier with advanced infrastructure as compared to the past. Although, farmers are growing bumper crops,  the population of  the world is also continuously increasing. Thus, most of the  time civics are unable to manage the distribution of grain. Automation and large capacity storage places can solve this problem. This essay will point out how inclined population is the main cause of hunger and how information technology will use to get a better solution.",
+        "There are might be many reasons for the lacks of the meal. However, the main root of all causes is uncontrolled population. There has been dramatical changing  in the agriculture-based technology in the last two decade.  The food industry reaches at  a new record in every new financial year which means farmers are giving their best and providing tones of foodstuff  to their suppliers and other consumers. However, many people do not consume it!, because countries like, India, China, Brazil which is highly populated are unable to distribute these grains to their poor citizens. On the other side developed countries with less population are easily managed their cuisine supply chain. Thus, most of the time there are no issues with the production of food but due to the number of people is hard to supply to the neediest.",
+        "Two main solutions apply can easily be implemented in the current system. First is the use of information technology that can help to maintain the data of consumer with their monthly supply. Nowadays, almost everyone has a mobile phone as the department can send a message or a phone call to consumer to know about required food. For example, the Orissa food department has a mobile phone application that sent a notification on 1st day of the month to cardholders ( provided by the department) to collect their food from the nearest stores. Moreover, Government has grains but they do not have proper storage systems. Resolutely, tones of food is destroyed by food agencies because it is not eatable. So, large capacity and well managed with automation warehouses should be constructed by civic.",
+        "In conclusion, Although, the population is very hard to control, good quality food can be delivered to needy people if governments take initiative to secure food in warehouses. Information technology can help to provide grains on time."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 95,
+                "end_idx": 96,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction Although. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "dramatical",
+                "start_idx": 624,
+                "end_idx": 634,
+                "error": "Replace the word",
+                "error_des": "The word dramatical doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "dramatic"
+                ]
+            },
+            {
+                "word": "changing  ",
+                "start_idx": 635,
+                "end_idx": 645,
+                "error": "Replace the word",
+                "error_des": "The word changing doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "change"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 648,
+                "end_idx": 652,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "at  ",
+                "start_idx": 732,
+                "end_idx": 736,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "hssb47",
+    "num_words": 385,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "thus",
+            "also",
+            "first",
+            "although",
+            "however",
+            "last",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "technology",
+                "occurrences": [
+                    {
+                        "start_idx": 440,
+                        "end_idx": 450
+                    },
+                    {
+                        "start_idx": 671,
+                        "end_idx": 681
+                    },
+                    {
+                        "start_idx": 1418,
+                        "end_idx": 1428
+                    },
+                    {
+                        "start_idx": 2298,
+                        "end_idx": 2308
+                    }
+                ]
+            },
+            {
+                "word": "population",
+                "occurrences": [
+                    {
+                        "start_idx": 136,
+                        "end_idx": 146
+                    },
+                    {
+                        "start_idx": 381,
+                        "end_idx": 391
+                    },
+                    {
+                        "start_idx": 598,
+                        "end_idx": 608
+                    },
+                    {
+                        "start_idx": 1116,
+                        "end_idx": 1126
+                    },
+                    {
+                        "start_idx": 2138,
+                        "end_idx": 2148
+                    }
+                ]
+            },
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 711,
+                        "end_idx": 715
+                    },
+                    {
+                        "start_idx": 843,
+                        "end_idx": 847
+                    },
+                    {
+                        "start_idx": 1240,
+                        "end_idx": 1244
+                    },
+                    {
+                        "start_idx": 1636,
+                        "end_idx": 1640
+                    },
+                    {
+                        "start_idx": 1666,
+                        "end_idx": 1670
+                    },
+                    {
+                        "start_idx": 1824,
+                        "end_idx": 1828
+                    },
+                    {
+                        "start_idx": 1952,
+                        "end_idx": 1956
+                    },
+                    {
+                        "start_idx": 1973,
+                        "end_idx": 1977
+                    },
+                    {
+                        "start_idx": 2187,
+                        "end_idx": 2191
+                    },
+                    {
+                        "start_idx": 2266,
+                        "end_idx": 2270
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-04-28T07:15:46.912Z"
+}

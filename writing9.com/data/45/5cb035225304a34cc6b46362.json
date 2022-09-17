@@ -1,0 +1,190 @@
+{
+    "url": "https://writing9.com/text/5cb035225304a34cc6b46362",
+    "file": [
+        "data",
+        "45",
+        "5cb035225304a34cc6b46362.json"
+    ],
+    "topics": [
+        "phones",
+        "internet",
+        "people",
+        "development"
+    ],
+    "question": "These days, mobile phones and the internet are very important to the ways in which people relate to one another socially.\nDo the advantages of this development outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The use of cell phones and internet has dramatically changed the way people interact with each other. Although there are some disadvantages of increased online interaction, its benefits such as instant catch ups and social transparency are standout game changers that outweigh the drawbacks.",
+        "There foremost disadvantage of internet and cellphones as a medium of social interaction is that people engage each other in hateful debate. Often times, people differ from each other in opinion, however, with the advent of social media they can easily wage a war against the opposing party in the comments section of a post. To elucidate, at multiple occasions, the people from Pakistan and India are seen hurling abuses and slurs at each other on the social media.",
+        "There are a number of advantages of online social interaction. Firstly, the use of social media and cell phones has brought the people together at a distance of a few clicks. It would not matter which part of the world one is in. With a mobile phone or computer, people can easily touch base with the oldest of their friends or acquaintances. Secondly, the use of internet and mobile phones has resulted in making the world more transparent. If injustice is being done in any part of the world, people can get the word around quickly which results in the justice being delivered.",
+        "In conclusion, the use of internet and mobile phones has entirely changed social interaction. Benefits such as bringing people closer and ensuring a transparent society do overshadow this development\u2019s drawbacks."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "internet",
+                "start_idx": 26,
+                "end_idx": 34,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the internet"
+                ]
+            },
+            {
+                "word": "internet",
+                "start_idx": 322,
+                "end_idx": 330,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the internet"
+                ]
+            },
+            {
+                "word": "cellphones",
+                "start_idx": 335,
+                "end_idx": 345,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "cell phones"
+                ]
+            },
+            {
+                "word": "world one",
+                "start_idx": 971,
+                "end_idx": 980,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "world, one"
+                ]
+            },
+            {
+                "word": "internet",
+                "start_idx": 1122,
+                "end_idx": 1130,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the internet"
+                ]
+            },
+            {
+                "word": "internet",
+                "start_idx": 1364,
+                "end_idx": 1372,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the internet"
+                ]
+            },
+            {
+                "word": "drawbacks",
+                "start_idx": 1540,
+                "end_idx": 1549,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "drawback"
+                ]
+            }
+        ]
+    },
+    "submitter": "Serhii Baraniuk",
+    "num_words": 256,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "secondly",
+            "such",
+            "although",
+            "firstly",
+            "however",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "interaction",
+                "occurrences": [
+                    {
+                        "start_idx": 160,
+                        "end_idx": 171
+                    },
+                    {
+                        "start_idx": 369,
+                        "end_idx": 380
+                    },
+                    {
+                        "start_idx": 809,
+                        "end_idx": 820
+                    },
+                    {
+                        "start_idx": 1420,
+                        "end_idx": 1431
+                    }
+                ]
+            },
+            {
+                "word": "use",
+                "occurrences": [
+                    {
+                        "start_idx": 4,
+                        "end_idx": 7
+                    },
+                    {
+                        "start_idx": 709,
+                        "end_idx": 712
+                    },
+                    {
+                        "start_idx": 835,
+                        "end_idx": 838
+                    },
+                    {
+                        "start_idx": 1116,
+                        "end_idx": 1119
+                    },
+                    {
+                        "start_idx": 1358,
+                        "end_idx": 1361
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-12T06:50:10.000Z"
+}

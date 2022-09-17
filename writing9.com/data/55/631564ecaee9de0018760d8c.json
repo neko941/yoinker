@@ -1,0 +1,498 @@
+{
+    "url": "https://writing9.com/text/631564ecaee9de0018760d8c-news-stories-on-tv-and-in-newspapers-are-very-often",
+    "file": [
+        "data",
+        "55",
+        "631564ecaee9de0018760d8c.json"
+    ],
+    "topics": [
+        "news",
+        "stories",
+        "tv",
+        "newspapers",
+        "pictures",
+        "people",
+        "picture"
+    ],
+    "question": "News stories on TV and in newspapers are very often accompained by pictures.\nsome people say that these picture are more effective than words.\nwhat is your opinion about this?.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, images are used more in news article and newspaper for better explaination. It is a fact that, pictures say thousands words, without writing single text, so that some people believe that, these have more impact on readers rather that words. I extremely agree with this statement. Photograps are best means of communication with readers and easy to remember for long time.",
+        "To begin with, picture can summarize thousands of words. For intance, last summer World Health Oganization arranged an exhibition on the topic of \" World food and Health\". The exhibition had photographs, taken by journalists who travel around the globle. Among those photographs, all the eys got caught on a picture which was taken by reporter called \" Petter de Costa\". In his photo, there was a African tribe chide who was crying because he was hungry and did not has food. Because of attention to that image, those people received plenty of helping hands to overcome what they were suffering from through the years.",
+        "secondly, compared to  words and videos, a pcture can draw more attention to the human mind. For example, a research article which was published by Oxford University revealed that the human brain is more capable of remembering picture rather than words and videos. Moreover, it can be seen in live news on TV, weather reprot always shows in graph image, so that people can understand, remember and judge that how would be the weather that day.",
+        "To sum up my wiriting, images play paramount role in communicaiton since decades and pass messages for centuries without words."
+    ],
+    "errors": {
+        "num_error": "39",
+        "error_list": [
+            {
+                "word": "article",
+                "start_idx": 38,
+                "end_idx": 45,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that article may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "articles"
+                ]
+            },
+            {
+                "word": "newspaper",
+                "start_idx": 50,
+                "end_idx": 59,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that newspaper may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "newspapers"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 71,
+                "end_idx": 71,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want explaination to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "explanation"
+                ]
+            },
+            {
+                "word": "explaination",
+                "start_idx": 71,
+                "end_idx": 83,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want explaination to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "explanations"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 103,
+                "end_idx": 104,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction that. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "thousands",
+                "start_idx": 117,
+                "end_idx": 126,
+                "error": "Add the preposition",
+                "error_des": "It appears that the number thousands should be followed by the preposition of. Consider adding the preposition.",
+                "suggetions": [
+                    "ofthousands"
+                ]
+            },
+            {
+                "word": "that ",
+                "start_idx": 166,
+                "end_idx": 171,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 238,
+                "end_idx": 238,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "than"
+                ]
+            },
+            {
+                "word": "that",
+                "start_idx": 238,
+                "end_idx": 242,
+                "error": "Correct your spelling",
+                "error_des": "The word that doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "than"
+                ]
+            },
+            {
+                "word": "Photograps",
+                "start_idx": 289,
+                "end_idx": 299,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Photograps to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "Photographs"
+                ]
+            },
+            {
+                "word": "best",
+                "start_idx": 304,
+                "end_idx": 308,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the best"
+                ]
+            },
+            {
+                "word": "easy",
+                "start_idx": 349,
+                "end_idx": 353,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "are easy"
+                ]
+            },
+            {
+                "word": "long",
+                "start_idx": 370,
+                "end_idx": 374,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase long time may not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "a long"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 396,
+                "end_idx": 396,
+                "error": "Add an article",
+                "error_des": "The noun phrase picture seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a picture",
+                    "the picture"
+                ]
+            },
+            {
+                "word": "picture",
+                "start_idx": 396,
+                "end_idx": 403,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that picture may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "pictures"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 442,
+                "end_idx": 442,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want intance to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "instance"
+                ]
+            },
+            {
+                "word": "intance",
+                "start_idx": 442,
+                "end_idx": 449,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want intance to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "instance"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 476,
+                "end_idx": 476,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Oganization to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "Organization"
+                ]
+            },
+            {
+                "word": "Oganization",
+                "start_idx": 476,
+                "end_idx": 487,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Oganization to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "Organization"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 628,
+                "end_idx": 628,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want globle to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "globe",
+                    "global"
+                ]
+            },
+            {
+                "word": "globle",
+                "start_idx": 628,
+                "end_idx": 634,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want globle to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "globe"
+                ]
+            },
+            {
+                "word": "eys",
+                "start_idx": 669,
+                "end_idx": 672,
+                "error": "Correct your spelling",
+                "error_des": "The word eys doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "eyes"
+                ]
+            },
+            {
+                "word": "reporter",
+                "start_idx": 716,
+                "end_idx": 724,
+                "error": "Add an article",
+                "error_des": "The noun phrase reporter seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a reporter"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 776,
+                "end_idx": 777,
+                "error": "Change the article",
+                "error_des": "The article a may be incorrect. Consider changing it to agree with the beginning sound of the following word African.",
+                "suggetions": [
+                    "an"
+                ]
+            },
+            {
+                "word": "pcture",
+                "start_idx": 1043,
+                "end_idx": 1049,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want pcture to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "picture"
+                ]
+            },
+            {
+                "word": "picture",
+                "start_idx": 1227,
+                "end_idx": 1234,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that picture may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "pictures"
+                ]
+            },
+            {
+                "word": "weather",
+                "start_idx": 1310,
+                "end_idx": 1317,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the weather"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1318,
+                "end_idx": 1318,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want reprot to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "report"
+                ]
+            },
+            {
+                "word": "reprot",
+                "start_idx": 1318,
+                "end_idx": 1324,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want reprot to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "reports"
+                ]
+            },
+            {
+                "word": "always",
+                "start_idx": 1325,
+                "end_idx": 1331,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "is always"
+                ]
+            },
+            {
+                "word": "shows",
+                "start_idx": 1332,
+                "end_idx": 1337,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb shows. Consider changing it.",
+                "suggetions": [
+                    "shown"
+                ]
+            },
+            {
+                "word": "image",
+                "start_idx": 1347,
+                "end_idx": 1352,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that image may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "images"
+                ]
+            },
+            {
+                "word": "that ",
+                "start_idx": 1404,
+                "end_idx": 1409,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1457,
+                "end_idx": 1457,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want wiriting to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "writing"
+                ]
+            },
+            {
+                "word": "wiriting",
+                "start_idx": 1457,
+                "end_idx": 1465,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want wiriting to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "writing"
+                ]
+            },
+            {
+                "word": "paramount",
+                "start_idx": 1479,
+                "end_idx": 1488,
+                "error": "Add an article",
+                "error_des": "The noun phrase paramount role seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a paramount"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1497,
+                "end_idx": 1497,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want communicaiton to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "communication"
+                ]
+            },
+            {
+                "word": "communicaiton",
+                "start_idx": 1497,
+                "end_idx": 1510,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want communicaiton to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "communication"
+                ]
+            },
+            {
+                "word": "since",
+                "start_idx": 1511,
+                "end_idx": 1516,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            }
+        ]
+    },
+    "submitter": "bhavendra.bhensdadia",
+    "num_words": 263,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "to begin",
+            "secondly",
+            "last",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "words",
+                "occurrences": [
+                    {
+                        "start_idx": 128,
+                        "end_idx": 133
+                    },
+                    {
+                        "start_idx": 244,
+                        "end_idx": 249
+                    },
+                    {
+                        "start_idx": 432,
+                        "end_idx": 437
+                    },
+                    {
+                        "start_idx": 1024,
+                        "end_idx": 1029
+                    },
+                    {
+                        "start_idx": 1248,
+                        "end_idx": 1253
+                    },
+                    {
+                        "start_idx": 1566,
+                        "end_idx": 1571
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-05T02:54:39.505Z"
+}

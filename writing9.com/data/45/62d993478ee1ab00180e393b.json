@@ -1,0 +1,122 @@
+{
+    "url": "https://writing9.com/text/62d993478ee1ab00180e393b-using-computer-every-day-can-have-more-negatives-than-positive",
+    "file": [
+        "data",
+        "45",
+        "62d993478ee1ab00180e393b.json"
+    ],
+    "topics": [
+        "computer",
+        "negatives",
+        "effects",
+        "children"
+    ],
+    "question": "Using computer every day can have more negatives than positive effects on young children. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some media platforms are exclusively for letting people know what is happening in the world and also in specific locations. Some individuals think that getting news through TV and newspapers is just time-wasting because of the lack of connection between the news and people\u2019s lives. I believe that receiving news through these media is important because people can be safer and more conscious if knowing what is happening.",
+        "The news programmes on TV and newspapers are important ways of creating awareness about real problems. If the population does not receive any information about the weather forecast, for instance, they can face unexpected rain or even worse, a strong storm. This could put their life at risk or at least make their daily life more difficult. The lack of basic information like the weekly forecast can cause damage to individuals\u2019 lives as well as damage to their houses in case of a tornado/hurricane. Thus, there is a real connection between what we see through the media and what happens in real life.",
+        "are of the weather conditions that can cause damage to their belongings as well as put their lives at ris",
+        "In the modern world, it is almost impossible to replace the value of computers. However, some believe that"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "newspapers",
+                "start_idx": 452,
+                "end_idx": 462,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in newspapers"
+                ]
+            },
+            {
+                "word": "ris",
+                "start_idx": 1127,
+                "end_idx": 1130,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want ris to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "risk"
+                ]
+            }
+        ]
+    },
+    "submitter": "migara.dak",
+    "num_words": 209,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "thus",
+            "also",
+            "however",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "news",
+                "occurrences": [
+                    {
+                        "start_idx": 160,
+                        "end_idx": 164
+                    },
+                    {
+                        "start_idx": 180,
+                        "end_idx": 184
+                    },
+                    {
+                        "start_idx": 258,
+                        "end_idx": 262
+                    },
+                    {
+                        "start_idx": 308,
+                        "end_idx": 312
+                    },
+                    {
+                        "start_idx": 427,
+                        "end_idx": 431
+                    },
+                    {
+                        "start_idx": 453,
+                        "end_idx": 457
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-21T17:56:24.953Z"
+}

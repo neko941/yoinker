@@ -1,0 +1,219 @@
+{
+    "url": "https://writing9.com/text/5e7bc3c3818e9c0018e29602",
+    "file": [
+        "data",
+        "45",
+        "5e7bc3c3818e9c0018e29602.json"
+    ],
+    "topics": [
+        "significance",
+        "debates",
+        "narrate",
+        "argument",
+        "point",
+        "factors",
+        "topic"
+    ],
+    "question": "What is significance of academic debates?\nNarrate for argument with necessary point and denote with negative or positive factors contributing to the given topic.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "These days, academic arguments had vital impact on providing opportunities for individual. There are numerous positive outcomes that can be achieved from educational debating but there are also possible harmful effects connected to it.",
+        "One of the advantages of academic debates is people gained awareness and knowledge on social issues. In fact, debate conducted under educational institution aimed to develop their critical thinking and communication ability. This in return, may lead to provides proper attitudes and skills to real-life debates. Furthermore, it is helpful to students will be able to express their opinions in safe environment. Evidently, individual who actively participated in debate were more likely to speak out on something they believe useful. Making a greater contribution on our society.",
+        "Meanwhile, it cannot be denied that those engaged on academic debate provides greater research and questioning skills over their peers. For example, there is ongoing arguments regarding abortion for those unwanted pregnancy. This affects the view of student because they need to analyze the important factors regarding this issue like culture, religion. To illustrate, in dominantly Roman Catholic countries like Philippines-abortion is not legalize. The significant part of the arguments, they are able to present both sides of issues. Contributing to the individual to have excellent education than those who do not participate.",
+        "Academic discussion can be beneficial for number of reasons but there are also disastrous consequences to others. But from my perspective,  attaining  more confidence to stand up for truth is its significant outcome.However, one of disadvantages of academic arguments is some people can be offended  when their view of point challenged."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "vital impact",
+                "start_idx": 34,
+                "end_idx": 46,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a vital impact"
+                ]
+            },
+            {
+                "word": "safe environment",
+                "start_idx": 628,
+                "end_idx": 644,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a safe environment"
+                ]
+            },
+            {
+                "word": "debate",
+                "start_idx": 697,
+                "end_idx": 703,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the debate",
+                    "debates"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 798,
+                "end_idx": 800,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 864,
+                "end_idx": 866,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 969,
+                "end_idx": 971,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "pregnancy",
+                "start_idx": 1028,
+                "end_idx": 1037,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "pregnancies"
+                ]
+            },
+            {
+                "word": "analyze",
+                "start_idx": 1093,
+                "end_idx": 1100,
+                "error": "consider in detail and subject to an analysis in order to discover essential features or meaning",
+                "error_des": "",
+                "suggetions": [
+                    "analyse"
+                ]
+            },
+            {
+                "word": "is not legalize",
+                "start_idx": 1248,
+                "end_idx": 1263,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is not legalized",
+                    "does not legalize",
+                    "doesn't legalize",
+                    "has not legalized"
+                ]
+            },
+            {
+                "word": "arguments",
+                "start_idx": 1293,
+                "end_idx": 1302,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "argument"
+                ]
+            },
+            {
+                "word": "excellent education",
+                "start_idx": 1390,
+                "end_idx": 1409,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an excellent education"
+                ]
+            },
+            {
+                "word": "number",
+                "start_idx": 1487,
+                "end_idx": 1493,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a number"
+                ]
+            },
+            {
+                "word": "reasons but",
+                "start_idx": 1497,
+                "end_idx": 1508,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "reasons, but"
+                ]
+            },
+            {
+                "word": "view of point",
+                "start_idx": 1756,
+                "end_idx": 1769,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "point of view"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 265,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "also",
+            "furthermore",
+            "however",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2020-03-25T20:49:07.655Z"
+}

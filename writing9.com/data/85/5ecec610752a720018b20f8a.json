@@ -1,0 +1,85 @@
+{
+    "url": "https://writing9.com/text/5ecec610752a720018b20f8a-you-successfully-passed-a-job-interview-you-are-expected-to",
+    "file": [
+        "data",
+        "85",
+        "5ecec610752a720018b20f8a.json"
+    ],
+    "topics": [
+        "job",
+        "interview",
+        "november",
+        "date",
+        "boss",
+        "situation",
+        "concern"
+    ],
+    "question": "You successfully passed a job interview. You are expected to start on November 15, but you will not be available on that date. Task: Write a letter to your new boss, explaining your situation, expressing your concern and suggesting a solution",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "I am John Kane, I have been recently shortlisted as React Js Developer in your company (XYZ). As we discussed in an interview process that I would join your firm on 15th November. I am writing this mail to inform you that unfortunately, I would not be able to present on that date.",
+        "As I informed you during my interview process that I have 15 days of the employment notice period in my current company so that I can complete my pending tasks and hand over to my colleagues and seniors. But I got sick for a few days, Therefore, I was not able to finish the tasks. I was on bed rest during this time. If you want, then I can forward my medical reports and tests.",
+        "To clear my backlogs created with my late start, I can ensure that I will work for at least two extra hours each day. I feel responsible for the pressure created in the company due to my late start. So, I will work harder until everything gets normal.",
+        "I sincerely apologize for this inconvenience and hope for a good start in the future.  If you need any medical proof or letter, then please let me know.",
+        "Yours faithfully,",
+        "John Kane"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "over",
+                "start_idx": 466,
+                "end_idx": 470,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "them over"
+                ]
+            }
+        ]
+    },
+    "submitter": "info2",
+    "num_words": 210,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "therefore",
+            "then",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-14T10:43:58.708Z"
+}

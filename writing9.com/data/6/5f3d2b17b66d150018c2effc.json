@@ -1,0 +1,168 @@
+{
+    "url": "https://writing9.com/text/5f3d2b17b66d150018c2effc",
+    "file": [
+        "data",
+        "6",
+        "5f3d2b17b66d150018c2effc.json"
+    ],
+    "topics": [
+        "people",
+        "music",
+        "cultures",
+        "ages"
+    ],
+    "question": "Some people say that music is a good way of bringing people of different cultures and ages together.\nTo what extent do you agree or disagree with this opinion?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is believed that music could remove cultural and generational barriers among people around the world, hence creating a close bond despite the differences. I partly disagree with this viewpoint because although music could bring people from various regions together, it would be difficult to unite people of different ages.",
+        "On the one hand, there is a variety of immortal songs which could meet most people\u2019s musical taste and successfully convey their messages to the audiences. They usually are emotional and straightforward to understand; therefore, people from different regions and races could immerse themselves into the harmonized melody and the meaningful lyrics of such legendary songs. One classic example of songs that are long-standing and still popular is My Heart Will Go On in the famous movie called Titanic. The instrumental melody is combined with the moving lyrics, all of which would easily release people\u2019s feeling of love, sympathy against the differences in cultures.",
+        "On the other hand, I believe music is not good unifier in different generations because people tend to enjoy music from their formative years and dislike currently modern music. The old usually consider music that the youths listen to nowadays to be meaningless and time-wasting. Some old parents, for instance, complain about the EDM music that their children usually listen to. They might think it is too noisy and harmful to their sense of hearing. The old tend to listen to songs that are soft and light melody, making them feel released and relaxing, rather than rap or current pop songs. These preferences in music are due to the different personalities formed during impressionable phases of people and the stereotypes of modern music, leading to the differences in musical taste. This would make it almost impossible to bring the young and the old together.",
+        "In conclusion, an effective way to build relationships against cultures and ages is believed to be music. Although it could unite people around the world together, the generation gap is still a barrier between people of different ages."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "music",
+                "start_idx": 212,
+                "end_idx": 217,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the music"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 348,
+                "end_idx": 350,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "taste",
+                "start_idx": 418,
+                "end_idx": 423,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "tastes"
+                ]
+            },
+            {
+                "word": "good unifier",
+                "start_idx": 1034,
+                "end_idx": 1046,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a good unifier"
+                ]
+            }
+        ]
+    },
+    "submitter": "Andy",
+    "num_words": 336,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the other hand",
+            "this",
+            "hence",
+            "therefore",
+            "although",
+            "for instance",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "music",
+                "occurrences": [
+                    {
+                        "start_idx": 20,
+                        "end_idx": 25
+                    },
+                    {
+                        "start_idx": 213,
+                        "end_idx": 218
+                    },
+                    {
+                        "start_idx": 411,
+                        "end_idx": 416
+                    },
+                    {
+                        "start_idx": 1022,
+                        "end_idx": 1027
+                    },
+                    {
+                        "start_idx": 1102,
+                        "end_idx": 1107
+                    },
+                    {
+                        "start_idx": 1164,
+                        "end_idx": 1169
+                    },
+                    {
+                        "start_idx": 1196,
+                        "end_idx": 1201
+                    },
+                    {
+                        "start_idx": 1328,
+                        "end_idx": 1333
+                    },
+                    {
+                        "start_idx": 1608,
+                        "end_idx": 1613
+                    },
+                    {
+                        "start_idx": 1729,
+                        "end_idx": 1734
+                    },
+                    {
+                        "start_idx": 1766,
+                        "end_idx": 1771
+                    },
+                    {
+                        "start_idx": 1958,
+                        "end_idx": 1963
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-08-19T13:37:29.803Z"
+}

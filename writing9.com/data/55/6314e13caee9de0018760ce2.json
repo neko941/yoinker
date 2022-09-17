@@ -1,0 +1,396 @@
+{
+    "url": "https://writing9.com/text/6314e13caee9de0018760ce2-elebrities-are-famous-for-their-weath-and-glamorous-lifestyles-rather",
+    "file": [
+        "data",
+        "55",
+        "6314e13caee9de0018760ce2.json"
+    ],
+    "topics": [
+        "elebrities",
+        "weath",
+        "lifestyles",
+        "achievements",
+        "sets",
+        "people",
+        "idea"
+    ],
+    "question": "elebrities are famous for their weath and glamorous lifestyles rather than their achievements. This sets a bad example for young people. To what extent do you agree or disagree with that idea?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There are increasing number of celebrities who got well known by their glamorous lifestyles instead of their talents in public. While I concur that these celebrities set a bad example for teenagers, I agree that there are constructive outstanding people to be defined as an idol.",
+        "On the other hand numerous people build their achievements with not much effort. They may descend from affluent lineage, have married a famous or rich person or some are revealed by the gossip magazines superficially. For example, Nay Chi Oo, a widely known make-up artist from Myanmar, who is famous for inaccurate reasons. She waste lots of money in unnecessary articles and often displayed in public. The another idea is her behavior provides that spending money in popular brands, glamour and her conduct of that wealth can buy success.Hence, the outcome to youth is that they don\u2019t have to work hard then achievements will become effortlessly.",
+        "On the other hand, there are marvellous celebrities whose faculties make them to the accomplished position among populace.Professionals who are able to do living in their various fields successfully are cause of their abilities and they do work hard by applying their great skills.One clear example is the model Paing Takon, who became world famous by facing the trouble ages. The self-made celebrity like him can inspire young people to grow up with true ways of achieving methods.",
+        "To sum up, there are famous celebrities who became popular with incorrect ways while there are real person who can stand professionally with their efforts respectively. Most of young people learn to bright their future from those kind of celebrities."
+    ],
+    "errors": {
+        "num_error": "27",
+        "error_list": [
+            {
+                "word": "are",
+                "start_idx": 5,
+                "end_idx": 8,
+                "error": "Change the verb form",
+                "error_des": "The plural form of be are does not seem to agree with the singular subject increasing number. Consider changing the verb form.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "increasing",
+                "start_idx": 9,
+                "end_idx": 19,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase increasing number does not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "an increasing",
+                    "the increasing"
+                ]
+            },
+            {
+                "word": "by",
+                "start_idx": 61,
+                "end_idx": 63,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "hand",
+                "start_idx": 292,
+                "end_idx": 296,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase On the other hand. Consider adding a comma.",
+                "suggetions": [
+                    ",hand"
+                ]
+            },
+            {
+                "word": "who ",
+                "start_idx": 566,
+                "end_idx": 570,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "waste",
+                "start_idx": 608,
+                "end_idx": 613,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun She and the verb waste are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "wastes"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 628,
+                "end_idx": 630,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "often",
+                "start_idx": 656,
+                "end_idx": 661,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "is often"
+                ]
+            },
+            {
+                "word": "displayed",
+                "start_idx": 662,
+                "end_idx": 671,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb displayed. Consider changing it.",
+                "suggetions": [
+                    "displaying"
+                ]
+            },
+            {
+                "word": "The another",
+                "start_idx": 683,
+                "end_idx": 694,
+                "error": "Remove the article",
+                "error_des": "It is unlikely that your sentence needs the article The before another. Consider deleting the article.",
+                "suggetions": [
+                    "Another"
+                ]
+            },
+            {
+                "word": "behavior",
+                "start_idx": 707,
+                "end_idx": 715,
+                "error": "Change the spelling",
+                "error_des": "The spelling of behavior is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "behaviour"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 745,
+                "end_idx": 747,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "glamour",
+                "start_idx": 764,
+                "end_idx": 771,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and glamour"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 838,
+                "end_idx": 840,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 1009,
+                "end_idx": 1012,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "an"
+                ]
+            },
+            {
+                "word": "populace",
+                "start_idx": 1041,
+                "end_idx": 1049,
+                "error": "Add an article",
+                "error_des": "The noun phrase populace seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the populace"
+                ]
+            },
+            {
+                "word": "cause",
+                "start_idx": 1131,
+                "end_idx": 1136,
+                "error": "Add an article",
+                "error_des": "The noun phrase cause seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the cause",
+                    "a cause"
+                ]
+            },
+            {
+                "word": "Paing",
+                "start_idx": 1240,
+                "end_idx": 1245,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Paing to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "Paying"
+                ]
+            },
+            {
+                "word": "The",
+                "start_idx": 1305,
+                "end_idx": 1308,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "A"
+                ]
+            },
+            {
+                "word": "with",
+                "start_idx": 1470,
+                "end_idx": 1474,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 1502,
+                "end_idx": 1505,
+                "error": "Change the verb form",
+                "error_des": "The plural form of be are does not seem to agree with the singular subject real person. Consider changing the verb form.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "real",
+                "start_idx": 1506,
+                "end_idx": 1510,
+                "error": "Add an article",
+                "error_des": "The noun phrase real person seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a real"
+                ]
+            },
+            {
+                "word": "person",
+                "start_idx": 1511,
+                "end_idx": 1517,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that person may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "people"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 1585,
+                "end_idx": 1588,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "young",
+                "start_idx": 1588,
+                "end_idx": 1593,
+                "error": "Add an article",
+                "error_des": "The phrase Most of young people may require the use of the article the. Consider inserting the before the noun in your sentence.",
+                "suggetions": [
+                    "the young"
+                ]
+            },
+            {
+                "word": "bright",
+                "start_idx": 1610,
+                "end_idx": 1616,
+                "error": "Replace the word",
+                "error_des": "The word bright doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "brighten"
+                ]
+            },
+            {
+                "word": "those kind",
+                "start_idx": 1635,
+                "end_idx": 1645,
+                "error": "Change the determiner",
+                "error_des": "It appears that the plural demonstrative those is modifying the singular noun kind. Consider using a singular demonstrative or a plural noun instead.",
+                "suggetions": [
+                    "that kind",
+                    "those kinds"
+                ]
+            }
+        ]
+    },
+    "submitter": "tr.zarwaihnin",
+    "num_words": 270,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "instead",
+            "then",
+            "on the other ",
+            "hence",
+            "on the other hand",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "celebrities",
+                "occurrences": [
+                    {
+                        "start_idx": 31,
+                        "end_idx": 42
+                    },
+                    {
+                        "start_idx": 154,
+                        "end_idx": 165
+                    },
+                    {
+                        "start_idx": 969,
+                        "end_idx": 980
+                    },
+                    {
+                        "start_idx": 1440,
+                        "end_idx": 1451
+                    },
+                    {
+                        "start_idx": 1650,
+                        "end_idx": 1661
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 247,
+                        "end_idx": 253
+                    },
+                    {
+                        "start_idx": 307,
+                        "end_idx": 313
+                    },
+                    {
+                        "start_idx": 1357,
+                        "end_idx": 1363
+                    },
+                    {
+                        "start_idx": 1595,
+                        "end_idx": 1601
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-04T18:23:25.539Z"
+}

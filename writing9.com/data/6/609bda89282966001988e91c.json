@@ -1,0 +1,168 @@
+{
+    "url": "https://writing9.com/text/609bda89282966001988e91c-you-are-applying-for-a-job-and-need-a-letter",
+    "file": [
+        "data",
+        "6",
+        "609bda89282966001988e91c.json"
+    ],
+    "topics": [
+        "job",
+        "reference",
+        "someone",
+        "college",
+        "teachers",
+        "information",
+        "teacher"
+    ],
+    "question": "You are applying for a job and need a letter of reference from someone who knew you when you were at college.\n\nWrite a letter to one of your old teachers asking for a reference. In your letter:\n\nsay what job you have applied for\nexplain why you want this job\nsuggest what information the teacher should include",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr Kornienko",
+        "I am writing to request a letter of reference from you about my successful studies in school.It would be nice if you could help me with this letter.",
+        "Firstly, I applied for a software engineer in a company named Microsoft.As you know I am good at programming and I like to make big projects that make better the world.Also, this work responsibilities perfectly suits my experience and skills.My main reason for applying fro this job is that it was my biggest dream from childhood to work in such big company as Microsoft and I sincerely believe that I will get this job.",
+        "Secondly, in order to increase my chances to get this position it would be nice if you included in the letter my advantages and skills.Also, you can write about my communication skills and how good I am in team work.Moreover, you could write about my school projects and achievements in programming classes.",
+        "I am hoping to receive your reply before Monday.Your help and time will be greatly appreciated .",
+        "Yours faithfully,",
+        "Saveliy Dychenko"
+    ],
+    "errors": {
+        "num_error": "9",
+        "error_list": [
+            {
+                "word": "this",
+                "start_idx": 340,
+                "end_idx": 344,
+                "error": "Correct determiner usage",
+                "error_des": "It seems that determiner use may be incorrect here.",
+                "suggetions": [
+                    "these"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 436,
+                "end_idx": 436,
+                "error": "Correct your spelling",
+                "error_des": "The word fro doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "fro",
+                "start_idx": 436,
+                "end_idx": 439,
+                "error": "Correct your spelling",
+                "error_des": "The word fro doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "big",
+                "start_idx": 512,
+                "end_idx": 515,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a big"
+                ]
+            },
+            {
+                "word": "position",
+                "start_idx": 641,
+                "end_idx": 649,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase in order to increase my chances to get this position. Consider adding a comma.",
+                "suggetions": [
+                    ",position"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 790,
+                "end_idx": 792,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 793,
+                "end_idx": 793,
+                "error": "Correct your spelling",
+                "error_des": "The word team work seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "teamwork"
+                ]
+            },
+            {
+                "word": "team work",
+                "start_idx": 793,
+                "end_idx": 802,
+                "error": "Correct your spelling",
+                "error_des": "The word team work seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "teamwork"
+                ]
+            },
+            {
+                "word": "Dychenko",
+                "start_idx": 1018,
+                "end_idx": 1026,
+                "error": "Correct your spelling",
+                "error_des": "The word Dychenko is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "Dyachenko"
+                ]
+            }
+        ]
+    },
+    "submitter": "roman.antyak16",
+    "num_words": 178,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "secondly",
+            "also",
+            "such",
+            "firstly",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-11T17:48:36.048Z"
+}

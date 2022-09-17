@@ -1,0 +1,611 @@
+{
+    "url": "https://writing9.com/text/62ce39cf8ee1ab00180e24f5-some-people-think-that-parents-should-be-punished-if",
+    "file": [
+        "data",
+        "45",
+        "62ce39cf8ee1ab00180e24f5.json"
+    ],
+    "topics": [
+        "people",
+        "parents",
+        "children",
+        "crimes",
+        "actions"
+    ],
+    "question": "Some people think that parents  should be punished if their children commit crimes because they are responsible for their children's actions\n\n\nTo what extent do you agree or disagree",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "House is one of elementary needs of people. In my country, there are 3 basic needs for people, clothes, foods, and house/place for living. In my opinion, owning a home rather than renting one is important for human.",
+        "First, by owning a home, we can live more peaceful life. We feel secure until we grow old for years in the future. We have no worries for being kicked out from our house. Owning a home is one of contributor to our happy live.",
+        "Second, by owning a home, we can do anything to make our house becomes whatever we want. We can change the model, furniture, even colour of our house. We don\u2019t have to ask permission if we want to do something to our house.",
+        "Besides that, owning a house means we have an investment for future. The price of house usually grows every year. For example, in Jakarta, capital of Indonesia the price of landed house becomes double every 5 years. This means having a house especially in Jakarta is one of the smartest investments.",
+        "Having house is also means we know our neighbour deeply. People who live their own home usually know their surroundings better than those only rent home for living. The atmosphere of house also becomes warmer.",
+        "On the other hand, owning home also has unfavourable things. We have to spent budget for maintaining of our home. We have to pay tax every year, and also some risks like natural disaster, earthquake, or even disaster caused by human.",
+        "Consider their positive and negative sides, i conclude that owning a home still has more positive impacts to our life. So, if we have ability to have house then go to have it."
+    ],
+    "errors": {
+        "num_error": "41",
+        "error_list": [
+            {
+                "word": "elementary",
+                "start_idx": 15,
+                "end_idx": 25,
+                "error": "Add an article",
+                "error_des": "The phrase one of elementary needs may require the use of the article the. Consider inserting the before the noun in your sentence.",
+                "suggetions": [
+                    "the elementary"
+                ]
+            },
+            {
+                "word": "foods",
+                "start_idx": 103,
+                "end_idx": 108,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that foods may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "food"
+                ]
+            },
+            {
+                "word": "house",
+                "start_idx": 114,
+                "end_idx": 119,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a house"
+                ]
+            },
+            {
+                "word": "human",
+                "start_idx": 208,
+                "end_idx": 213,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that human may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "humans"
+                ]
+            },
+            {
+                "word": "more",
+                "start_idx": 252,
+                "end_idx": 256,
+                "error": "Add an article",
+                "error_des": "The noun phrase more peaceful life seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a more"
+                ]
+            },
+            {
+                "word": "for ",
+                "start_idx": 305,
+                "end_idx": 309,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 349,
+                "end_idx": 352,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "about"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 370,
+                "end_idx": 374,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 410,
+                "end_idx": 410,
+                "error": "Add an article",
+                "error_des": "The noun phrase contributor seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a contributor",
+                    "the contributor"
+                ]
+            },
+            {
+                "word": "contributor",
+                "start_idx": 410,
+                "end_idx": 421,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that contributor may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "contributors"
+                ]
+            },
+            {
+                "word": "live",
+                "start_idx": 435,
+                "end_idx": 439,
+                "error": "Replace the word",
+                "error_des": "The word live doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "life"
+                ]
+            },
+            {
+                "word": "colour",
+                "start_idx": 571,
+                "end_idx": 577,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the colour"
+                ]
+            },
+            {
+                "word": "future",
+                "start_idx": 726,
+                "end_idx": 732,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the future"
+                ]
+            },
+            {
+                "word": "house",
+                "start_idx": 747,
+                "end_idx": 752,
+                "error": "Add an article",
+                "error_des": "The noun phrase house seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the house",
+                    "a house"
+                ]
+            },
+            {
+                "word": "capital",
+                "start_idx": 804,
+                "end_idx": 811,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the capital"
+                ]
+            },
+            {
+                "word": "landed",
+                "start_idx": 838,
+                "end_idx": 844,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a landed"
+                ]
+            },
+            {
+                "word": "house",
+                "start_idx": 845,
+                "end_idx": 850,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that house may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "houses"
+                ]
+            },
+            {
+                "word": "especially",
+                "start_idx": 907,
+                "end_idx": 917,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter especially in Jakarta. Consider adding the comma(s).",
+                "suggetions": [
+                    ",especially"
+                ]
+            },
+            {
+                "word": "house",
+                "start_idx": 972,
+                "end_idx": 977,
+                "error": "Add an article",
+                "error_des": "The noun phrase house seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a house"
+                ]
+            },
+            {
+                "word": "is ",
+                "start_idx": 978,
+                "end_idx": 981,
+                "error": "Unnecessary verb",
+                "error_des": "The verb is appears to be unnecessary here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "their",
+                "start_idx": 1038,
+                "end_idx": 1043,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in their"
+                ]
+            },
+            {
+                "word": "home",
+                "start_idx": 1048,
+                "end_idx": 1052,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that home may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "homes"
+                ]
+            },
+            {
+                "word": "only",
+                "start_idx": 1103,
+                "end_idx": 1107,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "who only"
+                ]
+            },
+            {
+                "word": "home",
+                "start_idx": 1113,
+                "end_idx": 1117,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that home may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "homes"
+                ]
+            },
+            {
+                "word": "living",
+                "start_idx": 1122,
+                "end_idx": 1128,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a living"
+                ]
+            },
+            {
+                "word": "house",
+                "start_idx": 1148,
+                "end_idx": 1153,
+                "error": "Add an article",
+                "error_des": "The noun phrase house seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the house"
+                ]
+            },
+            {
+                "word": "home",
+                "start_idx": 1201,
+                "end_idx": 1205,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a home"
+                ]
+            },
+            {
+                "word": "spent",
+                "start_idx": 1247,
+                "end_idx": 1252,
+                "error": "Change the verb",
+                "error_des": "It appears that the verb spent should be in the base form as part of the to-infinitive following have. Consider changing the verb form.",
+                "suggetions": [
+                    "spend"
+                ]
+            },
+            {
+                "word": "budget",
+                "start_idx": 1253,
+                "end_idx": 1259,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "our budget"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 1260,
+                "end_idx": 1263,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 1276,
+                "end_idx": 1279,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "tax",
+                "start_idx": 1304,
+                "end_idx": 1307,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that tax may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "taxes"
+                ]
+            },
+            {
+                "word": "disaster",
+                "start_idx": 1353,
+                "end_idx": 1361,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that disaster may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "disasters"
+                ]
+            },
+            {
+                "word": "earthquake",
+                "start_idx": 1363,
+                "end_idx": 1373,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that earthquake may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "earthquakes"
+                ]
+            },
+            {
+                "word": "disaster",
+                "start_idx": 1383,
+                "end_idx": 1391,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that disaster may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "disasters"
+                ]
+            },
+            {
+                "word": "human",
+                "start_idx": 1402,
+                "end_idx": 1407,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that human may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "humans"
+                ]
+            },
+            {
+                "word": "Consider",
+                "start_idx": 1409,
+                "end_idx": 1417,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb Consider. Consider changing it.",
+                "suggetions": [
+                    "Considering"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 1453,
+                "end_idx": 1454,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1515,
+                "end_idx": 1517,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "ability",
+                "start_idx": 1543,
+                "end_idx": 1550,
+                "error": "Change the article",
+                "error_des": "It appears that the noun ability is not preceded by the correct article. Consider changing the article.",
+                "suggetions": [
+                    "the ability"
+                ]
+            },
+            {
+                "word": "house",
+                "start_idx": 1559,
+                "end_idx": 1564,
+                "error": "Add an article",
+                "error_des": "The noun phrase house seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a house"
+                ]
+            }
+        ]
+    },
+    "submitter": "alimr.bri2",
+    "num_words": 286,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "also",
+            "first",
+            "then",
+            "besides",
+            "second",
+            "on the other hand",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "one",
+                "occurrences": [
+                    {
+                        "start_idx": 9,
+                        "end_idx": 12
+                    },
+                    {
+                        "start_idx": 188,
+                        "end_idx": 191
+                    },
+                    {
+                        "start_idx": 404,
+                        "end_idx": 407
+                    },
+                    {
+                        "start_idx": 819,
+                        "end_idx": 822
+                    },
+                    {
+                        "start_idx": 933,
+                        "end_idx": 936
+                    }
+                ]
+            },
+            {
+                "word": "home",
+                "occurrences": [
+                    {
+                        "start_idx": 163,
+                        "end_idx": 167
+                    },
+                    {
+                        "start_idx": 235,
+                        "end_idx": 239
+                    },
+                    {
+                        "start_idx": 396,
+                        "end_idx": 400
+                    },
+                    {
+                        "start_idx": 462,
+                        "end_idx": 466
+                    },
+                    {
+                        "start_idx": 1049,
+                        "end_idx": 1053
+                    },
+                    {
+                        "start_idx": 1114,
+                        "end_idx": 1118
+                    },
+                    {
+                        "start_idx": 1202,
+                        "end_idx": 1206
+                    },
+                    {
+                        "start_idx": 1284,
+                        "end_idx": 1288
+                    },
+                    {
+                        "start_idx": 1479,
+                        "end_idx": 1483
+                    }
+                ]
+            },
+            {
+                "word": "house",
+                "occurrences": [
+                    {
+                        "start_idx": 115,
+                        "end_idx": 120
+                    },
+                    {
+                        "start_idx": 380,
+                        "end_idx": 385
+                    },
+                    {
+                        "start_idx": 499,
+                        "end_idx": 504
+                    },
+                    {
+                        "start_idx": 586,
+                        "end_idx": 591
+                    },
+                    {
+                        "start_idx": 659,
+                        "end_idx": 664
+                    },
+                    {
+                        "start_idx": 689,
+                        "end_idx": 694
+                    },
+                    {
+                        "start_idx": 748,
+                        "end_idx": 753
+                    },
+                    {
+                        "start_idx": 846,
+                        "end_idx": 851
+                    },
+                    {
+                        "start_idx": 902,
+                        "end_idx": 907
+                    },
+                    {
+                        "start_idx": 973,
+                        "end_idx": 978
+                    },
+                    {
+                        "start_idx": 1149,
+                        "end_idx": 1154
+                    },
+                    {
+                        "start_idx": 1560,
+                        "end_idx": 1565
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-13T03:19:45.492Z"
+}

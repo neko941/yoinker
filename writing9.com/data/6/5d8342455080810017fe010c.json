@@ -1,0 +1,271 @@
+{
+    "url": "https://writing9.com/text/5d8342455080810017fe010c",
+    "file": [
+        "data",
+        "6",
+        "5d8342455080810017fe010c.json"
+    ],
+    "topics": [
+        "people",
+        "history",
+        "school",
+        "subjects",
+        "today\u2019s",
+        "world",
+        "science",
+        "technology"
+    ],
+    "question": "Some people say History is one of the most important school subjects. Other people think that, in today\u2019s world, subjects like Science and Technology are more important than History.\n\nDiscuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The most important subjects are debatable in schools now a days but History is thought to be the most important one by some people. Others, however, think that Science and Technology are comparitively more important today than before and therefore schools should focus on these subjects more. This essay will discuss both sides and will explain why I believe Science and Technology should be given more importance.",
+        "People who believe that History is a significant subject, strongly believe in previous achievements and inventions' significance. It is because they were invented by scientists and technologists who facilitated others lives and that is why their names should be mentioned in History books; For instance,the inventions like train for transportation or telephones for communication has helped everyone alot up till today. Moreover, History reminds people of the sacrifices their ancestors have done to give them freedom such as Qaid-e-Azam, who was the founder of Pakistan and he will be remembered forever in Hisotry books for his devotion towards his nation.",
+        "On the other hand, those who wants to emphasize on Science and Technology subjects realises the importance of  these fields. I also believe that these are the courses where students can learn and apply to bring huge changes in our surroundings. For example, good quality X-Ray machines have helped doctors diagnose diseases which were unknown for long time. Yes, it is true that History books can mention the inventions made by famous people but Science and Technology helps student become the inventors. Our future lies mostly in science and technology's research as it will help reduce diseases and make our lives more convenient by inventing new machines. Thus, these subjects should be more important than others.",
+        "To conclude, Hisotry is persumed to be important for its valuable information about past but I believe that Science and Technology can not be ignored too as they are bringing huge difference in people's life. Looking at their importance, I beleive these subjects should be given more time in schools."
+    ],
+    "errors": {
+        "num_error": "18",
+        "error_list": [
+            {
+                "word": "now a days but",
+                "start_idx": 52,
+                "end_idx": 66,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "nowadays, but",
+                    "nowadays but"
+                ]
+            },
+            {
+                "word": "by",
+                "start_idx": 115,
+                "end_idx": 117,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "comparitively",
+                "start_idx": 186,
+                "end_idx": 199,
+                "error": "in a relative manner; by comparison to something else",
+                "error_des": "",
+                "suggetions": [
+                    "comparatively"
+                ]
+            },
+            {
+                "word": "on these subjects more",
+                "start_idx": 268,
+                "end_idx": 290,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "more on these subjects"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 717,
+                "end_idx": 718,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "train",
+                "start_idx": 737,
+                "end_idx": 742,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a train"
+                ]
+            },
+            {
+                "word": "alot",
+                "start_idx": 814,
+                "end_idx": 818,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "Qaid",
+                "start_idx": 940,
+                "end_idx": 944,
+                "error": "one of four children born at the same time from the same pregnancy",
+                "error_des": "",
+                "suggetions": [
+                    "quad",
+                    "Kid",
+                    "cod"
+                ]
+            },
+            {
+                "word": "Hisotry books",
+                "start_idx": 1022,
+                "end_idx": 1035,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the history books",
+                    "history books"
+                ]
+            },
+            {
+                "word": "long time",
+                "start_idx": 1420,
+                "end_idx": 1429,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a long time"
+                ]
+            },
+            {
+                "word": "people but",
+                "start_idx": 1508,
+                "end_idx": 1518,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "people, but"
+                ]
+            },
+            {
+                "word": "student",
+                "start_idx": 1548,
+                "end_idx": 1555,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "students",
+                    "the student"
+                ]
+            },
+            {
+                "word": "technology's",
+                "start_idx": 1616,
+                "end_idx": 1628,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "technology"
+                ]
+            },
+            {
+                "word": "Hisotry",
+                "start_idx": 1804,
+                "end_idx": 1811,
+                "error": "the aggregate of past events",
+                "error_des": "",
+                "suggetions": [
+                    "history"
+                ]
+            },
+            {
+                "word": "persumed",
+                "start_idx": 1815,
+                "end_idx": 1823,
+                "error": "take to be the case or to be true; accept without verification or proof",
+                "error_des": "",
+                "suggetions": [
+                    "presumed"
+                ]
+            },
+            {
+                "word": "past but",
+                "start_idx": 1875,
+                "end_idx": 1883,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the past, but",
+                    "the past but"
+                ]
+            },
+            {
+                "word": "can not",
+                "start_idx": 1922,
+                "end_idx": 1929,
+                "error": "can not",
+                "error_des": "",
+                "suggetions": [
+                    "cannot"
+                ]
+            },
+            {
+                "word": "beleive",
+                "start_idx": 2031,
+                "end_idx": 2038,
+                "error": "accept as true; take to be true",
+                "error_des": "",
+                "suggetions": [
+                    "believe"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 333,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "thus",
+            "also",
+            "such",
+            "however",
+            "therefore",
+            "that is",
+            "on the other hand",
+            "for instance",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "history",
+                "occurrences": []
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-19T08:54:29.561Z"
+}

@@ -1,0 +1,196 @@
+{
+    "url": "https://writing9.com/text/5d1f381ca0d8370017b5dc18",
+    "file": [
+        "data",
+        "65",
+        "5d1f381ca0d8370017b5dc18.json"
+    ],
+    "topics": [
+        "countries",
+        "people",
+        "sum",
+        "money",
+        "railway",
+        "lines",
+        "movement",
+        "cities",
+        "transport"
+    ],
+    "question": "In a number of countries some people think it is necessary to spend large sum of money to construct new railway lines for very fast movement between cities. Others believe the money should be spent on improving existing public transport. \nDiscuss both these views and give your opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "These days, people have taken keen interest in what area authorities channel huge funds to. Although certain individuals opine that it should be used to construct new railway transport system for trains, which moves with great speed in between cities, others belong to the school of thought that it ought to be expended on overhauling existing public means of transportation. This essay will discuss both viewpoints in order to arrive at a conclusion.",
+        "On the one hand, it is reasoned that more revenue should be directed to building  modern railway tracks because it is time saving. In other words, trains move with  high level of speed, which shortens the time passengers spend on the road. Also, there are no stopovers in between its destinations but only at major stations. A case in point is a 2015 survey conducted by the ministry of of transport in China, which  discovered that trains can travel over a long distance at very short time as compared to buses. Thus, supporters of this view have reason to claim that it should be given priority in terms of budget allocation by the government",
+        "On the other hand, others are of the opinion that old public transport be refurbished because it will decongest traffic. This is due to the fact that, buses will be considered safe resulting in more private cars being taken off the road, for people would take preference to commuting in them. In addition, traffic bottleneck will decrease as roads are would be more accessible. America for instance, have been reported to experience an increased number of its citizens travelling by public transport as a result of its regular maintenance by the authorities. Hence, it is for this reason proponents of this view base their argument.",
+        "To sum up, while some argue that huge amount of money be spent erecting railway lines because it saves time, others claim it should be used to refurbish public transport system that are in existence as it will take personal vehicles off the highway. I am of the opinion that none ought to be given preference over the other because they are both essential."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "have taken",
+                "start_idx": 18,
+                "end_idx": 28,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "take",
+                    "are taking"
+                ]
+            },
+            {
+                "word": "keen interest",
+                "start_idx": 29,
+                "end_idx": 42,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a keen interest"
+                ]
+            },
+            {
+                "word": "new railway ",
+                "start_idx": 162,
+                "end_idx": 174,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a new railway transport system",
+                    "new railway transport systems",
+                    "the new railway transport system"
+                ]
+            },
+            {
+                "word": "destinations but",
+                "start_idx": 735,
+                "end_idx": 751,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "destinations, but"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 1334,
+                "end_idx": 1337,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "America ",
+                "start_idx": 1474,
+                "end_idx": 1482,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "America, for"
+                ]
+            }
+        ]
+    },
+    "submitter": "How",
+    "num_words": 356,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "thus",
+            "also",
+            "although",
+            "as a result",
+            "hence",
+            "in addition",
+            "on the other hand",
+            "for instance",
+            "in other words",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "transport",
+                "occurrences": [
+                    {
+                        "start_idx": 175,
+                        "end_idx": 184
+                    },
+                    {
+                        "start_idx": 360,
+                        "end_idx": 369
+                    },
+                    {
+                        "start_idx": 842,
+                        "end_idx": 851
+                    },
+                    {
+                        "start_idx": 1158,
+                        "end_idx": 1167
+                    },
+                    {
+                        "start_idx": 1587,
+                        "end_idx": 1596
+                    },
+                    {
+                        "start_idx": 1890,
+                        "end_idx": 1899
+                    }
+                ]
+            },
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 570,
+                        "end_idx": 574
+                    },
+                    {
+                        "start_idx": 657,
+                        "end_idx": 661
+                    },
+                    {
+                        "start_idx": 938,
+                        "end_idx": 942
+                    },
+                    {
+                        "start_idx": 1833,
+                        "end_idx": 1837
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-05T11:44:28.000Z"
+}

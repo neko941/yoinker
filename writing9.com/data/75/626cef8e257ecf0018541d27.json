@@ -1,0 +1,119 @@
+{
+    "url": "https://writing9.com/text/626cef8e257ecf0018541d27-some-people-think-it-is-more-important-to-spent-money",
+    "file": [
+        "data",
+        "75",
+        "626cef8e257ecf0018541d27.json"
+    ],
+    "topics": [
+        "people",
+        "money",
+        "roads",
+        "motoways",
+        "transport",
+        "system"
+    ],
+    "question": "Some people think it is more important to spent money on roads and motoways than public transport system. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Few individuals opine that it is extremely paramount to invest wherewithal in the construction of highways vis-a-vis the public transportation system. I partially agree with this notion. My inclination is justified further with reasons and examples.",
+        "On the one hand, it is crucial to spend money on building new roads. The foremost argument to justify my stand is it saves human lives. To elaborate on this, it has been observed that in many areas across the cities number of road traffic accidents has increased. It is mainly due to a less efficient road system. Also, in the monsoon ,season the quality of way  significantly declines, which creates an imbalance while driving and leads to a collision between vehicles. Thus, it is an imperative task for local government to maintain the quality of roads. For an instance, according to the news report of TOI, in  Gujarat ,state the rates of accidents reduced drastically after authorities found the reconstruction of ways in large cities. Moreover, it saves precious time. This means, in an emergency situation the taxis and private vehicles can easily access  different routes in order to reach easily at the desired destination. This will only be possible if councils invest finance for constructing pathways.",
+        "On the other hand, some others claim that money ought to spend on public transport in lieu of roads. This is because, it will not only combat  air pollution but also mitigate the detrimental effects on human beings. This means, the innovation of subways and underground metros influence commuters to use them for the daily journeys. It may help to a reduction of traffic congestion which is a pervasive issue in recent days. It is commonly seen that in many cities authorities provide electric trams in order to save the environment from the emission of toxic fumes. This can lead to minimising the spreading of respiratory illness among the people. For example, in a developed nation, the USA, there is an innovation of cheaper electric trams across the nation contribute to the reduction of contamination of air which is the main cause of decline the cases of COPD(Chronic Obstructive Pulmonary Diseases).",
+        "In conclusion, notwithstanding it is crucial to passing funds for roads as it will help in the reduction of road traffic accidents, the advantages of public transport development such as ameliorating impacts of environmental pollution can not be overlooked."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 1380,
+                "end_idx": 1381,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction because. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 1576,
+                "end_idx": 1579,
+                "error": "Change the word",
+                "error_des": "The word the may be incorrect in this context. Consider changing it.",
+                "suggetions": [
+                    "their"
+                ]
+            }
+        ]
+    },
+    "submitter": "dipendharmani786",
+    "num_words": 394,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "further",
+            "thus",
+            "also",
+            "such",
+            "on the other hand",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "roads",
+                "occurrences": [
+                    {
+                        "start_idx": 312,
+                        "end_idx": 317
+                    },
+                    {
+                        "start_idx": 800,
+                        "end_idx": 805
+                    },
+                    {
+                        "start_idx": 1358,
+                        "end_idx": 1363
+                    },
+                    {
+                        "start_idx": 2238,
+                        "end_idx": 2243
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-04-30T08:18:47.672Z"
+}

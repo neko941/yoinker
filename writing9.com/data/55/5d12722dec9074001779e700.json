@@ -1,0 +1,133 @@
+{
+    "url": "https://writing9.com/text/5d12722dec9074001779e700",
+    "file": [
+        "data",
+        "55",
+        "5d12722dec9074001779e700.json"
+    ],
+    "topics": [
+        "food",
+        "change",
+        "people"
+    ],
+    "question": "Nowadays food has become easier to prepare. Has this change improved the way people live?\nGive reasons for your answer using your own ideas and experience.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the last few years, cooking has been completely transformed. People of the previous generation used to spend a lot of time kitchen, whereas modern families are using a variety of methods to make the process easier. I believe it is an exciting development and the one that has made our lives better.",
+        "Nowadays, most ingredients are easily available in the market. Such varieties were previously difficult to prepare and used to take longer durations. The off-the-shelf products have led to time savings for a majority of people, who can now spend the time in their own areas of interest. For example, preparing Indian spices was one of the most effort-intensive activity a homemaker can take up. But with the modern methods, it has become as easy as buying a toothpaste from a supermarket. Alternatively, if such mixtures are curries are to be made from scratch, then it will result in many days of planning and labour, thereby consuming most of the leisure time a person may have.",
+        "Along with that, techniques like frozen-food have saved time and resources by increasing shelf-life of various food products. This has also resulted in less frequent trips, for an individual, to the grocery store. As a consequence, people may feel less burdened and frustrated, which improves their quality of life. Furthermore, the frozen-food makes cooking an effortless endeavour, as the food only needs to be warmed, to make it edible. An excellent example of this is an Indian delicacy called \u2018Daal Makhani\u2019. A dish which normally needs hours to prepare can be served in few minutes by the virtue of frozen preparations.",
+        "To summerize, technology, as well as innovation in food processing, has made cooking considerably less taxing. This led to better utilization of the time, thereby allowing people to pursue what they enjoy. Such a development has definitely improved our quality of life."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "People",
+                "start_idx": 63,
+                "end_idx": 69,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "The people"
+                ]
+            },
+            {
+                "word": "time kitchen",
+                "start_idx": 120,
+                "end_idx": 132,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "time, kitchen"
+                ]
+            },
+            {
+                "word": "burdened and",
+                "start_idx": 1235,
+                "end_idx": 1247,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "burdened, and"
+                ]
+            }
+        ]
+    },
+    "submitter": "arpiit_gautam",
+    "num_words": 311,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "also",
+            "such",
+            "furthermore",
+            "then",
+            "last",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 121,
+                        "end_idx": 125
+                    },
+                    {
+                        "start_idx": 491,
+                        "end_idx": 495
+                    },
+                    {
+                        "start_idx": 552,
+                        "end_idx": 556
+                    },
+                    {
+                        "start_idx": 959,
+                        "end_idx": 963
+                    },
+                    {
+                        "start_idx": 1039,
+                        "end_idx": 1043
+                    },
+                    {
+                        "start_idx": 1758,
+                        "end_idx": 1762
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-25T19:12:45.000Z"
+}

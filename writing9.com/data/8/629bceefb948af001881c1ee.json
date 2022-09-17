@@ -1,0 +1,112 @@
+{
+    "url": "https://writing9.com/text/629bceefb948af001881c1ee-do-you-agree-or-disagree-with-the-following-statement-high",
+    "file": [
+        "data",
+        "8",
+        "629bceefb948af001881c1ee.json"
+    ],
+    "topics": [
+        "schools",
+        "students",
+        "study",
+        "courses",
+        "support"
+    ],
+    "question": "Do you agree or disagree with the following statement? High schools should allow students to study the courses that students want to study. Use specific reasons and examples to support your opinion.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The question of whether secondary schools should allow students to take the courses a student chooses to take is debatable. Some people think that a high school scientist should have the right to take a course he likes. Others, however, disagree, saying that teens can't be completely sure what they like and what they need to know at their age. In this , essay I will analyze these points and present my views on behalf of those who believe that some programs should be considered by students.",
+        "On the one hand, the choice of study can bring many advantages. First, the student can be better prepared for the profession he likes because he can spend more time learning what interests him. Second, they will learn more enthusiastically because they learn what they like.",
+        "On the other hand, teenagers often cannot fully understand what they want to do in the future. So, by giving them the opportunity to choose, they can choose classes that are easy to learn and don't take much time to learn. As a result, many students may not be ready after graduation to enrol in university and pursue a career. I personally think that some series like math, literature, and writing English should be required to study with students. This will help them gain more knowledge and experience, develop their ability to think logically, improve their writing skills, etc. In this way, students will be better prepared for the real world and independent living.",
+        "In short, I think high school should have compulsory subjects because it is important for undergraduates to have a good foundation for future life. Compulsory courses tend to be more complex but offer them the opportunity to broaden their range of interests and help develop very important qualities such as self-confidence, perseverance, patience and more."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "essay",
+                "start_idx": 355,
+                "end_idx": 360,
+                "error": "Add an article",
+                "error_des": "The noun phrase essay seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an essay",
+                    "the essay"
+                ]
+            }
+        ]
+    },
+    "submitter": "maihegazy2017",
+    "num_words": 302,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "such",
+            "first",
+            "as a result",
+            "however",
+            "on the other hand",
+            "second",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 55,
+                        "end_idx": 63
+                    },
+                    {
+                        "start_idx": 485,
+                        "end_idx": 493
+                    },
+                    {
+                        "start_idx": 1011,
+                        "end_idx": 1019
+                    },
+                    {
+                        "start_idx": 1210,
+                        "end_idx": 1218
+                    },
+                    {
+                        "start_idx": 1366,
+                        "end_idx": 1374
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-04T21:36:31.780Z"
+}

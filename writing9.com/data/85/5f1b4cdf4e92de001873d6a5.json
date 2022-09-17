@@ -1,0 +1,162 @@
+{
+    "url": "https://writing9.com/text/5f1b4cdf4e92de001873d6a5",
+    "file": [
+        "data",
+        "85",
+        "5f1b4cdf4e92de001873d6a5.json"
+    ],
+    "topics": [
+        "people",
+        "time",
+        "work",
+        "home"
+    ],
+    "question": "These days people spend more and more time at work and less time at home.What are the advantages and disadvantages of this?",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Spending more time at the workplace is becoming increasingly popular nowadays. This development is beneficial to people since it allows them to gain more experience and excel at work, yet there are some drawbacks to be taken into account.",
+        "On the one hand, working for long hours is advantageous to people for some reasons. Firstly, it provides a great opportunity for them to push themselves to their limits and learn more valuable knowledge. This is especially useful to fresh graduates who are willing to do anything it takes to gain experience. Secondly, staying in the workplace for prolonged periods means employees are highly appreciated and valued as they are given a lot of work to do. As a result, this may increase their chances of getting a promotion and, therefore, earn more money. For instance, senior developers in IT companies have more responsibilities at work and, consequently, spend more time at the office.",
+        "On the other hand, spending more time at work has numerous disadvantages. The work-life balance of people who work long hours is destroyed and they usually suffer from high-stress levels. As a consequence, they struggle with mental health issues such as depression, anxiety, and insomnia because individuals feel overwhelmed by the amount of tasks they must finish. This can be exemplified by employees who work ten hours a day and arrive home exhausted and go straight to bed since they have no time to relax or take care of themselves. Another issue is that most jobs are inactive nowadays and involve people sitting in offices, which means workers end up leading sedentary lifestyles. This is detrimental to their health, as it causes obesity, diabetes, and cardiovascular disease.",
+        "In conclusion, working long hours has some benefits, yet it also has negative implications for people as it affects their mental and physical health."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "hours has",
+                "start_idx": 1740,
+                "end_idx": 1749,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "hours, has"
+                ]
+            }
+        ]
+    },
+    "submitter": "Maria .A",
+    "num_words": 304,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "secondly",
+            "also",
+            "such",
+            "as a result",
+            "firstly",
+            "therefore",
+            "consequently",
+            "on the other hand",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 26,
+                        "end_idx": 30
+                    },
+                    {
+                        "start_idx": 178,
+                        "end_idx": 182
+                    },
+                    {
+                        "start_idx": 256,
+                        "end_idx": 260
+                    },
+                    {
+                        "start_idx": 573,
+                        "end_idx": 577
+                    },
+                    {
+                        "start_idx": 682,
+                        "end_idx": 686
+                    },
+                    {
+                        "start_idx": 873,
+                        "end_idx": 877
+                    },
+                    {
+                        "start_idx": 969,
+                        "end_idx": 973
+                    },
+                    {
+                        "start_idx": 1006,
+                        "end_idx": 1010
+                    },
+                    {
+                        "start_idx": 1038,
+                        "end_idx": 1042
+                    },
+                    {
+                        "start_idx": 1335,
+                        "end_idx": 1339
+                    },
+                    {
+                        "start_idx": 1571,
+                        "end_idx": 1575
+                    },
+                    {
+                        "start_idx": 1728,
+                        "end_idx": 1732
+                    }
+                ]
+            },
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 14,
+                        "end_idx": 18
+                    },
+                    {
+                        "start_idx": 908,
+                        "end_idx": 912
+                    },
+                    {
+                        "start_idx": 961,
+                        "end_idx": 965
+                    },
+                    {
+                        "start_idx": 1424,
+                        "end_idx": 1428
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-24T21:16:40.468Z"
+}

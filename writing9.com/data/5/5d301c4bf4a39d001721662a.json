@@ -1,0 +1,166 @@
+{
+    "url": "https://writing9.com/text/5d301c4bf4a39d001721662a",
+    "file": [
+        "data",
+        "5",
+        "5d301c4bf4a39d001721662a.json"
+    ],
+    "topics": [
+        "people",
+        "quantities",
+        "waste",
+        "households",
+        "household",
+        "term"
+    ],
+    "question": "Many people today are worried about the large quantities of waste produced by ordinary\nhouseholds. What problems are caused by household waste, and what solutions may be possible in\nboth the short and the long term?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is inevitable that modern households will produce some waste, but the increasing volumes of refuse over recent years present a challenge for us all. There seem to be two main problems stemming from this situation, and also two steps we could take to address it fully.",
+        "Possible the major problem is the huge question of how to collect, process and dispose of this material. Household waste comprises elements ranging from foodstuffs to metal, paper and plastics, and local authorities sometimes struggle to handle such a diverse mix of material. The historical solution has been incineration or landfill, but the problems of pollution and long-term ground contamination which arise have led to widespread efforts to recycle at least some of the waste. This leads us to the second concern, which is the high cost of disposing of refuse in an ecologically sound",
+        "manner. We would all wish as much as possible of our rubbish to be recycled (for example by paper pulping or reusing plastics) but the expense involved must be met by higher taxes and charges for households.",
+        "Regarding possible solutions, probably the most immediate short-term solution would be to divert far more government funds into waste processing and recycling facilities at a local level. This would reduce the environmental impact of the waste by reducing pollution, and also lower our demand for raw materials, as more recycled products would consequently be produced. A further longer-term solution might be to raise the level of public understanding for the need to consume less material in households, especially in terms of packaging and wasted food. A campaign of education along these lines would gradually lessen the volume of waste, especially if reinforced by incentives",
+        "for consuming less and penalties for excessive waste, as we see being trialled in the UK at present.",
+        "To conclude, the main problems are both environmental and financial. The possible solutions involve more immediate investment in facilities, and also encouraging long-term changes in household behaviour."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "Possible",
+                "start_idx": 270,
+                "end_idx": 278,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Possibly"
+                ]
+            },
+            {
+                "word": "to metal, paper",
+                "start_idx": 434,
+                "end_idx": 449,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    ", metal, paper"
+                ]
+            },
+            {
+                "word": "manner",
+                "start_idx": 861,
+                "end_idx": 867,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Manner"
+                ]
+            },
+            {
+                "word": "longer",
+                "start_idx": 1449,
+                "end_idx": 1455,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "long"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 1750,
+                "end_idx": 1753,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "For"
+                ]
+            }
+        ]
+    },
+    "submitter": "khaldoun198",
+    "num_words": 328,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "further",
+            "also",
+            "such",
+            "consequently",
+            "second",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "waste",
+                "occurrences": [
+                    {
+                        "start_idx": 58,
+                        "end_idx": 63
+                    },
+                    {
+                        "start_idx": 386,
+                        "end_idx": 391
+                    },
+                    {
+                        "start_idx": 747,
+                        "end_idx": 752
+                    },
+                    {
+                        "start_idx": 1198,
+                        "end_idx": 1203
+                    },
+                    {
+                        "start_idx": 1308,
+                        "end_idx": 1313
+                    },
+                    {
+                        "start_idx": 1613,
+                        "end_idx": 1618
+                    },
+                    {
+                        "start_idx": 1705,
+                        "end_idx": 1710
+                    },
+                    {
+                        "start_idx": 1798,
+                        "end_idx": 1803
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-18T07:14:19.000Z"
+}

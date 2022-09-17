@@ -1,0 +1,269 @@
+{
+    "url": "https://writing9.com/text/5d516a73296f170017397cd8",
+    "file": [
+        "data",
+        "5",
+        "5d516a73296f170017397cd8.json"
+    ],
+    "topics": [
+        "places",
+        "homes",
+        "space",
+        "countryside",
+        "people"
+    ],
+    "question": "In many places, new homes are needed, but the only space available for building them is the countryside. Some people believe it is more important to protect the countryside and not build new homes there.\nWhat is your opinion on this?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is indeed true that rising population in numerous areas has made it necessary to expand the housing to countryside which is still untouched. Though it is opinion of some that any such move is detrimental to countryside and should be averted. It is my opinion that until rise in population goes unchecked, concentration of it in select few cities overburdens the resources there and expanding the housing is unavoidable.",
+        "The infrastructure in urban cities is crumbling due to the constant rise in humans living there. Some cities were established long before due to their geographical advantage or availability of resources nearby but as time has gone by, these cities need expansion as the population have surpassed the amenities established for it. For example, as it is an urban center which provides ample growth opportunities, Mumbai has been seeing influx of people for several decades now, due to which there is always overcrowding in trains, home prices have skyrocketed and it has been a challenge to maintain the infrastructure.",
+        "Hence, it is imperative that the boundaries of these cities are widened and people are housed in the countryside as well. As there is ample space present there and it would be beneficial that the housing space be broadened so as to lift the burden on resources of a limited space. It is understandable that some believe that by doing this we would destroy the natural habitat and soon these places would also be polluted but unfortunately, there is no other short term solution available. Therefore, there might be long term solutions present but until these are implemented expansion is inevitable.",
+        "So in conclusion, there may be valid concerns about the expansion of housing into the countryside but until any long term plan is initiated it is incumbent upon us to ease the burden on certain cities and broaden the living space so as to better utilize the resources available to us."
+    ],
+    "errors": {
+        "num_error": "15",
+        "error_list": [
+            {
+                "word": "opinion",
+                "start_idx": 156,
+                "end_idx": 163,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the opinion",
+                    "an opinion"
+                ]
+            },
+            {
+                "word": "countryside",
+                "start_idx": 209,
+                "end_idx": 220,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the countryside"
+                ]
+            },
+            {
+                "word": "rise",
+                "start_idx": 272,
+                "end_idx": 276,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a rise",
+                    "the rise"
+                ]
+            },
+            {
+                "word": "population",
+                "start_idx": 280,
+                "end_idx": 290,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the population"
+                ]
+            },
+            {
+                "word": "concentration",
+                "start_idx": 307,
+                "end_idx": 320,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the concentration"
+                ]
+            },
+            {
+                "word": "select few cities",
+                "start_idx": 330,
+                "end_idx": 347,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a select few cities"
+                ]
+            },
+            {
+                "word": "nearby but",
+                "start_idx": 625,
+                "end_idx": 635,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "nearby, but"
+                ]
+            },
+            {
+                "word": "center",
+                "start_idx": 783,
+                "end_idx": 789,
+                "error": "an area that is approximately central within some larger region",
+                "error_des": "",
+                "suggetions": [
+                    "centre"
+                ]
+            },
+            {
+                "word": "influx",
+                "start_idx": 856,
+                "end_idx": 862,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an influx"
+                ]
+            },
+            {
+                "word": "overcrowding",
+                "start_idx": 927,
+                "end_idx": 939,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "overcrowded"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 940,
+                "end_idx": 942,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "resources",
+                "start_idx": 1291,
+                "end_idx": 1300,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the resources"
+                ]
+            },
+            {
+                "word": "polluted but",
+                "start_idx": 1452,
+                "end_idx": 1464,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "polluted, but"
+                ]
+            },
+            {
+                "word": "present but",
+                "start_idx": 1575,
+                "end_idx": 1586,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "present, but"
+                ]
+            },
+            {
+                "word": "countryside but",
+                "start_idx": 1726,
+                "end_idx": 1741,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "countryside, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "Raj",
+    "num_words": 321,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "also",
+            "such",
+            "hence",
+            "therefore",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "countryside",
+                "occurrences": [
+                    {
+                        "start_idx": 106,
+                        "end_idx": 117
+                    },
+                    {
+                        "start_idx": 210,
+                        "end_idx": 221
+                    },
+                    {
+                        "start_idx": 1142,
+                        "end_idx": 1153
+                    },
+                    {
+                        "start_idx": 1727,
+                        "end_idx": 1738
+                    }
+                ]
+            },
+            {
+                "word": "space",
+                "occurrences": [
+                    {
+                        "start_idx": 1181,
+                        "end_idx": 1186
+                    },
+                    {
+                        "start_idx": 1245,
+                        "end_idx": 1250
+                    },
+                    {
+                        "start_idx": 1315,
+                        "end_idx": 1320
+                    },
+                    {
+                        "start_idx": 1865,
+                        "end_idx": 1870
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-12T13:32:35.426Z"
+}

@@ -1,0 +1,427 @@
+{
+    "url": "https://writing9.com/text/62cf7ca68ee1ab00180e2727-do-you-think-traditional-games-can-better-develop-childrens",
+    "file": [
+        "data",
+        "55",
+        "62cf7ca68ee1ab00180e2727.json"
+    ],
+    "topics": [
+        "games",
+        "children",
+        "capabilities"
+    ],
+    "question": "Do you think  traditional games can better develop children's capabilities than modern games do?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Tremendous online games are available for kids and parents, meanwhile it is a fierce competition for game developers. Therefore, the companies have to design more interesting games to catch their potential customers and use their products to persuade the parents that kids can develop their capabilities from modern games rather than traditional ones.",
+        "We can find VR technology applying in everywhere, especially in the game industry. Many developers create a fabulous world to help kids learn new languages, coding, and learning different cultures . For instance, in a VR game which design in English, users have to read the tasks and manipulate the role in English. Moreover, some time children need to know how to code. It is an effective way for kids from other countries to learn English and skills better. Furthermore, if kids want to chat with other users, they have to speak English and it can help them to keep motivated for learning languages. We cannot deny that modern games are attracting kids \u2018attention, instead it is useful for kid to learn other cultures and skills.",
+        "Compare to modern games, traditional games require people playing physically and generally it will be limited by time and places. In the past, kids usually play with their neighbors or school mates after class. Playing on the playground and playing ball games were popular at that time. However, it mostly develops kids physically and cannot provide them a more-perspective world in which people are required various abilities, such as: languages, coding, handling transcultural issues.",
+        "In conclusion, we are living at advanced age where people are surrounded by the high-tech devices and appliances. Those modern games paly an important role to enable kid to learn through games."
+    ],
+    "errors": {
+        "num_error": "27",
+        "error_list": [
+            {
+                "word": "meanwhile",
+                "start_idx": 59,
+                "end_idx": 68,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase meanwhile. Consider adding a comma.",
+                "suggetions": [
+                    ",meanwhile"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 75,
+                "end_idx": 77,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun competition in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "in ",
+                "start_idx": 386,
+                "end_idx": 389,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "coding",
+                "start_idx": 508,
+                "end_idx": 514,
+                "error": "Replace the word",
+                "error_des": "The word coding doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "code"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 515,
+                "end_idx": 516,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound predicate. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "learning",
+                "start_idx": 520,
+                "end_idx": 528,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb learning. Consider changing it.",
+                "suggetions": [
+                    "learn"
+                ]
+            },
+            {
+                "word": "which ",
+                "start_idx": 577,
+                "end_idx": 583,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "design",
+                "start_idx": 583,
+                "end_idx": 589,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb design. Consider changing it.",
+                "suggetions": [
+                    "designed"
+                ]
+            },
+            {
+                "word": "some time",
+                "start_idx": 677,
+                "end_idx": 686,
+                "error": "Replace the word",
+                "error_des": "It appears that some time is used incorrectly. Review the following notes to determine the appropriate usage for your context.",
+                "suggetions": [
+                    "sometimes"
+                ]
+            },
+            {
+                "word": "instead",
+                "start_idx": 1018,
+                "end_idx": 1025,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase instead. Consider adding a comma.",
+                "suggetions": [
+                    ",instead"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1043,
+                "end_idx": 1043,
+                "error": "Add an article",
+                "error_des": "The noun phrase kid seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a kid",
+                    "the kid"
+                ]
+            },
+            {
+                "word": "kid",
+                "start_idx": 1043,
+                "end_idx": 1046,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that kid may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "kids"
+                ]
+            },
+            {
+                "word": "playing",
+                "start_idx": 1141,
+                "end_idx": 1148,
+                "error": "Change the verb form",
+                "error_des": "Playing doesn\u2019t seem to work here.",
+                "suggetions": [
+                    "to play"
+                ]
+            },
+            {
+                "word": "generally",
+                "start_idx": 1164,
+                "end_idx": 1173,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase generally. Consider adding a comma.",
+                "suggetions": [
+                    ",generally"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 1174,
+                "end_idx": 1176,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "they"
+                ]
+            },
+            {
+                "word": "places",
+                "start_idx": 1205,
+                "end_idx": 1211,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that places may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "place"
+                ]
+            },
+            {
+                "word": "neighbors",
+                "start_idx": 1255,
+                "end_idx": 1264,
+                "error": "Change the spelling",
+                "error_des": "The spelling of neighbors is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "neighbours"
+                ]
+            },
+            {
+                "word": "school mates",
+                "start_idx": 1268,
+                "end_idx": 1280,
+                "error": "Correct your spelling",
+                "error_des": "The word school mates seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "schoolmates"
+                ]
+            },
+            {
+                "word": " a ",
+                "start_idx": 1438,
+                "end_idx": 1441,
+                "error": "Add the preposition",
+                "error_des": "It appears that you are missing a preposition with the verb provide. Consider adding the preposition.",
+                "suggetions": [
+                    "with  a"
+                ]
+            },
+            {
+                "word": ":",
+                "start_idx": 1519,
+                "end_idx": 1520,
+                "error": "Remove the comma",
+                "error_des": "It appears that the comma after such as is unnecessary. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "handling",
+                "start_idx": 1539,
+                "end_idx": 1547,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and handling"
+                ]
+            },
+            {
+                "word": "advanced",
+                "start_idx": 1602,
+                "end_idx": 1610,
+                "error": "Add an article",
+                "error_des": "The noun phrase advanced age seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an advanced"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1646,
+                "end_idx": 1650,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1703,
+                "end_idx": 1703,
+                "error": "Correct your spelling",
+                "error_des": "The word paly doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "play"
+                ]
+            },
+            {
+                "word": "paly",
+                "start_idx": 1703,
+                "end_idx": 1707,
+                "error": "Correct your spelling",
+                "error_des": "The word paly doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "play"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1736,
+                "end_idx": 1736,
+                "error": "Add an article",
+                "error_des": "The noun phrase kid seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the kid",
+                    "a kid"
+                ]
+            },
+            {
+                "word": "kid",
+                "start_idx": 1736,
+                "end_idx": 1739,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that kid may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "kids"
+                ]
+            }
+        ]
+    },
+    "submitter": "1967388549",
+    "num_words": 285,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "such",
+            "furthermore",
+            "however",
+            "therefore",
+            "for instance",
+            "moreover"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "kids",
+                "occurrences": [
+                    {
+                        "start_idx": 42,
+                        "end_idx": 46
+                    },
+                    {
+                        "start_idx": 268,
+                        "end_idx": 272
+                    },
+                    {
+                        "start_idx": 483,
+                        "end_idx": 487
+                    },
+                    {
+                        "start_idx": 750,
+                        "end_idx": 754
+                    },
+                    {
+                        "start_idx": 828,
+                        "end_idx": 832
+                    },
+                    {
+                        "start_idx": 1002,
+                        "end_idx": 1006
+                    },
+                    {
+                        "start_idx": 1227,
+                        "end_idx": 1231
+                    },
+                    {
+                        "start_idx": 1399,
+                        "end_idx": 1403
+                    }
+                ]
+            },
+            {
+                "word": "games",
+                "occurrences": [
+                    {
+                        "start_idx": 18,
+                        "end_idx": 23
+                    },
+                    {
+                        "start_idx": 175,
+                        "end_idx": 180
+                    },
+                    {
+                        "start_idx": 316,
+                        "end_idx": 321
+                    },
+                    {
+                        "start_idx": 981,
+                        "end_idx": 986
+                    },
+                    {
+                        "start_idx": 1102,
+                        "end_idx": 1107
+                    },
+                    {
+                        "start_idx": 1121,
+                        "end_idx": 1126
+                    },
+                    {
+                        "start_idx": 1338,
+                        "end_idx": 1343
+                    },
+                    {
+                        "start_idx": 1698,
+                        "end_idx": 1703
+                    },
+                    {
+                        "start_idx": 1758,
+                        "end_idx": 1763
+                    }
+                ]
+            },
+            {
+                "word": "english",
+                "occurrences": []
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-14T03:12:03.692Z"
+}

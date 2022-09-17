@@ -1,0 +1,105 @@
+{
+    "url": "https://writing9.com/text/62c677998ee1ab00180e18d2-the-health-benefits-of-physical-exercise-are-well-known-despite",
+    "file": [
+        "data",
+        "85",
+        "62c677998ee1ab00180e18d2.json"
+    ],
+    "topics": [
+        "health",
+        "exercise",
+        "people"
+    ],
+    "question": "The health benefits of physical exercise are well known. Despite this, a lot of people do not exercise regularly .\nWhat are the reasons for this? What could be done to encourage them to exercise more often?",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Fitness has been proven to have provided several advantages to one's well-being. Although there are proven benefits to this, there are still many people who choose not to do any exercises. This essay aims to discuss what are the causes of this and what are the solutions to motivate them to do so.",
+        "There are two main causes for this issue. One of them is people may have a too-busy schedule and are preoccupied with a lot of things. For ,example working parents who have to deal with work during the day and after work has to complete several family household responsibilities like cooking meals, teaching their kids and cleaning their home. At night, they will opt to sleep rather than do any fitness activities since they will be very tired and drained of energy. Another cause for this is lacking the interest to do such exercises. Why do I say this? Mainly because there is no case for change for they feel that they are content with how they look physically and they don't have any illness for now. Furthermore, they may be more interested to binge-watch Netflix or YouTube and playing video games. How do we resolve this?",
+        "The solution to this predicament is to develop  good prioritization and time management skills and increase their awareness of the consequences of not exercising. People seem to always say that they have no time, hence to solve this is to just simply make time for it. If health is as important as their family and work, then they will be able to allow space in their schedule. Moreover, improving their knowledge of the negative impacts of not doing any sports by reading articles on the internet and watching YouTube videos will be helpful to see the potential risks to their own health.",
+        "In conclusion, the main causes of this problem are not enough time and lack of interest to do any physical activities. To solve this, they can allot a specific timing in their hectic schedules and enhance their understanding of the negative outcomes of this matter."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "has",
+                "start_idx": 518,
+                "end_idx": 521,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb has does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "have"
+                ]
+            }
+        ]
+    },
+    "submitter": "lathem",
+    "num_words": 347,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "such",
+            "furthermore",
+            "although",
+            "then",
+            "hence",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 1200,
+                        "end_idx": 1204
+                    },
+                    {
+                        "start_idx": 1335,
+                        "end_idx": 1339
+                    },
+                    {
+                        "start_idx": 1384,
+                        "end_idx": 1388
+                    },
+                    {
+                        "start_idx": 1780,
+                        "end_idx": 1784
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-07T06:27:42.061Z"
+}

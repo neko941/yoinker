@@ -1,0 +1,240 @@
+{
+    "url": "https://writing9.com/text/62ed87d80562ec00182a0f5a-some-parents-buy-their-children-whatever-they-ask-for-and",
+    "file": [
+        "data",
+        "45",
+        "62ed87d80562ec00182a0f5a.json"
+    ],
+    "topics": [
+        "parents",
+        "children",
+        "consequences",
+        "style"
+    ],
+    "question": "Some parents buy their children whatever they ask for, and allow their children to do whatever they want. Is this a good way to raise children? What consequences this style of parenting have on children as they get older?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "SAMPLE ANSWER",
+        "Parenting is an important responsibility that cannot be taken with levity. However, there are diverse approaches to it. Some parents are exponents of the authoritative method while others opt to be permissive. I however advocate for a balanced approach to parenting as I believe the permissive style could have dire consequences as I would be discussing subsequently.\u2705",
+        "Primarily, childhood is the most critical stage where parents can mould children and imbibe values. Additionally, children at this stage are not mature enough to exercise good judgement. Hence, leaving decision making entirely to them could be dangerous. For instance, a toddler who prefers to run independently should not be allowed to do so on a busy road no matter the level of tantrums exhibited to avoid road traffic accident. Although it is also true that children should be allowed to reason and exercise their independence sometimes, this should however be done with caution. Therefore, I really do not subscribe to the permissive approach to raising children.\u2705",
+        "Admittedly, some parents prefer the permissive method. This decision is not without its drawbacks though and one of them is poor self control in the child. As a result, they are unable to delay gratification. These kinds of children are considered 'spoilt' because they always want to have their way and do not fit well in the society. Another long term repercussion is that these children tend to have lower threshold for frustration as adults as they have not developed the resilience required to deal with adversity. Consequently, they buckle under little pressure and may end up with mental health challenges.An instance of this is a patient that was admitted on account of attempted suicide following a break-up with ex-girlfriend. It was reported that he was an only child of aged parents who left no stone unturned to ensure he was always pleased. Evidently, his upbringing did not prepare him for the emotional setback associated with relationship issues which eventually culminated to a mental health challenge.\u2705",
+        "In conclusion, although permissive parenting is preferred by parents who want to please their children always, the balanced approach supersedes it and should be encouraged. Conversely,  permissive parenting must be discouraged because it leads to poor self control in young ones and poorly adjusted adults.\u2705",
+        "@IeltsEmirates"
+    ],
+    "errors": {
+        "num_error": "10",
+        "error_list": [
+            {
+                "word": "",
+                "start_idx": 584,
+                "end_idx": 584,
+                "error": "Add an article",
+                "error_des": "The noun phrase decision seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the decision"
+                ]
+            },
+            {
+                "word": "decision making",
+                "start_idx": 584,
+                "end_idx": 599,
+                "error": "Add a hyphen",
+                "error_des": "It seems that decision making is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "decision-making"
+                ]
+            },
+            {
+                "word": "accident",
+                "start_idx": 804,
+                "end_idx": 812,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that accident may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "accidents"
+                ]
+            },
+            {
+                "word": "self control",
+                "start_idx": 1181,
+                "end_idx": 1193,
+                "error": "Add a hyphen",
+                "error_des": "It appears that self control is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "self-control"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1375,
+                "end_idx": 1379,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "long term",
+                "start_idx": 1396,
+                "end_idx": 1405,
+                "error": "Add a hyphen",
+                "error_des": "It seems that long term is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "long-term"
+                ]
+            },
+            {
+                "word": "lower",
+                "start_idx": 1455,
+                "end_idx": 1460,
+                "error": "Add an article",
+                "error_des": "The noun phrase lower threshold seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a lower"
+                ]
+            },
+            {
+                "word": "ex-girlfriend",
+                "start_idx": 1774,
+                "end_idx": 1787,
+                "error": "Add an article",
+                "error_des": "The noun phrase ex-girlfriend seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an ex-girlfriend"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 2043,
+                "end_idx": 2045,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "self control",
+                "start_idx": 2326,
+                "end_idx": 2338,
+                "error": "Add a hyphen",
+                "error_des": "It appears that self control is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "self-control"
+                ]
+            }
+        ]
+    },
+    "submitter": "elizabethogu20",
+    "num_words": 378,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "also",
+            "although",
+            "as a result",
+            "conversely",
+            "hence",
+            "however",
+            "subsequently",
+            "additionally",
+            "therefore",
+            "consequently",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "parents",
+                "occurrences": [
+                    {
+                        "start_idx": 139,
+                        "end_idx": 146
+                    },
+                    {
+                        "start_idx": 437,
+                        "end_idx": 444
+                    },
+                    {
+                        "start_idx": 1070,
+                        "end_idx": 1077
+                    },
+                    {
+                        "start_idx": 1840,
+                        "end_idx": 1847
+                    },
+                    {
+                        "start_idx": 2136,
+                        "end_idx": 2143
+                    }
+                ]
+            },
+            {
+                "word": "children",
+                "occurrences": [
+                    {
+                        "start_idx": 455,
+                        "end_idx": 463
+                    },
+                    {
+                        "start_idx": 497,
+                        "end_idx": 505
+                    },
+                    {
+                        "start_idx": 845,
+                        "end_idx": 853
+                    },
+                    {
+                        "start_idx": 1042,
+                        "end_idx": 1050
+                    },
+                    {
+                        "start_idx": 1277,
+                        "end_idx": 1285
+                    },
+                    {
+                        "start_idx": 1434,
+                        "end_idx": 1442
+                    },
+                    {
+                        "start_idx": 2169,
+                        "end_idx": 2177
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-05T21:12:58.379Z"
+}

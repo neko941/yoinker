@@ -1,0 +1,180 @@
+{
+    "url": "https://writing9.com/text/5d4266091a6dcf001785d39e",
+    "file": [
+        "data",
+        "65",
+        "5d4266091a6dcf001785d39e.json"
+    ],
+    "topics": [
+        "robots",
+        "jobs",
+        "world"
+    ],
+    "question": "Robots are taking all jobs all around the world. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Artificially intelligent robots are progressively replacing the humans in the workplace. While it is suggested that most of the menial obs will be taken by robots, few works which require human touch cannot be replaced. In my opinion, I consider that there are some jobs will be carried out by people.",
+        "To embark on, robots take majir part of the work that does not require specific and complex human skills. In other words, many companies will turn to artificial intelligence because it is far less expensive as compared to hiring, training and employing a human. The supermarkets in Australia, for example, many cashiers have been replaced by these automated machines that cost less. In addition, they work around the clock and does not require holidays or holiday pay. For these reasons, jobs that can be replaced by robotic station will be replaced.",
+        "On the other hand, there are some human jobs that cannot be replaced by these robots. Put  simply, some work needs 'human touch'. These jobs include medicines, psychology, education and social work where physical interaction is mandatory. For instance, to cure some disease it is needed that diagnosis of disease should be done by human doctor as having similar family. Thus, robots will never be able to achieve social bonding.",
+        "To conclude, most of the human employment will be overtaken by robots. Unskilled labour will eventually be done entirely by artificial machines, however, the job that require human specific skills will always exist. In my opinion, very few human jobs will be safe in increasing artificially intelligent workforce."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "obs",
+                "start_idx": 134,
+                "end_idx": 137,
+                "error": "the principal activity in your life that you do to earn money",
+                "error_des": "",
+                "suggetions": [
+                    "jobs"
+                ]
+            },
+            {
+                "word": "human touch",
+                "start_idx": 187,
+                "end_idx": 198,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the human touch",
+                    "a human touch"
+                ]
+            },
+            {
+                "word": "majir part",
+                "start_idx": 327,
+                "end_idx": 337,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a major part",
+                    "major part",
+                    "the major part"
+                ]
+            },
+            {
+                "word": "robotic station",
+                "start_idx": 818,
+                "end_idx": 833,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a robotic station"
+                ]
+            },
+            {
+                "word": "disease it",
+                "start_idx": 1118,
+                "end_idx": 1128,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "disease, it"
+                ]
+            },
+            {
+                "word": "diagnosis",
+                "start_idx": 1144,
+                "end_idx": 1153,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the diagnosis"
+                ]
+            },
+            {
+                "word": "require",
+                "start_idx": 1448,
+                "end_idx": 1455,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "requires"
+                ]
+            }
+        ]
+    },
+    "submitter": "Rajneet Kaur",
+    "num_words": 260,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the other hand",
+            "for example",
+            "thus",
+            "in addition",
+            "in other words",
+            "for instance",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 78,
+                        "end_idx": 82
+                    },
+                    {
+                        "start_idx": 168,
+                        "end_idx": 172
+                    },
+                    {
+                        "start_idx": 346,
+                        "end_idx": 350
+                    },
+                    {
+                        "start_idx": 703,
+                        "end_idx": 707
+                    },
+                    {
+                        "start_idx": 957,
+                        "end_idx": 961
+                    },
+                    {
+                        "start_idx": 1046,
+                        "end_idx": 1050
+                    },
+                    {
+                        "start_idx": 1585,
+                        "end_idx": 1589
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-01T04:09:45.807Z"
+}

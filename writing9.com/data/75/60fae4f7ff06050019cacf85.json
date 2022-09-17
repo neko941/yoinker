@@ -1,0 +1,142 @@
+{
+    "url": "https://writing9.com/text/60fae4f7ff06050019cacf85-living-in-a-country-where-you-have-to-speak-a",
+    "file": [
+        "data",
+        "75",
+        "60fae4f7ff06050019cacf85.json"
+    ],
+    "topics": [
+        "country",
+        "language"
+    ],
+    "question": "Living in a country where you have to speak a foreign language can cause serious social problems as well as practical problems.\nTo what extent do you agree or disagree with this statement?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is undeniably true that more and more people are immigrating to a country for their better life or their dream. However, from my perspective, this situation can't necessarily cause severe problems to the native people there. Rather, there would be some advantages from it.",
+        "On one hand, it is understandable that there are some people who are worried about their newcoming based on their low proficiency in the language. This is because there is a likelihood that their language skills could cause misunderstandings and conflicts during their conversation. For example, a fight could happen once a foreigner understood what a native speaker said to him or her as an insulting meaning even though it was not. If this trend keeps occurring, there would be huge inconvenience to the public.",
+        "On the other hand, still, there are several benefits of being in a foreign country as a non-native speaker. Firstly, in case  we are not confident of the new language, it is natural to be careful before we say something not to make any misunderstandings. This means we can prevent any unpleasant occasions. If we are good at the language, still the situation would be better. For example, considering there are a lot of interracial couples who fight less often than the couples who use the same language, it is noticeable that understanding and respecting each other outweigh the proficiency itself when we live a life.",
+        "In conclusion, even though it is true somehow that there are some difficulties if people live in a different country whose national language is not the same as theirs, still, there are benefits. Therefore, before finalizing immediately about this idea, all things should be considered reasonable."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "huge",
+                "start_idx": 755,
+                "end_idx": 759,
+                "error": "Add an article",
+                "error_des": "The noun phrase huge inconvenience seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a huge"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 1401,
+                "end_idx": 1403,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun life in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "ggg",
+    "num_words": 282,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "firstly",
+            "however",
+            "therefore",
+            "on the other hand",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "language",
+                "occurrences": [
+                    {
+                        "start_idx": 413,
+                        "end_idx": 421
+                    },
+                    {
+                        "start_idx": 472,
+                        "end_idx": 480
+                    },
+                    {
+                        "start_idx": 948,
+                        "end_idx": 956
+                    },
+                    {
+                        "start_idx": 1119,
+                        "end_idx": 1127
+                    },
+                    {
+                        "start_idx": 1285,
+                        "end_idx": 1293
+                    },
+                    {
+                        "start_idx": 1542,
+                        "end_idx": 1550
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 41,
+                        "end_idx": 47
+                    },
+                    {
+                        "start_idx": 214,
+                        "end_idx": 220
+                    },
+                    {
+                        "start_idx": 330,
+                        "end_idx": 336
+                    },
+                    {
+                        "start_idx": 1492,
+                        "end_idx": 1498
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-07-23T15:53:47.867Z"
+}

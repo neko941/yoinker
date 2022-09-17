@@ -1,0 +1,134 @@
+{
+    "url": "https://writing9.com/text/5d09caf59494f5001057ee6e-you-took-your-family-to-a-nearby-restaurant-you-were",
+    "file": [
+        "data",
+        "65",
+        "5d09caf59494f5001057ee6e.json"
+    ],
+    "topics": [
+        "restaurant",
+        "manager",
+        "\u00bb",
+        "action",
+        "atleast"
+    ],
+    "question": "You took your family to a nearby restaurant. You were disappointed with the meal and wish to complain to the manager.\nWrite a letter to the manager of the restaurant. In your letter,\n\n  \u00bb explain why you were at the restaurant\n  \u00bb describe the problems\n  \u00bb write about the action you want the manager to take \nWrite atleast 150words",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 6.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I am writing to express my dissatisfaction towards the unpalatable meal my family and I were served when we visited your restaurant (People\u2019s Delight) located at Number 8 Kofo Abayomi street Lagos, yesterday the 8th of June 2019.",
+        "We were just issued our Canadian Visas despite all the challenges people faced to acquire it, so it called for celebration and lunch in a reputable restaurant,with my husband and three children was most ideal .",
+        "My children preferred to have rice and plantain while my husband and I had porridge beans. The rice was too salted that my daughter whose love for rice is out of this world had to reject the meal at the first spoon she took. The beans had lots of stones in it as I even bled on my tongue due to this. We all came with an empty stomach to fill it up with food at your restaurant.",
+        "I would have asked for a refund but taking my present suggestion and implementing it , is enough for me. In order avoid losing your customers, it is important you send all your cooks to a reputable catering school to learn the rudiments of cooking and avoid leaving a bad taste and feeling of your eatery to clients.",
+        "Hoping to seeing drastic actions being taken to avert further occurrences.",
+        "Yours Faithfully",
+        "Nina Mark"
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "towards",
+                "start_idx": 52,
+                "end_idx": 59,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "was",
+                "start_idx": 433,
+                "end_idx": 436,
+                "error": "Change the verb form",
+                "error_des": "The singular verb was does not appear to agree with the plural subject children. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "were"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 707,
+                "end_idx": 709,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "them"
+                ]
+            },
+            {
+                "word": "avoid",
+                "start_idx": 943,
+                "end_idx": 948,
+                "error": "Fix the infinitive",
+                "error_des": "It seems that the use of particle to may be incorrect here.",
+                "suggetions": [
+                    "to avoid"
+                ]
+            },
+            {
+                "word": "feeling",
+                "start_idx": 1111,
+                "end_idx": 1118,
+                "error": "Change the form of the verb",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb feeling. Consider changing it.",
+                "suggetions": [
+                    "feel"
+                ]
+            },
+            {
+                "word": "seeing",
+                "start_idx": 1156,
+                "end_idx": 1162,
+                "error": "Change the verb form",
+                "error_des": "The to-infinitive that follows the verb Hoping requires the base form. Change seeing to the base form.",
+                "suggetions": [
+                    "see"
+                ]
+            }
+        ]
+    },
+    "submitter": "Yes",
+    "num_words": 227,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "further",
+            "first",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T16:02:04.859Z"
+}

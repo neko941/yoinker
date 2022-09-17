@@ -1,0 +1,128 @@
+{
+    "url": "https://writing9.com/text/5cdae194f42ed600109fe06b",
+    "file": [
+        "data",
+        "65",
+        "5cdae194f42ed600109fe06b.json"
+    ],
+    "topics": [
+        "people",
+        "parents",
+        "children",
+        "members",
+        "society",
+        "school",
+        "place"
+    ],
+    "question": "Some people think that parents should teach their children how to be good members of society. Others, however, believe that school is the best place to learn this. \nDiscuss both views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some argue that children should be taught to be good members of the society by their parents, while others think that learning in school is the best way. This essay agrees with both the views. Firstly, the essay will discuss how parents contribute to a child\u2019s development by creating a positive environment at home, and secondly how children learn to respect one another in schools.",
+        "On the one hand, people believe that parents should teach their children to be good citizens by creating a positive environment at home. Children interact with their parents the most while growing up, and tend to replicate their mannerisms and habits. If the environment is bad, it might have a detrimental effect on their personality. For example, a recent study by the American Social Magazine revealed that children who experienced domestic violence in their adolescence replicate the same mannerisms as an adult. I believe that this view is accurate because parents are responsible for creating a healthy learning environment for their children during the early years of their lives.",
+        "On the other hand, many people believe it is more beneficial for children to learn moral values in schools because they interact with many students and learn to respect one another. By communicating with other students, children understand the dynamics of a functional society and learn to be more tolerant towards other cultures and religions. For example, a recent survey by the Indian society magazine found that 25% of adults who did not attend schools are involved in some form of communal violence. I agree with this view because values such as empathy, team work and respect for other cultures can be learnt much better in school than at home.",
+        "In conclusion, it is important to educate children, both in schools and at their homes, because children learn many habits by replicating their parents and schools teach them the be more respectful and tolerant."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "by",
+                "start_idx": 75,
+                "end_idx": 77,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "functional",
+                "start_idx": 1329,
+                "end_idx": 1339,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "functioning"
+                ]
+            },
+            {
+                "word": "team work",
+                "start_idx": 1631,
+                "end_idx": 1640,
+                "error": "cooperative work done by a team (especially when it is effective)",
+                "error_des": "",
+                "suggetions": [
+                    "teamwork"
+                ]
+            }
+        ]
+    },
+    "submitter": "fsfsfds",
+    "num_words": 318,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "secondly",
+            "such",
+            "firstly",
+            "on the other hand",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "environment",
+                "occurrences": [
+                    {
+                        "start_idx": 296,
+                        "end_idx": 307
+                    },
+                    {
+                        "start_idx": 500,
+                        "end_idx": 511
+                    },
+                    {
+                        "start_idx": 643,
+                        "end_idx": 654
+                    },
+                    {
+                        "start_idx": 1002,
+                        "end_idx": 1013
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-14T15:41:08.000Z"
+}

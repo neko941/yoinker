@@ -1,0 +1,256 @@
+{
+    "url": "https://writing9.com/text/5cd665a08c701485c16f4b82",
+    "file": [
+        "data",
+        "5",
+        "5cd665a08c701485c16f4b82.json"
+    ],
+    "topics": [
+        "people",
+        "truth",
+        "objective",
+        "news",
+        "function",
+        "newspaper"
+    ],
+    "question": "Most people think that the truth should be objective rather than subjective when it comes to the news.\nDo you think all news is true?\nWhat is the function of newspaper?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many individuals belive that the truth behind publish\u00a0 news must be fair minded rather than biased. I opine most of the news in current scenarios are\u00a0 exaggerating to increase their marketing value of shares.",
+        "In recent years, many\u00a0 news channels are launched and they are competiting each other to increase their market share value which can be achieved by increasing viewers attaining through exaggeration of news and publishing biased stories hiding the fact. This can be illustrated by publishing fake news in online news channel and misleading public. In the development of economic growth news reporting channels playing crucial role by the awareness provide\u00a0 through news to pubic about the political and economical issues but\u00a0 being reported many of these news as biased for their own growth or for the political sake\u00a0\u00a0 and this leads to negative impact.",
+        "The key essential role of newspaper is reporting truth as it is and publish authenticate information especially on political issues that help public to choose the right government. For an example, medias can manipulate news that mislead people to choose wrong political parties into power. Moreover news reporters need to analyze the facts and interpret the information\u00a0 properly.This can be achieved with the help of\u00a0 fair reporting of news by the editorial boards of each newspaper manufacture companies like Hindu newspaper, Indian express and so on and they need to compete to give factual information rather than looking forward only to increase their market shares.",
+        "To conclude, the truth behind the medias reporting news must be objective rather than subjective but now all are biased and also discussed key functions of newspaper."
+    ],
+    "errors": {
+        "num_error": "16",
+        "error_list": [
+            {
+                "word": "belive",
+                "start_idx": 16,
+                "end_idx": 22,
+                "error": "accept as true; take to be true",
+                "error_des": "",
+                "suggetions": [
+                    "believe"
+                ]
+            },
+            {
+                "word": "publish",
+                "start_idx": 45,
+                "end_idx": 52,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "publishing"
+                ]
+            },
+            {
+                "word": "marketing",
+                "start_idx": 181,
+                "end_idx": 190,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "market"
+                ]
+            },
+            {
+                "word": "competiting",
+                "start_idx": 271,
+                "end_idx": 282,
+                "error": "compete for something; engage in a contest; measure oneself against others",
+                "error_des": "",
+                "suggetions": [
+                    "competing"
+                ]
+            },
+            {
+                "word": "crucial role",
+                "start_idx": 625,
+                "end_idx": 637,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a crucial role"
+                ]
+            },
+            {
+                "word": "awareness provide",
+                "start_idx": 645,
+                "end_idx": 662,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "awareness, provide"
+                ]
+            },
+            {
+                "word": "news to",
+                "start_idx": 672,
+                "end_idx": 679,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "news, to"
+                ]
+            },
+            {
+                "word": "issues but",
+                "start_idx": 721,
+                "end_idx": 731,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "issues, but"
+                ]
+            },
+            {
+                "word": "truth",
+                "start_idx": 910,
+                "end_idx": 915,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the truth"
+                ]
+            },
+            {
+                "word": "information especially",
+                "start_idx": 950,
+                "end_idx": 972,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "information, especially"
+                ]
+            },
+            {
+                "word": "medias",
+                "start_idx": 1058,
+                "end_idx": 1064,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the media",
+                    "media"
+                ]
+            },
+            {
+                "word": "to choose",
+                "start_idx": 1105,
+                "end_idx": 1114,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "choose"
+                ]
+            },
+            {
+                "word": "analyze",
+                "start_idx": 1183,
+                "end_idx": 1190,
+                "error": "consider in detail and subject to an analysis in order to discover essential features or meaning",
+                "error_des": "",
+                "suggetions": [
+                    "analyse"
+                ]
+            },
+            {
+                "word": "companies",
+                "start_idx": 1357,
+                "end_idx": 1366,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "company"
+                ]
+            },
+            {
+                "word": "medias",
+                "start_idx": 1567,
+                "end_idx": 1573,
+                "error": "a means or instrumentality for storing or communicating information",
+                "error_des": "",
+                "suggetions": [
+                    "media",
+                    "media's"
+                ]
+            },
+            {
+                "word": "subjective but",
+                "start_idx": 1619,
+                "end_idx": 1633,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "subjective, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "meethu.r20",
+    "num_words": 270,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "also",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "newspaper",
+                "occurrences": [
+                    {
+                        "start_idx": 888,
+                        "end_idx": 897
+                    },
+                    {
+                        "start_idx": 1336,
+                        "end_idx": 1345
+                    },
+                    {
+                        "start_idx": 1379,
+                        "end_idx": 1388
+                    },
+                    {
+                        "start_idx": 1690,
+                        "end_idx": 1699
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-11T06:03:12.000Z"
+}

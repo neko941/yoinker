@@ -1,0 +1,177 @@
+{
+    "url": "https://writing9.com/text/5de35018db52040018c1fc23-you-have-recently-moved-to-a-different-house-write-a",
+    "file": [
+        "data",
+        "65",
+        "5de35018db52040018c1fc23.json"
+    ],
+    "topics": [
+        "house",
+        "english",
+        "friend",
+        "visit"
+    ],
+    "question": "You have recently moved to a different house. Write a letter to an English speaking friend.In your letter:\nExplain why you have moved\nDescribe the new house\nInvite your friend to come and visit",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear John,",
+        "Hope this letter finds you in good health and high spirits. I am excited to tell you about my movement from Ontario to Clagary.",
+        "You will be elated to know that few days back  I got promoted from Software engineer to Manager. Due to the requirement of manager in company\u2019s branch office located in calagary, the management decided to move me to this location permanently.",
+        "Recently, I have rented a amazing house in Clagary near the lake. It is basically a three bedroom house with a big living room and an open kitchen. All the bedrooms are king sized with attached wardrobes.In addition to this, the kitchen garden is like a cherry on cake where I can grow my own vegetables.",
+        "I would like to invite you to my new house and show you all the extra things from furniture to d\u00e9cor that I have added to beautify my house. Additionally, I am also planning a small get together to cherish this special moment of becoming a manager.",
+        "I hope you will accept my offer.",
+        "Speak to you soon.",
+        "Best Regards,",
+        "Mark"
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "Clagary",
+                "start_idx": 129,
+                "end_idx": 136,
+                "error": "Correct your spelling",
+                "error_des": "The word Clagary is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "Calgary"
+                ]
+            },
+            {
+                "word": "few",
+                "start_idx": 170,
+                "end_idx": 173,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase few days back does not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "a few"
+                ]
+            },
+            {
+                "word": "calagary",
+                "start_idx": 307,
+                "end_idx": 315,
+                "error": "Correct your spelling",
+                "error_des": "The word calagary is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "Calgary"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 405,
+                "end_idx": 406,
+                "error": "Change the article",
+                "error_des": "The article a may be incorrect. Consider changing it to agree with the beginning sound of the following word amazing.",
+                "suggetions": [
+                    "an"
+                ]
+            },
+            {
+                "word": "Clagary",
+                "start_idx": 424,
+                "end_idx": 431,
+                "error": "Correct your spelling",
+                "error_des": "The word Clagary is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "Calgary"
+                ]
+            },
+            {
+                "word": "three bedroom",
+                "start_idx": 465,
+                "end_idx": 478,
+                "error": "Add a hyphen",
+                "error_des": "It appears that three bedroom is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "three-bedroom"
+                ]
+            },
+            {
+                "word": "king sized",
+                "start_idx": 550,
+                "end_idx": 560,
+                "error": "Add a hyphen",
+                "error_des": "It appears that king sized is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "king-sized"
+                ]
+            },
+            {
+                "word": "cake",
+                "start_idx": 645,
+                "end_idx": 649,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a cake"
+                ]
+            }
+        ]
+    },
+    "submitter": "joshi65201",
+    "num_words": 184,
+    "num_paragraphs": 9,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "in addition",
+            "also",
+            "this",
+            "additionally"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "house",
+                "occurrences": [
+                    {
+                        "start_idx": 416,
+                        "end_idx": 421
+                    },
+                    {
+                        "start_idx": 480,
+                        "end_idx": 485
+                    },
+                    {
+                        "start_idx": 724,
+                        "end_idx": 729
+                    },
+                    {
+                        "start_idx": 821,
+                        "end_idx": 826
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T17:55:33.885Z"
+}

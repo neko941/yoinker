@@ -1,0 +1,361 @@
+{
+    "url": "https://writing9.com/text/62c962c28ee1ab00180e1db6-many-people-keep-dogs-and-cats-as-companions-discuss-the-advantages",
+    "file": [
+        "data",
+        "45",
+        "62c962c28ee1ab00180e1db6.json"
+    ],
+    "topics": [
+        "people",
+        "dogs",
+        "cats",
+        "companions",
+        "pet",
+        "ownership",
+        "animals",
+        "community"
+    ],
+    "question": "Many people keep dogs and cats as companions.\n\n\nDiscuss the advantages and disadvantages of pet ownership for the animals involved and for the community as a whole.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Pets are human's best friend. Not only they give a company to lonely person but also protect their property. However keeping a pet have both advantages and disadvantages.",
+        "To commence with, research has proven that the company of a dog or a cat keeps psychological problems such as depression away. These animals keep a person busy and give love and affection that increase overall happiness. These animals also help fight with anxiety, inactivity and encourage exercise and playfulness. In many case, people who did not own a pet reported better blood pressure and lower cholesterol Once they owned a pet. Moreover, dogs are extremely possessive for their owners as well as their belongings. They gaurd the house against any external threat or interference. Thus, keeping pets is very helpful for households with children or old people.",
+        "However, pet ownership is not an easy job. Animals are often the source of many diseases such as asthma. The saliva and fur of a dog or a cat can lead to many infectious disease as well. Dogs or cat bite those who are not vaccinated can also lead to life threatening disease such as rabies. Additionally, dogs are sometimes a source of disturbance during the night. Many people have reported dog howling and barking at night as a svere form of stress.",
+        "To conclude, despite several drawbacks of keeping a pet, animals such as dogs are extremely beneficial in dealing with stress and loneliness of a modern lifestyle. They are not only good friends but also are excellent protector from any positive threat."
+    ],
+    "errors": {
+        "num_error": "22",
+        "error_list": [
+            {
+                "word": "friend",
+                "start_idx": 21,
+                "end_idx": 27,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that friend may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "friends"
+                ]
+            },
+            {
+                "word": "they",
+                "start_idx": 38,
+                "end_idx": 42,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "do they"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 48,
+                "end_idx": 50,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "person",
+                "start_idx": 68,
+                "end_idx": 74,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that person may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "people"
+                ]
+            },
+            {
+                "word": "However",
+                "start_idx": 108,
+                "end_idx": 115,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase However. Consider adding a comma.",
+                "suggetions": [
+                    ",However"
+                ]
+            },
+            {
+                "word": "have",
+                "start_idx": 130,
+                "end_idx": 134,
+                "error": "Change the verb form",
+                "error_des": "The verb have does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "has"
+                ]
+            },
+            {
+                "word": "with ",
+                "start_idx": 421,
+                "end_idx": 426,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "inactivity",
+                "start_idx": 435,
+                "end_idx": 445,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and inactivity"
+                ]
+            },
+            {
+                "word": "many",
+                "start_idx": 489,
+                "end_idx": 493,
+                "error": "Correct your spelling",
+                "error_des": "The word many doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "any"
+                ]
+            },
+            {
+                "word": "case",
+                "start_idx": 494,
+                "end_idx": 498,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun case follows the quantifier many, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "cases"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 645,
+                "end_idx": 648,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "gaurd",
+                "start_idx": 696,
+                "end_idx": 701,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want gaurd to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "guard"
+                ]
+            },
+            {
+                "word": "disease",
+                "start_idx": 1006,
+                "end_idx": 1013,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun disease follows the quantifier many, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "diseases"
+                ]
+            },
+            {
+                "word": "cat",
+                "start_idx": 1031,
+                "end_idx": 1034,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that cat may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "cats"
+                ]
+            },
+            {
+                "word": "bite",
+                "start_idx": 1035,
+                "end_idx": 1039,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb bite. Consider changing it.",
+                "suggetions": [
+                    "biting"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1086,
+                "end_idx": 1086,
+                "error": "Add a hyphen",
+                "error_des": "It appears that life threatening is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "life-threatening"
+                ]
+            },
+            {
+                "word": "life threatening",
+                "start_idx": 1086,
+                "end_idx": 1102,
+                "error": "Add a hyphen",
+                "error_des": "It seems that life threatening is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "life-threatening"
+                ]
+            },
+            {
+                "word": "disease",
+                "start_idx": 1103,
+                "end_idx": 1110,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that disease may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "diseases"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1266,
+                "end_idx": 1266,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want svere to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "severe"
+                ]
+            },
+            {
+                "word": "svere",
+                "start_idx": 1266,
+                "end_idx": 1271,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want svere to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "severe"
+                ]
+            },
+            {
+                "word": "stress",
+                "start_idx": 1407,
+                "end_idx": 1413,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the stress"
+                ]
+            },
+            {
+                "word": "protector",
+                "start_idx": 1506,
+                "end_idx": 1515,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that protector may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "protectors"
+                ]
+            }
+        ]
+    },
+    "submitter": "itsdaminitaneja",
+    "num_words": 260,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "thus",
+            "also",
+            "such",
+            "however",
+            "additionally",
+            "moreover"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "dogs",
+                "occurrences": [
+                    {
+                        "start_idx": 616,
+                        "end_idx": 620
+                    },
+                    {
+                        "start_idx": 1142,
+                        "end_idx": 1146
+                    },
+                    {
+                        "start_idx": 1362,
+                        "end_idx": 1366
+                    }
+                ]
+            },
+            {
+                "word": "pet",
+                "occurrences": [
+                    {
+                        "start_idx": 127,
+                        "end_idx": 130
+                    },
+                    {
+                        "start_idx": 526,
+                        "end_idx": 529
+                    },
+                    {
+                        "start_idx": 601,
+                        "end_idx": 604
+                    },
+                    {
+                        "start_idx": 772,
+                        "end_idx": 775
+                    },
+                    {
+                        "start_idx": 846,
+                        "end_idx": 849
+                    },
+                    {
+                        "start_idx": 1341,
+                        "end_idx": 1344
+                    }
+                ]
+            },
+            {
+                "word": "animals",
+                "occurrences": [
+                    {
+                        "start_idx": 304,
+                        "end_idx": 311
+                    },
+                    {
+                        "start_idx": 398,
+                        "end_idx": 405
+                    },
+                    {
+                        "start_idx": 1346,
+                        "end_idx": 1353
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-09T11:13:07.968Z"
+}

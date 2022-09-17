@@ -1,0 +1,414 @@
+{
+    "url": "https://writing9.com/text/62ef62740562ec00182a12a4-some-people-say-history-is-one-of-the-most-important",
+    "file": [
+        "data",
+        "65",
+        "62ef62740562ec00182a12a4.json"
+    ],
+    "topics": [
+        "people",
+        "history",
+        "school",
+        "subjects",
+        "today\u2019s",
+        "world",
+        "science",
+        "technology"
+    ],
+    "question": "Some people say History is one of the most important school subjects. Other people think that, in today\u2019s world, subjects like Science and Technology are more important than History.Discuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 5.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is controversial that whether the History subject is more vital than Science and Technology or not in modern society. In my opinion, the History is same important as the Science and Technology since they belong to different subject class, humanity science and nature science.",
+        "To begin with, it seems to me that there are three main reasons that why some people believe that History is more important than the other two. Firstly, the primary reason is that history can provide many experience to us.  For example, people in China can find the historic counterparts of almost every modern events. Secondly, those experience is really meaningful for our modern society and our future according to my knowledge. Finally, I am sure that those whose major is History are more likely be a leader in their jobs.",
+        "However, although the History is important for us and will benefit us, we still cannot put it at a position that is higher than that of the Science and Technology. As the history is very important in humanity science field, the science and technology is also very important in nature science field. Furthermore, the humanity and the nature are the two main factors in modern society. Each factor is indispensable for us. For instance, the History can make us knowledgeable while the Science and Technology can promote the development of our society. So it is no meaningful to compare them.",
+        "In conclusion, I insist that the History and the Science and Technology are both significant in different field, so we cannot compare them."
+    ],
+    "errors": {
+        "num_error": "26",
+        "error_list": [
+            {
+                "word": "that ",
+                "start_idx": 19,
+                "end_idx": 24,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 168,
+                "end_idx": 172,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "different",
+                "start_idx": 216,
+                "end_idx": 225,
+                "error": "Add an article",
+                "error_des": "The noun phrase different subject class seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a different",
+                    "the different"
+                ]
+            },
+            {
+                "word": "class",
+                "start_idx": 234,
+                "end_idx": 239,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that class may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "classes"
+                ]
+            },
+            {
+                "word": "nature",
+                "start_idx": 262,
+                "end_idx": 268,
+                "error": "Replace the word",
+                "error_des": "The word nature doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "natural"
+                ]
+            },
+            {
+                "word": "that ",
+                "start_idx": 342,
+                "end_idx": 347,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "experience",
+                "start_idx": 483,
+                "end_idx": 493,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun experience follows the quantifier many, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "experiences"
+                ]
+            },
+            {
+                "word": "events",
+                "start_idx": 589,
+                "end_idx": 595,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that events may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "event"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 824,
+                "end_idx": 828,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 900,
+                "end_idx": 902,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 942,
+                "end_idx": 946,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 973,
+                "end_idx": 977,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "humanity",
+                "start_idx": 1006,
+                "end_idx": 1014,
+                "error": "Add an article",
+                "error_des": "The noun phrase humanity science field seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the humanity",
+                    "a humanity"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1030,
+                "end_idx": 1034,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 1057,
+                "end_idx": 1059,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb is does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "nature",
+                "start_idx": 1083,
+                "end_idx": 1089,
+                "error": "Add an article",
+                "error_des": "The noun phrase nature science field seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the nature",
+                    "a nature"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1118,
+                "end_idx": 1122,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1135,
+                "end_idx": 1139,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1241,
+                "end_idx": 1245,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1285,
+                "end_idx": 1289,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "no",
+                "start_idx": 1365,
+                "end_idx": 1367,
+                "error": "Correct your spelling",
+                "error_des": "The word no doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "not"
+                ]
+            },
+            {
+                "word": "meaningful",
+                "start_idx": 1368,
+                "end_idx": 1378,
+                "error": "Replace the word",
+                "error_des": "The word meaningful doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "means"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1425,
+                "end_idx": 1429,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1441,
+                "end_idx": 1445,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "different",
+                "start_idx": 1492,
+                "end_idx": 1501,
+                "error": "Add an article",
+                "error_des": "The noun phrase different field seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a different"
+                ]
+            },
+            {
+                "word": "field",
+                "start_idx": 1502,
+                "end_idx": 1507,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that field may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "fields"
+                ]
+            }
+        ]
+    },
+    "submitter": "leouzhe",
+    "num_words": 259,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "to begin",
+            "secondly",
+            "also",
+            "furthermore",
+            "although",
+            "firstly",
+            "however",
+            "that is",
+            "finally",
+            "for instance",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "technology",
+                "occurrences": [
+                    {
+                        "start_idx": 1047,
+                        "end_idx": 1057
+                    }
+                ]
+            },
+            {
+                "word": "history",
+                "occurrences": [
+                    {
+                        "start_idx": 459,
+                        "end_idx": 466
+                    },
+                    {
+                        "start_idx": 978,
+                        "end_idx": 985
+                    }
+                ]
+            },
+            {
+                "word": "science",
+                "occurrences": [
+                    {
+                        "start_idx": 251,
+                        "end_idx": 258
+                    },
+                    {
+                        "start_idx": 270,
+                        "end_idx": 277
+                    },
+                    {
+                        "start_idx": 1016,
+                        "end_idx": 1023
+                    },
+                    {
+                        "start_idx": 1035,
+                        "end_idx": 1042
+                    },
+                    {
+                        "start_idx": 1091,
+                        "end_idx": 1098
+                    }
+                ]
+            },
+            {
+                "word": "society",
+                "occurrences": [
+                    {
+                        "start_idx": 112,
+                        "end_idx": 119
+                    },
+                    {
+                        "start_idx": 661,
+                        "end_idx": 668
+                    },
+                    {
+                        "start_idx": 1182,
+                        "end_idx": 1189
+                    },
+                    {
+                        "start_idx": 1348,
+                        "end_idx": 1355
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-07T06:57:58.647Z"
+}

@@ -1,0 +1,138 @@
+{
+    "url": "https://writing9.com/text/60fb16b3ff06050019cacfd7-nowadays-not-enough-students-choose-science-subjects-in-university-in",
+    "file": [
+        "data",
+        "75",
+        "60fb16b3ff06050019cacfd7.json"
+    ],
+    "topics": [
+        "students",
+        "science",
+        "subjects",
+        "university",
+        "countries",
+        "effects",
+        "society"
+    ],
+    "question": "Nowadays, not enough students choose science subjects in university in many countries. What are the reasons for this problem? What are the effects on the society?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Only a few students prefer to study a science career at the university. This essay will expose why they are no choosing these fields and also explain what the consequences will be.",
+        "To being with, students claim that their disinterest in science subjects is related to the time that is required in order to graduate and the jobs opportunities. Studying some science subjects such as, math or physics can be a challenging and demanding activity that a lot of people prefer to avoid. For instance, a chemistry student has to do  double research jobs like other students. A second cause is that after graduation, there are low chances of working in their own field, as a consequence, they become demotivated. To illustrate this, normally a math student first job is teaching young boys about the basis of this field because he was unable to find another opportunity.",
+        "This shrinking in the number of science students will create a lack of new inventions and a huge imbalance in the future workforce.  Scientists are the main reason for the existence of almost all the things we know. Unless this situation change soon, we are at risk of suffering a stall in technology o medical discoveries. For instance, a disease like the covid 19 virus appears and affects the world like the covid 19 virus, if there are a small number of biologists in the world, we will be at risk of not be able to create a vaccine. Another consequence is going to be that when the actual workforce retires, nobody is going to be able to replace them. As a consequence, important researches can come to an end because nobody is going to continue with them.",
+        "In conclusion, studying science subjects can be a challenging and quite demanding task with low future opportunities. As the number of students reduces, society becomes closer to be in danger of losing new inventions."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "virus",
+                "start_idx": 1228,
+                "end_idx": 1233,
+                "error": "Change to a plural noun",
+                "error_des": "The singular noun virus follows a number other than one. Consider changing the noun to the plural form.",
+                "suggetions": [
+                    "viruses"
+                ]
+            }
+        ]
+    },
+    "submitter": "abad.nicolass",
+    "num_words": 319,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "also",
+            "such",
+            "first",
+            "that is",
+            "second",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 11,
+                        "end_idx": 19
+                    },
+                    {
+                        "start_idx": 196,
+                        "end_idx": 204
+                    },
+                    {
+                        "start_idx": 558,
+                        "end_idx": 566
+                    },
+                    {
+                        "start_idx": 903,
+                        "end_idx": 911
+                    },
+                    {
+                        "start_idx": 1760,
+                        "end_idx": 1768
+                    }
+                ]
+            },
+            {
+                "word": "science",
+                "occurrences": [
+                    {
+                        "start_idx": 38,
+                        "end_idx": 45
+                    },
+                    {
+                        "start_idx": 237,
+                        "end_idx": 244
+                    },
+                    {
+                        "start_idx": 357,
+                        "end_idx": 364
+                    },
+                    {
+                        "start_idx": 895,
+                        "end_idx": 902
+                    },
+                    {
+                        "start_idx": 1649,
+                        "end_idx": 1656
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-07-23T19:25:38.284Z"
+}

@@ -1,0 +1,207 @@
+{
+    "url": "https://writing9.com/text/5d4ce4bb09ba40001789ce99",
+    "file": [
+        "data",
+        "45",
+        "5d4ce4bb09ba40001789ce99.json"
+    ],
+    "topics": [
+        "humans",
+        "environment",
+        "governments",
+        "address",
+        "people"
+    ],
+    "question": "Explain some of the ways in which humans are damaging the \n\nenvironment. What can governments do to address these \n\nproblems? What can individual people do?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Global warming has been increasing concern all over the world because mankind is depleting nature in different ways. Both individual and government can take necessary measures to solve this issue.",
+        "However, human being activities have various bad effects on earth\u2019s nature. These activities include gas emission from factories, pollution from vehicles, garbage waste thrown in recycling, etc. Despite that, people use products such as air conditioner, refrigerators for their own convenience but ignoring the effects of these products have on the environment.",
+        "The government should take essential actions to address environment issues. The government could impose taxes on vehicle drivers to reduce the crowd in cities along with pollution. For example, in the UK, especially in London city, local municipality imposed green taxes on vehicles who drive inside the city. Public transportation should be improved by increasing the services of buses, trains, etc.",
+        "An individual should participate in the cause of climate changes. People should give emphasis to cycling and even decrease flying and driving on vehicles, which means importance should be given to battery cars. If the public try to do recycling properly and consume eco- friendly goods, it can lead to a reduction in climate changes to some extent. As a living being, this is our moral responsibility to protect nature. On the other hand, companies should reduce use eco- friendly way to avoid the emission of carbon dioxide gases in the atmosphere, which means solar, wind energy should be utilized more.",
+        "In conclusion, the climate has been drastically changing because of the effect of pollution and gobal warming. While the government can appear stricter towards this, individuals might show more careful and alert behavior to save the earth climate."
+    ],
+    "errors": {
+        "num_error": "9",
+        "error_list": [
+            {
+                "word": "government",
+                "start_idx": 136,
+                "end_idx": 146,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "governments"
+                ]
+            },
+            {
+                "word": "convenience but",
+                "start_idx": 478,
+                "end_idx": 493,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "convenience, but"
+                ]
+            },
+            {
+                "word": "environment",
+                "start_idx": 614,
+                "end_idx": 625,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "environmental"
+                ]
+            },
+            {
+                "word": "inside",
+                "start_idx": 851,
+                "end_idx": 857,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 1101,
+                "end_idx": 1103,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "changing",
+                "start_idx": 1613,
+                "end_idx": 1621,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "changed"
+                ]
+            },
+            {
+                "word": "gobal",
+                "start_idx": 1661,
+                "end_idx": 1666,
+                "error": "involving the entire earth; not limited or provincial in scope",
+                "error_des": "",
+                "suggetions": [
+                    "global"
+                ]
+            },
+            {
+                "word": "behavior",
+                "start_idx": 1777,
+                "end_idx": 1785,
+                "error": "manner of acting or controlling yourself",
+                "error_des": "",
+                "suggetions": [
+                    "behaviour"
+                ]
+            },
+            {
+                "word": "earth",
+                "start_idx": 1798,
+                "end_idx": 1803,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "earth's"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 282,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "such",
+            "however",
+            "on the other hand",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "climate",
+                "occurrences": [
+                    {
+                        "start_idx": 1009,
+                        "end_idx": 1016
+                    },
+                    {
+                        "start_idx": 1277,
+                        "end_idx": 1284
+                    },
+                    {
+                        "start_idx": 1585,
+                        "end_idx": 1592
+                    },
+                    {
+                        "start_idx": 1805,
+                        "end_idx": 1812
+                    }
+                ]
+            },
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 137,
+                        "end_idx": 147
+                    },
+                    {
+                        "start_idx": 563,
+                        "end_idx": 573
+                    },
+                    {
+                        "start_idx": 639,
+                        "end_idx": 649
+                    },
+                    {
+                        "start_idx": 1687,
+                        "end_idx": 1697
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-09T03:12:59.693Z"
+}

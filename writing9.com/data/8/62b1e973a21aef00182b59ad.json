@@ -1,0 +1,136 @@
+{
+    "url": "https://writing9.com/text/62b1e973a21aef00182b59ad-in-some-areas-of-the-us-a-curfew-is-imposed",
+    "file": [
+        "data",
+        "8",
+        "62b1e973a21aef00182b59ad.json"
+    ],
+    "topics": [
+        "areas",
+        "curfew",
+        "teenagers",
+        "doors",
+        "time",
+        "night",
+        "adult"
+    ],
+    "question": "In some areas of the US, a 'curfew' is imposed, in which teenagers are not allowed to be out of doors after a particular time at night unless they are accompanied by an adult.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In some regions of the United States, a partial lockdown is imposed in which after late-night teenagers can only go out if they have an adult with them. This essay believes that it is necessary because it can reduce the number of crimes against teenagers and also prevents them from falling into bad habits.",
+        "The primary reason to support the curfew is that it can help to lower the crime rate against adolescents. This is because when teenagers go out alone at late night, they can become an easy target for offenders and robbers, which can end up in crimes such as robbery at a gunpoint, kidnapping, and extortion. This is bad for society and also for the victims because they will live in mental and psychological fear. These crimes are less likely to happen if adolescents are accompanied by an adult. For example, in Detroit, the crime rate has decreased by nearly 40% after the curfew was imposed.",
+        "Another reason is that curfew can help to keep teenagers away from the bad habits and nuisances of our society. Adolescents can be easily persuaded by agents and drug dealers into the filthy habit of consuming drugs. This is bad not only for that child but also for society as it will give birth to new problems such as vandalism, illegal drug sales, and the downfall of social and cultural norms. For instance, the illegal market of drugs, such as marijuana, cocaine, and heroin, in the US is bigger than $80 billion, which mainly targets the age group of 14 to 22, so the curfew can be helpful to regulate this illegal business.",
+        "In conclusion, a late-night curfew for teenagers in the US is essential to keep them safe physically and to stop them from falling into self-destructing habits."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "has ",
+                "start_idx": 844,
+                "end_idx": 848,
+                "error": "Unnecessary verb",
+                "error_des": "The verb has appears to be unnecessary here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "urvik01patel",
+    "num_words": 298,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "also",
+            "such",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "teenagers",
+                "occurrences": [
+                    {
+                        "start_idx": 94,
+                        "end_idx": 103
+                    },
+                    {
+                        "start_idx": 245,
+                        "end_idx": 254
+                    },
+                    {
+                        "start_idx": 435,
+                        "end_idx": 444
+                    },
+                    {
+                        "start_idx": 950,
+                        "end_idx": 959
+                    },
+                    {
+                        "start_idx": 1573,
+                        "end_idx": 1582
+                    }
+                ]
+            },
+            {
+                "word": "curfew",
+                "occurrences": [
+                    {
+                        "start_idx": 342,
+                        "end_idx": 348
+                    },
+                    {
+                        "start_idx": 883,
+                        "end_idx": 889
+                    },
+                    {
+                        "start_idx": 926,
+                        "end_idx": 932
+                    },
+                    {
+                        "start_idx": 1477,
+                        "end_idx": 1483
+                    },
+                    {
+                        "start_idx": 1562,
+                        "end_idx": 1568
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-21T15:53:25.031Z"
+}

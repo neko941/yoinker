@@ -1,0 +1,153 @@
+{
+    "url": "https://writing9.com/text/62ebcd870562ec00182a0bc6-young-people-do-not-spend-their-holiday-and-weekend-doing",
+    "file": [
+        "data",
+        "65",
+        "62ebcd870562ec00182a0bc6.json"
+    ],
+    "topics": [
+        "people",
+        "holiday",
+        "weekend",
+        "activities",
+        "environment",
+        "out\uff1f"
+    ],
+    "question": "Young people do not spend their holiday and weekend doing outdoor activities like hiking and climbing in natural environment. Why? And how to encourage them to go out\uff1f",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that nowadays young people would rather stay at home playing video games or watching movies than travel outdoors. some seasons are responsible for the issue and government can play a significant role to tackle this.",
+        "There are several major reasons which are responsible for why teenagers and young men are not willing to go out when they are available, such as the changing of lifestyle, as well as a rise in the cost of travelling. To start with, a lack of time and energy mainly result in young people are no longer being keen on sports outdoors. Because due to the increasing competition and pressure in societies, particularly in metropolis, most of young people, including teenagers and young adults, have to concentrate on their studying and working. Furthermore, with the development of urbanization and pollution of the natural environment near cities, it is relatively hard for the fans of outdoor sports, such as cycling, hiking and climbing to find perfect places in or around under areas so  they have to  spend more money on travelling to find a better place. Consequently, a rise in cost stops these young people from regular exercising.",
+        "Obviously, authorities can take steps to deal with these problems. Firstly, education systems can add exercising performance of teenagers as a standard for getting higher education, this may encourage students to spend more time  exercising. Another necessary measure is to build more public infrastructure to provide access to the natural environment. For instance, investment in specific paths of cycling linked urban areas and countryside and public transport to natural spots. Moreover,",
+        "In conclusion, there are many reasons for young people prefer staying indoors rather than exercising outdoors. At the same time, governments are expecting to take action to handle this issue."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "are ",
+                "start_idx": 514,
+                "end_idx": 518,
+                "error": "Unnecessary verb",
+                "error_des": "The verb are appears to be unnecessary here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 644,
+                "end_idx": 644,
+                "error": "Add an article",
+                "error_des": "The noun phrase metropolis seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the metropolis",
+                    "a metropolis"
+                ]
+            },
+            {
+                "word": "metropolis",
+                "start_idx": 644,
+                "end_idx": 654,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that metropolis may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "metropolia"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 661,
+                "end_idx": 663,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 664,
+                "end_idx": 665,
+                "error": "Add an article",
+                "error_des": "The phrase most of young people may require the use of the article the. Consider inserting the before the noun in your sentence.",
+                "suggetions": [
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "alexpan1027",
+    "num_words": 296,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "such",
+            "furthermore",
+            "firstly",
+            "consequently",
+            "for instance",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 31,
+                        "end_idx": 37
+                    },
+                    {
+                        "start_idx": 508,
+                        "end_idx": 514
+                    },
+                    {
+                        "start_idx": 671,
+                        "end_idx": 677
+                    },
+                    {
+                        "start_idx": 1131,
+                        "end_idx": 1137
+                    },
+                    {
+                        "start_idx": 1702,
+                        "end_idx": 1708
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-04T13:48:53.701Z"
+}

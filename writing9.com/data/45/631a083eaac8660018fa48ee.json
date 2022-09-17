@@ -1,0 +1,246 @@
+{
+    "url": "https://writing9.com/text/631a083eaac8660018fa48ee-working-from-home-is-becoming-increasingly-popular-what-are-the",
+    "file": [
+        "data",
+        "45",
+        "631a083eaac8660018fa48ee.json"
+    ],
+    "topics": [
+        "home",
+        "trend"
+    ],
+    "question": "Working from home is becoming increasingly popular. What are the advantages and disadvantages of this trend?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 4.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 5.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, there is a rising trend of working from home. This helps people take care of their family themselves and reduces the travel duration  to their workplace, though it can affect their health and devoid them from developing a social life. The effect of this new trend on people's well-being and social life could be detrimental.",
+        "Working from home provides an opportunity for the job holders of attending to their families personally, and it also saves their time spent travelling to the office. As many of the workers have children, who need to be taken care of, they find it difficult to hire a babysitter who could fill in for them during office hours and the time needed to go to and from the workplace. This can be overcome if they can work from home along with taking care of their children. It gives them extra time with the family by reducing  travel time.",
+        "As the job holders stay home for work, there won't be any physical activity they will be involved in, affecting their health. People tend to be socially active when they come across different crowd at job. Due to lack of physical activity,  the people working from home might be affected by various health issues like obesity. As they won't be coming across other peopl while they work from home, their mental well-being might get affected leading to more stress.",
+        "The increase in the number of individuals  working from home is seen these days.though it provides more time and attention to family members of the job holders, their physical and mental health both are at risk. The effect on the well-being of a person should be given more importance along with managing their personal responsibilities."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "different",
+                "start_idx": 1051,
+                "end_idx": 1060,
+                "error": "Add an article",
+                "error_des": "The noun phrase different crowd seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the different"
+                ]
+            },
+            {
+                "word": "crowd",
+                "start_idx": 1061,
+                "end_idx": 1066,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that crowd may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "crowds"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1070,
+                "end_idx": 1070,
+                "error": "Add an article",
+                "error_des": "The noun phrase job seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the job",
+                    "a job"
+                ]
+            },
+            {
+                "word": "job",
+                "start_idx": 1070,
+                "end_idx": 1073,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that job may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "jobs"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1233,
+                "end_idx": 1233,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want peopl to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "people"
+                ]
+            },
+            {
+                "word": "peopl",
+                "start_idx": 1233,
+                "end_idx": 1238,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want peopl to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "people"
+                ]
+            }
+        ]
+    },
+    "submitter": "msmdsaif1989",
+    "num_words": 288,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "also",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "5",
+        "list_repeated_words": [
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 191,
+                        "end_idx": 197
+                    },
+                    {
+                        "start_idx": 988,
+                        "end_idx": 994
+                    },
+                    {
+                        "start_idx": 1169,
+                        "end_idx": 1175
+                    },
+                    {
+                        "start_idx": 1521,
+                        "end_idx": 1527
+                    }
+                ]
+            },
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 464,
+                        "end_idx": 468
+                    },
+                    {
+                        "start_idx": 668,
+                        "end_idx": 672
+                    },
+                    {
+                        "start_idx": 823,
+                        "end_idx": 827
+                    },
+                    {
+                        "start_idx": 864,
+                        "end_idx": 868
+                    },
+                    {
+                        "start_idx": 1438,
+                        "end_idx": 1442
+                    }
+                ]
+            },
+            {
+                "word": "home",
+                "occurrences": [
+                    {
+                        "start_idx": 50,
+                        "end_idx": 54
+                    },
+                    {
+                        "start_idx": 348,
+                        "end_idx": 352
+                    },
+                    {
+                        "start_idx": 756,
+                        "end_idx": 760
+                    },
+                    {
+                        "start_idx": 894,
+                        "end_idx": 898
+                    },
+                    {
+                        "start_idx": 1135,
+                        "end_idx": 1139
+                    },
+                    {
+                        "start_idx": 1261,
+                        "end_idx": 1265
+                    },
+                    {
+                        "start_idx": 1390,
+                        "end_idx": 1394
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 67,
+                        "end_idx": 73
+                    },
+                    {
+                        "start_idx": 277,
+                        "end_idx": 283
+                    },
+                    {
+                        "start_idx": 1115,
+                        "end_idx": 1121
+                    }
+                ]
+            },
+            {
+                "word": "job",
+                "occurrences": [
+                    {
+                        "start_idx": 385,
+                        "end_idx": 388
+                    },
+                    {
+                        "start_idx": 877,
+                        "end_idx": 880
+                    },
+                    {
+                        "start_idx": 1071,
+                        "end_idx": 1074
+                    },
+                    {
+                        "start_idx": 1482,
+                        "end_idx": 1485
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-08T15:38:08.144Z"
+}

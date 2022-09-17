@@ -1,0 +1,201 @@
+{
+    "url": "https://writing9.com/text/5d92b89824d23f00174a2404",
+    "file": [
+        "data",
+        "6",
+        "5d92b89824d23f00174a2404.json"
+    ],
+    "topics": [
+        "countries",
+        "children",
+        "school",
+        "law",
+        "work"
+    ],
+    "question": "In some countries, children under 16 are not allowed to leave school by law and get full-time work. Is this a good or a bad thing?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Children, below the age of 16, are not permitted to work full time at the expense of school, as per laws in some countries. In my opinion, studying at school is more important for students under 16 as compared to engaging in a full-time job as personal development and a secured future is possible with studying at a young age.",
+        "With regards to the development of efficient qualities in an individual, children especially under 16 years, should spend time at school rather than working full time. The reason for this is that school education will allow them to carve out their talent, so that they can choose a carrier based on personal interest. This ability to opt for interest-driven carrier is only possible with school education and not with the full-time job. Moreover, education at a young age will help children develop into an independent adult later.",
+        "Furthermore, getting involved in a full-time work exposes students below 16 to exploitation. Children under 16, being naive, might be made to engage in hard manual labour. This is a serious issue which could impair a child\u2019s future, and the government, taking measures and legal actions to prevent such exploitation of children is an essential step towards securing their future. Another reason for banning under 16 pupils from working full time is that, although the payment for the work may attract pupils initially but it will jeopardize their future when they have limited carrier options to choose from.",
+        "To conclude, I believe that government should protect children, under 16, from full-time job and ensure their attendance at school."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "children especially",
+                "start_idx": 400,
+                "end_idx": 419,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "children, especially"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 454,
+                "end_idx": 456,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "initially but",
+                "start_idx": 1367,
+                "end_idx": 1380,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "initially, but"
+                ]
+            },
+            {
+                "word": "carrier",
+                "start_idx": 1436,
+                "end_idx": 1443,
+                "error": "the particular occupation for which you are trained",
+                "error_des": "",
+                "suggetions": [
+                    "career"
+                ]
+            }
+        ]
+    },
+    "submitter": "jchain22",
+    "num_words": 265,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "such",
+            "furthermore",
+            "although",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "school",
+                "occurrences": [
+                    {
+                        "start_idx": 85,
+                        "end_idx": 91
+                    },
+                    {
+                        "start_idx": 151,
+                        "end_idx": 157
+                    },
+                    {
+                        "start_idx": 458,
+                        "end_idx": 464
+                    },
+                    {
+                        "start_idx": 524,
+                        "end_idx": 530
+                    },
+                    {
+                        "start_idx": 716,
+                        "end_idx": 722
+                    },
+                    {
+                        "start_idx": 1593,
+                        "end_idx": 1599
+                    }
+                ]
+            },
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 62,
+                        "end_idx": 66
+                    },
+                    {
+                        "start_idx": 232,
+                        "end_idx": 236
+                    },
+                    {
+                        "start_idx": 450,
+                        "end_idx": 454
+                    },
+                    {
+                        "start_idx": 490,
+                        "end_idx": 494
+                    },
+                    {
+                        "start_idx": 755,
+                        "end_idx": 759
+                    },
+                    {
+                        "start_idx": 900,
+                        "end_idx": 904
+                    },
+                    {
+                        "start_idx": 1301,
+                        "end_idx": 1305
+                    },
+                    {
+                        "start_idx": 1553,
+                        "end_idx": 1557
+                    }
+                ]
+            },
+            {
+                "word": "future",
+                "occurrences": [
+                    {
+                        "start_idx": 279,
+                        "end_idx": 285
+                    },
+                    {
+                        "start_idx": 1085,
+                        "end_idx": 1091
+                    },
+                    {
+                        "start_idx": 1232,
+                        "end_idx": 1238
+                    },
+                    {
+                        "start_idx": 1407,
+                        "end_idx": 1413
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-01T02:23:20.482Z"
+}

@@ -1,0 +1,244 @@
+{
+    "url": "https://writing9.com/text/5cc4e6ef1202bf59858595bd",
+    "file": [
+        "data",
+        "5",
+        "5cc4e6ef1202bf59858595bd.json"
+    ],
+    "topics": [
+        "people",
+        "importance",
+        "world"
+    ],
+    "question": "People have little understanding of the importance of the natural world. What are the reasons and how can people learn more about the natural at world?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that nowadays, the majority of people lack major knowledge about the role of the natural world. This results from some transparent reasons and solutions need to be adopted to help the natural world gradually develop.",
+        "There are two main reasons why many reasons why many individuals ignore natural habitats. The first cause is that education does not have its responsibility to teach students about nature. In universities and colleges, students are forced to study one major subject, which relates to their career path in the future without enrolling in any nature-related course. Therefore, students have to follow the hectic pace of their curriculum in university and don\u2019t have enough time to search information about nature habitats. Another reason is that media do not update the movement of the natural world regularly. For example, newspapers have up-to-the-minute news about business, politic, celebrity but it is difficult for people to find some news about business, our natural world. Thus, individuals are easy to ignore the nature because of news in other areas.",
+        "However, this pressing issue is not intractable and it can be tackled by some different solutions. Firstly, the headman of university should give students some extra classes about nature habitats. This not only enables children to have more understanding about nature but also leads them to have time to relax after some stressful main-subject classes. Secondly, authorities should encourage media to provide more informative news about nature. By this way, media are able to both cater audiences protect the natural world and provoke their love to nature.",
+        "In conclusion, lacking knowledge about the integral role of nature habitats is controversial issue in many countries but this problem can be handled by applying some practical solutions."
+    ],
+    "errors": {
+        "num_error": "10",
+        "error_list": [
+            {
+                "word": "media",
+                "start_idx": 771,
+                "end_idx": 776,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the media"
+                ]
+            },
+            {
+                "word": "celebrity but",
+                "start_idx": 912,
+                "end_idx": 925,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "celebrity, but"
+                ]
+            },
+            {
+                "word": "business",
+                "start_idx": 977,
+                "end_idx": 985,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the business"
+                ]
+            },
+            {
+                "word": "nature but",
+                "start_idx": 1347,
+                "end_idx": 1357,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "nature, but"
+                ]
+            },
+            {
+                "word": "media",
+                "start_idx": 1544,
+                "end_idx": 1549,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the media"
+                ]
+            },
+            {
+                "word": "to both cater",
+                "start_idx": 1559,
+                "end_idx": 1572,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "cater both",
+                    "to both cater"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1632,
+                "end_idx": 1634,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for",
+                    "of"
+                ]
+            },
+            {
+                "word": "nature",
+                "start_idx": 1703,
+                "end_idx": 1709,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "natural"
+                ]
+            },
+            {
+                "word": "controversial issue",
+                "start_idx": 1722,
+                "end_idx": 1741,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a controversial issue"
+                ]
+            },
+            {
+                "word": "countries but",
+                "start_idx": 1750,
+                "end_idx": 1763,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "countries, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "Thanh",
+    "num_words": 288,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "secondly",
+            "thus",
+            "also",
+            "first",
+            "however",
+            "firstly",
+            "therefore",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "world",
+                "occurrences": [
+                    {
+                        "start_idx": 100,
+                        "end_idx": 105
+                    },
+                    {
+                        "start_idx": 203,
+                        "end_idx": 208
+                    },
+                    {
+                        "start_idx": 820,
+                        "end_idx": 825
+                    },
+                    {
+                        "start_idx": 1000,
+                        "end_idx": 1005
+                    },
+                    {
+                        "start_idx": 1604,
+                        "end_idx": 1609
+                    }
+                ]
+            },
+            {
+                "word": "nature",
+                "occurrences": [
+                    {
+                        "start_idx": 409,
+                        "end_idx": 415
+                    },
+                    {
+                        "start_idx": 569,
+                        "end_idx": 575
+                    },
+                    {
+                        "start_idx": 732,
+                        "end_idx": 738
+                    },
+                    {
+                        "start_idx": 1048,
+                        "end_idx": 1054
+                    },
+                    {
+                        "start_idx": 1267,
+                        "end_idx": 1273
+                    },
+                    {
+                        "start_idx": 1348,
+                        "end_idx": 1354
+                    },
+                    {
+                        "start_idx": 1524,
+                        "end_idx": 1530
+                    },
+                    {
+                        "start_idx": 1636,
+                        "end_idx": 1642
+                    },
+                    {
+                        "start_idx": 1704,
+                        "end_idx": 1710
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-27T23:34:07.000Z"
+}

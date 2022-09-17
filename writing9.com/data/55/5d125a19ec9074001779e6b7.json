@@ -1,0 +1,294 @@
+{
+    "url": "https://writing9.com/text/5d125a19ec9074001779e6b7",
+    "file": [
+        "data",
+        "55",
+        "5d125a19ec9074001779e6b7.json"
+    ],
+    "topics": [
+        "people",
+        "business"
+    ],
+    "question": "Some people think that the best way to run a business is within the family.\nWhat are the advantages and disadvantages of a family run business?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is considered by some people that the ideal option to run a corporation is to have it within the family. This essay will discuss firstly, the certain benefits such as more success and trust aspect associated with family business and secondly, the drawbacks it have mainly disputes and lack of knowledge in family members.",
+        "There are certain positive outcomes linked to a family operated corporation. To begin with, the top management work harder to bring success to their family business. Directors and managers are the real controlling authority in a company, so if they are from the same family and perform their duties with more efforts, their business would flourish more rapidly. The Service Brand of Shoes in Pakistan, for instance, have their whole senior management who belong to one family, which in turn, had fostered their image as a successful brand in the business world. Furthermore, family members trust each other, which is in turn, productive for the company. This is because there may be critical financial matters of a corporation which could not be shared and discussed with the people working in the company, who are not from the same family. This means matter related to finance can be otherwise only disclosed with family people. Consequently, economic matters would be handle with care, which would result in a better finance management.",
+        "On the other hand, there are some downsides of a family run company. First, business disputes can lead to family conflicts. If a matter arise in the corporation which create differences or issues among family people working together, could be highly likely to affect and harm their personal relationships. For example, Shah Businesses in India, has recently been found in family fight, owing to the differences among business partners from the same family. Secondly, individuals involving in the company belonging to one family may not possess certain professional skills required for a specific position, which is detrimental for a corporation. For a company to gain growth requires skills which may be lacking by the family person working on a certain job post. As an illustration, performing duties as the CEO or Managing Director, require vital skills, in order to look after business matters. Thus, lacking those skills may result in the failure of a company.",
+        "In conclusion, there are negative outcomes related to the family run business such as company develops and trust between people from the some family working together. On the other hand, there are certain drawbacks mainly the differences among individuals and members not possessing specific knowledge to work on a post in the company."
+    ],
+    "errors": {
+        "num_error": "11",
+        "error_list": [
+            {
+                "word": "family ",
+                "start_idx": 215,
+                "end_idx": 222,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a family business",
+                    "family businesses",
+                    "the family business"
+                ]
+            },
+            {
+                "word": "have",
+                "start_idx": 262,
+                "end_idx": 266,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "has"
+                ]
+            },
+            {
+                "word": "work",
+                "start_idx": 435,
+                "end_idx": 439,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "works"
+                ]
+            },
+            {
+                "word": "belong",
+                "start_idx": 779,
+                "end_idx": 785,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "belongs"
+                ]
+            },
+            {
+                "word": "family",
+                "start_idx": 1239,
+                "end_idx": 1245,
+                "error": "a person attached to the household of a high official (as a pope or bishop) who renders service in return for support",
+                "error_des": "",
+                "suggetions": [
+                    "familiar"
+                ]
+            },
+            {
+                "word": "would be handle",
+                "start_idx": 1285,
+                "end_idx": 1300,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "would be handled"
+                ]
+            },
+            {
+                "word": "finance",
+                "start_idx": 1343,
+                "end_idx": 1350,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "financial"
+                ]
+            },
+            {
+                "word": "arise",
+                "start_idx": 1499,
+                "end_idx": 1504,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "arises"
+                ]
+            },
+            {
+                "word": "develops",
+                "start_idx": 2422,
+                "end_idx": 2430,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "development"
+                ]
+            },
+            {
+                "word": "some",
+                "start_idx": 2465,
+                "end_idx": 2469,
+                "error": "closely similar or comparable in kind or quality or quantity or degree",
+                "error_des": "",
+                "suggetions": [
+                    "same"
+                ]
+            },
+            {
+                "word": "drawbacks mainly",
+                "start_idx": 2532,
+                "end_idx": 2548,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "drawbacks, mainly"
+                ]
+            }
+        ]
+    },
+    "submitter": "srehaan59",
+    "num_words": 432,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "13",
+        "list_linking_words": [
+            "to begin",
+            "secondly",
+            "thus",
+            "otherwise",
+            "such",
+            "first",
+            "furthermore",
+            "firstly",
+            "consequently",
+            "on the other hand",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "company",
+                "occurrences": [
+                    {
+                        "start_idx": 554,
+                        "end_idx": 561
+                    },
+                    {
+                        "start_idx": 970,
+                        "end_idx": 977
+                    },
+                    {
+                        "start_idx": 1123,
+                        "end_idx": 1130
+                    },
+                    {
+                        "start_idx": 1424,
+                        "end_idx": 1431
+                    },
+                    {
+                        "start_idx": 1860,
+                        "end_idx": 1867
+                    },
+                    {
+                        "start_idx": 2016,
+                        "end_idx": 2023
+                    },
+                    {
+                        "start_idx": 2320,
+                        "end_idx": 2327
+                    },
+                    {
+                        "start_idx": 2415,
+                        "end_idx": 2422
+                    },
+                    {
+                        "start_idx": 2655,
+                        "end_idx": 2662
+                    }
+                ]
+            },
+            {
+                "word": "corporation",
+                "occurrences": [
+                    {
+                        "start_idx": 63,
+                        "end_idx": 74
+                    },
+                    {
+                        "start_idx": 389,
+                        "end_idx": 400
+                    },
+                    {
+                        "start_idx": 1040,
+                        "end_idx": 1051
+                    },
+                    {
+                        "start_idx": 1513,
+                        "end_idx": 1524
+                    },
+                    {
+                        "start_idx": 1997,
+                        "end_idx": 2008
+                    }
+                ]
+            },
+            {
+                "word": "business",
+                "occurrences": [
+                    {
+                        "start_idx": 223,
+                        "end_idx": 231
+                    },
+                    {
+                        "start_idx": 481,
+                        "end_idx": 489
+                    },
+                    {
+                        "start_idx": 649,
+                        "end_idx": 657
+                    },
+                    {
+                        "start_idx": 871,
+                        "end_idx": 879
+                    },
+                    {
+                        "start_idx": 1440,
+                        "end_idx": 1448
+                    },
+                    {
+                        "start_idx": 1781,
+                        "end_idx": 1789
+                    },
+                    {
+                        "start_idx": 2244,
+                        "end_idx": 2252
+                    },
+                    {
+                        "start_idx": 2398,
+                        "end_idx": 2406
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-25T17:30:01.000Z"
+}

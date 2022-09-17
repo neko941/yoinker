@@ -1,0 +1,108 @@
+{
+    "url": "https://writing9.com/text/62c03f868ee1ab00180e0e0b-write-a-letter-to-your-insurance-company-in-your-letter",
+    "file": [
+        "data",
+        "85",
+        "62c03f868ee1ab00180e0e0b.json"
+    ],
+    "topics": [
+        "insurance",
+        "company"
+    ],
+    "question": "Write a letter to your insurance company. In your letter explainWhy you are writing to themWhy you think the insurance should not be increasedWhat you want them to doWrite at least 150 words",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "I am writing in response to a letter that I received recently stating that my yearly car insurance premium would increase by 20 per cent for the next cycle. I, however, feel that the decision is irrational and contradicts  the competition.",
+        "I am Pravin Amin, your customer for  the last 7 years.My policy no is 6345887769.",
+        "As per my findings, I am already paying a higher insurance premium as compared to other companies for similar features and so i feel an increase in premium is unjustified. I have always paid the premium in due time which you can check in your database.",
+        "Since I am not willing to pay the extra amount but want to manage it with your company, I am hoping that you will reduce the premium amount. Otherwise, I will be forced to move my policy to another company.",
+        "I expect a detailed clarification and prompt reply from you.",
+        "Yours faithfully,",
+        "Pravin Amin"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "i",
+                "start_idx": 466,
+                "end_idx": 467,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            }
+        ]
+    },
+    "submitter": "pravinamin",
+    "num_words": 160,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "however",
+            "next",
+            "last",
+            "otherwise"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "premium",
+                "occurrences": [
+                    {
+                        "start_idx": 118,
+                        "end_idx": 125
+                    },
+                    {
+                        "start_idx": 400,
+                        "end_idx": 407
+                    },
+                    {
+                        "start_idx": 489,
+                        "end_idx": 496
+                    },
+                    {
+                        "start_idx": 536,
+                        "end_idx": 543
+                    },
+                    {
+                        "start_idx": 719,
+                        "end_idx": 726
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-03T07:22:45.041Z"
+}

@@ -1,0 +1,176 @@
+{
+    "url": "https://writing9.com/text/62e51e428ee1ab00180e4ce1-in-some-countries-more-and-more-people-are-becoming-interested",
+    "file": [
+        "data",
+        "65",
+        "62e51e428ee1ab00180e4ce1.json"
+    ],
+    "topics": [
+        "countries",
+        "people",
+        "history",
+        "house",
+        "resons",
+        "research"
+    ],
+    "question": "in some countries, more and more people are becoming interested in finding out about the history of the house or building they live in. what are the resons for this? how can people research this?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, most people tend to get more information and historical facts about places where they want to live in, and it gaining huge popularity among communities all over the world. durability and curiosity are the main reasons and there are two methods that individuals can find data about houses.",
+        "To begin with, there are two reasons for people's desire about the history of the building. Firstly, understanding the particulars of a building would help in gathering information about how old the place is and what materials were used, for example, earthquakes can cause disaster in old buildings, so people give more attention on durability information to make the best decision. Secondly, in recent days, people are more aware of historical values than in past, as a result, individuals become more appreciative of ancient stories and they become more curious about their own place, so they can pass on this knowledge to the next generation and preserve them for centuries.",
+        "There are some resources available to help out in researching the history of a place, the first one is keeping in touch with elderly local residents who have been living in a particular area for a long_term. For example, old people have heard about events that had happened or maybe they have experienced by themselves. The second source is that we can find solid evidence on social media or in books to find the required information, for instance, people can find articles that include all the details about the families who lived in this habitat, and the materials that were used, and etc...",
+        "In conclusion, it is popular among society to percieve the previous stories of the house, then finding information which stored on the internet or in books, and also interviewing the neighbours can address this interest."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "that",
+                "start_idx": 253,
+                "end_idx": 257,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "by that"
+                ]
+            },
+            {
+                "word": "about",
+                "start_idx": 355,
+                "end_idx": 360,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 628,
+                "end_idx": 630,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "percieve",
+                "start_idx": 1616,
+                "end_idx": 1624,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want percieve to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "perceive"
+                ]
+            }
+        ]
+    },
+    "submitter": "parimelik",
+    "num_words": 297,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "to begin",
+            "secondly",
+            "also",
+            "first",
+            "as a result",
+            "then",
+            "firstly",
+            "next",
+            "second",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 15,
+                        "end_idx": 21
+                    },
+                    {
+                        "start_idx": 340,
+                        "end_idx": 346
+                    },
+                    {
+                        "start_idx": 602,
+                        "end_idx": 608
+                    },
+                    {
+                        "start_idx": 708,
+                        "end_idx": 714
+                    },
+                    {
+                        "start_idx": 1202,
+                        "end_idx": 1208
+                    },
+                    {
+                        "start_idx": 1426,
+                        "end_idx": 1432
+                    }
+                ]
+            },
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 39,
+                        "end_idx": 50
+                    },
+                    {
+                        "start_idx": 468,
+                        "end_idx": 479
+                    },
+                    {
+                        "start_idx": 643,
+                        "end_idx": 654
+                    },
+                    {
+                        "start_idx": 1399,
+                        "end_idx": 1410
+                    },
+                    {
+                        "start_idx": 1674,
+                        "end_idx": 1685
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-30T12:11:31.424Z"
+}

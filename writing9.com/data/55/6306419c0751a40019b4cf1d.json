@@ -1,0 +1,121 @@
+{
+    "url": "https://writing9.com/text/6306419c0751a40019b4cf1d-these-days-a-lot-of-people-have-problems-in-sleeping-what",
+    "file": [
+        "data",
+        "55",
+        "6306419c0751a40019b4cf1d.json"
+    ],
+    "topics": [
+        "people"
+    ],
+    "question": "These days a lot of people have problems in sleeping.What are these causes? What are the solutions?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Adequate and quality sleep has an important role in the health of humans. Unfortunately, the number of people suffering from insomnia increase nowadays. They have a lot of problems  sleeping. This issue has arisen due to many factors which I will explain  of them along with some solutions in the following paragraphs.",
+        "To begin with, there are many reasons for having problems  sleeping. One of the main ones is stress. In today's lives, people are busy and have all kinds of difficulties and worries. Hence, there are a lot of causes that lead to stress in them. Such as, work challenges, financial problems, diseases and many things else. The stress causes the release of some hormones like endorphin. These hormones lead to insomnia. The other one is bad habits before sleeping. For instance, consumption of caffeinated beverages, napping in the evening, eating much and so forth. These habits can make a disturbance in sleep.",
+        "People can do many things to improve their sleeping. Primarily, they can do some relaxing activities. For example, taking a hot shower, listening to light music, breathing practices and yoga. Moreover, they should reduce their bad habits. It means they have to control their daily naps, consumption of caffeine and the amount of eating before sleeping.",
+        "To recap, it's obvious that having trouble  sleeping is a serious issue these days around the world. In order to solve this problem, people can relax before sleeping with some work like having a shower and listening light music. In addition, they should try to change their lifestyle by eliminating bad habits."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 571,
+                "end_idx": 572,
+                "error": "Remove the comma",
+                "error_des": "It appears that the comma after Such as is unnecessary. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "asharifi251",
+    "num_words": 262,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "to begin",
+            "such",
+            "hence",
+            "in addition",
+            "for instance",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "habits",
+                "occurrences": [
+                    {
+                        "start_idx": 758,
+                        "end_idx": 764
+                    },
+                    {
+                        "start_idx": 890,
+                        "end_idx": 896
+                    },
+                    {
+                        "start_idx": 1161,
+                        "end_idx": 1167
+                    },
+                    {
+                        "start_idx": 1586,
+                        "end_idx": 1592
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 103,
+                        "end_idx": 109
+                    },
+                    {
+                        "start_idx": 438,
+                        "end_idx": 444
+                    },
+                    {
+                        "start_idx": 1416,
+                        "end_idx": 1422
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-24T15:20:23.531Z"
+}

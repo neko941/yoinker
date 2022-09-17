@@ -1,0 +1,156 @@
+{
+    "url": "https://writing9.com/text/60322b709e689200183c3c17-prison-is-the-best-way-to-punish-criminals-give-your",
+    "file": [
+        "data",
+        "65",
+        "60322b709e689200183c3c17.json"
+    ],
+    "topics": [
+        "prison",
+        "criminals"
+    ],
+    "question": "Prison is the best way to punish criminals. Give your opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "These days, we are made to meet several kinds of crimes whenever watching televisions and reading newspapers. In such a situation, some people support that cells are the best place for offenders to punish them. In my opinion, I disagree with this statement and in this ,essay I will support my view with examples.",
+        "First of all, the main reason is that the punishments should be decided case by case. Specifically, in terms of petty offenders, such as theft and vandalism, they are not suitable to be sent to jail rubbing shoulders with other murderers and violent criminals. Alternatively, soft options like community service may be the more proper verdict for those petty offenders. On the other hand, some serious criminals, like serial killers, who are harmful to society should be sentenced to capital punishments.",
+        "Furthermore, my second reason is that contemporary jail is too luxurious to give offenders reasonable penalties. For instance, inmates are allowed to watch televisions, read magazines and play sports, which is more like a summer camp instead of a jail. This is totally the waste of our taxes, so offenders should be made to live in a poorer way to pay for their faults.",
+        "Nevertheless, it is not saying that prison is not eligible for punishing offenders. On the contrary, cells can help with rehabilitating the prisoners by educating and training them while serving a sentence. As a result, some inmates will not re-offend after releasing back into the community if they are able to make a living on their own. However, this does not fit in every case.",
+        "In conclusion, although it seems common sense to put offenders in jail, I think it is not the best method to punish them because it is not suitable for the majority of cases. Personally speaking, prison should be the last choice while other ways are failed."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "essay",
+                "start_idx": 270,
+                "end_idx": 275,
+                "error": "Add an article",
+                "error_des": "The noun phrase essay seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an essay",
+                    "the essay"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 1063,
+                "end_idx": 1065,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun jail in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "fanganqi79",
+    "num_words": 310,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "14",
+        "list_linking_words": [
+            "instead",
+            "such",
+            "first",
+            "furthermore",
+            "nevertheless",
+            "on the contrary",
+            "as a result",
+            "although",
+            "however",
+            "last",
+            "on the other hand",
+            "second",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "offenders",
+                "occurrences": [
+                    {
+                        "start_idx": 185,
+                        "end_idx": 194
+                    },
+                    {
+                        "start_idx": 432,
+                        "end_idx": 441
+                    },
+                    {
+                        "start_idx": 673,
+                        "end_idx": 682
+                    },
+                    {
+                        "start_idx": 900,
+                        "end_idx": 909
+                    },
+                    {
+                        "start_idx": 1115,
+                        "end_idx": 1124
+                    },
+                    {
+                        "start_idx": 1262,
+                        "end_idx": 1271
+                    },
+                    {
+                        "start_idx": 1624,
+                        "end_idx": 1633
+                    }
+                ]
+            },
+            {
+                "word": "jail",
+                "occurrences": [
+                    {
+                        "start_idx": 508,
+                        "end_idx": 512
+                    },
+                    {
+                        "start_idx": 870,
+                        "end_idx": 874
+                    },
+                    {
+                        "start_idx": 1066,
+                        "end_idx": 1070
+                    },
+                    {
+                        "start_idx": 1637,
+                        "end_idx": 1641
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-02-21T09:48:06.529Z"
+}

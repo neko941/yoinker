@@ -1,0 +1,90 @@
+{
+    "url": "https://writing9.com/text/5dbac3f763858900180177c2",
+    "file": [
+        "data",
+        "4",
+        "5dbac3f763858900180177c2.json"
+    ],
+    "topics": [
+        "people",
+        "measures",
+        "epidemic"
+    ],
+    "question": "Today more people are overweight than ever before.\n\nWhat in your opinion is the primary cause of this?\n\nWhat measures can be taken to overcome this epidemic?",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "On the one hand, those who believe that job satisfaction is  a prime factor for selecting a job as a career, point out that,  this definitely  develops a positive attitude towards the work they do. Without this, one cannot dedicate completely for the betterment of the firm as well. Similarly, a satisfied employer would work outside the normal working hours and even, ready to take risks for the development of the company. Considering employees, as they contribute more for  the company, which enable them to secure promotions and social security benefits as well. By contrast, if any employer fails to provide a  well functioned working atmosphere for their staff, this might lead staff to quit from there.",
+        "However, others who believe salary is the most important, when choosing a profession over other. Currently, living cost is increasing at an alarming rate; therefore, several employees opt  whichever profession provides  sufficient amount of salary to manage the  requirements of the job seeker. Additionally, they notice  the social security benefits which provide by the employer: house; personal vehicle, and medical benefits. Take engineering graduates as an example, in India most of these degree holders try to get jobs in the banking field rather than their engineering since  the salaries of banking is significantly higher than the other one."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "other",
+                "start_idx": 799,
+                "end_idx": 804,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the other"
+                ]
+            },
+            {
+                "word": "provide",
+                "start_idx": 1066,
+                "end_idx": 1073,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are provided"
+                ]
+            }
+        ]
+    },
+    "submitter": "Sal",
+    "num_words": 215,
+    "num_paragraphs": 2,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "by contrast",
+            "however",
+            "additionally",
+            "therefore",
+            "similarly",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2019-10-31T11:22:31.181Z"
+}

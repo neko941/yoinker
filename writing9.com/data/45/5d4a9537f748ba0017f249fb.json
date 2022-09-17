@@ -1,0 +1,199 @@
+{
+    "url": "https://writing9.com/text/5d4a9537f748ba0017f249fb",
+    "file": [
+        "data",
+        "45",
+        "5d4a9537f748ba0017f249fb.json"
+    ],
+    "topics": [
+        "university",
+        "fees",
+        "employment",
+        "prospects",
+        "graduates",
+        "people",
+        "universities",
+        "arts",
+        "subjects",
+        "philosophy",
+        "history",
+        "courses",
+        "chance"
+    ],
+    "question": "Rising University fees and scarce employment prospects for graduates have led some people to say that universities should not teach arts subjects like philosophy and history, and only practical degree courses that maximize chance of employment.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "University fees have increased remarkably in recent years. Some people argue that subjects which have no role in employment like philosophy and history should not be taught and only practical diploma courses should be focused upon. This essay will argue that although arts subject have no role in getting graduates a job but are important in teaching different aspects of life.",
+        "Fees for students have become a huge problem for parents. They are justifiably worried about their children paying for subjects which have no practical role. Subjects like history and philosophy play no role in helping graduates land a job. For instance, a recent study conducted at Harvard University showed that students don\u2019t take interest in non-practical subjects and just take them to complete their credit hours. For these reasons, people have become bothered about paying universities for subjects with no practical value.",
+        "On the other hand, employment is not the only purpose of going to a University. Students learn other side of the world. It is art subjects like philosophy and history which teach them different aspects of life and the world they are living in which will be of great benefit in their future. A recent study conducted at Cambridge University proved that students who perform well in arts subject are more likely to graduate with a better GPA and land a job. Hence, learning about the world we live in and its history is equally important.",
+        "This essay argued that even though Universities should focus more on practical subjects but other subjects are equally important. In my opinion, subjects like history and philosophy teach students a lot about their surroundings and help them become a more sophisticated person which will help them in their careers."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "arts",
+                "start_idx": 267,
+                "end_idx": 271,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "art"
+                ]
+            },
+            {
+                "word": "have",
+                "start_idx": 280,
+                "end_idx": 284,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "has"
+                ]
+            },
+            {
+                "word": "other side",
+                "start_idx": 1003,
+                "end_idx": 1013,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the other side"
+                ]
+            },
+            {
+                "word": "history which",
+                "start_idx": 1067,
+                "end_idx": 1080,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "history, which"
+                ]
+            },
+            {
+                "word": "subjects but",
+                "start_idx": 1524,
+                "end_idx": 1536,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "subjects, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "vikash.talib",
+    "num_words": 288,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "although",
+            "hence",
+            "on the other hand",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "role",
+                "occurrences": [
+                    {
+                        "start_idx": 105,
+                        "end_idx": 109
+                    },
+                    {
+                        "start_idx": 289,
+                        "end_idx": 293
+                    },
+                    {
+                        "start_idx": 530,
+                        "end_idx": 534
+                    },
+                    {
+                        "start_idx": 581,
+                        "end_idx": 585
+                    }
+                ]
+            },
+            {
+                "word": "philosophy",
+                "occurrences": [
+                    {
+                        "start_idx": 129,
+                        "end_idx": 139
+                    },
+                    {
+                        "start_idx": 562,
+                        "end_idx": 572
+                    },
+                    {
+                        "start_idx": 1053,
+                        "end_idx": 1063
+                    },
+                    {
+                        "start_idx": 1617,
+                        "end_idx": 1627
+                    }
+                ]
+            },
+            {
+                "word": "history",
+                "occurrences": [
+                    {
+                        "start_idx": 144,
+                        "end_idx": 151
+                    },
+                    {
+                        "start_idx": 550,
+                        "end_idx": 557
+                    },
+                    {
+                        "start_idx": 1068,
+                        "end_idx": 1075
+                    },
+                    {
+                        "start_idx": 1416,
+                        "end_idx": 1423
+                    },
+                    {
+                        "start_idx": 1605,
+                        "end_idx": 1612
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-07T09:09:11.521Z"
+}

@@ -1,0 +1,166 @@
+{
+    "url": "https://writing9.com/text/5cc1c42813c26436b98c4d8d-you-have-seen-a-job-advertised-in-the-newspaper-you",
+    "file": [
+        "data",
+        "45",
+        "5cc1c42813c26436b98c4d8d.json"
+    ],
+    "topics": [
+        "job",
+        "newspaper",
+        "manager",
+        "company",
+        "information",
+        "work"
+    ],
+    "question": "You have seen a job advertised in the newspaper. You want to apply for the job.\nWrite a letter to the manager of the company. In your letter\n\u2022 provide information about yourself\n\u2022 give details of your previous work experience\n\u2022 say why the company should consider you for the job",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "one_main_idea_per_paragraph": 6.0,
+            "include_greeting_and_closing": 5.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "I am writing to apply for the post of senior software engineer at your esteemed organisation.",
+        "I have recently came across your company's job vacancy advertisement for Bangalore location in the newspaper. Currently I am residing in Chennai with my sister. My Parents are living in Mysore. I would really want to move to Bangalore which is very near to my hometown and also to enhance my career growth.",
+        "I have five years of experience in XY company which includes three years of experience in Java and two years in oracle. For the past one year, I have been involved in team management as well as web application development. During my stint as a programmer in my previous company, I gained knowledge on some other technologies like angular,python etc. Under my portfolio,I have mentored few entry level trainees and guided them to excel in their work.",
+        "My core strength is flexibility. I extend my working hours if required to complete the assigned work on time. Also, I am capable of handling multiple tasks and delivering it to stakeholders without any delay and defects.",
+        "With my experience and skills, I will surely be able to add value to your company business.",
+        "I look forward to hearing from you at your earliest convenience.",
+        "Yours failthfully,",
+        "Sara"
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "came",
+                "start_idx": 125,
+                "end_idx": 129,
+                "error": "Change the verb form",
+                "error_des": "It appears that the verb came should be in the past participle form. Consider changing it.",
+                "suggetions": [
+                    "come"
+                ]
+            },
+            {
+                "word": "Bangalore",
+                "start_idx": 182,
+                "end_idx": 191,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the Bangalore"
+                ]
+            },
+            {
+                "word": "Currently",
+                "start_idx": 219,
+                "end_idx": 228,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Currently. Consider adding a comma.",
+                "suggetions": [
+                    ",Currently"
+                ]
+            },
+            {
+                "word": "one ",
+                "start_idx": 549,
+                "end_idx": 553,
+                "error": "Correct quantifier usage",
+                "error_des": "It seems that quantifier use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "entry level",
+                "start_idx": 805,
+                "end_idx": 816,
+                "error": "Add a hyphen",
+                "error_des": "It appears that entry level is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "entry-level"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 1037,
+                "end_idx": 1039,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "them"
+                ]
+            },
+            {
+                "word": "failthfully",
+                "start_idx": 1250,
+                "end_idx": 1261,
+                "error": "Correct your spelling",
+                "error_des": "The word failthfully is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "faithfully"
+                ]
+            }
+        ]
+    },
+    "submitter": "e.babuganesh",
+    "num_words": 216,
+    "num_paragraphs": 9,
+    "linking_words": {
+        "num_linking_words": "1",
+        "list_linking_words": [
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "company",
+                "occurrences": [
+                    {
+                        "start_idx": 143,
+                        "end_idx": 150
+                    },
+                    {
+                        "start_idx": 455,
+                        "end_idx": 462
+                    },
+                    {
+                        "start_idx": 687,
+                        "end_idx": 694
+                    },
+                    {
+                        "start_idx": 1162,
+                        "end_idx": 1169
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T15:56:19.772Z"
+}

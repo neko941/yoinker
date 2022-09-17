@@ -1,0 +1,290 @@
+{
+    "url": "https://writing9.com/text/609b6867b986ba0019424ba7-social-media-has-replaced-the-traditional-methods-of-communication-and",
+    "file": [
+        "data",
+        "6",
+        "609b6867b986ba0019424ba7.json"
+    ],
+    "topics": [
+        "media",
+        "methods",
+        "communication",
+        "people",
+        "news",
+        "events"
+    ],
+    "question": "Social media has replaced the traditional methods of communication, and people use more and more social media to communicate, and to follow news and events. Do the advantages outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In recent years, older communication methods has been rendered obsolete by social media, and most prefer to follow news and events online. The benefits and drawbacks of this trend will be compared in this essay. Personally, I think the advantages outweigh the disadvantages.",
+        "On could benefit immensely if they use social media. These online platforms are significantly fast compared to their ancestors such as TV channels and newspapers. After any shocking neww happened in any part of the world, news spread quickly through social media in just a few seconds. Moreover, it is definitely a cost-benefit way of communication. It is possible to lease a cellphone including unlimited data access which allows users to send and receive text, photo and video messages on social media for less than 50 dollars per month. However, old telephones cost 5 dollars for each time phoning others, and membership of each newspaper or news broadcasting agency is aproximately 50 dollars a month.",
+        "The most important demerit of social media is its addictive nature. Indeed, some users find various types of news about sports, politics and economy interesting so that they get used to follow news whenever possible. It is a time-consuming technology if users become addicted, and it will have negative impacts on other aspects of their life such as work and relationships at home. In addition, there are sometimes fake news spread on the internet which might become misleading. While news on official agencies are often fact checked, it is hardly possible to evaluate the source of news in the cyber-space. A prime example of yhis was romours about COVID-19 vaccines which were not verified by the World Health Organization.",
+        "In conclusion, the advantages of social media such as its speed and expenses outweigh the disadvantages including its addictive nature and impossibility of its contents to be fact checked."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "has",
+                "start_idx": 44,
+                "end_idx": 47,
+                "error": "Change the verb form",
+                "error_des": "The singular verb has does not appear to agree with the plural subject methods. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "have"
+                ]
+            },
+            {
+                "word": "On",
+                "start_idx": 274,
+                "end_idx": 276,
+                "error": "Correct your spelling",
+                "error_des": "The word On doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "One"
+                ]
+            },
+            {
+                "word": "neww",
+                "start_idx": 456,
+                "end_idx": 460,
+                "error": "Correct your spelling",
+                "error_des": "The word neww is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "new",
+                    "news"
+                ]
+            },
+            {
+                "word": "aproximately",
+                "start_idx": 947,
+                "end_idx": 959,
+                "error": "Correct your spelling",
+                "error_des": "The word aproximately is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "approximately"
+                ]
+            },
+            {
+                "word": "economy",
+                "start_idx": 1121,
+                "end_idx": 1128,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "the economy"
+                ]
+            },
+            {
+                "word": "follow",
+                "start_idx": 1166,
+                "end_idx": 1172,
+                "error": "Change the verb form",
+                "error_des": "The verb follow may be in the wrong form after the preposition to. Consider changing it to the gerund form.",
+                "suggetions": [
+                    "following"
+                ]
+            },
+            {
+                "word": "news",
+                "start_idx": 1173,
+                "end_idx": 1177,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "the news"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 1381,
+                "end_idx": 1384,
+                "error": "Change the verb form",
+                "error_des": "The plural form of be are does not seem to agree with the singular subject fake news spread. Consider changing the verb form.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 1491,
+                "end_idx": 1494,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject news. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "fact checked",
+                "start_idx": 1501,
+                "end_idx": 1513,
+                "error": "Add a hyphen",
+                "error_des": "It appears that fact checked is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "fact-checked"
+                ]
+            },
+            {
+                "word": "cyber-space",
+                "start_idx": 1575,
+                "end_idx": 1586,
+                "error": "Correct your spelling",
+                "error_des": "The word cyber-space doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "cyber space"
+                ]
+            },
+            {
+                "word": "yhis",
+                "start_idx": 1607,
+                "end_idx": 1611,
+                "error": "Correct your spelling",
+                "error_des": "The word yhis is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "this"
+                ]
+            },
+            {
+                "word": "romours",
+                "start_idx": 1616,
+                "end_idx": 1623,
+                "error": "Correct your spelling",
+                "error_des": "The word romours is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "rumours"
+                ]
+            },
+            {
+                "word": "fact checked",
+                "start_idx": 1881,
+                "end_idx": 1893,
+                "error": "Add a hyphen",
+                "error_des": "It appears that fact checked is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "fact-checked"
+                ]
+            }
+        ]
+    },
+    "submitter": "mahyarkazeroi",
+    "num_words": 306,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "such",
+            "however",
+            "in addition",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "news",
+                "occurrences": [
+                    {
+                        "start_idx": 115,
+                        "end_idx": 119
+                    },
+                    {
+                        "start_idx": 426,
+                        "end_idx": 430
+                    },
+                    {
+                        "start_idx": 497,
+                        "end_idx": 501
+                    },
+                    {
+                        "start_idx": 907,
+                        "end_idx": 911
+                    },
+                    {
+                        "start_idx": 920,
+                        "end_idx": 924
+                    },
+                    {
+                        "start_idx": 1090,
+                        "end_idx": 1094
+                    },
+                    {
+                        "start_idx": 1174,
+                        "end_idx": 1178
+                    },
+                    {
+                        "start_idx": 1401,
+                        "end_idx": 1405
+                    },
+                    {
+                        "start_idx": 1466,
+                        "end_idx": 1470
+                    },
+                    {
+                        "start_idx": 1564,
+                        "end_idx": 1568
+                    }
+                ]
+            },
+            {
+                "word": "media",
+                "occurrences": [
+                    {
+                        "start_idx": 82,
+                        "end_idx": 87
+                    },
+                    {
+                        "start_idx": 321,
+                        "end_idx": 326
+                    },
+                    {
+                        "start_idx": 532,
+                        "end_idx": 537
+                    },
+                    {
+                        "start_idx": 773,
+                        "end_idx": 778
+                    },
+                    {
+                        "start_idx": 1018,
+                        "end_idx": 1023
+                    },
+                    {
+                        "start_idx": 1747,
+                        "end_idx": 1752
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-05-12T05:50:05.142Z"
+}

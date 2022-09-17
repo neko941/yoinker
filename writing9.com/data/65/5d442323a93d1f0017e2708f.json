@@ -1,0 +1,209 @@
+{
+    "url": "https://writing9.com/text/5d442323a93d1f0017e2708f",
+    "file": [
+        "data",
+        "65",
+        "5d442323a93d1f0017e2708f.json"
+    ],
+    "topics": [
+        "governments",
+        "support",
+        "artists",
+        "people",
+        "waste",
+        "money"
+    ],
+    "question": "Governments give a lot of support to artists, even though some people think it is a waste of money that could have been used elsewhere. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Although it is thought by some that the government focusing more on supporting artist is a waste and that the funds should be diverted into other sections. In my opinion, I believe that these resources could be used in other areas like the health industry in order to enhance the quality of lives of the public.",
+        "On the one hand, some people think that governments need to support the artists because they cannot raise enough funds to run the industry. In other words, artists require help because the revenue generated cannot be sufficient to effectively provide the services required of them. Furthermore, in order to prevent high entrance fee to places on interest like the art galleries, museums it is essential that the state continually supprts the artists. For example, there was a low turnout at the opening of the National museum in Lagos as a result of the high entrance fee. The management complained that lack of support from the governing bodies resulted in the high gate fee.",
+        "On the other hand, it is thought by another set that the funds expended on the artists can be used to augment the health sector in order to improve quality of lives and I agree. In other words, the government can provide various machinery and other high end equipments, consequently, this will help the doctors and nurses carry out their job effortlessly and provide outstanding results. For example, since the government imcreased the Nigerian budget increased the budget of the health industry and dropped that of the art industry, there has been a remarkable reduction in the mortality rate recorded. This emphasizes the need of government increased and continual support the health sector.",
+        "In conclusion, while people may vary in their opinions, I believe that it is highly essential that the government focuses more on improving the health of the public by providing high end equipments to ease the jobs of the health practitioners."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "lives",
+                "start_idx": 290,
+                "end_idx": 295,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the lives"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 654,
+                "end_idx": 656,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "supprts",
+                "start_idx": 741,
+                "end_idx": 748,
+                "error": "give moral or psychological support, aid, or courage to",
+                "error_des": "",
+                "suggetions": [
+                    "supports",
+                    "support"
+                ]
+            },
+            {
+                "word": "museum",
+                "start_idx": 830,
+                "end_idx": 836,
+                "error": "a depository for collecting and displaying objects having scientific or historical or artistic value",
+                "error_des": "",
+                "suggetions": [
+                    "Museum"
+                ]
+            },
+            {
+                "word": "imcreased",
+                "start_idx": 1410,
+                "end_idx": 1419,
+                "error": "made greater in size or amount or degree",
+                "error_des": "",
+                "suggetions": [
+                    "increased",
+                    "increase"
+                ]
+            }
+        ]
+    },
+    "submitter": "Mabel",
+    "num_words": 323,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "on the other hand",
+            "this",
+            "for example",
+            "consequently",
+            "as a result",
+            "in other words",
+            "although",
+            "furthermore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 40,
+                        "end_idx": 50
+                    },
+                    {
+                        "start_idx": 352,
+                        "end_idx": 362
+                    },
+                    {
+                        "start_idx": 1187,
+                        "end_idx": 1197
+                    },
+                    {
+                        "start_idx": 1400,
+                        "end_idx": 1410
+                    },
+                    {
+                        "start_idx": 1621,
+                        "end_idx": 1631
+                    },
+                    {
+                        "start_idx": 1786,
+                        "end_idx": 1796
+                    }
+                ]
+            },
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 240,
+                        "end_idx": 246
+                    },
+                    {
+                        "start_idx": 1103,
+                        "end_idx": 1109
+                    },
+                    {
+                        "start_idx": 1469,
+                        "end_idx": 1475
+                    },
+                    {
+                        "start_idx": 1668,
+                        "end_idx": 1674
+                    },
+                    {
+                        "start_idx": 1827,
+                        "end_idx": 1833
+                    },
+                    {
+                        "start_idx": 1905,
+                        "end_idx": 1911
+                    }
+                ]
+            },
+            {
+                "word": "industry",
+                "occurrences": [
+                    {
+                        "start_idx": 247,
+                        "end_idx": 255
+                    },
+                    {
+                        "start_idx": 442,
+                        "end_idx": 450
+                    },
+                    {
+                        "start_idx": 1476,
+                        "end_idx": 1484
+                    },
+                    {
+                        "start_idx": 1513,
+                        "end_idx": 1521
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-02T11:48:51.806Z"
+}

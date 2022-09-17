@@ -1,0 +1,306 @@
+{
+    "url": "https://writing9.com/text/62f15bfe0562ec00182a1697-today-some-people-have-to-work-away-from-their-family",
+    "file": [
+        "data",
+        "55",
+        "62f15bfe0562ec00182a1697.json"
+    ],
+    "topics": [
+        "people",
+        "work"
+    ],
+    "question": "Today some people have to work away from their family. What are the advantages and disadvantages?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, a significant number of people are migrate to find a job in other nations and being away from their parents, children and spouse. While there are many benefits to working in different countries, there are also some drawbacks to consider.",
+        "On the one hand, many believe that the benefits from the mentioned reason cannot be ignored. To begin with, due to economic problems the poor people or some, which do not have a suitable job and couldn't find one for themselves may looking for it in another cities. That is to say, they might be suffering from financial issues and to get rid of it they should be living in far distance from their family. For instance, when you look you, it can be seen that many Afghanish worker are working in Iran far from their families. Moreover, when they want to progress, this reason is great chance for them. This in turn probable has a positive impact on their lifestyle, and affects their children futures.",
+        "On the other hand, others argue that this action will have irreparable consequences. The main reason justifying their belief is that being with family cannot be replaced by anything. In other words, labours who are far from their province in some cases they may feel loneliness and homeless. More specifically, this change in their life leads to depression and other mental illnesses in them. A good example of this is children that are living without their parents and their supporter might feel emptiness in their lives and face more serious problems in the future. Furthermore, the one who decide to migrate should be aware of its both profits and harms. For many, the only positive point from this act is living in welthy condition.",
+        "To sum up, it really depends on people situation to decide living far from their family with high income, or with them but in hard condition. So, both sides of the story must be considered. Progress in life always requires hard work."
+    ],
+    "errors": {
+        "num_error": "23",
+        "error_list": [
+            {
+                "word": "are migrate",
+                "start_idx": 40,
+                "end_idx": 51,
+                "error": "Change the verb form",
+                "error_des": "It appears that the form of the verb migrate does not work with are in this sentence.",
+                "suggetions": [
+                    "are migrating"
+                ]
+            },
+            {
+                "word": "being",
+                "start_idx": 87,
+                "end_idx": 92,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb being. Consider changing it.",
+                "suggetions": [
+                    "be"
+                ]
+            },
+            {
+                "word": "looking",
+                "start_idx": 479,
+                "end_idx": 486,
+                "error": "Change the verb form",
+                "error_des": "The verb looking after the modal verb may does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "look",
+                    "be looking"
+                ]
+            },
+            {
+                "word": "another cities",
+                "start_idx": 497,
+                "end_idx": 511,
+                "error": "Replace the adjective",
+                "error_des": "The adjective another appears to be modifying the plural noun cities. Consider replacing it with the adjective other.",
+                "suggetions": [
+                    "another city",
+                    "other cities"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 593,
+                "end_idx": 595,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "them"
+                ]
+            },
+            {
+                "word": "in ",
+                "start_idx": 618,
+                "end_idx": 621,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "far",
+                "start_idx": 621,
+                "end_idx": 624,
+                "error": "Add an article",
+                "error_des": "The noun phrase far distance seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the far"
+                ]
+            },
+            {
+                "word": "you",
+                "start_idx": 681,
+                "end_idx": 684,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at you"
+                ]
+            },
+            {
+                "word": "worker",
+                "start_idx": 721,
+                "end_idx": 727,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun worker follows the quantifier many, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "workers"
+                ]
+            },
+            {
+                "word": "great",
+                "start_idx": 826,
+                "end_idx": 831,
+                "error": "Add an article",
+                "error_des": "The noun phrase great chance seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a great"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 912,
+                "end_idx": 913,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound predicate. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "children",
+                "start_idx": 931,
+                "end_idx": 939,
+                "error": "Change noun form",
+                "error_des": "It seems that this noun form may be incorrect.",
+                "suggetions": [
+                    "children's"
+                ]
+            },
+            {
+                "word": "they ",
+                "start_idx": 1202,
+                "end_idx": 1207,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "loneliness",
+                "start_idx": 1216,
+                "end_idx": 1226,
+                "error": "Replace the word",
+                "error_des": "The word loneliness doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "lonely"
+                ]
+            },
+            {
+                "word": "decide",
+                "start_idx": 1542,
+                "end_idx": 1548,
+                "error": "Change the verb form",
+                "error_des": "The plural verb decide does not appear to agree with the singular subject the one. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "decides"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 1641,
+                "end_idx": 1645,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1668,
+                "end_idx": 1668,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want welthy to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "wealthy"
+                ]
+            },
+            {
+                "word": "welthy",
+                "start_idx": 1668,
+                "end_idx": 1674,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want welthy to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "wealthy"
+                ]
+            },
+            {
+                "word": "condition",
+                "start_idx": 1675,
+                "end_idx": 1684,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that condition may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "conditions"
+                ]
+            },
+            {
+                "word": "people",
+                "start_idx": 1718,
+                "end_idx": 1724,
+                "error": "Change noun form",
+                "error_des": "It seems that this noun form may be incorrect.",
+                "suggetions": [
+                    "people's"
+                ]
+            },
+            {
+                "word": "living",
+                "start_idx": 1745,
+                "end_idx": 1751,
+                "error": "Change the verb form",
+                "error_des": "The verb decide is usually followed by the to-infinitive, not by a gerund. Change living to the to-infinitive form.",
+                "suggetions": [
+                    "to live"
+                ]
+            },
+            {
+                "word": "high",
+                "start_idx": 1779,
+                "end_idx": 1783,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a high"
+                ]
+            },
+            {
+                "word": "condition",
+                "start_idx": 1817,
+                "end_idx": 1826,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that condition may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "conditions"
+                ]
+            }
+        ]
+    },
+    "submitter": "kianaamani",
+    "num_words": 333,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "to begin",
+            "also",
+            "furthermore",
+            "in other words",
+            "that is",
+            "on the other hand",
+            "for instance",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-08-08T18:54:55.625Z"
+}

@@ -1,0 +1,215 @@
+{
+    "url": "https://writing9.com/text/62dea17f8ee1ab00180e4172-write-a-letter-to-your-neighbour-who-is-having-animals",
+    "file": [
+        "data",
+        "45",
+        "62dea17f8ee1ab00180e4172.json"
+    ],
+    "topics": [
+        "neighbour",
+        "animals",
+        "garden",
+        "members"
+    ],
+    "question": "Write a letter to your neighbour who is having animals in his/her garden. You and your family members are having problems with the animals- introduce yourself- tell the problem- suggest solutions",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 5.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr. Jones,",
+        "I am Angelica Sumampong, me and my family just recently moved in next to your house a week ago and I'm writing a complaint letter to you regarding to the cats and dogs you have in your house.",
+        "First of all, I'm not sure if you are aware, but some of your cats are going inside the house and try to get some of our left-over foods left in the table. it doesn't bother me that much but the thing is, they also leave a mess in our kitchen, their footprints are all over at the top of table and it adds to my workload for the day.",
+        "Secondly, your dogs, It's probably a routine for them to roam around in your garden to poop or do a lot of exercise. One thing I realize in this neighborhood is that the fence are small where it's just to my waist level. It greatly bothers me that they can easily jump over the fence and poop on our garden. I want to suggest to you that every night you secure the cats in your house and make sure they can't get out. As for the dogs, I suggest that you put a leash on them everytime you let them out in your garden. I hope you find the time to reconsider my suggestions and I look forward to catching up with you.",
+        "Yours truly,",
+        "Angelica"
+    ],
+    "errors": {
+        "num_error": "12",
+        "error_list": [
+            {
+                "word": "Mr.",
+                "start_idx": 4,
+                "end_idx": 7,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": "me",
+                "start_idx": 40,
+                "end_idx": 42,
+                "error": "Change the pronoun",
+                "error_des": "It appears you have used the object pronoun me in a subjective position. Consider changing it.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 162,
+                "end_idx": 165,
+                "error": "Remove the preposition",
+                "error_des": "The preposition to after regarding may be unnecessary. Consider removing the second preposition.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "try",
+                "start_idx": 305,
+                "end_idx": 308,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb try. Consider changing it.",
+                "suggetions": [
+                    "trying"
+                ]
+            },
+            {
+                "word": "left-over",
+                "start_idx": 328,
+                "end_idx": 337,
+                "error": "Correct your spelling",
+                "error_des": "The word left-over doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "leftover"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 349,
+                "end_idx": 351,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "at ",
+                "start_idx": 481,
+                "end_idx": 484,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "table",
+                "start_idx": 495,
+                "end_idx": 500,
+                "error": "Add an article",
+                "error_des": "The noun phrase table seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the table"
+                ]
+            },
+            {
+                "word": "exercise",
+                "start_idx": 648,
+                "end_idx": 656,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun exercise follows the quantifier lot, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "exercises"
+                ]
+            },
+            {
+                "word": "neighborhood",
+                "start_idx": 686,
+                "end_idx": 698,
+                "error": "Change the spelling",
+                "error_des": "The spelling of neighborhood is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "neighbourhood"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 717,
+                "end_idx": 720,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject the fence. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "everytime",
+                "start_idx": 1015,
+                "end_idx": 1024,
+                "error": "Replace the word",
+                "error_des": "Everytime is not a word. Replace this with the two separate words \u2014 every time.",
+                "suggetions": [
+                    "every time"
+                ]
+            }
+        ]
+    },
+    "submitter": "angelica",
+    "num_words": 237,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "secondly",
+            "also",
+            "first",
+            "next",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "house",
+                "occurrences": [
+                    {
+                        "start_idx": 94,
+                        "end_idx": 99
+                    },
+                    {
+                        "start_idx": 201,
+                        "end_idx": 206
+                    },
+                    {
+                        "start_idx": 296,
+                        "end_idx": 301
+                    },
+                    {
+                        "start_idx": 920,
+                        "end_idx": 925
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-25T13:58:25.473Z"
+}

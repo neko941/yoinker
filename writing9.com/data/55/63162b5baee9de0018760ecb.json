@@ -1,0 +1,470 @@
+{
+    "url": "https://writing9.com/text/63162b5baee9de0018760ecb-many-students-find-it-difficult-to-concentrate-or-pay-attention",
+    "file": [
+        "data",
+        "55",
+        "63162b5baee9de0018760ecb.json"
+    ],
+    "topics": [
+        "students",
+        "attention",
+        "school"
+    ],
+    "question": "Many students find it difficult to concentrate or pay attention in school. What are the reasons? What could be done to solve this problem?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In these days, it is common to find the difficulty of focusing at school of several students. This cause by student using mobilephone in class. To solve this problem school should enforce strict regulation to limt the use of hand sets in the classroom.",
+        "On the one hand, the main reason why students hard to concentrate or focus on lesson that using smart phone for chatting. For example, with new game released every weekend, male student tend to more concentrate on their games rather than homework they have to finish for the next class. It can be seen thatusing mobile phone during learning hours can be serious interuption in their knowledge. The way to solve this problem is school need installation of the surveillance system which uses for tracking student is necessary.",
+        "On the other hand, the boredom with several lessons in their classroom is the second main reason. For instance, student feel tedious and theoretical with repetitive long lessons from their teachers such as literature and philosophy. It can be seen that too much teaching increases the rate of student distraction. To solve this the modification of teaching methods from theoretical lesson to practical lessons with outdoor activities help student improve their sense of focus.",
+        "In conclusion, it is many external factor that affect students ability to concentrate, but with strict regulations and change in lesson at school, the quality of class has been improved."
+    ],
+    "errors": {
+        "num_error": "33",
+        "error_list": [
+            {
+                "word": "In these",
+                "start_idx": 0,
+                "end_idx": 8,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "These"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 50,
+                "end_idx": 53,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 98,
+                "end_idx": 98,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "is cause"
+                ]
+            },
+            {
+                "word": "cause",
+                "start_idx": 98,
+                "end_idx": 103,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb cause. Consider changing it.",
+                "suggetions": [
+                    "caused"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 107,
+                "end_idx": 107,
+                "error": "Add an article",
+                "error_des": "The noun phrase student seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the student",
+                    "a student"
+                ]
+            },
+            {
+                "word": "student",
+                "start_idx": 107,
+                "end_idx": 114,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that student may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "students"
+                ]
+            },
+            {
+                "word": "mobilephone",
+                "start_idx": 121,
+                "end_idx": 132,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want mobilephone to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "mobile phone"
+                ]
+            },
+            {
+                "word": "school",
+                "start_idx": 165,
+                "end_idx": 171,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that school may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "schools"
+                ]
+            },
+            {
+                "word": "regulation",
+                "start_idx": 194,
+                "end_idx": 204,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that regulation may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "regulations"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 208,
+                "end_idx": 208,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want limt to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "limit"
+                ]
+            },
+            {
+                "word": "limt",
+                "start_idx": 208,
+                "end_idx": 212,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want limt to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "limit"
+                ]
+            },
+            {
+                "word": "hand sets",
+                "start_idx": 224,
+                "end_idx": 233,
+                "error": "Correct your spelling",
+                "error_des": "The word hand sets seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "handsets"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 330,
+                "end_idx": 330,
+                "error": "Add an article",
+                "error_des": "The noun phrase lesson seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the lesson"
+                ]
+            },
+            {
+                "word": "lesson",
+                "start_idx": 330,
+                "end_idx": 336,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that lesson may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "lessons"
+                ]
+            },
+            {
+                "word": "smart phone",
+                "start_idx": 348,
+                "end_idx": 359,
+                "error": "Correct your spelling",
+                "error_des": "The word smart phone seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "smartphone"
+                ]
+            },
+            {
+                "word": "new",
+                "start_idx": 392,
+                "end_idx": 395,
+                "error": "Add an article",
+                "error_des": "The noun phrase new game seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the new"
+                ]
+            },
+            {
+                "word": "game",
+                "start_idx": 396,
+                "end_idx": 400,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that game may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "games"
+                ]
+            },
+            {
+                "word": "student",
+                "start_idx": 430,
+                "end_idx": 437,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that student may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "students"
+                ]
+            },
+            {
+                "word": "homework",
+                "start_idx": 490,
+                "end_idx": 498,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the homework"
+                ]
+            },
+            {
+                "word": "thatusing",
+                "start_idx": 554,
+                "end_idx": 563,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want thatusing to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "that using"
+                ]
+            },
+            {
+                "word": "serious",
+                "start_idx": 606,
+                "end_idx": 613,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a serious"
+                ]
+            },
+            {
+                "word": "interuption",
+                "start_idx": 614,
+                "end_idx": 625,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want interuption to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "interruption"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 707,
+                "end_idx": 710,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "which ",
+                "start_idx": 731,
+                "end_idx": 737,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "student",
+                "start_idx": 755,
+                "end_idx": 762,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that student may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "students"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 796,
+                "end_idx": 800,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "student",
+                "start_idx": 889,
+                "end_idx": 896,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that student may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "students"
+                ]
+            },
+            {
+                "word": "student",
+                "start_idx": 1216,
+                "end_idx": 1223,
+                "error": "Add an article",
+                "error_des": "The noun phrase student seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the student",
+                    "a student"
+                ]
+            },
+            {
+                "word": "factor",
+                "start_idx": 1289,
+                "end_idx": 1295,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun factor follows the quantifier many, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "factors"
+                ]
+            },
+            {
+                "word": "affect",
+                "start_idx": 1301,
+                "end_idx": 1307,
+                "error": "Change the verb form",
+                "error_des": "The plural verb affect does not appear to agree with the singular subject many external factor. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "affects"
+                ]
+            },
+            {
+                "word": "students",
+                "start_idx": 1308,
+                "end_idx": 1316,
+                "error": "Change noun form",
+                "error_des": "It seems that this noun form may be incorrect.",
+                "suggetions": [
+                    "students'",
+                    "student's"
+                ]
+            },
+            {
+                "word": "lesson",
+                "start_idx": 1383,
+                "end_idx": 1389,
+                "error": "Add an article",
+                "error_des": "The noun phrase lesson seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a lesson",
+                    "the lesson"
+                ]
+            },
+            {
+                "word": "class",
+                "start_idx": 1416,
+                "end_idx": 1421,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the class"
+                ]
+            }
+        ]
+    },
+    "submitter": "thaothanh1323",
+    "num_words": 236,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "such",
+            "next",
+            "second",
+            "on the other hand",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "school",
+                "occurrences": [
+                    {
+                        "start_idx": 66,
+                        "end_idx": 72
+                    },
+                    {
+                        "start_idx": 166,
+                        "end_idx": 172
+                    },
+                    {
+                        "start_idx": 680,
+                        "end_idx": 686
+                    },
+                    {
+                        "start_idx": 1394,
+                        "end_idx": 1400
+                    }
+                ]
+            },
+            {
+                "word": "student",
+                "occurrences": [
+                    {
+                        "start_idx": 84,
+                        "end_idx": 91
+                    },
+                    {
+                        "start_idx": 108,
+                        "end_idx": 115
+                    },
+                    {
+                        "start_idx": 290,
+                        "end_idx": 297
+                    },
+                    {
+                        "start_idx": 431,
+                        "end_idx": 438
+                    },
+                    {
+                        "start_idx": 756,
+                        "end_idx": 763
+                    },
+                    {
+                        "start_idx": 890,
+                        "end_idx": 897
+                    },
+                    {
+                        "start_idx": 1071,
+                        "end_idx": 1078
+                    },
+                    {
+                        "start_idx": 1217,
+                        "end_idx": 1224
+                    },
+                    {
+                        "start_idx": 1309,
+                        "end_idx": 1316
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-05T17:01:16.946Z"
+}

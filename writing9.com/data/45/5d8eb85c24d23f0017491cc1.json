@@ -1,0 +1,212 @@
+{
+    "url": "https://writing9.com/text/5d8eb85c24d23f0017491cc1-your-neighbors-have-recently-written-to-you-to-complain-about",
+    "file": [
+        "data",
+        "45",
+        "5d8eb85c24d23f0017491cc1.json"
+    ],
+    "topics": [
+        "neighbors",
+        "noise",
+        "house",
+        "action"
+    ],
+    "question": "Your neighbors have recently written to you to complain about the noise from your house/ flat.\n\nWrite a letter to your neighbors. In your letter\n\nexplain the reasons for the noise\napologize\ndescribe what action you will take",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 5.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "DEAR MRS PATEL,",
+        "I AM WRITING THIS KETTER IN REFERENCE TO YOUR COMPLAIN ABOUT NOISE WHICH WAS COMING FROM MY HOME LAST SUNDAY. I AM SO SORRY ABOUT THE DISTURBANCE THAT YOU HAD FACED. ACTUALLY, WE THROWED PARTY AT OUR HOME ON MY SISTER'S BIRTHDAY FROM 7 PM TO 10 PM. WE HAD MUSIC SYSTEM ON BECAUSE THERE WERE MANY SMALL CHILDRENS. EVEN WE INVITED YOUR FAMLY TOO FOR THE CELEBRATION.",
+        "I WAS TOTALLY UNAWARE OF THAT NOISE WAS COMING OUT SO LODLY. I REALLY REGRET THAT IT HAD SPOILED YOUR NIGH. AND ALSO I APOLOZISE FOR NOT TAKEING CARE OF THE NOISE DURING THE PARTY. PLEASE ACCEPT THE BOX OF CHOCOLATE AS TOKEN OF MY APOLOGY. PLEASE ACCEPT MY HUMBLE REQUEST FOR FORGIVENESS.",
+        "FROM NOW ONWARDS I WILL MAKE SURE WILL NOT FACE THIS DISTURBANCE AGAIN BY ANY MEANS. ALSO I WILL MY SIBLINGS TO KEEP LOWER VOLUME WHENEVER THEY WATCH TELE-VISION."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "",
+                "start_idx": 194,
+                "end_idx": 194,
+                "error": "Correct your spelling",
+                "error_des": "The word THROWED is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "THROW"
+                ]
+            },
+            {
+                "word": "THROWED",
+                "start_idx": 194,
+                "end_idx": 201,
+                "error": "Correct your spelling",
+                "error_des": "It appears that the verb THROWED is misspelled. Correct the spelling.",
+                "suggetions": [
+                    "THREW"
+                ]
+            },
+            {
+                "word": "PARTY",
+                "start_idx": 202,
+                "end_idx": 207,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "A PARTY"
+                ]
+            },
+            {
+                "word": "MUSIC",
+                "start_idx": 271,
+                "end_idx": 276,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "A MUSIC"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 317,
+                "end_idx": 317,
+                "error": "Correct your spelling",
+                "error_des": "The word CHILDRENS is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "CHILDREN"
+                ]
+            },
+            {
+                "word": "CHILDRENS",
+                "start_idx": 317,
+                "end_idx": 326,
+                "error": "Correct your spelling",
+                "error_des": "It appears that the noun CHILDRENS is misspelled. Correct the spelling.",
+                "suggetions": [
+                    "CHILDREN"
+                ]
+            },
+            {
+                "word": "FAMLY",
+                "start_idx": 349,
+                "end_idx": 354,
+                "error": "Correct your spelling",
+                "error_des": "The word FAMLY doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "FAMILY"
+                ]
+            },
+            {
+                "word": "LODLY",
+                "start_idx": 434,
+                "end_idx": 439,
+                "error": "Correct your spelling",
+                "error_des": "The word LODLY is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "LOUDLY",
+                    "SLOWLY",
+                    "LOVELY"
+                ]
+            },
+            {
+                "word": "NIGH",
+                "start_idx": 482,
+                "end_idx": 486,
+                "error": "Correct your spelling",
+                "error_des": "The word NIGH doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "NIGHT"
+                ]
+            },
+            {
+                "word": "APOLOZISE",
+                "start_idx": 499,
+                "end_idx": 508,
+                "error": "Correct your spelling",
+                "error_des": "The word APOLOZISE is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "APOLOGISE",
+                    "APOLOGIZE"
+                ]
+            },
+            {
+                "word": "TAKEING",
+                "start_idx": 517,
+                "end_idx": 524,
+                "error": "Correct your spelling",
+                "error_des": "The word TAKEING is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "TAKING"
+                ]
+            },
+            {
+                "word": "TOKEN",
+                "start_idx": 599,
+                "end_idx": 604,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "A TOKEN"
+                ]
+            },
+            {
+                "word": "ALSO",
+                "start_idx": 754,
+                "end_idx": 758,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase ALSO. Consider adding a comma.",
+                "suggetions": [
+                    ",ALSO"
+                ]
+            },
+            {
+                "word": "TELE-VISION",
+                "start_idx": 819,
+                "end_idx": 830,
+                "error": "Correct your spelling",
+                "error_des": "The word TELE-VISION doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "TELEVISION"
+                ]
+            }
+        ]
+    },
+    "submitter": "drsefalipatel",
+    "num_words": 153,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "also",
+            "last",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-14T15:26:48.285Z"
+}

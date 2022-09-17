@@ -1,0 +1,153 @@
+{
+    "url": "https://writing9.com/text/5d93624224d23f00174a503f-there-have-been-some-problems-with-the-bus-service-especially",
+    "file": [
+        "data",
+        "65",
+        "5d93624224d23f00174a503f.json"
+    ],
+    "topics": [
+        "bus",
+        "service",
+        "reliability",
+        "area",
+        "two",
+        "weeks",
+        "manager",
+        "company"
+    ],
+    "question": "There have been some problems with the bus service, especially its reliability, in your area over the last two weeks.\n\nWrite a letter to the manager of the bus company. In your letter\n\n\u2022    describe what the problems are\n\n\u2022    explain how these problems are affecting you\n\n\u2022    suggest what you would like the company to do",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Ma,",
+        "I\u2019m writing with reference to the Bus No 5678 that plies the Lekki-V.I route. I have been encountering some issues as a result of the poor service in my area. I have to be at work for 8am every morning, therefore I have to leave with the 7: 00am bus. However the bus is at least 45 minutes late daily and that means I end up getting to work late. The usual response from the driver upon enquiry is that there are not enough buses to cover that area hence the delays.",
+        "This is really causing a lot of problems for me at work and I would appreciate if this is addressed to avoid me getting into any more trouble.",
+        "I suggest that the company adds more buses to their fleet so that more than one bus can be allocated to each area. This would help reduce the persistent delays and unreliability that various areas including mine keep experiencing.",
+        "Thank you in anticipation of your prompt action.",
+        "Yours Faithfully,",
+        "Mirabel Akpaka"
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "the ",
+                "start_idx": 42,
+                "end_idx": 46,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 192,
+                "end_idx": 195,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "with",
+                "start_idx": 241,
+                "end_idx": 245,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "However",
+                "start_idx": 263,
+                "end_idx": 270,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase However. Consider adding a comma.",
+                "suggetions": [
+                    ",However"
+                ]
+            },
+            {
+                "word": "if",
+                "start_idx": 558,
+                "end_idx": 560,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "it if"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 173,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "hence",
+            "therefore",
+            "as a result",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "bus",
+                "occurrences": [
+                    {
+                        "start_idx": 259,
+                        "end_idx": 262
+                    },
+                    {
+                        "start_idx": 276,
+                        "end_idx": 279
+                    },
+                    {
+                        "start_idx": 437,
+                        "end_idx": 440
+                    },
+                    {
+                        "start_idx": 660,
+                        "end_idx": 663
+                    },
+                    {
+                        "start_idx": 703,
+                        "end_idx": 706
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T16:59:06.465Z"
+}

@@ -1,0 +1,131 @@
+{
+    "url": "https://writing9.com/text/61d70383a94bad001887489e-some-people-say-that-in-all-levels-of-education-from",
+    "file": [
+        "data",
+        "85",
+        "61d70383a94bad001887489e.json"
+    ],
+    "topics": [
+        "people",
+        "levels",
+        "education",
+        "schools",
+        "universities",
+        "time",
+        "facts",
+        "skills"
+    ],
+    "question": "Some people say that in all levels of education, from the primary schools to universities, too much time is spend on learning facts and not enough on learning practiacal skills.Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In a variety of education, many institutions have mostly the structure of teaching on learning facts and lack practical skills. I strongly agree with people who says that too much time is spent on learning facts and not enough on learning practical skills, in all levels of education.",
+        "Since I was young, I have been taught about the facts and theories on every subject, then, remember everything and, of course, have an examination in order to access the knowledge you gained. Surely, I believe it is important to know the theory of how \u2018thing works\u2019. This knowledge encourages understanding, but without hands-on practice, it\u2019s useless. For instance, I had been studying the French language in university, I have learned all the basic knowledge, such as grammar and tenses. It is a very good fundamental skill for beginner learners to understand the structure of the language.",
+        "However, there are few practical classes, when we can develop our skills, for example, conversation classes and critical thinking classes. Then, I could realize \u2013 mainly when I started working \u2013 I am lack confidence, the way of thinking and especially vocabulary, so that, I cannot use it appropriately and correctly as a native speaker. That\u2019s why the institution should consider the importance of balance in terms of theory and practical skills.",
+        "In conclusion, a balanced education is essential. I wholeheartedly believe it would be more capable to cope with personal and professional problems and lastly can raise the level of education to be better."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 256,
+                "end_idx": 258,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            }
+        ]
+    },
+    "submitter": "mynamesnut",
+    "num_words": 250,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "such",
+            "lastly",
+            "then",
+            "however",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "skills",
+                "occurrences": [
+                    {
+                        "start_idx": 120,
+                        "end_idx": 126
+                    },
+                    {
+                        "start_idx": 249,
+                        "end_idx": 255
+                    },
+                    {
+                        "start_idx": 944,
+                        "end_idx": 950
+                    },
+                    {
+                        "start_idx": 1318,
+                        "end_idx": 1324
+                    }
+                ]
+            },
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 16,
+                        "end_idx": 25
+                    },
+                    {
+                        "start_idx": 274,
+                        "end_idx": 283
+                    },
+                    {
+                        "start_idx": 1352,
+                        "end_idx": 1361
+                    },
+                    {
+                        "start_idx": 1508,
+                        "end_idx": 1517
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-01-06T15:01:26.577Z"
+}

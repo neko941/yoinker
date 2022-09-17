@@ -263,7 +263,7 @@ def get_url(url, save_dir='data', save_file='thanhnien', format='csv'):
                 info = [file_name, sub_url, year[:4]]
                 with open(data_file, 'a+', newline='') as file:
                     writer = csv.writer(file)
-                    if not data.loc[(data['url'] == sub_url) & (data['year'] == year[:4]) & (data['file_name'] == file_name)].any().all():
+                    if not data.loc[(data['file_name'] == file_name) & (data['url'] == sub_url) & (data['year'] == year[:4])].any().all():
                         writer.writerow(info)
                 print(f'Write => {sub_url}')
         fix_csv(data_file, sort_by_column='file_name')
@@ -272,34 +272,34 @@ def get_url(url, save_dir='data', save_file='thanhnien', format='csv'):
         print()
         if url == None: break
 
-def file_txt_to_list(file_name, duplicate=False, remove_new_line_char=True):
+def file_txt_to_list(file_name, duplicate=False, remove_new_line_char=True, shuffle=False, sort=None):
     lines = []
     for line in open(file_name, 'r').readlines():
         if remove_new_line_char:
             line = line.replace('\n', '')
         lines.append(line)
-    if duplicate:
-        lines = list(set(lines))
+    if duplicate: lines = list(set(lines))
+    if shuffle: random.shuffle(lines)
+    if sort != None:
+        if sort.lower() in ['ascending', 'asc']: lines.sort()
+        elif sort.lower() in ['descending', 'desc']: lines.sort(reverse=True)
     return lines
 
 if __name__ == "__main__":
-    for url in file_txt_to_list('pages.txt'):
-        get_url(url)
+    for i in range(100):
+        for url in file_txt_to_list(file_name='pages.txt', shuffle=True):
+            get_url(url)
 
-    # for url in read(advanced_path_join(['data', 'thanhnien.txt'])):
-    #     time.sleep(1)
-    #     ThanhNienScraper(url).save('data')
+    # with open(os.path.join('data', 'thanhnien.csv'), newline='') as f:
+    #     reader = csv.reader(f)
+    #     data_dir = 'data'
+    #     for idx, row in enumerate(reader):
+    #         print(f'Count: {idx}')
+    #         if row == ['file_name', 'url', 'year']:
+    #             continue
 
-    with open(os.path.join('data', 'thanhnien.csv'), newline='') as f:
-        reader = csv.reader(f)
-        data_dir = 'data'
-        for idx, row in enumerate(reader):
-            print(f'Count: {idx}')
-            if row == ['file_name', 'url', 'year']:
-                continue
-
-            file_path = [data_dir, row[2], row[0]]
-            if not os.path.exists(advanced_path_join(file_path)):
-                ThanhNienScraper(row[1]).save(data_dir)
-            else:
-                print(f'File exists => {advanced_path_join(file_path)}', end='\n\n')
+    #         file_path = [data_dir, row[2], row[0]]
+    #         if not os.path.exists(advanced_path_join(file_path)):
+    #             ThanhNienScraper(row[1]).save(data_dir)
+    #         else:
+    #             print(f'File exists => {advanced_path_join(file_path)}', end='\n\n')

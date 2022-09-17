@@ -1,0 +1,191 @@
+{
+    "url": "https://writing9.com/text/5cc49df1e4b449845d5cb6e5",
+    "file": [
+        "data",
+        "5",
+        "5cc49df1e4b449845d5cb6e5.json"
+    ],
+    "topics": [
+        "employers",
+        "contact",
+        "staff",
+        "times",
+        "holidays",
+        "development"
+    ],
+    "question": "Some employers want to be able to contact their staff all the times, even on holidays. \ndoes this development have more advantages than disadvantages?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The days with 9AM to 5PM jobs are almost gone, many corporations expect their employees to be available at every minute of the day, even on the weekends and the holidays. This trend is not the best way forward, it has more disadvantages then benefits.",
+        "One of the main downsides for the employee is the work life balance, long working hours will have a significant impact on the family life, there are many instances in which family relations were ruined. Second disadvantage is the health, 24x7 availability to the employer will lead to significant increase in the stress levels, bad family relations combined with long work hours will have a devastating impact on the mental and physical health of the employee. For example, in one of the companies that I worked, tight deadlines and lengthy work times caused a major health hazard to the employees, many of them in my team were diagnosed with the diabetes at an early age.",
+        "There are few advantages, if the employees can dedicate significant amount of time to the company, issues and challenges can be resolved on time and the organization will be able to grow faster and can meet the predefined targets. Many billionaires endorse this working culture, for example, the CEO of Alibaba private limited asked employees to work 12 hours a day and 6 days a week to meet the company targets. Alibaba is now one the biggest corporates in the world.",
+        "To conclude, all the companies must give paramount importance to the wellbeing of the employees. The mental and physical health of the workforce is directly proportional to the productivity. The cons clearly overweigh the advantages."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "then",
+                "start_idx": 236,
+                "end_idx": 240,
+                "error": "conjunction used in comparatives",
+                "error_des": "",
+                "suggetions": [
+                    "than"
+                ]
+            },
+            {
+                "word": "health",
+                "start_idx": 481,
+                "end_idx": 487,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "healthiest"
+                ]
+            },
+            {
+                "word": "relations combined",
+                "start_idx": 590,
+                "end_idx": 608,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "relations, combined"
+                ]
+            },
+            {
+                "word": "significant amount",
+                "start_idx": 980,
+                "end_idx": 998,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a significant amount",
+                    "significant amounts"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 1061,
+                "end_idx": 1063,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in",
+                    "with"
+                ]
+            },
+            {
+                "word": "corporates",
+                "start_idx": 1368,
+                "end_idx": 1378,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            }
+        ]
+    },
+    "submitter": "iamluckyster1000",
+    "num_words": 276,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "for example",
+            "second",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 302,
+                        "end_idx": 306
+                    },
+                    {
+                        "start_idx": 326,
+                        "end_idx": 330
+                    },
+                    {
+                        "start_idx": 620,
+                        "end_idx": 624
+                    },
+                    {
+                        "start_idx": 757,
+                        "end_idx": 761
+                    },
+                    {
+                        "start_idx": 793,
+                        "end_idx": 797
+                    },
+                    {
+                        "start_idx": 1187,
+                        "end_idx": 1191
+                    },
+                    {
+                        "start_idx": 1271,
+                        "end_idx": 1275
+                    },
+                    {
+                        "start_idx": 1529,
+                        "end_idx": 1533
+                    }
+                ]
+            },
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 482,
+                        "end_idx": 488
+                    },
+                    {
+                        "start_idx": 689,
+                        "end_idx": 695
+                    },
+                    {
+                        "start_idx": 819,
+                        "end_idx": 825
+                    },
+                    {
+                        "start_idx": 1515,
+                        "end_idx": 1521
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-27T18:22:41.000Z"
+}

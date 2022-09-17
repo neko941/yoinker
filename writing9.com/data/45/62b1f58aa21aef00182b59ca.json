@@ -1,0 +1,471 @@
+{
+    "url": "https://writing9.com/text/62b1f58aa21aef00182b59ca-you-should-spend-about-20-minutes-on-this-task-the-pie",
+    "file": [
+        "data",
+        "45",
+        "62b1f58aa21aef00182b59ca.json"
+    ],
+    "topics": [
+        "minutes",
+        "show",
+        "electricity",
+        "germany",
+        "france",
+        "sources",
+        "renewables",
+        "year",
+        "information",
+        "features",
+        "comparisons"
+    ],
+    "question": "You should spend about 20 minutes on this task.\n\nThe pie charts show the electricity generated in Germany and France from all sources and renewables in the year 2009.\n\nSummarize the information by selecting and reporting the main features and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 4.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 5.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "As it can be seen, there are two pie charts at the top which show the Germany's electricity generation in general and renewables energy in 560 billion kilowatt. And at the bottom part, they have shown the same thing in 510 billion kilowatt.",
+        "At the first glance, it's evident that in 560 billion conventional thermals dominated the top left pie chart by 59.6 per cent. In addition, nuclear had the",
+        "23% of all types chart and 17.4 percentage of the info had allocated to  renewables energy .",
+        "Furthermore , in renewables biomass had the first place with 39.3% . A bit less of the biomass, the wind got 36.9 of the right top infographic . In fact, the rest of the renewables in 560 billion kilowatts got",
+        "23.1% at all .",
+        "Coming to the bottom side,  510-kilowatt nuclear energy dominated the whole electricity generation by 76 % . Furthermore, renewables occupied the second place with 13.7 % and the rest of the pie is for conventional thermal by 10.3 %. which had decreased significantly from 560 B to 510 B and fell to the third place from first. In fact, renewables had been changed dramatically from 560 B to 510 B . Firstly, hydroelectric was massively dominated the pie chart  getting 80.5% which they came to the first place from third place. Secondly , the wind remained in second place , however it had decreased significantly from 36.9% to 10.5% . Thirdly, biomass had fallen to the third place from the first place , in other meaning biomass had changed from 39.3% to 8.1% . The rest of the chart was slightly similar to the previous one except that solar had lost 5.2 per cent and geoth has been added to the pie chart which just got a very small amount of the pie chart."
+    ],
+    "errors": {
+        "num_error": "9",
+        "error_list": [
+            {
+                "word": "it ",
+                "start_idx": 2,
+                "end_idx": 5,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 65,
+                "end_idx": 69,
+                "error": "Correct article usage",
+                "error_des": "Your article usage with the geographic name Germany may be incorrect.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "renewables",
+                "start_idx": 117,
+                "end_idx": 127,
+                "error": "Change the noun form",
+                "error_des": "Your sentence appears to use the incorrect form of renewables. Consider changing it to singular.",
+                "suggetions": [
+                    "renewable"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 135,
+                "end_idx": 137,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "kilowatt",
+                "start_idx": 150,
+                "end_idx": 158,
+                "error": "Change to a plural noun",
+                "error_des": "The singular noun kilowatt follows a number other than one. Consider changing the noun to the plural form.",
+                "suggetions": [
+                    "kilowatts"
+                ]
+            },
+            {
+                "word": "kilowatt",
+                "start_idx": 230,
+                "end_idx": 238,
+                "error": "Change to a plural noun",
+                "error_des": "The singular noun kilowatt follows a number other than one. Consider changing the noun to the plural form.",
+                "suggetions": [
+                    "kilowatts"
+                ]
+            },
+            {
+                "word": "by",
+                "start_idx": 937,
+                "end_idx": 939,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "however",
+                "start_idx": 1290,
+                "end_idx": 1297,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase however. Consider adding a comma.",
+                "suggetions": [
+                    ",however"
+                ]
+            },
+            {
+                "word": "geoth",
+                "start_idx": 1586,
+                "end_idx": 1591,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want geoth to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "growth",
+                    "death"
+                ]
+            }
+        ]
+    },
+    "submitter": "snazari2006",
+    "num_words": 305,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "secondly",
+            "furthermore",
+            "firstly",
+            "third",
+            "in addition",
+            "second",
+            "thirdly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "9",
+        "list_repeated_words": [
+            {
+                "word": "billion",
+                "occurrences": [
+                    {
+                        "start_idx": 143,
+                        "end_idx": 150
+                    },
+                    {
+                        "start_idx": 223,
+                        "end_idx": 230
+                    },
+                    {
+                        "start_idx": 287,
+                        "end_idx": 294
+                    },
+                    {
+                        "start_idx": 678,
+                        "end_idx": 685
+                    }
+                ]
+            },
+            {
+                "word": "chart",
+                "occurrences": [
+                    {
+                        "start_idx": 37,
+                        "end_idx": 42
+                    },
+                    {
+                        "start_idx": 344,
+                        "end_idx": 349
+                    },
+                    {
+                        "start_idx": 414,
+                        "end_idx": 419
+                    },
+                    {
+                        "start_idx": 1170,
+                        "end_idx": 1175
+                    },
+                    {
+                        "start_idx": 1496,
+                        "end_idx": 1501
+                    },
+                    {
+                        "start_idx": 1619,
+                        "end_idx": 1624
+                    },
+                    {
+                        "start_idx": 1671,
+                        "end_idx": 1676
+                    }
+                ]
+            },
+            {
+                "word": "pie",
+                "occurrences": [
+                    {
+                        "start_idx": 33,
+                        "end_idx": 36
+                    },
+                    {
+                        "start_idx": 340,
+                        "end_idx": 343
+                    },
+                    {
+                        "start_idx": 852,
+                        "end_idx": 855
+                    },
+                    {
+                        "start_idx": 906,
+                        "end_idx": 909
+                    },
+                    {
+                        "start_idx": 1166,
+                        "end_idx": 1169
+                    },
+                    {
+                        "start_idx": 1615,
+                        "end_idx": 1618
+                    },
+                    {
+                        "start_idx": 1667,
+                        "end_idx": 1670
+                    }
+                ]
+            },
+            {
+                "word": "b",
+                "occurrences": [
+                    {
+                        "start_idx": 10,
+                        "end_idx": 11
+                    },
+                    {
+                        "start_idx": 124,
+                        "end_idx": 125
+                    },
+                    {
+                        "start_idx": 143,
+                        "end_idx": 144
+                    },
+                    {
+                        "start_idx": 172,
+                        "end_idx": 173
+                    },
+                    {
+                        "start_idx": 223,
+                        "end_idx": 224
+                    },
+                    {
+                        "start_idx": 287,
+                        "end_idx": 288
+                    },
+                    {
+                        "start_idx": 350,
+                        "end_idx": 351
+                    },
+                    {
+                        "start_idx": 476,
+                        "end_idx": 477
+                    },
+                    {
+                        "start_idx": 513,
+                        "end_idx": 514
+                    },
+                    {
+                        "start_idx": 518,
+                        "end_idx": 519
+                    },
+                    {
+                        "start_idx": 561,
+                        "end_idx": 562
+                    },
+                    {
+                        "start_idx": 577,
+                        "end_idx": 578
+                    },
+                    {
+                        "start_idx": 666,
+                        "end_idx": 667
+                    },
+                    {
+                        "start_idx": 678,
+                        "end_idx": 679
+                    },
+                    {
+                        "start_idx": 729,
+                        "end_idx": 730
+                    },
+                    {
+                        "start_idx": 814,
+                        "end_idx": 815
+                    },
+                    {
+                        "start_idx": 843,
+                        "end_idx": 844
+                    },
+                    {
+                        "start_idx": 938,
+                        "end_idx": 939
+                    },
+                    {
+                        "start_idx": 1058,
+                        "end_idx": 1059
+                    },
+                    {
+                        "start_idx": 1067,
+                        "end_idx": 1068
+                    },
+                    {
+                        "start_idx": 1361,
+                        "end_idx": 1362
+                    },
+                    {
+                        "start_idx": 1439,
+                        "end_idx": 1440
+                    },
+                    {
+                        "start_idx": 1597,
+                        "end_idx": 1598
+                    }
+                ]
+            },
+            {
+                "word": "first",
+                "occurrences": [
+                    {
+                        "start_idx": 248,
+                        "end_idx": 253
+                    },
+                    {
+                        "start_idx": 534,
+                        "end_idx": 539
+                    },
+                    {
+                        "start_idx": 1036,
+                        "end_idx": 1041
+                    },
+                    {
+                        "start_idx": 1214,
+                        "end_idx": 1219
+                    },
+                    {
+                        "start_idx": 1408,
+                        "end_idx": 1413
+                    }
+                ]
+            },
+            {
+                "word": "biomass",
+                "occurrences": [
+                    {
+                        "start_idx": 518,
+                        "end_idx": 525
+                    },
+                    {
+                        "start_idx": 577,
+                        "end_idx": 584
+                    },
+                    {
+                        "start_idx": 1361,
+                        "end_idx": 1368
+                    },
+                    {
+                        "start_idx": 1439,
+                        "end_idx": 1446
+                    }
+                ]
+            },
+            {
+                "word": "renewables",
+                "occurrences": [
+                    {
+                        "start_idx": 118,
+                        "end_idx": 128
+                    },
+                    {
+                        "start_idx": 470,
+                        "end_idx": 480
+                    },
+                    {
+                        "start_idx": 507,
+                        "end_idx": 517
+                    },
+                    {
+                        "start_idx": 660,
+                        "end_idx": 670
+                    },
+                    {
+                        "start_idx": 837,
+                        "end_idx": 847
+                    },
+                    {
+                        "start_idx": 1052,
+                        "end_idx": 1062
+                    }
+                ]
+            },
+            {
+                "word": "place",
+                "occurrences": [
+                    {
+                        "start_idx": 540,
+                        "end_idx": 545
+                    },
+                    {
+                        "start_idx": 868,
+                        "end_idx": 873
+                    },
+                    {
+                        "start_idx": 1025,
+                        "end_idx": 1030
+                    },
+                    {
+                        "start_idx": 1220,
+                        "end_idx": 1225
+                    },
+                    {
+                        "start_idx": 1237,
+                        "end_idx": 1242
+                    },
+                    {
+                        "start_idx": 1283,
+                        "end_idx": 1288
+                    },
+                    {
+                        "start_idx": 1393,
+                        "end_idx": 1398
+                    },
+                    {
+                        "start_idx": 1414,
+                        "end_idx": 1419
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-21T16:49:44.799Z"
+}

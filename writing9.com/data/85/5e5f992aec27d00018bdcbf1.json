@@ -1,0 +1,112 @@
+{
+    "url": "https://writing9.com/text/5e5f992aec27d00018bdcbf1",
+    "file": [
+        "data",
+        "85",
+        "5e5f992aec27d00018bdcbf1.json"
+    ],
+    "topics": [
+        "effects",
+        "environment",
+        "jobs"
+    ],
+    "question": "Online shopping is increasing significantly. What are the effects that might be on the environment and the types of jobs which were required?",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In this modern world, the trend of purchasing products through e-commerce websites has grown remarkably. Although it has a positive impact on nature as there is a decrease in the pollution level, it creates employment like a software developer.",
+        "To begin with, there is a decline of harmful substances into the environment due to the increase in online shopping because people can purchase while sitting at home through the internet. So, they do not need to go outside of their house. Thus, the masses do not use their vehicles to go and shop in their local market. Consequently, there will decline in the pollution level. For example, when people do not drive to do the shopping, then there will no emission of harmful gasses such as carbon dioxide, carbon mono oxide and nitric oxide, which are emitted by the burning of fossil fuel. Thereby, the environment is saved due to a significant rise in the online shopping trend.",
+        "Moreover, there were several different jobs created by the growth of purchasing through e-commerce websites. For instance, companies create websites for people to do the shopping and to make and maintain these sites; companies need professionals like web developers. Further, there were more jobs required in logistics. To illustrate, after buying a product from a website by the masses, companies send it to the customer's house. To deliver it, they require transport facilities and delivery boys. Hence, it is apparent that different jobs were created due to the growth in online shopping.",
+        "To summarize, buying products from e-commerce websites not only saves our environment but also creates employment opportunities for the people. Nevertheless, it has a positive effect on society."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "environment but",
+                "start_idx": 1590,
+                "end_idx": 1605,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "environment, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "singh.amanpreet50",
+    "num_words": 278,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "14",
+        "list_linking_words": [
+            "to begin",
+            "further",
+            "thus",
+            "also",
+            "such",
+            "nevertheless",
+            "although",
+            "then",
+            "hence",
+            "consequently",
+            "for instance",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "websites",
+                "occurrences": [
+                    {
+                        "start_idx": 74,
+                        "end_idx": 82
+                    },
+                    {
+                        "start_idx": 1024,
+                        "end_idx": 1032
+                    },
+                    {
+                        "start_idx": 1065,
+                        "end_idx": 1073
+                    },
+                    {
+                        "start_idx": 1563,
+                        "end_idx": 1571
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-03-04T12:03:54.058Z"
+}

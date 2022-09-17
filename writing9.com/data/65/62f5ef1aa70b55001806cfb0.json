@@ -1,0 +1,187 @@
+{
+    "url": "https://writing9.com/text/62f5ef1aa70b55001806cfb0-some-organisations-believe-that-their-employees-should-dress-smartly-others",
+    "file": [
+        "data",
+        "65",
+        "62f5ef1aa70b55001806cfb0.json"
+    ],
+    "topics": [
+        "organisations",
+        "employees",
+        "dress",
+        "value",
+        "quality",
+        "work",
+        "appearance"
+    ],
+    "question": "Some organisations believe that their employees should dress smartly. Others value quality of work above appearance.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There are striking opposing views about the vitalness of the look at work. While people believed that employees have to dress formally, I, like many others, argue that people need to attach special importance to the quality of work more than appearance.",
+        "On the one hand, appearance at work is crucial since the workers have to cultivate a professional, smart, and appropriate environment and image for the companies. This is because looks ought to be sympathized with by others and make an equal work environment for the employees. In addition, formal clothes make a positive mental impact on efficient productivity based on research. It not only affects the speed of productivity but also affects increases teamwork in the workplace.",
+        "On the flip side of the coin, huge organizations believed that it is unnecessary to wear a formal dress code in the business. The main reason for this is that they want to create a comfortable place where workers feel pleased to work in there. As a result, happy employees will focus, increase productivity and upgrade the quality of work. For instance, Google and Apple, two giants of the Tech industry allow employees to wear anything they want such as T-shirts, skirts, and so forth. That's why their employees are creative in developing a complex technology for the companies' profits and people all over the world with their huge brains.",
+        "In conclusion, although dressing formally is a crucial target from a myriad of companies, it seems to me that there are a variety of advancements that other companies to strikingly care for the qualities of work more than employees' appearance."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 1275,
+                "end_idx": 1277,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "jakelg16091994",
+    "num_words": 269,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "also",
+            "such",
+            "although",
+            "as a result",
+            "in addition",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 69,
+                        "end_idx": 73
+                    },
+                    {
+                        "start_idx": 227,
+                        "end_idx": 231
+                    },
+                    {
+                        "start_idx": 285,
+                        "end_idx": 289
+                    },
+                    {
+                        "start_idx": 311,
+                        "end_idx": 315
+                    },
+                    {
+                        "start_idx": 496,
+                        "end_idx": 500
+                    },
+                    {
+                        "start_idx": 712,
+                        "end_idx": 716
+                    },
+                    {
+                        "start_idx": 724,
+                        "end_idx": 728
+                    },
+                    {
+                        "start_idx": 940,
+                        "end_idx": 944
+                    },
+                    {
+                        "start_idx": 964,
+                        "end_idx": 968
+                    },
+                    {
+                        "start_idx": 1069,
+                        "end_idx": 1073
+                    },
+                    {
+                        "start_idx": 1585,
+                        "end_idx": 1589
+                    }
+                ]
+            },
+            {
+                "word": "employees",
+                "occurrences": [
+                    {
+                        "start_idx": 102,
+                        "end_idx": 111
+                    },
+                    {
+                        "start_idx": 521,
+                        "end_idx": 530
+                    },
+                    {
+                        "start_idx": 998,
+                        "end_idx": 1007
+                    },
+                    {
+                        "start_idx": 1145,
+                        "end_idx": 1154
+                    },
+                    {
+                        "start_idx": 1239,
+                        "end_idx": 1248
+                    },
+                    {
+                        "start_idx": 1600,
+                        "end_idx": 1609
+                    }
+                ]
+            },
+            {
+                "word": "companies",
+                "occurrences": [
+                    {
+                        "start_idx": 406,
+                        "end_idx": 415
+                    },
+                    {
+                        "start_idx": 1305,
+                        "end_idx": 1314
+                    },
+                    {
+                        "start_idx": 1457,
+                        "end_idx": 1466
+                    },
+                    {
+                        "start_idx": 1535,
+                        "end_idx": 1544
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-12T06:11:39.733Z"
+}

@@ -1,0 +1,333 @@
+{
+    "url": "https://writing9.com/text/5ca4f45722bb88713cc4c6e6",
+    "file": [
+        "data",
+        "4",
+        "5ca4f45722bb88713cc4c6e6.json"
+    ],
+    "topics": [
+        "government",
+        "decisions",
+        "people",
+        "lifestyle"
+    ],
+    "question": "Should government make decisions about people's lifestyle or should people make their own decisions?",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is the right of every individual to decide about the lifestyle he should lead. Though, the government cannot pose any view on people's way of living but certainly it can help the public in leading a good life by creating equal opportunities.",
+        "Firstly, money is considered as a major deciding factor in choosing the way of living. There is always an economic class difference which is quite visible across country. This is due to the fact that the government is failed in providing equal chances for people interms of earnings. For example, the richer are getting richest by grabbing the opportunities where as the poor are not even provided a chance to prove his capablities.",
+        "In order to establish economic equality, the government should upbring the lifestyle of poor. This can be acheived only if the government helps the poor in availing interest-free loans. It is the responsiblity of the individual to devise a plan to run a profitable business which helps in improving the lifestyle. It is also significant to plan the expenses in order to live a peaceful and debt free life.It is always wise to plan the future and have a contigency plan incase of any unexpeceted situation.",
+        "To conclude, lifestyle of people is always one's own choice but if the chances provided by the government are equal irrespective of class then every individual can live a wonderful lifestyle."
+    ],
+    "errors": {
+        "num_error": "19",
+        "error_list": [
+            {
+                "word": "living but",
+                "start_idx": 144,
+                "end_idx": 154,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "living, but"
+                ]
+            },
+            {
+                "word": "country",
+                "start_idx": 406,
+                "end_idx": 413,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the country"
+                ]
+            },
+            {
+                "word": "failed",
+                "start_idx": 462,
+                "end_idx": 468,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "failing"
+                ]
+            },
+            {
+                "word": "interms",
+                "start_idx": 507,
+                "end_idx": 514,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in terms"
+                ]
+            },
+            {
+                "word": "the richer",
+                "start_idx": 541,
+                "end_idx": 551,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the rich"
+                ]
+            },
+            {
+                "word": "richest",
+                "start_idx": 564,
+                "end_idx": 571,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "richer",
+                    "rich"
+                ]
+            },
+            {
+                "word": "where as",
+                "start_idx": 602,
+                "end_idx": 610,
+                "error": "on the other hand",
+                "error_des": "",
+                "suggetions": [
+                    "whereas"
+                ]
+            },
+            {
+                "word": "are not even provided",
+                "start_idx": 620,
+                "end_idx": 641,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are not even providing"
+                ]
+            },
+            {
+                "word": "capablities",
+                "start_idx": 664,
+                "end_idx": 675,
+                "error": "the quality of being capable -- physically or intellectually or legally",
+                "error_des": "",
+                "suggetions": [
+                    "capabilities"
+                ]
+            },
+            {
+                "word": "upbring",
+                "start_idx": 740,
+                "end_idx": 747,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "poor",
+                "start_idx": 765,
+                "end_idx": 769,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the poor"
+                ]
+            },
+            {
+                "word": "acheived",
+                "start_idx": 783,
+                "end_idx": 791,
+                "error": "to gain with effort",
+                "error_des": "",
+                "suggetions": [
+                    "achieved"
+                ]
+            },
+            {
+                "word": "responsiblity",
+                "start_idx": 873,
+                "end_idx": 886,
+                "error": "the social force that binds you to the courses of action demanded by that force",
+                "error_des": "",
+                "suggetions": [
+                    "responsibility"
+                ]
+            },
+            {
+                "word": "business which helps in",
+                "start_idx": 942,
+                "end_idx": 965,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "business which helps"
+                ]
+            },
+            {
+                "word": "contigency",
+                "start_idx": 1130,
+                "end_idx": 1140,
+                "error": "a possible event or occurrence or result",
+                "error_des": "",
+                "suggetions": [
+                    "contingency"
+                ]
+            },
+            {
+                "word": "incase",
+                "start_idx": 1146,
+                "end_idx": 1152,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in case"
+                ]
+            },
+            {
+                "word": "unexpeceted",
+                "start_idx": 1160,
+                "end_idx": 1171,
+                "error": "not expected or anticipated",
+                "error_des": "",
+                "suggetions": [
+                    "unexpected"
+                ]
+            },
+            {
+                "word": "lifestyle",
+                "start_idx": 1196,
+                "end_idx": 1205,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the lifestyle"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 1216,
+                "end_idx": 1218,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "has been"
+                ]
+            }
+        ]
+    },
+    "submitter": "vaishece28",
+    "num_words": 233,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "also",
+            "then",
+            "firstly",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "plan",
+                "occurrences": [
+                    {
+                        "start_idx": 918,
+                        "end_idx": 922
+                    },
+                    {
+                        "start_idx": 1018,
+                        "end_idx": 1022
+                    },
+                    {
+                        "start_idx": 1104,
+                        "end_idx": 1108
+                    },
+                    {
+                        "start_idx": 1142,
+                        "end_idx": 1146
+                    }
+                ]
+            },
+            {
+                "word": "lifestyle",
+                "occurrences": [
+                    {
+                        "start_idx": 56,
+                        "end_idx": 65
+                    },
+                    {
+                        "start_idx": 753,
+                        "end_idx": 762
+                    },
+                    {
+                        "start_idx": 981,
+                        "end_idx": 990
+                    },
+                    {
+                        "start_idx": 1197,
+                        "end_idx": 1206
+                    },
+                    {
+                        "start_idx": 1365,
+                        "end_idx": 1374
+                    }
+                ]
+            },
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 94,
+                        "end_idx": 104
+                    },
+                    {
+                        "start_idx": 449,
+                        "end_idx": 459
+                    },
+                    {
+                        "start_idx": 723,
+                        "end_idx": 733
+                    },
+                    {
+                        "start_idx": 805,
+                        "end_idx": 815
+                    },
+                    {
+                        "start_idx": 1279,
+                        "end_idx": 1289
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-03T17:58:47.000Z"
+}

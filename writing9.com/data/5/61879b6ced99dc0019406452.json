@@ -1,0 +1,344 @@
+{
+    "url": "https://writing9.com/text/61879b6ced99dc0019406452-would-you-prefer-to-go-on-a-long-trip-by",
+    "file": [
+        "data",
+        "5",
+        "61879b6ced99dc0019406452.json"
+    ],
+    "topics": [
+        "trip",
+        "car",
+        "train"
+    ],
+    "question": "Would you prefer to go on a long trip by car or by train?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "These days, transportation is one of the most important factors in parts of people's lives. If a question about choice between car or train is addressed, it will be challenging for us to reach our decision on this controversial issue. In my opinion, benefits of travelling by car outweigh its disadvantage and the reason to support arguments will be covered in this essay",
+        "The first reason is time. It is flexible. You can manage time by yourself. From my personal experience, I went to Rayong by car because I prefer to stop by at my hometown to travel at Pattaya first. Moreover, I can wake up late around ten o\u2019clock but if I went by train, I had to wake up early because I need to get on train on time around seven o'clock. As the result, travelling by car make you have flexible time to travel",
+        "The second reason is health. Travelling by car make you have private area, small group and can prevent covid-19. According to local university research, more people can infect with covid-19 by travelling by train than by car, around 70%. because in the train, there are no separate zone and cleaning. In the while time, in the car, you can travel in small group, and it is not tightly. Moreover travelling by car will not make you get backache because seats in car are more comfortable than in the train.",
+        "In conclusion, travelling by car is the best choice for me because it is flexible time. I can manage time to plan trip easier than travelling by train and can have a good health by preventing covid-19 situation and have the comfortable seats."
+    ],
+    "errors": {
+        "num_error": "16",
+        "error_list": [
+            {
+                "word": "choice",
+                "start_idx": 111,
+                "end_idx": 117,
+                "error": "Add an article",
+                "error_des": "The noun phrase choice seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the choice",
+                    "a choice"
+                ]
+            },
+            {
+                "word": "benefits",
+                "start_idx": 249,
+                "end_idx": 257,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the benefits"
+                ]
+            },
+            {
+                "word": "at ",
+                "start_idx": 527,
+                "end_idx": 530,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 552,
+                "end_idx": 554,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "train",
+                "start_idx": 690,
+                "end_idx": 695,
+                "error": "Add an article",
+                "error_des": "The noun phrase train seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the train",
+                    "a train"
+                ]
+            },
+            {
+                "word": "private",
+                "start_idx": 858,
+                "end_idx": 865,
+                "error": "Add an article",
+                "error_des": "The noun phrase private area seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a private"
+                ]
+            },
+            {
+                "word": "while",
+                "start_idx": 1105,
+                "end_idx": 1110,
+                "error": "Correct your spelling",
+                "error_des": "The word while doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "whole"
+                ]
+            },
+            {
+                "word": "small",
+                "start_idx": 1147,
+                "end_idx": 1152,
+                "error": "Add an article",
+                "error_des": "The noun phrase small group seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a small"
+                ]
+            },
+            {
+                "word": "tightly",
+                "start_idx": 1174,
+                "end_idx": 1181,
+                "error": "Replace the word",
+                "error_des": "The word tightly doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "tighten"
+                ]
+            },
+            {
+                "word": "car",
+                "start_idx": 1258,
+                "end_idx": 1261,
+                "error": "Add an article",
+                "error_des": "The noun phrase car seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the car"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 1288,
+                "end_idx": 1290,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "flexible",
+                "start_idx": 1375,
+                "end_idx": 1383,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a flexible"
+                ]
+            },
+            {
+                "word": "trip",
+                "start_idx": 1416,
+                "end_idx": 1420,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that trip may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "trips"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 1466,
+                "end_idx": 1468,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun health in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "have",
+                "start_idx": 1517,
+                "end_idx": 1521,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb have. Consider changing it.",
+                "suggetions": [
+                    "having"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1522,
+                "end_idx": 1526,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "ngnanfarm",
+    "num_words": 279,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "second",
+            "first",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "car",
+                "occurrences": [
+                    {
+                        "start_idx": 127,
+                        "end_idx": 130
+                    },
+                    {
+                        "start_idx": 276,
+                        "end_idx": 279
+                    },
+                    {
+                        "start_idx": 496,
+                        "end_idx": 499
+                    },
+                    {
+                        "start_idx": 756,
+                        "end_idx": 759
+                    },
+                    {
+                        "start_idx": 841,
+                        "end_idx": 844
+                    },
+                    {
+                        "start_idx": 1019,
+                        "end_idx": 1022
+                    },
+                    {
+                        "start_idx": 1125,
+                        "end_idx": 1128
+                    },
+                    {
+                        "start_idx": 1207,
+                        "end_idx": 1210
+                    },
+                    {
+                        "start_idx": 1259,
+                        "end_idx": 1262
+                    },
+                    {
+                        "start_idx": 1332,
+                        "end_idx": 1335
+                    }
+                ]
+            },
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 392,
+                        "end_idx": 396
+                    },
+                    {
+                        "start_idx": 429,
+                        "end_idx": 433
+                    },
+                    {
+                        "start_idx": 700,
+                        "end_idx": 704
+                    },
+                    {
+                        "start_idx": 783,
+                        "end_idx": 787
+                    },
+                    {
+                        "start_idx": 1112,
+                        "end_idx": 1116
+                    },
+                    {
+                        "start_idx": 1385,
+                        "end_idx": 1389
+                    },
+                    {
+                        "start_idx": 1404,
+                        "end_idx": 1408
+                    }
+                ]
+            },
+            {
+                "word": "train",
+                "occurrences": [
+                    {
+                        "start_idx": 134,
+                        "end_idx": 139
+                    },
+                    {
+                        "start_idx": 636,
+                        "end_idx": 641
+                    },
+                    {
+                        "start_idx": 691,
+                        "end_idx": 696
+                    },
+                    {
+                        "start_idx": 1005,
+                        "end_idx": 1010
+                    },
+                    {
+                        "start_idx": 1051,
+                        "end_idx": 1056
+                    },
+                    {
+                        "start_idx": 1296,
+                        "end_idx": 1301
+                    },
+                    {
+                        "start_idx": 1448,
+                        "end_idx": 1453
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-11-07T09:25:02.024Z"
+}

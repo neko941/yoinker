@@ -1,0 +1,217 @@
+{
+    "url": "https://writing9.com/text/631ae384aac8660018fa4a25-you-are-having-a-graduation-party-next-sunday-evening-you",
+    "file": [
+        "data",
+        "6",
+        "631ae384aac8660018fa4a25.json"
+    ],
+    "topics": [
+        "graduation",
+        "party",
+        "sunday",
+        "people",
+        "garden",
+        "night",
+        "chairman",
+        "society",
+        "offer",
+        "apologies",
+        "advance",
+        "celebration"
+    ],
+    "question": "You are having a graduation party next Sunday evening. You have invited over 25 people to celebrate in your garden, which may continue late into the night.\nWrite a letter to the Chairman of the Housing Society. In your letter:\n\u2022\tExplain what will be happening\n\u2022\tOffer your apologies in advance\n\u2022\tInvite him to join the celebration",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr John,",
+        "I am your next-door neighbor Perry and writing to inform you that I have recently graduated from the Cambridge University. To celebrate this special event, I and my family have invited a few guests to a house party on next Sunday evening.",
+        "The party will begin at 7 PM. I have made arrangement for 50 people including my friends, relatives and neighbourers. We have decided to have an outdoor party, mainly a barbecue and a music gal.  My friends would be cheering up and have loud conversations during the party and I am afraid the music might disrupt your sleep.",
+        "Please accept my sincere apology in advance for the commotion from the party and the gathering. I hope you would be kind enough to endure this disturbance considering how special this event is for me.",
+        "I also want to you be a part of my celebration with your family as this is important part of my life.",
+        "Please accept my invitation and enjoy party with us. Hope you will definitely come to party and give me your best wishes for future.",
+        "Yours sincerely,",
+        "Perry"
+    ],
+    "errors": {
+        "num_error": "10",
+        "error_list": [
+            {
+                "word": "neighbor",
+                "start_idx": 33,
+                "end_idx": 41,
+                "error": "Change the spelling",
+                "error_des": "The spelling of neighbor is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "neighbour"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 110,
+                "end_idx": 114,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "on ",
+                "start_idx": 228,
+                "end_idx": 231,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "arrangement",
+                "start_idx": 294,
+                "end_idx": 305,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that arrangement may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "arrangements"
+                ]
+            },
+            {
+                "word": "neighbourers",
+                "start_idx": 356,
+                "end_idx": 368,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want neighbourers to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "neighbours"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 639,
+                "end_idx": 643,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "during"
+                ]
+            },
+            {
+                "word": "important",
+                "start_idx": 853,
+                "end_idx": 862,
+                "error": "Add an article",
+                "error_des": "The noun phrase important part seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an important"
+                ]
+            },
+            {
+                "word": "party",
+                "start_idx": 918,
+                "end_idx": 923,
+                "error": "Add an article",
+                "error_des": "The noun phrase party seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the party",
+                    "a party"
+                ]
+            },
+            {
+                "word": "party",
+                "start_idx": 966,
+                "end_idx": 971,
+                "error": "Add an article",
+                "error_des": "The noun phrase party seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the party",
+                    "a party"
+                ]
+            },
+            {
+                "word": "future",
+                "start_idx": 1005,
+                "end_idx": 1011,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the future"
+                ]
+            }
+        ]
+    },
+    "submitter": "jasmeetkaur2016",
+    "num_words": 187,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "also",
+            "this",
+            "next"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "party",
+                "occurrences": [
+                    {
+                        "start_idx": 223,
+                        "end_idx": 228
+                    },
+                    {
+                        "start_idx": 257,
+                        "end_idx": 262
+                    },
+                    {
+                        "start_idx": 406,
+                        "end_idx": 411
+                    },
+                    {
+                        "start_idx": 520,
+                        "end_idx": 525
+                    },
+                    {
+                        "start_idx": 649,
+                        "end_idx": 654
+                    },
+                    {
+                        "start_idx": 919,
+                        "end_idx": 924
+                    },
+                    {
+                        "start_idx": 967,
+                        "end_idx": 972
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-09T06:56:06.295Z"
+}

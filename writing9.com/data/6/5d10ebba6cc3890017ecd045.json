@@ -1,0 +1,123 @@
+{
+    "url": "https://writing9.com/text/5d10ebba6cc3890017ecd045",
+    "file": [
+        "data",
+        "6",
+        "5d10ebba6cc3890017ecd045.json"
+    ],
+    "topics": [
+        "people",
+        "child\u2019s",
+        "success",
+        "parents"
+    ],
+    "question": "People say that a child\u2019s success is dependent on the way parents bring them up. To what extent do you agree or disagree.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Parents are the biggest influence on their children during their formative years and for this reason some people argue that the upbringing that a child receives determines their success in the future. I fully agree with this view.",
+        "A child is like a piece of clay. It can be molded into whatever shape. If parents inculcate good values in their children, it is nearly impossible for them to go astray when they grow up. Likewise, if parents encourage them to work hard and dream big, they will most probably achieve great things in future. If we study the lives of highly successful people, it is not hard to see that they all had been highly influenced by their parents or a parent figure. For example, parents were a great influence on Mohandas Gandhi. Nehru had a tremendous influence on his daughter Indira. In his autobiography APJ Abdul Kalam also narrated how the simple and hardworking nature of his parents had shaped his personality.",
+        "By contrast, children raised by parents who have no moral values often get into antisocial activities as they grow up. That explains why children coming from a criminal background almost always end up being criminals. They had no one to show them the right path during their childhood and consequently they chose the path of their parents. Children neglected or abused by their parents are also more likely to get into crime.",
+        "Every child needs love and care. They need someone to hold their hand and motivate them. They need someone to show them what is right and wrong. Otherwise, they will wilt before they can bloom.",
+        "On balance, it is not hard to see that parents play a crucial role in shaping up the future and personality of their children. They are the first and foremost influence on their children and as such it is their responsibility to ensure that they are guiding them in the right path."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "molded",
+                "start_idx": 273,
+                "end_idx": 279,
+                "error": "shaped to fit by or as if by altering the contours of a pliable mass (as by work or effort)",
+                "error_des": "",
+                "suggetions": [
+                    "moulded"
+                ]
+            },
+            {
+                "word": "future",
+                "start_idx": 530,
+                "end_idx": 536,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the future"
+                ]
+            }
+        ]
+    },
+    "submitter": "edelaidapodasca",
+    "num_words": 322,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "by contrast",
+            "otherwise",
+            "also",
+            "such",
+            "first",
+            "consequently",
+            "for example",
+            "likewise",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "influence",
+                "occurrences": [
+                    {
+                        "start_idx": 24,
+                        "end_idx": 33
+                    },
+                    {
+                        "start_idx": 642,
+                        "end_idx": 651
+                    },
+                    {
+                        "start_idx": 724,
+                        "end_idx": 733
+                    },
+                    {
+                        "start_idx": 777,
+                        "end_idx": 786
+                    },
+                    {
+                        "start_idx": 1722,
+                        "end_idx": 1731
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-24T15:26:50.000Z"
+}

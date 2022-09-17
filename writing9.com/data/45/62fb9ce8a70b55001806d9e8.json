@@ -1,0 +1,138 @@
+{
+    "url": "https://writing9.com/text/62fb9ce8a70b55001806d9e8-the-food-travels-thousand-of-miles-from-farm-to-consumer",
+    "file": [
+        "data",
+        "45",
+        "62fb9ce8a70b55001806d9e8.json"
+    ],
+    "topics": [
+        "food",
+        "thousand",
+        "miles",
+        "farm",
+        "consumer",
+        "people",
+        "environment",
+        "economy",
+        "advantage"
+    ],
+    "question": "The food travels thousand of miles from farm to consumer. Some people think it would be better to our environment and economy if people only ate locally produced food. What extent does the advantage outweigh its disadvantage?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The bar chart illustrates the download rate per week of ActiveX, Java and Net computer packages over a period of five weeks. It can clearly be seen that ActiveX was the most popular computer package to download, whilst Net was the least popular of the three.",
+        "To begin, downloads of ActiveX and Java showed similar patterns, with both gradually increasing from week 1 to week 5. However, the purchases of Active X remained significantly higher than that of the other product over this time frame. In week 1, purchases of ActiveX stood at around 75,000, while those of Java were about 30,000 lower. With the exception of a slight fall in week 4, downloading of ActiveX kept increasing until it reached a peak in the final week of just over 120,000. Java downloads also increased at a steady rate, finishing the period at 80,000.",
+        "The product that was downloaded the least was Net. This began at slightly under 40,000, and, in contrast to the other two products, fell over the next two weeks to reach a low of approximately 25,000. It then increased sharply over the following two weeks to finish at about 50,000, which was well below that of ActiveX."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "were",
+                "start_idx": 571,
+                "end_idx": 575,
+                "error": "Change the verb form",
+                "error_des": "The verb were does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "was"
+                ]
+            }
+        ]
+    },
+    "submitter": "mohammadkashif934",
+    "num_words": 201,
+    "num_paragraphs": 3,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "to begin",
+            "also",
+            "in contrast",
+            "then",
+            "however",
+            "next",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "java",
+                "occurrences": []
+            },
+            {
+                "word": "week",
+                "occurrences": [
+                    {
+                        "start_idx": 48,
+                        "end_idx": 52
+                    },
+                    {
+                        "start_idx": 118,
+                        "end_idx": 122
+                    },
+                    {
+                        "start_idx": 360,
+                        "end_idx": 364
+                    },
+                    {
+                        "start_idx": 370,
+                        "end_idx": 374
+                    },
+                    {
+                        "start_idx": 499,
+                        "end_idx": 503
+                    },
+                    {
+                        "start_idx": 636,
+                        "end_idx": 640
+                    },
+                    {
+                        "start_idx": 720,
+                        "end_idx": 724
+                    },
+                    {
+                        "start_idx": 982,
+                        "end_idx": 986
+                    },
+                    {
+                        "start_idx": 1077,
+                        "end_idx": 1081
+                    }
+                ]
+            },
+            {
+                "word": "activex",
+                "occurrences": []
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-16T13:34:34.146Z"
+}

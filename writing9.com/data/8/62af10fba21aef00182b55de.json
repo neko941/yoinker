@@ -1,0 +1,108 @@
+{
+    "url": "https://writing9.com/text/62af10fba21aef00182b55de-without-capital-punishment-our-lives-are-less-secure-and-crimes",
+    "file": [
+        "data",
+        "8",
+        "62af10fba21aef00182b55de.json"
+    ],
+    "topics": [
+        "punishment",
+        "lives",
+        "crimes"
+    ],
+    "question": "Without capital punishment, our lives are less secure and crimes increase continuously. Do you agree or disagree with this statement?",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is argued by some that if there is no death penalty our existence is unprotected and immorality will rise exponentially. In my opinion, I agree that a death warrant helps to reduce violent acts and protect our lives.",
+        "Firstly, the execution of hardened criminals is the way to guard the lives of citizens. This is because if villains are sentenced to long years in prison or life imprisonment this does not guarantee they will be kept in detention forever. Moreover, there have been several occasions when a notorious culprit escaped from jail and return back to continue hurting and robbing  the population of their personal belongings. For example, in Nigeria, several years back, a hardened armed robber who claimed a lot of civilian lives and properties was served with life in jail, and his crew made a ploy to take him out of the jail. To this day he is still being searched for. However, he is still a threat to the populace and most people are living in fear. Thus, had it been he was killed immediately, the lives of citizens could have been protected.",
+        "Secondly, judicial murder is the greatest deterrent to criminals and potential criminals. In other words, if people know that the consequence of committing a certain heinous crime is killing, they will desist from such crime. For example, in Saudi Arabia, the punishment for many heinous crimes such as drug smuggling, rappist, and burglary is execution. As a result, there seems to be a reduction in the occurrence of immorality in their society.",
+        "In conclusion, legalized killing for heinous crimes is a must for any community that values its population safety and decrease crime rates."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "decrease",
+                "start_idx": 1629,
+                "end_idx": 1637,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb decrease does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "decreases"
+                ]
+            }
+        ]
+    },
+    "submitter": "hydheraa",
+    "num_words": 281,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "secondly",
+            "thus",
+            "such",
+            "as a result",
+            "firstly",
+            "however",
+            "in other words",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "lives",
+                "occurrences": [
+                    {
+                        "start_idx": 213,
+                        "end_idx": 218
+                    },
+                    {
+                        "start_idx": 289,
+                        "end_idx": 294
+                    },
+                    {
+                        "start_idx": 739,
+                        "end_idx": 744
+                    },
+                    {
+                        "start_idx": 1019,
+                        "end_idx": 1024
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-19T12:11:57.102Z"
+}

@@ -1,0 +1,179 @@
+{
+    "url": "https://writing9.com/text/62f7b8b4a70b55001806d2a8-you-should-spend-about-20-minutes-on-this-task-you",
+    "file": [
+        "data",
+        "65",
+        "62f7b8b4a70b55001806d2a8.json"
+    ],
+    "topics": [
+        "minutes",
+        "job",
+        "course",
+        "tutor",
+        "situation",
+        "time",
+        "action"
+    ],
+    "question": "You should spend about 20 minutes on this task. You have a full-time job and are also doing a part-time evening course. You now find that you cannot continue the course. Write a letter to the course tutor. In your letter, \n\u2022 describe the situation \n\u2022 explain why you cannot continue at this time \n\u2022 say what action you would like to take. \n\n\nYou should write at least 150 words.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr. Smith,",
+        "I am writing to withdraw my admission from your part-time evening course which you recently started on the topic of financial planning.",
+        "My name is Tom Hardy and I work as a sales manager. Recently, around 10 days back, I enrolled for your financial planning course, and I particularly opted for your institute because, here, it is being offered as part-time evening course.",
+        "Although I have attended it for around 7 days, now I am finding it very difficult to continue it along with my job. I work full-time with Walmart and most of the time it requires to stay back till late. That is why I was not able to attend the class for last 3 days.",
+        "Due to above mentioned situation, it will be really difficult for me to continue, so I want to request you to refund my fees paid for this course. I understand that it will be a loss for you, so in order to compensate that you may deduct the amount for the 10 days on pro-rata basis.",
+        "I hope you will consider my case favourably.",
+        "Yours sincerely,",
+        "Tom Hardy"
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "Mr.",
+                "start_idx": 4,
+                "end_idx": 7,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": "part-time",
+                "start_idx": 363,
+                "end_idx": 372,
+                "error": "Add an article",
+                "error_des": "The noun phrase part-time evening course seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a part-time"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 568,
+                "end_idx": 570,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "me to"
+                ]
+            },
+            {
+                "word": "last",
+                "start_idx": 643,
+                "end_idx": 647,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the last"
+                ]
+            },
+            {
+                "word": "above mentioned",
+                "start_idx": 663,
+                "end_idx": 678,
+                "error": "Add a hyphen",
+                "error_des": "It appears that above mentioned is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "above-mentioned"
+                ]
+            },
+            {
+                "word": "pro-rata",
+                "start_idx": 924,
+                "end_idx": 932,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a pro-rata"
+                ]
+            }
+        ]
+    },
+    "submitter": "amanmalik640",
+    "num_words": 189,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "that is",
+            "although",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "course",
+                "occurrences": [
+                    {
+                        "start_idx": 82,
+                        "end_idx": 88
+                    },
+                    {
+                        "start_idx": 274,
+                        "end_idx": 280
+                    },
+                    {
+                        "start_idx": 382,
+                        "end_idx": 388
+                    },
+                    {
+                        "start_idx": 796,
+                        "end_idx": 802
+                    }
+                ]
+            },
+            {
+                "word": "days",
+                "occurrences": [
+                    {
+                        "start_idx": 224,
+                        "end_idx": 228
+                    },
+                    {
+                        "start_idx": 431,
+                        "end_idx": 435
+                    },
+                    {
+                        "start_idx": 651,
+                        "end_idx": 655
+                    },
+                    {
+                        "start_idx": 917,
+                        "end_idx": 921
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-13T14:44:43.813Z"
+}

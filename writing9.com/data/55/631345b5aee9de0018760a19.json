@@ -1,0 +1,259 @@
+{
+    "url": "https://writing9.com/text/631345b5aee9de0018760a19-your-neighbours-have-recently-written-to-you-to-complain-about",
+    "file": [
+        "data",
+        "55",
+        "631345b5aee9de0018760a19.json"
+    ],
+    "topics": [
+        "neighbours",
+        "noise",
+        "house",
+        "apologise",
+        "action"
+    ],
+    "question": "Your neighbours have recently written to you to complain about the noise from your house/ flat.Write a letter to your neighbours. In your letterexplain the reasons for the noiseapologisedescribe what action you will take",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear neighbour, i am sad to hear the noise distubance complaint you wrote to me. It was a busy week for us, if you know it or not my son came back home from abroad after completeting his higher studies. His returning home was a big surprise for us, and his wonderful grades in his final exam calls out of celebration. Everything had to be done in such shrot notice, i almost felt time is my enemy. I had to contact all our relatives to inform them about the small gathering and kept on for couple of days.",
+        "I am extremely sorry for all inconvience and all disturbance you have tolelrated during the past few days, sincerely accept my apology and i hope you understand such situation.",
+        "All events and family gatherings have come to an end and you can expect us and our neighbourhood to be peaceful just like it was.",
+        "thank you ,",
+        "your neighbour"
+    ],
+    "errors": {
+        "num_error": "19",
+        "error_list": [
+            {
+                "word": "i",
+                "start_idx": 15,
+                "end_idx": 16,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "distubance",
+                "start_idx": 42,
+                "end_idx": 52,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want distubance to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "disturbance"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 169,
+                "end_idx": 169,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want completeting to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "completing"
+                ]
+            },
+            {
+                "word": "completeting",
+                "start_idx": 169,
+                "end_idx": 181,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want completeting to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "completing"
+                ]
+            },
+            {
+                "word": "returning",
+                "start_idx": 206,
+                "end_idx": 215,
+                "error": "Replace the word",
+                "error_des": "The word returning doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "return"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 273,
+                "end_idx": 275,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 301,
+                "end_idx": 303,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 343,
+                "end_idx": 345,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 351,
+                "end_idx": 351,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want shrot to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "short"
+                ]
+            },
+            {
+                "word": "shrot",
+                "start_idx": 351,
+                "end_idx": 356,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want shrot to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "short"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 365,
+                "end_idx": 366,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "time",
+                "start_idx": 379,
+                "end_idx": 383,
+                "error": "Add an article",
+                "error_des": "The noun phrase time seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the time"
+                ]
+            },
+            {
+                "word": "couple",
+                "start_idx": 489,
+                "end_idx": 495,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase couple does not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "a couple"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 534,
+                "end_idx": 534,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want inconvience to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "inconvenience"
+                ]
+            },
+            {
+                "word": "inconvience",
+                "start_idx": 534,
+                "end_idx": 545,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want inconvience to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "inconvenience"
+                ]
+            },
+            {
+                "word": "tolelrated",
+                "start_idx": 575,
+                "end_idx": 585,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want tolelrated to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "tolerated"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 644,
+                "end_idx": 645,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "such",
+                "start_idx": 666,
+                "end_idx": 670,
+                "error": "Add an article",
+                "error_des": "The noun phrase such situation seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the such"
+                ]
+            },
+            {
+                "word": "situation",
+                "start_idx": 671,
+                "end_idx": 680,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a situation"
+                ]
+            }
+        ]
+    },
+    "submitter": "ieltsfay",
+    "num_words": 157,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "1",
+        "list_linking_words": [
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-09-03T12:16:55.589Z"
+}

@@ -1,0 +1,155 @@
+{
+    "url": "https://writing9.com/text/6289ecdf9409cb0018088a16-you-are-having-problems-with-a-neighbours-animals-because-the",
+    "file": [
+        "data",
+        "8",
+        "6289ecdf9409cb0018088a16.json"
+    ],
+    "topics": [
+        "neighbour\u2019s",
+        "animals",
+        "fence",
+        "properties",
+        "repair",
+        "neighbour",
+        "half",
+        "cost"
+    ],
+    "question": "You are having problems with a neighbour\u2019s animals because the fence between your properties is old and In poor repair. You want the neighbour to pay half the cost of building a new fence.Write a letter to your neighbour. In your lettersay what the problems areexplain how a new fence will solve the problemssuggest that the neighbour pays half of the cost",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Dave,",
+        "I'm writing this letter to raise my concern regarding the fence between our properties.",
+        "To begin with, I've been noticing that you carried two new dogs to your house for the last few months. Although your dogs are cute and clever, they are too playful. However, my grandmother tends to sit in the front garden and worry if the fence collapse and your dogs would attack her.",
+        "I understand that you are not doing it purposely though, your dogs affectionately playing with the fence. Since the fence's built a long time ago, I believe that now is the time to repair it. By doing this, my grandma would also continue her relax in the garden without thinking about your dogs.",
+        "I was wondering if you could share the cost of the new fence. I can do all the arrangements, such as contacting builders and getting approximate costs. I would appreciate it if you could pay half of the costs as the  fence is related to both of our properties. I believe it would have a better implication for both of us.",
+        "Best wishes,",
+        "Tun Naung Win"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "your",
+                "start_idx": 356,
+                "end_idx": 360,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "her"
+                ]
+            },
+            {
+                "word": "your",
+                "start_idx": 669,
+                "end_idx": 673,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "her"
+                ]
+            }
+        ]
+    },
+    "submitter": "tunnaungwin11",
+    "num_words": 188,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "to begin",
+            "also",
+            "such",
+            "although",
+            "however",
+            "last",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "fence",
+                "occurrences": [
+                    {
+                        "start_idx": 69,
+                        "end_idx": 74
+                    },
+                    {
+                        "start_idx": 338,
+                        "end_idx": 343
+                    },
+                    {
+                        "start_idx": 484,
+                        "end_idx": 489
+                    },
+                    {
+                        "start_idx": 501,
+                        "end_idx": 506
+                    },
+                    {
+                        "start_idx": 736,
+                        "end_idx": 741
+                    },
+                    {
+                        "start_idx": 898,
+                        "end_idx": 903
+                    }
+                ]
+            },
+            {
+                "word": "dogs",
+                "occurrences": [
+                    {
+                        "start_idx": 158,
+                        "end_idx": 162
+                    },
+                    {
+                        "start_idx": 216,
+                        "end_idx": 220
+                    },
+                    {
+                        "start_idx": 362,
+                        "end_idx": 366
+                    },
+                    {
+                        "start_idx": 447,
+                        "end_idx": 451
+                    },
+                    {
+                        "start_idx": 675,
+                        "end_idx": 679
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-05-22T08:27:42.309Z"
+}

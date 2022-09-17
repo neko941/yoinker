@@ -1,0 +1,171 @@
+{
+    "url": "https://writing9.com/text/5cbdc861091a40b12a971e4a",
+    "file": [
+        "data",
+        "55",
+        "5cbdc861091a40b12a971e4a.json"
+    ],
+    "topics": [
+        "british",
+        "families",
+        "televisions",
+        "influence",
+        "development",
+        "creativity",
+        "children"
+    ],
+    "question": "Some British families decide not to buy televisions because they influence the development of the creativity of children. What do you think?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is sometimes argued that television may exert an influence on the creativity development of children. From the perspective of brain development, I do believe that watching television will not have any negative impacts on school-age children because of reasons presented below.",
+        "First, television can provide a great source of knowledge for children through a wide range of educational television programs. A typical example of this is that children can develop a deeper insight into species and their natural habitats from watching television documentaries on wildlife.",
+        "Second, the integration of television into education can create a continuous learning environment for schoolchildren. For instance, children can watch or even take part in general knowledge competition on television as a way to learn through play. Admittedly, this would not only help children consolidate their understanding of what they have learnt in the classroom but also encourage critical thinking and problem solving as they are challenged to work through questions on their own.",
+        "Finally, it is recognized that leisure time is just as beneficial as study time from a mental health point of view. Clearly, a fair amount of time for watching television movies after a nerve-racking school day can help children to ease their busy mind and feel the stress melt away, thus improving their creativity and concentration, which are linked in part to their academic performance in the next day.",
+        "In conclusion, it is my belief that television has an important role to play in developing children\u2019s creativity and should exists in every family to serve as a means of education."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "reasons",
+                "start_idx": 254,
+                "end_idx": 261,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the reasons"
+                ]
+            },
+            {
+                "word": "general knowledge competition",
+                "start_idx": 743,
+                "end_idx": 772,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a general knowledge competition"
+                ]
+            },
+            {
+                "word": "classroom but",
+                "start_idx": 929,
+                "end_idx": 942,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "classroom, but"
+                ]
+            },
+            {
+                "word": "television movies",
+                "start_idx": 1219,
+                "end_idx": 1236,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "television, movies"
+                ]
+            },
+            {
+                "word": "exists",
+                "start_idx": 1590,
+                "end_idx": 1596,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "exist"
+                ]
+            }
+        ]
+    },
+    "submitter": "0915108432",
+    "num_words": 260,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "also",
+            "first",
+            "next",
+            "finally",
+            "second",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "television",
+                "occurrences": [
+                    {
+                        "start_idx": 28,
+                        "end_idx": 38
+                    },
+                    {
+                        "start_idx": 175,
+                        "end_idx": 185
+                    },
+                    {
+                        "start_idx": 287,
+                        "end_idx": 297
+                    },
+                    {
+                        "start_idx": 387,
+                        "end_idx": 397
+                    },
+                    {
+                        "start_idx": 534,
+                        "end_idx": 544
+                    },
+                    {
+                        "start_idx": 599,
+                        "end_idx": 609
+                    },
+                    {
+                        "start_idx": 777,
+                        "end_idx": 787
+                    },
+                    {
+                        "start_idx": 1220,
+                        "end_idx": 1230
+                    },
+                    {
+                        "start_idx": 1503,
+                        "end_idx": 1513
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-22T13:57:53.000Z"
+}

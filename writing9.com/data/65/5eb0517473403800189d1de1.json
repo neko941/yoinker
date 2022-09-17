@@ -1,0 +1,134 @@
+{
+    "url": "https://writing9.com/text/5eb0517473403800189d1de1",
+    "file": [
+        "data",
+        "65",
+        "5eb0517473403800189d1de1.json"
+    ],
+    "topics": [
+        "energy",
+        "source",
+        "household",
+        "countries",
+        "world"
+    ],
+    "question": "Solar energy is becoming more and more popular as a source of household energy in many countries around the world. Why is this? What are the advantages and disadvantages of solar energy?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Various countries across the world have started using solar power for domestic purpose because it is the most abundant renewable resource of energy. Although solar energy is eco-friendly and inexhaustible, it does have a few drawbacks.",
+        "The popularity of solar energy can be attributed to the fact that it does not cause global warming like fossil fuels. Also, natural resources like petrol, tar and fuels are limited and cannot meet the increasing demand for energy. Consequently, scientists all over the world are researching alternative sources like sun and wind.",
+        "Firstly, one of the benefits of solar power as already mentioned is its abundant availability, especially in tropical countries. In other words, sun is a natural source of heat and hence there is no danger of depletion, whereas, other sources of energy are already exhausted. Secondly, solar energy does not cause pollution since it does not involve the combustion of fuels and hence helps to tackle global warming.",
+        "Nevertheless, solar energy has its own limitations which restrict its widespread usage. The main drawback is that the solar panels which are required to extract solar energy are very expensive and cannot be afforded by people from low income groups. Also the panels are quite huge and occupy a lot of space and hence many people are reluctant to use them. Another disadvantage is that since solar power needs sunshine, it cannot be relied upon as the only source of energy in many subtropical and temperate countries where it is winter for most parts of the year.",
+        "To conclude, solar is becoming more and more popular as a source of energy because it is abundant, clean and green. However, it does have some disadvantages which discourage its widespread use"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "sun",
+                "start_idx": 710,
+                "end_idx": 713,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the sun"
+                ]
+            }
+        ]
+    },
+    "submitter": "meerajoshi2014",
+    "num_words": 286,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "secondly",
+            "also",
+            "nevertheless",
+            "although",
+            "hence",
+            "firstly",
+            "however",
+            "consequently",
+            "in other words"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "energy",
+                "occurrences": [
+                    {
+                        "start_idx": 141,
+                        "end_idx": 147
+                    },
+                    {
+                        "start_idx": 164,
+                        "end_idx": 170
+                    },
+                    {
+                        "start_idx": 260,
+                        "end_idx": 266
+                    },
+                    {
+                        "start_idx": 459,
+                        "end_idx": 465
+                    },
+                    {
+                        "start_idx": 812,
+                        "end_idx": 818
+                    },
+                    {
+                        "start_idx": 858,
+                        "end_idx": 864
+                    },
+                    {
+                        "start_idx": 1002,
+                        "end_idx": 1008
+                    },
+                    {
+                        "start_idx": 1149,
+                        "end_idx": 1155
+                    },
+                    {
+                        "start_idx": 1448,
+                        "end_idx": 1454
+                    },
+                    {
+                        "start_idx": 1614,
+                        "end_idx": 1620
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-05-04T17:31:32.935Z"
+}

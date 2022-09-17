@@ -1,0 +1,148 @@
+{
+    "url": "https://writing9.com/text/5e480c7e1738c20018104eee",
+    "file": [
+        "data",
+        "7",
+        "5e480c7e1738c20018104eee.json"
+    ],
+    "topics": [
+        "people",
+        "information",
+        "research",
+        "business",
+        "world"
+    ],
+    "question": "Some people believe that it is good to share as much information as possible in scientific research, business, and the academic world. Others believe that some information is too important or too valuable to be shared freely.\n\nDiscuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The question of how much information relevant to various areas of scientific and academic research should be shared is becoming more and more important as the pace of technological innovation quickens and the internet allows for instant collaboration. In my opinion, information is a valuable, potentially dangerous asset and should only be shared freely in particular circumstances.",
+        "Advocates of freely sharing information rightly argue that collaboration leads to faster results. This applies to scientists, who can help each by offering their individual research results, businesses, which can work together as long as they are not competitors on advertising or product development, as well as academics, who need fresh perspectives to push their work to higher plateaus. Take for example the potential for sharing information in the business world. Google has built their successful advertising business by working together with various companies and sharing information. Google collects a variety of statistics related to users including their location and interests. This information is shared with advertisers who can then better target ads for users. It allows the consumer to see more relevant products and services and the companies advertising to target their audience more efficiently.",
+        "While there are decided advantages like the one mentioned above, information is still a valuable asset that individuals and companies should safeguard. In a perfect world, we might expect people to openly share everything they know but the social and economic constructions of our actual world make this a naive proposition. One interesting example of this is from a recent news article about Elon Musk where he explained why his rocket company SpaceX does not apply for patents on any new technology. He reasoned that his main competitors are governments, not private companies. If his company discloses its innovations then domestic and foreign governments can take advantage of the shared technology and potentially disrupt his business. This is just one example of how sharing can prove damaging in a capitalist society.",
+        "In conclusion, though sharing might be a valid standpoint in a perfect world, it is not feasible under current global conditions. Instead of looking to increase sharing, governments should do more to support innovative companies and researchers. This will have a larger overall impact."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "users including",
+                "start_idx": 1026,
+                "end_idx": 1041,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "users, including"
+                ]
+            },
+            {
+                "word": "know but",
+                "start_idx": 1524,
+                "end_idx": 1532,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "know, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "bordeaux.med94",
+    "num_words": 368,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "this",
+            "instead",
+            "for example",
+            "then",
+            "in particular"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 25,
+                        "end_idx": 36
+                    },
+                    {
+                        "start_idx": 267,
+                        "end_idx": 278
+                    },
+                    {
+                        "start_idx": 412,
+                        "end_idx": 423
+                    },
+                    {
+                        "start_idx": 818,
+                        "end_idx": 829
+                    },
+                    {
+                        "start_idx": 963,
+                        "end_idx": 974
+                    },
+                    {
+                        "start_idx": 1078,
+                        "end_idx": 1089
+                    },
+                    {
+                        "start_idx": 1363,
+                        "end_idx": 1374
+                    }
+                ]
+            },
+            {
+                "word": "world",
+                "occurrences": [
+                    {
+                        "start_idx": 846,
+                        "end_idx": 851
+                    },
+                    {
+                        "start_idx": 1463,
+                        "end_idx": 1468
+                    },
+                    {
+                        "start_idx": 1586,
+                        "end_idx": 1591
+                    },
+                    {
+                        "start_idx": 2194,
+                        "end_idx": 2199
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-15T15:21:34.519Z"
+}

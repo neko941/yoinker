@@ -1,0 +1,149 @@
+{
+    "url": "https://writing9.com/text/5cf4edb4bde8cf0017859cab",
+    "file": [
+        "data",
+        "55",
+        "5cf4edb4bde8cf0017859cab.json"
+    ],
+    "topics": [
+        "people",
+        "news",
+        "internet",
+        "newspapers",
+        "source"
+    ],
+    "question": "Although more and more people read news on the internet, newspapers will remain the most important source of news.\nTo what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "People are of the view that although there is a growing trend of using the internet for getting the latest news, newspapers will still remain the most significant means for this purpose. I would like to disagree with this idea. In my opinion, digital media will surpass print media as the best source of getting the latest information in the near future.",
+        "Modern day world is replete with new technology, with advancements being made in this field everyday. With the advent of the world wide web and portable electronic devices, it has become more convenient to get news from the internet than any other medium. The best example of this is cellular phones which can be used anywhere to search the latest news, at any time.",
+        "Moreover, with electronic media, it is also easier to archive  required information, and to look up every day news which could prove to be difficult if using newspapers. This is because the  internet has all kinds of news stored on it in a more organized way. All that is required is for the relevant term to be entered and it will provide you with massive volumes of information relating to that word. The internet gets updated with minute to minute news multiple times each day.",
+        "In conclusion, although the role of newspapers in making us aware of the latest affairs can not be disregarded, its usage in modern society is declining gradually. And with the growing popularity of electronic handheld devices, it is not difficult to prognosticate that the internet will soon become the prime source of obtaining news."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "advancements",
+                "start_idx": 408,
+                "end_idx": 420,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the advancements"
+                ]
+            },
+            {
+                "word": "everyday",
+                "start_idx": 446,
+                "end_idx": 454,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "every day"
+                ]
+            },
+            {
+                "word": "news which",
+                "start_idx": 831,
+                "end_idx": 841,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "news, which"
+                ]
+            },
+            {
+                "word": "affairs",
+                "start_idx": 1282,
+                "end_idx": 1289,
+                "error": "the verbal act of offering",
+                "error_des": "",
+                "suggetions": [
+                    "offers"
+                ]
+            },
+            {
+                "word": "can not",
+                "start_idx": 1290,
+                "end_idx": 1297,
+                "error": "can not",
+                "error_des": "",
+                "suggetions": [
+                    "cannot"
+                ]
+            }
+        ]
+    },
+    "submitter": "umairtahir94",
+    "num_words": 265,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "also",
+            "although",
+            "that is",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "internet",
+                "occurrences": [
+                    {
+                        "start_idx": 75,
+                        "end_idx": 83
+                    },
+                    {
+                        "start_idx": 579,
+                        "end_idx": 587
+                    },
+                    {
+                        "start_idx": 913,
+                        "end_idx": 921
+                    },
+                    {
+                        "start_idx": 1129,
+                        "end_idx": 1137
+                    },
+                    {
+                        "start_idx": 1477,
+                        "end_idx": 1485
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-03T09:51:48.000Z"
+}

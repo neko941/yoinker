@@ -1,0 +1,99 @@
+{
+    "url": "https://writing9.com/text/5f0ef9c2401ea400186c6965",
+    "file": [
+        "data",
+        "5",
+        "5f0ef9c2401ea400186c6965.json"
+    ],
+    "topics": [
+        "people",
+        "advertisements",
+        "products",
+        "lives"
+    ],
+    "question": "Some people say that advertising encourages us to buy things that we really do not need. Others say that advertisements tell us about new products that may improve our lives.Which viewpoint do you agree with?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 4.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Whether or not advertising benefits our lives has become a hotly debated topic over the last few years. While a majority of people, when surveyed, say that they would have bought fewer things if not for advertising, they have not thought about the impact of those purchases in their lives.",
+        "Advertising has played an instrumental role in making our lives easier. Research shows that while most people agree that most things on a list of 100 items shared with them would make their lives better, they were only searching for a handful of them actively. According to a World Innovation Council study, the world is innovating and developing new products at ten times the rate as compared to just 2 decades ago. While most people believe that these products benefit them, they would not have known about these products without advertising, Case in point, robot vacuum cleaners have helped households save at least five to eight hours of time each month, but most people who have purchased one say they would not have known about it but for an advertisement they saw.",
+        "Having said that, people will always point to a handful of items they bought that they didn't really need but those occasions tend to be far fewer in comparison. Another study by Wold Innovation Council found in a controlled experiment that in only 1 out of 12 situations advertising was successful in convincing people into buying things that did not improve their lives.",
+        "Thus, while there are a few unintended consequences, advertising has played an extremely important role in helping improve our quality of life and should continue to do so."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "need but",
+                "start_idx": 1162,
+                "end_idx": 1170,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "need, but"
+                ]
+            },
+            {
+                "word": "fewer",
+                "start_idx": 1202,
+                "end_idx": 1207,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "less"
+                ]
+            },
+            {
+                "word": "Wold Innovation Council",
+                "start_idx": 1240,
+                "end_idx": 1263,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the Wold Innovation Council"
+                ]
+            }
+        ]
+    },
+    "submitter": "Bharat",
+    "num_words": 273,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "last",
+            "thus"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2020-07-15T12:42:44.827Z"
+}

@@ -1,0 +1,286 @@
+{
+    "url": "https://writing9.com/text/608d22d1db248400181b713a-you-have-asked-for-a-meeting-with-your-manager-the",
+    "file": [
+        "data",
+        "45",
+        "608d22d1db248400181b713a.json"
+    ],
+    "topics": [
+        "manager"
+    ],
+    "question": "You have asked for a meeting with your manager the next day. Write a letter telling him/her what you would like to discuss in the meeting.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 5.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "I am writing to notify you about our next upcoming meeting regarding latest software training for all digital artists.",
+        "As you know, I am working in this production house from the past couple of years, and I was aware of latest software. I helped company to enhance the work quality of our 2d animation movies over the past couple of years so that we can gain more audience.",
+        "I feel that our employees who were working from several years are not aware of latest industry related softwares. In my view, we should provide training related to the new updated software. It will help our company to create highly realistic output which at the end is helpful for company to achieve professional growth.",
+        "Recent years, animation has progressed a lot in terms of software. I think we should provide training of Harmony software which is latest in the market. It will take one month to learn the complete software. It would be appreciated if you can allow me time for one to train myself with the software so that I can help other employees to enhance the work in production house."
+    ],
+    "errors": {
+        "num_error": "16",
+        "error_list": [
+            {
+                "word": "latest",
+                "start_idx": 68,
+                "end_idx": 74,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the latest"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 169,
+                "end_idx": 173,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "latest",
+                "start_idx": 219,
+                "end_idx": 225,
+                "error": "Add an article",
+                "error_des": "The noun phrase latest software seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the latest"
+                ]
+            },
+            {
+                "word": "company",
+                "start_idx": 245,
+                "end_idx": 252,
+                "error": "Add an article",
+                "error_des": "The noun phrase company seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the company"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 416,
+                "end_idx": 420,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "latest",
+                "start_idx": 452,
+                "end_idx": 458,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the latest"
+                ]
+            },
+            {
+                "word": "industry related",
+                "start_idx": 459,
+                "end_idx": 475,
+                "error": "Add a hyphen",
+                "error_des": "It appears that industry related is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "industry-related"
+                ]
+            },
+            {
+                "word": "softwares",
+                "start_idx": 476,
+                "end_idx": 485,
+                "error": "Correct your spelling",
+                "error_des": "The word softwares is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "software"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 628,
+                "end_idx": 630,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "company",
+                "start_idx": 654,
+                "end_idx": 661,
+                "error": "Add an article",
+                "error_des": "The noun phrase company seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the company",
+                    "a company"
+                ]
+            },
+            {
+                "word": "Recent",
+                "start_idx": 694,
+                "end_idx": 700,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "In recent"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 796,
+                "end_idx": 798,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "latest",
+                "start_idx": 825,
+                "end_idx": 831,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the latest"
+                ]
+            },
+            {
+                "word": "for ",
+                "start_idx": 951,
+                "end_idx": 955,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "one ",
+                "start_idx": 955,
+                "end_idx": 959,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "production",
+                "start_idx": 1051,
+                "end_idx": 1061,
+                "error": "Add an article",
+                "error_des": "The noun phrase production house seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a production",
+                    "the production"
+                ]
+            }
+        ]
+    },
+    "submitter": "deepkaursimran9",
+    "num_words": 190,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "next",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "years",
+                "occurrences": [
+                    {
+                        "start_idx": 194,
+                        "end_idx": 199
+                    },
+                    {
+                        "start_idx": 333,
+                        "end_idx": 338
+                    },
+                    {
+                        "start_idx": 430,
+                        "end_idx": 435
+                    },
+                    {
+                        "start_idx": 702,
+                        "end_idx": 707
+                    }
+                ]
+            },
+            {
+                "word": "software",
+                "occurrences": [
+                    {
+                        "start_idx": 76,
+                        "end_idx": 84
+                    },
+                    {
+                        "start_idx": 227,
+                        "end_idx": 235
+                    },
+                    {
+                        "start_idx": 477,
+                        "end_idx": 485
+                    },
+                    {
+                        "start_idx": 554,
+                        "end_idx": 562
+                    },
+                    {
+                        "start_idx": 752,
+                        "end_idx": 760
+                    },
+                    {
+                        "start_idx": 808,
+                        "end_idx": 816
+                    },
+                    {
+                        "start_idx": 893,
+                        "end_idx": 901
+                    },
+                    {
+                        "start_idx": 985,
+                        "end_idx": 993
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-11T17:43:33.493Z"
+}

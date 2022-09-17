@@ -1,0 +1,84 @@
+{
+    "url": "https://writing9.com/text/6254eac2a010f000181b33a6-write-a-letter-to-the-manager-of-a-cinema-movie",
+    "file": [
+        "data",
+        "85",
+        "6254eac2a010f000181b33a6.json"
+    ],
+    "topics": [
+        "manager",
+        "cinema",
+        "movie",
+        "theatre",
+        "jacket",
+        "film"
+    ],
+    "question": "Write a letter to the manager of a cinema (movie theatre) about a jacket you have left behind after a film. In your letter:describe the jacketdescribe where you were seatedexplain what you want to be done",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "My name is Justine, and I was watching 'Top Boy' Friday night in your movie theatre. I am writing to inform you that I forgot my jacket inside one of your rooms.",
+        "I was out with my friends to watch the new famous film Top Boy. I was seated on seat 11P, right in the middle of the room. When the movie finished, I was literally crying because the finale scene was so magnificent. Hence, I believe I left behind my beloved jacket. It is a Superdry blue and green vest with hearts on both sides.",
+        "I would be very grateful if you could ask your employees to take a look at the room. I really love this piece of clothing and I wish to have it back.",
+        "Please contact me by email [email\u00a0protected] if you have any clue.",
+        "Thank you a lot for your help,",
+        "Yours faithfully,",
+        "Justine Zanini"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "[email\u00a0protected]",
+                "start_idx": 684,
+                "end_idx": 701,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at [email\u00a0protected]"
+                ]
+            }
+        ]
+    },
+    "submitter": "justine.zanini",
+    "num_words": 152,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "hence",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-04-12T02:59:06.379Z"
+}

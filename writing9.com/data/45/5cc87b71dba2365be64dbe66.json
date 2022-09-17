@@ -1,0 +1,182 @@
+{
+    "url": "https://writing9.com/text/5cc87b71dba2365be64dbe66",
+    "file": [
+        "data",
+        "45",
+        "5cc87b71dba2365be64dbe66.json"
+    ],
+    "topics": [
+        "people",
+        "children",
+        "age",
+        "advantage",
+        "outweigh"
+    ],
+    "question": "More people decided to have children in their late age than in the past, why? Do the advantage of this outweigh the disadvantage",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "These days, more  individuals are deciding to become parents much later than before in order to make more money. The gains in this far exceed any demerit.",
+        "It is a common trend nowadays for  people to  delay child bearing  so as to become more financially buoyant. These set of persons are more engrossed in activities that bring them money such as their daily jobs, which makes them less interested in having sex, let alone making babies. To them, having children is synonymous to financial responsibilities and would rather refrain till they make enough cash to sustain a family. This is evidenced by the growing number of persons who are over 40 years and have never had children in many locations across the world according to online statistics.",
+        "This act of delayed parentage for better financial sustainability has the demerit of increasing the predisposition to giving birth to abnormal babies. According to experts in genetic studies, the higher the age, the higher the risk of chromosomal defects which may lead to malformed babies. The risk, however is said to be  very low in the general population. In contrast,this little setback is nothing compared to the bright sides listed below.First, money is important to purchase nutritious food for children. When the parents are rich, the children will not lack good food and grow up to become healthy and less prone to diseases.",
+        "Secondly, money is important to provide good shelter for them which keeps them away from harsh weather conditions. They are able to grow up in safe environment  because their progenitors are rich enough to rent or buy a home in secure neighborhoods.",
+        "Finally, these children wear the best of clothes and this helps their self confidence among their peers as they do not look inferior to them.",
+        "To sum it up, Several persons in this era prefer to leave child bearing until a later age when they make enough money. This benefits of this exceeds the drawbacks by no small means."
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "child bearing",
+                "start_idx": 206,
+                "end_idx": 219,
+                "error": "the parturition process in human beings; having a baby; the process of giving birth to a child",
+                "error_des": "",
+                "suggetions": [
+                    "childbearing"
+                ]
+            },
+            {
+                "word": "set",
+                "start_idx": 269,
+                "end_idx": 272,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "sets"
+                ]
+            },
+            {
+                "word": "money ",
+                "start_idx": 333,
+                "end_idx": 339,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "money, such"
+                ]
+            },
+            {
+                "word": "however is",
+                "start_idx": 1049,
+                "end_idx": 1059,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "however, is"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1120,
+                "end_idx": 1121,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "safe environment",
+                "start_idx": 1526,
+                "end_idx": 1542,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a safe environment"
+                ]
+            },
+            {
+                "word": "neighborhoods",
+                "start_idx": 1618,
+                "end_idx": 1631,
+                "error": "a surrounding or nearby region",
+                "error_des": "",
+                "suggetions": [
+                    "neighbourhoods"
+                ]
+            },
+            {
+                "word": "benefits",
+                "start_idx": 1899,
+                "end_idx": 1907,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "benefit"
+                ]
+            }
+        ]
+    },
+    "submitter": "fbjatom50",
+    "num_words": 331,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "secondly",
+            "such",
+            "in contrast",
+            "first",
+            "finally",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "money",
+                "occurrences": [
+                    {
+                        "start_idx": 106,
+                        "end_idx": 111
+                    },
+                    {
+                        "start_idx": 334,
+                        "end_idx": 339
+                    },
+                    {
+                        "start_idx": 1201,
+                        "end_idx": 1206
+                    },
+                    {
+                        "start_idx": 1394,
+                        "end_idx": 1399
+                    },
+                    {
+                        "start_idx": 1888,
+                        "end_idx": 1893
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-30T16:44:33.000Z"
+}

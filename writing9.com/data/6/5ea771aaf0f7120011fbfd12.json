@@ -1,0 +1,163 @@
+{
+    "url": "https://writing9.com/text/5ea771aaf0f7120011fbfd12",
+    "file": [
+        "data",
+        "6",
+        "5ea771aaf0f7120011fbfd12.json"
+    ],
+    "topics": [
+        "scientists",
+        "people",
+        "language",
+        "future",
+        "development"
+    ],
+    "question": "Scientists predict that all people will choose to talk the same global language in the future. Do you think this is a positive or negative development?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the future, it is predicted by scientists that all the people of the world will talk the same language. I believe that though this can be advantageous and beneficial for the world at large, it can have its drawbacks on individual societies and cultures.",
+        "Speaking the same language will remove communication barriers. There will certainly be no misunderstanding and misinterpretation which will lead to better understanding between people. Moreover, it will be made easier for trading and businesses would flourish as people can convey their message clearly. Impoliteness and rudeness due to the usage of a foreign language improperly would not be present, making people be more welcoming and relaxed.",
+        "However, with increasing number of people speaking the same global language, the culture and rich heritage of a community declines. Language is intrinsically associated with the culture of its people. As the number of people speaking the local language of a village or community decreases, their culture dies along with it. As a result, tourism would also decline as people would not have interesting cultures and heritage to visit and enjoy. Furthermore, many jobs of people who work as translators and interpreters would be lost due to the globalisation of a particular language.",
+        "In conclusion, although communication barriers would be removed by all the people of the world speaking one language, I believe that loss of unique culture of each community is far too precious to be considered as a positive development. Therefore, the drawbacks of a global language outweigh its advantages, and this is a negative development."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "or ",
+                "start_idx": 170,
+                "end_idx": 173,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "nique ",
+                "start_idx": 1428,
+                "end_idx": 1434,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the unique culture"
+                ]
+            }
+        ]
+    },
+    "submitter": "fazla.ameer",
+    "num_words": 259,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "also",
+            "furthermore",
+            "although",
+            "as a result",
+            "however",
+            "therefore",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "language",
+                "occurrences": [
+                    {
+                        "start_idx": 97,
+                        "end_idx": 105
+                    },
+                    {
+                        "start_idx": 275,
+                        "end_idx": 283
+                    },
+                    {
+                        "start_idx": 617,
+                        "end_idx": 625
+                    },
+                    {
+                        "start_idx": 771,
+                        "end_idx": 779
+                    },
+                    {
+                        "start_idx": 948,
+                        "end_idx": 956
+                    },
+                    {
+                        "start_idx": 1276,
+                        "end_idx": 1284
+                    },
+                    {
+                        "start_idx": 1394,
+                        "end_idx": 1402
+                    },
+                    {
+                        "start_idx": 1561,
+                        "end_idx": 1569
+                    }
+                ]
+            },
+            {
+                "word": "culture",
+                "occurrences": [
+                    {
+                        "start_idx": 247,
+                        "end_idx": 254
+                    },
+                    {
+                        "start_idx": 785,
+                        "end_idx": 792
+                    },
+                    {
+                        "start_idx": 882,
+                        "end_idx": 889
+                    },
+                    {
+                        "start_idx": 1000,
+                        "end_idx": 1007
+                    },
+                    {
+                        "start_idx": 1105,
+                        "end_idx": 1112
+                    },
+                    {
+                        "start_idx": 1434,
+                        "end_idx": 1441
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-04-27T23:58:34.016Z"
+}

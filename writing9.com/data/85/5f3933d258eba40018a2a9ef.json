@@ -1,0 +1,116 @@
+{
+    "url": "https://writing9.com/text/5f3933d258eba40018a2a9ef-a-friend-has-agreed-to-look-after-your-house-and",
+    "file": [
+        "data",
+        "85",
+        "5f3933d258eba40018a2a9ef.json"
+    ],
+    "topics": [
+        "friend",
+        "house",
+        "pet",
+        "holiday",
+        "contact",
+        "instructions",
+        "care",
+        "household",
+        "duties"
+    ],
+    "question": "A friend has agreed to look after your house and pet while you are on holiday. (Informal Letter)Write a letter to your friend. In your letter: Give contact details for when you are away Give instructions on how to care for your pet Describe other household duties",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Cynthia,",
+        "Thank you for agreeing to house-sit for me. If you need to contact me while I\u2019m away, I\u2019ll be staying at The Merrion Hotel, Merrion Square in Dublin. If it\u2019s urgent, however, please call me on my mobile phone, which I\u2019ll keep with me at all times. I\u2019ve written the numbers on a sticky note which I\u2019ve left on the fridge.",
+        "My cat needs to be fed twice daily -morning and evening. So each morning and evening put a handful of cat food in his dish and fresh water in his water pot. You will find the food in a jar in the kitchen cupboard. Please check throughout the day to make sure he drinks plenty of fresh water. You can give him a small bowl of milk in the evening, but do it every other day.",
+        "I would like you to water my plants, too. The indoor ones in the lounge only need water twice a week, but the plants on the balcony need to be watered daily except on rainy days. Finally, for security, please lock the door and shut the windows before you go to bed. Also, clear my mailbox every day and keep the outside lights on at night.",
+        "I look forward to seeing you on my return.",
+        "Warm wishes,"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "fresh ",
+                "start_idx": 613,
+                "end_idx": 619,
+                "error": "Correct your spelling",
+                "error_des": "The word fresh water seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "freshwater"
+                ]
+            }
+        ]
+    },
+    "submitter": "Varsha",
+    "num_words": 216,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "also",
+            "however",
+            "finally"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "water",
+                "occurrences": [
+                    {
+                        "start_idx": 468,
+                        "end_idx": 473
+                    },
+                    {
+                        "start_idx": 481,
+                        "end_idx": 486
+                    },
+                    {
+                        "start_idx": 620,
+                        "end_idx": 625
+                    },
+                    {
+                        "start_idx": 728,
+                        "end_idx": 733
+                    },
+                    {
+                        "start_idx": 790,
+                        "end_idx": 795
+                    },
+                    {
+                        "start_idx": 851,
+                        "end_idx": 856
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-14T12:22:30.239Z"
+}

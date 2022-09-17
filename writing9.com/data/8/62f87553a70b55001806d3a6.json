@@ -1,0 +1,152 @@
+{
+    "url": "https://writing9.com/text/62f87553a70b55001806d3a6-as-the-graduation-day-draws-near-you-have-to-apply",
+    "file": [
+        "data",
+        "8",
+        "62f87553a70b55001806d3a6.json"
+    ],
+    "topics": [
+        "graduation",
+        "library",
+        "card",
+        "graduate",
+        "thesis",
+        "person",
+        "charge",
+        "situation",
+        "materials",
+        "procedures",
+        "thanks"
+    ],
+    "question": "As the graduation day draws near, you have to apply for a library card for your graduate thesis.Write a letter to the person in charge of the library. In your letterExplain your situationInquire about to the required materials and the required proceduresExpress your thanks",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "I am writing to apply for a library card. I am currently working on my graduate thesis. The professor requires us to read a couple of reference books before starting writing the thesis. I checked online that all the books can be borrowed from your library. Therefore, I decide to apply for a library card.",
+        "I would be grateful if you could tell me the required materials for the application for a library card. Because my thesis will be due on next month, I would like to get my library card and start reading the books as soon as possible. Please let me know all the procedures for application, and I will get all the materials ready and file my application.",
+        "I would like to express my gratitude to you for helping me to apply for the library card. It means a lot to me.",
+        "Yours sincerely,",
+        "Ada"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "on ",
+                "start_idx": 455,
+                "end_idx": 458,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "application",
+                "start_idx": 597,
+                "end_idx": 608,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the application"
+                ]
+            }
+        ]
+    },
+    "submitter": "1123747551",
+    "num_words": 150,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "next",
+            "therefore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "card",
+                "occurrences": [
+                    {
+                        "start_idx": 52,
+                        "end_idx": 56
+                    },
+                    {
+                        "start_idx": 316,
+                        "end_idx": 320
+                    },
+                    {
+                        "start_idx": 420,
+                        "end_idx": 424
+                    },
+                    {
+                        "start_idx": 502,
+                        "end_idx": 506
+                    },
+                    {
+                        "start_idx": 759,
+                        "end_idx": 763
+                    }
+                ]
+            },
+            {
+                "word": "library",
+                "occurrences": [
+                    {
+                        "start_idx": 44,
+                        "end_idx": 51
+                    },
+                    {
+                        "start_idx": 264,
+                        "end_idx": 271
+                    },
+                    {
+                        "start_idx": 308,
+                        "end_idx": 315
+                    },
+                    {
+                        "start_idx": 412,
+                        "end_idx": 419
+                    },
+                    {
+                        "start_idx": 494,
+                        "end_idx": 501
+                    },
+                    {
+                        "start_idx": 751,
+                        "end_idx": 758
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-14T04:08:52.604Z"
+}

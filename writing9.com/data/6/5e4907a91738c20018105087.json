@@ -1,0 +1,272 @@
+{
+    "url": "https://writing9.com/text/5e4907a91738c20018105087",
+    "file": [
+        "data",
+        "6",
+        "5e4907a91738c20018105087.json"
+    ],
+    "topics": [
+        "people",
+        "idea",
+        "year",
+        "travel",
+        "work",
+        "school",
+        "university",
+        "students"
+    ],
+    "question": "Some people believe that it is a good idea for young people to take a year off to travel or work between high school and university. Others say that it is better for students to go straight on to university after graduating from high school.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A discussion exist between people that whether students take a break to travel or go to university directly after high school. Most students directly go to university after high school graduations. On the other hand, some students prefer to get a year off to go for a trip or job, and it is good to get a year break for vocation and relaxation.",
+        "People say that it is better to have a break after school graduation because of three reasons. First, after 12 years study, our brains needs to make rest. Second, we need more experience before we go to university. For instance, a year break can give us enough experiences in both life and work. Finally, it give us sufficient time to focus on our profession choice. In brief, it is good to have a break after high school.",
+        "Some people think that going to university is the best option after high school for two reasons. Firstly, you can graduate and get work sooner. As an example, a boy who graduated from high school in 18 years old can get a bachelor degree from university in 22 years old. Finally, you can start you career in a better position in your field and reach to your goal as quickly as possible. For example, a boy who graduated from engineering in 22 years old will start his career in engineering and can reach to highest position very soon.",
+        "In conclusion, despite most students go to university directly, it is good to take a break for vacation and work. People have reasons on their idea about students that take a year off or go to university after high school."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "exist",
+                "start_idx": 12,
+                "end_idx": 17,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "exists"
+                ]
+            },
+            {
+                "word": "vocation",
+                "start_idx": 319,
+                "end_idx": 327,
+                "error": "leisure time away from work devoted to rest or pleasure",
+                "error_des": "",
+                "suggetions": [
+                    "vacation"
+                ]
+            },
+            {
+                "word": "needs",
+                "start_idx": 479,
+                "end_idx": 484,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "need"
+                ]
+            },
+            {
+                "word": "rest",
+                "start_idx": 493,
+                "end_idx": 497,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the rest"
+                ]
+            },
+            {
+                "word": "give",
+                "start_idx": 652,
+                "end_idx": 656,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "gives",
+                    "has given"
+                ]
+            },
+            {
+                "word": "you",
+                "start_idx": 1061,
+                "end_idx": 1064,
+                "error": "of you or yourself",
+                "error_des": "",
+                "suggetions": [
+                    "your"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 278,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "first",
+            "firstly",
+            "finally",
+            "second",
+            "on the other hand",
+            "for instance",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "break",
+                "occurrences": [
+                    {
+                        "start_idx": 63,
+                        "end_idx": 68
+                    },
+                    {
+                        "start_idx": 310,
+                        "end_idx": 315
+                    },
+                    {
+                        "start_idx": 384,
+                        "end_idx": 389
+                    },
+                    {
+                        "start_idx": 581,
+                        "end_idx": 586
+                    },
+                    {
+                        "start_idx": 743,
+                        "end_idx": 748
+                    },
+                    {
+                        "start_idx": 1388,
+                        "end_idx": 1393
+                    }
+                ]
+            },
+            {
+                "word": "school",
+                "occurrences": [
+                    {
+                        "start_idx": 119,
+                        "end_idx": 125
+                    },
+                    {
+                        "start_idx": 178,
+                        "end_idx": 184
+                    },
+                    {
+                        "start_idx": 396,
+                        "end_idx": 402
+                    },
+                    {
+                        "start_idx": 760,
+                        "end_idx": 766
+                    },
+                    {
+                        "start_idx": 841,
+                        "end_idx": 847
+                    },
+                    {
+                        "start_idx": 957,
+                        "end_idx": 963
+                    },
+                    {
+                        "start_idx": 1518,
+                        "end_idx": 1524
+                    }
+                ]
+            },
+            {
+                "word": "year",
+                "occurrences": [
+                    {
+                        "start_idx": 247,
+                        "end_idx": 251
+                    },
+                    {
+                        "start_idx": 305,
+                        "end_idx": 309
+                    },
+                    {
+                        "start_idx": 456,
+                        "end_idx": 460
+                    },
+                    {
+                        "start_idx": 576,
+                        "end_idx": 580
+                    },
+                    {
+                        "start_idx": 970,
+                        "end_idx": 974
+                    },
+                    {
+                        "start_idx": 1028,
+                        "end_idx": 1032
+                    },
+                    {
+                        "start_idx": 1211,
+                        "end_idx": 1215
+                    },
+                    {
+                        "start_idx": 1478,
+                        "end_idx": 1482
+                    }
+                ]
+            },
+            {
+                "word": "university",
+                "occurrences": [
+                    {
+                        "start_idx": 88,
+                        "end_idx": 98
+                    },
+                    {
+                        "start_idx": 156,
+                        "end_idx": 166
+                    },
+                    {
+                        "start_idx": 548,
+                        "end_idx": 558
+                    },
+                    {
+                        "start_idx": 800,
+                        "end_idx": 810
+                    },
+                    {
+                        "start_idx": 1011,
+                        "end_idx": 1021
+                    },
+                    {
+                        "start_idx": 1346,
+                        "end_idx": 1356
+                    },
+                    {
+                        "start_idx": 1496,
+                        "end_idx": 1506
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-16T09:13:13.747Z"
+}

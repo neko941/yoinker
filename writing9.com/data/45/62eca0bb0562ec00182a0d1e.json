@@ -1,0 +1,272 @@
+{
+    "url": "https://writing9.com/text/62eca0bb0562ec00182a0d1e-adverting-discourage-people-from-being-different-individuals-by-making-them",
+    "file": [
+        "data",
+        "45",
+        "62eca0bb0562ec00182a0d1e.json"
+    ],
+    "topics": [
+        "people",
+        "individuals"
+    ],
+    "question": "Adverting discourage people from being different individuals by making them look the same.Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Advertising is one of the terrific invention on the present age. Individuals always find their uniqueness in advertisements and define their identity.Rather than preventing people from being different individuals, it allows people receiving all sorts of choice and building divergent individuals so that they can avoid being made look the same.",
+        "The first point to make is that advertising has change people's life through expending",
+        "The shopping option. Consumer will not be limited to a product,as well as being effectively offered materials price and advantages,therefore helping us to get the most suitable product.For example,potential consumers are able to comprehend lots of information about the headset such as tone quality,battery life and something like that by comparing kinds of advertising.According to this,people are more likely to make deliberate decisions before buying the headset .If there are without advertising,people may make a hasty decision.",
+        "The second argument concerns individualism.Now more and more young people have unique ideas.For instance,some people prefer buying some products which are not common on the road to show their distinctive taste.It means it is difficult to make everyone buy the same product.Faced with this trend ,some advertisements have reinvented themselves as trendsetters selling niche products to small targeted group.Such advertising makes people more personalized and distinguished rather than coordinated, because its goal is to create deviance rather than unity.",
+        "To sum up,given the nature of advertisement and a growing public awareness of individualism ,advertising can do little to create uniformity.Rather,it keeps people well-informed,making it possible for them to become different individuals."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "invention",
+                "start_idx": 34,
+                "end_idx": 43,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun invention follows the quantifier one of, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "inventions"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 44,
+                "end_idx": 46,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "receiving",
+                "start_idx": 230,
+                "end_idx": 239,
+                "error": "Change the verb form",
+                "error_des": "Receiving doesn\u2019t seem to work here.",
+                "suggetions": [
+                    "to receive"
+                ]
+            },
+            {
+                "word": "choice",
+                "start_idx": 253,
+                "end_idx": 259,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that choice may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "choices"
+                ]
+            },
+            {
+                "word": "building",
+                "start_idx": 264,
+                "end_idx": 272,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb building. Consider changing it.",
+                "suggetions": [
+                    "build"
+                ]
+            },
+            {
+                "word": "change",
+                "start_idx": 392,
+                "end_idx": 398,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb change. Consider changing it.",
+                "suggetions": [
+                    "changed"
+                ]
+            },
+            {
+                "word": "life",
+                "start_idx": 408,
+                "end_idx": 412,
+                "error": "Replace the word",
+                "error_des": "The word life doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "lives"
+                ]
+            },
+            {
+                "word": "through",
+                "start_idx": 413,
+                "end_idx": 420,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "by"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 452,
+                "end_idx": 452,
+                "error": "Add an article",
+                "error_des": "The noun phrase Consumer seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "The consumer"
+                ]
+            },
+            {
+                "word": "Consumer",
+                "start_idx": 452,
+                "end_idx": 460,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that Consumer may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "Consumers"
+                ]
+            },
+            {
+                "word": "small",
+                "start_idx": 1350,
+                "end_idx": 1355,
+                "error": "Add an article",
+                "error_des": "The noun phrase small targeted group seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a small"
+                ]
+            },
+            {
+                "word": "group",
+                "start_idx": 1365,
+                "end_idx": 1370,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that group may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "groups"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1461,
+                "end_idx": 1462,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker because. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "advertisement",
+                "start_idx": 1550,
+                "end_idx": 1563,
+                "error": "Add an article",
+                "error_des": "The noun phrase advertisement seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the advertisement"
+                ]
+            }
+        ]
+    },
+    "submitter": "yuanuf",
+    "num_words": 253,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "such",
+            "first",
+            "therefore",
+            "second",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "individuals",
+                "occurrences": [
+                    {
+                        "start_idx": 201,
+                        "end_idx": 212
+                    },
+                    {
+                        "start_idx": 284,
+                        "end_idx": 295
+                    },
+                    {
+                        "start_idx": 1746,
+                        "end_idx": 1757
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 173,
+                        "end_idx": 179
+                    },
+                    {
+                        "start_idx": 224,
+                        "end_idx": 230
+                    },
+                    {
+                        "start_idx": 400,
+                        "end_idx": 406
+                    },
+                    {
+                        "start_idx": 820,
+                        "end_idx": 826
+                    },
+                    {
+                        "start_idx": 932,
+                        "end_idx": 938
+                    },
+                    {
+                        "start_idx": 1033,
+                        "end_idx": 1039
+                    },
+                    {
+                        "start_idx": 1076,
+                        "end_idx": 1082
+                    },
+                    {
+                        "start_idx": 1395,
+                        "end_idx": 1401
+                    },
+                    {
+                        "start_idx": 1677,
+                        "end_idx": 1683
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-05T04:46:53.196Z"
+}

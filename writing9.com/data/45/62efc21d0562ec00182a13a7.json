@@ -1,0 +1,185 @@
+{
+    "url": "https://writing9.com/text/62efc21d0562ec00182a13a7-an-organization-has-given-an-advertisement-for-a-part-time-job",
+    "file": [
+        "data",
+        "45",
+        "62efc21d0562ec00182a13a7.json"
+    ],
+    "topics": [
+        "organization",
+        "advertisement",
+        "job",
+        "children",
+        "administrator"
+    ],
+    "question": "An organization has given an advertisement for a part-time job for local children. Write a letter to the administrator of the organization. In your letter\nIntroduce yourself\nWhy you think you are suitable for the job\nState when you will be able to join that job",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 5.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "I am writing this letter because of the story that was published in Daily Bugal newspaper last Friday about the part-time employment offer for young local children. I hope that position is still available.",
+        "My name is Sky, I am 16 years old and I completed my primary school from Delhi Public School with good grade. I am independent person and I like to do things on my own, I even organized many competitions during my time at school, I even partipated in some of the cooking events and won several prizes and my aim is to become one of the greatest chef's like Salt Bae.",
+        "The main reason why I am more worty candidate for this job is it includes cooking, and I have some good experience with this and most importantly I love this profession. This will help me personally as I can add this to my resume for my further studies as well. Coming to my joining date I will be available from next Wednesday as I have to wind up few things related to my studies. I hope you consider me for this position.",
+        "I look forward to hear from you.",
+        "Yours sincearly,",
+        "Sky"
+    ],
+    "errors": {
+        "num_error": "11",
+        "error_list": [
+            {
+                "word": "Daily",
+                "start_idx": 83,
+                "end_idx": 88,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the Daily"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 289,
+                "end_idx": 293,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "good",
+                "start_idx": 319,
+                "end_idx": 323,
+                "error": "Add an article",
+                "error_des": "The noun phrase good grade seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a good"
+                ]
+            },
+            {
+                "word": "grade",
+                "start_idx": 324,
+                "end_idx": 329,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that grade may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "grades"
+                ]
+            },
+            {
+                "word": "independent",
+                "start_idx": 336,
+                "end_idx": 347,
+                "error": "Add an article",
+                "error_des": "The noun phrase independent person seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an independent"
+                ]
+            },
+            {
+                "word": "partipated",
+                "start_idx": 458,
+                "end_idx": 468,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want partipated to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "participated"
+                ]
+            },
+            {
+                "word": "more",
+                "start_idx": 613,
+                "end_idx": 617,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a more"
+                ]
+            },
+            {
+                "word": "worty",
+                "start_idx": 618,
+                "end_idx": 623,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want worty to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "worthy",
+                    "worry"
+                ]
+            },
+            {
+                "word": "few",
+                "start_idx": 937,
+                "end_idx": 940,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a few"
+                ]
+            },
+            {
+                "word": "hear",
+                "start_idx": 1031,
+                "end_idx": 1035,
+                "error": "Change the verb form",
+                "error_des": "The verb hear is usually in the gerund form when following the word look forward to. Consider replacing it with the -ing form.",
+                "suggetions": [
+                    "hearing"
+                ]
+            },
+            {
+                "word": "sincearly",
+                "start_idx": 1052,
+                "end_idx": 1061,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want sincearly to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "sincerely"
+                ]
+            }
+        ]
+    },
+    "submitter": "saikumarindla1214",
+    "num_words": 200,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "further",
+            "next",
+            "last",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-08-07T13:46:06.700Z"
+}

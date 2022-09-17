@@ -1,0 +1,170 @@
+{
+    "url": "https://writing9.com/text/5cefc9fe02780e001781c5d0",
+    "file": [
+        "data",
+        "6",
+        "5cefc9fe02780e001781c5d0.json"
+    ],
+    "topics": [
+        "people",
+        "scale",
+        "level"
+    ],
+    "question": "Some people think that environmental problems should be solved on global scale while other believes it is better to deal with national level.\nDiscuss both the views and state your opinion.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The environment were never seen such a declination as in the last two decades. It is commonly thought by some people that an environmental issues need to be addressed and work on it in the form of a joint effort by several countries. However, the majority of people think that it can be handled by separate country wise. In my opinion, it will be an optimal solution if we consider this issue on a global platform in order to deal with it more precisely.",
+        "The environmental problems such as global warming, sound pollution, depleting rivers and natural water sources are some of the problems faced by the whole world. It is the time now, we need to act and find causes such as CO2 emissions, rainfalls loss due to deforestation etc., and work on appropriate resolutions which will solve these problems once for all. The global action with a joint venture of different nations will be more effective in terms of proper management and fundraising, which will be a primary need in order to solve all environmental difficulties. For instance, the middle-east countries like Qatar, UAE and Saudi Arabia set their joint share in order to solve their desertification problem with an invention of grass which can grow on deserts even in scorching temperatures ranging from 45 to 52 degree Celsius.",
+        "On the other hand, issues such as deforestation, extinction of plants and animal species which are not recoverable can be well handled by the local government with full control. Some problems are associated with particular countries and there will be no connection with other nations. For example, in Madagascar deforestation rate were hiked by 23% from the last decade as per a report by the BBC news. They find an ultimate solution where teenagers applied their efforts to half actions against deforestation with the support of local government authorities. In the same continent, there are other nations such as Middle-East countries they have their different environmental problems. In such cases, it is better to act separately.",
+        "To conclude, in my opinion, it will be best solution by setting shared efforts by every country to handle the environmental problems globally to find an effective solution. Nevertheless, different countries have their own issues and significant changes can be applied to find a way to solve environmental difficulties."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "desertification",
+                "start_idx": 1142,
+                "end_idx": 1157,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "on",
+                "start_idx": 1208,
+                "end_idx": 1210,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 1637,
+                "end_idx": 1641,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "In",
+                "start_idx": 1848,
+                "end_idx": 1850,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "On",
+                    "From"
+                ]
+            },
+            {
+                "word": "solution",
+                "start_idx": 2066,
+                "end_idx": 2074,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "solved"
+                ]
+            }
+        ]
+    },
+    "submitter": "er.vaibhavpatil",
+    "num_words": 386,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "such",
+            "nevertheless",
+            "however",
+            "last",
+            "on the other hand",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "deforestation",
+                "occurrences": [
+                    {
+                        "start_idx": 713,
+                        "end_idx": 726
+                    },
+                    {
+                        "start_idx": 1323,
+                        "end_idx": 1336
+                    },
+                    {
+                        "start_idx": 1601,
+                        "end_idx": 1614
+                    },
+                    {
+                        "start_idx": 1785,
+                        "end_idx": 1798
+                    }
+                ]
+            },
+            {
+                "word": "solution",
+                "occurrences": [
+                    {
+                        "start_idx": 358,
+                        "end_idx": 366
+                    },
+                    {
+                        "start_idx": 759,
+                        "end_idx": 767
+                    },
+                    {
+                        "start_idx": 1714,
+                        "end_idx": 1722
+                    },
+                    {
+                        "start_idx": 2067,
+                        "end_idx": 2075
+                    },
+                    {
+                        "start_idx": 2186,
+                        "end_idx": 2194
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-30T12:18:06.000Z"
+}

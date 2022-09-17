@@ -1,0 +1,135 @@
+{
+    "url": "https://writing9.com/text/5ef3921cddee680018973da6",
+    "file": [
+        "data",
+        "6",
+        "5ef3921cddee680018973da6.json"
+    ],
+    "topics": [
+        "people",
+        "change",
+        "careers",
+        "times",
+        "life"
+    ],
+    "question": "These days, people change careers several times during their life. What are the advantages and disadvantages of this?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The trend of switching jobs has gained popularity in recent times. In this essay, I will discuss both the benefits and drawbacks of this trend / change.",
+        "To begin with the positives, a significant advantage is that people gain a wide range of experience when they change jobs. This is because they get exposed to new technologies, working culture and operational models used in different companies. As a result, they obtain diverse knowledge. Besides gaining experience, they may get a steep hike in their salary when they accept a new offer.  While it is possible to get a rise while working in the same company, it is usually negligible compared to what they get when join a new company. This can be illustrated by the fact that organisations usually give around 2-5% increment to their current employees. However, they offer around 8-10% hike to workers joining them from another company.",
+        "Nevertheless, changing companies frequently does have some serious drawbacks, the most obvious of which is the necessity to prove themselves. They might be a valuable resource in their previous company but to win the trust of senior members of the organization and gain the same status in the new company, they need to really work hard during their initial years. This can often result in frustration. Another crucial demerit of this trend is that these people need to wait longer for becoming part of management since most of the top positions are usually occupied by employees who have a long association with the company.",
+        "To sum up, despite the fact that changing jobs may enable people to earn higher salaries and gain diverse experience, it has its downsides worth considering. People who switch jobs frequently have to prove themselves again and again and also wait longer for a promotion."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "join",
+                "start_idx": 668,
+                "end_idx": 672,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "joins"
+                ]
+            },
+            {
+                "word": "company but",
+                "start_idx": 1084,
+                "end_idx": 1095,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "company, but"
+                ]
+            },
+            {
+                "word": "to win",
+                "start_idx": 1096,
+                "end_idx": 1102,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "win"
+                ]
+            }
+        ]
+    },
+    "submitter": "Vilt\u0117 Jokubauskaite",
+    "num_words": 299,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "to begin",
+            "also",
+            "nevertheless",
+            "as a result",
+            "besides",
+            "however",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "company",
+                "occurrences": [
+                    {
+                        "start_idx": 604,
+                        "end_idx": 611
+                    },
+                    {
+                        "start_idx": 680,
+                        "end_idx": 687
+                    },
+                    {
+                        "start_idx": 882,
+                        "end_idx": 889
+                    },
+                    {
+                        "start_idx": 1085,
+                        "end_idx": 1092
+                    },
+                    {
+                        "start_idx": 1188,
+                        "end_idx": 1195
+                    },
+                    {
+                        "start_idx": 1507,
+                        "end_idx": 1514
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-06-24T17:49:19.743Z"
+}

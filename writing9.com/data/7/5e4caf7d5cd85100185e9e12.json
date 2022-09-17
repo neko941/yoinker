@@ -1,0 +1,147 @@
+{
+    "url": "https://writing9.com/text/5e4caf7d5cd85100185e9e12",
+    "file": [
+        "data",
+        "7",
+        "5e4caf7d5cd85100185e9e12.json"
+    ],
+    "topics": [
+        "college",
+        "students",
+        "home",
+        "parents"
+    ],
+    "question": "It is better for college students to live far away from home than live at home with their parents. \n\nDo you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "As young adults enter college, they are presented with the choice of boarding at school or living with their parents. This essay is going to argue that student accommodation is the optimal choice for undergraduates. This point will be illustrated by looking at how living at home is simply unfeasible for most students, and the benefits accruing from staying in a dormitory.",
+        "Today, very few students attend a local college or university, thus the idea of them staying at home during school term is implausible. This is particularly valid in developing nations, where most colleges are concentrated in urban centers. Daily commute would be difficult for those who live in rural areas or even suburban residents. To these students, on- campus housing is obviously the more sensible option. For example, in [country], rural citizens tend to move to the city for college and share a dorm room instead of commuting from their residences.",
+        "The choice of living at school is reinforced by the fact that it fosters personal growth in ways not otherwise possible with living at home. For instance, when boarding at a dormitory, students with discrepant preferences would learn to make compromises. This is not necessary if they live with their parents who are generally more accommodating. In addition, living away from home also teaches students to be more independent, because they must manage their personal finance as well as taking care of their own nutritional needs. In fact, Americans who lived in fraternity houses during college have reported that they became more self-reliant as a result of having to budget and cook for themselves.",
+        "In conclusion, I strongly believe that it makes more sense for college students to live on campus, for the reasons provided above."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "attend",
+                "start_idx": 399,
+                "end_idx": 405,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "will attend"
+                ]
+            },
+            {
+                "word": "centers",
+                "start_idx": 606,
+                "end_idx": 613,
+                "error": "an area that is approximately central within some larger region",
+                "error_des": "",
+                "suggetions": [
+                    "centres"
+                ]
+            }
+        ]
+    },
+    "submitter": "sanju.veesam475",
+    "num_words": 289,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "this",
+            "instead",
+            "for example",
+            "for instance",
+            "as a result",
+            "in addition",
+            "thus",
+            "otherwise",
+            "also"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "college",
+                "occurrences": [
+                    {
+                        "start_idx": 22,
+                        "end_idx": 29
+                    },
+                    {
+                        "start_idx": 415,
+                        "end_idx": 422
+                    },
+                    {
+                        "start_idx": 572,
+                        "end_idx": 579
+                    },
+                    {
+                        "start_idx": 859,
+                        "end_idx": 866
+                    },
+                    {
+                        "start_idx": 1521,
+                        "end_idx": 1528
+                    },
+                    {
+                        "start_idx": 1698,
+                        "end_idx": 1705
+                    }
+                ]
+            },
+            {
+                "word": "home",
+                "occurrences": [
+                    {
+                        "start_idx": 275,
+                        "end_idx": 279
+                    },
+                    {
+                        "start_idx": 471,
+                        "end_idx": 475
+                    },
+                    {
+                        "start_idx": 1068,
+                        "end_idx": 1072
+                    },
+                    {
+                        "start_idx": 1310,
+                        "end_idx": 1314
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-19T03:46:05.756Z"
+}

@@ -1,0 +1,104 @@
+{
+    "url": "https://writing9.com/text/62ee38610562ec00182a109c-all-human-should-go-vegan-to-what-extent-do-you",
+    "file": [
+        "data",
+        "75",
+        "62ee38610562ec00182a109c.json"
+    ],
+    "topics": [
+        "vegan"
+    ],
+    "question": "All human should go vegan. to what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is widely believed that people around the world should pursue a plant-based diet. I completely agree with this opinion and will give my reasons below.",
+        "On the one hand, a vegan society would have numerous environmental advantages, making the Earth a better place to live. The production of meat takes a huge toll on our planet. Breeding, raising, and slaughtering billions of animals for food every year requires a vast amount of natural resources such as fresh water and land, and generates a vast amount of waste and pollution. Moreover, cutting down on meat consumption saves a great deal of money for people in today\u2019s society where high inflation is a conundrum. By eliminating our consumption of animal products and making the switch to plant-based eating, we can stop the rapid depletion of Earth\u2019s resources, help protect our planet for generations to come and limit inflation\u2019s influence in our lives.",
+        "On the other hand, global veganism would help in the effort to combat global warming. Animal agriculture, specifically cattle ranching, is responsible for a vast majority of deforestation in the Amazon forest which contains an enormous amount of carbon in the world. Meanwhile, plant-based meat alternatives do not require nearly as much land to produce. In fact, the Good Food Institute estimates that plant-based meat uses up to 99% less land than conventional meat. This demonstrated I believe, plant-based diets would reduce the rapid growth of deforestation, saving virgin forests from being harnessed",
+        "In conclusion, a vegan world would be more beneficial for the planet that we are living on both in terms of improving the quality of the environment and preventing more and more forests from being destroyed."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 898,
+                "end_idx": 900,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            }
+        ]
+    },
+    "submitter": "nhuminh031001",
+    "num_words": 280,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "such",
+            "on the other hand",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "meat",
+                "occurrences": [
+                    {
+                        "start_idx": 292,
+                        "end_idx": 296
+                    },
+                    {
+                        "start_idx": 558,
+                        "end_idx": 562
+                    },
+                    {
+                        "start_idx": 1203,
+                        "end_idx": 1207
+                    },
+                    {
+                        "start_idx": 1328,
+                        "end_idx": 1332
+                    },
+                    {
+                        "start_idx": 1376,
+                        "end_idx": 1380
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-06T09:46:11.523Z"
+}

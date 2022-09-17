@@ -1,0 +1,82 @@
+{
+    "url": "https://writing9.com/text/5cbece06801b890fd4b3443f",
+    "file": [
+        "data",
+        "4",
+        "5cbece06801b890fd4b3443f.json"
+    ],
+    "topics": [
+        "components",
+        "gdp",
+        "uk",
+        "information",
+        "features",
+        "comparisons"
+    ],
+    "question": "The chart shows components of GDP in the UK from 1992 to 2000.\nSummarize the information by selecting and reporting the main features and make comparisons where relevant.",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The chart illustrates that gross domestic product generated from  IT and Service Industry in the UK from 1992 to 2000. Overall, it can be seen the IT increase its percentage of GDP sharply over the years, while the service went up steadily.",
+        "As for IT industry, the IT started with at just over 6 percent which was similar to the percentage of the Service at 4%. Then it slightly grew up about 2 at near 8 % for four years. However, it dramatically increased its percentage as twice at near 14% from 1996 to 2000.",
+        "When it comes to Service industry, It grew up quite significantly at just over 6% in 1994. Nevertheless, it didn\u2019t show any sharp increase between 1994 and 2000, though it slightly grew up to about 2% at 8% at the end of the period.",
+        "To sum up, while there were times that the percentages of both teams were really close between 1994 and 1996. IT and Service ended up having completely different percentages of GDP at just over 14% and at about 8% respectively."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "percent which",
+                "start_idx": 295,
+                "end_idx": 308,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "percent, which"
+                ]
+            }
+        ]
+    },
+    "submitter": "mskim012119",
+    "num_words": 179,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "however",
+            "nevertheless",
+            "then"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2019-04-23T08:34:14.000Z"
+}

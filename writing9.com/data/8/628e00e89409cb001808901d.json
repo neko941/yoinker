@@ -1,0 +1,117 @@
+{
+    "url": "https://writing9.com/text/628e00e89409cb001808901d-some-people-like-to-travel-outside-their-country-others-would",
+    "file": [
+        "data",
+        "8",
+        "628e00e89409cb001808901d.json"
+    ],
+    "topics": [
+        "people",
+        "travel",
+        "country",
+        "tourist",
+        "spots",
+        "first",
+        "support",
+        "choice"
+    ],
+    "question": "Some people like to travel outside their country. Others would rather travel to tourist spots in their own country first, before travelling abroad. Which do you prefer to do and why? Include specific details and examples to support your choice.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the contemporary epoch, there are individuals who prefer to explore foreign countries rather than their homeland. Whereas the others share an opposite opinion and they enjoy travelling across their own country. Personally, I strongly agree with the latter one.",
+        "It cannot be denied that the exploration of abroad countries, for instance, the tropics may be a real adventure. Nevertheless, homeland travelling offers much more for individuals, as for the country as well. For example, it may be highly educational for children as a source of new information regarding  motherland including nature and local culture and products, which subsequently can help them at school. In connection with this, travelling through local tourist beauties may provide insight into the wilderness and the variety of plants and animal species occupying a particular country. Additionally, it offers a noteworthy opportunity for children to gain knowledge about local art, products, food and history of particular regions, as they defer  with along the country.",
+        "Moving forward, travelling along the motherland, may promote economics as well. To elaborate this further, a higher amount of local visitors should, undoubtedly, increase incomes. Furthermore, this situation could provide a sufficient amount of financial sources for constructing public facilities in particular regions as well as a vast number of new vacancies would be created. Linked to this, unemployment rates should decline.",
+        "To conclude, from the aforementioned examples, travelling across the homeland may be a source of knowledge for children, which may last a lifetime. Additionally, it can actively promote the development of particular regions, as a whole country."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "along",
+                "start_idx": 1070,
+                "end_idx": 1075,
+                "error": "Add the preposition",
+                "error_des": "It appears that there is a missing preposition after the word along. Consider adding a preposition.",
+                "suggetions": [
+                    "withalong"
+                ]
+            }
+        ]
+    },
+    "submitter": "sevcik.karol",
+    "num_words": 258,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "further",
+            "in particular",
+            "furthermore",
+            "nevertheless",
+            "additionally",
+            "subsequently",
+            "last",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "country",
+                "occurrences": [
+                    {
+                        "start_idx": 205,
+                        "end_idx": 212
+                    },
+                    {
+                        "start_idx": 456,
+                        "end_idx": 463
+                    },
+                    {
+                        "start_idx": 849,
+                        "end_idx": 856
+                    },
+                    {
+                        "start_idx": 1035,
+                        "end_idx": 1042
+                    },
+                    {
+                        "start_idx": 1711,
+                        "end_idx": 1718
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-05-25T10:19:24.413Z"
+}

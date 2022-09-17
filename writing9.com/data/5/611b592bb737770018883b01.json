@@ -1,0 +1,300 @@
+{
+    "url": "https://writing9.com/text/611b592bb737770018883b01-some-sports-are-considered-extremely-dangerous-but-many-people-still",
+    "file": [
+        "data",
+        "5",
+        "611b592bb737770018883b01.json"
+    ],
+    "topics": [
+        "sports",
+        "people",
+        "part",
+        "suggestions",
+        "dangers"
+    ],
+    "question": "Some sports are considered extremely dangerous, but many people still like them. Why do people take part in dangerous sports? Give some suggestions on how to deal with these dangers.",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Sports no dought plays an important role in improving our health. However there are certain sports that are extremely dangerous, but still have there supporters. This essay will discuss what is the reason behind this intrest despite their dangerous effects and provide some solutions for the same.",
+        "One of the reason for participating in these dangerous activity is to be famous, from ancient times people love watching others risking their lives for money and fame. The only difference between then amd now is the games we play and the tools we use, rewards are still the same. Contact games, for insatnce, such as Boxing, Wrestling have tons of fans who spend money and support them, these sports are still the quickest and most effective way for a person who like being the \"Center of attraction\" to become famous and rich.",
+        "However, there are various steps that can be taken to solve this problem. Firstly, government should ban those activity that are truly harmful, for example, in the United States, some type of boxing that are not only harmful  to the sports-person but also promote violence amongst viewers. Secondly, social media platforms can be used to spread awarness. They can encourage socity to do sportive entertanment rather than combative, moreover they can help create documentary on athletes suffering from fitness issues.",
+        "To conclude, some sports have detramental effects on our body and people tend t fame are intrested in doing that.However, it is reasonable that they would be limited by the authorities and public should be aware of health issues through media."
+    ],
+    "errors": {
+        "num_error": "20",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 127,
+                "end_idx": 128,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound predicate. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "still",
+                "start_idx": 132,
+                "end_idx": 137,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase still. Consider adding a comma.",
+                "suggetions": [
+                    ",still"
+                ]
+            },
+            {
+                "word": "there",
+                "start_idx": 143,
+                "end_idx": 148,
+                "error": "Replace the word",
+                "error_des": "The word there may be used incorrectly. Review the following notes to determine the appropriate usage for your context.",
+                "suggetions": [
+                    "their"
+                ]
+            },
+            {
+                "word": "intrest",
+                "start_idx": 216,
+                "end_idx": 223,
+                "error": "Correct your spelling",
+                "error_des": "The word intrest is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "interest"
+                ]
+            },
+            {
+                "word": "reason",
+                "start_idx": 308,
+                "end_idx": 314,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun reason follows the quantifier One, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "reasons"
+                ]
+            },
+            {
+                "word": "these dangerous activity",
+                "start_idx": 336,
+                "end_idx": 360,
+                "error": "Change the determiner",
+                "error_des": "It appears that the plural demonstrative these is modifying the singular noun activity. Consider using a singular demonstrative or a plural noun instead.",
+                "suggetions": [
+                    "this dangerous activity",
+                    "these dangerous activities"
+                ]
+            },
+            {
+                "word": "amd",
+                "start_idx": 498,
+                "end_idx": 501,
+                "error": "Correct your spelling",
+                "error_des": "The word amd is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "and"
+                ]
+            },
+            {
+                "word": "insatnce",
+                "start_idx": 596,
+                "end_idx": 604,
+                "error": "Correct your spelling",
+                "error_des": "The word insatnce is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "instance"
+                ]
+            },
+            {
+                "word": "like",
+                "start_idx": 760,
+                "end_idx": 764,
+                "error": "Change the verb form",
+                "error_des": "The plural verb like does not appear to agree with the singular subject a person. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "likes"
+                ]
+            },
+            {
+                "word": "government",
+                "start_idx": 908,
+                "end_idx": 918,
+                "error": "Add an article",
+                "error_des": "The noun phrase government seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the government"
+                ]
+            },
+            {
+                "word": "those activity",
+                "start_idx": 930,
+                "end_idx": 944,
+                "error": "Change the determiner",
+                "error_des": "It appears that the plural demonstrative those is modifying the singular noun activity. Consider using a singular demonstrative or a plural noun instead.",
+                "suggetions": [
+                    "that activity",
+                    "those activities"
+                ]
+            },
+            {
+                "word": "awarness",
+                "start_idx": 1170,
+                "end_idx": 1178,
+                "error": "Correct your spelling",
+                "error_des": "The word awarness is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "awareness"
+                ]
+            },
+            {
+                "word": "socity",
+                "start_idx": 1199,
+                "end_idx": 1205,
+                "error": "Correct your spelling",
+                "error_des": "The word socity is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "society"
+                ]
+            },
+            {
+                "word": "entertanment",
+                "start_idx": 1221,
+                "end_idx": 1233,
+                "error": "Correct your spelling",
+                "error_des": "The word entertanment is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "entertainment"
+                ]
+            },
+            {
+                "word": "moreover",
+                "start_idx": 1257,
+                "end_idx": 1265,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase moreover. Consider adding a comma.",
+                "suggetions": [
+                    ",moreover"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1287,
+                "end_idx": 1287,
+                "error": "Add an article",
+                "error_des": "The noun phrase documentary seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a documentary"
+                ]
+            },
+            {
+                "word": "documentary",
+                "start_idx": 1287,
+                "end_idx": 1298,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that documentary may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "documentaries"
+                ]
+            },
+            {
+                "word": "detramental",
+                "start_idx": 1372,
+                "end_idx": 1383,
+                "error": "Correct your spelling",
+                "error_des": "The word detramental is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "detrimental"
+                ]
+            },
+            {
+                "word": "intrested",
+                "start_idx": 1431,
+                "end_idx": 1440,
+                "error": "Correct your spelling",
+                "error_des": "The word intrested is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "interested"
+                ]
+            },
+            {
+                "word": "public",
+                "start_idx": 1531,
+                "end_idx": 1537,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "the public"
+                ]
+            }
+        ]
+    },
+    "submitter": "Ashish kumar",
+    "num_words": 261,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "secondly",
+            "also",
+            "such",
+            "then",
+            "firstly",
+            "however",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "sports",
+                "occurrences": [
+                    {
+                        "start_idx": 92,
+                        "end_idx": 98
+                    },
+                    {
+                        "start_idx": 691,
+                        "end_idx": 697
+                    },
+                    {
+                        "start_idx": 1059,
+                        "end_idx": 1065
+                    },
+                    {
+                        "start_idx": 1361,
+                        "end_idx": 1367
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-08-17T06:37:33.279Z"
+}

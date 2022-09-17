@@ -1,0 +1,193 @@
+{
+    "url": "https://writing9.com/text/62c833bc8ee1ab00180e1c8c-you-should-spend-about-40-minutes-on-this-task-write-about",
+    "file": [
+        "data",
+        "55",
+        "62c833bc8ee1ab00180e1c8c.json"
+    ],
+    "topics": [
+        "minutes",
+        "topic",
+        "people",
+        "history",
+        "school",
+        "subjects-",
+        "today\u2019s",
+        "world",
+        "subjects",
+        "science",
+        "technology"
+    ],
+    "question": "You should spend about 40 minutes on this task.Write about the following topic:Some people say History is one of the most important school subjects- Other people think that, in today\u2019s world, subjects like Science and Technology are more important than History.Discuss both these views and give your own opinion.Give reasons for your answer and include any relevant examples from your own knowledge or experience.Write at least 250 words.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 4.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, there is a discussion about whether History or Science and Technology is more important than another one. From my own perspective, I believe both of them are important which means they should deserve the same level of importance in school.",
+        "On the one hand, some people believe History is one of the most important subjects in school, I cannot agree more. First of all, every one of us is born in a country and every country has its own history which is important to build up the concept of country or nation in children's minds. Without the complete notion of their own nation, there is a prospective risk of a man who doesn't keep honour and loyalty to the land he lives and grows up. It probably does harm to the future of the country. Another benefit of emphasising the significance of historical education is that there were so many scientists who contribute to the development of science and technology, learning scientific history will set up those heroes as idols in kids' minds which could have a better influence than learning textbooks only.",
+        "On the other hand, people in support of \" Science and Technology are more important than History\" believe that our society could make progress only with the great breakthrough in Science and Technology but not in History. Personally speaking, I realize it. Every breakthrough in Science and Technology leads to a great revolution in our society, for instance, James Watt, a man who recreate the steam engine to a better type, led the First Industrial Revolution which totally changed the way we produce, even our politics! In the next place, education in these two subjects has a strong possibility to select those talents with gifts to make a new branch of science in our human history. Without the educational system of science and technology, it will be difficult to foster specialists in different scientific or industrial sectors.",
+        "For the reasons I mentioned above, I strongly consider that History, Science and Technology should share the same place in the educational concept and system. Only in this way, we could develop children who could be able to take over the future of our world."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "another",
+                "start_idx": 102,
+                "end_idx": 109,
+                "error": "Correct determiner usage",
+                "error_des": "It seems that determiner use may be incorrect here.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "one",
+                "start_idx": 110,
+                "end_idx": 113,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "other"
+                ]
+            }
+        ]
+    },
+    "submitter": "Meow",
+    "num_words": 366,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "first",
+            "next",
+            "on the other hand",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "5",
+        "list_repeated_words": [
+            {
+                "word": "technology",
+                "occurrences": [
+                    {
+                        "start_idx": 907,
+                        "end_idx": 917
+                    },
+                    {
+                        "start_idx": 1796,
+                        "end_idx": 1806
+                    }
+                ]
+            },
+            {
+                "word": "science",
+                "occurrences": [
+                    {
+                        "start_idx": 895,
+                        "end_idx": 902
+                    },
+                    {
+                        "start_idx": 1720,
+                        "end_idx": 1727
+                    },
+                    {
+                        "start_idx": 1784,
+                        "end_idx": 1791
+                    }
+                ]
+            },
+            {
+                "word": "country",
+                "occurrences": [
+                    {
+                        "start_idx": 408,
+                        "end_idx": 415
+                    },
+                    {
+                        "start_idx": 426,
+                        "end_idx": 433
+                    },
+                    {
+                        "start_idx": 500,
+                        "end_idx": 507
+                    },
+                    {
+                        "start_idx": 739,
+                        "end_idx": 746
+                    }
+                ]
+            },
+            {
+                "word": "history",
+                "occurrences": [
+                    {
+                        "start_idx": 446,
+                        "end_idx": 453
+                    },
+                    {
+                        "start_idx": 939,
+                        "end_idx": 946
+                    },
+                    {
+                        "start_idx": 1741,
+                        "end_idx": 1748
+                    }
+                ]
+            },
+            {
+                "word": "one",
+                "occurrences": [
+                    {
+                        "start_idx": 111,
+                        "end_idx": 114
+                    },
+                    {
+                        "start_idx": 257,
+                        "end_idx": 260
+                    },
+                    {
+                        "start_idx": 298,
+                        "end_idx": 301
+                    },
+                    {
+                        "start_idx": 385,
+                        "end_idx": 388
+                    },
+                    {
+                        "start_idx": 1921,
+                        "end_idx": 1924
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-08T13:44:34.477Z"
+}

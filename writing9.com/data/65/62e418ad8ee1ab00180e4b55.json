@@ -1,0 +1,280 @@
+{
+    "url": "https://writing9.com/text/62e418ad8ee1ab00180e4b55-you-are-working-for-a-company-and-need-to-take",
+    "file": [
+        "data",
+        "65",
+        "62e418ad8ee1ab00180e4b55.json"
+    ],
+    "topics": [
+        "company",
+        "time",
+        "work",
+        "manager",
+        "amount"
+    ],
+    "question": "You are working for a company and need to take some time off work. Write a letter to your manager. In your letter:\n\n\n- explain why you want to take time off\n- give details of the amount of time you need\n- suggest how your work could be covered while you are away",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr. Smith,",
+        "I am writing to request for twenty days' leave in the next month. In order to have backup resource for a smooth execution of work in my absence, I wanted to have an prior approval.",
+        "As you are aware that I have a younger sister in my siblings, I am glad to share that her marriage has been finalized and scheduled in the month of August. It is going to be grand ceremony in my home country for which my presence will be required there because in India, it is considered a bad omen to not have the brother present in their sister's wedding.",
+        "At the least, I will be requiring 20 days off from work as I will be the one responsible for all the prepartions during this event. Moreover, I have to stay back for few days after concluding the function so as to see off all the guests. My responsibilities are even more significant as there is no one else to complete our religious rituals.",
+        "While I will be in India, I would be available online for any critical situation. However, I have planned handover my task to my teammate Mr. Kumar for routine day to day activities. Also, I will ensure to finish off all my pendencies before the period of my absence.",
+        "The invitation for the occasion will reach you in coming few days and I would really appreatiate your visit in my sister's wedding.",
+        "Yours sincerely,",
+        "Aman Malik"
+    ],
+    "errors": {
+        "num_error": "18",
+        "error_list": [
+            {
+                "word": "Mr.",
+                "start_idx": 4,
+                "end_idx": 7,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": "for ",
+                "start_idx": 39,
+                "end_idx": 43,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "backup",
+                "start_idx": 98,
+                "end_idx": 104,
+                "error": "Add an article",
+                "error_des": "The noun phrase backup resource seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a backup",
+                    "the backup"
+                ]
+            },
+            {
+                "word": "resource",
+                "start_idx": 105,
+                "end_idx": 113,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that resource may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "resources"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 118,
+                "end_idx": 120,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun execution in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "an ",
+                "start_idx": 177,
+                "end_idx": 180,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, an, may be redundant when used with the uncountable noun approval in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": " I ",
+                "start_idx": 258,
+                "end_idx": 261,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and  I"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 328,
+                "end_idx": 330,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "grand",
+                "start_idx": 370,
+                "end_idx": 375,
+                "error": "Add an article",
+                "error_des": "The noun phrase grand ceremony seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a grand"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 457,
+                "end_idx": 459,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter in India. Consider adding the comma(s).",
+                "suggetions": [
+                    ",in"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 527,
+                "end_idx": 529,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "prepartions",
+                "start_idx": 655,
+                "end_idx": 666,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want prepartions to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "preparations",
+                    "preparation"
+                ]
+            },
+            {
+                "word": "few",
+                "start_idx": 720,
+                "end_idx": 723,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a few"
+                ]
+            },
+            {
+                "word": "handover",
+                "start_idx": 1003,
+                "end_idx": 1011,
+                "error": "Correct your spelling",
+                "error_des": "The word handover doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "hand over"
+                ]
+            },
+            {
+                "word": "Mr.",
+                "start_idx": 1035,
+                "end_idx": 1038,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": "day to day",
+                "start_idx": 1057,
+                "end_idx": 1067,
+                "error": "Add a hyphen",
+                "error_des": "It seems that day to day is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "day-to-day"
+                ]
+            },
+            {
+                "word": "pendencies",
+                "start_idx": 1121,
+                "end_idx": 1131,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want pendencies to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "tendencies"
+                ]
+            },
+            {
+                "word": "appreatiate",
+                "start_idx": 1250,
+                "end_idx": 1261,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want appreatiate to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "appreciate"
+                ]
+            }
+        ]
+    },
+    "submitter": "amanmalik640",
+    "num_words": 247,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "also",
+            "however",
+            "next",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "days",
+                "occurrences": [
+                    {
+                        "start_idx": 51,
+                        "end_idx": 55
+                    },
+                    {
+                        "start_idx": 592,
+                        "end_idx": 596
+                    },
+                    {
+                        "start_idx": 725,
+                        "end_idx": 729
+                    },
+                    {
+                        "start_idx": 1227,
+                        "end_idx": 1231
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-29T17:28:15.354Z"
+}

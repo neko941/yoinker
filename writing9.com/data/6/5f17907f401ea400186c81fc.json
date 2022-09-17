@@ -1,0 +1,154 @@
+{
+    "url": "https://writing9.com/text/5f17907f401ea400186c81fc",
+    "file": [
+        "data",
+        "6",
+        "5f17907f401ea400186c81fc.json"
+    ],
+    "topics": [
+        "efforts",
+        "countries",
+        "address",
+        "challenges",
+        "environment",
+        "situation",
+        "degradation",
+        "combat",
+        "support"
+    ],
+    "question": "Many efforts have been made by countries to address challenges concerning the environment but the situation has not improved. What are the possible reasons for environmental degradation? Are there any solutions to combat this problem? Support your answer with specific reasons and examples.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the so-called modern world, environmental degradation has been perpetually increasing despite the ample effort made by countries. Air pollution and deforestation are the most vulnerable causes for environmental problem. This essay will discuss in detail about those causes and possible solutions to overcome.",
+        "Two main factors are behind the environmental problems. First of all, air pollution is the leading problem with many countries. Primary reason for this is growing number of private vehicles on road. Nowadays, people started using their own vehicle for transportation rather than using public transportation. Recent survey conducted by Canada Transport Corporation shows that the usage of cars has increased to 15% when compared to last decade. The second factor, linked to the first is the deforestation in which many forests are harvested to produce the products for human use. Increase in demand for the products is jeopardizing the forests, which are natural oxygen supplier by absorbing the carbon dioxide.",
+        "There are some potential solutions to tackle the above-mentioned issues. Firstly, promoting the usage of public commutation will eventually reduce the usage of private vehicles. Government needs to ensure the fast, safe and reliable transportation like bus, streetcar, and train to attract more people towards it. Secondly, to mitigate the deforestation, the following actions can be taken: government should enforce stringent laws, government and local community must work together to plant more trees and protect the trees in their private land and neighbourhood.",
+        "In summary, although there are many problems contributing to environmental degradation, air pollution and deforestation are considered as high risk, which is making the planet unsafe for all inhabitants. If individuals and government collaborate with each other in this matter, issues can gradually be reversed."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "for",
+                "start_idx": 195,
+                "end_idx": 198,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "Primary reason",
+                "start_idx": 439,
+                "end_idx": 453,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "The primary reason",
+                    "A primary reason"
+                ]
+            },
+            {
+                "word": "road",
+                "start_idx": 504,
+                "end_idx": 508,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the road",
+                    "roads"
+                ]
+            },
+            {
+                "word": "Recent survey",
+                "start_idx": 619,
+                "end_idx": 632,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "A recent survey",
+                    "Recent surveys"
+                ]
+            },
+            {
+                "word": "last decade",
+                "start_idx": 742,
+                "end_idx": 753,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "last decades",
+                    "the last decade"
+                ]
+            }
+        ]
+    },
+    "submitter": "Vijay Subramaniam",
+    "num_words": 283,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "secondly",
+            "first",
+            "although",
+            "firstly",
+            "second",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "deforestation",
+                "occurrences": [
+                    {
+                        "start_idx": 151,
+                        "end_idx": 164
+                    },
+                    {
+                        "start_idx": 802,
+                        "end_idx": 815
+                    },
+                    {
+                        "start_idx": 1363,
+                        "end_idx": 1376
+                    },
+                    {
+                        "start_idx": 1695,
+                        "end_idx": 1708
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-22T01:04:01.947Z"
+}

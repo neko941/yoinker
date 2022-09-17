@@ -1,0 +1,242 @@
+{
+    "url": "https://writing9.com/text/5d8648245080810017fec04d",
+    "file": [
+        "data",
+        "55",
+        "5d8648245080810017fec04d.json"
+    ],
+    "topics": [
+        "production",
+        "consumer",
+        "goods",
+        "results",
+        "damage",
+        "environment"
+    ],
+    "question": "The increase in the production of consumer goods results in damage to the natural environment. What are the causes of this? What can be done to solve this problem?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "These days, as the result of advances in science and technology, there are more and more varieties of new products being available to consumers. Although these products assist consumers in many parts of life, the ever-increasing quantities of manufacturing them have been condemned as a reason that lead to environment degradation.",
+        "There are a number of reasons why the over-producing of consumer goods is attributed to deteriorating the natural environment. To begin with, the huge population has increased the demand for various products and therefore new factories and industries are being established each day to meet the demand. This trend have been conducive to not only the excessive exploitation but also the uncontrolled pollution of the natural resources. In fact, a large quantity of forests have been destroy to provide materials and also numerous lands are being contaminated as a consequence of being used to build an overwhelming number of factories and also to bury rubbish. In addition, the quickening tempo of modern lifestyle contributes to the rubbish increase becauce many people prefer takeaway fast food and the use of throwaway items  for the convenience\u2019s sake. Consequently, various creatures living either in the water or on the land such as turtles, birds or even dogs are in danger from being trapped by emperishable rubbish.",
+        "To solve this crisis, both governments and individuals can take some serious measures. First, public activities should be organised to promote the awareness of environment protection. For example, educating people to be frugal while purchasing goods is necessary as this is of considerable help in reducing the production. Second, government should strengthen monitoring, evaluation to ensure rigorous implementation of the environmental policies. They can, for instance, set up laws and strictly punish the factories that dump their wastes directly into the air and watercourses.",
+        "In conclusion, it is inevitable that the higher pressure of population and over-industrialization lead to large sacle of consumer goods production along with ruining the natural environment. Nonetheles, this pressing situation is expected to turn well if governments, corporations and individuals can take steps to make the necessary changes having a significant impact on our future."
+    ],
+    "errors": {
+        "num_error": "13",
+        "error_list": [
+            {
+                "word": "environment",
+                "start_idx": 306,
+                "end_idx": 317,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "environmental"
+                ]
+            },
+            {
+                "word": "have been",
+                "start_idx": 644,
+                "end_idx": 653,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "has been",
+                    "had been",
+                    "is",
+                    "was",
+                    "is being"
+                ]
+            },
+            {
+                "word": "exploitation but",
+                "start_idx": 690,
+                "end_idx": 706,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "exploitation, but"
+                ]
+            },
+            {
+                "word": "destroy",
+                "start_idx": 812,
+                "end_idx": 819,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "destroyed"
+                ]
+            },
+            {
+                "word": "becauce",
+                "start_idx": 1080,
+                "end_idx": 1087,
+                "error": "for the reason that; on account of",
+                "error_des": "",
+                "suggetions": [
+                    "because"
+                ]
+            },
+            {
+                "word": "land ",
+                "start_idx": 1255,
+                "end_idx": 1260,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "land, such"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 1310,
+                "end_idx": 1314,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "emperishable",
+                "start_idx": 1332,
+                "end_idx": 1344,
+                "error": "not perishable",
+                "error_des": "",
+                "suggetions": [
+                    "imperishable"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 1604,
+                "end_idx": 1606,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "government",
+                "start_idx": 1685,
+                "end_idx": 1695,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the government"
+                ]
+            },
+            {
+                "word": "wastes",
+                "start_idx": 1888,
+                "end_idx": 1894,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "waste"
+                ]
+            },
+            {
+                "word": "sacle",
+                "start_idx": 2047,
+                "end_idx": 2052,
+                "error": "an ordered reference standard",
+                "error_des": "",
+                "suggetions": [
+                    "scale",
+                    "sale"
+                ]
+            },
+            {
+                "word": "Nonetheles",
+                "start_idx": 2126,
+                "end_idx": 2136,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Nonetheless"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 354,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "to begin",
+            "also",
+            "such",
+            "first",
+            "although",
+            "therefore",
+            "in addition",
+            "consequently",
+            "second",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "environment",
+                "occurrences": [
+                    {
+                        "start_idx": 307,
+                        "end_idx": 318
+                    },
+                    {
+                        "start_idx": 446,
+                        "end_idx": 457
+                    },
+                    {
+                        "start_idx": 1515,
+                        "end_idx": 1526
+                    },
+                    {
+                        "start_idx": 1779,
+                        "end_idx": 1790
+                    },
+                    {
+                        "start_idx": 2114,
+                        "end_idx": 2125
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-21T15:56:20.356Z"
+}

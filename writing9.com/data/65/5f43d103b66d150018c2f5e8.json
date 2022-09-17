@@ -1,0 +1,128 @@
+{
+    "url": "https://writing9.com/text/5f43d103b66d150018c2f5e8-you-are-working-for-an-international-company-you-have-seen",
+    "file": [
+        "data",
+        "65",
+        "5f43d103b66d150018c2f5e8.json"
+    ],
+    "topics": [
+        "company",
+        "advertisement",
+        "course",
+        "work",
+        "manager",
+        "absence"
+    ],
+    "question": "You are working for an international company. You have seen an advertisement for a training course which will be useful for your work. Write a letter to your manager.\n\nIn your letter, you should:\n* describe why you want to take the course\n* explaining how it will be beneficial to the company\n* tell who will be managing your work in your absence.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear sir/madam,",
+        "I am writing to inform you that I watched the news on television about the Cashier Management Training Course on 21st October. Basically, the main reason to attend it is developing customer satisfaction as well as boost sales.",
+        "It\u2019s five days course, which will be held on 1st September to 5th September at Park view hotel, Vancouver. Moreover, the registration fee is only $200 plus meals and accommodation free. I believe that it would be helpful for me, and our 7 Eleven company also.",
+        "First of all, it helps me enhance my management skills, which are necessary for me to become an assistant manager. As you know, we have only one an associate manager at a store, if he is sick then we are in trouble. Furthermore, this course will be vital to promote products widely, because each month we have already lost many customers, due to the worst customer services. This course knowledge about how we can up selling beverages, chocolates, smokes, and so on.",
+        "Although it is hard for you to manage the store, however, I fully confident other employees will handle it accurate manner. I would appreciate it if you could consider my proposition.",
+        "I am looking forward to hearing from you.",
+        "Yours faithfully,",
+        "Gurjeet"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "on",
+                "start_idx": 284,
+                "end_idx": 286,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "from"
+                ]
+            },
+            {
+                "word": "an ",
+                "start_idx": 647,
+                "end_idx": 650,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "fully",
+                "start_idx": 1029,
+                "end_idx": 1034,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "am fully"
+                ]
+            }
+        ]
+    },
+    "submitter": "varinder",
+    "num_words": 210,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "also",
+            "first",
+            "furthermore",
+            "although",
+            "then",
+            "however",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "course",
+                "occurrences": [
+                    {
+                        "start_idx": 258,
+                        "end_idx": 264
+                    },
+                    {
+                        "start_idx": 737,
+                        "end_idx": 743
+                    },
+                    {
+                        "start_idx": 883,
+                        "end_idx": 889
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-14T12:27:25.034Z"
+}

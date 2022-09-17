@@ -1,0 +1,173 @@
+{
+    "url": "https://writing9.com/text/5c9f2830675359311eb5bd84",
+    "file": [
+        "data",
+        "45",
+        "5c9f2830675359311eb5bd84.json"
+    ],
+    "topics": [
+        "people",
+        "schools",
+        "focus",
+        "education",
+        "mathematics",
+        "science",
+        "range"
+    ],
+    "question": "Many people believe that high schools should focus their education on mathematics and science, rather than covering a wider range of subject?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "One of the most topical issues in modern society are the subjects in education. Numerous commentators are of the view that learning math and science is abundant than learning a variety of subjects whereas others feel that just concentrating education on mathematics and science is not sufficient. I totally agree with these arguments for reason I will outline below.",
+        "From an overall perspective, there are a wide range of reasons why I totally agree with learning math and science that is abundant than learning all of subjects in high schools. Perhaps the main reason why I am in favor of science is highly closed to people. This is because the branch of math involves calculations such as addition, subtraction, multiplication and division, students can count for numbers and solve assignments about how to a part of science. If students practice about calculating numbers every single day, their brains would be react quickly in certain solutions. Furthermore, students in high schools can learn deeply about mathematics and science. For instance, when students learn chemistry, biology and physics which are the branch of science these subjects have great knowledge like carbon exists in all organic life and it is the basis of chemistry. As a result, students who graduate from their universities will get perfect careers and salaries to succeed in their lives.",
+        "In conclusion, this is a topic which is really relevant to certain society. My personal view is that I totally agree about focusing education on mathematics and science because these subjects can administrate into reality, we learn to meliorate our lives. If students are good at these subjects, they can have qualifications to build a better life for future generations."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "subjects whereas",
+                "start_idx": 187,
+                "end_idx": 203,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "subjects, whereas"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 401,
+                "end_idx": 404,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "all of subjects",
+                "start_idx": 511,
+                "end_idx": 526,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "all subjects"
+                ]
+            },
+            {
+                "word": "favor",
+                "start_idx": 580,
+                "end_idx": 585,
+                "error": "promote over another",
+                "error_des": "",
+                "suggetions": [
+                    "favour"
+                ]
+            },
+            {
+                "word": "react",
+                "start_idx": 914,
+                "end_idx": 919,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "reacting"
+                ]
+            },
+            {
+                "word": "physics which",
+                "start_idx": 1093,
+                "end_idx": 1106,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "physics, which"
+                ]
+            }
+        ]
+    },
+    "submitter": "cv1.lephu",
+    "num_words": 281,
+    "num_paragraphs": 3,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "such",
+            "furthermore",
+            "as a result",
+            "that is",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "science",
+                "occurrences": [
+                    {
+                        "start_idx": 141,
+                        "end_idx": 148
+                    },
+                    {
+                        "start_idx": 270,
+                        "end_idx": 277
+                    },
+                    {
+                        "start_idx": 473,
+                        "end_idx": 480
+                    },
+                    {
+                        "start_idx": 590,
+                        "end_idx": 597
+                    },
+                    {
+                        "start_idx": 819,
+                        "end_idx": 826
+                    },
+                    {
+                        "start_idx": 1028,
+                        "end_idx": 1035
+                    },
+                    {
+                        "start_idx": 1126,
+                        "end_idx": 1133
+                    },
+                    {
+                        "start_idx": 1528,
+                        "end_idx": 1535
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-30T08:26:24.000Z"
+}

@@ -1,0 +1,489 @@
+{
+    "url": "https://writing9.com/text/62fd0b840751a40019b4bf49-in-spite-of-advances-made-in-agriculture-many-people-around",
+    "file": [
+        "data",
+        "55",
+        "62fd0b840751a40019b4bf49.json"
+    ],
+    "topics": [
+        "spite",
+        "advances",
+        "agriculture",
+        "people",
+        "world",
+        "case"
+    ],
+    "question": "In spite of advances made in agriculture, many people \raround the world still go hungry.\nWhy is this the case?What can be done about this problem?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Today there are so many advanced technologies available for farming . with that technology you can easily achieve the expected harvest . but still there is so many people who do not have anything to eat . they are a can be various reasons for that , like poor countries do not have access to them and they do not have enough money to buy them. Anyhow these problems can be sold with some steps. I am going to explain the rest below.",
+        "On the one hand, only developed countries have access to the new technologies because poor status don't have enough knowledge to operate them . 90% of hungry people live in poor states they do not have new technology or good education so they cannot advantage from new things.  For example, according to the new research, 25% of the people in Kenya died due to the food store shortage . other things is they do not have enough money to buy advanced things. They cannot afford that kind of things. furthermore, they need sufficient amount of money to buy things . other countries not going to sell their technologies free. thus, poor countries do not have access or enaugh money to develop their agriculture.",
+        "on the other hand , however governments can help to solve this problem. they can reduce prices on agricultural items, so even poor people can buy them. For instance, cut taxes or introduce new payment methods. they can open some institute/educational centers for famers,  so they can study new methods and technologies. When, they well educated about that agriculture,  they can easily get good harvest. so, they can solve this problem by giving good education and reducing prices.",
+        "In conclusion, most of people in the world still suffer from starving. The reasons can be,  limited access and insufficient amount of money . moreover, it can be sold by educating people and reducing prices."
+    ],
+    "errors": {
+        "num_error": "27",
+        "error_list": [
+            {
+                "word": "technology",
+                "start_idx": 79,
+                "end_idx": 89,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase with that technology. Consider adding a comma.",
+                "suggetions": [
+                    ",technology"
+                ]
+            },
+            {
+                "word": "still",
+                "start_idx": 140,
+                "end_idx": 145,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase still. Consider adding a comma.",
+                "suggetions": [
+                    ",still"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 152,
+                "end_idx": 154,
+                "error": "Change the verb form",
+                "error_des": "The singular verb form is does not seem to agree with the plural subject so many people who do not have anything to eat. Consider changing the verb form.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 213,
+                "end_idx": 215,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "status",
+                "start_idx": 523,
+                "end_idx": 529,
+                "error": "Correct your spelling",
+                "error_des": "The word status doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "states"
+                ]
+            },
+            {
+                "word": "don't",
+                "start_idx": 530,
+                "end_idx": 535,
+                "error": "Change the verb form",
+                "error_des": "The plural verb don't does not appear to agree with the singular subject poor status. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "doesn't"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 692,
+                "end_idx": 696,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 736,
+                "end_idx": 740,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "other ",
+                "start_idx": 819,
+                "end_idx": 825,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that other things may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "Another thing"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 832,
+                "end_idx": 834,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb is does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "things",
+                "start_idx": 921,
+                "end_idx": 927,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that things may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "thing"
+                ]
+            },
+            {
+                "word": "sufficient",
+                "start_idx": 952,
+                "end_idx": 962,
+                "error": "Add an article",
+                "error_des": "The noun phrase sufficient amount seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a sufficient"
+                ]
+            },
+            {
+                "word": "free",
+                "start_idx": 1048,
+                "end_idx": 1052,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for free"
+                ]
+            },
+            {
+                "word": "or",
+                "start_idx": 1094,
+                "end_idx": 1096,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to or"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1097,
+                "end_idx": 1097,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want enaugh to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "enough"
+                ]
+            },
+            {
+                "word": "enaugh",
+                "start_idx": 1097,
+                "end_idx": 1103,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want enaugh to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "enough"
+                ]
+            },
+            {
+                "word": "however",
+                "start_idx": 1160,
+                "end_idx": 1167,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase however. Consider adding a comma.",
+                "suggetions": [
+                    ",however"
+                ]
+            },
+            {
+                "word": "centers",
+                "start_idx": 1391,
+                "end_idx": 1398,
+                "error": "Change the spelling",
+                "error_des": "The spelling of centers is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "centres"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1403,
+                "end_idx": 1403,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want famers to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "farmers"
+                ]
+            },
+            {
+                "word": "famers",
+                "start_idx": 1403,
+                "end_idx": 1409,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want famers to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "farmers"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1465,
+                "end_idx": 1466,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction When. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "well",
+                "start_idx": 1471,
+                "end_idx": 1475,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "are well"
+                ]
+            },
+            {
+                "word": "that ",
+                "start_idx": 1491,
+                "end_idx": 1496,
+                "error": "Correct determiner usage",
+                "error_des": "It seems that determiner use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "good",
+                "start_idx": 1530,
+                "end_idx": 1534,
+                "error": "Add an article",
+                "error_des": "The noun phrase good harvest seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a good"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 1642,
+                "end_idx": 1645,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "people",
+                "start_idx": 1645,
+                "end_idx": 1651,
+                "error": "Add an article",
+                "error_des": "The phrase most of people may require the use of the article the. Consider inserting the before the noun in your sentence.",
+                "suggetions": [
+                    "the people"
+                ]
+            },
+            {
+                "word": "starving",
+                "start_idx": 1683,
+                "end_idx": 1691,
+                "error": "Replace the word",
+                "error_des": "The word starving doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "starvation"
+                ]
+            }
+        ]
+    },
+    "submitter": "hasitha9610s",
+    "num_words": 319,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "furthermore",
+            "on the other hand",
+            "for instance",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "6",
+        "list_repeated_words": [
+            {
+                "word": "money",
+                "occurrences": [
+                    {
+                        "start_idx": 325,
+                        "end_idx": 330
+                    },
+                    {
+                        "start_idx": 860,
+                        "end_idx": 865
+                    },
+                    {
+                        "start_idx": 974,
+                        "end_idx": 979
+                    },
+                    {
+                        "start_idx": 1105,
+                        "end_idx": 1110
+                    },
+                    {
+                        "start_idx": 1757,
+                        "end_idx": 1762
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 164,
+                        "end_idx": 170
+                    },
+                    {
+                        "start_idx": 591,
+                        "end_idx": 597
+                    },
+                    {
+                        "start_idx": 766,
+                        "end_idx": 772
+                    },
+                    {
+                        "start_idx": 1272,
+                        "end_idx": 1278
+                    },
+                    {
+                        "start_idx": 1646,
+                        "end_idx": 1652
+                    },
+                    {
+                        "start_idx": 1803,
+                        "end_idx": 1809
+                    }
+                ]
+            },
+            {
+                "word": "things",
+                "occurrences": [
+                    {
+                        "start_idx": 702,
+                        "end_idx": 708
+                    },
+                    {
+                        "start_idx": 826,
+                        "end_idx": 832
+                    },
+                    {
+                        "start_idx": 882,
+                        "end_idx": 888
+                    },
+                    {
+                        "start_idx": 922,
+                        "end_idx": 928
+                    },
+                    {
+                        "start_idx": 987,
+                        "end_idx": 993
+                    }
+                ]
+            },
+            {
+                "word": "countries",
+                "occurrences": [
+                    {
+                        "start_idx": 260,
+                        "end_idx": 269
+                    },
+                    {
+                        "start_idx": 465,
+                        "end_idx": 474
+                    },
+                    {
+                        "start_idx": 1002,
+                        "end_idx": 1011
+                    },
+                    {
+                        "start_idx": 1066,
+                        "end_idx": 1075
+                    }
+                ]
+            },
+            {
+                "word": "access",
+                "occurrences": [
+                    {
+                        "start_idx": 282,
+                        "end_idx": 288
+                    },
+                    {
+                        "start_idx": 480,
+                        "end_idx": 486
+                    },
+                    {
+                        "start_idx": 1088,
+                        "end_idx": 1094
+                    },
+                    {
+                        "start_idx": 1723,
+                        "end_idx": 1729
+                    }
+                ]
+            },
+            {
+                "word": "technologies",
+                "occurrences": [
+                    {
+                        "start_idx": 33,
+                        "end_idx": 45
+                    },
+                    {
+                        "start_idx": 498,
+                        "end_idx": 510
+                    },
+                    {
+                        "start_idx": 1036,
+                        "end_idx": 1048
+                    },
+                    {
+                        "start_idx": 1447,
+                        "end_idx": 1459
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-17T15:38:45.892Z"
+}

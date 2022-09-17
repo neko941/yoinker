@@ -1,0 +1,129 @@
+{
+    "url": "https://writing9.com/text/62973dc1349bd000180dd577-you-recently-noticed-a-local-restaurant-that-was-offering-a",
+    "file": [
+        "data",
+        "8",
+        "62973dc1349bd000180dd577.json"
+    ],
+    "topics": [
+        "restaurant",
+        "job",
+        "restaurant\u2019s",
+        "manager",
+        "\u2013",
+        "times"
+    ],
+    "question": "You recently noticed a local restaurant that was offering a part-time job.\n\nWrite a letter to the restaurant\u2019s manager. In your letter,\n\n\u2013 explain that you would like to apply for the job\n\u2013 give some details of any relevant experience that you have\n\u2013 specify the days and times that would suit you",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir / Madam,",
+        "I am writing to you to express my interest in your job advertisement for a chef that I saw posted on the local village board. As I have currently moved to Brenton as a qualified chef, I would therefore like to apply for this position.",
+        "I noticed from the job description that you require someone who can both cook in a creative and healthy way, and who can communicate with and manage staff in an effective manner. My previous job was as an assistant chef at Brew\u2019s restaurant in London, where I was responsible for preparing all the dishes on the restaurant\u2019s menu and coming up with inventive recipes to present to the head chef. I am also personally very interested in healthy living and this is always reflected in how I cook. I was also responsible at Brew\u2019s for managing the cleaning and serving staff at the restaurant, in which capacity I found I was able to build good working relationships with all the staff in my responsibility.",
+        "I noticed that this is a part-time job. My preferred days for working would be Monday, Wednesday and Friday afternoons and evenings. I would be available until late at night on those days and I would also be able to work two Saturdays of each month.",
+        "I look forward to hearing from you soon. Please let me know if you require any further information.",
+        "Yours sincerely,",
+        "Marisa Thompson"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "Brew\u2019s",
+                "start_idx": 773,
+                "end_idx": 779,
+                "error": "Change the noun form",
+                "error_des": "It appears that the noun Brew\u2019s should not be in the possessive form. Consider changing it to the non-possessive singular or plural form.",
+                "suggetions": [
+                    "Brews",
+                    "Brew"
+                ]
+            }
+        ]
+    },
+    "submitter": "Mrjit147",
+    "num_words": 241,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "also",
+            "further",
+            "therefore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "chef",
+                "occurrences": [
+                    {
+                        "start_idx": 93,
+                        "end_idx": 97
+                    },
+                    {
+                        "start_idx": 196,
+                        "end_idx": 200
+                    },
+                    {
+                        "start_idx": 468,
+                        "end_idx": 472
+                    },
+                    {
+                        "start_idx": 643,
+                        "end_idx": 647
+                    }
+                ]
+            },
+            {
+                "word": "job",
+                "occurrences": [
+                    {
+                        "start_idx": 69,
+                        "end_idx": 72
+                    },
+                    {
+                        "start_idx": 272,
+                        "end_idx": 275
+                    },
+                    {
+                        "start_idx": 444,
+                        "end_idx": 447
+                    },
+                    {
+                        "start_idx": 993,
+                        "end_idx": 996
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-01T10:21:55.139Z"
+}

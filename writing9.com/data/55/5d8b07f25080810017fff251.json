@@ -1,0 +1,182 @@
+{
+    "url": "https://writing9.com/text/5d8b07f25080810017fff251",
+    "file": [
+        "data",
+        "55",
+        "5d8b07f25080810017fff251.json"
+    ],
+    "topics": [
+        "people",
+        "punishments",
+        "type",
+        "crime",
+        "circumstances",
+        "motivation",
+        "account",
+        "punishment"
+    ],
+    "question": "Some people believe that there should be fixed punishments for each type of crime. Others, however, argue that the circumstances of an individual crime, and the motivation for committing it, should always be taken into account when deciding on the punishment.\nDiscuss both this view and give your opinion.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "For years, it has been debated whether each crime should have a fixed punishment or the penalty system should be more flexible to cope with the motive and the surrounding circumstances of each individual crime.",
+        "On the one hand, having a stringent and inflexible punishment scale can be more crime-deterrent. That's to say, knowing the punishment in advance and that no judge will be lenient with your case, will fore criminals to rethink more than once before committing any crime. Moreover, enacting indulgent and flexible laws may open the door to criminals and experienced lawyers to evade the penality by forging false intentions and motives. Hence, proponents of this argument believe that having a strict penalty system can help to lower crime rate by preventing serious criminals and their deceptive lawyers from manipulating the system.",
+        "On the other hand, perpetrators of any crime can by motivated by various stimuli and life conditions. While many may be driven by poverty and tough life conditions, others may have serious psychological disorders. Thus, one must always remember that the main aim of the justice system is to reform criminals and not to punish them just for the sake of punishment. Hence, being inflexible in terms of punishment can only complicate the situation further by prescribing the same treatment to different and dissimilar problems.",
+        "In conclusion, I strongly believe that considering the motive and circumstances that stand behind any crime is essential to treat the underlying cause, and without this approach crime rate will continue to rise."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "more ",
+                "start_idx": 285,
+                "end_idx": 290,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a more crime - deterrent",
+                    "more crime - deterrents"
+                ]
+            },
+            {
+                "word": "penality",
+                "start_idx": 596,
+                "end_idx": 604,
+                "error": "the act of punishing",
+                "error_des": "",
+                "suggetions": [
+                    "penalty"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 253,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "further",
+            "thus",
+            "hence",
+            "on the other hand",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "crime",
+                "occurrences": [
+                    {
+                        "start_idx": 44,
+                        "end_idx": 49
+                    },
+                    {
+                        "start_idx": 204,
+                        "end_idx": 209
+                    },
+                    {
+                        "start_idx": 291,
+                        "end_idx": 296
+                    },
+                    {
+                        "start_idx": 475,
+                        "end_idx": 480
+                    },
+                    {
+                        "start_idx": 744,
+                        "end_idx": 749
+                    },
+                    {
+                        "start_idx": 884,
+                        "end_idx": 889
+                    },
+                    {
+                        "start_idx": 1472,
+                        "end_idx": 1477
+                    },
+                    {
+                        "start_idx": 1548,
+                        "end_idx": 1553
+                    }
+                ]
+            },
+            {
+                "word": "punishment",
+                "occurrences": [
+                    {
+                        "start_idx": 70,
+                        "end_idx": 80
+                    },
+                    {
+                        "start_idx": 262,
+                        "end_idx": 272
+                    },
+                    {
+                        "start_idx": 335,
+                        "end_idx": 345
+                    },
+                    {
+                        "start_idx": 1197,
+                        "end_idx": 1207
+                    },
+                    {
+                        "start_idx": 1245,
+                        "end_idx": 1255
+                    }
+                ]
+            },
+            {
+                "word": "system",
+                "occurrences": [
+                    {
+                        "start_idx": 96,
+                        "end_idx": 102
+                    },
+                    {
+                        "start_idx": 719,
+                        "end_idx": 725
+                    },
+                    {
+                        "start_idx": 837,
+                        "end_idx": 843
+                    },
+                    {
+                        "start_idx": 1123,
+                        "end_idx": 1129
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-25T06:23:46.945Z"
+}

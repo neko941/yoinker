@@ -1,0 +1,233 @@
+{
+    "url": "https://writing9.com/text/5d32f6ffa6649200175497af",
+    "file": [
+        "data",
+        "45",
+        "5d32f6ffa6649200175497af.json"
+    ],
+    "topics": [
+        "people",
+        "difficulty",
+        "diet"
+    ],
+    "question": "Many people have difficulty maintaining a healthy diet.\nWhat are the causes of this problem?  How could it be solved?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, the majority of people struggle to start and keep on following a healthy diet. It is often argued that the modern lifestyle makes it hard for individuals to eat or cook home-cooked meals. However, people should find creative ways to retain a healthy lifestyle.",
+        "It is undeniable that the lifepath has changed over the years, where responsibilties gradually increased. As a result, people have less time to take care of themselves or their families while trying to have an acceptable standard lifestyle. In other words,  woman from previous generation were jobeless, the only job they had is to be housewives. Thus, they did not just have time to cook, they also enjoyed preparing meals for their families. On the contrary, the current generation find it more convenient and suitable for their busy schedule to order home delivery or have fast-food.",
+        "In addtion to the above reason, most of the food industry serve unhealthy means. To state this in other terms, people barely see promotions or discounts on healthy box meals, rather they often find ads for fast-foods restaurants where they get tempted, espacially, children.  For instance, a recent studies showed that 70% of Mc-Donald's customers are either young adults or children under 10 years old.",
+        "In my opinion, the best solution is for families to find easy healthy recipes. Using the internet is a perfect method to get access to various meals that could be done easily. Not only it will cost less from take-aways, it will also be healthy and fun to cook. For example, the website tasty.com is targeting woman from the workforce, where they are offering on a daily basic new, simple, and delicious recipes that only takes 10 minutes.",
+        "In conclusion, people should sacrifice to maintain a healthy and balanced diet. It is surely not an effortless process, however it is a necessity to put it as one of the priorities to find time to cook and eat nourishing meals."
+    ],
+    "errors": {
+        "num_error": "13",
+        "error_list": [
+            {
+                "word": "lifepath",
+                "start_idx": 296,
+                "end_idx": 304,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "life path"
+                ]
+            },
+            {
+                "word": "responsibilties",
+                "start_idx": 339,
+                "end_idx": 354,
+                "error": "the social force that binds you to the courses of action demanded by that force",
+                "error_des": "",
+                "suggetions": [
+                    "responsibilities"
+                ]
+            },
+            {
+                "word": "jobeless",
+                "start_idx": 564,
+                "end_idx": 572,
+                "error": "not having a job",
+                "error_des": "",
+                "suggetions": [
+                    "jobless"
+                ]
+            },
+            {
+                "word": "had is",
+                "start_idx": 592,
+                "end_idx": 598,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "had been"
+                ]
+            },
+            {
+                "word": "addtion",
+                "start_idx": 860,
+                "end_idx": 867,
+                "error": "a component that is added to something to improve it",
+                "error_des": "",
+                "suggetions": [
+                    "addition"
+                ]
+            },
+            {
+                "word": "serve",
+                "start_idx": 915,
+                "end_idx": 920,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "serves"
+                ]
+            },
+            {
+                "word": "foods",
+                "start_idx": 1069,
+                "end_idx": 1074,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "food"
+                ]
+            },
+            {
+                "word": "espacially",
+                "start_idx": 1110,
+                "end_idx": 1120,
+                "error": "to a distinctly greater extent or degree than is common",
+                "error_des": "",
+                "suggetions": [
+                    "especially"
+                ]
+            },
+            {
+                "word": "studies",
+                "start_idx": 1156,
+                "end_idx": 1163,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "study"
+                ]
+            },
+            {
+                "word": "take-aways",
+                "start_idx": 1469,
+                "end_idx": 1479,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "takeaways"
+                ]
+            },
+            {
+                "word": "com",
+                "start_idx": 1554,
+                "end_idx": 1557,
+                "error": "another word for chromium when it is used in dyes or pigments",
+                "error_des": "",
+                "suggetions": [
+                    "Chrome",
+                    "Com"
+                ]
+            },
+            {
+                "word": "are offering",
+                "start_idx": 1607,
+                "end_idx": 1619,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "offer"
+                ]
+            },
+            {
+                "word": "however it",
+                "start_idx": 1820,
+                "end_idx": 1830,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "however, it"
+                ]
+            }
+        ]
+    },
+    "submitter": "rolandfarhat",
+    "num_words": 325,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "thus",
+            "also",
+            "on the contrary",
+            "as a result",
+            "however",
+            "for instance",
+            "for example",
+            "in other words",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "cook",
+                "occurrences": [
+                    {
+                        "start_idx": 174,
+                        "end_idx": 178
+                    },
+                    {
+                        "start_idx": 184,
+                        "end_idx": 188
+                    },
+                    {
+                        "start_idx": 655,
+                        "end_idx": 659
+                    },
+                    {
+                        "start_idx": 1517,
+                        "end_idx": 1521
+                    },
+                    {
+                        "start_idx": 1898,
+                        "end_idx": 1902
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-20T11:11:59.000Z"
+}

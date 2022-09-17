@@ -1,0 +1,144 @@
+{
+    "url": "https://writing9.com/text/62fb8741a70b55001806d9ba-nowadays-many-people-choose-to-be-self-employed-rather-than-to",
+    "file": [
+        "data",
+        "55",
+        "62fb8741a70b55001806d9ba.json"
+    ],
+    "topics": [
+        "people",
+        "work",
+        "company",
+        "organisation",
+        "be",
+        "case"
+    ],
+    "question": "Nowadays, many people choose to be self-employed, rather than to work for a company or an organisation.Why might this be the case?What could be the disadvantages of being self-employed?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In recent years, there is a significant growth in self-employment all over the world. This essay will analyze some main reasons, as well as examine several drawbacks of this growing trend.",
+        "Several reasons can explain why more people choose to be self-employed nowadays. Firstly, this matter can be attributed to the fact that entrepreneurs are likely to have better income potential. The reason is that the earnings of those who are traditionally employed often depend on their positions\u2019 salary cap, not their efforts or hard work. However, self-employment can help individuals increase this salary cap since their income will correspond directly to their efficiency at work. Another possible reason for being self-employed could be flexible work schedules. More specifically, entrepreneurs are attracted by the chance to select their working hours and workplace which best suit their lifestyle and family needs.",
+        "Nevertheless, this trend also has some negative aspects that should be taken into consideration. One of the biggest deterrents is the lack of financial security as entrepreneurs no longer receive steady pay from their employers. In fact, their income might vary significantly, depending on the market situation, running cost, and other expenses. Sometimes they can earn richly; however, there are certain times when their earnings could be extremely low. In addition, self-employment often requires excessive workload and longer working hours, since people who work for themselves have to handle all aspects of their business, ranging from marketing and sales to financial and administrative responsibilities.",
+        "To conclude, although being an entrepreneur has some certain attractions, there are some disadvantages that should be considered carefully."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "which",
+                "start_idx": 863,
+                "end_idx": 868,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "that"
+                ]
+            },
+            {
+                "word": "cost",
+                "start_idx": 1233,
+                "end_idx": 1237,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that cost may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "costs"
+                ]
+            },
+            {
+                "word": "some ",
+                "start_idx": 1671,
+                "end_idx": 1676,
+                "error": "Correct quantifier usage",
+                "error_des": "It seems that quantifier use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "gunjbatbayr",
+    "num_words": 263,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "also",
+            "nevertheless",
+            "although",
+            "firstly",
+            "however",
+            "in addition",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 527,
+                        "end_idx": 531
+                    },
+                    {
+                        "start_idx": 671,
+                        "end_idx": 675
+                    },
+                    {
+                        "start_idx": 743,
+                        "end_idx": 747
+                    },
+                    {
+                        "start_idx": 836,
+                        "end_idx": 840
+                    },
+                    {
+                        "start_idx": 854,
+                        "end_idx": 858
+                    },
+                    {
+                        "start_idx": 1423,
+                        "end_idx": 1427
+                    },
+                    {
+                        "start_idx": 1443,
+                        "end_idx": 1447
+                    },
+                    {
+                        "start_idx": 1475,
+                        "end_idx": 1479
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-16T12:02:11.545Z"
+}

@@ -1,0 +1,104 @@
+{
+    "url": "https://writing9.com/text/62886fab9409cb0018088817-do-you-agree-or-disagree-with-the-following-statement-grades",
+    "file": [
+        "data",
+        "8",
+        "62886fab9409cb0018088817.json"
+    ],
+    "topics": [
+        "grades",
+        "marks",
+        "students",
+        "support"
+    ],
+    "question": "Do you agree or disagree with the following statement? Grades (marks) encourage students to learn. Use specific reasons and examples to support your opinion.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "With regard to the mark assessment scheme in school, it is a common belief that grades play a vital role in a student's life in terms of motivation to student for study purposes. I concord with this viewpoint. I would discuss my standpoint in the following paragraphs.",
+        "First of all, the mark assessment system is a better way for the pupils with regard to a better future, since it is widely accepted by ordinary people that many universities and colleges give to admission those students whose academic score is the best. Due to this belief, a plethora of pupils are trying to evaluate their weaker subjects. In addition, students' scores matter to get a job. To put it another way, many global companies are looking those candidates whose academic performance is very well, because company representatives think that they are very knowledgeable and smart.",
+        "Moreover, nowadays, a vast number of higher institutions give a scholarship to pupils on the behalf of their grades. A good illustration of this is that if a student has a good mark sheet, he can do a master's in the world's best institution by getting a scholarship. Furthermore, to get good respect from society, grades are an essential thing, since many relatives feel proud, and they give examples of his to their offspring. Many of us have experienced this type of situation in our lives. So, to get respect and maintain a reputation many students work hard to have a better score.",
+        "By way of conclusion, once again I reaffirm my statement that how a better score is helpful to pupils for evaluating their profile, which is ranging from getting respect to getting a job."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "are",
+                "start_idx": 563,
+                "end_idx": 566,
+                "error": "Change the verb form",
+                "error_des": "The plural verb are does not appear to agree with the singular subject plethora. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "is"
+                ]
+            }
+        ]
+    },
+    "submitter": "pateldinesh28041998",
+    "num_words": 280,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "first",
+            "furthermore",
+            "in addition",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "pupils",
+                "occurrences": [
+                    {
+                        "start_idx": 334,
+                        "end_idx": 340
+                    },
+                    {
+                        "start_idx": 557,
+                        "end_idx": 563
+                    },
+                    {
+                        "start_idx": 937,
+                        "end_idx": 943
+                    },
+                    {
+                        "start_idx": 1540,
+                        "end_idx": 1546
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-05-21T04:51:24.622Z"
+}

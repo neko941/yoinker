@@ -1,0 +1,122 @@
+{
+    "url": "https://writing9.com/text/62bcdf3f8ee1ab00180e0835-you-recently-did-a-short-cookery-course-the-cookery-school",
+    "file": [
+        "data",
+        "8",
+        "62bcdf3f8ee1ab00180e0835.json"
+    ],
+    "topics": [
+        "cookery",
+        "course",
+        "school",
+        "feedback",
+        "director",
+        "ve",
+        "offer"
+    ],
+    "question": "You recently did a short cookery course. The cookery school has asked for your feedback on this course.Write a letter to the course director at the cookery school. In your letter,describe what you enjoyed about the coursesay how much cooking you've done since the coursesuggest another cookery course you'd like the school to offer",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr Smith,",
+        "I have completed a cooking course in your school in 2021. I am writing this letter to give a review of the course.",
+        "The first thing I would like to mention is about the staff. The teachers were friendly with students and give practical knowledge in detail. Moreover, I would greatly appreciate the practical labs of an educational institute which allow students to do lab practice any time in a week.",
+        "I am greatly thankful for enhancing my culinary skills in me. Since I have joined this subject I learnt  north Indian as well other cuisines like Italian food. At present , I am working in a five-star hotel as a chef.",
+        "I would be thankful if you could take my advice for a new course in your school. At present, schools are providing practical labs for Indian and Italian food but it would be great if the learning academy had a Chinese food course because at present this course is in demand.",
+        "I am looking forward to hearing from you.",
+        "Yours faithfully,",
+        "Mark Jones"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 403,
+                "end_idx": 405,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 406,
+                "end_idx": 407,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "komal03892",
+    "num_words": 178,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "first",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "course",
+                "occurrences": [
+                    {
+                        "start_idx": 42,
+                        "end_idx": 48
+                    },
+                    {
+                        "start_idx": 122,
+                        "end_idx": 128
+                    },
+                    {
+                        "start_idx": 691,
+                        "end_idx": 697
+                    },
+                    {
+                        "start_idx": 856,
+                        "end_idx": 862
+                    },
+                    {
+                        "start_idx": 887,
+                        "end_idx": 893
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-29T23:30:54.498Z"
+}

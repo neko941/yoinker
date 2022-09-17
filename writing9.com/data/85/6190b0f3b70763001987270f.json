@@ -1,0 +1,87 @@
+{
+    "url": "https://writing9.com/text/6190b0f3b70763001987270f-you-had-an-appointment-with-the-bank-and-now-you",
+    "file": [
+        "data",
+        "85",
+        "6190b0f3b70763001987270f.json"
+    ],
+    "topics": [
+        "appointment",
+        "bank",
+        "manager",
+        "-give",
+        "dates",
+        "-explain",
+        "reason",
+        "-ask"
+    ],
+    "question": "You had an appointment with the bank and now you realized that you can't make it for that .write a letter to the manager-Give details about your appointment and dates.-Explain the reason why you cannot make it.-Ask for other dates.",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "This letter is being written to you in regards to my appointment with your bank that ,unfortunately I could not make it this time due to some family issue.",
+        "I Manvir Kaur have booked a meeting with you for 10 November at 10 am . It was regarding the home loan scheme. My meeting was with Mr Verma from the home loan department.",
+        "I would like to tell you that I am not able to attend this discussion as my grandfather got a heart attack and he is admitted  to the Intensive care unit in the hospital. In this situation , I could not able to think of something else apart from their health.",
+        "I really want to discuss my home loan options with you as my plan for buying a house is fixed. It would be nice of you if you could defer our meeting till next month . Then, I will be free from all personal matters.",
+        "I hope you will understand my plight. Sorry for causing you any inconvenience .",
+        "Yours faithfully,",
+        "Manvir Kaur."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "unfortunately",
+                "start_idx": 105,
+                "end_idx": 118,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter unfortunately. Consider adding the comma(s).",
+                "suggetions": [
+                    ",unfortunately"
+                ]
+            }
+        ]
+    },
+    "submitter": "Manvir kaur bhatti",
+    "num_words": 181,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "next",
+            "then",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-11-14T06:48:49.068Z"
+}

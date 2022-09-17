@@ -1,0 +1,125 @@
+{
+    "url": "https://writing9.com/text/5f817b1c1a209400192cd360-crimes-and-other-kinds-of-information-on-television-and-newspaper",
+    "file": [
+        "data",
+        "75",
+        "5f817b1c1a209400192cd360.json"
+    ],
+    "topics": [
+        "crimes",
+        "kinds",
+        "information",
+        "television",
+        "newspaper",
+        "consequences",
+        "media"
+    ],
+    "question": "Crimes and other kinds of information on television and newspaper have adverse consequences. This kind of information to be restricted to be shown in media. To what extend do you agree or disagree.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The crime rate is growing at an alarming rate in all parts of the world. And its broadcast on television and newspapers has resulted adversely on a common man's psychology. Here, some people suggest that these kinds of disturbing crime-related news should be bared to be telecasted on any public platform. I definitely agree with the given opinion, for the mental well-being of the citizens some kind of rules and restrictions must be imposed on broadcasting media.",
+        "To begin with, some hideous crime news like rape or murders affects mentally on any individual. When a person sees live telecast of these crimes, with some disturbing images or visual they get terrorised. Moreover, it is too disastrous for children to watch such  news on television or in newspapers. Because, at an early age this kind of news might make them feel insecure and that innocence of a child might get lost. In fact, some children get so affected that they themselves get involved in some criminal activities like bullying. Hence, for the mental happiness of a nation,news telecast should be regulated.",
+        "However, criminal news is also important for our general awareness and get updates in the due time. People get to know within seconds what is happening around them and in the world through these kinds of media only. They are considered to be the trusted source for getting any of information. For example, the world came to know about the horrible terrorist attack on World Trade Centre at New York through news channels and newspapers only which ,eventually allowed other nations to give a helping hand to the U.S.A. Thus, restricting the telecast might lead to less or no information about the world on a real-time basis.",
+        "In conclusion, despite the benefit of getting updates with the world or local news, I feel that media needs to redesign their broadcasting methods in a such a way that it would not hamper the nation's psychology and yet aware the audience about the wrongdoings."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": " ",
+                "start_idx": 390,
+                "end_idx": 391,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase for the mental well-being of the citizens. Consider adding a comma.",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 774,
+                "end_idx": 775,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction Because. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "JIGISHA",
+    "num_words": 332,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "to begin",
+            "thus",
+            "also",
+            "such",
+            "hence",
+            "however",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "world",
+                "occurrences": [
+                    {
+                        "start_idx": 66,
+                        "end_idx": 71
+                    },
+                    {
+                        "start_idx": 1256,
+                        "end_idx": 1261
+                    },
+                    {
+                        "start_idx": 1391,
+                        "end_idx": 1396
+                    },
+                    {
+                        "start_idx": 1677,
+                        "end_idx": 1682
+                    },
+                    {
+                        "start_idx": 1768,
+                        "end_idx": 1773
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-10-10T09:18:22.903Z"
+}

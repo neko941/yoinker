@@ -1,0 +1,134 @@
+{
+    "url": "https://writing9.com/text/621511a063df6c001905454f-forests-produce-fresh-oxygen-and-participate-in-regulating-climate-but",
+    "file": [
+        "data",
+        "8",
+        "621511a063df6c001905454f.json"
+    ],
+    "topics": [
+        "forests",
+        "oxygen",
+        "climate",
+        "year",
+        "tree",
+        "planet",
+        "deforestation",
+        "results"
+    ],
+    "question": "Forests produce fresh oxygen and participate in regulating climate. But every year tree cover of our planet is lessening due to deforestation.\nWhat are the primary causes of deforestation?\nTo what results may it lead?",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The importance of the role played by forests in maintaining climate by converting oxygen from carbon dioxide is undeniable. However, in recent years, there has been a drastic decline in the amount of oxygen produced due to deforestation. The essay will present the major causes along with the effects associated with them.",
+        "To commence with, one of the primary causes of logging practices is urbanisation. People looking for a better lifestyle in major cities leading to the need cutting down trees to meet the demands for land, resulting in an overall impact on our planet. Similarly, another reason is associated with bridging the gap between food supply and demand by agriculture expansion. This is mainly due to an increase in population that we have witnessed in the past few years. For instance, to supply food for a large population, we are clearing the forests and using them for cultivation.",
+        "Conversely, there are certain detrimental impacts of this human practice, such as a hotter climate and decreased level of oxygen. If more trees are cleared, for example, we would not be able to control the rise in temperature that is caused due to the lack of forests, leading to grave concern for our survival. Furthermore, plants are responsible for supplying oxygen by converting carbon dioxide into oxygen which is essential for both humans and other species. This may lead to scarcity of oxygen and loss of biodiversity, resulting in the imbalance of our ecosystem.",
+        "In conclusion, the major causes of deforestation are urbanisation and expansion of agriculture practices to provide habitation in urban areas and sufficient food. These reasons appear to have severe impacts on the climate condition along with the survival of human beings and other species due to a reduction in the required oxygen levels."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "",
+                "start_idx": 478,
+                "end_idx": 478,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to cutting"
+                ]
+            },
+            {
+                "word": "cutting",
+                "start_idx": 478,
+                "end_idx": 485,
+                "error": "Change the verb form",
+                "error_des": "Cutting doesn\u2019t seem to work here.",
+                "suggetions": [
+                    "to cut"
+                ]
+            }
+        ]
+    },
+    "submitter": "jabeenfarhana9",
+    "num_words": 296,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "similarly",
+            "such",
+            "furthermore",
+            "conversely",
+            "however",
+            "that is",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "oxygen",
+                "occurrences": [
+                    {
+                        "start_idx": 82,
+                        "end_idx": 88
+                    },
+                    {
+                        "start_idx": 200,
+                        "end_idx": 206
+                    },
+                    {
+                        "start_idx": 1022,
+                        "end_idx": 1028
+                    },
+                    {
+                        "start_idx": 1262,
+                        "end_idx": 1268
+                    },
+                    {
+                        "start_idx": 1303,
+                        "end_idx": 1309
+                    },
+                    {
+                        "start_idx": 1393,
+                        "end_idx": 1399
+                    },
+                    {
+                        "start_idx": 1796,
+                        "end_idx": 1802
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-02-22T16:39:14.280Z"
+}

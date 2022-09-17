@@ -1,0 +1,241 @@
+{
+    "url": "https://writing9.com/text/62c5ba668ee1ab00180e17de-write-a-letter-to-your-manager-to-request-setting-up",
+    "file": [
+        "data",
+        "45",
+        "62c5ba668ee1ab00180e17de.json"
+    ],
+    "topics": [
+        "manager",
+        "request",
+        "cafeteria",
+        "staffs",
+        "inconvenience",
+        "suggestion"
+    ],
+    "question": "write a letter to your manager to request setting up cafeteria for staffs.\nhow you feel about it\nwhat you heard about inconvenience\nwhat suggestion you can give",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 5.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Subject: Requesting permission to set up cafeteria for staffs.",
+        "Dear Sir,",
+        "I am writing this letter on behalf of our staffs for requesting permission to set up cafeteria within our office building. I feel that our employees are currently wasting a good amount of time walking in the hot weather outside to go to nearby restaurants and shops. Since, the outdoor conditions in this city is extreme, I too think it is necessary to provide at least a small cafeteria and pantry for our people.",
+        "I heard from our old colleagues that having a dining place creates a lot of inconvinience due to the hygiene and smell issues. Moreover, I was told that many of our team members would use the place for chit-chatting purposes. If we do a proper planning in terms of design and construction we can ensure that the smell issues arising can be completely avoided by providing proper ventilation and exhaust systems. Similarly, a full-time cleaning company must be employed to make sure that cleanliness of the eating area is maintained to our office standards. Also, we will have to train our managers to educate all office staffs to use cafeteria for its purpose only.",
+        "To conclude, I believe that providing a cafeteria would enhance the image of the company's management within the workers and it has direct impact on their well-being. I hope from this letter the management understands the need to have a dedicated eating and acts on it at the earliest.",
+        "Thanking you."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "staffs",
+                "start_idx": 54,
+                "end_idx": 60,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that staffs may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "staff"
+                ]
+            },
+            {
+                "word": "staffs",
+                "start_idx": 114,
+                "end_idx": 120,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that staffs may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "staff"
+                ]
+            },
+            {
+                "word": "cafeteria",
+                "start_idx": 157,
+                "end_idx": 166,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a cafeteria"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 345,
+                "end_idx": 346,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction Since. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 382,
+                "end_idx": 384,
+                "error": "Change the verb form",
+                "error_des": "The singular verb is does not appear to agree with the plural subject conditions. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 563,
+                "end_idx": 563,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want inconvinience to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "inconvenience",
+                    "convenience"
+                ]
+            },
+            {
+                "word": "inconvinience",
+                "start_idx": 563,
+                "end_idx": 576,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want inconvinience to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "inconvenience"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 722,
+                "end_idx": 724,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun planning in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "cleanliness",
+                "start_idx": 974,
+                "end_idx": 985,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the cleanliness"
+                ]
+            },
+            {
+                "word": "staffs",
+                "start_idx": 1107,
+                "end_idx": 1113,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that staffs may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "staff"
+                ]
+            },
+            {
+                "word": "cafeteria",
+                "start_idx": 1121,
+                "end_idx": 1130,
+                "error": "Add an article",
+                "error_des": "The noun phrase cafeteria seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the cafeteria"
+                ]
+            },
+            {
+                "word": "within",
+                "start_idx": 1255,
+                "end_idx": 1261,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "among"
+                ]
+            },
+            {
+                "word": "direct",
+                "start_idx": 1285,
+                "end_idx": 1291,
+                "error": "Add an article",
+                "error_des": "The noun phrase direct impact seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a direct"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 1388,
+                "end_idx": 1390,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun eating in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "msrinivas7866",
+    "num_words": 250,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "also",
+            "similarly",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "cafeteria",
+                "occurrences": [
+                    {
+                        "start_idx": 41,
+                        "end_idx": 50
+                    },
+                    {
+                        "start_idx": 158,
+                        "end_idx": 167
+                    },
+                    {
+                        "start_idx": 451,
+                        "end_idx": 460
+                    },
+                    {
+                        "start_idx": 1122,
+                        "end_idx": 1131
+                    },
+                    {
+                        "start_idx": 1194,
+                        "end_idx": 1203
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-06T16:38:00.153Z"
+}

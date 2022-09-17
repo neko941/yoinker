@@ -1,0 +1,266 @@
+{
+    "url": "https://writing9.com/text/5d8f1e6d24d23f00174935f3",
+    "file": [
+        "data",
+        "45",
+        "5d8f1e6d24d23f00174935f3.json"
+    ],
+    "topics": [
+        "country",
+        "people",
+        "language"
+    ],
+    "question": "Living in a country where people have to speak a foreign language can cause serious social problems",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Living in a country where people have to speak a foreign language can cause serious social problems. In my opinion, I disagree with that because when people stay in a place that they cannot use their mother language, it is an oppotunity to learn something new and make a new friend so I opine these cannot make a serious social problem.",
+        "People have an adaptation ability. When people stay in foreign country or suround with foreign language, people can learn for alive. People will learn to listen and try to speak. Furthermore, body language can halp people to understand another. For example, when I was a teenager, I travel to Singapore which some people use Chiness language. I do not know the word they talk but I understand what are they want to tell me because of their body langauge.",
+        "If people stay in another country, it is possible to make a new friend. Even if, a living in somewhere that suround with the language that we do not understand is a difficult situation ,but in this situation it is easy to make a new friend by jusy a ask for help. My friend went to  Japan a few years ago. She said it hard to live in the early but she found a lot of new friends there, and they can help each other, for example.",
+        "In conclusion, a living in foreign language environment is not a cause of serious social problem, as well as pratical problem because people can learn and make a new friend in this situation."
+    ],
+    "errors": {
+        "num_error": "13",
+        "error_list": [
+            {
+                "word": "oppotunity",
+                "start_idx": 225,
+                "end_idx": 235,
+                "error": "a possibility due to a favorable combination of circumstances",
+                "error_des": "",
+                "suggetions": [
+                    "opportunity"
+                ]
+            },
+            {
+                "word": "foreign country",
+                "start_idx": 391,
+                "end_idx": 406,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a foreign country",
+                    "foreign countries",
+                    "the foreign country"
+                ]
+            },
+            {
+                "word": "suround",
+                "start_idx": 410,
+                "end_idx": 417,
+                "error": "extend on all sides of simultaneously; encircle",
+                "error_des": "",
+                "suggetions": [
+                    "surround"
+                ]
+            },
+            {
+                "word": "halp",
+                "start_idx": 546,
+                "end_idx": 550,
+                "error": "give help or assistance; be of service",
+                "error_des": "",
+                "suggetions": [
+                    "help"
+                ]
+            },
+            {
+                "word": "talk but",
+                "start_idx": 707,
+                "end_idx": 715,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "talk, but"
+                ]
+            },
+            {
+                "word": "langauge",
+                "start_idx": 781,
+                "end_idx": 789,
+                "error": "a systematic means of communicating by the use of sounds or conventional symbols",
+                "error_des": "",
+                "suggetions": [
+                    "language"
+                ]
+            },
+            {
+                "word": "suround",
+                "start_idx": 899,
+                "end_idx": 906,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "surrounds",
+                    "surround",
+                    "surrounded"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 976,
+                "end_idx": 978,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "situation it",
+                "start_idx": 989,
+                "end_idx": 1001,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "situation, it"
+                ]
+            },
+            {
+                "word": "jusy",
+                "start_idx": 1034,
+                "end_idx": 1038,
+                "error": "and nothing more",
+                "error_des": "",
+                "suggetions": [
+                    "just"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 1106,
+                "end_idx": 1108,
+                "error": "it is",
+                "error_des": "",
+                "suggetions": [
+                    "it's"
+                ]
+            },
+            {
+                "word": "foreign ",
+                "start_idx": 1247,
+                "end_idx": 1255,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a foreign language environment"
+                ]
+            },
+            {
+                "word": "pratical",
+                "start_idx": 1329,
+                "end_idx": 1337,
+                "error": "concerned with actual use or practice",
+                "error_des": "",
+                "suggetions": [
+                    "practical"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 260,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "for example",
+            "furthermore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "language",
+                "occurrences": [
+                    {
+                        "start_idx": 57,
+                        "end_idx": 65
+                    },
+                    {
+                        "start_idx": 207,
+                        "end_idx": 215
+                    },
+                    {
+                        "start_idx": 432,
+                        "end_idx": 440
+                    },
+                    {
+                        "start_idx": 534,
+                        "end_idx": 542
+                    },
+                    {
+                        "start_idx": 670,
+                        "end_idx": 678
+                    },
+                    {
+                        "start_idx": 917,
+                        "end_idx": 925
+                    },
+                    {
+                        "start_idx": 1256,
+                        "end_idx": 1264
+                    }
+                ]
+            },
+            {
+                "word": "friend",
+                "occurrences": [
+                    {
+                        "start_idx": 275,
+                        "end_idx": 281
+                    },
+                    {
+                        "start_idx": 856,
+                        "end_idx": 862
+                    },
+                    {
+                        "start_idx": 1025,
+                        "end_idx": 1031
+                    },
+                    {
+                        "start_idx": 1059,
+                        "end_idx": 1065
+                    },
+                    {
+                        "start_idx": 1163,
+                        "end_idx": 1169
+                    },
+                    {
+                        "start_idx": 1387,
+                        "end_idx": 1393
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-28T08:48:45.794Z"
+}

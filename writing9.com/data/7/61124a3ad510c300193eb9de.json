@@ -1,0 +1,104 @@
+{
+    "url": "https://writing9.com/text/61124a3ad510c300193eb9de-advertising-encourages-consumers-to-buy-in-quantity-rather-than-promoting",
+    "file": [
+        "data",
+        "7",
+        "61124a3ad510c300193eb9de.json"
+    ],
+    "topics": [
+        "consumers",
+        "quantity",
+        "quality"
+    ],
+    "question": "Advertising encourages consumers to buy in quantity rather than promoting quality. To what extend do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is argued that advertisements are more focused on encouraging customers to purchase their products in large quantities instead of boosting their quality. This essay agrees with the given statement because companies usually advertise special offers and tempting prizes for some lucky winners.",
+        "Companies only care about making a profit and selling as many products as they can, to do so they come up with various tempting offers such as buy three get one free. So, when consumers come across such deals, they end up buying more than they require for instance KFC offers free cold drink when you buy 2 chicken burgers so consumer ends up buying 2 burgers for that free cold drink when he only requires 1 and ends up paying more.",
+        "Moreover, to boost their sales certain organizations offer prizes to the winner of the lucky draw. They organize certain games such as lucky draw, scratch to win, gold coin quest etc and the winner of these games win the prize. But to enter these games you have to fulfil a certain prerequisites for example recently Dubi organized a treasure hunt and to enter the hunt travellers have to spend somewhere around Rs 1,00,000 in Dubi for a chance to meet famous Indian actor Shah Rukh Khan. This event lasted for a month and the total revenue generated from tourism during this time was at its peak.",
+        "To conclude, companies make advertisements that are more focused on attracting consumers to buy more products rather than showing the quality of the product because most organizations try to attract people through free products and eye-catching prizes. So, before buying a product with a catchy deal buyers should consider if they actually need it."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 1000,
+                "end_idx": 1002,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun prerequisites in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "Ashish kumar",
+    "num_words": 285,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "instead",
+            "such",
+            "for instance",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "products",
+                "occurrences": [
+                    {
+                        "start_idx": 93,
+                        "end_idx": 101
+                    },
+                    {
+                        "start_idx": 357,
+                        "end_idx": 365
+                    },
+                    {
+                        "start_idx": 1428,
+                        "end_idx": 1436
+                    },
+                    {
+                        "start_idx": 1546,
+                        "end_idx": 1554
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-08-10T09:46:01.030Z"
+}

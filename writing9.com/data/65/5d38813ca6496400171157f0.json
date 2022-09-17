@@ -1,0 +1,239 @@
+{
+    "url": "https://writing9.com/text/5d38813ca6496400171157f0-your-son-is-learning-a-second-language-at-school-he",
+    "file": [
+        "data",
+        "65",
+        "5d38813ca6496400171157f0.json"
+    ],
+    "topics": [
+        "son",
+        "second",
+        "language",
+        "school",
+        "lessons",
+        "teacher",
+        "yous",
+        "method",
+        "schedule"
+    ],
+    "question": "Your son is learning a second language at school he needs some extra lessons. Write a letter to a teacher ask for his help.\nIn your letter explain\nWhy yous son needs help\nAsk the teacher about the teaching experience and method\nSuggest a possible schedule for the lessons",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear sir,",
+        "I am nicks batsman Mother; student at French Classes. I am writing, letter to ask your help in providing some extra classes to my son.",
+        "Although, has always been a dedicated child but due to lack of learning ability by birth his grasping power is little slow comparable to children of same age. Moreover, ours is an English speaking family we are unable to support him in learning French at home.",
+        "I would also be grateful to you, if you can enlighten me about your teaching experience and methodology used to teach students. As this will help me to evaluate the effectiveness of study plan. Further, I want to suggest that it will be beneficial for my son and other students as well to have extra classes in early morning as well. Since summer vacations are going on so I will leave it is possible for all the students to take classes twice a day , including more practice and test sessions.",
+        "I hope that I will take up my advice positivily and will make necessary arrangements.",
+        "Looking forward to your reply.",
+        "Your sincerely,",
+        "Meenakshi Kalyan"
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "nicks",
+                "start_idx": 14,
+                "end_idx": 19,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a nicks"
+                ]
+            },
+            {
+                "word": "student",
+                "start_idx": 36,
+                "end_idx": 43,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a student"
+                ]
+            },
+            {
+                "word": "your",
+                "start_idx": 91,
+                "end_idx": 95,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for your"
+                ]
+            },
+            {
+                "word": "little",
+                "start_idx": 255,
+                "end_idx": 261,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a little"
+                ]
+            },
+            {
+                "word": "comparable",
+                "start_idx": 267,
+                "end_idx": 277,
+                "error": "Replace the word",
+                "error_des": "The word comparable doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "compared"
+                ]
+            },
+            {
+                "word": "same",
+                "start_idx": 293,
+                "end_idx": 297,
+                "error": "Add an article",
+                "error_des": "The noun phrase same age seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the same"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 437,
+                "end_idx": 438,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker if. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "As ",
+                "start_idx": 533,
+                "end_idx": 536,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "This"
+                ]
+            },
+            {
+                "word": "study",
+                "start_idx": 587,
+                "end_idx": 592,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the study"
+                ]
+            },
+            {
+                "word": "early",
+                "start_idx": 716,
+                "end_idx": 721,
+                "error": "Add an article",
+                "error_des": "The noun phrase early morning seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the early"
+                ]
+            },
+            {
+                "word": "positivily",
+                "start_idx": 937,
+                "end_idx": 947,
+                "error": "Correct your spelling",
+                "error_des": "The word positivily is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "positively",
+                    "positivity"
+                ]
+            },
+            {
+                "word": "necessary",
+                "start_idx": 962,
+                "end_idx": 971,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the necessary"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1017,
+                "end_idx": 1017,
+                "error": "Correct the word",
+                "error_des": "It appears that the word Your is not the correct form of the possessive pronoun. Consider changing it.",
+                "suggetions": [
+                    "Yours"
+                ]
+            },
+            {
+                "word": "Your",
+                "start_idx": 1017,
+                "end_idx": 1021,
+                "error": "Correct your spelling",
+                "error_des": "The word Your doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "Yours"
+                ]
+            }
+        ]
+    },
+    "submitter": "naresh",
+    "num_words": 188,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "further",
+            "also",
+            "although",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "classes",
+                "occurrences": [
+                    {
+                        "start_idx": 126,
+                        "end_idx": 133
+                    },
+                    {
+                        "start_idx": 706,
+                        "end_idx": 713
+                    },
+                    {
+                        "start_idx": 836,
+                        "end_idx": 843
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T16:03:33.307Z"
+}

@@ -1,0 +1,296 @@
+{
+    "url": "https://writing9.com/text/5cbdd02c14ce0cace762e7f9",
+    "file": [
+        "data",
+        "45",
+        "5cbdd02c14ce0cace762e7f9.json"
+    ],
+    "topics": [
+        "people",
+        "home",
+        "restaurants"
+    ],
+    "question": "Many people say that cooking and eating at home is better for the individual and the family than eating out in restaurants.\nDo you agree or disagree?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Eating healthy and tasty food is everyone\u2019s first choice to become fit and healthy. Some are of the view that single people and family should opt for preparing and having food at home while other things otherwise. I certainly assert this notion as preparing and eating home is not only healthy but also economical unlike eating out.",
+        "Fresh vegetables and oils are of the paramount importance in order to harness the real nutrient of the food however, It is almost unlikely that consumer can gauge the quality for content which was being used for the food we intake in restaurants and cafes. Additionally, having a meal out at your best cafe or restaurant is often an expensive affair for an normal income person which could easily disturb the finance for whole month.",
+        "On the other hand, preparing food home surely ensures us the quality of the food that we are eating. As we know our food ingredient, specially vegetables and oil better as to, how and how much to use in order to prepare healthy and tasty meal. Also, as far as opting for ingredient is concern, people can certainly shop for better quality material which is good for cuisine and healthy. Furthermore, it also allow people to save enough amount of money, when they eat home because food raw material and staples are usually affordable since brought in quantity.",
+        "All things said, preparing food and eating home usually ensure best quality food due to usage of optimum quality ingredients and cheap also since only raw material is needed to prepare food which is affordable."
+    ],
+    "errors": {
+        "num_error": "12",
+        "error_list": [
+            {
+                "word": "healthy but",
+                "start_idx": 285,
+                "end_idx": 296,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "healthy, but"
+                ]
+            },
+            {
+                "word": "food ",
+                "start_idx": 435,
+                "end_idx": 440,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "food, however"
+                ]
+            },
+            {
+                "word": "consumer",
+                "start_idx": 476,
+                "end_idx": 484,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "consumers",
+                    "the consumer",
+                    "a consumer"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 507,
+                "end_idx": 510,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 540,
+                "end_idx": 543,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 621,
+                "end_idx": 623,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "an",
+                "start_idx": 686,
+                "end_idx": 688,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "whole month",
+                "start_idx": 753,
+                "end_idx": 764,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the whole month"
+                ]
+            },
+            {
+                "word": "concern",
+                "start_idx": 1051,
+                "end_idx": 1058,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "concerned"
+                ]
+            },
+            {
+                "word": "also allow",
+                "start_idx": 1169,
+                "end_idx": 1179,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "also allows"
+                ]
+            },
+            {
+                "word": "food raw material",
+                "start_idx": 1246,
+                "end_idx": 1263,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the food raw material"
+                ]
+            },
+            {
+                "word": "only raw material",
+                "start_idx": 1472,
+                "end_idx": 1489,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the only raw material"
+                ]
+            }
+        ]
+    },
+    "submitter": "demoliti",
+    "num_words": 265,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "otherwise",
+            "also",
+            "first",
+            "furthermore",
+            "however",
+            "additionally",
+            "on the other hand",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "quality",
+                "occurrences": [
+                    {
+                        "start_idx": 500,
+                        "end_idx": 507
+                    },
+                    {
+                        "start_idx": 828,
+                        "end_idx": 835
+                    },
+                    {
+                        "start_idx": 1098,
+                        "end_idx": 1105
+                    },
+                    {
+                        "start_idx": 1395,
+                        "end_idx": 1402
+                    },
+                    {
+                        "start_idx": 1432,
+                        "end_idx": 1439
+                    }
+                ]
+            },
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 25,
+                        "end_idx": 29
+                    },
+                    {
+                        "start_idx": 171,
+                        "end_idx": 175
+                    },
+                    {
+                        "start_idx": 436,
+                        "end_idx": 440
+                    },
+                    {
+                        "start_idx": 549,
+                        "end_idx": 553
+                    },
+                    {
+                        "start_idx": 796,
+                        "end_idx": 800
+                    },
+                    {
+                        "start_idx": 843,
+                        "end_idx": 847
+                    },
+                    {
+                        "start_idx": 883,
+                        "end_idx": 887
+                    },
+                    {
+                        "start_idx": 1247,
+                        "end_idx": 1251
+                    },
+                    {
+                        "start_idx": 1354,
+                        "end_idx": 1358
+                    },
+                    {
+                        "start_idx": 1403,
+                        "end_idx": 1407
+                    },
+                    {
+                        "start_idx": 1512,
+                        "end_idx": 1516
+                    }
+                ]
+            },
+            {
+                "word": "home",
+                "occurrences": [
+                    {
+                        "start_idx": 179,
+                        "end_idx": 183
+                    },
+                    {
+                        "start_idx": 269,
+                        "end_idx": 273
+                    },
+                    {
+                        "start_idx": 801,
+                        "end_idx": 805
+                    },
+                    {
+                        "start_idx": 1234,
+                        "end_idx": 1238
+                    },
+                    {
+                        "start_idx": 1370,
+                        "end_idx": 1374
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-22T14:31:08.000Z"
+}

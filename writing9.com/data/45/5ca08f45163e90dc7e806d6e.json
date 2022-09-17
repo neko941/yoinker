@@ -1,0 +1,282 @@
+{
+    "url": "https://writing9.com/text/5ca08f45163e90dc7e806d6e",
+    "file": [
+        "data",
+        "45",
+        "5ca08f45163e90dc7e806d6e.json"
+    ],
+    "topics": [
+        "children",
+        "education",
+        "countries",
+        "government",
+        "costs"
+    ],
+    "question": "children's education is expensive. In some countries, the government pays some or all the costs. Do the advantages outweigh its disadvantages?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In several nations, educational fees for children are partly or fully sponsored by the authority. While many people contend that this is educationally beneficial, I subscribe to the view that its detrimental effects are much more superior.",
+        "There are a number of possitive impacts when the government provides financial support for children's education. First and foremost, the government subsidy may encourage more children to attend school and approach to the adequate education. It is obvious that children are the future of a country, therefore, worth an investment. In other words, weren't children to have the opportunity to pursue education, the illiteracy rate may soar, seriously deteriorating the economic growth of a country. The greater support the authority give to education, the better workforce human have in the future. Moreover, the tuition feess funded by the government may enable to relieve financial burden falling on parents concering educational cost, especially for less affluent  families. As a result, they would have more money to spend on better nutrition and medical care for their children.",
+        "On the other hand, when the tuition fees are subsidised by the government, several problems can be anticipated. The main drawback of this would be that some sectors of the economy such as infracstructure or agriculture would be insufficiently invested in. It may consequently inhibit the development of the national economic since the whole national budget has been spent on education to share to burden of school fees. Another disadvantage is that some taxpayers would feel unfair on the grounds that they are childless. In other words, as part of their money are used to educate other people' children, they may have a strong sense of injustice.",
+        "In conclusion, despite a few beneficial aspect of governmetal funding to education, it seems to me that the demerits are much more notable."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "possitive",
+                "start_idx": 261,
+                "end_idx": 270,
+                "error": "characterized by or displaying affirmation or acceptance or certainty etc.",
+                "error_des": "",
+                "suggetions": [
+                    "positive",
+                    "positives"
+                ]
+            },
+            {
+                "word": "education",
+                "start_idx": 636,
+                "end_idx": 645,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an education"
+                ]
+            },
+            {
+                "word": "give",
+                "start_idx": 769,
+                "end_idx": 773,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "gives"
+                ]
+            },
+            {
+                "word": "workforce human",
+                "start_idx": 799,
+                "end_idx": 814,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "workforce, human"
+                ]
+            },
+            {
+                "word": "feess",
+                "start_idx": 857,
+                "end_idx": 862,
+                "error": "a fixed charge for a privilege or for professional services",
+                "error_des": "",
+                "suggetions": [
+                    "fees"
+                ]
+            },
+            {
+                "word": "concering",
+                "start_idx": 946,
+                "end_idx": 955,
+                "error": "with regard or relation to",
+                "error_des": "",
+                "suggetions": [
+                    "concerning",
+                    "concern"
+                ]
+            },
+            {
+                "word": "economy ",
+                "start_idx": 1292,
+                "end_idx": 1300,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "economy, such"
+                ]
+            },
+            {
+                "word": "infracstructure",
+                "start_idx": 1308,
+                "end_idx": 1323,
+                "error": "the basic structure or features of a system or organization",
+                "error_des": "",
+                "suggetions": [
+                    "infrastructure"
+                ]
+            },
+            {
+                "word": "economic",
+                "start_idx": 1436,
+                "end_idx": 1444,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "economy"
+                ]
+            },
+            {
+                "word": "people",
+                "start_idx": 1707,
+                "end_idx": 1713,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "peoples"
+                ]
+            },
+            {
+                "word": "aspect",
+                "start_idx": 1808,
+                "end_idx": 1814,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "aspects"
+                ]
+            },
+            {
+                "word": "governmetal",
+                "start_idx": 1818,
+                "end_idx": 1829,
+                "error": "relating to or dealing with the affairs or structure of government or politics or the state",
+                "error_des": "",
+                "suggetions": [
+                    "governmental"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1838,
+                "end_idx": 1840,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "much",
+                "start_idx": 1889,
+                "end_idx": 1893,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "many"
+                ]
+            }
+        ]
+    },
+    "submitter": "thanhthaohoangnguyen",
+    "num_words": 302,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "such",
+            "first",
+            "as a result",
+            "in other words",
+            "therefore",
+            "consequently",
+            "on the other hand",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 20,
+                        "end_idx": 29
+                    },
+                    {
+                        "start_idx": 137,
+                        "end_idx": 146
+                    },
+                    {
+                        "start_idx": 342,
+                        "end_idx": 351
+                    },
+                    {
+                        "start_idx": 470,
+                        "end_idx": 479
+                    },
+                    {
+                        "start_idx": 637,
+                        "end_idx": 646
+                    },
+                    {
+                        "start_idx": 778,
+                        "end_idx": 787
+                    },
+                    {
+                        "start_idx": 957,
+                        "end_idx": 966
+                    },
+                    {
+                        "start_idx": 1496,
+                        "end_idx": 1505
+                    },
+                    {
+                        "start_idx": 1842,
+                        "end_idx": 1851
+                    }
+                ]
+            },
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 289,
+                        "end_idx": 299
+                    },
+                    {
+                        "start_idx": 377,
+                        "end_idx": 387
+                    },
+                    {
+                        "start_idx": 878,
+                        "end_idx": 888
+                    },
+                    {
+                        "start_idx": 1184,
+                        "end_idx": 1194
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-31T09:58:29.000Z"
+}

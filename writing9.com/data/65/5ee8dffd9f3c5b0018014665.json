@@ -1,0 +1,124 @@
+{
+    "url": "https://writing9.com/text/5ee8dffd9f3c5b0018014665",
+    "file": [
+        "data",
+        "65",
+        "5ee8dffd9f3c5b0018014665.json"
+    ],
+    "topics": [
+        "museums",
+        "purposes",
+        "places"
+    ],
+    "question": "Nowadays, museums have become more and more important. What are the purposes of places such as museums and how should they be funded?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Recent decades have seen museums become an integral part of a local place's culture development, and visiting them has gained in popularity as well. This essay is an attempt to clarify which ways museums can serve their purposes and which party they should rely on financially.",
+        "The role of museums is profound in terms of education and historical heritage preservation. From the perspective of education, experiences in museums can act as an incentive for visitors to seek knowledge. For example, since visitors have opportunities to read fascinating insights into history displayed on artworks and antiques, they can stimulate people's interests and enthusiasm, inspiring them to deepen understanding. Also, museums now come as a leading force in protecting tangible cultural items from various factors of deterioration. In fact, without rigorous storage practices that can solely come from experienced curators, pest, temperature, and humidity can put any artworks in jeopardy.",
+        "Museums can be financially supported in various ways, but funding by the government remains the optimal one. First, financing by the authority is synonymous with having to report to it and, therefore, reducing the probability of illegal artifact trade. Another compelling reason is that funding from the government can ensure the continuous operation of museums. There is sufficient evidence to infer that there are far more museums that are reliant on the revenue of admission fees have to face closure due to the deficit of tourists than those funded monthly by the government.",
+        "In conclusion, museums are significant in motivating individuals to gain in-depth knowledge and prevent artworks from potential threats. Although private funding is a fairly good option, the government should have the final say."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "culture",
+                "start_idx": 75,
+                "end_idx": 82,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "cultural"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1158,
+                "end_idx": 1160,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "artifact",
+                "start_idx": 1216,
+                "end_idx": 1224,
+                "error": "a man-made object taken as a whole",
+                "error_des": "",
+                "suggetions": [
+                    "artefact"
+                ]
+            }
+        ]
+    },
+    "submitter": "L\u00e2m Nguyen",
+    "num_words": 274,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "also",
+            "first",
+            "although",
+            "therefore",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 1053,
+                        "end_idx": 1063
+                    },
+                    {
+                        "start_idx": 1284,
+                        "end_idx": 1294
+                    },
+                    {
+                        "start_idx": 1548,
+                        "end_idx": 1558
+                    },
+                    {
+                        "start_idx": 1751,
+                        "end_idx": 1761
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-06-16T15:06:39.841Z"
+}

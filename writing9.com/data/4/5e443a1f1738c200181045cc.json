@@ -1,0 +1,213 @@
+{
+    "url": "https://writing9.com/text/5e443a1f1738c200181045cc",
+    "file": [
+        "data",
+        "4",
+        "5e443a1f1738c200181045cc.json"
+    ],
+    "topics": [
+        "friend",
+        "advice",
+        "college",
+        "job",
+        "idea"
+    ],
+    "question": "You recently received a letter from a friend asking for advice about whether to go to college or to try to get a job. You think he/she should get a job.\nsay why he/she would not enjoy going to college\nexplain why getting a job is a good idea for him/her\nsuggest types of job that would be suitable for him/her",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Amy,",
+        "Hope you find this letter in good health. I got your letter last week and I am very much glad to read that you have finished your school with good grades. I would like to congratulate you and your family on this remarkable achievement.",
+        "You asked me for my opinion regarding whether to start college immediately or to try a job first. Well I would like to suggest that you should not start colloege for now, instead of this you should try to find a job. the first reason why i am suggesting this to you is that you will have a taste of professional life and second reason is that you will have a idea whether you are capable of managing your own expenses or not.",
+        "If you ask me that what type of jobs should you consider? so, for this i can say i have known you for the past 15 years and I am very much aware of your interests, i would like to suggest that you can give library a try or you can be a content writer because you are very much fond of litterature and you always wanted to write. Even though, you can start college right now but in my opinion it is not the best idea because kids of your age cannot decide which field they should choose, so take this as an opportunity to focus on your passion, get a job, and decide what exactly you want to become.",
+        "Yours faithfully,"
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "Well I",
+                "start_idx": 343,
+                "end_idx": 349,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Well, I"
+                ]
+            },
+            {
+                "word": "colloege",
+                "start_idx": 398,
+                "end_idx": 406,
+                "error": "the body of faculty and students of a college",
+                "error_des": "",
+                "suggetions": [
+                    "college"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 462,
+                "end_idx": 465,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "The"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 483,
+                "end_idx": 484,
+                "error": "refers to the speaker or writer",
+                "error_des": "",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "second reason",
+                "start_idx": 566,
+                "end_idx": 579,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the second reason"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 602,
+                "end_idx": 603,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an"
+                ]
+            },
+            {
+                "word": "so",
+                "start_idx": 729,
+                "end_idx": 731,
+                "error": "to a very great extent or degree",
+                "error_des": "",
+                "suggetions": [
+                    "So"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 742,
+                "end_idx": 743,
+                "error": "refers to the speaker or writer",
+                "error_des": "",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 752,
+                "end_idx": 753,
+                "error": "refers to the speaker or writer",
+                "error_des": "",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 835,
+                "end_idx": 836,
+                "error": "refers to the speaker or writer",
+                "error_des": "",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "library",
+                "start_idx": 877,
+                "end_idx": 884,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the library"
+                ]
+            },
+            {
+                "word": "litterature",
+                "start_idx": 956,
+                "end_idx": 967,
+                "error": "creative writing of recognized artistic value",
+                "error_des": "",
+                "suggetions": [
+                    "literature"
+                ]
+            },
+            {
+                "word": "now but",
+                "start_idx": 1041,
+                "end_idx": 1048,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "now, but"
+                ]
+            },
+            {
+                "word": "opinion it",
+                "start_idx": 1055,
+                "end_idx": 1065,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "opinion, it"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 252,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "first",
+            "last",
+            "instead",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2020-02-12T17:47:11.490Z"
+}

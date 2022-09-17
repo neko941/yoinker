@@ -1,0 +1,93 @@
+{
+    "url": "https://writing9.com/text/62da85b88ee1ab00180e3a99-work-is-being-done-on-street-where-you-live-the",
+    "file": [
+        "data",
+        "8",
+        "62da85b88ee1ab00180e3a99.json"
+    ],
+    "topics": [
+        "work",
+        "street",
+        "noise",
+        "complaint",
+        "council"
+    ],
+    "question": "Work is being done on street where you live .the noise is disturbing you.write a letter of complaint to local council .in your letter \nIntroduce yourself\nExplain what the problem is\nSuggest solution to the problem",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear sir,",
+        "I am writing to draw your attention to the disturbance caused by the ongoing road repair work in our locality. My name is Will Smith and I am a resident of Hillsborough Street on the Lake Tahoe. I have been living in this area for the last ten years.",
+        "For the past few days, a lot of road repair work has been going on here and it sometimes extends late into the night. The noise from the heavy machines is causing inconvenience to me as well as to other residents in the neighborhood, and as a result, we are unable to sleep at night. Moreover, there are students living in the area who are unable to study as they have their exams coming up.",
+        "I would like to suggest that you employ additional workers to speed up the repair process and strictly confine the work to daytime as most of the residents and students are in their offices and schools. I hope the issue will be resolved soon.",
+        "Yours faithfully,",
+        "Sourabh Grover"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "the ",
+                "start_idx": 188,
+                "end_idx": 192,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "neighborhood",
+                "start_idx": 480,
+                "end_idx": 492,
+                "error": "Change the spelling",
+                "error_des": "The spelling of neighborhood is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "neighbourhood"
+                ]
+            }
+        ]
+    },
+    "submitter": "sourabhgr1",
+    "num_words": 174,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "moreover",
+            "last",
+            "as a result",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-07-22T11:10:50.166Z"
+}

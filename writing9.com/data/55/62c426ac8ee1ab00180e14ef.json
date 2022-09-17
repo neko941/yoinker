@@ -1,0 +1,198 @@
+{
+    "url": "https://writing9.com/text/62c426ac8ee1ab00180e14ef-many-people-believe-money-is-a-very-important-factor-for",
+    "file": [
+        "data",
+        "55",
+        "62c426ac8ee1ab00180e14ef.json"
+    ],
+    "topics": [
+        "people",
+        "money",
+        "factor",
+        "hapiness"
+    ],
+    "question": "Many people believe money is a very important factor for achieving hapiness.Others, however believe that money has nothing to do with hapiness.Discuss both views.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There has always been a discussion about whether money is the solution to all problems. While some people believe that being financially sound is the only way to solve all their problems. While others believe  that money does not solve all their problems. According to the things in life such as having a loving family, and good health are equally important to be happy. In the section below, I will try to discuss  whether  wealth really brings happiness to one's life.",
+        "Firstly, It is clear in order to survive in this world an individual needs money. But the question arises how much is too much?. For instance, We keep reading in newspapers that a rich celebrity has committed suicide. Most of the time the reason given will be depression.  Hence it is clear that wealth does not buy love, friendship or family members.",
+        "Secondly, most   people get involved in a rat race to earn more money. In this ,process they neglect their health by having junk food and  not proper exercise. For instance, I can completely relate this to my life. I started my career as a Junior Software Developer where I earned less salary.  To increase my pay I started working late nights and developed unhealthy habits. After a year I was a Senior associate, but this came at a heavy price. I did a random blood test and i was diagnosed with Type 2 Diabetes. I then understood that money can be made but the health which was lost cannot be earned back.",
+        "Finally, As discussed above Money can be made and lost but the relations we have with people and the love from our loved ones is very much required to have a happy life. Another point is that the biggest invest one can make is having a good health. Because if we can't drive a car we can hire a driver but we cannot hire someone to take our illness."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "process",
+                "start_idx": 903,
+                "end_idx": 910,
+                "error": "Add an article",
+                "error_des": "The noun phrase process seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a process",
+                    "the process"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 1299,
+                "end_idx": 1300,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 1557,
+                "end_idx": 1559,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb is does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "invest",
+                "start_idx": 1635,
+                "end_idx": 1641,
+                "error": "Replace the word",
+                "error_des": "The word invest doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "investment"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 1665,
+                "end_idx": 1667,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun health in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "nagasaichaitanya",
+    "num_words": 324,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "secondly",
+            "such",
+            "then",
+            "hence",
+            "firstly",
+            "finally",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 329,
+                        "end_idx": 335
+                    },
+                    {
+                        "start_idx": 930,
+                        "end_idx": 936
+                    },
+                    {
+                        "start_idx": 1183,
+                        "end_idx": 1189
+                    },
+                    {
+                        "start_idx": 1387,
+                        "end_idx": 1393
+                    },
+                    {
+                        "start_idx": 1673,
+                        "end_idx": 1679
+                    }
+                ]
+            },
+            {
+                "word": "money",
+                "occurrences": [
+                    {
+                        "start_idx": 49,
+                        "end_idx": 54
+                    },
+                    {
+                        "start_idx": 215,
+                        "end_idx": 220
+                    },
+                    {
+                        "start_idx": 546,
+                        "end_idx": 551
+                    },
+                    {
+                        "start_idx": 887,
+                        "end_idx": 892
+                    },
+                    {
+                        "start_idx": 1361,
+                        "end_idx": 1366
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 283,
+                        "end_idx": 287
+                    },
+                    {
+                        "start_idx": 465,
+                        "end_idx": 469
+                    },
+                    {
+                        "start_idx": 1032,
+                        "end_idx": 1036
+                    },
+                    {
+                        "start_idx": 1596,
+                        "end_idx": 1600
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-05T11:57:18.013Z"
+}

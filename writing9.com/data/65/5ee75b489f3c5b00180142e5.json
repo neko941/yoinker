@@ -1,0 +1,126 @@
+{
+    "url": "https://writing9.com/text/5ee75b489f3c5b00180142e5",
+    "file": [
+        "data",
+        "65",
+        "5ee75b489f3c5b00180142e5.json"
+    ],
+    "topics": [
+        "people",
+        "children",
+        "parents"
+    ],
+    "question": "Some people believe that the whole family bringing up children is better than only parents. What is your opinion?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is believed by the segment of the masses that children who are brought up in joint families are better than the one in the nuclear families. In the joint family culture, children get the warmth and affection of their grandparents and along with that there is always someone to give attention to them. However, in elementary family setup, the children are deprived of the grandparent\u2019s love also, they feel lonely at times and the habit of sharing is also not inculcated in them. Hence, I agree with the given stance that children should be brought up in a combined family.",
+        "To begin with, nowadays, to provide children with a good life, both the parents are working so, children who are born in a family that is full of different relations are lucky, as they have ample people to look after them. For instance, even if the parents are not around, that will not bother the children because they are always surrounded by different people. Furthermore, the close-knit family will love them as their own. So, children brought up in a family full of different relations will turn out to be loving, caring and content throughout their life.",
+        "Conversely, if a child is born in a family that consists of only parents, will eventually feel deprived and depressed when he will see other children enjoying with their grandparents. Hence, he will feel lonely when the parents are at work. For example, during the novel coronavirus pandemic, everyone is confined to their homes, parents are working from home and juvenile usually surf the internet or watch cartoons, after some time they get bored and irritated and feel lonely.",
+        "In my opinion, children should be brought up in a family full of different relations, as children will learn how to adjust in every situation and bear the mood swings of other people. That will be beneficial for them later in their life. Also, the habit of sharing will be developed in them.",
+        "To conclude, children will lead a satisfied life, if they are raised in the hands of aunts, uncles and grandparents. They will be full of life and turn out to be happy human beings. On the other hand, if they will be brought up by the parents only, they will feel lonely later on in life."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "coronavirus",
+                "start_idx": 1407,
+                "end_idx": 1418,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "juvenile usually surf",
+                "start_idx": 1500,
+                "end_idx": 1521,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "juvenile, usually surfs",
+                    "juvenile usually surfs"
+                ]
+            }
+        ]
+    },
+    "submitter": "Ayesha Wajhi",
+    "num_words": 386,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "on the other hand",
+            "for example",
+            "hence",
+            "to begin",
+            "for instance",
+            "conversely",
+            "that is",
+            "also",
+            "however",
+            "furthermore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 633,
+                        "end_idx": 637
+                    },
+                    {
+                        "start_idx": 1131,
+                        "end_idx": 1135
+                    },
+                    {
+                        "start_idx": 1849,
+                        "end_idx": 1853
+                    },
+                    {
+                        "start_idx": 1953,
+                        "end_idx": 1957
+                    },
+                    {
+                        "start_idx": 2047,
+                        "end_idx": 2051
+                    },
+                    {
+                        "start_idx": 2192,
+                        "end_idx": 2196
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-06-15T11:28:10.808Z"
+}

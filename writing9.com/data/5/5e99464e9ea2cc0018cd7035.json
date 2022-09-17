@@ -1,0 +1,292 @@
+{
+    "url": "https://writing9.com/text/5e99464e9ea2cc0018cd7035",
+    "file": [
+        "data",
+        "5",
+        "5e99464e9ea2cc0018cd7035.json"
+    ],
+    "topics": [
+        "minutes",
+        "topic",
+        "countries",
+        "concerns",
+        "lifestyles",
+        "people",
+        "health",
+        "answers"
+    ],
+    "question": "You should spend about 40 minutes on this task.Write about the following topic:\"In many countries today, there are concerns about the unhealthy lifestyles that people lead. What health issues are linked to modern lifestyles? What answers to these problems can you suggest?\"Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There  is  no  doubt  that  daily  lifestyles  can  affect  either  physical  or  mental  health  problems. The  people  know  the  ways  of  being  healthy  lifestyles  however  there  is  rarely  people  achieve.  In  fact, there  is much health  issues  leading  to  unhealthy  lifestyles  the  people  dismiss .",
+        "People  enjoy  diverse  range  of  food such  as  convenience  food  and  street  food. People  busy  seldom  all  day  to  prepare  meals  for   family  in  socio economic. Furthermore, a  several  range  of  food  with  varying  taste  attracts  for  food  lovers. Eating  shows  from  various  countries  are  one  of  the  popular  trends  in  recent  years. That  is  a  way  to  try  the  taste  of  diverse  convenience  food  for  food  lovers. As  a  result, above  these  eating  habits  lead  to  obesity  that  can  cause  health  problems  likely  to  diabetes  and  health  diseases. On  the  other  hand, lack  of  doing  exercise  is  one  of  the  reasons  for  physical  health  issues. People  usually  work  all  day  long  even  though  they  forget  to  do  physical  exercise  for  physical  health.",
+        "Another  factor  to  consider  is  mental  health  problems  called  psychological  illness. Owing  to  internet  age  today ,  the  people  surf  the  net  daily  for  various  kinds  of  matters. According  to  experts, the  social  media  users  are  less  emotional  satisfying  themselves. For  this  reason, this  emotion  make  leaving  them  feeling  socially  isolated  that  is  a  kind  of  depression  called  mental  illness. Especially, some  suicide  cases  are  obvious  due  to  cyber  bullying  on  social  media. Hence, although  surfing  the  net  supports  the  people  lifestyle, this  will  be  also  a  kind  of  unhealthy  lifestyle  if  the  people  addict  too  much.",
+        "In  brief, there  could  be  many  things  the  people  dismiss  to  care  for  health. It  is  not  possible  to  follow  all  the  healthy  tips  the  people  know. All  the  factors  mentioned  above  are  also  linking  with  modern  lifestyles. In  my point  of  view, there  will  be  more  easier  being  unhealthy  lifestyles  provided  there  is  more  modernized."
+    ],
+    "errors": {
+        "num_error": "12",
+        "error_list": [
+            {
+                "word": "lifestyles  ",
+                "start_idx": 156,
+                "end_idx": 168,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "lifestyles, however"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 184,
+                "end_idx": 186,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are",
+                    "have been"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 231,
+                "end_idx": 233,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "much",
+                "start_idx": 235,
+                "end_idx": 239,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "many"
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 313,
+                "end_idx": 315,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            },
+            {
+                "word": "diverse  range",
+                "start_idx": 329,
+                "end_idx": 343,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a diverse range",
+                    "the diverse range"
+                ]
+            },
+            {
+                "word": "socio",
+                "start_idx": 472,
+                "end_idx": 477,
+                "error": "relating to human society and its members",
+                "error_des": "",
+                "suggetions": [
+                    "social"
+                ]
+            },
+            {
+                "word": "lack",
+                "start_idx": 935,
+                "end_idx": 939,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the lack"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 1263,
+                "end_idx": 1265,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "matters",
+                "start_idx": 1326,
+                "end_idx": 1333,
+                "error": "the tangible substance that goes into the makeup of a physical object",
+                "error_des": "",
+                "suggetions": [
+                    "materials"
+                ]
+            },
+            {
+                "word": "make",
+                "start_idx": 1466,
+                "end_idx": 1470,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "makes"
+                ]
+            },
+            {
+                "word": "people",
+                "start_idx": 1720,
+                "end_idx": 1726,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "person's",
+                    "peoples'"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 321,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "also",
+            "such",
+            "furthermore",
+            "although",
+            "hence",
+            "however",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 90,
+                        "end_idx": 96
+                    },
+                    {
+                        "start_idx": 149,
+                        "end_idx": 155
+                    },
+                    {
+                        "start_idx": 241,
+                        "end_idx": 247
+                    },
+                    {
+                        "start_idx": 272,
+                        "end_idx": 278
+                    },
+                    {
+                        "start_idx": 851,
+                        "end_idx": 857
+                    },
+                    {
+                        "start_idx": 896,
+                        "end_idx": 902
+                    },
+                    {
+                        "start_idx": 1005,
+                        "end_idx": 1011
+                    },
+                    {
+                        "start_idx": 1131,
+                        "end_idx": 1137
+                    },
+                    {
+                        "start_idx": 1182,
+                        "end_idx": 1188
+                    },
+                    {
+                        "start_idx": 1778,
+                        "end_idx": 1784
+                    },
+                    {
+                        "start_idx": 1914,
+                        "end_idx": 1920
+                    },
+                    {
+                        "start_idx": 1967,
+                        "end_idx": 1973
+                    },
+                    {
+                        "start_idx": 2148,
+                        "end_idx": 2154
+                    }
+                ]
+            },
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 351,
+                        "end_idx": 355
+                    },
+                    {
+                        "start_idx": 379,
+                        "end_idx": 383
+                    },
+                    {
+                        "start_idx": 398,
+                        "end_idx": 402
+                    },
+                    {
+                        "start_idx": 526,
+                        "end_idx": 530
+                    },
+                    {
+                        "start_idx": 569,
+                        "end_idx": 573
+                    },
+                    {
+                        "start_idx": 744,
+                        "end_idx": 748
+                    },
+                    {
+                        "start_idx": 755,
+                        "end_idx": 759
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-04-17T06:01:50.019Z"
+}

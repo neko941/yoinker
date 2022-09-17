@@ -1,0 +1,148 @@
+{
+    "url": "https://writing9.com/text/5e902ad6fe05da001899b120-you-recently-organized-an-all-day-meeting-for-your-company-which",
+    "file": [
+        "data",
+        "8",
+        "5e902ad6fe05da001899b120.json"
+    ],
+    "topics": [
+        "company",
+        "place",
+        "hotel",
+        "feedback",
+        "participants",
+        "food",
+        "lunch",
+        "manager",
+        "future"
+    ],
+    "question": "You recently organized an all-day meeting for your company, which took place in a local hotel. In their feedback, participants at the meeting said that they liked the hotel, but they were unhappy about the food that was served for lunch.\nWrite a letter to the manager of the hotel.\nIn your letter:\n\n\n\u2022 say what the participants liked about the hotel\n\u2022 explain why they were unhappy about the food\nsuggest what the manager should do to improve the food in future",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "I would like to thank you for your great support for hosting a corporate meeting for our organization at your hotel last week. \u201cEurostars Toledo\u201d hotel has enjoyed some great reputation over the years because of its great service, and this time it was no exception except for that the food quality, which, according to our participants,\u00a0 was not exactly what they expected.",
+        "I must mention that we liked pretty much everything about the hotel, including its hygiene and cleanliness, great customer service, large lounge area and high-speed internet service. We also liked the fact that the conference hall of your hotel, where we organized an all-day-meeting without any trouble, was very spacious and comfortable with all kinds of modern facilities and amenities.",
+        "However, when it came to the food that we were served, I am afraid I cannot say the same, and some of our participants complained about it. Some of your items were not properly cooked. In fact, I felt like the food was cooked by some amateur chef. Besides, the \u201cCroquetas de Jamon\u201d, you served, tasted like it was heated in the microwave, and as a result, it tasted very stale. Anyway, without getting into any further details, I would like to ask you to tell your chefs to be a bit more careful about the food they serve to your valuable customers.",
+        "I am hoping that the food quality will improve in future. Wishing you a great day.",
+        "Yours faithfully,",
+        "Roger Rodriguez"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "for",
+                "start_idx": 67,
+                "end_idx": 70,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "all-day-meeting",
+                "start_idx": 660,
+                "end_idx": 675,
+                "error": "Correct your spelling",
+                "error_des": "The word all-day-meeting doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "all-day meeting"
+                ]
+            }
+        ]
+    },
+    "submitter": "abolfazli.amir",
+    "num_words": 250,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "further",
+            "also",
+            "as a result",
+            "besides",
+            "however",
+            "last",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 304,
+                        "end_idx": 308
+                    },
+                    {
+                        "start_idx": 812,
+                        "end_idx": 816
+                    },
+                    {
+                        "start_idx": 993,
+                        "end_idx": 997
+                    },
+                    {
+                        "start_idx": 1289,
+                        "end_idx": 1293
+                    },
+                    {
+                        "start_idx": 1354,
+                        "end_idx": 1358
+                    }
+                ]
+            },
+            {
+                "word": "hotel",
+                "occurrences": [
+                    {
+                        "start_idx": 129,
+                        "end_idx": 134
+                    },
+                    {
+                        "start_idx": 165,
+                        "end_idx": 170
+                    },
+                    {
+                        "start_idx": 455,
+                        "end_idx": 460
+                    },
+                    {
+                        "start_idx": 632,
+                        "end_idx": 637
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-14T07:20:40.168Z"
+}

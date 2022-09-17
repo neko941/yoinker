@@ -1,0 +1,329 @@
+{
+    "url": "https://writing9.com/text/630ff59caee9de00187604d9-nowadays-more-people-are-choosing-to-socialize-online-rather-than",
+    "file": [
+        "data",
+        "45",
+        "630ff59caee9de00187604d9.json"
+    ],
+    "topics": [
+        "people",
+        "face",
+        "development"
+    ],
+    "question": "Nowadays, more people are choosing to socialize online rather than face to face. Is it a positive or negative development?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that socializing online is the most popular way of communication these days, and the number of people who prefer to go out and talk in person is decreasing dramatically. In my opinion, this is definitely a negative trend which can easily lead to different problems like isolation, depression, sometimes even suicides.",
+        "The main drawback that can arise from people socializing online is that it can lead to isolation. Before the Internet, people went out way more than nowadays, they met each other in cafes, bars or various restaurants to share that cheerful, relax ambient, now they prefer to stay at home, to order food and while watching Netflix they chat with somebody in WhatsApp, telegram or snapchat. To my mind this kind of isolation is not healthy and can create depression, lead to self-hate, sever anxiety and in some cases even make people to commit suicide. It happens because one of the greatest human\u2019s fear, that is pretty difficult to handle is being lonely.",
+        "Another issue is that meeting people online can be risky. You never know who you are chatting with. There are many famous cases when prisons use dating sites for example to meet single ladies, trying to involve them into different criminal actions.  All these types of situations lead to dangerous things. In addition, as this interaction is online, parents have no way of monitoring It and protecting their children.",
+        "Finally, youngsters, teenagers sometimes have to handle difficulties later in their life as some misleading conversations or provocative photos can easily reappear. Young people should be very careful with what they are posting online.  As they say: \u201cwhat is put online can remain there forever\u201d and anyone who wants to do some damage to your personal life or career can use those pictures just to discredit you.",
+        "On the other hand, there are some positive things about it. For instance, if people live far away from their families, in other countries, they can always stay in touch with their beloved ones. They can make videocalls and be \u201cpresent\u201d on some important events like birthdays, anniversary, graduation or even a child birth, which is really great!",
+        "In conclusion, although it has become incredibly popular to socialize through internet, it has brought too many problems to a mankind to be considered as a positive trend."
+    ],
+    "errors": {
+        "num_error": "22",
+        "error_list": [
+            {
+                "word": "sometimes",
+                "start_idx": 303,
+                "end_idx": 312,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and sometimes"
+                ]
+            },
+            {
+                "word": "suicides",
+                "start_idx": 318,
+                "end_idx": 326,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that suicides may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "suicide"
+                ]
+            },
+            {
+                "word": "relax",
+                "start_idx": 569,
+                "end_idx": 574,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb relax. Consider changing it.",
+                "suggetions": [
+                    "relaxed"
+                ]
+            },
+            {
+                "word": "snapchat",
+                "start_idx": 707,
+                "end_idx": 715,
+                "error": "Change the capitalization",
+                "error_des": "If you do not want snapchat to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "Snapchat"
+                ]
+            },
+            {
+                "word": "mind",
+                "start_idx": 723,
+                "end_idx": 727,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase To my mind. Consider adding a comma.",
+                "suggetions": [
+                    ",mind"
+                ]
+            },
+            {
+                "word": "sever",
+                "start_idx": 812,
+                "end_idx": 817,
+                "error": "Correct your spelling",
+                "error_des": "The word sever doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "severe"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 861,
+                "end_idx": 864,
+                "error": "Change the verb form",
+                "error_des": "It appears that the verb to commit should be in the bare infinitive form. Consider removing to from in front of this verb.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "human\u2019s",
+                "start_idx": 919,
+                "end_idx": 926,
+                "error": "Change noun form",
+                "error_des": "It seems that this noun form may be incorrect.",
+                "suggetions": [
+                    "human"
+                ]
+            },
+            {
+                "word": "that",
+                "start_idx": 933,
+                "end_idx": 937,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "which"
+                ]
+            },
+            {
+                "word": "who",
+                "start_idx": 1058,
+                "end_idx": 1061,
+                "error": "Change the pronoun",
+                "error_des": "It appears that the pronoun who may be used incorrectly. Consider changing it.",
+                "suggetions": [
+                    "whom"
+                ]
+            },
+            {
+                "word": "into",
+                "start_idx": 1201,
+                "end_idx": 1205,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "teenagers",
+                "start_idx": 1424,
+                "end_idx": 1433,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and teenagers"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 2024,
+                "end_idx": 2024,
+                "error": "Correct your spelling",
+                "error_des": "The word videocalls doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "video calls"
+                ]
+            },
+            {
+                "word": "videocalls",
+                "start_idx": 2024,
+                "end_idx": 2034,
+                "error": "Correct your spelling",
+                "error_des": "The word videocalls doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "video calls"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 2052,
+                "end_idx": 2054,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "anniversary",
+                "start_idx": 2093,
+                "end_idx": 2104,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that anniversary may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "anniversaries"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 2125,
+                "end_idx": 2127,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun birth in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 2127,
+                "end_idx": 2127,
+                "error": "Change noun form",
+                "error_des": "It seems that this noun form may be incorrect.",
+                "suggetions": [
+                    "child's"
+                ]
+            },
+            {
+                "word": "child birth",
+                "start_idx": 2127,
+                "end_idx": 2138,
+                "error": "Correct your spelling",
+                "error_des": "The word child birth seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "childbirth"
+                ]
+            },
+            {
+                "word": "internet",
+                "start_idx": 2241,
+                "end_idx": 2249,
+                "error": "Add an article",
+                "error_des": "The noun phrase internet seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the internet"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 2287,
+                "end_idx": 2289,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun mankind in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "as ",
+                "start_idx": 2314,
+                "end_idx": 2317,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "riveraeka55",
+    "num_words": 389,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "although",
+            "in addition",
+            "finally",
+            "on the other hand",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 106,
+                        "end_idx": 112
+                    },
+                    {
+                        "start_idx": 367,
+                        "end_idx": 373
+                    },
+                    {
+                        "start_idx": 448,
+                        "end_idx": 454
+                    },
+                    {
+                        "start_idx": 855,
+                        "end_idx": 861
+                    },
+                    {
+                        "start_idx": 1016,
+                        "end_idx": 1022
+                    },
+                    {
+                        "start_idx": 1575,
+                        "end_idx": 1581
+                    },
+                    {
+                        "start_idx": 1894,
+                        "end_idx": 1900
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-31T23:58:22.624Z"
+}

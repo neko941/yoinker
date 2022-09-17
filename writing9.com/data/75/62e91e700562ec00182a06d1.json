@@ -1,0 +1,137 @@
+{
+    "url": "https://writing9.com/text/62e91e700562ec00182a06d1-task-1-every-year-your-company-organizes-a-sports-event-for-a",
+    "file": [
+        "data",
+        "75",
+        "62e91e700562ec00182a06d1.json"
+    ],
+    "topics": [
+        "task-",
+        "year",
+        "company",
+        "sports",
+        "event",
+        "community",
+        "can\u2019t",
+        "newspaper",
+        "\u2013",
+        "feelings",
+        "plans"
+    ],
+    "question": "TASK-1\nEvery year your company organizes a sports event for a local community, but this year they can\u2019t do it. Write a letter to your local newspaper about this. In your letter\n \u2013 Express your feelings about missing the sports event\n \u2013 Tell them about your plans for next year \n\u2013 Explain how this sports event is useful.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir,",
+        "I am writing this letter to express my discomfort as we, The United India, will not be hosting our annual sporting event called \"The CWG\" because of financial stress.",
+        "To begin with, our company has incurred a few heavy losses in this fiscal year. I believe, two of our major contracts with one of our biggest clients went off the hill and it still poses a lot of complexities, especially financial, in hosting this year's event. In the wake of this, I am really disturbed to this day as this event adds a plethora of value addition to our community, particularly teenagers.",
+        "Furthermore, we are certain that we will bounce back next year with great enthusiasm as before. I believe a new committee has already been set up, ensuring that our budget for the next year not be affected regardless of our financial position.",
+        "As you already know, this event is a great medium for college-going students to seek scholarships from the leading universities of our country if they are exceptionally talented at sports. For the next year, we are trying to bring in some of the prestigious international universities as well.",
+        "Warm regards,",
+        "Utsav Chandel"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "The ",
+                "start_idx": 66,
+                "end_idx": 70,
+                "error": "Correct article usage",
+                "error_des": "Your article usage with the geographic name India may be incorrect.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "utsavchandel26sep",
+    "num_words": 198,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "to begin",
+            "next",
+            "furthermore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "year",
+                "occurrences": [
+                    {
+                        "start_idx": 251,
+                        "end_idx": 255
+                    },
+                    {
+                        "start_idx": 425,
+                        "end_idx": 429
+                    },
+                    {
+                        "start_idx": 642,
+                        "end_idx": 646
+                    },
+                    {
+                        "start_idx": 769,
+                        "end_idx": 773
+                    },
+                    {
+                        "start_idx": 1030,
+                        "end_idx": 1034
+                    }
+                ]
+            },
+            {
+                "word": "event",
+                "occurrences": [
+                    {
+                        "start_idx": 125,
+                        "end_idx": 130
+                    },
+                    {
+                        "start_idx": 432,
+                        "end_idx": 437
+                    },
+                    {
+                        "start_idx": 502,
+                        "end_idx": 507
+                    },
+                    {
+                        "start_idx": 854,
+                        "end_idx": 859
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-02T15:54:54.525Z"
+}

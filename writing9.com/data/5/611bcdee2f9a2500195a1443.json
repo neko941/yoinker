@@ -1,0 +1,333 @@
+{
+    "url": "https://writing9.com/text/611bcdee2f9a2500195a1443-some-people-say-history-is-one-of-the-most-important",
+    "file": [
+        "data",
+        "5",
+        "611bcdee2f9a2500195a1443.json"
+    ],
+    "topics": [
+        "people",
+        "history",
+        "school",
+        "subjects",
+        "world",
+        "science",
+        "technology"
+    ],
+    "question": "Some people say History is one of the most important school subjects. Other people think that, in today's world, subjects like Science and Technology are more important than History.\n\nDiscuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is believed that knowledge about History is no longer relevant at the present time, only Science and Technology skills is required in workforce. Some people agree with such statement and some do not. Those who believes subjects concerning Science and Technology are more important is because of job opportunities and innovation. On the other hand, those who thinks that History is the most important thinks so due to humanity aspect.",
+        "In my opinion, there are two significants reasons why many prioritize Science and Technology lessens. The first reason is that this area of knowledge is in demand. Jobs which require humanity degree are few these days. Another reason is the purpose of innovation. As this is the age of technology, softwares and data are essential to people these days. Thus, in order to improve the existing programs, there is the need for Science and Technology education to develop new ideas and products.",
+        "However, I also believe that History is as cruicial as aforementioned subjects because it is the basic of other subjects in humanity field such as politics, languages and social science.  People study past events with the aim to understand serveral aspects of human in the modern world. For instance, World Wars teach individuals that war is not the solution and then people came up with treaties preventing wars from happening again. From my point of view, studying History also develop human life in other aspects than in technological aspect.",
+        "In conclusion, the education about History and Science and Technology are necessary for humankind. For lessons regarding Science and Technology, they are important for improving existing   innovation. For History, people have to know about it as to not perform the same mistake in the future."
+    ],
+    "errors": {
+        "num_error": "21",
+        "error_list": [
+            {
+                "word": "is",
+                "start_idx": 121,
+                "end_idx": 123,
+                "error": "Change the verb form",
+                "error_des": "The singular verb is does not appear to agree with the plural subject skills. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "workforce",
+                "start_idx": 136,
+                "end_idx": 145,
+                "error": "Add an article",
+                "error_des": "The noun phrase workforce seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the workforce"
+                ]
+            },
+            {
+                "word": "statement",
+                "start_idx": 175,
+                "end_idx": 184,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "a statement"
+                ]
+            },
+            {
+                "word": "believes",
+                "start_idx": 212,
+                "end_idx": 220,
+                "error": "Change the verb form",
+                "error_des": "The verb believes does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "believe"
+                ]
+            },
+            {
+                "word": "thinks",
+                "start_idx": 360,
+                "end_idx": 366,
+                "error": "Change the verb form",
+                "error_des": "The verb thinks does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "think"
+                ]
+            },
+            {
+                "word": "humanity",
+                "start_idx": 419,
+                "end_idx": 427,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "the humanity"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 465,
+                "end_idx": 465,
+                "error": "Replace the word",
+                "error_des": "The word significants doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "significant"
+                ]
+            },
+            {
+                "word": "significants",
+                "start_idx": 465,
+                "end_idx": 477,
+                "error": "Correct your spelling",
+                "error_des": "The word significants doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "significant"
+                ]
+            },
+            {
+                "word": "lessens",
+                "start_idx": 529,
+                "end_idx": 536,
+                "error": "Correct your spelling",
+                "error_des": "The word lessens doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "lessons"
+                ]
+            },
+            {
+                "word": "which",
+                "start_idx": 605,
+                "end_idx": 610,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "that"
+                ]
+            },
+            {
+                "word": "humanity",
+                "start_idx": 619,
+                "end_idx": 627,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "a humanity"
+                ]
+            },
+            {
+                "word": "softwares",
+                "start_idx": 734,
+                "end_idx": 743,
+                "error": "Correct your spelling",
+                "error_des": "The word softwares is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "software"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 847,
+                "end_idx": 850,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "cruicial",
+                "start_idx": 971,
+                "end_idx": 979,
+                "error": "Correct your spelling",
+                "error_des": "The word cruicial is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "crucial"
+                ]
+            },
+            {
+                "word": "aforementioned",
+                "start_idx": 983,
+                "end_idx": 997,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "the aforementioned"
+                ]
+            },
+            {
+                "word": "basic",
+                "start_idx": 1025,
+                "end_idx": 1030,
+                "error": "Replace the word",
+                "error_des": "The word basic doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "basis"
+                ]
+            },
+            {
+                "word": "serveral",
+                "start_idx": 1168,
+                "end_idx": 1176,
+                "error": "Correct your spelling",
+                "error_des": "The word serveral is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "several"
+                ]
+            },
+            {
+                "word": "human",
+                "start_idx": 1188,
+                "end_idx": 1193,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that human may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "humans"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1489,
+                "end_idx": 1493,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "about",
+                "start_idx": 1503,
+                "end_idx": 1508,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 1544,
+                "end_idx": 1547,
+                "error": "Change the verb form",
+                "error_des": "The verb are does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "is"
+                ]
+            }
+        ]
+    },
+    "submitter": "israsantipgs",
+    "num_words": 287,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "thus",
+            "also",
+            "such",
+            "first",
+            "then",
+            "however",
+            "on the other hand",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "technology",
+                "occurrences": [
+                    {
+                        "start_idx": 723,
+                        "end_idx": 733
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 153,
+                        "end_idx": 159
+                    },
+                    {
+                        "start_idx": 771,
+                        "end_idx": 777
+                    },
+                    {
+                        "start_idx": 1297,
+                        "end_idx": 1303
+                    },
+                    {
+                        "start_idx": 1689,
+                        "end_idx": 1695
+                    }
+                ]
+            },
+            {
+                "word": "history",
+                "occurrences": []
+            },
+            {
+                "word": "science",
+                "occurrences": [
+                    {
+                        "start_idx": 1107,
+                        "end_idx": 1114
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-08-17T14:55:44.871Z"
+}

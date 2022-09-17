@@ -1,0 +1,379 @@
+{
+    "url": "https://writing9.com/text/5e5539fc8cc5fd0018beee03",
+    "file": [
+        "data",
+        "4",
+        "5e5539fc8cc5fd0018beee03.json"
+    ],
+    "topics": [
+        "people",
+        "government",
+        "money",
+        "arts"
+    ],
+    "question": "Some people think that the government is wasting money on the arts and that this money could be better spent elsewhere.\n\n\nTo what extent do you agree with this view?",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Few people believe that the government spends more money on art an artists than giving funds to the public services such as education, health, safety and so on. I agree that public services need more funding but not at the cost of the art, which are still very important.",
+        "To begin with health care should be available to everyone for free. Public health care is paid by the government utilizing the money from taxes for anyone to access to the quality of care and treatment, whereas private health care is inequitable because only wealthy people can afford it. One clear example is The National Health Service in the United Kingdom provides free healthcare for every resident.",
+        "Apart from healthcare education , a moot issue everywhere, is undergoing tremandous changes to meet new challenges. In today's age, it is necessary for each and every person to lead a healthy life. Government should not neglect this sector and allow more capital in the evolution and advancement education system. Private schools and colleges are incresing their fees day by day, so government should promote build more education institutions.",
+        "There are also reasons why government should spend money on art. One of the prominent reason is the art reflects the culture of a country and promotes people's understanding toward their culture and architecture. Secondly people from outside the country comes to see the historical building and by maintening it's artistic lagecy of a country and can encourage tourists to visit again and again. This practice increase the tourism which eventually boost the economy of a country. Without governent funding many art forms will die down and that will be a huge lose for the country."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "artists",
+                "start_idx": 66,
+                "end_idx": 73,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "artist"
+                ]
+            },
+            {
+                "word": "funding but",
+                "start_idx": 199,
+                "end_idx": 210,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "funding, but"
+                ]
+            },
+            {
+                "word": "healthcare",
+                "start_idx": 645,
+                "end_idx": 655,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "health care"
+                ]
+            },
+            {
+                "word": "healthcare ",
+                "start_idx": 687,
+                "end_idx": 698,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "healthcare, education"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 708,
+                "end_idx": 710,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "tremandous",
+                "start_idx": 749,
+                "end_idx": 759,
+                "error": "extraordinarily large in size or extent or amount or power or degree",
+                "error_des": "",
+                "suggetions": [
+                    "tremendous"
+                ]
+            },
+            {
+                "word": "incresing",
+                "start_idx": 1023,
+                "end_idx": 1032,
+                "error": "becoming greater or larger",
+                "error_des": "",
+                "suggetions": [
+                    "increasing"
+                ]
+            },
+            {
+                "word": "government",
+                "start_idx": 1147,
+                "end_idx": 1157,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the government"
+                ]
+            },
+            {
+                "word": "reason",
+                "start_idx": 1206,
+                "end_idx": 1212,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "reasons"
+                ]
+            },
+            {
+                "word": "Secondly people",
+                "start_idx": 1333,
+                "end_idx": 1348,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Secondly, people"
+                ]
+            },
+            {
+                "word": "maintening",
+                "start_idx": 1418,
+                "end_idx": 1428,
+                "error": "keep in a certain state, position, or activity; e.g., \"keep clean\"",
+                "error_des": "",
+                "suggetions": [
+                    "maintaining",
+                    "mentioning"
+                ]
+            },
+            {
+                "word": "it's",
+                "start_idx": 1429,
+                "end_idx": 1433,
+                "error": "of a thing, of it; possessive form of \"it\"",
+                "error_des": "",
+                "suggetions": [
+                    "its"
+                ]
+            },
+            {
+                "word": "lagecy",
+                "start_idx": 1443,
+                "end_idx": 1449,
+                "error": "(law) a gift of personal property by will",
+                "error_des": "",
+                "suggetions": [
+                    "legacy"
+                ]
+            },
+            {
+                "word": "governent",
+                "start_idx": 1608,
+                "end_idx": 1617,
+                "error": "the organization that is the governing authority of a political unit",
+                "error_des": "",
+                "suggetions": [
+                    "government"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 281,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "to begin",
+            "such",
+            "also",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "6",
+        "list_repeated_words": [
+            {
+                "word": "country",
+                "occurrences": [
+                    {
+                        "start_idx": 1251,
+                        "end_idx": 1258
+                    },
+                    {
+                        "start_idx": 1367,
+                        "end_idx": 1374
+                    },
+                    {
+                        "start_idx": 1456,
+                        "end_idx": 1463
+                    },
+                    {
+                        "start_idx": 1592,
+                        "end_idx": 1599
+                    },
+                    {
+                        "start_idx": 1693,
+                        "end_idx": 1700
+                    }
+                ]
+            },
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 135,
+                        "end_idx": 141
+                    },
+                    {
+                        "start_idx": 286,
+                        "end_idx": 292
+                    },
+                    {
+                        "start_idx": 347,
+                        "end_idx": 353
+                    },
+                    {
+                        "start_idx": 491,
+                        "end_idx": 497
+                    },
+                    {
+                        "start_idx": 646,
+                        "end_idx": 652
+                    },
+                    {
+                        "start_idx": 688,
+                        "end_idx": 694
+                    },
+                    {
+                        "start_idx": 861,
+                        "end_idx": 867
+                    }
+                ]
+            },
+            {
+                "word": "care",
+                "occurrences": [
+                    {
+                        "start_idx": 293,
+                        "end_idx": 297
+                    },
+                    {
+                        "start_idx": 354,
+                        "end_idx": 358
+                    },
+                    {
+                        "start_idx": 455,
+                        "end_idx": 459
+                    },
+                    {
+                        "start_idx": 498,
+                        "end_idx": 502
+                    },
+                    {
+                        "start_idx": 652,
+                        "end_idx": 656
+                    },
+                    {
+                        "start_idx": 694,
+                        "end_idx": 698
+                    }
+                ]
+            },
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 124,
+                        "end_idx": 133
+                    },
+                    {
+                        "start_idx": 699,
+                        "end_idx": 708
+                    },
+                    {
+                        "start_idx": 973,
+                        "end_idx": 982
+                    },
+                    {
+                        "start_idx": 1097,
+                        "end_idx": 1106
+                    }
+                ]
+            },
+            {
+                "word": "art",
+                "occurrences": [
+                    {
+                        "start_idx": 60,
+                        "end_idx": 63
+                    },
+                    {
+                        "start_idx": 67,
+                        "end_idx": 70
+                    },
+                    {
+                        "start_idx": 235,
+                        "end_idx": 238
+                    },
+                    {
+                        "start_idx": 679,
+                        "end_idx": 682
+                    },
+                    {
+                        "start_idx": 1181,
+                        "end_idx": 1184
+                    },
+                    {
+                        "start_idx": 1221,
+                        "end_idx": 1224
+                    },
+                    {
+                        "start_idx": 1435,
+                        "end_idx": 1438
+                    },
+                    {
+                        "start_idx": 1632,
+                        "end_idx": 1635
+                    }
+                ]
+            },
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 28,
+                        "end_idx": 38
+                    },
+                    {
+                        "start_idx": 374,
+                        "end_idx": 384
+                    },
+                    {
+                        "start_idx": 1060,
+                        "end_idx": 1070
+                    },
+                    {
+                        "start_idx": 1148,
+                        "end_idx": 1158
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-25T15:15:08.272Z"
+}

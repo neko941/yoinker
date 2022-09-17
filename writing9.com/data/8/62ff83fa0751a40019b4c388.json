@@ -1,0 +1,136 @@
+{
+    "url": "https://writing9.com/text/62ff83fa0751a40019b4c388-a-magazine-wants-to-include-contributions-from-its-readers-for",
+    "file": [
+        "data",
+        "8",
+        "62ff83fa0751a40019b4c388.json"
+    ],
+    "topics": [
+        "magazine",
+        "contributions",
+        "readers",
+        "article",
+        "book",
+        "most\u2019",
+        "editor",
+        "influence",
+        "people"
+    ],
+    "question": "A magazine wants to include contributions from its readers for an article called 'The book that influenced me most\u2019.Write a letter to the editor of the magazine about the book that influenced you most. In your letter,describe what this book was aboutexplain how this book influenced yousay whether this book would be likely to influence other people",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Madam,",
+        "I am writing this letter in response to your recent announcement that you are looking for contributions from your readers for an upcoming article titled  \"the book that influenced me most\" therefore, I would like to take this opportunity and want to share information about the one that has affected me the most.",
+        "The book is titled \"YOU CAN WIN \" written by Mr Shiv Khera. This is a storehouse of inspiration and motivation toward achieving goals and success in life; in addition, it is a tool that contains extremely effective and useful steps to follow a successful and rewarding life.",
+        "After reading It my perspective on life and everything related has entirely transformed. I managed to overcome procrastination which was the major obstacle for me toward achieving life goals. Moreover, this has helped me to lead a happy and successful life.",
+        "Without a doubt the most influential book which has done wonders for me and will definitely do for others whosoever will read it.",
+        "I hope you will take this book into consideration for your article. Looking forward to a positive reply.",
+        "Yours faithfully.",
+        "Komal Handa"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "doubt",
+                "start_idx": 867,
+                "end_idx": 872,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Without a doubt. Consider adding a comma.",
+                "suggetions": [
+                    ",doubt"
+                ]
+            }
+        ]
+    },
+    "submitter": "komalhanda1990",
+    "num_words": 189,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "in addition",
+            "therefore",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "book",
+                "occurrences": [
+                    {
+                        "start_idx": 171,
+                        "end_idx": 175
+                    },
+                    {
+                        "start_idx": 329,
+                        "end_idx": 333
+                    },
+                    {
+                        "start_idx": 895,
+                        "end_idx": 899
+                    },
+                    {
+                        "start_idx": 1014,
+                        "end_idx": 1018
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 474,
+                        "end_idx": 478
+                    },
+                    {
+                        "start_idx": 594,
+                        "end_idx": 598
+                    },
+                    {
+                        "start_idx": 635,
+                        "end_idx": 639
+                    },
+                    {
+                        "start_idx": 780,
+                        "end_idx": 784
+                    },
+                    {
+                        "start_idx": 852,
+                        "end_idx": 856
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-19T12:49:23.888Z"
+}

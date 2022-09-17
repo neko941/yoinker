@@ -1,0 +1,153 @@
+{
+    "url": "https://writing9.com/text/62d5851c8ee1ab00180e31d8-children-are-facing-more-pressure-nowadays-from-academic-social-and",
+    "file": [
+        "data",
+        "55",
+        "62d5851c8ee1ab00180e31d8.json"
+    ],
+    "topics": [
+        "children",
+        "pressure",
+        "perspectives",
+        "measures",
+        "pressures"
+    ],
+    "question": "Children are facing more pressure nowadays from academic, social and commercial perspectives. What are the causes of this pressure and what measures should be taken to reduce these pressures?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There is a debate concerning that an increasing number of offspring are struggling with stress coming from academic, social and commercial sides. This essay discusses the reasons for this pressure and then give some solutions to that.",
+        "The first reason for that comes from peer competition. Children want to perform better than their peers  so that they can gain more praise from tutors, parents or even other people. For example, if they want to get  advanced tuition facilities or even achieve the global level, they need to have several contests with others and get the top praise in each contest. Otherwise, they would think they are failures to other people.",
+        "Children\u2019s stress also comes from parents\u2019 expectations. Most parents want their children to perform better in all perspectives, such as academic, social and commercial sides. If their children perform better, they would have more confidence to talk with other parents. Therefore, children would be asked to exceed in all fields.",
+        "This situation can be changed if parents can set realistic expectations for their children and give them more time. Additionally, schools can set some educational classes for children and ask them to face the competition in the right way.",
+        "In conclusion, the situation in that children face pressure can be changed through some appropriate methods. It is a good idea to reduce their stress  so that they can more relaxing child life."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "give",
+                "start_idx": 205,
+                "end_idx": 209,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb give does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "gives"
+                ]
+            },
+            {
+                "word": "face",
+                "start_idx": 1277,
+                "end_idx": 1281,
+                "error": "Change the verb form",
+                "error_des": "The plural verb face does not appear to agree with the singular subject situation. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "faces"
+                ]
+            }
+        ]
+    },
+    "submitter": "y.zhou46",
+    "num_words": 232,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "otherwise",
+            "also",
+            "such",
+            "first",
+            "then",
+            "additionally",
+            "therefore",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "parents",
+                "occurrences": [
+                    {
+                        "start_idx": 387,
+                        "end_idx": 394
+                    },
+                    {
+                        "start_idx": 697,
+                        "end_idx": 704
+                    },
+                    {
+                        "start_idx": 725,
+                        "end_idx": 732
+                    },
+                    {
+                        "start_idx": 924,
+                        "end_idx": 931
+                    },
+                    {
+                        "start_idx": 1026,
+                        "end_idx": 1033
+                    }
+                ]
+            },
+            {
+                "word": "children",
+                "occurrences": [
+                    {
+                        "start_idx": 744,
+                        "end_idx": 752
+                    },
+                    {
+                        "start_idx": 848,
+                        "end_idx": 856
+                    },
+                    {
+                        "start_idx": 944,
+                        "end_idx": 952
+                    },
+                    {
+                        "start_idx": 1075,
+                        "end_idx": 1083
+                    },
+                    {
+                        "start_idx": 1168,
+                        "end_idx": 1176
+                    },
+                    {
+                        "start_idx": 1269,
+                        "end_idx": 1277
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-18T16:06:54.006Z"
+}

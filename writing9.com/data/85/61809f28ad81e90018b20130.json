@@ -1,0 +1,102 @@
+{
+    "url": "https://writing9.com/text/61809f28ad81e90018b20130-you-borrowed-something-from-your-friend-later-it-got-damaged",
+    "file": [
+        "data",
+        "85",
+        "61809f28ad81e90018b20130.json"
+    ],
+    "topics": [
+        "friend",
+        "apology"
+    ],
+    "question": "You borrowed something from your friend, later it got damaged. Write letter to your friend.In your letter, you should:\u2022\tapology about the issue\u2022\ttell how it got damaged\u2022\tsay you are going to fix this issue",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Hello John,",
+        "How are you? I hope this letter finds you well. It was so humble of you to lend your spare mobile to me, on my journey back home. I couldn't be thankful enough for the purpose it served.",
+        "It is with a heavy heart that I bring it to you that the display of the phone you lent me got damaged. I feel bad for not being more careful in the way I handled it. I was hoping to return you the mobile, once I get settled here. But, I didn't see this coming.",
+        "This happened precisely at the airport exit, while I was trying to book a taxi for my way home. It slipped off from my hands when a stranger bumped into me, as he was in an urgency to board his flight. He was nowhere to be found, when I realised the damage he had caused. I really feel terrible to bring this to you.",
+        "On that note, I wanted to let you know that I will ensure to fix the display the way it was. I have further checked with a few other service centres in my locale. This shouldn't cost much and whatever it costs, I'll bear it for being careless. I hope I could fix the same over this weekend. Once done, I'll make sure it reaches you in a couple of days as the way you gave it to me.",
+        "Thank You",
+        "Best regards",
+        "Arthur"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 688,
+                "end_idx": 689,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker when. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "Arun",
+    "num_words": 244,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "further",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "way",
+                "occurrences": [
+                    {
+                        "start_idx": 347,
+                        "end_idx": 350
+                    },
+                    {
+                        "start_idx": 546,
+                        "end_idx": 549
+                    },
+                    {
+                        "start_idx": 858,
+                        "end_idx": 861
+                    },
+                    {
+                        "start_idx": 1136,
+                        "end_idx": 1139
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-11-02T02:25:37.680Z"
+}

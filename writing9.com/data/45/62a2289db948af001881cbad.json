@@ -1,0 +1,108 @@
+{
+    "url": "https://writing9.com/text/62a2289db948af001881cbad-a-foreign-friend-of-yours-plans-to-visit-your-place",
+    "file": [
+        "data",
+        "45",
+        "62a2289db948af001881cbad.json"
+    ],
+    "topics": [
+        "friend",
+        "plans",
+        "visit",
+        "place",
+        "time",
+        "date",
+        "apologise"
+    ],
+    "question": "A foreign friend of yours plans to visit your place and stay with you, but you do not have time on that date. Give your friend another alternate date to come.In your letter, you should:apologise for itexplain how you will be busy on that datesuggest to him/her an alternate time to come.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "one_main_idea_per_paragraph": 4.0,
+            "include_greeting_and_closing": 5.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 4.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 6.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Amit,",
+        "I wish this letter finds you in best of your health. I came to know that you are planning a visit to our home on 24th june 202, But unfortunately i am not available on that date due to some official trip."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "best",
+                "start_idx": 42,
+                "end_idx": 46,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the best"
+                ]
+            },
+            {
+                "word": "june",
+                "start_idx": 128,
+                "end_idx": 132,
+                "error": "Change the capitalization",
+                "error_des": "It appears that the word june may be a proper noun in this context. Consider capitalizing the word.",
+                "suggetions": [
+                    "June"
+                ]
+            },
+            {
+                "word": "unfortunately",
+                "start_idx": 142,
+                "end_idx": 155,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase unfortunately. Consider adding a comma.",
+                "suggetions": [
+                    ",unfortunately"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 156,
+                "end_idx": 157,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            }
+        ]
+    },
+    "submitter": "richasharma57",
+    "num_words": 44,
+    "num_paragraphs": 2,
+    "linking_words": {
+        "num_linking_words": "1",
+        "list_linking_words": [
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-06-09T17:06:39.609Z"
+}

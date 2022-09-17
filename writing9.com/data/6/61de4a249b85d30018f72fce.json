@@ -1,0 +1,150 @@
+{
+    "url": "https://writing9.com/text/61de4a249b85d30018f72fce-some-people-prefer-to-spend-their-lives-doing-the-same",
+    "file": [
+        "data",
+        "6",
+        "61de4a249b85d30018f72fce.json"
+    ],
+    "topics": [
+        "people",
+        "lives",
+        "change"
+    ],
+    "question": "Some people prefer to spend their lives doing the same things and avoiding change. Others, however, think that change is always good.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many people feel that change should be embraced without qualification while others believe it is better to avoid new situations. In my opinion, though change can be positive in certain contexts, it should not be pursued as valuable in itself.",
+        "Those in favor of change argue it is nearly always positive. Examples of good changes might include moving to a new city, starting a new job, finding a new life companion, or even something as simple as getting a pet. Each of these decisions is a means of addressing a desire or feeling of dissatisfaction. One change that has become prevalent in recent decades relates to nutrition and exercise. Such lifestyle changes are based on research that has definitively shown the importance of a healthy diet and identified foods low in certain kinds of fats and carbohydrates. Combined with weekly exercise, the results are superior fitness and improved longevity.",
+        "However, change is, more often than not, a means of disregarding one\u2019s responsibilities. Many individuals change jobs or leave relationships simply because they feel they have lost their passion. This effort to re-energize is typically unsuccessful because outward changes do little to alleviate internal problems. Therefore, in the majority of cases, change is either an excuse to justify selfish behavior or a temporary and superficial solution. The best-known example of this would be the classic \u2018mid-life crisis\u2019 that particularly affects men as they age and decide their life is not fulfilling their most basic desires. Ultimately, most people would be better served by focusing on improving their current situation rather than seeking transitory and exaggerated new experiences.",
+        "In conclusion, change should not be sought as a means of escaping one\u2019s primary duties. Change should be an organic process and it is therefore advisable individuals do not pursue it as a goal generally."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "favor",
+                "start_idx": 251,
+                "end_idx": 256,
+                "error": "Change the spelling",
+                "error_des": "The spelling of favor is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "favour"
+                ]
+            },
+            {
+                "word": "behavior",
+                "start_idx": 1300,
+                "end_idx": 1308,
+                "error": "Change the spelling",
+                "error_des": "The spelling of behavior is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "behaviour"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 1822,
+                "end_idx": 1823,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter therefore. Consider adding the comma(s).",
+                "suggetions": [
+                    ", therefore,"
+                ]
+            }
+        ]
+    },
+    "submitter": "rajatvarshney44",
+    "num_words": 301,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "such",
+            "however",
+            "therefore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "change",
+                "occurrences": [
+                    {
+                        "start_idx": 22,
+                        "end_idx": 28
+                    },
+                    {
+                        "start_idx": 151,
+                        "end_idx": 157
+                    },
+                    {
+                        "start_idx": 261,
+                        "end_idx": 267
+                    },
+                    {
+                        "start_idx": 321,
+                        "end_idx": 327
+                    },
+                    {
+                        "start_idx": 554,
+                        "end_idx": 560
+                    },
+                    {
+                        "start_idx": 655,
+                        "end_idx": 661
+                    },
+                    {
+                        "start_idx": 912,
+                        "end_idx": 918
+                    },
+                    {
+                        "start_idx": 1009,
+                        "end_idx": 1015
+                    },
+                    {
+                        "start_idx": 1168,
+                        "end_idx": 1174
+                    },
+                    {
+                        "start_idx": 1255,
+                        "end_idx": 1261
+                    },
+                    {
+                        "start_idx": 1704,
+                        "end_idx": 1710
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-01-12T03:25:26.394Z"
+}

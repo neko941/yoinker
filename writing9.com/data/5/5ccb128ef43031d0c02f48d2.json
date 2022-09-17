@@ -1,0 +1,264 @@
+{
+    "url": "https://writing9.com/text/5ccb128ef43031d0c02f48d2",
+    "file": [
+        "data",
+        "5",
+        "5ccb128ef43031d0c02f48d2.json"
+    ],
+    "topics": [
+        "people",
+        "limits",
+        "option",
+        "road",
+        "safety",
+        "improvement",
+        "measures",
+        "place"
+    ],
+    "question": "Many people believe that reducing speed limits is the best option for road safety improvement. \nDo you think there are other measures that could be put in place? \n\nWhat are the advantages and disadvantages of this?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is widely believed by the masses that by mitigating range of speed chances of safety on road would be ameliorated.However,I opine that there are several other measures which could be placed in to tackle this issue. This essay intends to elucidate both perspectives followed by my opinion.",
+        "Firstly, reduction of speed limit will surely help in reducing the casualties happening on roads as drivers can control their vehicles more efficiently if they drive at lower speed. So the cases of untoward repercussion can be avoided. Despite this ,it will also lead to disagreement among the commuters as the time taken to reach their desired destinations would increase exponentially. Furthermore, they will have to spend more time in their modes of transportation, which is harmful for their health as well. A good illustrations of this is shown by a study done by Yale university, where 200 test subjects were studied, who use to spent more than a hour in their cars and trucks. The study showed that those folks had more chances of developing muscular disorders compared to individuals spending less time.",
+        "Yet,there are plethora of ways by which safety on roads can be ensured . Firstly, the governing bodies of nations should encourage their civilians to use more of public transportation and inculcate a sense of responsibility for safety of fellow commuters as well as their own. This will not only curtail the enormous amount of cars we see but also reduce the traffic congestion. An excellent instance of this is seen in Denmark, where majority of populace consider bus and metro as their preferred mode of commuting instead of cars, which leads to its ranking as a country with least percentage of road traffic accidents.",
+        "Secondly, use of bicycles should be advertised as well as bike lanes should be created on the roads. This should be popularized for short distance travelling and its health benefits should also be mentioned. For example,  the healthcart magazine did an survey which showed that people who cycle for at least half an hour have 25 percent less chances of getting heart attacks.",
+        "To conclude, considering the aforementioned points it can be inferred that, although reduction of speed limit is beneficial, it's still a flawed concept and other measures must be taken into account."
+    ],
+    "errors": {
+        "num_error": "18",
+        "error_list": [
+            {
+                "word": "mitigating range",
+                "start_idx": 43,
+                "end_idx": 59,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a mitigating range",
+                    "the mitigating range"
+                ]
+            },
+            {
+                "word": "road",
+                "start_idx": 90,
+                "end_idx": 94,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the road"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 124,
+                "end_idx": 125,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "speed limit",
+                "start_idx": 313,
+                "end_idx": 324,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "speed limits",
+                    "the speed limit"
+                ]
+            },
+            {
+                "word": "lower speed",
+                "start_idx": 460,
+                "end_idx": 471,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "lower speeds",
+                    "a lower speed"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 540,
+                "end_idx": 542,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "spent",
+                "start_idx": 926,
+                "end_idx": 931,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "spend"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 942,
+                "end_idx": 943,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1107,
+                "end_idx": 1108,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "plethora",
+                "start_idx": 1117,
+                "end_idx": 1125,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a plethora"
+                ]
+            },
+            {
+                "word": " .",
+                "start_idx": 1174,
+                "end_idx": 1176,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "."
+                ]
+            },
+            {
+                "word": "safety",
+                "start_idx": 1331,
+                "end_idx": 1337,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the safety"
+                ]
+            },
+            {
+                "word": "see but",
+                "start_idx": 1438,
+                "end_idx": 1445,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "see, but"
+                ]
+            },
+            {
+                "word": "majority",
+                "start_idx": 1538,
+                "end_idx": 1546,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the majority"
+                ]
+            },
+            {
+                "word": "populace",
+                "start_idx": 1550,
+                "end_idx": 1558,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the populace"
+                ]
+            },
+            {
+                "word": "consider",
+                "start_idx": 1559,
+                "end_idx": 1567,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "considers"
+                ]
+            },
+            {
+                "word": "healthcart",
+                "start_idx": 1951,
+                "end_idx": 1961,
+                "error": "the preservation of mental and physical health by preventing or treating illness through services offered by the health profession",
+                "error_des": "",
+                "suggetions": [
+                    "healthcare"
+                ]
+            },
+            {
+                "word": "an",
+                "start_idx": 1975,
+                "end_idx": 1977,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a"
+                ]
+            }
+        ]
+    },
+    "submitter": "priyadarshniritu",
+    "num_words": 381,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "secondly",
+            "instead",
+            "also",
+            "furthermore",
+            "although",
+            "firstly",
+            "however",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2019-05-02T15:53:50.000Z"
+}

@@ -1,0 +1,332 @@
+{
+    "url": "https://writing9.com/text/62ca05058ee1ab00180e1e86-completing-university-education-is-thought-by-some-to-be-the",
+    "file": [
+        "data",
+        "55",
+        "62ca05058ee1ab00180e1e86.json"
+    ],
+    "topics": [
+        "university",
+        "education",
+        "job",
+        "hand",
+        "people",
+        "skills"
+    ],
+    "question": "\"Completing university education is thought by some to be the best way to get a good job. On the other hand, other people think that getting experience and developing soft skills is more important.  Discuss both sides and give your opinion.\"",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Education plays a significant role in securing employment. Of the best ways to get a job, one should have completed a degree,  while others are of the view that experience and skills is more beneficial.",
+        "On the one hand, completing college education will enhance an individual's obtaining a job in the future. This is due to the fact that, presenting a diploma or even a masters degree certificate  would considerably increase the chances of getting hired by gigantic companies . For example, applying for job requires the submission of curriculum vitaeor a resume, wherein qualifications and certifications are stated in that piece of paper. This would further help an employer decide that the applicant is best suited for the needed position. As a result, an employee would land a much rewarding job.",
+        "On the other hand, some are of the belief that certain skills and experience is more important than getting a good job. This is because, experience will eventually take them success. In addition, with the proper amount of expertise in a certain aspect of life, one can see a brighter future. Furthermore, the acquisition of training and the keen interest to improve particular skills will substantially improve life. Celebrities, for instance, have become well-known due to their strategic expertise in their chosen fields. Much of them have not finalized their university education. However, they have been so adept , on improving their skills which has immensely affected their life.",
+        "In conclusion, it is indeed of great significance to get a rewarding job by having a diploma.  However, I believe that, expertise and experience are also advantageous."
+    ],
+    "errors": {
+        "num_error": "18",
+        "error_list": [
+            {
+                "word": "is",
+                "start_idx": 182,
+                "end_idx": 184,
+                "error": "Change the verb form",
+                "error_des": "It appears that the singular verb is does not agree with the plural compound subject experience and skills. Consider changing the verb to the plural form.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "college",
+                "start_idx": 230,
+                "end_idx": 237,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a college"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 337,
+                "end_idx": 338,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction that. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "masters",
+                "start_idx": 369,
+                "end_idx": 376,
+                "error": "Change noun form",
+                "error_des": "It seems that this noun form may be incorrect.",
+                "suggetions": [
+                    "master's"
+                ]
+            },
+            {
+                "word": "job",
+                "start_idx": 504,
+                "end_idx": 507,
+                "error": "Add an article",
+                "error_des": "The noun phrase job seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a job"
+                ]
+            },
+            {
+                "word": "curriculum",
+                "start_idx": 535,
+                "end_idx": 545,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a curriculum"
+                ]
+            },
+            {
+                "word": "vitaeor",
+                "start_idx": 546,
+                "end_idx": 553,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want vitaeor to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "vitae or",
+                    "vitae"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 617,
+                "end_idx": 619,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "rewarding",
+                "start_idx": 786,
+                "end_idx": 795,
+                "error": "Correct quantifier usage",
+                "error_des": "It seems that quantifier use may be incorrect here.",
+                "suggetions": [
+                    "more rewarding"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 878,
+                "end_idx": 880,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb is does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 937,
+                "end_idx": 938,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction because. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "experience",
+                "start_idx": 938,
+                "end_idx": 948,
+                "error": "Add an article",
+                "error_des": "The noun phrase experience seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the experience"
+                ]
+            },
+            {
+                "word": "success",
+                "start_idx": 975,
+                "end_idx": 982,
+                "error": "Replace the word",
+                "error_des": "The word success doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "successful"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 1138,
+                "end_idx": 1141,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "Much",
+                "start_idx": 1325,
+                "end_idx": 1329,
+                "error": "Correct quantifier usage",
+                "error_des": "It seems that quantifier use may be incorrect here.",
+                "suggetions": [
+                    "Many"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 1420,
+                "end_idx": 1422,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "has",
+                "start_idx": 1452,
+                "end_idx": 1455,
+                "error": "Change the verb form",
+                "error_des": "The singular verb has does not appear to agree with the plural subject their skills. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "have"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1606,
+                "end_idx": 1607,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction that. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "springwaltz92",
+    "num_words": 268,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "further",
+            "also",
+            "furthermore",
+            "as a result",
+            "however",
+            "in addition",
+            "on the other hand",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "experience",
+                "occurrences": [
+                    {
+                        "start_idx": 161,
+                        "end_idx": 171
+                    },
+                    {
+                        "start_idx": 868,
+                        "end_idx": 878
+                    },
+                    {
+                        "start_idx": 939,
+                        "end_idx": 949
+                    },
+                    {
+                        "start_idx": 1622,
+                        "end_idx": 1632
+                    }
+                ]
+            },
+            {
+                "word": "skills",
+                "occurrences": [
+                    {
+                        "start_idx": 176,
+                        "end_idx": 182
+                    },
+                    {
+                        "start_idx": 857,
+                        "end_idx": 863
+                    },
+                    {
+                        "start_idx": 1179,
+                        "end_idx": 1185
+                    },
+                    {
+                        "start_idx": 1440,
+                        "end_idx": 1446
+                    }
+                ]
+            },
+            {
+                "word": "job",
+                "occurrences": [
+                    {
+                        "start_idx": 85,
+                        "end_idx": 88
+                    },
+                    {
+                        "start_idx": 290,
+                        "end_idx": 293
+                    },
+                    {
+                        "start_idx": 505,
+                        "end_idx": 508
+                    },
+                    {
+                        "start_idx": 797,
+                        "end_idx": 800
+                    },
+                    {
+                        "start_idx": 917,
+                        "end_idx": 920
+                    },
+                    {
+                        "start_idx": 1557,
+                        "end_idx": 1560
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-09T22:45:26.692Z"
+}

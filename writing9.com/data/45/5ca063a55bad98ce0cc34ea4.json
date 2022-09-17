@@ -1,0 +1,172 @@
+{
+    "url": "https://writing9.com/text/5ca063a55bad98ce0cc34ea4",
+    "file": [
+        "data",
+        "45",
+        "5ca063a55bad98ce0cc34ea4.json"
+    ],
+    "topics": [
+        "students",
+        "school",
+        "money"
+    ],
+    "question": "Students leave high school without learning the way how to manage their money. What are the reasons and solutions of this issue?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many high school leavers without learning the way how to get by on their expenditure. There are some causes of this issue, and several steps can be taken to mitigate this potential problem.",
+        "As the current educational curriculum in developed countries are lack of balancing their academic knowledge and life skills such as soft skills, several related causes deserve consideration. The main cause can be that more and more learners tend to have a contempt for practical knowledge, and therefore concentrate on theoretical knowledge. Moreover, some wealthy learners do not get accustomed to managing their budget. In this way, lack of life skills have been linked to not equipping young people with the knowledge and skills to control their own financial management",
+        "There are several actions that could be taken to curb this problem described above. Firstly, a simple solution would be that families should encourage adolescents to experience in poverty living and control their expenditure in order to educate them on the value of money. A second measure would be for school to add soft skills as a compulsory subject if they put pressure on high schools to be aware of money matters. Finally, parents are in charge of supervising young people\u2019s spending in an effort to maintain a successful and independent financial situation for students leaving high school.",
+        "In conclusion, various measures can be taken to combat this issue that is certain to arise as high school graduates without learning the way how to control their spending."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "lack",
+                "start_idx": 624,
+                "end_idx": 628,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a lack"
+                ]
+            },
+            {
+                "word": "have been linked",
+                "start_idx": 644,
+                "end_idx": 660,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "has been linked"
+                ]
+            },
+            {
+                "word": "poverty living",
+                "start_idx": 943,
+                "end_idx": 957,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "poverty, living"
+                ]
+            },
+            {
+                "word": "school",
+                "start_idx": 1066,
+                "end_idx": 1072,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the school",
+                    "schools"
+                ]
+            },
+            {
+                "word": "arise",
+                "start_idx": 1446,
+                "end_idx": 1451,
+                "error": "move upward",
+                "error_des": "",
+                "suggetions": [
+                    "rise"
+                ]
+            }
+        ]
+    },
+    "submitter": "tuuyen531999",
+    "num_words": 249,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "such",
+            "firstly",
+            "therefore",
+            "finally",
+            "second",
+            "that is",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "school",
+                "occurrences": [
+                    {
+                        "start_idx": 10,
+                        "end_idx": 16
+                    },
+                    {
+                        "start_idx": 1067,
+                        "end_idx": 1073
+                    },
+                    {
+                        "start_idx": 1146,
+                        "end_idx": 1152
+                    },
+                    {
+                        "start_idx": 1354,
+                        "end_idx": 1360
+                    },
+                    {
+                        "start_idx": 1461,
+                        "end_idx": 1467
+                    }
+                ]
+            },
+            {
+                "word": "knowledge",
+                "occurrences": [
+                    {
+                        "start_idx": 288,
+                        "end_idx": 297
+                    },
+                    {
+                        "start_idx": 469,
+                        "end_idx": 478
+                    },
+                    {
+                        "start_idx": 521,
+                        "end_idx": 530
+                    },
+                    {
+                        "start_idx": 701,
+                        "end_idx": 710
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-03-31T06:52:21.000Z"
+}

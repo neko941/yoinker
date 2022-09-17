@@ -1,0 +1,129 @@
+{
+    "url": "https://writing9.com/text/5ce700767668800017d4e714",
+    "file": [
+        "data",
+        "6",
+        "5ce700767668800017d4e714.json"
+    ],
+    "topics": [
+        "tourists",
+        "places",
+        "conditions",
+        "sahara",
+        "desert",
+        "antarctica",
+        "visit"
+    ],
+    "question": "Today more and more tourists are visiting places where conditions are difficult, such as Sahara Desert and Antarctica. \nWhat are the benefits and disadvantages for tourists who visit such places?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 4.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Over the last century, due to the rapid development in the modern transportation, many adventure seekers and tourists started travelling to remote corners of the planet where the environment is hostile and tough. People visiting such places have to experience both pros and cons.",
+        "There are two major benefits, the first one is, Adrenaline seekers can experience the nature in its purest form and the second one is, they will be able to experience the climate change that has been affecting everyone on the planet. For most part of the human history, remote places like Antarctica and Sahara Desert remained untouched, so anyone who goes to these places will experience the raw beauty of the nature. At the same time, increased awareness about the climate change will not only benefit individually, it helps mankind as a whole. For example, if someone travels to Antarctica, they can see the untouched wilderness and know, how their lives are being affected by global warming.",
+        "The main disadvantage is, few of these trips can be life threatening, not just to the individual tourist, but also for the rescuers. There many instances in the recent times, where both the victim and the rescuer lost lives while coming back to safety. For example, in the first half of the 20th century, some Russian expeditioners went to Siberia for the research. Since it is one of the coldest and isolated areas on the earth, the expedition did not even last a week. All the researches froze to death overnight and few soldiers who went to save them also lost lives due to hostile weather.",
+        "To conclude, visiting the remote parts of the planet has some unique benefits, if a tourist is ready to face dire consequences in the tough climatic conditions."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "expeditioners",
+                "start_idx": 1293,
+                "end_idx": 1306,
+                "error": "a military campaign designed to achieve a specific objective in a foreign country",
+                "error_des": "",
+                "suggetions": [
+                    "expeditions"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 1323,
+                "end_idx": 1326,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "few soldiers",
+                "start_idx": 1494,
+                "end_idx": 1506,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a few soldiers",
+                    "the few soldiers"
+                ]
+            }
+        ]
+    },
+    "submitter": "nikky.akhil",
+    "num_words": 294,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for example",
+            "first",
+            "last",
+            "second",
+            "also",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "experience",
+                "occurrences": [
+                    {
+                        "start_idx": 249,
+                        "end_idx": 259
+                    },
+                    {
+                        "start_idx": 351,
+                        "end_idx": 361
+                    },
+                    {
+                        "start_idx": 436,
+                        "end_idx": 446
+                    },
+                    {
+                        "start_idx": 658,
+                        "end_idx": 668
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-23T20:20:06.000Z"
+}

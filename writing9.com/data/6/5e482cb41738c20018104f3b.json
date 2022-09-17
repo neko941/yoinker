@@ -1,0 +1,155 @@
+{
+    "url": "https://writing9.com/text/5e482cb41738c20018104f3b-write-a-letter-neighbor-restaurant-owner-to-reduce-noise-introduce-yourself-what",
+    "file": [
+        "data",
+        "6",
+        "5e482cb41738c20018104f3b.json"
+    ],
+    "topics": [
+        "neighbor",
+        "restaurant",
+        "owner",
+        "noise",
+        "reason"
+    ],
+    "question": "Write a letter neighbor restaurant owner to reduce noise.\nIntroduce yourself\nWhat is your reason\nWhat will you do if the issue persists",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "I am writing to express my inconvenience caused by the sound coming from your restaurant.",
+        "My name is Sarulatha. I am working as a Software Engineer in a reputed company. I am residing next to your hotel and I have been living here since from my birth. We are a nuclear family, including my husband, his elderly parents and two small kids.",
+        "The song which is playing till the early morning in your hotel is disturbing us. Because of this noise children cannot concentrate on their studies. Moreover, it creates health issues for everyone because of lack of sleep during night. This is affecting out work and also elders having sleepless day and night.",
+        "I have already requested to reduce the sound couple of times. But I could not see any action has taken on my request. If it continues, I will definitely make a complain to the police and will request them to take necessary action. As it is a residential area, there will be certain limit for producing noise which should not affect the public.",
+        "I look forward to hear a positive response on this matter.",
+        "Yours faithfully,",
+        "Sarulatha"
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "from ",
+                "start_idx": 255,
+                "end_idx": 260,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "night",
+                "start_idx": 586,
+                "end_idx": 591,
+                "error": "Add an article",
+                "error_des": "The noun phrase night seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the night"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 611,
+                "end_idx": 611,
+                "error": "Correct your spelling",
+                "error_des": "The word out doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "our"
+                ]
+            },
+            {
+                "word": "out",
+                "start_idx": 611,
+                "end_idx": 614,
+                "error": "Correct your spelling",
+                "error_des": "The word out doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "our"
+                ]
+            },
+            {
+                "word": "complain",
+                "start_idx": 828,
+                "end_idx": 836,
+                "error": "Replace the word",
+                "error_des": "The word complain doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "complaint"
+                ]
+            },
+            {
+                "word": "necessary",
+                "start_idx": 881,
+                "end_idx": 890,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the necessary"
+                ]
+            },
+            {
+                "word": "certain",
+                "start_idx": 942,
+                "end_idx": 949,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a certain"
+                ]
+            },
+            {
+                "word": "hear",
+                "start_idx": 1030,
+                "end_idx": 1034,
+                "error": "Change the verb form",
+                "error_des": "The verb hear is usually in the gerund form when following the word look forward to. Consider replacing it with the -ing form.",
+                "suggetions": [
+                    "hearing"
+                ]
+            }
+        ]
+    },
+    "submitter": "sarulatha1.g",
+    "num_words": 195,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "also",
+            "next",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T19:06:23.235Z"
+}

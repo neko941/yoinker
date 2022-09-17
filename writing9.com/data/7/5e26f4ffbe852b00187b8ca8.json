@@ -1,0 +1,111 @@
+{
+    "url": "https://writing9.com/text/5e26f4ffbe852b00187b8ca8-you-work-for-an-international-company-and-would-like-to",
+    "file": [
+        "data",
+        "7",
+        "5e26f4ffbe852b00187b8ca8.json"
+    ],
+    "topics": [
+        "work",
+        "company",
+        "six",
+        "months",
+        "head",
+        "office",
+        "country",
+        "manager"
+    ],
+    "question": "You work for an international company, and would like to spend six months working in its head office in another country. \nWrite a letter to your manager. In your letter\n\u2022 explain why you want to work in the company's head office for six months\n\u2022 say how your work could be done while you are away\n\u2022 ask for his/her help in arranging it",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 6.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr. John,",
+        "Good day.",
+        "I hope my letter finds you well.",
+        "I am writing to you on the matter of temporarily changing my current work location, as I would like to relocate in our France's head office for a duration of six months.",
+        "As I have been working on artificial intelligence modelling approaches, the reason behind my relocation request is that I am seeking further advancement in this field. France's office is well-known for excellency in this scope of work. As well, it would be a great chance to get in touch with our clients there.",
+        "Accordingly, I will be responsible for the work in projects that I am currently responsible for in Cairo office, in terms of coordination and any issues that require immediate technical design actions.",
+        "Lastly, I am seeking your kind approval and advice on this matter. Also, I am flexible for any other recommendations that could facilitate my goal towards increasing my artificial intelligence experience.",
+        "Thank you in advance.",
+        "Best Regards,",
+        "Dr. Mohamed Hawas"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "Mr.",
+                "start_idx": 4,
+                "end_idx": 7,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": "Cairo",
+                "start_idx": 638,
+                "end_idx": 643,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the Cairo"
+                ]
+            },
+            {
+                "word": "Dr.",
+                "start_idx": 982,
+                "end_idx": 985,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Dr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Dr"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 169,
+    "num_paragraphs": 10,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "further",
+            "accordingly",
+            "also",
+            "this",
+            "lastly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T18:28:19.890Z"
+}

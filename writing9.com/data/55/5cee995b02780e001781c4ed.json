@@ -1,0 +1,256 @@
+{
+    "url": "https://writing9.com/text/5cee995b02780e001781c4ed",
+    "file": [
+        "data",
+        "55",
+        "5cee995b02780e001781c4ed.json"
+    ],
+    "topics": [
+        "employer",
+        "holidays",
+        "employee",
+        "job"
+    ],
+    "question": "Employer should give longer holidays to employee to encourage them to do their job well. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Perks usually a big motivator for people to perform better job at work-place. Some people advocates that organization should provide longer holiday to its worker in order to uplift their proficiency. I completely disagree with this viewpoint as soft skills and adequate training are the absolute ingredients for becoming more proficient at work.",
+        "To begin with, companies must conduct seminar or workshop for their employees in order to make them learn or adopt better soft skills namely, prioritization. This skill would allow worker to identify which task to pick up first in tight deadlines. For example, one must be aware that talking to clients on phone is critical than compiling daily report hence, that must be prioritize. Also, professional will be able to imbibe how to gauge the criticality of the task and allocate their time to them accordingly.",
+        "Additionally, business must opt to brush up their employee\u2019s skills by conducting training session. Training sessions about latest tools and methodology are helpful in order to help workers to perform the work in an improvised manner. For example, a graphic designer who is well verse with latest designing tools like \u201cAdobe Suite\u201d will be able to perform their task quickly and with more creativity. Furthermore, these training session also make them updated and competitive in the industry which is useful for their professional growth later in life.",
+        "To conclude, some opine that longer paid leaves should be a key to motivate employees to perform better job however, I disregard this view due to the reasons that companies needs to focus more on development of other skills like prioritization and training about latest tools etc. which is more impactful."
+    ],
+    "errors": {
+        "num_error": "17",
+        "error_list": [
+            {
+                "word": "work-place",
+                "start_idx": 65,
+                "end_idx": 75,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a workplace",
+                    "workplace",
+                    "the workplace"
+                ]
+            },
+            {
+                "word": "advocates",
+                "start_idx": 89,
+                "end_idx": 98,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "advocate",
+                    "have advocated",
+                    "are advocating"
+                ]
+            },
+            {
+                "word": "longer holiday",
+                "start_idx": 132,
+                "end_idx": 146,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a longer holiday"
+                ]
+            },
+            {
+                "word": "seminar",
+                "start_idx": 383,
+                "end_idx": 390,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "seminars",
+                    "a seminar"
+                ]
+            },
+            {
+                "word": "worker",
+                "start_idx": 526,
+                "end_idx": 532,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the worker",
+                    "a worker"
+                ]
+            },
+            {
+                "word": "phone",
+                "start_idx": 651,
+                "end_idx": 656,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the phone"
+                ]
+            },
+            {
+                "word": "prioritize",
+                "start_idx": 717,
+                "end_idx": 727,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "prioritized",
+                    "prioritised"
+                ]
+            },
+            {
+                "word": "professional",
+                "start_idx": 735,
+                "end_idx": 747,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a professional",
+                    "professionals"
+                ]
+            },
+            {
+                "word": "training session",
+                "start_idx": 939,
+                "end_idx": 955,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "training sessions",
+                    "a training session"
+                ]
+            },
+            {
+                "word": "latest",
+                "start_idx": 981,
+                "end_idx": 987,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the latest"
+                ]
+            },
+            {
+                "word": "verse",
+                "start_idx": 1136,
+                "end_idx": 1141,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "versed"
+                ]
+            },
+            {
+                "word": "session",
+                "start_idx": 1286,
+                "end_idx": 1293,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "sessions"
+                ]
+            },
+            {
+                "word": "industry which",
+                "start_idx": 1340,
+                "end_idx": 1354,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "industry, which"
+                ]
+            },
+            {
+                "word": "job ",
+                "start_idx": 1514,
+                "end_idx": 1518,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "job, however"
+                ]
+            },
+            {
+                "word": "needs",
+                "start_idx": 1583,
+                "end_idx": 1588,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "need"
+                ]
+            },
+            {
+                "word": "development",
+                "start_idx": 1606,
+                "end_idx": 1617,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the development"
+                ]
+            },
+            {
+                "word": "which",
+                "start_idx": 1691,
+                "end_idx": 1696,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Which"
+                ]
+            }
+        ]
+    },
+    "submitter": "ak3675",
+    "num_words": 277,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "to begin",
+            "also",
+            "accordingly",
+            "first",
+            "furthermore",
+            "hence",
+            "additionally",
+            "however",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2019-05-29T14:38:19.000Z"
+}

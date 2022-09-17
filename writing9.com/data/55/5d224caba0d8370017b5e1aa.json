@@ -1,0 +1,173 @@
+{
+    "url": "https://writing9.com/text/5d224caba0d8370017b5e1aa",
+    "file": [
+        "data",
+        "55",
+        "5d224caba0d8370017b5e1aa.json"
+    ],
+    "topics": [
+        "years",
+        "structure",
+        "roles",
+        "changes"
+    ],
+    "question": "In recent years, the family structure has changed, as well as family roles. What are the changes occurring? Do you think these changes are positive or negative?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "These days, there are changes in many families. This changes include an adjustment in the size of many households, as well as the duties of members of the family. I believe this new trend has negative consequences.",
+        "One significant change in families today, is the reduction in the size of the household. Unlike in the past when a household consist of a nuclear group as well as relatives such as grandparents, cousins and their parents living under the same roof, many homes today, are made up of two to six people comprise of a couple and their children. For instance, majority of households in Nigeria now are small in size without relatives. More so, there have been some adjustments in the duties of husbands and wives. Now, more wives work full-time whereas few years ago, it was only husbands that work secularly while wives were solely responsible for the house chores. In recent time, husbands are having increased share in chores at home unlike before.",
+        "However, this new trend is a negative development due to its deleterious consequences on the children. This results from the reduced time parents spend with their children coupled with the absence of relative who could provide support in training young ones. Children are expose to negative influences outside the home such as materialistic pressure on the mass media and peer pressures that could adversely affect them. Thus, there have been an increase in juvenile delinquency in some countries in recent times.",
+        "In conclusion, many families today are small in size and many wives work full-time while husband share in house chores. This has left young ones vulnerable to negative influences outside the home."
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "consist",
+                "start_idx": 339,
+                "end_idx": 346,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "consists"
+                ]
+            },
+            {
+                "word": "majority",
+                "start_idx": 569,
+                "end_idx": 577,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the majority",
+                    "a majority"
+                ]
+            },
+            {
+                "word": "full-time whereas",
+                "start_idx": 744,
+                "end_idx": 761,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "full-time, whereas"
+                ]
+            },
+            {
+                "word": "few years",
+                "start_idx": 762,
+                "end_idx": 771,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a few years"
+                ]
+            },
+            {
+                "word": "secularly",
+                "start_idx": 808,
+                "end_idx": 817,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "time",
+                "start_idx": 886,
+                "end_idx": 890,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "times"
+                ]
+            },
+            {
+                "word": "are having",
+                "start_idx": 901,
+                "end_idx": 911,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "have"
+                ]
+            },
+            {
+                "word": "are expose",
+                "start_idx": 1229,
+                "end_idx": 1239,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are exposed"
+                ]
+            }
+        ]
+    },
+    "submitter": "Kenny",
+    "num_words": 278,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "thus",
+            "such",
+            "however",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "size",
+                "occurrences": [
+                    {
+                        "start_idx": 90,
+                        "end_idx": 94
+                    },
+                    {
+                        "start_idx": 281,
+                        "end_idx": 285
+                    },
+                    {
+                        "start_idx": 621,
+                        "end_idx": 625
+                    },
+                    {
+                        "start_idx": 1524,
+                        "end_idx": 1528
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-07T19:48:59.000Z"
+}

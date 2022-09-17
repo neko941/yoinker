@@ -1,0 +1,186 @@
+{
+    "url": "https://writing9.com/text/5e307fb327b79300115f2030",
+    "file": [
+        "data",
+        "75",
+        "5e307fb327b79300115f2030.json"
+    ],
+    "topics": [
+        "dangers",
+        "chemicals",
+        "food",
+        "production",
+        "preservation"
+    ],
+    "question": "Do the dangers derived from the use of chemicals in food production and preservation outweigh the advantages?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Over the past half-century, there has been an exponential rise in the use of food chemicals in the food industry. While some believe that these substances cause harmful effects to human lives, others claim that there are certain advantages overshadowing the risks. This essay discusses how the cons of food chemicals overweigh the pros and will arrive at a conclusion.",
+        "Food chemicals and preservatives are added in food for multiple reasons. Firstly, it improves the overall appearance of the product and even makes it taste better, thereby encouraging people to purchase food that may not otherwise look tempting to eat. This practice boosts commercial activity, ultimately causing a massive increase in their sales. These methods can be seen in multi-national companies such as Pepsi, which have demonstrated huge growth in their recent yearly sales.",
+        "On the contrary, these chemicals and preservatives have been reported to cause multiple diseases, the most hazardous one being cancer. Multiple case reports indicate that the long-term use of chemical substances on food can lead to stomach cancer, breast cancer, and even mouth cancer. In addition, medical authorities have also reported that they have found children to be more hyperactive and temperamental due to the chronic use of food additives. By limiting their usage, these diseases can be prevented.",
+        "In conclusion, although certain advantages of food chemicals do exist, these are mainly beneficial to companies and not to their customers. I firmly believe that the use of preservatives and chemicals in food products causes numerous health hazards and the government should implement laws to restrict their use."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "usage",
+                "start_idx": 1321,
+                "end_idx": 1326,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "use"
+                ]
+            }
+        ]
+    },
+    "submitter": "sidharth.ranjit",
+    "num_words": 261,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "otherwise",
+            "also",
+            "such",
+            "on the contrary",
+            "although",
+            "firstly",
+            "in addition",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 77,
+                        "end_idx": 81
+                    },
+                    {
+                        "start_idx": 99,
+                        "end_idx": 103
+                    },
+                    {
+                        "start_idx": 302,
+                        "end_idx": 306
+                    },
+                    {
+                        "start_idx": 415,
+                        "end_idx": 419
+                    },
+                    {
+                        "start_idx": 572,
+                        "end_idx": 576
+                    },
+                    {
+                        "start_idx": 1068,
+                        "end_idx": 1072
+                    },
+                    {
+                        "start_idx": 1288,
+                        "end_idx": 1292
+                    },
+                    {
+                        "start_idx": 1408,
+                        "end_idx": 1412
+                    },
+                    {
+                        "start_idx": 1566,
+                        "end_idx": 1570
+                    }
+                ]
+            },
+            {
+                "word": "use",
+                "occurrences": [
+                    {
+                        "start_idx": 70,
+                        "end_idx": 73
+                    },
+                    {
+                        "start_idx": 157,
+                        "end_idx": 160
+                    },
+                    {
+                        "start_idx": 928,
+                        "end_idx": 931
+                    },
+                    {
+                        "start_idx": 1038,
+                        "end_idx": 1041
+                    },
+                    {
+                        "start_idx": 1281,
+                        "end_idx": 1284
+                    },
+                    {
+                        "start_idx": 1528,
+                        "end_idx": 1531
+                    },
+                    {
+                        "start_idx": 1582,
+                        "end_idx": 1585
+                    },
+                    {
+                        "start_idx": 1670,
+                        "end_idx": 1673
+                    }
+                ]
+            },
+            {
+                "word": "cancer",
+                "occurrences": [
+                    {
+                        "start_idx": 980,
+                        "end_idx": 986
+                    },
+                    {
+                        "start_idx": 1093,
+                        "end_idx": 1099
+                    },
+                    {
+                        "start_idx": 1108,
+                        "end_idx": 1114
+                    },
+                    {
+                        "start_idx": 1131,
+                        "end_idx": 1137
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-01-28T18:38:43.187Z"
+}

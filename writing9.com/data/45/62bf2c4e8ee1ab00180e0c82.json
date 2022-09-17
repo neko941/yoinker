@@ -1,0 +1,284 @@
+{
+    "url": "https://writing9.com/text/62bf2c4e8ee1ab00180e0c82-it-has-been-observed-that-in-many-countries-not-enough",
+    "file": [
+        "data",
+        "45",
+        "62bf2c4e8ee1ab00180e0c82.json"
+    ],
+    "topics": [
+        "countries",
+        "students",
+        "study",
+        "science",
+        "subjects",
+        "university",
+        "effects",
+        "society"
+    ],
+    "question": "It has been observed that in many countries not enough students are choosing to study science subjects at university. What do you think are the causes of the problem? What are the effects on society",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There are many reasons for the lack of interest in science subjects. The first reason is that in most schools the sciences that are taught, have outdated and irrelevant curricula. Most of the education is theoretical and leaves little room for enjoyment. On top of that, most primary school teachers are themselves not very interested in science, and so are not good teachers, who can stimulate children's interest in science. So, the base of students in science stream is weak, and therefore they do not opt for science in higher classes. Learning science often requires hard work and considerable intellectual effort, which is not present in the contemporary youth culture. What is more, students who choose to study science are perceived as boring and somewhat crazy.",
+        "Furthermore, a white-coated, hardworking and not very well paid scientist in a laboratory, is not a role model for many of today's young people. Football players, film stars and pop artists receive global publicity and earn fortunes. The lives of journalists and others working in the media seem interesting and challenging. Young people also know that lawyers, and some of those trading in the financial markets earn ten or a hundred times more money than the physicist in the laboratory. The social climate, especially in developed countries, is not one, which it is easy to convince young people that they should concentrate on learning science at school or beyond.",
+        "A shortage of scientists and technologists can be very detrimental for the societies. Our societies are dominated by ideas and products from science and technology, and the influence of science and technology on our lives will continue to increase in the years to come. Scientific and technological knowledge and skills are crucial for most of our actions and decisions, as workers, as voters, as consumers, etc. In short, modern societies need people with scientific and technological qualifications at the highest level. If there will be less of these scientists, then societies will stagnate and further progress will stop altogether.",
+        "To sum up, there are many reasons for students not taking up science subjects at university and this phenomenon shall definitely be detrimental for society"
+    ],
+    "errors": {
+        "num_error": "11",
+        "error_list": [
+            {
+                "word": "science",
+                "start_idx": 454,
+                "end_idx": 461,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the science"
+                ]
+            },
+            {
+                "word": ".",
+                "start_idx": 769,
+                "end_idx": 770,
+                "error": "Change the punctuation",
+                "error_des": "Consider using a question mark to signify that this sentence is a question.",
+                "suggetions": [
+                    "?"
+                ]
+            },
+            {
+                "word": "well paid",
+                "start_idx": 824,
+                "end_idx": 833,
+                "error": "Add a hyphen",
+                "error_des": "It seems that well paid is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "well-paid"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1131,
+                "end_idx": 1132,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound subject. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "which",
+                "start_idx": 1327,
+                "end_idx": 1332,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in which"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 1506,
+                "end_idx": 1509,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1510,
+                "end_idx": 1514,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "as ",
+                "start_idx": 1822,
+                "end_idx": 1825,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "as ",
+                "start_idx": 1833,
+                "end_idx": 1836,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "less",
+                "start_idx": 1979,
+                "end_idx": 1983,
+                "error": "Correct quantifier usage",
+                "error_des": "It seems that quantifier use may be incorrect here.",
+                "suggetions": [
+                    "fewer"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 2221,
+                "end_idx": 2224,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            }
+        ]
+    },
+    "submitter": "selkghaffari",
+    "num_words": 359,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "further",
+            "also",
+            "first",
+            "furthermore",
+            "then",
+            "therefore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 908,
+                        "end_idx": 914
+                    },
+                    {
+                        "start_idx": 1102,
+                        "end_idx": 1108
+                    },
+                    {
+                        "start_idx": 1363,
+                        "end_idx": 1369
+                    },
+                    {
+                        "start_idx": 1885,
+                        "end_idx": 1891
+                    }
+                ]
+            },
+            {
+                "word": "societies",
+                "occurrences": [
+                    {
+                        "start_idx": 1515,
+                        "end_idx": 1524
+                    },
+                    {
+                        "start_idx": 1530,
+                        "end_idx": 1539
+                    },
+                    {
+                        "start_idx": 1870,
+                        "end_idx": 1879
+                    },
+                    {
+                        "start_idx": 2011,
+                        "end_idx": 2020
+                    }
+                ]
+            },
+            {
+                "word": "science",
+                "occurrences": [
+                    {
+                        "start_idx": 51,
+                        "end_idx": 58
+                    },
+                    {
+                        "start_idx": 114,
+                        "end_idx": 121
+                    },
+                    {
+                        "start_idx": 338,
+                        "end_idx": 345
+                    },
+                    {
+                        "start_idx": 418,
+                        "end_idx": 425
+                    },
+                    {
+                        "start_idx": 455,
+                        "end_idx": 462
+                    },
+                    {
+                        "start_idx": 513,
+                        "end_idx": 520
+                    },
+                    {
+                        "start_idx": 549,
+                        "end_idx": 556
+                    },
+                    {
+                        "start_idx": 719,
+                        "end_idx": 726
+                    },
+                    {
+                        "start_idx": 1411,
+                        "end_idx": 1418
+                    },
+                    {
+                        "start_idx": 1581,
+                        "end_idx": 1588
+                    },
+                    {
+                        "start_idx": 1626,
+                        "end_idx": 1633
+                    },
+                    {
+                        "start_idx": 2139,
+                        "end_idx": 2146
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-01T17:18:08.291Z"
+}

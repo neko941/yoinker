@@ -1,0 +1,270 @@
+{
+    "url": "https://writing9.com/text/5cf0d868bde8cf00178598ef-the-street-where-you-live-is-in-poor-condition-write",
+    "file": [
+        "data",
+        "6",
+        "5cf0d868bde8cf00178598ef.json"
+    ],
+    "topics": [
+        "street",
+        "condition",
+        "city",
+        "council",
+        "situation",
+        "consequence",
+        "change"
+    ],
+    "question": "The street where you live is in poor condition. Write a letter to local City Council in your letter you\nExplain the situation\n\nExplain the likely consequence\nDescribe the change you expect to occur",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear sir ,",
+        "I am a resident of Goodwill society and writing to show my concerns over the ever declining standard of the main street in the society.",
+        "The main street has proudly been a  linkage between city and main town for years. However , over past two years the situation of the street is deteriorating . There are cracks all over, it is totally overgrown with weeds and accumulated with that leaves and twings from trees on the it's sides.",
+        "I am very concerned that the pits on it are major hazards to children and elderly who can easily have serious accidents. Moreover,as rainy season is about to began so there is every possibility that these cracks will be flooded with rainwater, becoming breeding place to Malaria causing mosquitoes. With rain, heaps of decaying plants remains  can be washed into draine causing the blockage of sewerage system. As a  preventive measure, I believe that repair work should be done immediately including filling of all cracks , uprooting of weeds and removal of decaying leaves and twings.",
+        "I Hope you find my concern genuine and take immediate corrective action.",
+        "Thanking you in anticipation.",
+        "Your sincerely,",
+        "Meenakshi Kalyan"
+    ],
+    "errors": {
+        "num_error": "19",
+        "error_list": [
+            {
+                "word": "ever declining",
+                "start_idx": 87,
+                "end_idx": 101,
+                "error": "Add a hyphen",
+                "error_des": "It appears that ever declining is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "ever-declining"
+                ]
+            },
+            {
+                "word": "city",
+                "start_idx": 198,
+                "end_idx": 202,
+                "error": "Add an article",
+                "error_des": "The noun phrase city seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the city"
+                ]
+            },
+            {
+                "word": "past",
+                "start_idx": 243,
+                "end_idx": 247,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the past"
+                ]
+            },
+            {
+                "word": "years",
+                "start_idx": 252,
+                "end_idx": 257,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase over past two years. Consider adding a comma.",
+                "suggetions": [
+                    ",years"
+                ]
+            },
+            {
+                "word": "twings",
+                "start_idx": 404,
+                "end_idx": 410,
+                "error": "Correct your spelling",
+                "error_des": "The word twings is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "twigs",
+                    "things"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 425,
+                "end_idx": 429,
+                "error": "Remove the article",
+                "error_des": "It is unlikely that your sentence needs the article the before it. Consider deleting the article.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "it's",
+                "start_idx": 429,
+                "end_idx": 433,
+                "error": "Correct your spelling",
+                "error_des": "The word it's doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "its"
+                ]
+            },
+            {
+                "word": "elderly",
+                "start_idx": 515,
+                "end_idx": 522,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the elderly"
+                ]
+            },
+            {
+                "word": "rainy",
+                "start_idx": 574,
+                "end_idx": 579,
+                "error": "Add an article",
+                "error_des": "The noun phrase rainy season seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the rainy"
+                ]
+            },
+            {
+                "word": "began",
+                "start_idx": 599,
+                "end_idx": 604,
+                "error": "Change the verb",
+                "error_des": "It appears that the verb began should be in the base form as part of the to-infinitive following is about. Consider changing the verb form.",
+                "suggetions": [
+                    "begin"
+                ]
+            },
+            {
+                "word": "breeding",
+                "start_idx": 694,
+                "end_idx": 702,
+                "error": "Add an article",
+                "error_des": "The noun phrase breeding place seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the breeding",
+                    "a breeding"
+                ]
+            },
+            {
+                "word": "place",
+                "start_idx": 703,
+                "end_idx": 708,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that place may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "places"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 709,
+                "end_idx": 711,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "draine",
+                "start_idx": 804,
+                "end_idx": 810,
+                "error": "Correct your spelling",
+                "error_des": "The word draine is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "drains"
+                ]
+            },
+            {
+                "word": "sewerage",
+                "start_idx": 835,
+                "end_idx": 843,
+                "error": "Add an article",
+                "error_des": "The noun phrase sewerage system seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the sewerage",
+                    "a sewerage"
+                ]
+            },
+            {
+                "word": "twings",
+                "start_idx": 1020,
+                "end_idx": 1026,
+                "error": "Correct your spelling",
+                "error_des": "The word twings is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "twigs",
+                    "things",
+                    "wings"
+                ]
+            },
+            {
+                "word": "Hope",
+                "start_idx": 1030,
+                "end_idx": 1034,
+                "error": "Correct your spelling",
+                "error_des": "The word Hope doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "hope"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1131,
+                "end_idx": 1131,
+                "error": "Correct the word",
+                "error_des": "It appears that the word Your is not the correct form of the possessive pronoun. Consider changing it.",
+                "suggetions": [
+                    "Yours"
+                ]
+            },
+            {
+                "word": "Your",
+                "start_idx": 1131,
+                "end_idx": 1135,
+                "error": "Correct your spelling",
+                "error_des": "The word Your doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "Yours"
+                ]
+            }
+        ]
+    },
+    "submitter": "naresh",
+    "num_words": 197,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "however",
+            "moreover"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T16:00:25.676Z"
+}

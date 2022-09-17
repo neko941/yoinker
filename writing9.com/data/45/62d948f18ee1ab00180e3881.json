@@ -1,0 +1,199 @@
+{
+    "url": "https://writing9.com/text/62d948f18ee1ab00180e3881-you-work-in-a-busy-but-poorly-organised-office-and",
+    "file": [
+        "data",
+        "45",
+        "62d948f18ee1ab00180e3881.json"
+    ],
+    "topics": [
+        "work",
+        "office",
+        "employer",
+        "supervisor",
+        "department",
+        "job",
+        "candidate",
+        "outline",
+        "changes"
+    ],
+    "question": "You work in a busy but poorly organised office and you are keen to be promoted. Your employer needs to find a new supervisor for your department.Write a letter to your employer. In the letterask to be considered for this jobexplain why you would be a suitable candidateoutline the current problems and the changes you would like to make",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "one_main_idea_per_paragraph": 4.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 6.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr. Sam",
+        "I am writing this letter to express my interest about a new job vacancy at our department. I would like to describe myself and tell you about my experience.",
+        "First of all, I am a person who like to take a risk; however, I am a wise person. Secondly, I like to help, and willing people and I think all the employees at our company they like me, and I have a good experience in your company and out it in addition to that, I can solve any problems such as, employees issues, financial issues and legal compactions also, as you know I have a lot of qualifications in my major so I can manage our department. Although we have some problem in our company specially after COVID -19 pandemic and a promise to you I will solve it after when I hold my new position however, I can solve any problem in the feature whether side effect of pandemic or any issues.",
+        "Best Regards"
+    ],
+    "errors": {
+        "num_error": "12",
+        "error_list": [
+            {
+                "word": "Mr.",
+                "start_idx": 4,
+                "end_idx": 7,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": "about",
+                "start_idx": 60,
+                "end_idx": 65,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 84,
+                "end_idx": 86,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "like",
+                "start_idx": 201,
+                "end_idx": 205,
+                "error": "Change the verb form",
+                "error_des": "The plural verb like does not appear to agree with the singular subject a person. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "likes"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 465,
+                "end_idx": 466,
+                "error": "Remove the comma",
+                "error_des": "It appears that the comma after such as is unnecessary. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "problem",
+                "start_idx": 638,
+                "end_idx": 645,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that problem may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "problems"
+                ]
+            },
+            {
+                "word": "specially",
+                "start_idx": 661,
+                "end_idx": 670,
+                "error": "Replace the word",
+                "error_des": "The word specially may be used incorrectly. Review the following notes to determine the appropriate usage for your context.",
+                "suggetions": [
+                    "especially"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 710,
+                "end_idx": 713,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 730,
+                "end_idx": 732,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "them"
+                ]
+            },
+            {
+                "word": "however",
+                "start_idx": 767,
+                "end_idx": 774,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter however. Consider adding the comma(s).",
+                "suggetions": [
+                    ",however"
+                ]
+            },
+            {
+                "word": "effect",
+                "start_idx": 828,
+                "end_idx": 834,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that effect may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "effects"
+                ]
+            },
+            {
+                "word": "pandemic",
+                "start_idx": 838,
+                "end_idx": 846,
+                "error": "Add an article",
+                "error_des": "The noun phrase pandemic seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a pandemic"
+                ]
+            }
+        ]
+    },
+    "submitter": "alruhaimi6",
+    "num_words": 168,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "secondly",
+            "also",
+            "such",
+            "first",
+            "although",
+            "however",
+            "in addition",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-07-21T12:39:14.823Z"
+}

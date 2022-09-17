@@ -1,0 +1,182 @@
+{
+    "url": "https://writing9.com/text/5e0bfabfbfa19600117a2c82",
+    "file": [
+        "data",
+        "65",
+        "5e0bfabfbfa19600117a2c82.json"
+    ],
+    "topics": [
+        "countries",
+        "people",
+        "rent",
+        "homes",
+        "home"
+    ],
+    "question": "In some countries, most people prefer to rent their homes rather than buying them.\nWhat are the advantages and disadvantages of renting a home?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "No one can deny the fact that nowadays many individuals choose to hire homes over purchasing. Renting houses gives the freedom to move in case of a transfer of job location and tenants can save the travel time, but there are drawbacks to be taken in to account.",
+        "On the one hand, one major benefit of renting apartments is that relocation is more convenient from the occupants' point of view. In other words, when people move from one house to another, they will not have to consider other aspects such as selling the previous place or renting it to someone else. Besides, since the rented house is closer to the workplace they can reduce the time spent on the traffic and utilize that time to productive work. This trend is more common in Sri Lanka as many people in the countryside move towards Colombo with the option to hire a temporary house.",
+        "On the other hand, the primary disadvantage of this phenomenon is that many tenants cannot have a close relationship with residents in the area. This means when people change their temporary accommodation more often they will not be familiarised with the locals which might feel them as they are aliens everywhere they move. Moreover, when tenants get changed of a house frequently, it will be a great threat to the security of the area from the locals' point of view. This may lead to build more problems and deteriorate peace among the locals.",
+        "In conclusion, while people can benefit from hiring a temporary house, it also makes more issues for the tenants as well as for the residents as they are not familiar with each other."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "gives",
+                "start_idx": 108,
+                "end_idx": 113,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "give",
+                    "are given"
+                ]
+            },
+            {
+                "word": "in to",
+                "start_idx": 246,
+                "end_idx": 251,
+                "error": "expresses motion to a point on, or within, something",
+                "error_des": "",
+                "suggetions": [
+                    "into"
+                ]
+            },
+            {
+                "word": "workplace they",
+                "start_idx": 611,
+                "end_idx": 625,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "workplace, they"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 278,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "moreover",
+            "also",
+            "such",
+            "besides",
+            "on the other hand",
+            "in other words",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "one",
+                "occurrences": [
+                    {
+                        "start_idx": 3,
+                        "end_idx": 6
+                    },
+                    {
+                        "start_idx": 269,
+                        "end_idx": 272
+                    },
+                    {
+                        "start_idx": 279,
+                        "end_idx": 282
+                    },
+                    {
+                        "start_idx": 430,
+                        "end_idx": 433
+                    },
+                    {
+                        "start_idx": 553,
+                        "end_idx": 556
+                    }
+                ]
+            },
+            {
+                "word": "move",
+                "occurrences": [
+                    {
+                        "start_idx": 130,
+                        "end_idx": 134
+                    },
+                    {
+                        "start_idx": 420,
+                        "end_idx": 424
+                    },
+                    {
+                        "start_idx": 783,
+                        "end_idx": 787
+                    },
+                    {
+                        "start_idx": 1166,
+                        "end_idx": 1170
+                    }
+                ]
+            },
+            {
+                "word": "house",
+                "occurrences": [
+                    {
+                        "start_idx": 102,
+                        "end_idx": 107
+                    },
+                    {
+                        "start_idx": 434,
+                        "end_idx": 439
+                    },
+                    {
+                        "start_idx": 589,
+                        "end_idx": 594
+                    },
+                    {
+                        "start_idx": 840,
+                        "end_idx": 845
+                    },
+                    {
+                        "start_idx": 1212,
+                        "end_idx": 1217
+                    },
+                    {
+                        "start_idx": 1457,
+                        "end_idx": 1462
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-01-01T01:49:51.523Z"
+}

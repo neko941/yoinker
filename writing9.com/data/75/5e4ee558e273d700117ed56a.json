@@ -1,0 +1,117 @@
+{
+    "url": "https://writing9.com/text/5e4ee558e273d700117ed56a-your-son-is-learning-a-second-language-at-school-but",
+    "file": [
+        "data",
+        "75",
+        "5e4ee558e273d700117ed56a.json"
+    ],
+    "topics": [
+        "son",
+        "second",
+        "language",
+        "school",
+        "lessons",
+        "teacher",
+        "methods",
+        "schedule"
+    ],
+    "question": "Your son is learning a second language at school, but he needs some extra lessons.\n\n\nWrite a letter to a teacher asking for help. In your letter:\n\n\n1. explain why your son needs help\n\n\n2. ask the teacher about her teaching experience and methods\n\n\n3. and suggest a possible schedule for the lessons.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Teacher,",
+        "The purpose of this letter is to bring to your attention about my son John, who is learning second language at school.",
+        "To start, my is not able to speak properly even though he is attending class regularly, Having some problem in understanding. We are not able to help him out since we don't know that language. He needs help to complete his homework.",
+        "Moving on to the heart of the matter, can I know the way of your teaching everything theoretical only or giving some real example for all grammars and difficult sentences. How often you are conducting quiz in between classes. Are you conducting any practical classes like videos and chart works.",
+        "However, he needs some extra lesson to improve his skills. Hence requesting you to provide him extra classes on weekdays or weekends.",
+        "Please seriously consider my request for immediate action to be taken. Thanks in advance.",
+        "Best regards,",
+        "Smith."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "about ",
+                "start_idx": 70,
+                "end_idx": 76,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "second",
+                "start_idx": 105,
+                "end_idx": 111,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a second"
+                ]
+            },
+            {
+                "word": "lesson",
+                "start_idx": 690,
+                "end_idx": 696,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that lesson may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "lessons"
+                ]
+            },
+            {
+                "word": "extra",
+                "start_idx": 756,
+                "end_idx": 761,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with extra"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 155,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "hence",
+            "however",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T19:13:37.143Z"
+}

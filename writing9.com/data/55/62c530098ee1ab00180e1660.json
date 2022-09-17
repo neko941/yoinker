@@ -1,0 +1,210 @@
+{
+    "url": "https://writing9.com/text/62c530098ee1ab00180e1660-many-people-in-poor-countries-die-from-diseases-that-are",
+    "file": [
+        "data",
+        "55",
+        "62c530098ee1ab00180e1660.json"
+    ],
+    "topics": [
+        "people",
+        "countries",
+        "diseases",
+        "curable",
+        "medication",
+        "drug",
+        "companies",
+        "products",
+        "prices"
+    ],
+    "question": "Many people in poor countries die from diseases that are curable because they cannot afford the medication required.Do you believe that drug companies should make their products available at reduced prices in these countries?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The high cost of modern pharmaceuticals means people in poorer countries are unable to benefit from them. I would argue that drug companies have a moral obligation to make their products available to these people and that there are other agencies that can help.",
+        "Over the last few decades there has been a dramatic improvement in medicine that has radically changed the treatment of many life threatening diseases. While drug companies profit from treating these diseases, the fact that people in poor countries are unable to pay for these treatments has created an unacceptable degree of inequality in global access to health care.",
+        "I would argue that drug companies have a responsibility to be more ethical and to address this inequality by offering cheaper generic versions of their medicines in countries that cannot afford to pay the full price. This has recently been implemented with the treatment of HIV and AIDS in some African countries, saving the lives of millions of people.",
+        "However, I also believe that there are others who have a role to play in giving poor people access to drugs. For example, rich people could be encouraged to donate to charities to help developing countries. An example of this was seen recently when Bill Gates spent vast sums of money to set up immunisation projects in Africa. In addition to wealthy individuals, governments could also donate aid and medical supplies.",
+        "In conclusion I would argue that it is immoral for people to be dying as a result of inequality. The value of human life should be universal and it should be the responsibility of the richer companies, individuals and governments to ensure that access to encompasses everyone."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "decades",
+                "start_idx": 279,
+                "end_idx": 286,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Over the last few decades. Consider adding a comma.",
+                "suggetions": [
+                    ",decades"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 386,
+                "end_idx": 386,
+                "error": "Add a hyphen",
+                "error_des": "It appears that life threatening is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "life-threatening"
+                ]
+            },
+            {
+                "word": "life threatening",
+                "start_idx": 386,
+                "end_idx": 402,
+                "error": "Add a hyphen",
+                "error_des": "It seems that life threatening is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "life-threatening"
+                ]
+            },
+            {
+                "word": "conclusion",
+                "start_idx": 1408,
+                "end_idx": 1418,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase In conclusion. Consider adding a comma.",
+                "suggetions": [
+                    ",conclusion"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 1657,
+                "end_idx": 1660,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "usman.javed",
+    "num_words": 280,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "also",
+            "as a result",
+            "however",
+            "last",
+            "in addition",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "countries",
+                "occurrences": [
+                    {
+                        "start_idx": 63,
+                        "end_idx": 72
+                    },
+                    {
+                        "start_idx": 501,
+                        "end_idx": 510
+                    },
+                    {
+                        "start_idx": 797,
+                        "end_idx": 806
+                    },
+                    {
+                        "start_idx": 935,
+                        "end_idx": 944
+                    },
+                    {
+                        "start_idx": 1182,
+                        "end_idx": 1191
+                    }
+                ]
+            },
+            {
+                "word": "companies",
+                "occurrences": [
+                    {
+                        "start_idx": 130,
+                        "end_idx": 139
+                    },
+                    {
+                        "start_idx": 425,
+                        "end_idx": 434
+                    },
+                    {
+                        "start_idx": 656,
+                        "end_idx": 665
+                    },
+                    {
+                        "start_idx": 1597,
+                        "end_idx": 1606
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 46,
+                        "end_idx": 52
+                    },
+                    {
+                        "start_idx": 206,
+                        "end_idx": 212
+                    },
+                    {
+                        "start_idx": 486,
+                        "end_idx": 492
+                    },
+                    {
+                        "start_idx": 978,
+                        "end_idx": 984
+                    },
+                    {
+                        "start_idx": 1071,
+                        "end_idx": 1077
+                    },
+                    {
+                        "start_idx": 1113,
+                        "end_idx": 1119
+                    },
+                    {
+                        "start_idx": 1457,
+                        "end_idx": 1463
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-06T07:12:10.783Z"
+}

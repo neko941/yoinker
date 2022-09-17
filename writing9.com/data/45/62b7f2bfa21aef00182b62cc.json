@@ -1,0 +1,193 @@
+{
+    "url": "https://writing9.com/text/62b7f2bfa21aef00182b62cc-many-doctors-recommend-that-older-people-exercise-regularly-but-most",
+    "file": [
+        "data",
+        "45",
+        "62b7f2bfa21aef00182b62cc.json"
+    ],
+    "topics": [
+        "doctors",
+        "people",
+        "exercise",
+        "patients"
+    ],
+    "question": "Many doctors recommend that older people exercise regularly, but most patients do not follow an exercise routine.Why do you think this happens?How can people be encouraged to exercise regularly?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Several physicians suggest that elder people should work out on daily basis,",
+        "however, the majority of patients do not apply what they are told.",
+        "The primary cause of this issue is that older people are likely to get tired",
+        "easily during  their exercises and",
+        "the most viable encouragement is to illustrate the benefits of working out",
+        "for them.",
+        "High-age people tend to get exhausted while they are doing exercise easily.",
+        "That is to say that they have the inflexibility movements with the older body",
+        "function, which makes it difficult for them to do so,",
+        "and it affects more in those who have obesity.",
+        "This results in they do not move much as they should. For example, the mother of my friend",
+        "has a heavyweight and always gets tired easily by just walking around, therefore, it is",
+        "truly hard for her to have the actual jogging or running.",
+        "Encouraging the older patients to have more physical activities is the most effective method to resolve the problem, by guiding them on how much exercise can benefit their lives. The medical professions may provide them",
+        "the lessons on why working out is crucial in older age both physically and mentally,",
+        "create an exercise plan schedule for them, ,moreover, present the  negative consequence",
+        "of missing the activities. For example, A doctor made a plan for his patients for",
+        "daily life movement and showed them the video of those who skip the exercise compared",
+        "to those who follow it every day.",
+        "In conclusion, many older patients do not follow the doctor's instructions because of",
+        "thier body's functions and likely to be tired quite soon while doing the exercise and",
+        "the best recommendation is to prove to them how great daily working out is for their health."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "in ",
+                "start_idx": 568,
+                "end_idx": 571,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "professions",
+                "start_idx": 1023,
+                "end_idx": 1034,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that professions may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "profession"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 1083,
+                "end_idx": 1085,
+                "error": "Change the verb form",
+                "error_des": "The singular verb is does not appear to agree with the plural subject lessons. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1180,
+                "end_idx": 1181,
+                "error": "Change the punctuation",
+                "error_des": "The punctuation in , , is incorrect. Consider changing the punctuation.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "thier",
+                "start_idx": 1513,
+                "end_idx": 1518,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want thier to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "their",
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "netchanokmalis",
+    "num_words": 291,
+    "num_paragraphs": 22,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "however",
+            "that is",
+            "therefore",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "exercise",
+                "occurrences": [
+                    {
+                        "start_idx": 242,
+                        "end_idx": 250
+                    },
+                    {
+                        "start_idx": 400,
+                        "end_idx": 408
+                    },
+                    {
+                        "start_idx": 978,
+                        "end_idx": 986
+                    },
+                    {
+                        "start_idx": 1148,
+                        "end_idx": 1156
+                    },
+                    {
+                        "start_idx": 1376,
+                        "end_idx": 1384
+                    },
+                    {
+                        "start_idx": 1587,
+                        "end_idx": 1595
+                    }
+                ]
+            },
+            {
+                "word": "patients",
+                "occurrences": [
+                    {
+                        "start_idx": 102,
+                        "end_idx": 110
+                    },
+                    {
+                        "start_idx": 855,
+                        "end_idx": 863
+                    },
+                    {
+                        "start_idx": 1295,
+                        "end_idx": 1303
+                    },
+                    {
+                        "start_idx": 1454,
+                        "end_idx": 1462
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-26T05:47:32.127Z"
+}

@@ -1,0 +1,288 @@
+{
+    "url": "https://writing9.com/text/5cc2e1012887c27e53a981df",
+    "file": [
+        "data",
+        "45",
+        "5cc2e1012887c27e53a981df.json"
+    ],
+    "topics": [
+        "countries",
+        "world",
+        "challenges",
+        "environment",
+        "population",
+        "education",
+        "country",
+        "face",
+        "ten",
+        "years"
+    ],
+    "question": "Countries around the world will be facing significant challenges relating not only to the environment, but population and education as well.\n\nWhat problems will your country face in the next ten years?\n\nHow can these problems be overcome?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The most common problem for the countries around the world is related to the environment. But in recent days, many countries around the world has started facing the challenges related to the population and education problems.",
+        "Being, I am from the second largest populated country India, I could see that India will be facing a huge problem not only to the environment but also the problems which will raise because of the population growth in  the next ten years. Due to several activities of human being, environment is getting spoiled. I see that both environmental and population problems are directly propotional. As, the population increases eventually environmental problems get increased as well.",
+        "In 21st century, India ranks second in most populated country list. If the population gets increased in the same proportion, sooner India will be the first on the list of most populated country ranking. India will be in the position of facing all the problems like scarcity of water, land, food, employment, education etc. This can be overcome, only when the awarness about the over population spreads across each and every people in the country. Government should take necessary steps to spread the awarness via various medium such as, TV ad's, radio news, newspaper etc. May be, the government can go one step ahead and impose a rule that each family should have not more than two kids. Also the government can explain the advantages of using safety measures during sex in order to avoid over population.",
+        "To conclude, there are many issues as mentioned above which will be challenging our country in next ten years due to the over population. Only if the government takes necessary action by joining hands along with each individuals in the country, the issues can be solved and will not have major impact on our future generations."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "environment but",
+                "start_idx": 355,
+                "end_idx": 370,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "environment, but"
+                ]
+            },
+            {
+                "word": "raise",
+                "start_idx": 400,
+                "end_idx": 405,
+                "error": "move upward",
+                "error_des": "",
+                "suggetions": [
+                    "rise"
+                ]
+            },
+            {
+                "word": "environment",
+                "start_idx": 505,
+                "end_idx": 516,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the environment"
+                ]
+            },
+            {
+                "word": "propotional",
+                "start_idx": 604,
+                "end_idx": 615,
+                "error": "properly related in size or degree or other measurable characteristics; usually followed by 'to'",
+                "error_des": "",
+                "suggetions": [
+                    "proportional",
+                    "proportionate"
+                ]
+            },
+            {
+                "word": "increases eventually",
+                "start_idx": 636,
+                "end_idx": 656,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "increases, eventually"
+                ]
+            },
+            {
+                "word": "21st century",
+                "start_idx": 706,
+                "end_idx": 718,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the 21st century"
+                ]
+            },
+            {
+                "word": "list",
+                "start_idx": 765,
+                "end_idx": 769,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "lists"
+                ]
+            },
+            {
+                "word": "awarness",
+                "start_idx": 1062,
+                "end_idx": 1070,
+                "error": "having knowledge of",
+                "error_des": "",
+                "suggetions": [
+                    "awareness"
+                ]
+            },
+            {
+                "word": "people",
+                "start_idx": 1127,
+                "end_idx": 1133,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "person"
+                ]
+            },
+            {
+                "word": "awarness",
+                "start_idx": 1203,
+                "end_idx": 1211,
+                "error": "having knowledge of",
+                "error_des": "",
+                "suggetions": [
+                    "awareness"
+                ]
+            },
+            {
+                "word": "medium",
+                "start_idx": 1224,
+                "end_idx": 1230,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "mediums",
+                    "media"
+                ]
+            },
+            {
+                "word": "over ",
+                "start_idx": 1493,
+                "end_idx": 1498,
+                "error": "too much population",
+                "error_des": "",
+                "suggetions": [
+                    "overpopulation"
+                ]
+            },
+            {
+                "word": "individuals",
+                "start_idx": 1727,
+                "end_idx": 1738,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "individual"
+                ]
+            },
+            {
+                "word": "major impact",
+                "start_idx": 1798,
+                "end_idx": 1810,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a major impact"
+                ]
+            }
+        ]
+    },
+    "submitter": "ergbalachandar",
+    "num_words": 305,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "also",
+            "such",
+            "first",
+            "next",
+            "second",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "population",
+                "occurrences": [
+                    {
+                        "start_idx": 191,
+                        "end_idx": 201
+                    },
+                    {
+                        "start_idx": 422,
+                        "end_idx": 432
+                    },
+                    {
+                        "start_idx": 572,
+                        "end_idx": 582
+                    },
+                    {
+                        "start_idx": 626,
+                        "end_idx": 636
+                    },
+                    {
+                        "start_idx": 779,
+                        "end_idx": 789
+                    },
+                    {
+                        "start_idx": 1087,
+                        "end_idx": 1097
+                    },
+                    {
+                        "start_idx": 1499,
+                        "end_idx": 1509
+                    },
+                    {
+                        "start_idx": 1637,
+                        "end_idx": 1647
+                    }
+                ]
+            },
+            {
+                "word": "country",
+                "occurrences": [
+                    {
+                        "start_idx": 272,
+                        "end_idx": 279
+                    },
+                    {
+                        "start_idx": 758,
+                        "end_idx": 765
+                    },
+                    {
+                        "start_idx": 890,
+                        "end_idx": 897
+                    },
+                    {
+                        "start_idx": 1142,
+                        "end_idx": 1149
+                    },
+                    {
+                        "start_idx": 1595,
+                        "end_idx": 1602
+                    },
+                    {
+                        "start_idx": 1747,
+                        "end_idx": 1754
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-26T10:44:17.000Z"
+}

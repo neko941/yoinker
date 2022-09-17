@@ -1,0 +1,130 @@
+{
+    "url": "https://writing9.com/text/5fe6cd0c8585dd0019317c23-although-it-is-widely-recognized-that-cars-damage-the-environment",
+    "file": [
+        "data",
+        "85",
+        "5fe6cd0c8585dd0019317c23.json"
+    ],
+    "topics": [
+        "cars",
+        "damage",
+        "environment",
+        "case"
+    ],
+    "question": "Although it is widely recognized that cars damage the environment, their manufacture and use continue to increase.\n\n\nWhy is this the case?\n\n\nHow could this increase be controlled?",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Across the globe, the automobile industry is booming, despite the fact that many people believe cars are damaging the environment. The following essay will discuss why this is occurring and what can be done to control the situation.",
+        "Cars continue to be manufactured these days because they are the most popular, comfortable, and efficient form of transportation that is available to most people. If there were a better option that was more affordable, more efficient, and more widely available, then the majority of people would obviously choose it. Although electric and hybrid cars are now becoming increasingly more common, they are not currently as affordable or as available as normal combustion engine vehicles. Furthermore, the automotive and petroleum industries are multi-billion dollar industries in many countries around the world and provide millions of jobs for people and generate millions of dollars in taxes for governments, and therefore shutting those industries down would be a difficult process.",
+        "However, there are some strategies that could be implemented to try to control this issue. Firstly, governments can try to promote the use and manufacture of electric vehicles and other modes of transport that do not burn fossil fuels. Governments could fund further research and design of electric automobiles that harness energy from the sun or that use other alternative forms of energy that do not pollute the earth. Governments can also encourage citizens to use bicycles more often by providing safe cycling zones on roadways, to minimise the risk of accidents with automobiles. Lastly, governments must increase the public transportation infrastructure in their countries and encourage citizens to use it more often by making it cheap and efficient.",
+        "In conclusion, the main reasons that people continue to use cars is simply because it is the best option currently available for those who can afford them, and because the automobile and petroleum industries are so huge that it would cause many problems to simply dispose of them."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "is",
+                "start_idx": 1837,
+                "end_idx": 1839,
+                "error": "Change the verb form",
+                "error_des": "The singular verb is does not appear to agree with the plural subject reasons. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "are"
+                ]
+            }
+        ]
+    },
+    "submitter": "Esther",
+    "num_words": 323,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "further",
+            "also",
+            "furthermore",
+            "lastly",
+            "although",
+            "then",
+            "however",
+            "firstly",
+            "that is",
+            "therefore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "use",
+                "occurrences": [
+                    {
+                        "start_idx": 281,
+                        "end_idx": 284
+                    },
+                    {
+                        "start_idx": 1151,
+                        "end_idx": 1154
+                    },
+                    {
+                        "start_idx": 1368,
+                        "end_idx": 1371
+                    },
+                    {
+                        "start_idx": 1480,
+                        "end_idx": 1483
+                    },
+                    {
+                        "start_idx": 1721,
+                        "end_idx": 1724
+                    },
+                    {
+                        "start_idx": 1829,
+                        "end_idx": 1832
+                    },
+                    {
+                        "start_idx": 1852,
+                        "end_idx": 1855
+                    },
+                    {
+                        "start_idx": 1937,
+                        "end_idx": 1940
+                    },
+                    {
+                        "start_idx": 2009,
+                        "end_idx": 2012
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-12-26T05:41:33.710Z"
+}

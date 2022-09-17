@@ -1,0 +1,179 @@
+{
+    "url": "https://writing9.com/text/62a0ca2ab948af001881c962-the-growth-of-online-shopping-will-one-day-lead-to",
+    "file": [
+        "data",
+        "6",
+        "62a0ca2ab948af001881c962.json"
+    ],
+    "topics": [
+        "growth",
+        "shops",
+        "towns",
+        "cities"
+    ],
+    "question": "The growth of online shopping will one day lead to all shops in towns and cities closing. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The increase in online shopping might impact  the way  society buys things. Nowadays, the number of digital markets is twice  the amount of physical stores. In order to that, some people are worried that in a few years we will experience a lack of shops in towns and cities. As part of that prediction, I disagree that online shopping will be a unique form to purchase goods.",
+        "Firstly, the culture of buying things in a non-digital way is consolidated all over the world. Some people might go shopping in order to have leisure  while others prefer to go physically to the store to try things. Specialists would agree that for some people buying from a typically place should be easier and an entertainment time to deserve. Despite of the amount of online purchasing is growing, it will never replace the standard form.",
+        "Secondly, the impact on the economy should be overwhelming. For instance, dealing with fewer stores, in a physical way, would decrease the number of jobs. Also, the taxes that are given to the government when people buy stuff will reduce significantly. Most important, is to recognize that some policies have already been publicized to guarantee the sustainability of malls and stores with is located in town. Consequently, the decision-makers would not allow the extinction of  physical shopping.",
+        "In conclusion, the two aspects that were shown, the culture and the economic impact, are the main reasons  in the future the online shops wouldn\u00b4t have an enormous impact on stores. Therefore, I disagree that towns and cities shopping will close in the future, however, the number of online options is rapidly increasing."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "typically",
+                "start_idx": 650,
+                "end_idx": 659,
+                "error": "Change the adverb",
+                "error_des": "It appears that the adverb typically is attempting to modify the noun place. Consider replacing the adverb with an adjective.",
+                "suggetions": [
+                    "typical"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 729,
+                "end_idx": 732,
+                "error": "Remove the preposition",
+                "error_des": "The preposition of after Despite may be unnecessary. Consider removing the second preposition.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "is ",
+                "start_idx": 764,
+                "end_idx": 767,
+                "error": "Unnecessary verb",
+                "error_des": "The verb is appears to be unnecessary here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "cities",
+                "start_idx": 1534,
+                "end_idx": 1540,
+                "error": "Change noun form",
+                "error_des": "It seems that this noun form may be incorrect.",
+                "suggetions": [
+                    "cities'",
+                    "city's"
+                ]
+            }
+        ]
+    },
+    "submitter": "gabimaria.nut",
+    "num_words": 272,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "secondly",
+            "also",
+            "firstly",
+            "however",
+            "consequently",
+            "therefore",
+            "for instance"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "stores",
+                "occurrences": [
+                    {
+                        "start_idx": 149,
+                        "end_idx": 155
+                    },
+                    {
+                        "start_idx": 911,
+                        "end_idx": 917
+                    },
+                    {
+                        "start_idx": 1196,
+                        "end_idx": 1202
+                    },
+                    {
+                        "start_idx": 1490,
+                        "end_idx": 1496
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 180,
+                        "end_idx": 186
+                    },
+                    {
+                        "start_idx": 476,
+                        "end_idx": 482
+                    },
+                    {
+                        "start_idx": 630,
+                        "end_idx": 636
+                    },
+                    {
+                        "start_idx": 1027,
+                        "end_idx": 1033
+                    }
+                ]
+            },
+            {
+                "word": "impact",
+                "occurrences": [
+                    {
+                        "start_idx": 38,
+                        "end_idx": 44
+                    },
+                    {
+                        "start_idx": 832,
+                        "end_idx": 838
+                    },
+                    {
+                        "start_idx": 1393,
+                        "end_idx": 1399
+                    },
+                    {
+                        "start_idx": 1480,
+                        "end_idx": 1486
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-08T16:11:24.108Z"
+}

@@ -1,0 +1,159 @@
+{
+    "url": "https://writing9.com/text/5e1c345a75865900186dc88b",
+    "file": [
+        "data",
+        "55",
+        "5e1c345a75865900186dc88b.json"
+    ],
+    "topics": [
+        "tourists",
+        "places",
+        "conditions",
+        "sahara",
+        "desert",
+        "antartica",
+        "visit"
+    ],
+    "question": "Today more and more tourists are visiting places where conditions are difficult, such as the Sahara desert or the Antartica.\nWhat are the benefits and disadvantages for the tourists who visit such places?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, with rapid growth of urban life people try to spend their holidays far from the hustle and bustle in the cities. Usually they plan trips to get close to nature to rejuvenate themselves. There has been a significant increase in the number of people travelling to inhabitable and hostile places over the last few years. Most of them are driven by the passion to achieve something that others have been able to achieve. They want to experience the adrenaline rush such expeditions bring on.",
+        "Travelling to challenging places has both advantages and disadvantages. One of the biggest benefits of undertaking journeys is that they improve one\u2019s confidence in one\u2019s abilities. While the journey can be physically and mentally exhausting, the exhilaration that one experiences upon its successful completion is not something that can be described in mere words. It is this need to tests one\u2019s limits that propelled sailors like Columbus to sail around the world and discover unknown lands. It is the need to conquer the unknown that encourages people to climb mountains. And there are many takers for this trend. Adventure tourism is growing by leaps and bounds. People are aware of the risks, yet they want to experience the thrill. So, they set out on arduous trips.",
+        "On the flip side, travelling to places where nature has been untouched nature can destroy the ecosystem. This rapid growth of tourists could lead to commercialisation, followed by large scale construction and deforestation. It is affirmed that the clear soil and water will be contaminated by human activities, consequently demolishing the environment is the foremost drawbacks of travelling to places where nature is intact. Travelling to such remote and inhabitant places also means lack of any emergency support such as medical or security facilities. For instance, while trekking to the Mount Everest, if there is a need for an immediate medical assistance it will be very difficult to arrange for it due to the unfavourable weather. How can I miss the issues with transportation, lack of food resources and so on.",
+        "To conclude, there is no doubt that there is an inclination in people to travel to places with such thrilling experiences however, they can be equally hazardous yet the positives of this experience outweigh the negatives for many resulting them to plan more such travels."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "rapid growth",
+                "start_idx": 14,
+                "end_idx": 26,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the rapid growth"
+                ]
+            },
+            {
+                "word": "try",
+                "start_idx": 48,
+                "end_idx": 51,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "tries"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 107,
+                "end_idx": 109,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "bring",
+                "start_idx": 487,
+                "end_idx": 492,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "brings"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 879,
+                "end_idx": 881,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "experiences ",
+                "start_idx": 2199,
+                "end_idx": 2211,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "experiences, however"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 387,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "also",
+            "such",
+            "however",
+            "last",
+            "consequently",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "nature",
+                "occurrences": [
+                    {
+                        "start_idx": 163,
+                        "end_idx": 169
+                    },
+                    {
+                        "start_idx": 1316,
+                        "end_idx": 1322
+                    },
+                    {
+                        "start_idx": 1342,
+                        "end_idx": 1348
+                    },
+                    {
+                        "start_idx": 1679,
+                        "end_idx": 1685
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-01-13T09:11:54.592Z"
+}

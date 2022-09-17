@@ -1,0 +1,140 @@
+{
+    "url": "https://writing9.com/text/5d653afbe2b5430017e001f5",
+    "file": [
+        "data",
+        "65",
+        "5d653afbe2b5430017e001f5.json"
+    ],
+    "topics": [
+        "people",
+        "governments",
+        "money",
+        "transport",
+        "priorities",
+        "environment"
+    ],
+    "question": "Some people think governments should spend money on faster means of public transport. However, others think money should be spent on other priorities (such as the environment). Discuss both views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that some people believe that there should be increased spending by national and local authorities on a faster public transport network. While this would provide useful benefits, I agree with those who consider that government resources should be allocated to more important priorities, especially protection of the environment.",
+        "On the one hand, investment in faster means of public transport would, above all, encourage a reduction in the use of private cars. In terms of travelling in the city, traffic grinds to a halt during peak commuting times. Many cities have reduced this problem by spending public money on park and ride schemes, integrated transport systems or have followed the example of Hong Kong in introducing light rail transit systems. Such steps have speeded up journey times by easing traffic flow. From a nationwide perspective, faster inter-city rail services, such as Japan\u2019s famous bullet trains, have also encouraged motorists to leave their cars at home.",
+        "On the other hand, I concur with the view that it is more important for governments to prioritize expenditure on other areas, particularly the environment. Firstly, the consequences of an ecological crisis will be farreaching. If global warming continues, for example, humanity faces the possibility of extinction and no cost is too high for governments to pay in order to prevent such a catastrophe. Secondly, spending on reducing pollution will bring benefits for health, especially in cleaner air and water. Finally, by providing funding for renewable energy, governments will be able to meet their international obligations to reduce their carbon footprint.",
+        "In conclusion, although money should be spent on developing faster public transport, I believe that public spending on other priorities such as the environment is more important."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "especially",
+                "start_idx": 297,
+                "end_idx": 307,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "especial"
+                ]
+            },
+            {
+                "word": "protection",
+                "start_idx": 308,
+                "end_idx": 318,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the protection"
+                ]
+            },
+            {
+                "word": "inter-city",
+                "start_idx": 867,
+                "end_idx": 877,
+                "error": "traveling between cities",
+                "error_des": "",
+                "suggetions": [
+                    "intercity"
+                ]
+            },
+            {
+                "word": "farreaching",
+                "start_idx": 1205,
+                "end_idx": 1216,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "far reaching"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 285,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "secondly",
+            "also",
+            "such",
+            "although",
+            "firstly",
+            "finally",
+            "on the other hand",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "transport",
+                "occurrences": [
+                    {
+                        "start_idx": 129,
+                        "end_idx": 138
+                    },
+                    {
+                        "start_idx": 394,
+                        "end_idx": 403
+                    },
+                    {
+                        "start_idx": 662,
+                        "end_idx": 671
+                    },
+                    {
+                        "start_idx": 1728,
+                        "end_idx": 1737
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-27T14:15:23.491Z"
+}

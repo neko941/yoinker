@@ -1,0 +1,196 @@
+{
+    "url": "https://writing9.com/text/62a97f1ca21aef00182b4d5a-you-recently-read-an-article-in-a-newspaper-about-your",
+    "file": [
+        "data",
+        "45",
+        "62a97f1ca21aef00182b4d5a.json"
+    ],
+    "topics": [
+        "article",
+        "newspaper",
+        "childhood",
+        "friend",
+        "contact",
+        "time",
+        "editor",
+        "edition",
+        "touch"
+    ],
+    "question": "You recently read an article in a newspaper about your childhood friend with whom you have lost contact for a long time.\n\n\nWrite a letter to the editor. In your letter:\n\n\nSay which edition and when did the article appearExplain why you lost contact with your friendSay how you want them to help you to get back in touch",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 5.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "I am an avid reader of your newspaper. Last weekend, I came across a write-up and would like to seek some information about an individual who was flashed in the paper.",
+        "I have been regularly following the sports section, and on 11th June, there was a piece of news covering state-level tennis tournament, which was on the right hand corner of the newspaper copie. This match was played between the sportsmen from Chennai and Delhi. The winner of this nail-bitting competition was Rahul Singh, who I realised was my schoolmate. We grew up together, however later his father got transfered to Delhi and we lost contact with each other due to the hectic college years.",
+        "I was delighted to see his achievement and would like to congratulate him. This time I want to build and maintain the relationship with him. Could you kindly help me with his mobile contact or email id. This will definetely help to start a conversation with him.",
+        "Looking forward to your positive reponse.",
+        "Regrads,",
+        "Devika"
+    ],
+    "errors": {
+        "num_error": "12",
+        "error_list": [
+            {
+                "word": "state-level",
+                "start_idx": 291,
+                "end_idx": 302,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a state-level"
+                ]
+            },
+            {
+                "word": "right hand",
+                "start_idx": 339,
+                "end_idx": 349,
+                "error": "Add a hyphen",
+                "error_des": "It appears that right hand is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "right-hand"
+                ]
+            },
+            {
+                "word": "copie",
+                "start_idx": 374,
+                "end_idx": 379,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want copie to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "copies"
+                ]
+            },
+            {
+                "word": "nail-bitting",
+                "start_idx": 468,
+                "end_idx": 480,
+                "error": "Correct your spelling",
+                "error_des": "The word nail-bitting doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "nail-biting"
+                ]
+            },
+            {
+                "word": "who",
+                "start_idx": 510,
+                "end_idx": 513,
+                "error": "Change the pronoun",
+                "error_des": "It appears that the pronoun who may be used incorrectly. Consider changing it.",
+                "suggetions": [
+                    "whom"
+                ]
+            },
+            {
+                "word": "however",
+                "start_idx": 565,
+                "end_idx": 572,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter however. Consider adding the comma(s).",
+                "suggetions": [
+                    ",however"
+                ]
+            },
+            {
+                "word": "transfered",
+                "start_idx": 594,
+                "end_idx": 604,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want transfered to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "transferred"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 797,
+                "end_idx": 800,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": ".",
+                "start_idx": 885,
+                "end_idx": 886,
+                "error": "Change the punctuation",
+                "error_des": "Consider using a question mark to signify that this sentence is a question.",
+                "suggetions": [
+                    "?"
+                ]
+            },
+            {
+                "word": "definetely",
+                "start_idx": 896,
+                "end_idx": 906,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want definetely to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "definitely"
+                ]
+            },
+            {
+                "word": "reponse",
+                "start_idx": 979,
+                "end_idx": 986,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want reponse to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "response"
+                ]
+            },
+            {
+                "word": "Regrads",
+                "start_idx": 988,
+                "end_idx": 995,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Regrads to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "Regards"
+                ]
+            }
+        ]
+    },
+    "submitter": "vaidyadevika1",
+    "num_words": 174,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "last",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-06-15T06:42:01.408Z"
+}

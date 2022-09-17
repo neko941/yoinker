@@ -1,0 +1,357 @@
+{
+    "url": "https://writing9.com/text/62dc16578ee1ab00180e3dab-developing-medical-treatments-and-medications-is-expensive-some-people-think",
+    "file": [
+        "data",
+        "55",
+        "62dc16578ee1ab00180e3dab.json"
+    ],
+    "topics": [
+        "treatments",
+        "medications",
+        "people",
+        "money",
+        "education",
+        "outweigh"
+    ],
+    "question": "Developing medical treatments and medications is expensive. Some people think that it is better to spend the money on health-oriented preventive education.Do the advantages of this outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Thanks to the development of medical science, people have higher probability to be cured from diseases than before. However, some people argue that the cost is too high to save everyone, they think that instilling perspective of prevention to everyone is a better choice. This essay will discuss the pros and cons of this issue.",
+        "On the one hand, it is difficult to make everyone understand the professional knowledge of health ,otherwise everyone can become a doctor. In addition, everyone is different individual, we can't assure that the same healthy knowledge is effective for everyone. For example, the disease might has different symptoms on different people. If we diagnose it based on our fundamental knowledge without the helping of professional doctor, it may cause some serious result.",
+        "On the other hand, educating children the right health concept since they were young can reduces the chance of getting sick effectively. They will have a more healthy diet and do exercise regularly so that their immune system will be much more better. A lot of research all shows that poor eating and living habit are the main reasons that cause people getting illness. Therefore, if people can live in a healthy way, they can not only become healthier but also can safe lots of money using for medical purpose.",
+        "As far as I am concerned, although improving the healthy concept of people has several positive effect, we still can't stop developing new medical treatment. The best way is doing these two things at the same time so that we can reduce the risk of virus intrusion significantly."
+    ],
+    "errors": {
+        "num_error": "22",
+        "error_list": [
+            {
+                "word": "higher",
+                "start_idx": 57,
+                "end_idx": 63,
+                "error": "Add an article",
+                "error_des": "The noun phrase higher probability seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a higher"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 88,
+                "end_idx": 92,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "perspective",
+                "start_idx": 213,
+                "end_idx": 224,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a perspective"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 239,
+                "end_idx": 241,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "otherwise",
+                "start_idx": 428,
+                "end_idx": 437,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase otherwise. Consider adding a comma.",
+                "suggetions": [
+                    ",otherwise"
+                ]
+            },
+            {
+                "word": "different",
+                "start_idx": 492,
+                "end_idx": 501,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a different"
+                ]
+            },
+            {
+                "word": "has",
+                "start_idx": 620,
+                "end_idx": 623,
+                "error": "Change the verb form",
+                "error_des": "The verb has after the modal verb might does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "have"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 643,
+                "end_idx": 645,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "helping",
+                "start_idx": 729,
+                "end_idx": 736,
+                "error": "Replace the word",
+                "error_des": "The word helping doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "help"
+                ]
+            },
+            {
+                "word": "professional",
+                "start_idx": 740,
+                "end_idx": 752,
+                "error": "Add an article",
+                "error_des": "The noun phrase professional doctor seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a professional"
+                ]
+            },
+            {
+                "word": "result",
+                "start_idx": 787,
+                "end_idx": 793,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that result may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "results"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 833,
+                "end_idx": 836,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on the"
+                ]
+            },
+            {
+                "word": "more ",
+                "start_idx": 1034,
+                "end_idx": 1039,
+                "error": "Change the word",
+                "error_des": "The double comparative more better may be repetitive. Consider changing this to the appropriate comparative form.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "all ",
+                "start_idx": 1065,
+                "end_idx": 1069,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "getting",
+                "start_idx": 1148,
+                "end_idx": 1155,
+                "error": "Change the verb form",
+                "error_des": "Getting doesn\u2019t seem to work here.",
+                "suggetions": [
+                    "to get"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1156,
+                "end_idx": 1156,
+                "error": "Add an article",
+                "error_des": "The noun phrase illness seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the illness",
+                    "an illness"
+                ]
+            },
+            {
+                "word": "illness",
+                "start_idx": 1156,
+                "end_idx": 1163,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that illness may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "illnesses"
+                ]
+            },
+            {
+                "word": "safe",
+                "start_idx": 1261,
+                "end_idx": 1265,
+                "error": "Replace the word",
+                "error_des": "The word safe doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "save"
+                ]
+            },
+            {
+                "word": "purpose",
+                "start_idx": 1298,
+                "end_idx": 1305,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that purpose may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "purposes"
+                ]
+            },
+            {
+                "word": "effect",
+                "start_idx": 1403,
+                "end_idx": 1409,
+                "error": "Change to a plural noun",
+                "error_des": "The singular countable noun effect follows the quantifier several, which requires a plural noun. Consider using a plural noun or a different quantifier.",
+                "suggetions": [
+                    "effects"
+                ]
+            },
+            {
+                "word": "treatment",
+                "start_idx": 1454,
+                "end_idx": 1463,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that treatment may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "treatments"
+                ]
+            },
+            {
+                "word": "doing",
+                "start_idx": 1481,
+                "end_idx": 1486,
+                "error": "Change the verb form",
+                "error_des": "Doing doesn\u2019t seem to work here.",
+                "suggetions": [
+                    "to do"
+                ]
+            }
+        ]
+    },
+    "submitter": "wanyc90",
+    "num_words": 265,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "also",
+            "although",
+            "however",
+            "in addition",
+            "therefore",
+            "on the other hand",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "everyone",
+                "occurrences": [
+                    {
+                        "start_idx": 177,
+                        "end_idx": 185
+                    },
+                    {
+                        "start_idx": 243,
+                        "end_idx": 251
+                    },
+                    {
+                        "start_idx": 370,
+                        "end_idx": 378
+                    },
+                    {
+                        "start_idx": 438,
+                        "end_idx": 446
+                    },
+                    {
+                        "start_idx": 481,
+                        "end_idx": 489
+                    },
+                    {
+                        "start_idx": 580,
+                        "end_idx": 588
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 46,
+                        "end_idx": 52
+                    },
+                    {
+                        "start_idx": 130,
+                        "end_idx": 136
+                    },
+                    {
+                        "start_idx": 657,
+                        "end_idx": 663
+                    },
+                    {
+                        "start_idx": 1142,
+                        "end_idx": 1148
+                    },
+                    {
+                        "start_idx": 1180,
+                        "end_idx": 1186
+                    },
+                    {
+                        "start_idx": 1376,
+                        "end_idx": 1382
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-23T15:40:08.818Z"
+}

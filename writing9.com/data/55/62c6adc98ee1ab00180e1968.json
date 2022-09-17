@@ -1,0 +1,119 @@
+{
+    "url": "https://writing9.com/text/62c6adc98ee1ab00180e1968-tests-and-examinations-are-a-central-feature-of-school-systems",
+    "file": [
+        "data",
+        "55",
+        "62c6adc98ee1ab00180e1968.json"
+    ],
+    "topics": [
+        "tests",
+        "examinations",
+        "feature",
+        "school",
+        "systems",
+        "countries"
+    ],
+    "question": "Tests and examinations are a central feature of school systems in many countries.\rDo you think the educational benefits of testing outweigh any disadvantages?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many students routinely have tested in curriculum school. Examination can evaluate their levels. In my viewpoint, it is an effective way to classify children. But at the same ,time it also has some cons. In this essay, I will explain further with relevant examples.",
+        "On the one hand, having quizzes is a key to grading pupils in curriculum school. If they  pay attention to study and practice exercises, they will get a good score. Moreover, many kids prepare themselves before an examination, as they want to be at the top of the class. When the result came out, their parents and their teachers will know their progress and weakness. These provide developing and improving skills. For instance, when you got a bad grade in Physics, you will learn more lessons and do more assignments.",
+        "On the other hand, some kids strive to learn new things or they are not good at some particular subjects, they are facing hard time although they attend classes. They do not really understand their lessons so they sometimes try to memorize them. When the quiz is over, kids cannot remember anything. This brings them to suffer from the educational system and makes them fear testing. One of the major problems with paperwork is the lack of practical work. Since students focus only on tests but they rarely go for the experiments.",
+        "In conclusion, as roses are always accompanied by thrones",
+        "hence everything has some pros and cons. There should be a balance between paperwork and experiments."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "Examination",
+                "start_idx": 57,
+                "end_idx": 68,
+                "error": "Add an article",
+                "error_des": "The noun phrase Examination seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "An examination",
+                    "The examination"
+                ]
+            },
+            {
+                "word": "hard",
+                "start_idx": 907,
+                "end_idx": 911,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase hard time may not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "a hard"
+                ]
+            },
+            {
+                "word": "time",
+                "start_idx": 912,
+                "end_idx": 916,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that time may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "times"
+                ]
+            },
+            {
+                "word": "testing",
+                "start_idx": 1160,
+                "end_idx": 1167,
+                "error": "Change the verb form",
+                "error_des": "The verb fear is usually followed by the to-infinitive, not by a gerund. Change testing to the to-infinitive form.",
+                "suggetions": [
+                    "to test"
+                ]
+            }
+        ]
+    },
+    "submitter": "chanida.wng",
+    "num_words": 251,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "further",
+            "also",
+            "although",
+            "hence",
+            "on the other hand",
+            "for instance",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-07-07T10:21:50.559Z"
+}

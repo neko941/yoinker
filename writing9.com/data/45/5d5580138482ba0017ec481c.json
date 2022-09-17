@@ -1,0 +1,167 @@
+{
+    "url": "https://writing9.com/text/5d5580138482ba0017ec481c",
+    "file": [
+        "data",
+        "45",
+        "5d5580138482ba0017ec481c.json"
+    ],
+    "topics": [
+        "country",
+        "support"
+    ],
+    "question": "Do you agree or disagree with the following statement? Advertising can tell you a lot about a country. Use specific reasons and examples to support your answer.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Every country has its own culture and traditions. There is no doubt that an advertising campaign conducted in Russia will not have the same affect here in the United States.   Let us take for example advertisement of food and restaurants.",
+        "A huge amount of fast food stands suggest their services for breakfast, lunch, dinner and supper here in Houston. The competition is very strong. Every week you get in your mail-box an envelope with different types of discounts in exchange for visiting them or ordering pizza. Watching TV you are also from time to time invited to visit a restaurant in order to taste some delicious food.  It is not because it is easy to make money cooking but because the demand for such service is high. First of all, people like to go out sometimes to have dinner with friends. Second of all, it is often impossible to drive home for lunch. It can be time consuming.",
+        "As for Russia, it is a great tradition to have dinner at home with the family and go to the restaurant for big holidays. Additionally fast food is not popular in Russia. So you will see advertisements of yogurts, coffee, dairy products and juice instead of  restaurants and fast food stands.",
+        "In conclusion I would like to add that in order to succeed in advertising campaign especially on the international market company must know traditions, language and history of the country."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "affect",
+                "start_idx": 139,
+                "end_idx": 145,
+                "error": "a phenomenon that follows and is caused by some previous phenomenon",
+                "error_des": "",
+                "suggetions": [
+                    "effect"
+                ]
+            },
+            {
+                "word": "suggest",
+                "start_idx": 272,
+                "end_idx": 279,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "suggests"
+                ]
+            },
+            {
+                "word": "mail-box",
+                "start_idx": 411,
+                "end_idx": 419,
+                "error": "a private box for delivery of mail",
+                "error_des": "",
+                "suggetions": [
+                    "mailbox"
+                ]
+            },
+            {
+                "word": "cooking but",
+                "start_idx": 671,
+                "end_idx": 682,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "cooking, but"
+                ]
+            },
+            {
+                "word": "Additionally fast",
+                "start_idx": 1013,
+                "end_idx": 1030,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Additionally, fast"
+                ]
+            },
+            {
+                "word": "conclusion I",
+                "start_idx": 1187,
+                "end_idx": 1199,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "conclusion, I"
+                ]
+            },
+            {
+                "word": "campaign especially",
+                "start_idx": 1258,
+                "end_idx": 1277,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "campaign, especially"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 239,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "instead",
+            "also",
+            "such",
+            "first",
+            "second",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 217,
+                        "end_idx": 221
+                    },
+                    {
+                        "start_idx": 261,
+                        "end_idx": 265
+                    },
+                    {
+                        "start_idx": 622,
+                        "end_idx": 626
+                    },
+                    {
+                        "start_idx": 1032,
+                        "end_idx": 1036
+                    },
+                    {
+                        "start_idx": 1172,
+                        "end_idx": 1176
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-15T15:53:55.485Z"
+}

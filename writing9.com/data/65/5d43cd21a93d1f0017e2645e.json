@@ -1,0 +1,138 @@
+{
+    "url": "https://writing9.com/text/5d43cd21a93d1f0017e2645e",
+    "file": [
+        "data",
+        "65",
+        "5d43cd21a93d1f0017e2645e.json"
+    ],
+    "topics": [
+        "people",
+        "diet",
+        "exercise",
+        "life"
+    ],
+    "question": "Some people think that a good diet and exercise are not necessary for a healthy and long life .To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is thought by some that a balanced diet and physical activity are not required for being healthy and living a long life.Nonetheless, in my view, I disagree with the aforementioned notion, as a healthy diet and regular exercise can lead to a host of benefits including increased health,  energy, happiness, and even a long life.",
+        "To begin with, in conjunction with exercise, a healthy diet can reduce the risk of fatal and life-threatening diseases, such as cardiovascular, hypertension, diabetes and even cancers. Furthermore, eating healthfully and exercising regularly can help in losing weight safely and keeping it off. This can also help in maintaining our current weight, if not overweight, as well as reduce the risk of gaining weight as we age. Healthy foods are generally lower in calories and higher in nutrients than other foods, and regular physical activity burns off extra calories to keep a healthy physique.",
+        "Secondly, a combination of working out and eating healthy foods can boost one's energy level and help them feel more alert and aware, both mentally and physically. Healthy foods give our body the nutrients and vitamins it needs to function at its best. Additionally, exercise stimulates brain chemicals that help produce feelings of happiness, contentment, and relaxation. Working out on a regular basis can also improve our physical appearance, as we burn fat and build muscle, which is a significant factor in boosting self-confidence and inspiring a satisfying life.",
+        "Taking these points into consideration, I reiterate that exercise and diet are pivotal to determining a person's overall health and making them both a part of our lifestyle can make a dramatic difference in how we look and feel."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "body",
+                "start_idx": 1112,
+                "end_idx": 1116,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "bodies"
+                ]
+            },
+            {
+                "word": "vitamins it",
+                "start_idx": 1135,
+                "end_idx": 1146,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "vitamins, it"
+                ]
+            }
+        ]
+    },
+    "submitter": "duarania1994",
+    "num_words": 278,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "secondly",
+            "this",
+            "additionally",
+            "to begin",
+            "nonetheless",
+            "also",
+            "such",
+            "furthermore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "exercise",
+                "occurrences": [
+                    {
+                        "start_idx": 221,
+                        "end_idx": 229
+                    },
+                    {
+                        "start_idx": 366,
+                        "end_idx": 374
+                    },
+                    {
+                        "start_idx": 1193,
+                        "end_idx": 1201
+                    },
+                    {
+                        "start_idx": 1553,
+                        "end_idx": 1561
+                    }
+                ]
+            },
+            {
+                "word": "diet",
+                "occurrences": [
+                    {
+                        "start_idx": 38,
+                        "end_idx": 42
+                    },
+                    {
+                        "start_idx": 204,
+                        "end_idx": 208
+                    },
+                    {
+                        "start_idx": 386,
+                        "end_idx": 390
+                    },
+                    {
+                        "start_idx": 1566,
+                        "end_idx": 1570
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-02T05:41:53.420Z"
+}

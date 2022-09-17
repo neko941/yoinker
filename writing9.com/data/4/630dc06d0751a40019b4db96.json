@@ -1,0 +1,111 @@
+{
+    "url": "https://writing9.com/text/630dc06d0751a40019b4db96-in-the-future-nobody-will-buy-printed-mews-papers-or",
+    "file": [
+        "data",
+        "4",
+        "630dc06d0751a40019b4db96.json"
+    ],
+    "topics": [
+        "future",
+        "nobody",
+        "mews",
+        "papers",
+        "books"
+    ],
+    "question": "In the future nobody will buy printed mews papers or books because they will be able to read  everything online without paying. To what extent do you agree or disagree with this statement?",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The diagram shows the process by which honey is produced by bees, which can be divided into seven consecutive stages.",
+        "The first step is that bees get out of the hive where they live. Next, after looking for a place where are plenty of flowers, the bees will stay on the flowers and start collecting sweet liquid in them. After that, the bees fly back to their container, bring nectar back and save it into cells, which are lots of cells in a hive.",
+        "In the next stage, this is worth noting that the bees lie on the cells and move their wings rapidly. Before honey is produced by them, the bees will through the speed of moving their wind in order to manufacture wind for evaporation, which means it helps water in nectar change to gas. In the last step, after all of the processes mentioned above are done, the honey will be completely made."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "sweet",
+                "start_idx": 298,
+                "end_idx": 303,
+                "error": "Add an article",
+                "error_des": "The noun phrase sweet liquid seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the sweet"
+                ]
+            }
+        ]
+    },
+    "submitter": "a0111590317",
+    "num_words": 156,
+    "num_paragraphs": 3,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "first",
+            "next",
+            "last",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "bees",
+                "occurrences": [
+                    {
+                        "start_idx": 60,
+                        "end_idx": 64
+                    },
+                    {
+                        "start_idx": 141,
+                        "end_idx": 145
+                    },
+                    {
+                        "start_idx": 248,
+                        "end_idx": 252
+                    },
+                    {
+                        "start_idx": 337,
+                        "end_idx": 341
+                    },
+                    {
+                        "start_idx": 497,
+                        "end_idx": 501
+                    },
+                    {
+                        "start_idx": 587,
+                        "end_idx": 591
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-30T07:52:33.053Z"
+}

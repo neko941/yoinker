@@ -1,0 +1,151 @@
+{
+    "url": "https://writing9.com/text/5f5ba52507d0d0001800b2fa",
+    "file": [
+        "data",
+        "75",
+        "5f5ba52507d0d0001800b2fa.json"
+    ],
+    "topics": [
+        "governments",
+        "money",
+        "research",
+        "environment"
+    ],
+    "question": "Governments should spend more money on medical research and less on researching the environment.\nTo what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The issue of whether the government should be investing more in medical research and small amount in the nvironment has been going on for many decades. In my opinion, giving more cash to health care research has many benefits, as without the health we cannot save the planet.",
+        "To begin with, the main reason why the state should be funding more towards scientific research is to save millions of people dying from fatal infections. A prime example, Covid-19 virus has killed close to 435,000 civilians in the period of five months in Spain alone. Based on this situation, we are not far from having another surge in deaths due to an infection spreading again. Money spent on medical research will help in creating a vaccination which can protect the man-kind and as a result, many lives will be saved. Furthermore, it is undeniable that money should also be used to research the area we are surrounded by, however, if we cannot save the humans living on the planet, there is no reason to research the nature.",
+        "Moreover, money spent on research studies will help in generating efficient ways of treating individuals. Take the UK as an example, currently waiting list to see a health professional is 2 months, this is an extremely long period of time to see a specialist. If extra money is funded in medical research, the researchers can come up with better artificial intelligence technology which can be used to assess which patients are the top most priority. Therefore, a silently dying patient will be able to see a doctor based on a quick assessment by artificial intelligence.",
+        "To conclude from the aforementioned arguments, the general consensus seems to be that medical research requires more funding than ever before to save humankind from extinction from  infection and new assessment measures can help in seeing critical patients."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "s",
+                "start_idx": 84,
+                "end_idx": 85,
+                "error": "Add an article",
+                "error_des": "It appears that an article is missing before the word small. Consider adding the article.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "nvironment",
+                "start_idx": 104,
+                "end_idx": 114,
+                "error": "Correct your spelling",
+                "error_des": "The word nvironment is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "environment"
+                ]
+            },
+            {
+                "word": "top most",
+                "start_idx": 1439,
+                "end_idx": 1447,
+                "error": "Correct your spelling",
+                "error_des": "The word top most seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "topmost"
+                ]
+            }
+        ]
+    },
+    "submitter": "mehulsharma",
+    "num_words": 309,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "to begin",
+            "also",
+            "furthermore",
+            "as a result",
+            "however",
+            "therefore",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "research",
+                "occurrences": [
+                    {
+                        "start_idx": 72,
+                        "end_idx": 80
+                    },
+                    {
+                        "start_idx": 199,
+                        "end_idx": 207
+                    },
+                    {
+                        "start_idx": 363,
+                        "end_idx": 371
+                    },
+                    {
+                        "start_idx": 682,
+                        "end_idx": 690
+                    },
+                    {
+                        "start_idx": 865,
+                        "end_idx": 873
+                    },
+                    {
+                        "start_idx": 987,
+                        "end_idx": 995
+                    },
+                    {
+                        "start_idx": 1033,
+                        "end_idx": 1041
+                    },
+                    {
+                        "start_idx": 1304,
+                        "end_idx": 1312
+                    },
+                    {
+                        "start_idx": 1318,
+                        "end_idx": 1326
+                    },
+                    {
+                        "start_idx": 1674,
+                        "end_idx": 1682
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-09-11T16:27:54.329Z"
+}

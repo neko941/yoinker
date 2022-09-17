@@ -1,0 +1,276 @@
+{
+    "url": "https://writing9.com/text/62ea6f1d0562ec00182a091d-most-of-the-worlds-poor-live-in-countries-where-tourism",
+    "file": [
+        "data",
+        "45",
+        "62ea6f1d0562ec00182a091d.json"
+    ],
+    "topics": [
+        "world\u2019s",
+        "countries",
+        "tourism",
+        "industry",
+        "benefit"
+    ],
+    "question": "Most of the world\u2019s poor live in countries where tourism is a growing industry. The issue is that tourism does not benefit the poorest.\n\nWhat is the cause of this?\n\nWhat can be done about this?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Tourism is commonly regarded by developing nations as a pathway to grow the economy, thanks to its tendency to bring in foreign visitors to drive up local spending. Despite the apparent boons, critics argue that the benefits of facilitating this industry are tangential for the grassroots. This essays aims to investigate the underlying reasons of this claim and argue that government-funded education would enable the underprivileged to enjoy the fruit of this lucrative industry.",
+        "While facilitating economic growth, the most common criticism of tourism is that it seldom provides for the lower class. Providing hospitality for visitors from abroad requires a certain level of education, yet this is a scarce commodity in backward countries where people are more concerned with securing their next meal than proper schooling. As a result, the impoverished are unable to take up better paying jobs related tourism such as tour guides and curators, leaving them poor. Perhaps the best illustration to this phenomenon is the impoverished population residing in rural China. Despite having a rich cultural heritage, the local government is unable to capitalize it as a selling point for local tourism due to the language barrier, resulting in inter-generational poverty that has haunted the area for decades.",
+        "To tackle this problem, the administration plays a pivotal role in ensuring the fruits of developing the tourism industry be evenly distributed. One way of doing so is to devote a designated percentage of the proceeds generated from tourism to bankroll schools in impoverished regions. When provided with more education opportunities, those below the poverty line can eventually be self-sufficient. In fact, it is a common practice for governments around the would to levy corporate tax for subsidizing public welfare, with education being prioritized. Through this act of redistribution, it is possible for the local have-nots to eventually stand on their own.",
+        "All in all, the development of the tourism industry should not be left on its own devices due to the uneven distribution of rewards. It is therefore necessary for the government to balance the interests between respective parties to ensure an equitable outcome."
+    ],
+    "errors": {
+        "num_error": "13",
+        "error_list": [
+            {
+                "word": "essays",
+                "start_idx": 294,
+                "end_idx": 300,
+                "error": "Change the determiner",
+                "error_des": "It appears that the singular demonstrative This is modifying the plural noun essays. Consider using a plural demonstrative or a singular noun instead.",
+                "suggetions": [
+                    "essay"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 344,
+                "end_idx": 346,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "better paying",
+                "start_idx": 878,
+                "end_idx": 891,
+                "error": "Add a hyphen",
+                "error_des": "It appears that better paying is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "better-paying"
+                ]
+            },
+            {
+                "word": "tourism",
+                "start_idx": 905,
+                "end_idx": 912,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to tourism"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 996,
+                "end_idx": 998,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 1157,
+                "end_idx": 1159,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on it"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1764,
+                "end_idx": 1764,
+                "error": "Correct your spelling",
+                "error_des": "The word would doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "world"
+                ]
+            },
+            {
+                "word": "would",
+                "start_idx": 1764,
+                "end_idx": 1769,
+                "error": "Correct your spelling",
+                "error_des": "The word would doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "world"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 1770,
+                "end_idx": 1773,
+                "error": "Change the verb form",
+                "error_des": "The word to is usually unnecessary after the modal verb would. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "corporate",
+                "start_idx": 1778,
+                "end_idx": 1787,
+                "error": "Add an article",
+                "error_des": "The noun phrase corporate tax seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a corporate",
+                    "the corporate"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 2038,
+                "end_idx": 2040,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 2106,
+                "end_idx": 2107,
+                "error": "Add the comma(s)",
+                "error_des": "It appears that you are missing a comma or two with the interrupter therefore. Consider adding the comma(s).",
+                "suggetions": [
+                    ", therefore,"
+                ]
+            },
+            {
+                "word": "between",
+                "start_idx": 2170,
+                "end_idx": 2177,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            }
+        ]
+    },
+    "submitter": "samuelhui2004",
+    "num_words": 348,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "such",
+            "as a result",
+            "next",
+            "therefore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 392,
+                        "end_idx": 401
+                    },
+                    {
+                        "start_idx": 678,
+                        "end_idx": 687
+                    },
+                    {
+                        "start_idx": 1616,
+                        "end_idx": 1625
+                    },
+                    {
+                        "start_idx": 1830,
+                        "end_idx": 1839
+                    }
+                ]
+            },
+            {
+                "word": "industry",
+                "occurrences": [
+                    {
+                        "start_idx": 246,
+                        "end_idx": 254
+                    },
+                    {
+                        "start_idx": 472,
+                        "end_idx": 480
+                    },
+                    {
+                        "start_idx": 1419,
+                        "end_idx": 1427
+                    },
+                    {
+                        "start_idx": 2011,
+                        "end_idx": 2019
+                    }
+                ]
+            },
+            {
+                "word": "tourism",
+                "occurrences": [
+                    {
+                        "start_idx": 547,
+                        "end_idx": 554
+                    },
+                    {
+                        "start_idx": 906,
+                        "end_idx": 913
+                    },
+                    {
+                        "start_idx": 1190,
+                        "end_idx": 1197
+                    },
+                    {
+                        "start_idx": 1411,
+                        "end_idx": 1418
+                    },
+                    {
+                        "start_idx": 1539,
+                        "end_idx": 1546
+                    },
+                    {
+                        "start_idx": 2003,
+                        "end_idx": 2010
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-03T12:53:14.061Z"
+}

@@ -1,0 +1,221 @@
+{
+    "url": "https://writing9.com/text/5e89a2342b106c00182c1148",
+    "file": [
+        "data",
+        "5",
+        "5e89a2342b106c00182c1148.json"
+    ],
+    "topics": [
+        "languages",
+        "countries",
+        "usage",
+        "development"
+    ],
+    "question": "A few languages are increasingly spoken in different countries, while the usage of others is rapidly declining. Is this a positive or a negative development?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, travelling around the glove becomes more convenient than ever thanks to advancement of aviation. Hence, a few common languages such as English, French\u2026 spoke more frequent than others allow citizens from different countries to simplify their communication. In my opinion, when a few languages become more popular, it has more advantages than disadvantages.",
+        "On the contrary, we have to admit that reducing the use of unpopular language can lead to some serious issues. First of all, there is a big loss of cultural diversity because languages used sporadically are likely to be forgotten. Therefore, historical values can\u2019t be passed on to next generations. Moreover, native speakers from nations where popular languages are used haven\u2019t motivated to learn second language. This is quite reasonable since learning unpopular languages can be very difficult and learners don\u2019t have lots of benefits from that.",
+        "However, common languages well \u2013 practiced among territories, allow global citizens to communicate more easily. Being able to understand each other thoughts, culture\u2026is crucial for business that performs global trading. For example, the majority of international laws written in English empower global \u2013scale corporation to comprehend rules thoroughly. An other big advantage that we have to mention is that travelling has less hassles when local resident can speak few words from well known languages. Moreover, direction signs written in English makes it easier for tourists to navigate themselves. Lastly, people can gain tremendous educational benefits if they are fluent in popular languages. A great amounts of scientific articles, researches are published in English in these days, so that students which adequate level of English can gain better knowledge.",
+        "In conclusion, the world would become smaller when everyone can communicate with no barrier to each other. Therefore, business, culture, knowledge have better chance to exchange and develop. Nevertheless, scientists should find solution to wide spread unpopular languages as part of culture preservation."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "glove",
+                "start_idx": 31,
+                "end_idx": 36,
+                "error": "the 3rd planet from the sun; the planet we live on",
+                "error_des": "",
+                "suggetions": [
+                    "globe"
+                ]
+            },
+            {
+                "word": "advancement",
+                "start_idx": 81,
+                "end_idx": 92,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the advancement"
+                ]
+            },
+            {
+                "word": "more frequent",
+                "start_idx": 167,
+                "end_idx": 180,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "more frequently"
+                ]
+            },
+            {
+                "word": "languages",
+                "start_idx": 541,
+                "end_idx": 550,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the languages"
+                ]
+            },
+            {
+                "word": "\u2026",
+                "start_idx": 1082,
+                "end_idx": 1083,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    "\u2026"
+                ]
+            },
+            {
+                "word": "global \u2013scale corporation",
+                "start_idx": 1211,
+                "end_idx": 1236,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "global \u2013 scale corporations"
+                ]
+            },
+            {
+                "word": "An other",
+                "start_idx": 1269,
+                "end_idx": 1277,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Another"
+                ]
+            },
+            {
+                "word": "few words",
+                "start_idx": 1382,
+                "end_idx": 1391,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a few words"
+                ]
+            },
+            {
+                "word": "makes",
+                "start_idx": 1464,
+                "end_idx": 1469,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "make"
+                ]
+            },
+            {
+                "word": "have",
+                "start_idx": 1928,
+                "end_idx": 1932,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "has"
+                ]
+            },
+            {
+                "word": "better chance",
+                "start_idx": 1933,
+                "end_idx": 1946,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a better chance"
+                ]
+            },
+            {
+                "word": "solution",
+                "start_idx": 2009,
+                "end_idx": 2017,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a solution",
+                    "the solution"
+                ]
+            },
+            {
+                "word": "wide spread",
+                "start_idx": 2021,
+                "end_idx": 2032,
+                "error": "widely circulated or diffused",
+                "error_des": "",
+                "suggetions": [
+                    "widespread"
+                ]
+            },
+            {
+                "word": "culture",
+                "start_idx": 2064,
+                "end_idx": 2071,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "cultural"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 312,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "13",
+        "list_linking_words": [
+            "nevertheless",
+            "this",
+            "for example",
+            "hence",
+            "first",
+            "next",
+            "therefore",
+            "moreover",
+            "second",
+            "on the contrary",
+            "however",
+            "such",
+            "lastly"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2020-04-05T09:17:40.139Z"
+}

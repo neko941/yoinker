@@ -1,0 +1,117 @@
+{
+    "url": "https://writing9.com/text/62d136c68ee1ab00180e2a3f-many-shopping-malls-have-been-built-in-different-countries-all",
+    "file": [
+        "data",
+        "55",
+        "62d136c68ee1ab00180e2a3f.json"
+    ],
+    "topics": [
+        "malls",
+        "countries",
+        "world",
+        "people"
+    ],
+    "question": "Many shopping malls have been built in different countries all over the world. What are the advantages and disadvantages of this for the local people?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the contemporary epoch, a plethora of various shopping centres have been established across the whole world. Personally, I believe this phenomenon has more benefits as for instance many facilities are grouped at the same location, which saves the customers time. However, the possible drawback is that a such construction may alter the comfort of living in a particular area.",
+        "To begin with, there is a defensible basis for the argument that the majority of individuals prefer shopping malls as a noteworthy opportunity to tackle a vast number of necessities in one place. In connection with this, for instance, people are able to visit groceries, buy clothes, visit friends for a coffee and go to the cinema. Moreover, the parking spots are always available underground. To elaborate these advantages further, when children decide to visit a shopping centre, there is a much less assumption of involving them in for example a car accident, on account of they are inside of one building.",
+        "Despite these advantages, there is no denying a conviction that constructing such huge buildings may deteriorate life of local residents markedly. Linked to this, for instance, these centres might be the source of undesired lightening, noise and rubbish which might affect not only local residents but also wild animals if these structures are located on the outskirt. Another possible drawback is the lowering incomes of local entrepreneurs as the majority of people prefer shopping malls where they can purchase a vast number of items in one place.",
+        "To conclude, from the aforementioned examples, despite some relevant drawbacks, I strongly share the opinion that shopping malls have more benefits.",
+        "."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "have",
+                "start_idx": 65,
+                "end_idx": 69,
+                "error": "Change the verb form",
+                "error_des": "The plural verb have does not appear to agree with the singular subject plethora. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "has"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 304,
+                "end_idx": 306,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun construction in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 953,
+                "end_idx": 956,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "life",
+                "start_idx": 1102,
+                "end_idx": 1106,
+                "error": "Add an article",
+                "error_des": "The noun phrase life seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the life"
+                ]
+            }
+        ]
+    },
+    "submitter": "sevcik.karol",
+    "num_words": 271,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "to begin",
+            "further",
+            "also",
+            "such",
+            "however",
+            "for instance",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-07-15T09:51:18.119Z"
+}

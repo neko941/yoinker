@@ -1,0 +1,104 @@
+{
+    "url": "https://writing9.com/text/60ba743bfa75470018286729-write-a-letter-to-your-friend-about-a-job-opportunity",
+    "file": [
+        "data",
+        "85",
+        "60ba743bfa75470018286729.json"
+    ],
+    "topics": [
+        "friend",
+        "job",
+        "opportunity"
+    ],
+    "question": "Write a letter to your friend about a job opportunity you came across that they might find interesting.In your letter, you should:give some details about the jobmention how you came across the job opportunityexplain why you feel the job would be suitable for your friend",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sam,",
+        "I hope you\u2019re doing well. I\u2019m just writing to let you know about the job opening that might be suitable for you.",
+        "As you know, I\u2019m working at Walmart, and there has a vacant vacancy for an assistant manager that requires 2 years of experience as a department manager.",
+        "Last week, there was a meeting that took place at my workplace and the store manager asked me for any reference for this position. When she was asking me, your name was suddenly stroked up in my mind.",
+        "I think that this would be a wonderful opportunity for you to switch job, as you mentioned before that you were applying for this job several times but did not get any response, so here would be the golden chance for you. Moreover, the location would be the same as your previous job. Maybe you will consider all the positive aspects that I have mentioned to you of this role and decide.",
+        "Let me know if you find it suitable for you, and I will refer you for this position. Say hi to Sarah and Abhin.",
+        "Best wishes,",
+        "Karampal"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "job",
+                "start_idx": 546,
+                "end_idx": 549,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that job may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "jobs"
+                ]
+            }
+        ]
+    },
+    "submitter": "karampalvirk21",
+    "num_words": 188,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "last",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "job",
+                "occurrences": [
+                    {
+                        "start_idx": 79,
+                        "end_idx": 82
+                    },
+                    {
+                        "start_idx": 547,
+                        "end_idx": 550
+                    },
+                    {
+                        "start_idx": 608,
+                        "end_idx": 611
+                    },
+                    {
+                        "start_idx": 758,
+                        "end_idx": 761
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-11T18:09:05.255Z"
+}

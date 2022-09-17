@@ -1,0 +1,138 @@
+{
+    "url": "https://writing9.com/text/5db9cf8916286e0018e5c158",
+    "file": [
+        "data",
+        "4",
+        "5db9cf8916286e0018e5c158.json"
+    ],
+    "topics": [
+        "countries",
+        "children",
+        "work",
+        "people",
+        "responsibility"
+    ],
+    "question": "In many countries, children are engaged in some kind of paid work. Some people consider it valuable work experience, important for learning and taking responsibility. To what extent do you agree or disagree with this?",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It has been observed that at various places children are involved in different works which are compensated with money. It is disagreed that earning money at a very young age helps pupils in any way. This essay will discuss firstly, why working in adolescent age does not add any value and then, advantages of focusing on education and overall development, followed by a reasoned conclusion.",
+        "Most of the employment opportunities for teenagers are usually odd jobs which do not need any specific skills. Even though, they are getting some incentives for the task they do, but it does not help in their future career prospects. According to a study by the American Juvenile Society 98% of the kids end up choosing an altogether different career then they initially worked on, hence the experience they got is totally worthless. However, it is agreed that working does invoke some sense of responsibility among kids.",
+        "Furthermore, there are numerous benefits of spending more time on schooling in the youthful age, they can enhance their professional skills by joining various professional courses. As per survey a good number of highly successful professionals never earned money while studying. Additionally, children will have some time for sports as well which is very essential for physical and mental growth.",
+        "Based on the discussion above, it can be concluded that, there are no merits of doing job at the youthful age. However, a quality educational system will definitely help in shaping their future in the right direction."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 988,
+                "end_idx": 990,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "well which",
+                "start_idx": 1248,
+                "end_idx": 1258,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "well, which"
+                ]
+            },
+            {
+                "word": "job",
+                "start_idx": 1395,
+                "end_idx": 1398,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the job",
+                    "a job",
+                    "jobs"
+                ]
+            }
+        ]
+    },
+    "submitter": "ravijallu.nitj",
+    "num_words": 249,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "furthermore",
+            "initially",
+            "then",
+            "hence",
+            "firstly",
+            "however",
+            "additionally",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "age",
+                "occurrences": [
+                    {
+                        "start_idx": 170,
+                        "end_idx": 173
+                    },
+                    {
+                        "start_idx": 258,
+                        "end_idx": 261
+                    },
+                    {
+                        "start_idx": 301,
+                        "end_idx": 304
+                    },
+                    {
+                        "start_idx": 436,
+                        "end_idx": 439
+                    },
+                    {
+                        "start_idx": 1005,
+                        "end_idx": 1008
+                    },
+                    {
+                        "start_idx": 1416,
+                        "end_idx": 1419
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-30T17:59:37.182Z"
+}

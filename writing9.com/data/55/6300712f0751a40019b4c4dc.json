@@ -1,0 +1,500 @@
+{
+    "url": "https://writing9.com/text/6300712f0751a40019b4c4dc-people-can-eat-a-wide-variety-of-food-from-other",
+    "file": [
+        "data",
+        "55",
+        "6300712f0751a40019b4c4dc.json"
+    ],
+    "topics": [
+        "people",
+        "variety",
+        "food",
+        "regions",
+        "foods"
+    ],
+    "question": "People can eat a wide variety of food from other regions. As a result, they are eating a lot of foreign food instead of locally produced food. Do you think the advantages of eating foreign foods are more than their harms?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is certainly true that the availability of each food product across the world has changed the eating style of people entirely. It is stated that imported food items are eaten by masses significantly as compared to the local food in today's time. However, I personally ponder that these eating habits of people have more drawbacks than benefits that will be elaborated in detail in the forthcoming clauses with suitable instances.",
+        "To commence with, there are multifarious reasons why consumption of imported food is regarded as disadvantageous for public. The preponderant demerit is the disappearance of cultural food. To explain it, unquestionably, if people tend to eat foreign food regularly instead of locally produced goods, as a result, native food of that place may loss their existence somewhere. To exemplify it, take an example of Punjab where people use to eat varieties of food products that come from other countries instead of own one, as a result, cultural food of that region is at the edge of extinction currently. Thus, eating more imported food may proven threatful for the preservation of native food. In addition, the another striking con of eating foreign food is the contamination of environment. It is a matter of fact that usage of the ships, aeroplanes and trains are done by the individuals for the sake of food importation, as a consequences, not only water, but air pollution also spread Continuously on the earth.",
+        "On the other hand, despite having various demerits of eating foreign food, it also provides few of the benefits to public. The first and foremost advantage of eating exotic food is that it strengthen the interpersonal relationships among nations. In other words, undoubtedly, when all the countries deals with each other for the importation of food, then it is obviously that they become dependent upon one another thoroughly, as a repercussions, their relationships may never be broke at any expenses. For instance, the kiwi which is known as a native fruit of Newzealand and now every nation import that fruit from there, as a consequences, it becomes possible for that country to build better relationship with well- developed nations as well. Thereby, importing food from other nations also eliminate the chances of conflicts among regions.",
+        "To conclude, unquestionably, having overseas cuisines is not that much outrageous for folks, it should be eaten by them in at some limit; otherwise the consequences may be unimaginable as the contamination of environment and existence of cultural food may lose due to overconsumption of it."
+    ],
+    "errors": {
+        "num_error": "32",
+        "error_list": [
+            {
+                "word": "masses",
+                "start_idx": 180,
+                "end_idx": 186,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the masses"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 370,
+                "end_idx": 372,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on in"
+                ]
+            },
+            {
+                "word": "public",
+                "start_idx": 549,
+                "end_idx": 555,
+                "error": "Add an article",
+                "error_des": "The noun phrase public seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the public"
+                ]
+            },
+            {
+                "word": "native",
+                "start_idx": 745,
+                "end_idx": 751,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the native"
+                ]
+            },
+            {
+                "word": "loss",
+                "start_idx": 775,
+                "end_idx": 779,
+                "error": "Replace the word",
+                "error_des": "The word loss doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "lose"
+                ]
+            },
+            {
+                "word": "their",
+                "start_idx": 780,
+                "end_idx": 785,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "its"
+                ]
+            },
+            {
+                "word": "an",
+                "start_idx": 829,
+                "end_idx": 831,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "own",
+                "start_idx": 943,
+                "end_idx": 946,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "their own"
+                ]
+            },
+            {
+                "word": "cultural",
+                "start_idx": 965,
+                "end_idx": 973,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the cultural"
+                ]
+            },
+            {
+                "word": "proven",
+                "start_idx": 1070,
+                "end_idx": 1076,
+                "error": "Change the verb form",
+                "error_des": "The verb proven after the modal verb may does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "be proven",
+                    "prove"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 1087,
+                "end_idx": 1090,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1137,
+                "end_idx": 1141,
+                "error": "Remove the article",
+                "error_des": "It is unlikely that your sentence needs the article the before another. Consider deleting the article.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "environment",
+                "start_idx": 1209,
+                "end_idx": 1220,
+                "error": "Add an article",
+                "error_des": "The noun phrase environment seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the environment"
+                ]
+            },
+            {
+                "word": "consequences",
+                "start_idx": 1359,
+                "end_idx": 1371,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun consequences in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "consequence"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 1542,
+                "end_idx": 1545,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "public",
+                "start_idx": 1561,
+                "end_idx": 1567,
+                "error": "Add an article",
+                "error_des": "The noun phrase public seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the public"
+                ]
+            },
+            {
+                "word": "strengthen",
+                "start_idx": 1635,
+                "end_idx": 1645,
+                "error": "Change the verb form",
+                "error_des": "The verb strengthen does not seem to agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "strengthens"
+                ]
+            },
+            {
+                "word": "deals",
+                "start_idx": 1745,
+                "end_idx": 1750,
+                "error": "Change the verb form",
+                "error_des": "The singular verb deals does not appear to agree with the plural subject countries. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "deal"
+                ]
+            },
+            {
+                "word": "obviously",
+                "start_idx": 1807,
+                "end_idx": 1816,
+                "error": "Replace the word",
+                "error_des": "The word obviously doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "obvious"
+                ]
+            },
+            {
+                "word": "as",
+                "start_idx": 1873,
+                "end_idx": 1875,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and as"
+                ]
+            },
+            {
+                "word": "a repercussions",
+                "start_idx": 1876,
+                "end_idx": 1891,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun repercussions in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "a repercussion",
+                    "repercussions"
+                ]
+            },
+            {
+                "word": "broke",
+                "start_idx": 1926,
+                "end_idx": 1931,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb broke. Consider changing it.",
+                "suggetions": [
+                    "broken"
+                ]
+            },
+            {
+                "word": "expenses",
+                "start_idx": 1939,
+                "end_idx": 1947,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that expenses may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "expense"
+                ]
+            },
+            {
+                "word": "import",
+                "start_idx": 2040,
+                "end_idx": 2046,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that import may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "imports"
+                ]
+            },
+            {
+                "word": "consequences",
+                "start_idx": 2075,
+                "end_idx": 2087,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun consequences in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "consequence"
+                ]
+            },
+            {
+                "word": "better",
+                "start_idx": 2135,
+                "end_idx": 2141,
+                "error": "Add an article",
+                "error_des": "The noun phrase better relationship seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a better"
+                ]
+            },
+            {
+                "word": "relationship",
+                "start_idx": 2142,
+                "end_idx": 2154,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that relationship may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "relationships"
+                ]
+            },
+            {
+                "word": "well- developed",
+                "start_idx": 2160,
+                "end_idx": 2175,
+                "error": "Correct your spelling",
+                "error_des": "The word well- developed seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "well-developed"
+                ]
+            },
+            {
+                "word": "eliminate",
+                "start_idx": 2241,
+                "end_idx": 2250,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb eliminate does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "eliminates"
+                ]
+            },
+            {
+                "word": "in ",
+                "start_idx": 2411,
+                "end_idx": 2414,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "otherwise",
+                "start_idx": 2429,
+                "end_idx": 2438,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase otherwise. Consider adding a comma.",
+                "suggetions": [
+                    ",otherwise"
+                ]
+            },
+            {
+                "word": "environment",
+                "start_idx": 2500,
+                "end_idx": 2511,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the environment"
+                ]
+            }
+        ]
+    },
+    "submitter": "Mrjit147",
+    "num_words": 419,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "thus",
+            "instead",
+            "also",
+            "first",
+            "as a result",
+            "then",
+            "however",
+            "in addition",
+            "on the other hand",
+            "for instance",
+            "in other words"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 51,
+                        "end_idx": 55
+                    },
+                    {
+                        "start_idx": 157,
+                        "end_idx": 161
+                    },
+                    {
+                        "start_idx": 227,
+                        "end_idx": 231
+                    },
+                    {
+                        "start_idx": 510,
+                        "end_idx": 514
+                    },
+                    {
+                        "start_idx": 616,
+                        "end_idx": 620
+                    },
+                    {
+                        "start_idx": 683,
+                        "end_idx": 687
+                    },
+                    {
+                        "start_idx": 753,
+                        "end_idx": 757
+                    },
+                    {
+                        "start_idx": 888,
+                        "end_idx": 892
+                    },
+                    {
+                        "start_idx": 975,
+                        "end_idx": 979
+                    },
+                    {
+                        "start_idx": 1062,
+                        "end_idx": 1066
+                    },
+                    {
+                        "start_idx": 1119,
+                        "end_idx": 1123
+                    },
+                    {
+                        "start_idx": 1181,
+                        "end_idx": 1185
+                    },
+                    {
+                        "start_idx": 1337,
+                        "end_idx": 1341
+                    },
+                    {
+                        "start_idx": 1516,
+                        "end_idx": 1520
+                    },
+                    {
+                        "start_idx": 1620,
+                        "end_idx": 1624
+                    },
+                    {
+                        "start_idx": 1791,
+                        "end_idx": 1795
+                    },
+                    {
+                        "start_idx": 2213,
+                        "end_idx": 2217
+                    },
+                    {
+                        "start_idx": 2539,
+                        "end_idx": 2543
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 113,
+                        "end_idx": 119
+                    },
+                    {
+                        "start_idx": 306,
+                        "end_idx": 312
+                    },
+                    {
+                        "start_idx": 656,
+                        "end_idx": 662
+                    },
+                    {
+                        "start_idx": 857,
+                        "end_idx": 863
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-20T05:29:20.991Z"
+}

@@ -1,0 +1,112 @@
+{
+    "url": "https://writing9.com/text/62c990f98ee1ab00180e1e01-write-a-letter-to-the-college-enrolment-officer-in-your",
+    "file": [
+        "data",
+        "85",
+        "62c990f98ee1ab00180e1e01.json"
+    ],
+    "topics": [
+        "college",
+        "enrolment",
+        "officer",
+        "circumstances",
+        "exception",
+        "enrol",
+        "course"
+    ],
+    "question": "Write a letter to the college enrolment officer. In your letter\n\n\nexplain why you are writing\n\n\ndescribe your circumstances\n\n\nask if a special exception can be made for you so you can enrol in the course",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr Pual Smith,",
+        "I am writing this letter to you because I am really interested in a computer course that was displayed in the brochure. I am just concerned about some issues that are related to your enrollment qualifications.",
+        "I highly desire to learn an advanced computer online course because it would have many advantages in the foreseeable future. Moreover, this class will bring my skill to adjust to computer assignments also.",
+        "My concerned problem is about my education background as I graduated in Business class and did not continue to submit in basic computer diploma. As I know, my sibling who was similar status as me now was accepted in the advanced computer section last year. That would be a wonderful thing if you can offer some specially related courses as you gave my sister.",
+        "I would like you to take into consideration excepting educational background for me to enter this class and looking forward to hearing good news from you soon.",
+        "Yours sincerely,",
+        "Asahi"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "specially",
+                "start_idx": 746,
+                "end_idx": 755,
+                "error": "Replace the word",
+                "error_des": "The word specially may be used incorrectly. Review the following notes to determine the appropriate usage for your context.",
+                "suggetions": [
+                    "especially"
+                ]
+            }
+        ]
+    },
+    "submitter": "Duangjai.lot",
+    "num_words": 167,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "also",
+            "last",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "computer",
+                "occurrences": [
+                    {
+                        "start_idx": 88,
+                        "end_idx": 96
+                    },
+                    {
+                        "start_idx": 267,
+                        "end_idx": 275
+                    },
+                    {
+                        "start_idx": 409,
+                        "end_idx": 417
+                    },
+                    {
+                        "start_idx": 563,
+                        "end_idx": 571
+                    },
+                    {
+                        "start_idx": 665,
+                        "end_idx": 673
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-09T14:32:51.221Z"
+}

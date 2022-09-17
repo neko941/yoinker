@@ -1,0 +1,159 @@
+{
+    "url": "https://writing9.com/text/62f4f6a7a70b55001806ce3e-many-people-believe-that-social-networking-sites-such-as-facebook",
+    "file": [
+        "data",
+        "65",
+        "62f4f6a7a70b55001806ce3e.json"
+    ],
+    "topics": [
+        "people",
+        "sites",
+        "facebook",
+        "impact",
+        "individuals",
+        "society"
+    ],
+    "question": "Many people believe that social networking sites (such as Facebook) have had a huge negative impact on both individuals and society. To what extent do you agree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Social networking sites, for ,instance Facebook, are thought by some to have had a detrimental effect on individual people as well as society and local associations. However, while I believe that such grounds are mainly beneficial to the individual, I agree that they have had a damaging effect on local communities.",
+        "With regards to individuals, the impact that online social media has had on each individual person has clear advantages. Firstly, people from different countries are brought together through such sites as Facebook whereas ,before the development of technology and social networking grounds, society rarely had the chance to meet or communicate with anyone outside of their immediate circle or association. Secondly, Facebook also has social groups which offer individuals a chance to meet and participate in discussions with group who share common interests.",
+        "On the other hand, the consequence that Facebook and other social networking sites have had on societies and local associations can only be seen as negative. Rather than individual people taking part in their local association, they are instead choosing to take more interest in people online. Consequently, the community within local communities is no longer forming close or supportive relationships. Furthermore, the community as a whole is becoming increasingly disjointed and fragmented as people spend more time online with people they have never met face to face and whom they are unlikely to ever meet in the future.",
+        "To conclude, although social networking grounds have brought individuals closer together, they have not had the same effect on society or local communities. Local communities should do more to try and involve local people in local activities in order to promote the future of community life."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "",
+                "start_idx": 841,
+                "end_idx": 841,
+                "error": "Add an article",
+                "error_des": "The noun phrase group seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a group",
+                    "the group"
+                ]
+            },
+            {
+                "word": "group",
+                "start_idx": 841,
+                "end_idx": 846,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that group may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "groups"
+                ]
+            }
+        ]
+    },
+    "submitter": "abbasoveli",
+    "num_words": 279,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "secondly",
+            "instead",
+            "also",
+            "such",
+            "furthermore",
+            "although",
+            "firstly",
+            "however",
+            "consequently",
+            "on the other hand"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "communities",
+                "occurrences": [
+                    {
+                        "start_idx": 304,
+                        "end_idx": 315
+                    },
+                    {
+                        "start_idx": 1211,
+                        "end_idx": 1222
+                    },
+                    {
+                        "start_idx": 1645,
+                        "end_idx": 1656
+                    },
+                    {
+                        "start_idx": 1664,
+                        "end_idx": 1675
+                    }
+                ]
+            },
+            {
+                "word": "facebook",
+                "occurrences": []
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 116,
+                        "end_idx": 122
+                    },
+                    {
+                        "start_idx": 447,
+                        "end_idx": 453
+                    },
+                    {
+                        "start_idx": 1057,
+                        "end_idx": 1063
+                    },
+                    {
+                        "start_idx": 1155,
+                        "end_idx": 1161
+                    },
+                    {
+                        "start_idx": 1371,
+                        "end_idx": 1377
+                    },
+                    {
+                        "start_idx": 1406,
+                        "end_idx": 1412
+                    },
+                    {
+                        "start_idx": 1716,
+                        "end_idx": 1722
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-11T12:36:22.806Z"
+}

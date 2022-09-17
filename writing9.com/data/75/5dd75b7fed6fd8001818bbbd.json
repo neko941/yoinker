@@ -1,0 +1,124 @@
+{
+    "url": "https://writing9.com/text/5dd75b7fed6fd8001818bbbd-you-should-spend-about-20-minutes-on-this-task-you-have",
+    "file": [
+        "data",
+        "75",
+        "5dd75b7fed6fd8001818bbbd.json"
+    ],
+    "topics": [
+        "minutes",
+        "student",
+        "identification",
+        "card",
+        "director",
+        "services",
+        "situation",
+        "request",
+        "addresses"
+    ],
+    "question": "You should spend about 20 minutes on this task.\nYou have lost your student identification card. This has created some problems for you.\nWrite a letter to the director of student services. In your letter\n\u2022\tadvise them of your situation\n\u2022\texplain how this is affecting you\n\u2022\trequest a new card\nYou do NOT need to write any addresses. Begin your letter as follows:\nDear\n \nYou should write at least 150 words.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "I am writing in regards to the loss of my student identification card, without which I am facing issues.",
+        "I bring my identification card daily and is usually tied to the belt of my paint. But a few days back I noticed it wasn\u2019t there. Even after looking at all the possible places and even complaining at lost and found, I have come to a conclusion, that it might have got lost while I was driving my bike.",
+        "Without an ID I am not able to issue any book from library. Even more, to return the books I do require a student ID, failure to produce which the books are not returned. This has caused me a fine of Rs. 100 till date. The absence of ID especially causes issues when there is an event in the college, taking part in which requires my ID.",
+        "I am in an urgent need of a new identification card. Although I know that it takes approximately 30 days, I would be grateful if you could issue it earlier.",
+        "Faithfully yours,",
+        "Anmol."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "at",
+                "start_idx": 316,
+                "end_idx": 318,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "about"
+                ]
+            },
+            {
+                "word": "library",
+                "start_idx": 472,
+                "end_idx": 479,
+                "error": "Add an article",
+                "error_des": "The noun phrase library seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the library"
+                ]
+            },
+            {
+                "word": "an ",
+                "start_idx": 767,
+                "end_idx": 770,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "sevis24575",
+    "num_words": 180,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "although",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "id",
+                "occurrences": [
+                    {
+                        "start_idx": 66,
+                        "end_idx": 68
+                    },
+                    {
+                        "start_idx": 132,
+                        "end_idx": 134
+                    },
+                    {
+                        "start_idx": 792,
+                        "end_idx": 794
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T17:47:52.003Z"
+}

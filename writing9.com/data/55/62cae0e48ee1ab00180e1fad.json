@@ -1,0 +1,134 @@
+{
+    "url": "https://writing9.com/text/62cae0e48ee1ab00180e1fad-many-people-believe-cities-should-not-try-to-preserve-its",
+    "file": [
+        "data",
+        "55",
+        "62cae0e48ee1ab00180e1fad.json"
+    ],
+    "topics": [
+        "people",
+        "cities",
+        "buildings"
+    ],
+    "question": "Many people believe cities should not try to preserve its old, historic buildings and instead ,they should destroy them and replace them with modern buildings. To what extent do you agree?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There is currently a contentious argument advocating that metropolitan authorities should demolish old city structures instead of preserving them in order to make way for new ones.  I strongly disagree with this notion because they are a window into the past and an asset to national tourism.",
+        "The main reason why I strongly advocate against the destruction of the old buildings is because they are a window into the past.  Every building is a form of living history and can tell us something about the city\u2019s past.  By studying older buildings, researchers can glean an understanding about the evolution of construction methods as well as the development of the prevailing culture.   Notwithstanding this, the historical buildings stand in testimony to those who have gone before us and took the time to build something meaningful and the architecture is a form of art that once destroyed will be gone forever.",
+        "Another reason why I don\u2019t support the demolition of older buildings is that they are a valuable asset to the tourism industry.  Many modern cities have an abundant and rich past.  The older buildings are tangible evidence of that past.  A lot of tourists will go out of their way to visit a city just to see and touch that history.  Without the historical buildings, many cities would lose their identity.  For instance, I can go to a nightclub or shopping centre in near any city in the world, but it is only in New York that I can see the Empire State Building.",
+        "In conclusion, I am completely against the destruction of old buildings as it would deprive us of insights into our history and it would also cause us to lose valuable tourism revenue.  Instead of looking to destroy what others have built, I think governments should immediately take steps to protect our heritage."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "because",
+                "start_idx": 380,
+                "end_idx": 387,
+                "error": "Replace the word",
+                "error_des": "It appears that the conjunction because is the wrong word choice after reason is. Consider changing it to that or rewriting the sentence.",
+                "suggetions": [
+                    "that"
+                ]
+            },
+            {
+                "word": "about",
+                "start_idx": 583,
+                "end_idx": 588,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "in ",
+                "start_idx": 1375,
+                "end_idx": 1378,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "sidramassri47",
+    "num_words": 305,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "also",
+            "for instance",
+            "instead",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "buildings",
+                "occurrences": [
+                    {
+                        "start_idx": 368,
+                        "end_idx": 377
+                    },
+                    {
+                        "start_idx": 534,
+                        "end_idx": 543
+                    },
+                    {
+                        "start_idx": 721,
+                        "end_idx": 730
+                    },
+                    {
+                        "start_idx": 970,
+                        "end_idx": 979
+                    },
+                    {
+                        "start_idx": 1102,
+                        "end_idx": 1111
+                    },
+                    {
+                        "start_idx": 1268,
+                        "end_idx": 1277
+                    },
+                    {
+                        "start_idx": 1538,
+                        "end_idx": 1547
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-10T14:23:33.867Z"
+}

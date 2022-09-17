@@ -1,0 +1,147 @@
+{
+    "url": "https://writing9.com/text/62fc55820751a40019b4bd94-in-some-countries-the-average-weight-of-people-is-increasing",
+    "file": [
+        "data",
+        "75",
+        "62fc55820751a40019b4bd94.json"
+    ],
+    "topics": [
+        "countries",
+        "weight",
+        "people",
+        "level",
+        "fitness"
+    ],
+    "question": "In some countries the average weight of people is increasing and their level of fitness are decreasing. What do you think are causes of these problem and solutions?",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is true that in today's scenario the minimum weight of an individual is inclined day by day and their fitness  level is decrease occurs in  many countries . Essay I will explain why this is happening and the outcome of the several ways of solutions which I will discuss in upcoming paragraphs with the relevant examples and conclusions .",
+        "To commence with, Firstly, individuals eat a lot in their daily life and they do not do any kind of work to maintain their fitness . Moreover, they also  face many problems in their life regarding their health issues. For example conducted in Delhi  shows that 70% of Invisibles are overweight because they eat exotic food and  face many problems as well as , suffering from a stomach infections, heart attacks and many more.",
+        "Turning to remedial action, masses make their diet plan which they follow and the become a fit person. Furthermore, they go to the gym or  join some health club which helps them to maintain their fitness level. Besides, they  avoid fast food and  give more preference to their traditional food which gives  more nutrients to their body. More than that, also do some regular exercise such as yoga, meditation and many more which help them to become more or increase their fitness level and they can do more concentration on their daily work. Additionally, they also go for a morning walk to maintain  their weight and become a healthy person.",
+        "In conclusion, Although, the masses do not do any work in their daily life and they eat fast food and face many problems yet , They give more preference to their home food which helps them to become physically fit. In addition to this, to do some exercise that helps them to overcome their weight."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": " ",
+                "start_idx": 570,
+                "end_idx": 571,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase For example. Consider adding a comma.",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "a stomach infections",
+                "start_idx": 715,
+                "end_idx": 735,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun infections in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "a stomach infection",
+                    "stomach infections"
+                ]
+            }
+        ]
+    },
+    "submitter": "navroopkaur600",
+    "num_words": 299,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "also",
+            "such",
+            "furthermore",
+            "although",
+            "besides",
+            "firstly",
+            "additionally",
+            "in addition",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 659,
+                        "end_idx": 663
+                    },
+                    {
+                        "start_idx": 1004,
+                        "end_idx": 1008
+                    },
+                    {
+                        "start_idx": 1056,
+                        "end_idx": 1060
+                    },
+                    {
+                        "start_idx": 1502,
+                        "end_idx": 1506
+                    },
+                    {
+                        "start_idx": 1576,
+                        "end_idx": 1580
+                    }
+                ]
+            },
+            {
+                "word": "fitness",
+                "occurrences": [
+                    {
+                        "start_idx": 105,
+                        "end_idx": 112
+                    },
+                    {
+                        "start_idx": 464,
+                        "end_idx": 471
+                    },
+                    {
+                        "start_idx": 963,
+                        "end_idx": 970
+                    },
+                    {
+                        "start_idx": 1238,
+                        "end_idx": 1245
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-17T03:06:52.277Z"
+}

@@ -1,0 +1,198 @@
+{
+    "url": "https://writing9.com/text/5dde3954db52040018c04e04",
+    "file": [
+        "data",
+        "4",
+        "5dde3954db52040018c04e04.json"
+    ],
+    "topics": [
+        "complaint",
+        "manager",
+        "furniture",
+        "company",
+        "purchase",
+        "delivery",
+        "items"
+    ],
+    "question": "Write a complaint to a manager of furniture company regarding the purchase you made and the problems you had when delivery arrived. You should describe: -\n\nThings that you bought,\nThe broken items in the furniture\nWhat do you want the manager to do.",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 4.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "My name is Vicky Amin and I am writing this letter to complaint about my recent purchase with your company. Recently, I was delivered a sofa and a rocking chair but was shocked to find out how contradictory it was, as compared to your online classified.",
+        "I had ordered one king-size sofa for my living room weighing 10kg, with an average height of 20m and 10m width made of pure cotton. Two cushions were provided free as part of ongoing promotional offer. Also, I had booked a wooden rocking chair, made of pure wood and had carved side rests. Also, it had extended head rest made from African timber, in all the chair weighed about 7kgs.",
+        "I was aghast to find that delivered goods were broken and opposite to what your firm claims. Sofa had a broken right wheel disbalancing it completely. It lacks proper finishing on edges making it vulnerable for someone to get hurt. Speaking about chair, it does not have extra space for head rest and wooden carvings are incomplete in some areas and seems to be work of an amateur.",
+        "It would be my humble request, if you can pick these items back from my house and replace it with actual products that I had ordered as per my expectations. Also, to compensate the trouble and time I had invested, I request you to provide the logistics support free at no extra cost.",
+        "I hope to hear a positive response from you soon.",
+        "Yours faithfully,",
+        "Vicky Amin."
+    ],
+    "errors": {
+        "num_error": "10",
+        "error_list": [
+            {
+                "word": "complaint",
+                "start_idx": 69,
+                "end_idx": 78,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "complain"
+                ]
+            },
+            {
+                "word": "chair but",
+                "start_idx": 170,
+                "end_idx": 179,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "chair, but"
+                ]
+            },
+            {
+                "word": "contradictory it",
+                "start_idx": 208,
+                "end_idx": 224,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "contradictory, it"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 302,
+                "end_idx": 305,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "chair",
+                "start_idx": 628,
+                "end_idx": 633,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "chairs"
+                ]
+            },
+            {
+                "word": "disbalancing",
+                "start_idx": 777,
+                "end_idx": 789,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "edges",
+                "start_idx": 834,
+                "end_idx": 839,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the edges"
+                ]
+            },
+            {
+                "word": "chair",
+                "start_idx": 901,
+                "end_idx": 906,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the chair",
+                    "chairs",
+                    "a chair"
+                ]
+            },
+            {
+                "word": "space for head",
+                "start_idx": 931,
+                "end_idx": 945,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "head space for"
+                ]
+            },
+            {
+                "word": "work",
+                "start_idx": 1016,
+                "end_idx": 1020,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the work"
+                ]
+            }
+        ]
+    },
+    "submitter": "vickyamin0991",
+    "num_words": 253,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "also",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "chair",
+                "occurrences": [
+                    {
+                        "start_idx": 171,
+                        "end_idx": 176
+                    },
+                    {
+                        "start_idx": 508,
+                        "end_idx": 513
+                    },
+                    {
+                        "start_idx": 629,
+                        "end_idx": 634
+                    },
+                    {
+                        "start_idx": 902,
+                        "end_idx": 907
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-11-27T08:52:36.535Z"
+}

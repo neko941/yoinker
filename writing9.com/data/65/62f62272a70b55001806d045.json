@@ -1,0 +1,279 @@
+{
+    "url": "https://writing9.com/text/62f62272a70b55001806d045-some-people-believe-that-medical-doctors-should-also-be-academic",
+    "file": [
+        "data",
+        "65",
+        "62f62272a70b55001806d045.json"
+    ],
+    "topics": [
+        "people",
+        "doctors",
+        "researchers",
+        "time"
+    ],
+    "question": "Some people believe that medical doctors should also be academic researchers at the same time. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The modern medinice develops dramatically in recent years. This requires the doctors to extend their role, not only in treating the patients, but also taking part in medical trials. Although many people accept this fact, I would insist that the doctors should focus on the patients.",
+        "On the one hand, treatment is not easy. First of all, the development of medical techniques such as CT, MRI, PET scans... helps to detect new diseases. Therefore, the doctors must update latest knowledge and state-of-the-art techniques to improve healthcare qualities and they have no time for researching by their own. Secondly, the future of medicine is individual treatment. This means that each patient needs a specific approach and treatment. The time for each patient will increase. There is no doubt that the physicians couldn't join any studies.",
+        "On the other hand, it is true to say that an academic researcher needs different qualities from a clinician. Firstly, a researcher needs to be good at mathematics. This is far from the daily practice of a doctor. For example, a good cardiologist will need to be good at clinical examination, hearing the heart sounds, being familiar with cardiovascular medicine. There is no way to help him to be a mathematician with his learning or routine practice. Besides, it takes many years to become good doctors. They spend a large part of their life in the hospital: staying with patients, acquiring new skills, attending countless night shifts. I'm sure  that the academic researches will invite them to join, this will raise the question of wasting their talents for a wrong purpose.",
+        "In conclusion, being good doctors and academic researchers at the same time appears to be a new concept. Personally, I hold the idea of keeping tradiotional role of doctors. The patients need them, not researchers."
+    ],
+    "errors": {
+        "num_error": "15",
+        "error_list": [
+            {
+                "word": "",
+                "start_idx": 10,
+                "end_idx": 10,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want medinice to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "medicine"
+                ]
+            },
+            {
+                "word": "medinice",
+                "start_idx": 10,
+                "end_idx": 18,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want medinice to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "medicine"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 140,
+                "end_idx": 141,
+                "error": "Remove the comma",
+                "error_des": "The comma before the conjunction but also appears to be unnecessary. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "taking",
+                "start_idx": 150,
+                "end_idx": 156,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in taking"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 240,
+                "end_idx": 244,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "PET",
+                "start_idx": 391,
+                "end_idx": 394,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and PET"
+                ]
+            },
+            {
+                "word": "latest",
+                "start_idx": 469,
+                "end_idx": 475,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase latest knowledge does not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "the latest"
+                ]
+            },
+            {
+                "word": "by",
+                "start_idx": 588,
+                "end_idx": 590,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "being",
+                "start_idx": 1154,
+                "end_idx": 1159,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and being"
+                ]
+            },
+            {
+                "word": "attending",
+                "start_idx": 1441,
+                "end_idx": 1450,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and attending"
+                ]
+            },
+            {
+                "word": "researches",
+                "start_idx": 1503,
+                "end_idx": 1513,
+                "error": "Correct your spelling",
+                "error_des": "The word researches doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "researchers"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 1598,
+                "end_idx": 1599,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1759,
+                "end_idx": 1759,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want tradiotional to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "traditional"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1759,
+                "end_idx": 1759,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the tradiotional"
+                ]
+            },
+            {
+                "word": "tradiotional",
+                "start_idx": 1759,
+                "end_idx": 1771,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want tradiotional to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "traditional"
+                ]
+            }
+        ]
+    },
+    "submitter": "Andy",
+    "num_words": 300,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "secondly",
+            "also",
+            "such",
+            "first",
+            "although",
+            "besides",
+            "firstly",
+            "therefore",
+            "on the other hand",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "doctors",
+                "occurrences": [
+                    {
+                        "start_idx": 77,
+                        "end_idx": 84
+                    },
+                    {
+                        "start_idx": 245,
+                        "end_idx": 252
+                    },
+                    {
+                        "start_idx": 450,
+                        "end_idx": 457
+                    },
+                    {
+                        "start_idx": 1333,
+                        "end_idx": 1340
+                    },
+                    {
+                        "start_idx": 1642,
+                        "end_idx": 1649
+                    },
+                    {
+                        "start_idx": 1781,
+                        "end_idx": 1788
+                    }
+                ]
+            },
+            {
+                "word": "patients",
+                "occurrences": [
+                    {
+                        "start_idx": 132,
+                        "end_idx": 140
+                    },
+                    {
+                        "start_idx": 273,
+                        "end_idx": 281
+                    },
+                    {
+                        "start_idx": 1410,
+                        "end_idx": 1418
+                    },
+                    {
+                        "start_idx": 1794,
+                        "end_idx": 1802
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-12T09:50:44.118Z"
+}

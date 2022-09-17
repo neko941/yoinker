@@ -1,0 +1,260 @@
+{
+    "url": "https://writing9.com/text/5cc2d613e38c597125d16e03-recently-you-have-travelled-by-plane-and-during-the-journey",
+    "file": [
+        "data",
+        "65",
+        "5cc2d613e38c597125d16e03.json"
+    ],
+    "topics": [
+        "plane",
+        "journey",
+        "airline",
+        "employee",
+        "company",
+        "manager",
+        "flight",
+        "nature"
+    ],
+    "question": "Recently you have travelled by plane and during the journey you had an issue with one of airline employee. Write a letter to the company manager and say\n\nGive details of your flight\nDiscuss the issue you have encountered\nWhat do you expect the nature to do",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear sir",
+        "I am writing this letter to express my  dissatisfaction during the journey with your Airlines. I boarded your flight number B12W from Mumbai to Delhi on 5th of this month. During the transit i have faced an issue with one of your employee at luggage drop in point, the incharge employee is Sam pictures is having employee identification number H1126.",
+        "Although, your advertisement and tickets highlighted that maximum weight limit for luggage is 15 kilos per person , to my surprise the employee at the counter argue that limit is 10 kilos only. As a result ,I have been charged extra for the remaining luggage . Moreover , I have not been given any charge receipt for extra payment I was asked made.",
+        "I would like you to look into the matter and  take a stringent action on this person, if found guilty of being corrupt .In case if the charges are wrongly imprinted  then I would expect you to compensate me for the inconvenience faced, with a refund of ticket charges and extra baggage charges I paid .",
+        "I am waiting for positive response from your side.",
+        "Your sincerely"
+    ],
+    "errors": {
+        "num_error": "16",
+        "error_list": [
+            {
+                "word": "5th",
+                "start_idx": 161,
+                "end_idx": 164,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the 5th"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 199,
+                "end_idx": 200,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "employee",
+                "start_idx": 238,
+                "end_idx": 246,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that employee may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "employees"
+                ]
+            },
+            {
+                "word": "luggage",
+                "start_idx": 250,
+                "end_idx": 257,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the luggage"
+                ]
+            },
+            {
+                "word": "drop in",
+                "start_idx": 258,
+                "end_idx": 265,
+                "error": "Add a hyphen",
+                "error_des": "It appears that drop in is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "drop-in"
+                ]
+            },
+            {
+                "word": "incharge",
+                "start_idx": 277,
+                "end_idx": 285,
+                "error": "Correct your spelling",
+                "error_des": "The word incharge is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "in charge"
+                ]
+            },
+            {
+                "word": "maximum",
+                "start_idx": 417,
+                "end_idx": 424,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the maximum"
+                ]
+            },
+            {
+                "word": "counter argue",
+                "start_idx": 510,
+                "end_idx": 523,
+                "error": "Add a hyphen",
+                "error_des": "It appears that counter argue is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "counter-argue"
+                ]
+            },
+            {
+                "word": "extra",
+                "start_idx": 676,
+                "end_idx": 681,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the extra"
+                ]
+            },
+            {
+                "word": "made",
+                "start_idx": 702,
+                "end_idx": 706,
+                "error": "Change the verb form",
+                "error_des": "Made doesn\u2019t seem to work here.",
+                "suggetions": [
+                    "to make"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 759,
+                "end_idx": 759,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun action in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "a stringent",
+                "start_idx": 759,
+                "end_idx": 770,
+                "error": "Correct your spelling",
+                "error_des": "The word a stringent seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "astringent"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 793,
+                "end_idx": 794,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker if. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "positive",
+                "start_idx": 1028,
+                "end_idx": 1036,
+                "error": "Add an article",
+                "error_des": "The noun phrase positive response seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a positive",
+                    "the positive"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1062,
+                "end_idx": 1062,
+                "error": "Correct the word",
+                "error_des": "It appears that the word Your is not the correct form of the possessive pronoun. Consider changing it.",
+                "suggetions": [
+                    "Yours"
+                ]
+            },
+            {
+                "word": "Your",
+                "start_idx": 1062,
+                "end_idx": 1066,
+                "error": "Correct your spelling",
+                "error_des": "The word Your doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "Yours"
+                ]
+            }
+        ]
+    },
+    "submitter": "naresh",
+    "num_words": 192,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "although",
+            "as a result",
+            "then",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "employee",
+                "occurrences": [
+                    {
+                        "start_idx": 239,
+                        "end_idx": 247
+                    },
+                    {
+                        "start_idx": 287,
+                        "end_idx": 295
+                    },
+                    {
+                        "start_idx": 322,
+                        "end_idx": 330
+                    },
+                    {
+                        "start_idx": 495,
+                        "end_idx": 503
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T15:56:27.198Z"
+}

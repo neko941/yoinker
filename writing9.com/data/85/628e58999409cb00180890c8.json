@@ -1,0 +1,122 @@
+{
+    "url": "https://writing9.com/text/628e58999409cb00180890c8-you-have-lost-an-item-of-value-on-a-train-write",
+    "file": [
+        "data",
+        "85",
+        "628e58999409cb00180890c8.json"
+    ],
+    "topics": [
+        "item",
+        "value",
+        "train",
+        "railway",
+        "company",
+        "action"
+    ],
+    "question": "You have lost an item of value on a train.\nWrite a letter to the railway company. In your letter\n\n\n    describe the item\n    explain where and when you left it\n    say what action you would like the company to take",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/ Madam,",
+        "I am writing this letter to inform you that yesterday  May 22, 2022, I was travelling by your train from my hometown to Bolton. It was 2 hours journey and I took the train around 2 pm and got off around 4 pm. Once I checked, I came to know that my hand band was not with me.",
+        "Actually, my handbagbag is  brown in colour. It is about 45 centimetres long and wide. There are 4 chains in my bag and attached a key with them. I have put a lot of stuff in my bags such as my cosmetics, my tickets and my exam notes. Apart from that I also have  put some money into it.",
+        "Since I was the only  single person in my seat so I decided to leave my bag and I went to the washroom. But, when I returned back, I was shocked to see that the bag was not there.",
+        "I think the company should be responsible for finding my bag and they must check the CCTV Cameras at their earliest convenience. It would be great if you could help me to find my handbag. I hope to listen from you soon.",
+        "Yours faithfully,",
+        "Sandeep Kaur"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "handbagbag",
+                "start_idx": 304,
+                "end_idx": 314,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want handbagbag to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "handbag bag"
+                ]
+            }
+        ]
+    },
+    "submitter": "kaursandeep79561",
+    "num_words": 205,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "also",
+            "such",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "bag",
+                "occurrences": [
+                    {
+                        "start_idx": 309,
+                        "end_idx": 312
+                    },
+                    {
+                        "start_idx": 312,
+                        "end_idx": 315
+                    },
+                    {
+                        "start_idx": 404,
+                        "end_idx": 407
+                    },
+                    {
+                        "start_idx": 470,
+                        "end_idx": 473
+                    },
+                    {
+                        "start_idx": 652,
+                        "end_idx": 655
+                    },
+                    {
+                        "start_idx": 741,
+                        "end_idx": 744
+                    },
+                    {
+                        "start_idx": 817,
+                        "end_idx": 820
+                    },
+                    {
+                        "start_idx": 943,
+                        "end_idx": 946
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-05-25T16:28:42.064Z"
+}

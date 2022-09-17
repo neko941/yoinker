@@ -1,0 +1,123 @@
+{
+    "url": "https://writing9.com/text/5f11fe02401ea400186c7271",
+    "file": [
+        "data",
+        "45",
+        "5f11fe02401ea400186c7271.json"
+    ],
+    "topics": [
+        "people",
+        "internet",
+        "resource",
+        "practice"
+    ],
+    "question": "Many people use the Internet as their main educational resource. What are the advantages and disadvantages of this practice?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Using the Internet for primary education is considered by some beneficial. In my opinion, I agree that it has a wealth of resources and is cheaper, however there are also drawbacks to be taken into account.",
+        "Firstly, one benefit of using the Internet as educational resource is that it offers lots of resources that may be useful. Everyone can gain knowledge from the Internet, for example, online libraries, tutorials, courses which are written and monitored by professional educators. Secondly, accessing these resources free of charge or inexpensive  is advantageous so they are able to continue education. As the high cost of books, courses, and membership fees sometimes people to miss out on education. Finally, they can meet people from different places and discuss various issues in an online forum, website that will enhance their outlook.",
+        "On the other hand, one problem when people use the Internet as a resource is that it increases the dependence on the Internet. Some people are of the opinion that all the information is one hundred percent accurate, reliable so there is no need to verification which can result in bad scores on academic grades. Another possible issue is that plagiarism is widespread. The copying of any information by several people in their work is both contrary to copyright and adversely affects their ability to understand and analyze material.",
+        "In conclusion, while people can benefit from using the Internet as educational resource, it can also lead plagiarism and utilizing invalid information."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "however there",
+                "start_idx": 147,
+                "end_idx": 160,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "however, there"
+                ]
+            },
+            {
+                "word": "educational resource",
+                "start_idx": 252,
+                "end_idx": 272,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an educational resource"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1092,
+                "end_idx": 1094,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "analyze",
+                "start_idx": 1363,
+                "end_idx": 1370,
+                "error": "consider in detail and subject to an analysis in order to discover essential features or meaning",
+                "error_des": "",
+                "suggetions": [
+                    "analyse"
+                ]
+            },
+            {
+                "word": "educational resource",
+                "start_idx": 1448,
+                "end_idx": 1468,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an educational resource"
+                ]
+            }
+        ]
+    },
+    "submitter": "black",
+    "num_words": 246,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "secondly",
+            "also",
+            "firstly",
+            "finally",
+            "on the other hand",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2020-07-17T19:37:40.776Z"
+}

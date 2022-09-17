@@ -1,0 +1,139 @@
+{
+    "url": "https://writing9.com/text/5d0b26aa19bf2e0017af1d49",
+    "file": [
+        "data",
+        "6",
+        "5d0b26aa19bf2e0017af1d49.json"
+    ],
+    "topics": [
+        "people",
+        "country",
+        "television",
+        "programmes",
+        "films"
+    ],
+    "question": "Some people say that you can learn more about another country by watching television programmes and films about it than by actually visiting it. How true is this statement? Is there anything you can learn about another country by visiting it that cannot learn by watching programmes and films about it? Give reasons for your answer and include any relevant examples from your own experience.",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "As more shows and movies are now able to allow us to gain an insight into different cultures and customs, some might claim that we can understand more about the world outside simply by watching it on TV. While it might be true in some true in some cases, I believe that there are a range of unexplored corners of the Earth that could never be seen on any television programmes.",
+        "From my viewpoint, I can understand why some people point to the view that television programmes and films is a vital source of information about another country. In today\u2019s fast-growing world, the majority of nations and regions all want to introduce their various lifestyles and traditions to the whole world in order to develop the tourist industry and generate more revenue from it. As a result, hundreds of reality shows and documentaries about a specific community or region are broadcast on a regular basis, which hopefully catches the attention of as many international tourists as possible. For instance, I have learned about Carnival festivals which are celebrated annually in South America countries  thanks to lots of televised programmes.",
+        "However, I believe that no matter how many shows we watch on TV, there are many remote hidden parts of the world that human beings are still clueless about, ranging from the eastern peninsula of Russia to the world\u2019s oldest desert Namib. Due to the harsh climate and uninhabitable environment, such places remain unaffected from the rest of the world, which means that an average viewer will never be able to know anything about those remote areas. On the other hand, avid travellers in these cases can obtain a better understanding of the far-flung destinations where they are going to explore or study. A family, for example, reported that they had become more knowledgeable and been able to live comfortably in nature thanks to their stay with an Amazon tribe.",
+        "In conclusion, it seems to me that television can help us all to know about the wider world but there are still undiscovered secrets that haven\u2019t been published on this important public service."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "are",
+                "start_idx": 275,
+                "end_idx": 278,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "America",
+                "start_idx": 1070,
+                "end_idx": 1077,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "American"
+                ]
+            },
+            {
+                "word": "world but",
+                "start_idx": 1979,
+                "end_idx": 1988,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "world, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "minhhang29",
+    "num_words": 352,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "on the other hand",
+            "this",
+            "for example",
+            "as a result",
+            "for instance",
+            "however",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "world",
+                "occurrences": [
+                    {
+                        "start_idx": 161,
+                        "end_idx": 166
+                    },
+                    {
+                        "start_idx": 565,
+                        "end_idx": 570
+                    },
+                    {
+                        "start_idx": 683,
+                        "end_idx": 688
+                    },
+                    {
+                        "start_idx": 1237,
+                        "end_idx": 1242
+                    },
+                    {
+                        "start_idx": 1339,
+                        "end_idx": 1344
+                    },
+                    {
+                        "start_idx": 1475,
+                        "end_idx": 1480
+                    },
+                    {
+                        "start_idx": 1980,
+                        "end_idx": 1985
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-20T06:24:42.000Z"
+}

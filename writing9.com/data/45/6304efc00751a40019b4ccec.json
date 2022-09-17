@@ -1,0 +1,203 @@
+{
+    "url": "https://writing9.com/text/6304efc00751a40019b4ccec-some-people-believe-that-it-is-best-to-accept-a",
+    "file": [
+        "data",
+        "45",
+        "6304efc00751a40019b4ccec.json"
+    ],
+    "topics": [
+        "people",
+        "situation",
+        "job",
+        "shortage",
+        "money",
+        "situations"
+    ],
+    "question": "Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money. Others argue that it is better to try and improve such situations. discuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is argued that which is the better way to deal with troubles, accept it or overcome it? I strongly believe that two means are equally important.",
+        "Life is full of setbacks and challenges. It is vital for people to learn how to work troubles out  and persist in the target which they want. For instance, learning a new language needs more than thousands of times practices, so you must come to realize that the only way to be good at English is not quitting and finding ways to stick to the plan. Also, if everyone were pleased with the present situation, there will be very few inventions and breakthroughs. No one will break the bottlenacks,because they are satisified with  what we have now.",
+        "In spite of the fact we should try our best to conquer the difficultiss, there still are situations which highly rely on talent or fortune. In those cases, people know when and how to settle with current circumstances are also essential. For example, millions of children were learning musicals and instruments and aim to become a pianist. But being a famous piano artist sometimes requires gift and fortune. Maybe that child will never be a well-known artist no matter how hard he tries. If that happened it is nothing wrong to lowering the goal or trying something different.",
+        "In conclusion, we should give our best to the goal that we desire, but also should recognize that sometimes it's up to fate whether things work out."
+    ],
+    "errors": {
+        "num_error": "13",
+        "error_list": [
+            {
+                "word": "it",
+                "start_idx": 71,
+                "end_idx": 73,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "them"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 86,
+                "end_idx": 88,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "them"
+                ]
+            },
+            {
+                "word": "practices",
+                "start_idx": 362,
+                "end_idx": 371,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that practices may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "practice"
+                ]
+            },
+            {
+                "word": "bottlenacks",
+                "start_idx": 630,
+                "end_idx": 641,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want bottlenacks to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "bottlenecks",
+                    "bottleneck"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 659,
+                "end_idx": 659,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want satisified to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "satisfied"
+                ]
+            },
+            {
+                "word": "satisified",
+                "start_idx": 659,
+                "end_idx": 669,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want satisified to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "satisfied"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 749,
+                "end_idx": 753,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 753,
+                "end_idx": 753,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want difficultiss to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "difficulties"
+                ]
+            },
+            {
+                "word": "difficultiss",
+                "start_idx": 753,
+                "end_idx": 765,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want difficultiss to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "difficulties"
+                ]
+            },
+            {
+                "word": "know",
+                "start_idx": 857,
+                "end_idx": 861,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb know. Consider changing it.",
+                "suggetions": [
+                    "knowing"
+                ]
+            },
+            {
+                "word": "are",
+                "start_idx": 912,
+                "end_idx": 915,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb are does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "aim",
+                "start_idx": 1009,
+                "end_idx": 1012,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb aim. Consider changing it.",
+                "suggetions": [
+                    "aimed"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1220,
+                "end_idx": 1222,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with"
+                ]
+            }
+        ]
+    },
+    "submitter": "404280616",
+    "num_words": 249,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "also",
+            "for instance",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-08-23T15:18:26.720Z"
+}

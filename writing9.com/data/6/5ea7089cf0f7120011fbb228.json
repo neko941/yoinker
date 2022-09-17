@@ -1,0 +1,110 @@
+{
+    "url": "https://writing9.com/text/5ea7089cf0f7120011fbb228",
+    "file": [
+        "data",
+        "6",
+        "5ea7089cf0f7120011fbb228.json"
+    ],
+    "topics": [
+        "people",
+        "scale"
+    ],
+    "question": "Some people think that environmental problems should be solved on a global scale while others think it is better to deal with them nationally",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.5,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 4.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Today, there are differing opinions on how environmental problems should be resolved, while some think it should be addressed nationally, others believe it should be handled on a global scale. In my opinion, the determinant for how environmental problems should be handled is severity and scope of impact.",
+        "Firstly, some people believe that it is best for environmental problems to be handled on a global scale because there are many environmental problems that affect the world globally such as global warming and deforestation. Problems such as global warming should be handled on a global scale because many countries are not well equipped and do not have the budgets to tackle such issues effectively. In recent times, we have observed that the United Nations Organization actively disseminates information worldwide to sensitize countries on the effects of global warming and how best to reduce its effects. Such environmental issues affecting the world holistically are best handled globally with aid from international bodies.",
+        "On the other hand, people opine that that environment issues should be tackled nationally as countries are aware of the direct impact these issues and will target and resolve them more efficiently. In cases of domestic environmental problems such as water pollution,  it is best that they are handled nationally as the government can identify the causes of the problem and provided a targeted solution timeously.",
+        "In my opinion, environmental problems should be dealt with according to the severity of the issues, local environmental problems like water pollution and domestic flooding should be resolved nationally while problems such as global warming should be handled on a global scale.",
+        "In conclusion, both opinions on how environmental problems should be resolved are valid, however, it is best to handle the problems according to its severity and scope of impact."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "severity",
+                "start_idx": 275,
+                "end_idx": 283,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the severity"
+                ]
+            },
+            {
+                "word": "timeously",
+                "start_idx": 1434,
+                "end_idx": 1443,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            }
+        ]
+    },
+    "submitter": "moyowauranje",
+    "num_words": 297,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "such",
+            "firstly",
+            "however",
+            "on the other hand"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "scale",
+                "occurrences": [
+                    {
+                        "start_idx": 186,
+                        "end_idx": 191
+                    },
+                    {
+                        "start_idx": 404,
+                        "end_idx": 409
+                    },
+                    {
+                        "start_idx": 591,
+                        "end_idx": 596
+                    },
+                    {
+                        "start_idx": 1716,
+                        "end_idx": 1721
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-04-27T16:30:20.242Z"
+}

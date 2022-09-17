@@ -1,0 +1,142 @@
+{
+    "url": "https://writing9.com/text/611dd7b3b1fa990019080bab-people-learn-in-different-ways-some-people-learn-by-doing",
+    "file": [
+        "data",
+        "85",
+        "611dd7b3b1fa990019080bab.json"
+    ],
+    "topics": [
+        "people",
+        "methods",
+        "support",
+        "choice"
+    ],
+    "question": "People learn in different ways. Some people learn by doing things; other people learn by reading about things; others learn by listening to people talk about things. Which of these methods of learning is best for you? Use specific examples to support your choice.",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "People acquire knowledge in a variety of ways throughout their entire lives. Some people opt for reading books; others like to take heed of people\u2019s advice about new things, or some even prefer to capitalize on their own experience. While all these types of learning have good points, personally, I almost see fit for experiential learning for several reasons.",
+        "Granted, there are numerous essential and crucial experiences that we cannot get from books and people\u2019s direct advice; they are helpful, though. A typical example can be seen in life-changing events: losing a loved one, bankruptcy, health issues. They all come from a significant paradigm shift that comes through our own experience. Also, more than seven billion people living in the changing world have their situations, so we are incapable of measuring people\u2019s judgment and pressure. As a result, pieces of advice from books or people cannot be consistent with our current circumstances.",
+        "Accordingly, I believe that learning by doing things is deemed one of the most cardinal and natural means of learning. To begin with, according to researchers, we all learn through a learning cycle. Experience serves as a cornerstone of reflection, making it possible for us to develop ideas about the world. Then, we can test the ideas to see whether it is true or not, thus having new acquaintances. Reflection on our experience encourages lifelong learning as well as personal development for we can analyze our mistakes, draw an inference and avoid them next time. Moreover, at school, since lectures or academic subjects such as Physics, Chemistry, Biology are sophisticated and difficult to comprehend, practices, experiments, researches will make it easier for students to absorb complex materials, theories and remember them in the long run. As a consequence, experiential learning is effective, its high demand notwithstanding.",
+        "In conclusion, I think that I am proper to learning from personal experience, which is precious and prized. Nonetheless, the combination of the 3 mentioned above ways is inclined to give the best results as all methods have their own advantages."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "to",
+                "start_idx": 1930,
+                "end_idx": 1932,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            }
+        ]
+    },
+    "submitter": "Hai Linh",
+    "num_words": 339,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "to begin",
+            "thus",
+            "also",
+            "accordingly",
+            "such",
+            "as a result",
+            "then",
+            "next",
+            "nonetheless",
+            "moreover"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "experience",
+                "occurrences": [
+                    {
+                        "start_idx": 221,
+                        "end_idx": 231
+                    },
+                    {
+                        "start_idx": 411,
+                        "end_idx": 421
+                    },
+                    {
+                        "start_idx": 684,
+                        "end_idx": 694
+                    },
+                    {
+                        "start_idx": 1374,
+                        "end_idx": 1384
+                    },
+                    {
+                        "start_idx": 1957,
+                        "end_idx": 1967
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 82,
+                        "end_idx": 88
+                    },
+                    {
+                        "start_idx": 140,
+                        "end_idx": 146
+                    },
+                    {
+                        "start_idx": 457,
+                        "end_idx": 463
+                    },
+                    {
+                        "start_idx": 726,
+                        "end_idx": 732
+                    },
+                    {
+                        "start_idx": 818,
+                        "end_idx": 824
+                    },
+                    {
+                        "start_idx": 894,
+                        "end_idx": 900
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-08-19T04:04:38.625Z"
+}

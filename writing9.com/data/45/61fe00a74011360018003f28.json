@@ -1,0 +1,228 @@
+{
+    "url": "https://writing9.com/text/61fe00a74011360018003f28-many-people-are-working-longer-and-longer-hours-what-are",
+    "file": [
+        "data",
+        "45",
+        "61fe00a74011360018003f28.json"
+    ],
+    "topics": [
+        "people",
+        "hours",
+        "effects"
+    ],
+    "question": "Many people are working longer and longer hours. What are the reasons and effects?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "With the development in all aspect in today world such as technology, social so as the workload are also increase in order to catch up with those advancement leading to people nowadays are working longer and longer period than before. This essay will analyze specifically about the reasons and its effect",
+        "In modern societies, wherever people work, they have to be capable of working extra hours to finish all their duty due to the high workloads. Another reason for that phenomenon which directly related to the demands in efficiency of a worker. For example, instead of spending time to relax, those people have to wider their work span to accomplished their task.",
+        "These reasons have a lot of drawbacks, firstly, working with longer time gradually became a standard in modern world which cause a generation of worker with low efficient no matter how much time the spent on doin their task. Moreover, this trend causing a lot of health problems. For instance, stress and visions are among the most common disease which directly affect worker\u2019s consciousness.",
+        "To sum up, working with a longer hours are now inevitable, nevertheless, to obtain both efficient and health, a worker themselves have to balance their time spent on keeping their health and work"
+    ],
+    "errors": {
+        "num_error": "13",
+        "error_list": [
+            {
+                "word": "are ",
+                "start_idx": 95,
+                "end_idx": 99,
+                "error": "Change the verb form",
+                "error_des": "It appears that the form of the verb increase does not work with are in this sentence.",
+                "suggetions": [
+                    "also increases"
+                ]
+            },
+            {
+                "word": "about ",
+                "start_idx": 271,
+                "end_idx": 277,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "its",
+                "start_idx": 293,
+                "end_idx": 296,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "their"
+                ]
+            },
+            {
+                "word": "in ",
+                "start_idx": 519,
+                "end_idx": 522,
+                "error": "Correct your spelling",
+                "error_des": "The word in efficiency seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "inefficiency"
+                ]
+            },
+            {
+                "word": "efficiency",
+                "start_idx": 522,
+                "end_idx": 532,
+                "error": "Add an article",
+                "error_des": "The noun phrase efficiency seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the efficiency"
+                ]
+            },
+            {
+                "word": "longer",
+                "start_idx": 726,
+                "end_idx": 732,
+                "error": "Replace the word",
+                "error_des": "The word longer doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "long"
+                ]
+            },
+            {
+                "word": "modern",
+                "start_idx": 769,
+                "end_idx": 775,
+                "error": "Add an article",
+                "error_des": "The noun phrase modern world seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the modern",
+                    "a modern"
+                ]
+            },
+            {
+                "word": "doin",
+                "start_idx": 873,
+                "end_idx": 877,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want doin to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "doing"
+                ]
+            },
+            {
+                "word": "causing",
+                "start_idx": 911,
+                "end_idx": 918,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb causing. Consider changing it.",
+                "suggetions": [
+                    "causes"
+                ]
+            },
+            {
+                "word": "affect",
+                "start_idx": 1027,
+                "end_idx": 1033,
+                "error": "Change the verb form",
+                "error_des": "The plural verb affect does not appear to agree with the singular subject the most common disease. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "affects"
+                ]
+            },
+            {
+                "word": "worker\u2019s",
+                "start_idx": 1034,
+                "end_idx": 1042,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that worker\u2019s may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "workers\u2019"
+                ]
+            },
+            {
+                "word": "longer",
+                "start_idx": 1084,
+                "end_idx": 1090,
+                "error": "Replace the word",
+                "error_des": "The word longer doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "long"
+                ]
+            },
+            {
+                "word": "efficient",
+                "start_idx": 1146,
+                "end_idx": 1155,
+                "error": "Replace the word",
+                "error_des": "The word efficient doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "efficiency"
+                ]
+            }
+        ]
+    },
+    "submitter": "nguyenminhman21691",
+    "num_words": 209,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "instead",
+            "also",
+            "such",
+            "nevertheless",
+            "firstly",
+            "for instance",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 580,
+                        "end_idx": 584
+                    },
+                    {
+                        "start_idx": 734,
+                        "end_idx": 738
+                    },
+                    {
+                        "start_idx": 856,
+                        "end_idx": 860
+                    },
+                    {
+                        "start_idx": 1211,
+                        "end_idx": 1215
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-02-05T04:44:24.507Z"
+}

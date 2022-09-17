@@ -1,0 +1,129 @@
+{
+    "url": "https://writing9.com/text/62e7c7e60562ec00182a045e-a-friend-of-yours-is-going-on-holiday-soon-and",
+    "file": [
+        "data",
+        "65",
+        "62e7c7e60562ec00182a045e.json"
+    ],
+    "topics": [
+        "friend",
+        "holiday",
+        "destination",
+        "place",
+        "-where",
+        "-what",
+        "food"
+    ],
+    "question": "A friend of yours is going on holiday soon and has asked you to recommend a destination.Write a letter to your friend and recommend a good place for a holiday that you have visited before.Say -where you went,-Where you stayed,-What you can do there and what the food was like.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Hello meet,",
+        "I hope this letter finds you well, I received your mail yesterday and I am pleased that you are taking a few days off. I am writing this letter to recommend to you the best place to spend your holiday which I visited last year.",
+        "To commence with, in the year 2021 I went to an island name Maderia island, it is in Portugal and the best city to visit in Funchal. It was a wonderful experience to visit a country with a completely different culture. Additionally, I would like to recommend a few places to visit and activities to perform to make the best out of your journey, the best sunset you can see it on the cliff, and you can reach there by self-guided trek. Apart from this, you can also visit a botanical garden with wonderful flowers and plants that aren't seen in our country.",
+        "Moreover, I had the best aerial view through paragliding and a ropeway, it was an amazing adventure as you can visualise the red roof of every house. On the other hand, you can take a ropeway to reach the top of the city and must do a thing over there is to take a toboggan ride. It is also known as a basket ride you just have to rest your back for the mind-blowing trip of 15 minutes sliding down in between the city. This all will cost less the fifty thousand rupees for 5 days of holiday.",
+        "I will strongly recommend this, as it is must visit place for me. If you have any queries regarding this you can reach out to me.",
+        "Yours lovingly,",
+        "Vandan Patel."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "it ",
+                "start_idx": 612,
+                "end_idx": 615,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "Vandan",
+                "start_idx": 1435,
+                "end_idx": 1441,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Vandan to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "Vandana",
+                    "Vanden"
+                ]
+            }
+        ]
+    },
+    "submitter": "Vandanpatel0709",
+    "num_words": 278,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "also",
+            "additionally",
+            "last",
+            "on the other hand",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "visit",
+                "occurrences": [
+                    {
+                        "start_idx": 221,
+                        "end_idx": 226
+                    },
+                    {
+                        "start_idx": 355,
+                        "end_idx": 360
+                    },
+                    {
+                        "start_idx": 406,
+                        "end_idx": 411
+                    },
+                    {
+                        "start_idx": 515,
+                        "end_idx": 520
+                    },
+                    {
+                        "start_idx": 705,
+                        "end_idx": 710
+                    },
+                    {
+                        "start_idx": 1336,
+                        "end_idx": 1341
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-01T12:36:28.350Z"
+}

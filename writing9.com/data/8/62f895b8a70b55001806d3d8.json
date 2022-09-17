@@ -1,0 +1,144 @@
+{
+    "url": "https://writing9.com/text/62f895b8a70b55001806d3d8-a-magazine-wants-to-include-contributions-from-its-readers",
+    "file": [
+        "data",
+        "8",
+        "62f895b8a70b55001806d3d8.json"
+    ],
+    "topics": [
+        "magazine",
+        "contributions",
+        "readers",
+        "article",
+        "book",
+        "most\u2019",
+        "editor",
+        "influence",
+        "people"
+    ],
+    "question": "A magazine wants to include contributions from its readers for an article called 'The book that influenced me most\u2019.\nWrite a letter to the editor of the magazine about the book that influenced you most. In your letter,describe what this book was aboutexplain how this book influenced yousay whether this book would be likely to influence other people",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "Hope you are doing well. I am writing to you with respect to your recent announcement for an article 'The book that influenced me most. I, am myself, a vivid reader and would like to contribute to the same. Let me explain to you in detail.",
+        "The book that I would like to talk about is none other than 'Eat, Pray and Love', written by Elizabeth Gilbert. As you know, the book has already won many awards but what was most influential about this book was the story of the protagonist. The writer has depicted the journey of a woman on finding the meaning of life after her series of breakups. I  read this book during my divorce phase and it has definitely helped me not only mentally but also in spiritual ways. Elizabeth, the writer, has beautifully captured the message that no matter what life offers you, you must live your life and treat yourselves with love and kindness.",
+        "I think this is one of the best books I have ever read and I am sure it would have impacted many people around the world, especially those who are finding themselves in a difficult phase of their life. I would recommend you to read this book, in case you haven't, so that even you will realise that this book is worthy  of mentioning in the article.",
+        "Yours sincerely,",
+        "Jen"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "Love'",
+                "start_idx": 333,
+                "end_idx": 338,
+                "error": "Correct your spelling",
+                "error_des": "The word Love' doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "Love"
+                ]
+            }
+        ]
+    },
+    "submitter": "Anuradha",
+    "num_words": 234,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "also",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "book",
+                "occurrences": [
+                    {
+                        "start_idx": 125,
+                        "end_idx": 129
+                    },
+                    {
+                        "start_idx": 263,
+                        "end_idx": 267
+                    },
+                    {
+                        "start_idx": 388,
+                        "end_idx": 392
+                    },
+                    {
+                        "start_idx": 462,
+                        "end_idx": 466
+                    },
+                    {
+                        "start_idx": 622,
+                        "end_idx": 626
+                    },
+                    {
+                        "start_idx": 927,
+                        "end_idx": 931
+                    },
+                    {
+                        "start_idx": 1132,
+                        "end_idx": 1136
+                    },
+                    {
+                        "start_idx": 1199,
+                        "end_idx": 1203
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 574,
+                        "end_idx": 578
+                    },
+                    {
+                        "start_idx": 809,
+                        "end_idx": 813
+                    },
+                    {
+                        "start_idx": 845,
+                        "end_idx": 849
+                    },
+                    {
+                        "start_idx": 1091,
+                        "end_idx": 1095
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-14T06:28:50.611Z"
+}

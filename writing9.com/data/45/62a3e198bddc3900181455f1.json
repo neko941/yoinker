@@ -1,0 +1,247 @@
+{
+    "url": "https://writing9.com/text/62a3e198bddc3900181455f1-more-and-more-young-people-use-internet-to-socialize-do",
+    "file": [
+        "data",
+        "45",
+        "62a3e198bddc3900181455f1.json"
+    ],
+    "topics": [
+        "people",
+        "internet",
+        "trend"
+    ],
+    "question": "more and more young people use internet to socialize .do you think it is a negative trend or positive trend?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "I believe that the increasing number of young people who are using internet as a means of communication and socializing with their peers is detrimental to their psychological and physical health.",
+        "Nowadays, young people use social media platforms like Facebook, Instagram and Zoom to interact with their friends and families. As a matter of fact, the celebration of special event is virtually celebrated through Facebook live and as such no personal touch is being observed. They cannot see the real emotions of the person. When young people cannot use the internet, they are prone to develop depression because they cannot express their feelings.",
+        "In addition, young people can be deceived by their peers in using the web because they don\u2019t know them personally.  The quality of a conversation using social media is awful because people cannot sense the emotion or enthusiasm from the other person. It makes them to wonder if they actually mean what they say. Young people are spending so much time online that they do not always understand the feeling, emotion and/or character of the person they are talking to.",
+        "Furthermore, young people are prone to develop obesity because of lack of activity. Their all time is devoted online using the social media. They do not have the time to exercise as they are concentrated in socializing via online with their friends.",
+        "In conclusion, I am of the view that online socialization is not advisable for young people as they need to personally in contact with their friends and family especially in celebrating special events and face to face interaction should be done."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "internet",
+                "start_idx": 66,
+                "end_idx": 74,
+                "error": "Add an article",
+                "error_des": "The noun phrase internet seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the internet"
+                ]
+            },
+            {
+                "word": "event",
+                "start_idx": 372,
+                "end_idx": 377,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that event may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "events"
+                ]
+            },
+            {
+                "word": "such",
+                "start_idx": 431,
+                "end_idx": 435,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase as such. Consider adding a comma.",
+                "suggetions": [
+                    ",such"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 874,
+                "end_idx": 878,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 911,
+                "end_idx": 914,
+                "error": "Change the verb form",
+                "error_des": "It appears that the verb to wonder should be in the bare infinitive form. Consider removing to from in front of this verb.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "emotion",
+                "start_idx": 1052,
+                "end_idx": 1059,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that emotion may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "emotions"
+                ]
+            },
+            {
+                "word": "character",
+                "start_idx": 1067,
+                "end_idx": 1076,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that character may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "characters"
+                ]
+            },
+            {
+                "word": "lack",
+                "start_idx": 1178,
+                "end_idx": 1182,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a lack"
+                ]
+            },
+            {
+                "word": "Their ",
+                "start_idx": 1196,
+                "end_idx": 1202,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "All"
+                ]
+            },
+            {
+                "word": "all time",
+                "start_idx": 1202,
+                "end_idx": 1210,
+                "error": "Add a hyphen",
+                "error_des": "It appears that all time is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "all-time"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1235,
+                "end_idx": 1239,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 1316,
+                "end_idx": 1318,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "via ",
+                "start_idx": 1331,
+                "end_idx": 1335,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "face to face",
+                "start_idx": 1567,
+                "end_idx": 1579,
+                "error": "Add a hyphen",
+                "error_des": "It seems that face to face is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "face-to-face"
+                ]
+            }
+        ]
+    },
+    "submitter": "joseth_cabanos",
+    "num_words": 266,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "furthermore",
+            "in addition"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 46,
+                        "end_idx": 52
+                    },
+                    {
+                        "start_idx": 212,
+                        "end_idx": 218
+                    },
+                    {
+                        "start_idx": 534,
+                        "end_idx": 540
+                    },
+                    {
+                        "start_idx": 666,
+                        "end_idx": 672
+                    },
+                    {
+                        "start_idx": 829,
+                        "end_idx": 835
+                    },
+                    {
+                        "start_idx": 965,
+                        "end_idx": 971
+                    },
+                    {
+                        "start_idx": 1132,
+                        "end_idx": 1138
+                    },
+                    {
+                        "start_idx": 1448,
+                        "end_idx": 1454
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-11T00:28:10.538Z"
+}

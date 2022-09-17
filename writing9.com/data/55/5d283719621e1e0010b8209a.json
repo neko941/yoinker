@@ -1,0 +1,213 @@
+{
+    "url": "https://writing9.com/text/5d283719621e1e0010b8209a-you-would-like-to-participate-in-a-work-related-seminar-in",
+    "file": [
+        "data",
+        "55",
+        "5d283719621e1e0010b8209a.json"
+    ],
+    "topics": [
+        "seminar",
+        "country",
+        "person",
+        "charge",
+        "information",
+        "dates",
+        "program",
+        "accommodation",
+        "cost"
+    ],
+    "question": "You would like to participate in a work-related seminar in another country. Write a letter to the person in charge of the seminar and ask for detailed information regarding the dates, program, accommodation and cost.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 6.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear  Sir/Madam",
+        "I am writing to you regarding  the Legal conference organized by  Law University   on  August in Toronto.",
+        "Let me introduce  myself. I am Armine Shavoyan. I work as a lawyer in Armenia and I am an advocate of the Chamber of Advocates of the Republic of Armenia.",
+        "I have informed about the meeting  from the advertising on the Internet.",
+        "I am really interested  to taking part in this remarkable seminar, as I want to  develop my professional skills , because it influences positively  on my  further career. Therefore,  I would like  to inquire detailed information about  above mentioned particularly   the exact start and end  dates , because  I have many criminal cases, and  I must to propriety they  to the seminar dates .  Second, more information  about the conference themes what subjects are included there  and daily  schedule.",
+        "Moreover , I need to know about the abode fee and  type , whether  the fee   is involved  the  seminar fee or it is the  unpaid. What kind of  type accommodations you  offer, it is the hotel  single room or the hostel  where I must  to stay with the roommate. I will be thankful that we provide me  about applying deadlines and total fee.",
+        "I look forward to your reply  and would really appreciate your guidance regarding this",
+        "Sincerely",
+        "Armine Shavoyan"
+    ],
+    "errors": {
+        "num_error": "11",
+        "error_list": [
+            {
+                "word": "   on  ",
+                "start_idx": 96,
+                "end_idx": 103,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "  to",
+                "start_idx": 372,
+                "end_idx": 376,
+                "error": "Change the preposition",
+                "error_des": "The preposition to after the adjective interested may be incorrect. Consider changing it to another preposition.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": ", ",
+                "start_idx": 461,
+                "end_idx": 463,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker because. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "  on ",
+                "start_idx": 496,
+                "end_idx": 501,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 833,
+                "end_idx": 834,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "the  ",
+                "start_idx": 966,
+                "end_idx": 971,
+                "error": "Change the article",
+                "error_des": "It appears that the article the is unnecessary before the adjective unpaid. Consider making a change.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "accommodations",
+                "start_idx": 998,
+                "end_idx": 1012,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of accommodations"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 1013,
+                "end_idx": 1014,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "do"
+                ]
+            },
+            {
+                "word": "  to ",
+                "start_idx": 1082,
+                "end_idx": 1087,
+                "error": "Fix the infinitive",
+                "error_des": "It seems that the use of particle to may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "  about",
+                "start_idx": 1148,
+                "end_idx": 1155,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "total",
+                "start_idx": 1178,
+                "end_idx": 1183,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the total"
+                ]
+            }
+        ]
+    },
+    "submitter": "Ar",
+    "num_words": 221,
+    "num_paragraphs": 9,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "further",
+            "therefore",
+            "second",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "fee",
+                "occurrences": [
+                    {
+                        "start_idx": 893,
+                        "end_idx": 896
+                    },
+                    {
+                        "start_idx": 922,
+                        "end_idx": 925
+                    },
+                    {
+                        "start_idx": 954,
+                        "end_idx": 957
+                    },
+                    {
+                        "start_idx": 1185,
+                        "end_idx": 1188
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T16:11:40.376Z"
+}

@@ -1,0 +1,592 @@
+{
+    "url": "https://writing9.com/text/62e1d87f8ee1ab00180e4705-it-is-more-important-for-students-to-study-art-and",
+    "file": [
+        "data",
+        "45",
+        "62e1d87f8ee1ab00180e4705.json"
+    ],
+    "topics": [
+        "students",
+        "study",
+        "art",
+        "literature",
+        "math",
+        "science"
+    ],
+    "question": "It is more important for students to study art and literature than it is to study math and science. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A voice came out with the argument that it is more significant to learn art and literature rather than math and science. From my point of view, art and literature is essential for people to learn the history and life which could be helpful for their psycological questions, however, I still consent with the idea that math and science comes first compared with art and literature.",
+        "First, math and science are the fundamental subjects for all students whose scores are included for future higher education, no matter you will be a science student or study literature. Math is the subject that students need to learn from elementary school until college, and it will not be changed in a  short time. Education background plays a key role in your future life. If students emphasis too much on art and literature instead of math and science, they will be highly left behind by others and miss the opportunity to take a higher education.",
+        "Second, learning math and science is helpful to form a logical thinking mindset which is essential for many practical skills in life. The research has discovered that learning math and science is the way to train our left hemisphere of our brain, which is related to our logic.  For example, communication skill and critical thinking, they are both the basic skills that you can not miss them to integrate in the sophisticated society nowadays. With so much news and information online, you have to hold a clear mind and be critical to the information you absorb ethier from books or people. With a logical thinking, it is easy for people to be treated and stuck in some philanogical questions so that may arouse psychological problems. Another example like computer skill, the society now turns to a digital world, almost all the professionals today acquire solidate computer skill in the workplace. Math and science are definitely essential to it. Learning math and science is a must for future life and professionals of the students.",
+        "Overall, even though art and literature are important for students to learn more about life through others, math and science should come first in their study period."
+    ],
+    "errors": {
+        "num_error": "33",
+        "error_list": [
+            {
+                "word": "is",
+                "start_idx": 162,
+                "end_idx": 164,
+                "error": "Change the verb form",
+                "error_des": "It appears that the singular verb is does not agree with the plural compound subject art and literature. Consider changing the verb to the plural form.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 195,
+                "end_idx": 199,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 249,
+                "end_idx": 249,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want psycological to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "psychological"
+                ]
+            },
+            {
+                "word": "psycological",
+                "start_idx": 249,
+                "end_idx": 261,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want psycological to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "psychological"
+                ]
+            },
+            {
+                "word": "you",
+                "start_idx": 515,
+                "end_idx": 518,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "whether you"
+                ]
+            },
+            {
+                "word": "study",
+                "start_idx": 548,
+                "end_idx": 553,
+                "error": "Replace the word",
+                "error_des": "The word study doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "studying"
+                ]
+            },
+            {
+                "word": "emphasis",
+                "start_idx": 768,
+                "end_idx": 776,
+                "error": "Replace the word",
+                "error_des": "The word emphasis doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "emphasise"
+                ]
+            },
+            {
+                "word": "on ",
+                "start_idx": 786,
+                "end_idx": 789,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 912,
+                "end_idx": 914,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun education in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "The research",
+                "start_idx": 1066,
+                "end_idx": 1078,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "Research"
+                ]
+            },
+            {
+                "word": "our",
+                "start_idx": 1145,
+                "end_idx": 1148,
+                "error": "Change the pronoun",
+                "error_des": "It appears that the pronoun our may not fit this context. Consider replacing it with an article.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "skill",
+                "start_idx": 1238,
+                "end_idx": 1243,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that skill may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "skills"
+                ]
+            },
+            {
+                "word": "they ",
+                "start_idx": 1267,
+                "end_idx": 1272,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1281,
+                "end_idx": 1285,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "them ",
+                "start_idx": 1320,
+                "end_idx": 1325,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 1338,
+                "end_idx": 1340,
+                "error": "Change the preposition",
+                "error_des": "The preposition in after the verb integrate may be incorrect. Consider changing it to another preposition.",
+                "suggetions": [
+                    "into",
+                    "with"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1465,
+                "end_idx": 1467,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "ethier",
+                "start_idx": 1495,
+                "end_idx": 1501,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want ethier to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "either"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 1529,
+                "end_idx": 1531,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun thinking in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "philanogical",
+                "start_idx": 1603,
+                "end_idx": 1615,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want philanogical to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "philological"
+                ]
+            },
+            {
+                "word": "so ",
+                "start_idx": 1626,
+                "end_idx": 1629,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "that",
+                "start_idx": 1629,
+                "end_idx": 1633,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "which"
+                ]
+            },
+            {
+                "word": "skill",
+                "start_idx": 1699,
+                "end_idx": 1704,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that skill may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "skills"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1706,
+                "end_idx": 1710,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "now",
+                "start_idx": 1718,
+                "end_idx": 1721,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "has now"
+                ]
+            },
+            {
+                "word": "turns",
+                "start_idx": 1722,
+                "end_idx": 1727,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb turns. Consider changing it.",
+                "suggetions": [
+                    "turned"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1728,
+                "end_idx": 1730,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "into"
+                ]
+            },
+            {
+                "word": "almost",
+                "start_idx": 1748,
+                "end_idx": 1754,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "and almost"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1759,
+                "end_idx": 1763,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "skill",
+                "start_idx": 1809,
+                "end_idx": 1814,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that skill may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "skills"
+                ]
+            },
+            {
+                "word": "professionals",
+                "start_idx": 1938,
+                "end_idx": 1951,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that professionals may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "professional"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 1952,
+                "end_idx": 1955,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1955,
+                "end_idx": 1959,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "mengjia.ma",
+    "num_words": 361,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "instead",
+            "first",
+            "however",
+            "second",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "6",
+        "list_repeated_words": [
+            {
+                "word": "literature",
+                "occurrences": [
+                    {
+                        "start_idx": 80,
+                        "end_idx": 90
+                    },
+                    {
+                        "start_idx": 152,
+                        "end_idx": 162
+                    },
+                    {
+                        "start_idx": 369,
+                        "end_idx": 379
+                    },
+                    {
+                        "start_idx": 555,
+                        "end_idx": 565
+                    },
+                    {
+                        "start_idx": 798,
+                        "end_idx": 808
+                    },
+                    {
+                        "start_idx": 1999,
+                        "end_idx": 2009
+                    }
+                ]
+            },
+            {
+                "word": "science",
+                "occurrences": [
+                    {
+                        "start_idx": 112,
+                        "end_idx": 119
+                    },
+                    {
+                        "start_idx": 327,
+                        "end_idx": 334
+                    },
+                    {
+                        "start_idx": 397,
+                        "end_idx": 404
+                    },
+                    {
+                        "start_idx": 530,
+                        "end_idx": 537
+                    },
+                    {
+                        "start_idx": 829,
+                        "end_idx": 836
+                    },
+                    {
+                        "start_idx": 959,
+                        "end_idx": 966
+                    },
+                    {
+                        "start_idx": 1118,
+                        "end_idx": 1125
+                    },
+                    {
+                        "start_idx": 1843,
+                        "end_idx": 1850
+                    },
+                    {
+                        "start_idx": 1901,
+                        "end_idx": 1908
+                    },
+                    {
+                        "start_idx": 2087,
+                        "end_idx": 2094
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 212,
+                        "end_idx": 216
+                    },
+                    {
+                        "start_idx": 751,
+                        "end_idx": 755
+                    },
+                    {
+                        "start_idx": 1061,
+                        "end_idx": 1065
+                    },
+                    {
+                        "start_idx": 1930,
+                        "end_idx": 1934
+                    },
+                    {
+                        "start_idx": 2057,
+                        "end_idx": 2061
+                    }
+                ]
+            },
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 442,
+                        "end_idx": 450
+                    },
+                    {
+                        "start_idx": 592,
+                        "end_idx": 600
+                    },
+                    {
+                        "start_idx": 760,
+                        "end_idx": 768
+                    },
+                    {
+                        "start_idx": 1960,
+                        "end_idx": 1968
+                    },
+                    {
+                        "start_idx": 2028,
+                        "end_idx": 2036
+                    }
+                ]
+            },
+            {
+                "word": "math",
+                "occurrences": [
+                    {
+                        "start_idx": 103,
+                        "end_idx": 107
+                    },
+                    {
+                        "start_idx": 318,
+                        "end_idx": 322
+                    },
+                    {
+                        "start_idx": 388,
+                        "end_idx": 392
+                    },
+                    {
+                        "start_idx": 820,
+                        "end_idx": 824
+                    },
+                    {
+                        "start_idx": 950,
+                        "end_idx": 954
+                    },
+                    {
+                        "start_idx": 1109,
+                        "end_idx": 1113
+                    },
+                    {
+                        "start_idx": 1892,
+                        "end_idx": 1896
+                    },
+                    {
+                        "start_idx": 2078,
+                        "end_idx": 2082
+                    }
+                ]
+            },
+            {
+                "word": "art",
+                "occurrences": [
+                    {
+                        "start_idx": 72,
+                        "end_idx": 75
+                    },
+                    {
+                        "start_idx": 144,
+                        "end_idx": 147
+                    },
+                    {
+                        "start_idx": 361,
+                        "end_idx": 364
+                    },
+                    {
+                        "start_idx": 790,
+                        "end_idx": 793
+                    },
+                    {
+                        "start_idx": 1991,
+                        "end_idx": 1994
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-28T00:29:52.820Z"
+}

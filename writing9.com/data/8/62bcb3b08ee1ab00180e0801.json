@@ -1,0 +1,133 @@
+{
+    "url": "https://writing9.com/text/62bcb3b08ee1ab00180e0801-you-work-for-an-international-company-and-would-like-to",
+    "file": [
+        "data",
+        "8",
+        "62bcb3b08ee1ab00180e0801.json"
+    ],
+    "topics": [
+        "work",
+        "company",
+        "six",
+        "months",
+        "head",
+        "office",
+        "manager",
+        "company\u2019s"
+    ],
+    "question": "You work for an international company and would like to spend six months working in its head office in another company Write a letter to your manager. In your letter: \n- Explain why you want to work in the company\u2019s head office for six months \n- Say how your work could be done while you are away \n- Ask for his/her help in arranging it",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr John,",
+        "I am an employee at your company in Oman branch. I would like to request  an internal transfer to the head office in Dubai for six months.",
+        "I joined your organisation  four years as store staff and I want to upgrade my qualification to support work at the store. Thus, I want to enrol in Supply Chain training in Dubai which will starts in June and finish in December and I believe attending work from the head office will allow me to work and learn at the same time.",
+        "Workwise, I am planning to hand over my physical tasks to my colleague at our office and follow up closely with him. I will arrange weekly online meetings to acknowledge the updates and solve some possible problems that might appear. Finally, I would personally upload the monthly report to the section head.",
+        "Would you kindly help me with the arrangements for the transfer process and acceptance from the head office. It is faster when the manager informs the office directly and provides a non-objection letter with the application.",
+        "Your help is highly appreciated.",
+        "Yours sincerely,",
+        "Samah Ismail"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": ".",
+                "start_idx": 897,
+                "end_idx": 898,
+                "error": "Change the punctuation",
+                "error_des": "Consider using a question mark to signify that this sentence is a question.",
+                "suggetions": [
+                    "?"
+                ]
+            }
+        ]
+    },
+    "submitter": "Simsima161",
+    "num_words": 189,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "finally",
+            "thus"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "office",
+                "occurrences": [
+                    {
+                        "start_idx": 121,
+                        "end_idx": 127
+                    },
+                    {
+                        "start_idx": 424,
+                        "end_idx": 430
+                    },
+                    {
+                        "start_idx": 559,
+                        "end_idx": 565
+                    },
+                    {
+                        "start_idx": 891,
+                        "end_idx": 897
+                    },
+                    {
+                        "start_idx": 941,
+                        "end_idx": 947
+                    }
+                ]
+            },
+            {
+                "word": "head",
+                "occurrences": [
+                    {
+                        "start_idx": 116,
+                        "end_idx": 120
+                    },
+                    {
+                        "start_idx": 419,
+                        "end_idx": 423
+                    },
+                    {
+                        "start_idx": 784,
+                        "end_idx": 788
+                    },
+                    {
+                        "start_idx": 886,
+                        "end_idx": 890
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-29T20:20:37.451Z"
+}

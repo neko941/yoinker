@@ -1,0 +1,140 @@
+{
+    "url": "https://writing9.com/text/60332be89e689200183c3ccf-it-is-generally-believed-that-some-people-are-born-with",
+    "file": [
+        "data",
+        "65",
+        "60332be89e689200183c3ccf.json"
+    ],
+    "topics": [
+        "people",
+        "talents",
+        "sport",
+        "music",
+        "child",
+        "sports",
+        "person",
+        "musician"
+    ],
+    "question": "It is generally believed that some people are born with certain talents, for instance for sport or music, and others are not. However, it is sometime claimed that any child can be taught to become a good sports person or musician. Discuss both these views and give your own opinion.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some people believe that in order to be successful in life, a person should be born with certain talents ,meanwhile,  others believe that a child can be taught to excel in certain skills such as sports , music. However , in my opinion , some amount of talent is certainly needed.",
+        "On the one hand , most of the population think that some children are born with certain skills which are not taught to them but they already have them. For example, some singers such as Lata Mangeshkar possess a beautiful voice ,due to which, any song they sing suits well on them. For instance , some students score well in exams even if they study only for two hours on daily basis  but, on the other hand, some of them spend a lot of time in studies ,due to this fact, they do not achieve a higher grade. The main reason behind this is that some of them possess  very high processing and memory power, due to which ,they perform well in exams.",
+        "On the other hand , most of the public believe that a child can excel in any field if he is trained well in that particular area. For instance , children can perform well in football if they are being provided with a certain amount of specialized training. To illustrate, a child can score  good marks in all the subjects , if his parents provide a good tutor.",
+        "To conclude , in my opinion , it is necessary to have a certain amount of talent because even if a person is provided with a specialized training , there are certain amount of skills due to which he can perform well than others and that skills cannot be taught , they are already inbuilt."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 1410,
+                "end_idx": 1412,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun training in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "certain",
+                "start_idx": 1445,
+                "end_idx": 1452,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase certain amount may not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "a certain"
+                ]
+            }
+        ]
+    },
+    "submitter": "manasiparmar97",
+    "num_words": 297,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "such",
+            "however",
+            "on the other hand",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "skills",
+                "occurrences": [
+                    {
+                        "start_idx": 180,
+                        "end_idx": 186
+                    },
+                    {
+                        "start_idx": 368,
+                        "end_idx": 374
+                    },
+                    {
+                        "start_idx": 1464,
+                        "end_idx": 1470
+                    },
+                    {
+                        "start_idx": 1525,
+                        "end_idx": 1531
+                    }
+                ]
+            },
+            {
+                "word": "amount",
+                "occurrences": [
+                    {
+                        "start_idx": 242,
+                        "end_idx": 248
+                    },
+                    {
+                        "start_idx": 1152,
+                        "end_idx": 1158
+                    },
+                    {
+                        "start_idx": 1352,
+                        "end_idx": 1358
+                    },
+                    {
+                        "start_idx": 1454,
+                        "end_idx": 1460
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-02-22T04:17:39.348Z"
+}

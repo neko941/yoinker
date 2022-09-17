@@ -1,0 +1,149 @@
+{
+    "url": "https://writing9.com/text/5f46807bb66d150018c2f865",
+    "file": [
+        "data",
+        "65",
+        "5f46807bb66d150018c2f865.json"
+    ],
+    "topics": [
+        "people",
+        "time",
+        "loss",
+        "species",
+        "plants",
+        "animals"
+    ],
+    "question": "Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems.\nDiscuss both these views and give your own opinion",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the last decades, people all around the world have dealt with numerous environmental problems, such as deforestation, pollution, soil degradation. Some people said that the disappearance of particular species of plants and animals is the most important. But, conversely, others explained that there are still more environmental intricacies, which are noticeable.",
+        "In my opinion, I agree with the second one due to various reasons. First of all, in most countries, the most serious environmental problem is global warming. For instance, in the United States, which is the most affluent country in the world, consists of millions of factories and fabrics. Therefore, the emissions of carbon dioxide and toxins released into the air and rivers are extremely high. But, most areas in the USA are desert and highlands so there are not so many species of animals or plants. Besides, some people also believe the extinction of special species is just a consequence of global warming. The rise of temperature on the Earth's surface destroys the living conditions of varied animals and plants. Then, the biodiversity and the ecosystem as well is broken.",
+        "There is also an idea implicit in the statement that the extinction of sorts of animals and plants plays the most important role. However, this implication is an over-simplification. Many people illustrate that when spectacular species do not exist, the natural world will be ruined and there is no chance to rebuild it. But, they forgot what causes that disappearance. That is the global warming and other difficulties.",
+        "To sum up, both sides of the argument have merits. Nevertheless, the rare animals and plants drowning should be not considered as the most crucial because global warming affects not only the life of certain species but also the normal life of the majority of people"
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "is",
+                "start_idx": 937,
+                "end_idx": 939,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "is broken",
+                "start_idx": 1135,
+                "end_idx": 1144,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are broken"
+                ]
+            },
+            {
+                "word": "sorts of",
+                "start_idx": 1217,
+                "end_idx": 1225,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "sorts, of"
+                ]
+            },
+            {
+                "word": "merits",
+                "start_idx": 1610,
+                "end_idx": 1616,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "merit"
+                ]
+            }
+        ]
+    },
+    "submitter": "Andy",
+    "num_words": 297,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "14",
+        "list_linking_words": [
+            "also",
+            "such",
+            "first",
+            "nevertheless",
+            "conversely",
+            "then",
+            "besides",
+            "however",
+            "last",
+            "therefore",
+            "that is",
+            "second",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "species",
+                "occurrences": [
+                    {
+                        "start_idx": 204,
+                        "end_idx": 211
+                    },
+                    {
+                        "start_idx": 840,
+                        "end_idx": 847
+                    },
+                    {
+                        "start_idx": 930,
+                        "end_idx": 937
+                    },
+                    {
+                        "start_idx": 1375,
+                        "end_idx": 1382
+                    },
+                    {
+                        "start_idx": 1775,
+                        "end_idx": 1782
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-08-26T15:32:14.377Z"
+}

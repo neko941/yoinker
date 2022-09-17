@@ -1,0 +1,87 @@
+{
+    "url": "https://writing9.com/text/5e5d530e6a4e3400182e7fe3-you-are-applying-for-a-job-and-you-need-a",
+    "file": [
+        "data",
+        "75",
+        "5e5d530e6a4e3400182e7fe3.json"
+    ],
+    "topics": [
+        "job",
+        "reference",
+        "boss",
+        "*describe",
+        "*say",
+        "*request",
+        "week"
+    ],
+    "question": "You are applying for a job and you need a letter of reference. Write a letter to a former boss.\n\n\nIn your letter:\n*Describe the job you are applying for\n*Say what you want included in the reference letter\n*Request that you former boss send you the letter be the end of the week",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 6.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Rahul,",
+        "I am writing to you today to ask if you would kindly write me a reference letter. I am applying for a network administrator post at google HQ, Mountain View.",
+        "I hope to move into the network security field there.",
+        "Let me explain in more detail. I know we worked as systems engineers, but I was hoping you could mention my networking and troubleshooting skills. It would be very helpful if you could write about my proactive behaviour and me helping out other teams with their tasks. Please also do mention my skills with remote team coordination. In addition, if you could possibly include information about my character I would be forever grateful.",
+        "Would you please arrange for it in a week's time? The deadline for the job application is fast approaching and I really do not want to miss this opportunity.",
+        "It would be a significant help if you could write this letter as soon as you can.",
+        "I look forward to hearing from you.",
+        "Yours sincerely,",
+        "Aamir Ahmed"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "me",
+                "start_idx": 447,
+                "end_idx": 449,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "my"
+                ]
+            }
+        ]
+    },
+    "submitter": "sniper60",
+    "num_words": 172,
+    "num_paragraphs": 9,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "also",
+            "in addition",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-10-13T19:32:21.537Z"
+}

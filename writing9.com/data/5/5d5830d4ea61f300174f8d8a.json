@@ -1,0 +1,466 @@
+{
+    "url": "https://writing9.com/text/5d5830d4ea61f300174f8d8a",
+    "file": [
+        "data",
+        "5",
+        "5d5830d4ea61f300174f8d8a.json"
+    ],
+    "topics": [
+        "people",
+        "\u201cpen",
+        "paper\u201d",
+        "examinations",
+        "method",
+        "achievement"
+    ],
+    "question": "Many people believe that formal \u201cpen and paper\u201d examinations are not the best method of assessing educational achievement. Discuss this view and give your own opinion.",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Traditionally, student have been examined through a written test, which evaluated their knowledge and ability. This method, however, has been challanged by many teachers who claim it is an old and inaccurate way to test the student's knowledge. As a result, there is a growing debate, how to evaluate properly the student's achievement.",
+        "Using a closed or an open set question test, is probably the safest way to compare knowledge between the tested students. Because the questions are similar to all students, and as a consequence the answers are the same, it is easy for the examiner to check the tests and grade them accordingly. Furthermore, these form of tests are excellent when we are interested in assessing knowledge from several schools at the same time. To illustrate, every year in Israel, a closed set question test is is being used to evaluate elementary school students across the entire country in mathematics, history and english language. Based on these scores, the local education system is being financed by the gpvernment.",
+        "In contrast to the above mentioned, formal tests might be difficult and stressful to some students, which may affect their ability. This is especially true for students who suffer from ADHD or mental conditions, that prevents them from concentrating for long periods. Due to that, although these students know the tested material, they are still getting poor test results which affect their education gravely. These propblem can be prevented through the use of, other methods, such as oral examination, end semeter final work, or an oral presentation which minimize the anxiety associated with formal tests.",
+        "In my opinion, formal tests are not a good way to evaluate a student's knowledge because it only tests what we remember, and not what we understant. if we are tested in history, for example, remembering the location and the time of a specific event during the Vietnam war, might give us a goot test score, however it will not test if we understant the moral and historical consequences of it. By using other methods of evaluation, such as an oral lecture about the consequences of the war, or wrtting an assay about the effects of the war, a teacher can really know if the student understand the material.",
+        "In conclusion, formal tests, in my opinion, ar enot the best method to evaluate student's achievements and understanding. Other means, such as a final semster work, can asess if the students truely understand the material , or just memorized it."
+    ],
+    "errors": {
+        "num_error": "23",
+        "error_list": [
+            {
+                "word": "student",
+                "start_idx": 14,
+                "end_idx": 21,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the student"
+                ]
+            },
+            {
+                "word": "have been examined",
+                "start_idx": 22,
+                "end_idx": 40,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "has been examined"
+                ]
+            },
+            {
+                "word": "challanged",
+                "start_idx": 141,
+                "end_idx": 151,
+                "error": "take exception to",
+                "error_des": "",
+                "suggetions": [
+                    "challenged"
+                ]
+            },
+            {
+                "word": "form",
+                "start_idx": 650,
+                "end_idx": 654,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "forms"
+                ]
+            },
+            {
+                "word": "is is",
+                "start_idx": 827,
+                "end_idx": 832,
+                "error": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+                "error_des": "",
+                "suggetions": [
+                    "is"
+                ]
+            },
+            {
+                "word": "english",
+                "start_idx": 937,
+                "end_idx": 944,
+                "error": "an Indo-European language belonging to the West Germanic branch; the official language of Britain and the United States and most of the commonwealth countries",
+                "error_des": "",
+                "suggetions": [
+                    "English"
+                ]
+            },
+            {
+                "word": "gpvernment",
+                "start_idx": 1030,
+                "end_idx": 1040,
+                "error": "the organization that is the governing authority of a political unit",
+                "error_des": "",
+                "suggetions": [
+                    "government"
+                ]
+            },
+            {
+                "word": "propblem",
+                "start_idx": 1458,
+                "end_idx": 1466,
+                "error": "a state of difficulty that needs to be resolved",
+                "error_des": "",
+                "suggetions": [
+                    "problems"
+                ]
+            },
+            {
+                "word": "semeter",
+                "start_idx": 1549,
+                "end_idx": 1556,
+                "error": "one of two divisions of an academic year",
+                "error_des": "",
+                "suggetions": [
+                    "semester"
+                ]
+            },
+            {
+                "word": "minimize",
+                "start_idx": 1599,
+                "end_idx": 1607,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "minimizes"
+                ]
+            },
+            {
+                "word": "understant",
+                "start_idx": 1787,
+                "end_idx": 1797,
+                "error": "know and comprehend the nature or meaning of",
+                "error_des": "",
+                "suggetions": [
+                    "understand"
+                ]
+            },
+            {
+                "word": "if",
+                "start_idx": 1799,
+                "end_idx": 1801,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "If"
+                ]
+            },
+            {
+                "word": "goot",
+                "start_idx": 1939,
+                "end_idx": 1943,
+                "error": "having desirable or positive qualities especially those suitable for a thing specified",
+                "error_des": "",
+                "suggetions": [
+                    "good"
+                ]
+            },
+            {
+                "word": "understant",
+                "start_idx": 1987,
+                "end_idx": 1997,
+                "error": "know and comprehend the nature or meaning of",
+                "error_des": "",
+                "suggetions": [
+                    "understand"
+                ]
+            },
+            {
+                "word": "wrtting",
+                "start_idx": 2143,
+                "end_idx": 2150,
+                "error": "the act of creating written works",
+                "error_des": "",
+                "suggetions": [
+                    "writing"
+                ]
+            },
+            {
+                "word": "understand",
+                "start_idx": 2231,
+                "end_idx": 2241,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "understands"
+                ]
+            },
+            {
+                "word": "ar",
+                "start_idx": 2300,
+                "end_idx": 2302,
+                "error": "a unit of surface area equal to 100 square meters",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "enot",
+                "start_idx": 2303,
+                "end_idx": 2307,
+                "error": "negation of a word or group of words",
+                "error_des": "",
+                "suggetions": [
+                    "not"
+                ]
+            },
+            {
+                "word": "student's achievements",
+                "start_idx": 2336,
+                "end_idx": 2358,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the student's achievements"
+                ]
+            },
+            {
+                "word": "semster",
+                "start_idx": 2407,
+                "end_idx": 2414,
+                "error": "one of two divisions of an academic year",
+                "error_des": "",
+                "suggetions": [
+                    "semester"
+                ]
+            },
+            {
+                "word": "asess",
+                "start_idx": 2425,
+                "end_idx": 2430,
+                "error": "evaluate or estimate the nature, quality, ability, extent, or significance of",
+                "error_des": "",
+                "suggetions": [
+                    "assess",
+                    "asses"
+                ]
+            },
+            {
+                "word": "truely",
+                "start_idx": 2447,
+                "end_idx": 2453,
+                "error": "in accordance with truth or fact or reality",
+                "error_des": "",
+                "suggetions": [
+                    "truly"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 2478,
+                "end_idx": 2480,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            }
+        ]
+    },
+    "submitter": "chilafp",
+    "num_words": 414,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "accordingly",
+            "such",
+            "in contrast",
+            "furthermore",
+            "although",
+            "as a result",
+            "however",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "test",
+                "occurrences": [
+                    {
+                        "start_idx": 60,
+                        "end_idx": 64
+                    },
+                    {
+                        "start_idx": 215,
+                        "end_idx": 219
+                    },
+                    {
+                        "start_idx": 376,
+                        "end_idx": 380
+                    },
+                    {
+                        "start_idx": 442,
+                        "end_idx": 446
+                    },
+                    {
+                        "start_idx": 598,
+                        "end_idx": 602
+                    },
+                    {
+                        "start_idx": 659,
+                        "end_idx": 663
+                    },
+                    {
+                        "start_idx": 823,
+                        "end_idx": 827
+                    },
+                    {
+                        "start_idx": 1086,
+                        "end_idx": 1090
+                    },
+                    {
+                        "start_idx": 1357,
+                        "end_idx": 1361
+                    },
+                    {
+                        "start_idx": 1402,
+                        "end_idx": 1406
+                    },
+                    {
+                        "start_idx": 1644,
+                        "end_idx": 1648
+                    },
+                    {
+                        "start_idx": 1673,
+                        "end_idx": 1677
+                    },
+                    {
+                        "start_idx": 1748,
+                        "end_idx": 1752
+                    },
+                    {
+                        "start_idx": 1810,
+                        "end_idx": 1814
+                    },
+                    {
+                        "start_idx": 1945,
+                        "end_idx": 1949
+                    },
+                    {
+                        "start_idx": 1977,
+                        "end_idx": 1981
+                    },
+                    {
+                        "start_idx": 2279,
+                        "end_idx": 2283
+                    }
+                ]
+            },
+            {
+                "word": "student",
+                "occurrences": [
+                    {
+                        "start_idx": 15,
+                        "end_idx": 22
+                    },
+                    {
+                        "start_idx": 224,
+                        "end_idx": 231
+                    },
+                    {
+                        "start_idx": 314,
+                        "end_idx": 321
+                    },
+                    {
+                        "start_idx": 449,
+                        "end_idx": 456
+                    },
+                    {
+                        "start_idx": 500,
+                        "end_idx": 507
+                    },
+                    {
+                        "start_idx": 875,
+                        "end_idx": 882
+                    },
+                    {
+                        "start_idx": 1133,
+                        "end_idx": 1140
+                    },
+                    {
+                        "start_idx": 1203,
+                        "end_idx": 1210
+                    },
+                    {
+                        "start_idx": 1339,
+                        "end_idx": 1346
+                    },
+                    {
+                        "start_idx": 1712,
+                        "end_idx": 1719
+                    },
+                    {
+                        "start_idx": 2224,
+                        "end_idx": 2231
+                    },
+                    {
+                        "start_idx": 2337,
+                        "end_idx": 2344
+                    },
+                    {
+                        "start_idx": 2439,
+                        "end_idx": 2446
+                    }
+                ]
+            },
+            {
+                "word": "knowledge",
+                "occurrences": [
+                    {
+                        "start_idx": 88,
+                        "end_idx": 97
+                    },
+                    {
+                        "start_idx": 234,
+                        "end_idx": 243
+                    },
+                    {
+                        "start_idx": 420,
+                        "end_idx": 429
+                    },
+                    {
+                        "start_idx": 715,
+                        "end_idx": 724
+                    },
+                    {
+                        "start_idx": 1722,
+                        "end_idx": 1731
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-17T16:52:36.186Z"
+}

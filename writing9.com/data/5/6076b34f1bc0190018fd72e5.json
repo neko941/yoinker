@@ -1,0 +1,262 @@
+{
+    "url": "https://writing9.com/text/6076b34f1bc0190018fd72e5-many-working-people-get-little-or-no-exercise-either-during",
+    "file": [
+        "data",
+        "5",
+        "6076b34f1bc0190018fd72e5.json"
+    ],
+    "topics": [
+        "people",
+        "exercise",
+        "time",
+        "health"
+    ],
+    "question": "Many working people get little or no exercise either during the working day or in their free time, and have health problems as a result.\nWhy do so many working people not get enough exercise? What can be done about this problem?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some people experience health problems as a result of little or no exercise during their free time or in their working time. This essay would examine the reasons and solutions for following this trend due to their lack of time management while taking care of their own body.",
+        "One of the main reason for the lack of exercise is because working people are less bothered about their physical health as their body tends to show the symptoms only when they become older. As a result, even if they get enough free time, they would be interested in partying and other social activities which includes junk food and alcohol. Furthermore, due to the immense job pressure that they have to face in their work, it would leave them with only shorter time and consequently, they would end up with serious heart diseases and other health issues. People in the IT field are the common victims of this lifestyle as it involves minimal physical activity.",
+        "In order to solve this issue, people have to make strong decisions to organise their life which includes early wake up, avoid late night sleeping, completing all the works at the office to manage time for exercising and consuming healthy food. Implementing healthy lifestyle to the daily routine would create a drastic change in each one's life , by making mentally and physical stable. Moreover, the work place management have to introduce a 30 minute session for their employees to get involved in some kind of physical activity. For example, multinational companies like the Apple and the Google have put forward many activities which make their workers energetic for the whole day which would eventually improve their creativity and thinking level.",
+        "To conclude, the main causes for the lack of exercise is because of the inadequate timing and bad lifestyle that they follow in these days, however, it could be resolved by implementing concrete decisions to follow healthy habits and introducing new programs by the corporates to encourage their employees physical life."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "shorter",
+                "start_idx": 728,
+                "end_idx": 735,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "a shorter"
+                ]
+            },
+            {
+                "word": "wake up",
+                "start_idx": 1047,
+                "end_idx": 1054,
+                "error": "Join the words",
+                "error_des": "It appears that wake up should not contain a space. Consider changing it.",
+                "suggetions": [
+                    "wake-up"
+                ]
+            },
+            {
+                "word": "late night",
+                "start_idx": 1062,
+                "end_idx": 1072,
+                "error": "Add a hyphen",
+                "error_des": "It appears that late night is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "late-night"
+                ]
+            },
+            {
+                "word": "healthy",
+                "start_idx": 1193,
+                "end_idx": 1200,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "a healthy"
+                ]
+            },
+            {
+                "word": "mentally",
+                "start_idx": 1293,
+                "end_idx": 1301,
+                "error": "Replace the word",
+                "error_des": "The word mentally doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "mental"
+                ]
+            },
+            {
+                "word": "physical",
+                "start_idx": 1306,
+                "end_idx": 1314,
+                "error": "Replace the word",
+                "error_des": "The word physical doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "physically"
+                ]
+            },
+            {
+                "word": "stable",
+                "start_idx": 1315,
+                "end_idx": 1321,
+                "error": "Replace the word",
+                "error_des": "The word stable doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "stability"
+                ]
+            },
+            {
+                "word": "work place",
+                "start_idx": 1337,
+                "end_idx": 1347,
+                "error": "Correct your spelling",
+                "error_des": "The word work place seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "workplace"
+                ]
+            },
+            {
+                "word": "have",
+                "start_idx": 1359,
+                "end_idx": 1363,
+                "error": "Change the verb form",
+                "error_des": "The plural verb have does not appear to agree with the singular subject the work place management. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "has"
+                ]
+            },
+            {
+                "word": "30 minute",
+                "start_idx": 1379,
+                "end_idx": 1388,
+                "error": "Add a hyphen",
+                "error_des": "It appears that 30 minute is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "30-minute"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1510,
+                "end_idx": 1514,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1524,
+                "end_idx": 1528,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "in ",
+                "start_idx": 1814,
+                "end_idx": 1817,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "employees",
+                "start_idx": 1985,
+                "end_idx": 1994,
+                "error": "Change to a genitive case",
+                "error_des": "It appears that the word employees should use the genitive case. Consider changing the noun.",
+                "suggetions": [
+                    "employee's",
+                    "employees'"
+                ]
+            }
+        ]
+    },
+    "submitter": "Ashith",
+    "num_words": 335,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "furthermore",
+            "as a result",
+            "however",
+            "consequently",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 94,
+                        "end_idx": 98
+                    },
+                    {
+                        "start_idx": 119,
+                        "end_idx": 123
+                    },
+                    {
+                        "start_idx": 222,
+                        "end_idx": 226
+                    },
+                    {
+                        "start_idx": 507,
+                        "end_idx": 511
+                    },
+                    {
+                        "start_idx": 737,
+                        "end_idx": 741
+                    },
+                    {
+                        "start_idx": 1133,
+                        "end_idx": 1137
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 5,
+                        "end_idx": 11
+                    },
+                    {
+                        "start_idx": 342,
+                        "end_idx": 348
+                    },
+                    {
+                        "start_idx": 967,
+                        "end_idx": 973
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-04-14T09:18:09.365Z"
+}

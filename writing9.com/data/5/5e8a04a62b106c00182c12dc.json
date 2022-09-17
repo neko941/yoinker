@@ -1,0 +1,232 @@
+{
+    "url": "https://writing9.com/text/5e8a04a62b106c00182c12dc",
+    "file": [
+        "data",
+        "5",
+        "5e8a04a62b106c00182c12dc.json"
+    ],
+    "topics": [
+        "city",
+        "traffic",
+        "congestion"
+    ],
+    "question": "One problem faced by almost every large city is traffic congestion.",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "One of the most serious issues facing the majority of large urban areas is traffic jam. In my point of view, the main problem is that there are too many private cars on the roads these days and a vital solution is to introduce park-and-ride scheme.",
+        "To begin with, as highlighted above people\u2019s preference in owning cars rather than travelling by buses traditionally causes the traffic congestion, while most residents, who live in big cities are affected by it. Actually this problem is able to be solved by implementing the measures such as park-and-ride scheme or congestion charging as sure as the authorities of the city of London did, where going to the city costs about 8 \u00a3 a day.",
+        "Moreover, frequently being crowded, old and dirty \u2013 inadequate public transport also leads to traffic jams and also rush hour traffic is not an exception. For example, most people commute to & from work at the same time each day and during these hours compilation of almost all kind of transportation is not avoidable. However, the stress of this problem might be settled by enhancing the quality of service and the frequent of work schedule of public transports. In addition, improved bus lanes, new cycle lanes will make it safer for people to cycle, which is another sufficient option for the issue. Behind, the local authorities should really reconsider about flexible working hours that gives an additional opportunity to free  move.",
+        "In conclusion, today\u2019s problem of megapolis cities named \u201ctraffic congestion\u201d can tackled with the cooperation of government and its citizens. In other words people should travel more on public transport and in the meantime the government should provide them by introducing park-and-ride scheme, developing the quality and frequent of the buses and improving local infrastructure and of course, giving an opportunity to switch to flexible working hours."
+    ],
+    "errors": {
+        "num_error": "11",
+        "error_list": [
+            {
+                "word": "ly ",
+                "start_idx": 468,
+                "end_idx": 471,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "Actually, this"
+                ]
+            },
+            {
+                "word": "going",
+                "start_idx": 645,
+                "end_idx": 650,
+                "error": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+                "error_des": "",
+                "suggetions": [
+                    "were"
+                ]
+            },
+            {
+                "word": "compi",
+                "start_idx": 938,
+                "end_idx": 943,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "hour"
+                ]
+            },
+            {
+                "word": "f tr",
+                "start_idx": 971,
+                "end_idx": 975,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "kinds"
+                ]
+            },
+            {
+                "word": "nt of wo",
+                "start_idx": 1109,
+                "end_idx": 1117,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "frequency"
+                ]
+            },
+            {
+                "word": "chedule of pu",
+                "start_idx": 1121,
+                "end_idx": 1134,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the work schedule"
+                ]
+            },
+            {
+                "word": "move",
+                "start_idx": 1418,
+                "end_idx": 1422,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "freely"
+                ]
+            },
+            {
+                "word": "lis citie",
+                "start_idx": 1466,
+                "end_idx": 1475,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Megapolis"
+                ]
+            },
+            {
+                "word": "d with ",
+                "start_idx": 1514,
+                "end_idx": 1521,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "tackle"
+                ]
+            },
+            {
+                "word": "people shoul",
+                "start_idx": 1583,
+                "end_idx": 1595,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "words, people"
+                ]
+            },
+            {
+                "word": "nt of th",
+                "start_idx": 1755,
+                "end_idx": 1763,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "frequency"
+                ]
+            }
+        ]
+    },
+    "submitter": "nh.alimov",
+    "num_words": 308,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "this",
+            "for example",
+            "to begin",
+            "in addition",
+            "in other words",
+            "moreover",
+            "also",
+            "however",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "traffic",
+                "occurrences": [
+                    {
+                        "start_idx": 75,
+                        "end_idx": 82
+                    },
+                    {
+                        "start_idx": 377,
+                        "end_idx": 384
+                    },
+                    {
+                        "start_idx": 781,
+                        "end_idx": 788
+                    },
+                    {
+                        "start_idx": 813,
+                        "end_idx": 820
+                    },
+                    {
+                        "start_idx": 1484,
+                        "end_idx": 1491
+                    }
+                ]
+            },
+            {
+                "word": "problem",
+                "occurrences": [
+                    {
+                        "start_idx": 118,
+                        "end_idx": 125
+                    },
+                    {
+                        "start_idx": 476,
+                        "end_idx": 483
+                    },
+                    {
+                        "start_idx": 1034,
+                        "end_idx": 1041
+                    },
+                    {
+                        "start_idx": 1449,
+                        "end_idx": 1456
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-04-05T16:17:42.489Z"
+}

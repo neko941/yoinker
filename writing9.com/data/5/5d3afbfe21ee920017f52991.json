@@ -1,0 +1,190 @@
+{
+    "url": "https://writing9.com/text/5d3afbfe21ee920017f52991",
+    "file": [
+        "data",
+        "5",
+        "5d3afbfe21ee920017f52991.json"
+    ],
+    "topics": [
+        "num",
+        "people",
+        "risk",
+        "health"
+    ],
+    "question": "The num of people who are at risk of serious health problems.",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Health is the most precious gift from God which should be valued by everyone. However, increase in overweight population is due to inactivity and intake of junk food which could be dealth effectively through regular exercise and appropriate diet. Hence, I think these solutions could help in dealing with the health problems caused by obesity.",
+        "Nowadays, majority of the world's population has become inactive. This is due to excessive use of internet, which has caused people to gain much weight. As a result, they are suffering from many chronic health conditions. In order to stay healthy, every individual should exercise regularly. For instance, a recent research article from the Times of India reveals that 70% of obese population is suffering from the life threatening diseases like diabetes and hypertension due to increased internet usage. The doctor's around the globe suggests that regular physical activity could help in preventing and overcoming these conditions. Although, unhealthy diet is also a cause of concern.",
+        "Furthermore,  eating junk food also leads to weight gain. These days, it is available everywhere and it has become a part of everyone's diet, which  is causing many serious health conditions. This could be rectified by incorporating nutritious food in your diet. For example, one of my friends was habituated to eat oily and spicy food at restaurants due to which she suffered from stomach ailments. Consequently, she was advised by a nutritionist to take appropriate diet like fruits and green leafy vegetables to overcome her illness. Following her advise, she finally recovered from it.",
+        "In conclusion, I think lack of exercise and unhealthy diet are leading to obesity. Henceforth, many diseases caused by it could be overcome by changing lifestyle and eating habits."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "God which",
+                "start_idx": 37,
+                "end_idx": 46,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "God, which"
+                ]
+            },
+            {
+                "word": "dealth",
+                "start_idx": 180,
+                "end_idx": 186,
+                "error": "act on verbally or in some form of artistic expression",
+                "error_des": "",
+                "suggetions": [
+                    "dealt",
+                    "death"
+                ]
+            },
+            {
+                "word": "majority",
+                "start_idx": 353,
+                "end_idx": 361,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the majority"
+                ]
+            },
+            {
+                "word": "internet",
+                "start_idx": 441,
+                "end_idx": 449,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the internet"
+                ]
+            },
+            {
+                "word": "is suffering",
+                "start_idx": 736,
+                "end_idx": 748,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are suffering"
+                ]
+            },
+            {
+                "word": "advise",
+                "start_idx": 1580,
+                "end_idx": 1586,
+                "error": "a proposal for an appropriate course of action",
+                "error_des": "",
+                "suggetions": [
+                    "advice"
+                ]
+            }
+        ]
+    },
+    "submitter": "Afreen Nassir",
+    "num_words": 285,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "also",
+            "furthermore",
+            "although",
+            "as a result",
+            "hence",
+            "however",
+            "consequently",
+            "finally",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 161,
+                        "end_idx": 165
+                    },
+                    {
+                        "start_idx": 1056,
+                        "end_idx": 1060
+                    },
+                    {
+                        "start_idx": 1274,
+                        "end_idx": 1278
+                    },
+                    {
+                        "start_idx": 1361,
+                        "end_idx": 1365
+                    }
+                ]
+            },
+            {
+                "word": "diet",
+                "occurrences": [
+                    {
+                        "start_idx": 241,
+                        "end_idx": 245
+                    },
+                    {
+                        "start_idx": 997,
+                        "end_idx": 1001
+                    },
+                    {
+                        "start_idx": 1166,
+                        "end_idx": 1170
+                    },
+                    {
+                        "start_idx": 1287,
+                        "end_idx": 1291
+                    },
+                    {
+                        "start_idx": 1498,
+                        "end_idx": 1502
+                    },
+                    {
+                        "start_idx": 1674,
+                        "end_idx": 1678
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-26T13:11:26.950Z"
+}

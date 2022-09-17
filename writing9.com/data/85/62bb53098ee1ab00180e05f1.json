@@ -1,0 +1,104 @@
+{
+    "url": "https://writing9.com/text/62bb53098ee1ab00180e05f1-write-a-letter-to-your-friend-inviting-himher-to-your",
+    "file": [
+        "data",
+        "85",
+        "62bb53098ee1ab00180e05f1.json"
+    ],
+    "topics": [
+        "friend",
+        "party",
+        "\u2013"
+    ],
+    "question": "Write a letter to your friend inviting him/her to your family party. In your letter\u2013 explain why you are organizing the party\u2013 describe what you are planning to do\u2013 say how important it is to have your friend at the party",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Joey,",
+        "Hello, smarty! I hope you are fit and fine. I am heartily inviting you for a party which will be at my home next Sunday.",
+        "Buddy, as it is my first wedding anniversary, I am organising a party for my wife to make the day special and memorable for her. In fact, I booked a hotel Cera Classic for a small celebration in which there will be a musical night along with dinner. Basically, I can manage the dinner arrangements because I have decided to include Indian and Spanish food items in it.",
+        "Pal, I need presence essentially not only to raise the stars of this party but also to handle the arrangements related to music. Since you have had a prowess in writing songs and singing, I want you to write a special song for us and make this party unique with your melodious voice. I am happy to hear if you have any addition to my plans. I hope you will certainly accept my invitation and be there on time.",
+        "See you soon.",
+        "With love,",
+        "Jacob"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 648,
+                "end_idx": 650,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun prowess in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "Mrjit147",
+    "num_words": 180,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "also",
+            "first",
+            "next",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "party",
+                "occurrences": [
+                    {
+                        "start_idx": 88,
+                        "end_idx": 93
+                    },
+                    {
+                        "start_idx": 196,
+                        "end_idx": 201
+                    },
+                    {
+                        "start_idx": 570,
+                        "end_idx": 575
+                    },
+                    {
+                        "start_idx": 745,
+                        "end_idx": 750
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-28T19:14:19.286Z"
+}

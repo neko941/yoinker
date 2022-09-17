@@ -1,0 +1,118 @@
+{
+    "url": "https://writing9.com/text/626d6b91257ecf0018541e0a-some-people-think-living-in-big-cities-is-bad-for",
+    "file": [
+        "data",
+        "75",
+        "626d6b91257ecf0018541e0a.json"
+    ],
+    "topics": [
+        "people",
+        "cities",
+        "people\u2019s",
+        "health"
+    ],
+    "question": "Some people think living in big cities is bad for people\u2019s health.To what extent do you agree or disagree?Give reasons for your answer and include any relevant examples from your own knowledge or experience.You should write at least 250 words.",
+    "scores": {
+        "overall_band_score": 7.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A place where one lives might end up affecting one\u00b4s well-being. Many people argue that residing in populated urban areas could result in poor health. I completely support this view, since it could lead to less time spent outdoors and more contact with pollution.",
+        "To begin with, in most countries the majority of parks and forests are outside the city centre. This implies that if children are brought up within urban areas, it is less likely that they would be able to play in outdoor activities. On the contrary, kids which are raised in the outskirts of the city tend to spend on average more time in contact with nature. For example, they are usually closer to forests or mountains, so it is common that them to go hiking. Thus, spending time in nature can contribute to an improved lifestyle.",
+        "Additionally, cities are frequently more populated than other areas of a country. For this reason, their air, water and land are more contaminated, since more waste is produced. For instance, due to intensive traffic from public or private transport, as well as from aeroplanes, the air within highly populated areas possesses various components which can be harmfull to be in contact with. Moreover, those chemicals also end up in the water that the citizens drink or use for cooking.",
+        "To conclude, I strongly believe that residing in a metropolis can have negative consequences for one\u00b4s body, not only because of fewer hours spent in nature, but also because of the effect of being surrounded by toxic pollutants."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "harmfull",
+                "start_idx": 1156,
+                "end_idx": 1164,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want harmfull to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "harmful"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1440,
+                "end_idx": 1441,
+                "error": "Remove the comma",
+                "error_des": "The comma before the conjunction but also appears to be unnecessary. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "romikoif",
+    "num_words": 257,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "to begin",
+            "thus",
+            "also",
+            "on the contrary",
+            "additionally",
+            "for instance",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "areas",
+                "occurrences": [
+                    {
+                        "start_idx": 116,
+                        "end_idx": 121
+                    },
+                    {
+                        "start_idx": 418,
+                        "end_idx": 423
+                    },
+                    {
+                        "start_idx": 860,
+                        "end_idx": 865
+                    },
+                    {
+                        "start_idx": 1109,
+                        "end_idx": 1114
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-04-30T17:03:48.429Z"
+}

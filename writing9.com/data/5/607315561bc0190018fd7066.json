@@ -1,0 +1,240 @@
+{
+    "url": "https://writing9.com/text/607315561bc0190018fd7066-it-is-often-said-that-government-spend-too-much-money",
+    "file": [
+        "data",
+        "5",
+        "607315561bc0190018fd7066.json"
+    ],
+    "topics": [
+        "government",
+        "money",
+        "projects",
+        "wildlife"
+    ],
+    "question": "It is often said that government spend too much money on projects to protect wildlife,while there are other problems that are more important.do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Even though some people opine that the ruling body spends a lot of money on wildlife preservation, other believe that those money could be used in other matters which are more important. I disagree with this because preservation of wild living creatures could help us to live in harmony for now and in future.",
+        "To begin with, creatures living in the forest have a vital role in our ecosystem because it helps to stabilize and maintain the food cycle which includes human beings as well. Therefore, projects related to such topics are as important as other topics which needs to be taken very seriously by the government. Secondly, such projects could aid plants as well which has a crucial role in the food chain. Hence, initiatives for the well being of animals as well as plants are equally important as other projects to make the world a better place to live in.",
+        "In addition, protecting wild life could save a lot of endangered animals, plants and birds from extinction as they also play an important task in the food chain. There are a wide variety species vanished from the earth due to the exploitation of resources by human beings. Initiatives to improve the condition could redeem the surroundings back to its original shape. For example, Pandas in China  were an endangered species before, however, there numbers are rapidly increasing due to the collective effort by the Wildlife Organisation. This in turn helped other plant species and animals to come back to their life.",
+        "To conclude, in my opinion, I disagree with this even though some people believe that spending huge amount of money in such types of projects are meaningless. In addition, such initiatives have to be implemented all over the world to improve and bring back the endangered species back."
+    ],
+    "errors": {
+        "num_error": "12",
+        "error_list": [
+            {
+                "word": "other",
+                "start_idx": 98,
+                "end_idx": 103,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "others"
+                ]
+            },
+            {
+                "word": "those money",
+                "start_idx": 117,
+                "end_idx": 128,
+                "error": "Change the determiner",
+                "error_des": "It appears that the plural demonstrative those is modifying the singular noun money. Consider using a singular demonstrative or a plural noun instead.",
+                "suggetions": [
+                    "that money"
+                ]
+            },
+            {
+                "word": "preservation",
+                "start_idx": 215,
+                "end_idx": 227,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "the preservation"
+                ]
+            },
+            {
+                "word": "needs",
+                "start_idx": 567,
+                "end_idx": 572,
+                "error": "Change the verb form",
+                "error_des": "The singular verb needs does not appear to agree with the plural subject other topics. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "need"
+                ]
+            },
+            {
+                "word": "wild life",
+                "start_idx": 888,
+                "end_idx": 897,
+                "error": "Correct your spelling",
+                "error_des": "The word wild life seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "wildlife"
+                ]
+            },
+            {
+                "word": "species",
+                "start_idx": 1051,
+                "end_idx": 1058,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of species"
+                ]
+            },
+            {
+                "word": "vanished",
+                "start_idx": 1059,
+                "end_idx": 1067,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "that vanished"
+                ]
+            },
+            {
+                "word": "its",
+                "start_idx": 1212,
+                "end_idx": 1215,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "their"
+                ]
+            },
+            {
+                "word": "there",
+                "start_idx": 1306,
+                "end_idx": 1311,
+                "error": "Replace the word",
+                "error_des": "The word there may be used incorrectly. Review the following notes to determine the appropriate usage for your context.",
+                "suggetions": [
+                    "their"
+                ]
+            },
+            {
+                "word": "huge",
+                "start_idx": 1577,
+                "end_idx": 1581,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "a huge"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 1598,
+                "end_idx": 1600,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": " back",
+                "start_idx": 1762,
+                "end_idx": 1767,
+                "error": "Delete extra word",
+                "error_des": "You used back twice.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "Ashith",
+    "num_words": 301,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "to begin",
+            "secondly",
+            "also",
+            "such",
+            "hence",
+            "however",
+            "therefore",
+            "in addition",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "species",
+                "occurrences": [
+                    {
+                        "start_idx": 1052,
+                        "end_idx": 1059
+                    },
+                    {
+                        "start_idx": 1282,
+                        "end_idx": 1289
+                    },
+                    {
+                        "start_idx": 1435,
+                        "end_idx": 1442
+                    },
+                    {
+                        "start_idx": 1755,
+                        "end_idx": 1762
+                    }
+                ]
+            },
+            {
+                "word": "projects",
+                "occurrences": [
+                    {
+                        "start_idx": 497,
+                        "end_idx": 505
+                    },
+                    {
+                        "start_idx": 635,
+                        "end_idx": 643
+                    },
+                    {
+                        "start_idx": 811,
+                        "end_idx": 819
+                    },
+                    {
+                        "start_idx": 1616,
+                        "end_idx": 1624
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-04-11T15:27:19.781Z"
+}

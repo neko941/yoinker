@@ -1,0 +1,135 @@
+{
+    "url": "https://writing9.com/text/5f0fab27401ea400186c6b68",
+    "file": [
+        "data",
+        "5",
+        "5f0fab27401ea400186c6b68.json"
+    ],
+    "topics": [
+        "development",
+        "society",
+        "life",
+        "be"
+    ],
+    "question": "Without development modern society is the traditional way of life.  Is it important to keep our traditional ways of life, how can this be achieved?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is known that modernization, as far as technology and science are concerned, emerged after the Industrial Revolution, which was triggered by the invention of spinning machinery in England during the late eighteen century. In Japan as well as in other Asian countries modernization has often been confused with Westernization. This is because modernization, when it occurred in these countries, quite often meant accepting Western culture and resulted in great changes of everyday life. However, Prof. Hideo Kishimoto once pointed out the difference between modernization and Westernization in the following way.",
+        "Westernization would mean that a certain indigenous cultural element of the traditional East is replaced by the penetrating Western element, and the functional role of the former is taken over by the latter.",
+        "Modernization, on the other hand, basically means to remold a cultural system into a new mode.",
+        "In the case of Japan, the adoption of Western clothes, food, hair styles and houses can be regarded as a part of Westernization. Although these things gave Japanese people some convenience and a smell of new culture, the functions they performed were almost the same as those which indigenous substitutes had fulfilled in earlier times. On the other hand, the introduction of telephones, TV, airplanes, mass communication, bureaucratic institutions, computer control systems and so forth can be considered to be a part of modernization because they contain the potential for enlarging the spheres of life and broadening one's outlook, and furthermore transform ways of thinking, patterns of behavior and world views. It definitely means remolding a cultural system into a new form.",
+        "This remolding will not always produce good effects such as a dignified style of life and social stability, although it is necessary and indispensable for improving the living standards of each citizen. This is because introducing western elements into non-Western countries may sometimes cause serious friction and tension with the traditional cultures."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "remold",
+                "start_idx": 875,
+                "end_idx": 881,
+                "error": "cast again",
+                "error_des": "",
+                "suggetions": [
+                    "remould",
+                    "remedy"
+                ]
+            },
+            {
+                "word": "remolding",
+                "start_idx": 1654,
+                "end_idx": 1663,
+                "error": "cast again",
+                "error_des": "",
+                "suggetions": [
+                    "remoulding"
+                ]
+            },
+            {
+                "word": "remolding",
+                "start_idx": 1704,
+                "end_idx": 1713,
+                "error": "do over, as of (part of) a house",
+                "error_des": "",
+                "suggetions": [
+                    "remodeling"
+                ]
+            }
+        ]
+    },
+    "submitter": "ThamaraiKannan B",
+    "num_words": 314,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "such",
+            "furthermore",
+            "although",
+            "however",
+            "on the other hand",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "westernization",
+                "occurrences": []
+            },
+            {
+                "word": "modernization",
+                "occurrences": [
+                    {
+                        "start_idx": 17,
+                        "end_idx": 30
+                    },
+                    {
+                        "start_idx": 270,
+                        "end_idx": 283
+                    },
+                    {
+                        "start_idx": 345,
+                        "end_idx": 358
+                    },
+                    {
+                        "start_idx": 560,
+                        "end_idx": 573
+                    },
+                    {
+                        "start_idx": 1440,
+                        "end_idx": 1453
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-16T01:19:38.009Z"
+}

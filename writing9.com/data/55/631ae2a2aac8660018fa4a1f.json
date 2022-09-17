@@ -1,0 +1,166 @@
+{
+    "url": "https://writing9.com/text/631ae2a2aac8660018fa4a1f-you-and-a-couple-of-your-colleagues-would-like-to",
+    "file": [
+        "data",
+        "55",
+        "631ae2a2aac8660018fa4a1f.json"
+    ],
+    "topics": [
+        "couple",
+        "colleagues",
+        "seminar",
+        "colleague",
+        "person",
+        "charge",
+        "information",
+        "dates",
+        "program",
+        "schedule",
+        "enquire",
+        "cost",
+        "discounts",
+        "groups"
+    ],
+    "question": "You and a couple of your colleagues would like to participate in a work-related seminar.\nWrite a letter to your colleague who is the person in charge of the seminar and ask for:\n\nDetailed information regarding the dates\nProgram schedule        \nEnquire about cost and possible discounts for groups",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr. John,",
+        "I am writing this letter to enquire about the \u201cArtificial Intelligence\u201d seminar which is going to held on 5th July 2022. I and a few teammates are very keen to attend the session as the knowledge of advanced technology will enhance our skillset.",
+        "I am looking for information regarding the program. Please provide me schedule and duration of the curriculum. Additionally, I would be grateful if you could also share the agenda of the session along with who is going to the session and what topics will be covered. We are very delighted about the course as the Robotics expertise will help us to resolve the many problems and helps in our current job. Our  expertise could be useful to other staff members.",
+        "Hence, I would also like to know about the pricing of each participants and if there is possibility for discount because we are more than 5 persons in group.",
+        "I hope, you will consider our group and provide us with the best deal.",
+        "Yours Faithfully,",
+        "Fancy"
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "Mr.",
+                "start_idx": 4,
+                "end_idx": 7,
+                "error": "Change the punctuation",
+                "error_des": "The abbreviated title Mr. seems to be punctuated incorrectly. Consider changing the punctuation.",
+                "suggetions": [
+                    "Mr"
+                ]
+            },
+            {
+                "word": "held",
+                "start_idx": 112,
+                "end_idx": 116,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "be held"
+                ]
+            },
+            {
+                "word": "participants",
+                "start_idx": 778,
+                "end_idx": 790,
+                "error": "Change to a singular noun",
+                "error_des": "The singular quantifier each is followed by the plural noun participants. Consider changing the noun to the singular or using a different quantifier.",
+                "suggetions": [
+                    "participant"
+                ]
+            },
+            {
+                "word": "possibility",
+                "start_idx": 807,
+                "end_idx": 818,
+                "error": "Add an article",
+                "error_des": "The noun phrase possibility seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a possibility",
+                    "the possibility"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 819,
+                "end_idx": 822,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "discount",
+                "start_idx": 823,
+                "end_idx": 831,
+                "error": "Add an article",
+                "error_des": "The noun phrase discount seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a discount",
+                    "the discount"
+                ]
+            },
+            {
+                "word": "persons",
+                "start_idx": 859,
+                "end_idx": 866,
+                "error": "Replace the word",
+                "error_des": "The word persons doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "people"
+                ]
+            },
+            {
+                "word": "group",
+                "start_idx": 870,
+                "end_idx": 875,
+                "error": "Add an article",
+                "error_des": "The noun phrase group seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the group",
+                    "a group"
+                ]
+            }
+        ]
+    },
+    "submitter": "jasmeetkaur2016",
+    "num_words": 172,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "additionally",
+            "also",
+            "hence",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-09-09T06:52:20.163Z"
+}

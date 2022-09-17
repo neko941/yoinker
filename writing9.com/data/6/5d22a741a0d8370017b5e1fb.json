@@ -1,0 +1,167 @@
+{
+    "url": "https://writing9.com/text/5d22a741a0d8370017b5e1fb",
+    "file": [
+        "data",
+        "6",
+        "5d22a741a0d8370017b5e1fb.json"
+    ],
+    "topics": [
+        "government",
+        "responsibility",
+        "actions",
+        "environment"
+    ],
+    "question": "The government should take responsibility for their actions to the environment. To what extent do you agree?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Environmental damage can cause the extinction of some species due to the loss of their natural habitats and food sources. It is believed that government has the biggest power for taking the course of actions to save the environment. In this essay, I shall give some facts and opinions to support this statement.",
+        "To begin with, only the government who has the privilege to state some regulations in the constitutions and enforce the law for either small or big violation. For example, spitting and littering, illegal logging, dumping unprocessed waste to the rivers, and so on. While the environmental activists only can report and do some protests to protect our nature, the government has the rights to fine and jail either citizens or companies who damage the environment.",
+        "Second, only the government who has the rights to build a conservation land for the endangered species. For example, the building of one-horned rhinoceros in Banten, West Java. This can prevent the extinction of the endangered species. Another example is the damaging of Borneo\u2019s forest that ruin the Orang Utans\u2019 life. These animals need to be relocated soon as the government is still solving the issues regarding the forest destruction happened in Borneo island. Orang Utans can be sent back to their natural habitat after the problem has been solved.",
+        "In conclusion, the government has the mandate to enforce the law and has the rights to build a conservation land to protect the endangered species and its habitat. Hence, I believe that government has to do some necessary course of actions to save the environment."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "for",
+                "start_idx": 174,
+                "end_idx": 177,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "since"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 1222,
+                "end_idx": 1224,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "do",
+                "start_idx": 1533,
+                "end_idx": 1535,
+                "error": "engage in",
+                "error_des": "",
+                "suggetions": [
+                    "make"
+                ]
+            },
+            {
+                "word": "some",
+                "start_idx": 1536,
+                "end_idx": 1540,
+                "error": "one or some or every or all without specification",
+                "error_des": "",
+                "suggetions": [
+                    "any"
+                ]
+            }
+        ]
+    },
+    "submitter": "mega.watty1994",
+    "num_words": 263,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "to begin",
+            "hence",
+            "second",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "species",
+                "occurrences": [
+                    {
+                        "start_idx": 54,
+                        "end_idx": 61
+                    },
+                    {
+                        "start_idx": 870,
+                        "end_idx": 877
+                    },
+                    {
+                        "start_idx": 1002,
+                        "end_idx": 1009
+                    },
+                    {
+                        "start_idx": 1469,
+                        "end_idx": 1476
+                    }
+                ]
+            },
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 142,
+                        "end_idx": 152
+                    },
+                    {
+                        "start_idx": 336,
+                        "end_idx": 346
+                    },
+                    {
+                        "start_idx": 675,
+                        "end_idx": 685
+                    },
+                    {
+                        "start_idx": 792,
+                        "end_idx": 802
+                    },
+                    {
+                        "start_idx": 1142,
+                        "end_idx": 1152
+                    },
+                    {
+                        "start_idx": 1349,
+                        "end_idx": 1359
+                    },
+                    {
+                        "start_idx": 1516,
+                        "end_idx": 1526
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-08T02:15:29.000Z"
+}

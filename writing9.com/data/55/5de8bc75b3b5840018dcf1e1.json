@@ -1,0 +1,260 @@
+{
+    "url": "https://writing9.com/text/5de8bc75b3b5840018dcf1e1",
+    "file": [
+        "data",
+        "55",
+        "5de8bc75b3b5840018dcf1e1.json"
+    ],
+    "topics": [
+        "spite",
+        "advances",
+        "agriculture",
+        "people",
+        "world",
+        "case"
+    ],
+    "question": "In spite of the advances made in agriculture, many people around the world still go hungry. Why is this the case? What can be done about this problem?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many nations have advanced agricultural production, while many others are still hungry. This is because of poor infrastructure and lower local production in developing countries, and this can be overcame to invest and also to improve nation\u2019s infrastructure and encouraging local production.",
+        "The fundamental problems of this issue is that poor nations are dependent to the developed ones. Western nations produce  surplus goods for instance, United States exports a large volume of agricultural products to developing countries that eroding country's local production. furthermore, farmers will disappoint if the local production will not be encouraged. However, not only the importation of goods from foreign countries impedes the local production, but also increases people's income spending more many on imported product that may be expensive, and as a result to decline the standard of living of citizens.",
+        "On other hand, there is various ways to solve these problems. Firstly, to enhance country's agricultural quality by improving awareness of local farmers to grow their farmers instead of relying imported agricultural products and giving subsidies to local farmers and industrial production sector to provide at least self-sufficiency. Secondly, another solution can be done through tax incentives for instance, imposing higher tax on all possible products from foreign countries to decrease importing exotic products and encourage local production.",
+        "in conclusion, The chief cause of some countries developed agriculturally, while many other are hungry is poor agricultural infrastructure of developing nations. This issue can be solve by improving and encouraging local production to reduce importation necessary goods."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "is",
+                "start_idx": 330,
+                "end_idx": 332,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "goods ",
+                "start_idx": 421,
+                "end_idx": 427,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "goods, for"
+                ]
+            },
+            {
+                "word": "United States",
+                "start_idx": 441,
+                "end_idx": 454,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the United States"
+                ]
+            },
+            {
+                "word": "furthermore",
+                "start_idx": 568,
+                "end_idx": 579,
+                "error": "in addition",
+                "error_des": "",
+                "suggetions": [
+                    "Furthermore"
+                ]
+            },
+            {
+                "word": "income spending",
+                "start_idx": 777,
+                "end_idx": 792,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "income, spending"
+                ]
+            },
+            {
+                "word": "many",
+                "start_idx": 798,
+                "end_idx": 802,
+                "error": "the most common medium of exchange; functions as legal tender",
+                "error_des": "",
+                "suggetions": [
+                    "money"
+                ]
+            },
+            {
+                "word": "other hand",
+                "start_idx": 912,
+                "end_idx": 922,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the other hand"
+                ]
+            },
+            {
+                "word": "is",
+                "start_idx": 930,
+                "end_idx": 932,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "industrial ",
+                "start_idx": 1176,
+                "end_idx": 1187,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the industrial production sector"
+                ]
+            },
+            {
+                "word": "least self-sufficiency",
+                "start_idx": 1219,
+                "end_idx": 1241,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "least self-sufficient"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 1457,
+                "end_idx": 1459,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "In"
+                ]
+            },
+            {
+                "word": "other",
+                "start_idx": 1543,
+                "end_idx": 1548,
+                "error": "plural of other; the people or things not already mentioned",
+                "error_des": "",
+                "suggetions": [
+                    "others"
+                ]
+            },
+            {
+                "word": "poor agricultural infrastructure",
+                "start_idx": 1563,
+                "end_idx": 1595,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the poor agricultural infrastructure",
+                    "a poor agricultural infrastructure"
+                ]
+            },
+            {
+                "word": "can be solve",
+                "start_idx": 1630,
+                "end_idx": 1642,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "can be solved"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 251,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "secondly",
+            "instead",
+            "also",
+            "as a result",
+            "however",
+            "firstly",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "production",
+                "occurrences": [
+                    {
+                        "start_idx": 40,
+                        "end_idx": 50
+                    },
+                    {
+                        "start_idx": 143,
+                        "end_idx": 153
+                    },
+                    {
+                        "start_idx": 280,
+                        "end_idx": 290
+                    },
+                    {
+                        "start_idx": 557,
+                        "end_idx": 567
+                    },
+                    {
+                        "start_idx": 619,
+                        "end_idx": 629
+                    },
+                    {
+                        "start_idx": 738,
+                        "end_idx": 748
+                    },
+                    {
+                        "start_idx": 1188,
+                        "end_idx": 1198
+                    },
+                    {
+                        "start_idx": 1446,
+                        "end_idx": 1456
+                    },
+                    {
+                        "start_idx": 1679,
+                        "end_idx": 1689
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-12-05T08:14:45.566Z"
+}

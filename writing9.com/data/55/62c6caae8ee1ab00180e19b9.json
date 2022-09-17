@@ -1,0 +1,157 @@
+{
+    "url": "https://writing9.com/text/62c6caae8ee1ab00180e19b9-out-of-a-countrys-health-budget-a-large-proportion-should",
+    "file": [
+        "data",
+        "55",
+        "62c6caae8ee1ab00180e19b9.json"
+    ],
+    "topics": [
+        "country",
+        "health",
+        "budget",
+        "proportion",
+        "treatment",
+        "education",
+        "measures"
+    ],
+    "question": "Out of a country's health budget, a large proportion should be diverted from treatment to spending on health education and preventative measures. To what extent do you agree or disagree with this statement?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A prosperous country requires good public health. To that end, some believe that reallocating a portion of its health budget to health education and preventative measures is a better idea, and I, very carefully, agree.",
+        "Health education is part and parcel of an informed public, and is crucial to a populace making smarter decisions on health. More information available to communities makes them better at assessing risks and acting accordingly. A harrowing example of its importance is during the AIDS Crisis decades ago, when millions erroneously thought only gay men could have AIDS giving them a horrible stereotype. Simple misinformation had led to the public making grave misjudgements.",
+        "Besides removing or defanging public health hazards, the availability of resources people needs to prevent and mitigate harm like vaccines and therapists are equally necessary. Vaccines are cost-efficient compared to hospitalizing someone once they are sick as diagnosticians are needed, and a whole myriad of healthcare professionals in order to cure someone.",
+        "However, despite the benefits of focusing on prevention, treatment should then have the same focus as the two previously mentioned. Reallocating the health budget, it creates a sense of equality in necessity between all these aspects of public health. Once an illness develops, there is no way to turn back the clock, and quality treatment should still be given.",
+        "In conclusion, I carefully agree because I simply want optimization of resources and not complete reallocation away from treatment. Focus on all aspects of wellness has a stronger grip on illnesses as the health problems that can\u2019t be prevented should be equally treated."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 276,
+                "end_idx": 277,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound predicate. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 521,
+                "end_idx": 522,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker when. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "needs",
+                "start_idx": 782,
+                "end_idx": 787,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb needs does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "need"
+                ]
+            },
+            {
+                "word": "it ",
+                "start_idx": 1217,
+                "end_idx": 1220,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "mrskimbbeltran",
+    "num_words": 262,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "accordingly",
+            "besides",
+            "however",
+            "then"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 42,
+                        "end_idx": 48
+                    },
+                    {
+                        "start_idx": 111,
+                        "end_idx": 117
+                    },
+                    {
+                        "start_idx": 128,
+                        "end_idx": 134
+                    },
+                    {
+                        "start_idx": 335,
+                        "end_idx": 341
+                    },
+                    {
+                        "start_idx": 730,
+                        "end_idx": 736
+                    },
+                    {
+                        "start_idx": 1003,
+                        "end_idx": 1009
+                    },
+                    {
+                        "start_idx": 1203,
+                        "end_idx": 1209
+                    },
+                    {
+                        "start_idx": 1298,
+                        "end_idx": 1304
+                    },
+                    {
+                        "start_idx": 1622,
+                        "end_idx": 1628
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-07T12:40:07.618Z"
+}

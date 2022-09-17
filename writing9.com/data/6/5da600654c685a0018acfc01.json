@@ -1,0 +1,137 @@
+{
+    "url": "https://writing9.com/text/5da600654c685a0018acfc01",
+    "file": [
+        "data",
+        "6",
+        "5da600654c685a0018acfc01.json"
+    ],
+    "topics": [
+        "world",
+        "shop",
+        "work",
+        "internet",
+        "contact",
+        "development"
+    ],
+    "question": "In the modern world, it is possible to shop, work and communicate via the Internet and live without any face-to-face contact with others.\nIs it a positive or negative development?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is the fact that people nowadays can easily use the Internet for shopping, work and communication without any direct interaction with others. In my opinion, this digital platform would bring certain benefits but there might also be some drawbacks.",
+        "There are two fundamental advantages of using the Internet for the purposes mentioned above. Firstly, thanks to the availability of the Internet, it does not take people much effort to contact someone all over the world, especially those who live in remote areas, because this technology eliminates the inconvenience of distance. By clicking the mouse or touching on the screen, we could have a conversation via social networking applications. For example, because of her hectic working schedule in Canada, my aunt could not return to Vietnam regularly to visit relatives, so she uses communication tools such as Skype and Viber to contact us when possible. Secondly, online interaction is more flexible compared with the traditional one due to a significant reduction in travel time. For instance, we can go shopping or book a movie ticket while working at the office.",
+        "Despite the benefits mentioned above,  I believe that online communication brings several disadvantages. Using the Internet excessively could constrain the development of social skills such as cognitive ability and presentation skill. This is because it is challenging to show body languages or facial expressions through the Internet. Furthermore, when we become over-reliant on this technology, we gradually no longer communicate directly with others, which may lead to an emotionless attitude in society. For example, when entering a milk tea shop, it is easy to encounter groups of young people just staring at the smartphone screens without interacting with each other.",
+        "In conclusion, I argue that depending on the Internet for daily purposes such as shopping, work and communication has both beneficial and detrimental effects."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "enefits but ",
+                "start_idx": 203,
+                "end_idx": 215,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "benefits, but"
+                ]
+            },
+            {
+                "word": "ook a ",
+                "start_idx": 1073,
+                "end_idx": 1079,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "book, a"
+                ]
+            },
+            {
+                "word": "eliant ",
+                "start_idx": 1491,
+                "end_idx": 1498,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "reliance"
+                ]
+            },
+            {
+                "word": "motionless ",
+                "start_idx": 1597,
+                "end_idx": 1608,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            }
+        ]
+    },
+    "submitter": "hoguom199",
+    "num_words": 304,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "secondly",
+            "this",
+            "for example",
+            "firstly",
+            "for instance",
+            "also",
+            "such",
+            "furthermore"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "communication",
+                "occurrences": [
+                    {
+                        "start_idx": 87,
+                        "end_idx": 100
+                    },
+                    {
+                        "start_idx": 836,
+                        "end_idx": 849
+                    },
+                    {
+                        "start_idx": 1182,
+                        "end_idx": 1195
+                    },
+                    {
+                        "start_idx": 1896,
+                        "end_idx": 1909
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-15T17:22:45.751Z"
+}

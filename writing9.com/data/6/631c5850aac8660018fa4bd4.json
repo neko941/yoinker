@@ -1,0 +1,131 @@
+{
+    "url": "https://writing9.com/text/631c5850aac8660018fa4bd4-some-countries-allow-old-people-to-work-to-any-age",
+    "file": [
+        "data",
+        "6",
+        "631c5850aac8660018fa4bd4.json"
+    ],
+    "topics": [
+        "countries",
+        "people",
+        "work",
+        "age"
+    ],
+    "question": "Some countries allow old people to work to any age that they want. Do the advantages outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, it is much easier to see elderly people at work than it used to be in the past. As soon as the newfound policy of letting people decide their retirement age has been brought in by several countries, many assert the fruitful outcomes it can bring while others doubt its efficacy. Both views will be taken into thorough consideration in this essay where the author\u2019s opinion is given.",
+        "On the one hand, working can be beneficial to not just the old but also the society. On reaching retirement, our movement of life becomes steady and quiet, and while many enjoy this turn to a new leap of life, some hold an opposing attitude for its monotony that makes them feel aimless and unmotivated. Therefore, letting the old people do the jobs they want may bring a fresh wind to their life, giving them existence reasons. Moreover, in the context that many countries have struck warning notes about aging populations, filling job vacancies with old people could serve as a makeshift solution to understaffing in some fields so that businesses can operate properly to some extent. ()",
+        "On the other hand, letting the elders work can create some detrimental effects that may surpass the pros. It has been pointed out that as we age, we are more prone to having mental dysfunctions, such as forgetfulness and longer time for reflexing and this put the business in an ordeal by creating many extraneous expenses, namely healthcare costs for old workers, enormous remediation costs for a preternatural number of human errors, thus creating considerable deficits. What is more, validating aged contenders betokens an intensification of competition in the race to recruitment, reduced opportunities for young applicants and eventually possibilities of unemployment rate acceleration.",
+        "In conclusion, when old people are admitted into workplaces, it is the cons that outweigh the pros by creating a fair share of problems on a large scale. This policy is advisable to be applied only as a last resort and in combinations with proper solutions to mitigate the detriments."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "for",
+                "start_idx": 633,
+                "end_idx": 636,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "toward"
+                ]
+            },
+            {
+                "word": "aging",
+                "start_idx": 898,
+                "end_idx": 903,
+                "error": "Change the spelling",
+                "error_des": "The spelling of aging is a non-British variant. For consistency, consider replacing it with the British English spelling.",
+                "suggetions": [
+                    "ageing"
+                ]
+            },
+            {
+                "word": "combinations",
+                "start_idx": 1996,
+                "end_idx": 2008,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that combinations may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "combination"
+                ]
+            }
+        ]
+    },
+    "submitter": "nguyenphananhquan",
+    "num_words": 341,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "thus",
+            "also",
+            "such",
+            "last",
+            "therefore",
+            "on the other hand",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 43,
+                        "end_idx": 49
+                    },
+                    {
+                        "start_idx": 132,
+                        "end_idx": 138
+                    },
+                    {
+                        "start_idx": 724,
+                        "end_idx": 730
+                    },
+                    {
+                        "start_idx": 949,
+                        "end_idx": 955
+                    },
+                    {
+                        "start_idx": 1799,
+                        "end_idx": 1805
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-10T09:26:41.810Z"
+}

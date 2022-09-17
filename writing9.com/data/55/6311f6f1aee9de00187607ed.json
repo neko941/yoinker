@@ -1,0 +1,159 @@
+{
+    "url": "https://writing9.com/text/6311f6f1aee9de00187607ed-school-and-university-students-learn-lessons-far-better-from-their",
+    "file": [
+        "data",
+        "55",
+        "6311f6f1aee9de00187607ed.json"
+    ],
+    "topics": [
+        "school",
+        "university",
+        "students",
+        "lessons",
+        "teachers",
+        "resources",
+        "internet",
+        "television"
+    ],
+    "question": "School and university students learn lessons far better from their teachers than from other resources, such as the internet and television. To what extent do you agree and disagree?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Today online learning continues to grow globally, while many people still believe that students can learn better in onsite training. Even though the classical education system mostly depends on face-to-face interaction with teachers and which provides individual attention, this thesis disagrees with this argument.  and shares the opinion for with the development of artificial intelligence and the convenience of learning at your own pace at your home will replace that in near future.",
+        "The current education system relies on teachers, who  explain the subject to a group of students in a formal setting. This model creates on-time interaction of learners with their peers and teachers. Also, the connection made in the real world helps students to focus better and create a sense of belonging to a community. For example, students are able to ask questions directly if they don't understand the subject while they learn, and also be able to get individual support when they needed. Even though most of us are educated this way and it is easy to defend, in my ,opinion it is not sufficient for the new generations learning needs.",
+        "E-learning brought many new resources and approaches to the education. While we need to follow the schedule and rules created by the school administration in our current system, now you can easily access to your classes in your own time and convenience and even interact with people. As we can see from the experience during the global pandemic, students could continue learning without the need of leaving their homes, and technology easily adapted to their needs. For example, many schools created online learning platforms supported by AI, where students can interact, ask questions or even talk about their feelings. it is not possible for one teacher to give attention to each individual simultaneously. For all these reasons, I strongly believe that, with the continuing development of technology, new learning methods can be more efficient than standard models.",
+        "To conclude, even though some believe that old school education is still beneficial,  advanced technology and the internet can substitute the role of the teacher. I believe today's students need new tools and materials to meet the needs of the modern world."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "they ",
+                "start_idx": 970,
+                "end_idx": 975,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1186,
+                "end_idx": 1190,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 1334,
+                "end_idx": 1337,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "tugcekakirman",
+    "num_words": 363,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "also",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "students",
+                "occurrences": [
+                    {
+                        "start_idx": 87,
+                        "end_idx": 95
+                    },
+                    {
+                        "start_idx": 576,
+                        "end_idx": 584
+                    },
+                    {
+                        "start_idx": 738,
+                        "end_idx": 746
+                    },
+                    {
+                        "start_idx": 824,
+                        "end_idx": 832
+                    },
+                    {
+                        "start_idx": 1477,
+                        "end_idx": 1485
+                    },
+                    {
+                        "start_idx": 1680,
+                        "end_idx": 1688
+                    },
+                    {
+                        "start_idx": 2181,
+                        "end_idx": 2189
+                    }
+                ]
+            },
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 159,
+                        "end_idx": 168
+                    },
+                    {
+                        "start_idx": 500,
+                        "end_idx": 509
+                    },
+                    {
+                        "start_idx": 1191,
+                        "end_idx": 1200
+                    },
+                    {
+                        "start_idx": 2054,
+                        "end_idx": 2063
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-02T12:35:34.766Z"
+}

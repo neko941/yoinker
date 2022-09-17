@@ -1,0 +1,169 @@
+{
+    "url": "https://writing9.com/text/5ea867fbf0f7120011fd3f97",
+    "file": [
+        "data",
+        "6",
+        "5ea867fbf0f7120011fd3f97.json"
+    ],
+    "topics": [
+        "companies",
+        "organizations",
+        "employees",
+        "uniforms",
+        "work",
+        "jobs",
+        "uniform"
+    ],
+    "question": "Most companies and organizations requires their employees to wear uniforms to work. \nwhat are the jobs that need uniform?\nwhat are the disadvantages of wearing uniforms to work?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is a widely discussed debate whether or not uniforms are needed at workplaces, because not only are they plain, but they also make the job look uninteresting. Uniforms do have its fair share of pros and cons. There are many advantages and disadvantages of wearing uniforms at work.",
+        "A uniform basically is a walking advertisement for the company. When stepping out in the world, or are working people usually take notice of your uniforms and through company logos and emblems.  Wearing the same clothes would lead to a feeling of team spirit, and It also increases a feeling of loyalty and allegiance from the employees. Moreover, it builds a sense of trust and confidence to the customer when interacting with a uniformed individual. There are certain organizations that are focused on the customers such as hospitals, electronics showrooms, automobile showrooms etc.",
+        "When wearing a uniform in such jobs, it gives a sense of solidarity and unity to the customer and the client feels more comfortable to call the employee for assistance. Also, it looks good for the company from a third-person objective.",
+        "Poorly designed work clothes can result in restricted performance. This may cause difficulty for the employee since they find the uniform constricting their work output.\r For example, for flight stewardesses wearing pencil skirts and high heels may look good, but by the end of the day, it causes discomfort to the individuals. Wearing high heels for a long amount of time can cause muscular pain, painful soles and cramped legs. Hence, in an organization required to wear uniforms, try to consider the feelings of the employees too, since they\u2019re the ones who have to wear them for the whole day.",
+        "In conclusion, uniforms can serve as a form of identity for the company but at the same time, it can be a liability for the employees. When implementing a uniform dress code try to take a survey about how employees feel towards the idea of wearing a uniform."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "company but",
+                "start_idx": 1768,
+                "end_idx": 1779,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "company, but"
+                ]
+            },
+            {
+                "word": "code try",
+                "start_idx": 1873,
+                "end_idx": 1881,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "code, try"
+                ]
+            }
+        ]
+    },
+    "submitter": "chib4s",
+    "num_words": 331,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "also",
+            "such",
+            "hence",
+            "third",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "company",
+                "occurrences": [
+                    {
+                        "start_idx": 340,
+                        "end_idx": 347
+                    },
+                    {
+                        "start_idx": 452,
+                        "end_idx": 459
+                    },
+                    {
+                        "start_idx": 1068,
+                        "end_idx": 1075
+                    },
+                    {
+                        "start_idx": 1769,
+                        "end_idx": 1776
+                    }
+                ]
+            },
+            {
+                "word": "uniform",
+                "occurrences": [
+                    {
+                        "start_idx": 47,
+                        "end_idx": 54
+                    },
+                    {
+                        "start_idx": 267,
+                        "end_idx": 274
+                    },
+                    {
+                        "start_idx": 287,
+                        "end_idx": 294
+                    },
+                    {
+                        "start_idx": 431,
+                        "end_idx": 438
+                    },
+                    {
+                        "start_idx": 715,
+                        "end_idx": 722
+                    },
+                    {
+                        "start_idx": 886,
+                        "end_idx": 893
+                    },
+                    {
+                        "start_idx": 1237,
+                        "end_idx": 1244
+                    },
+                    {
+                        "start_idx": 1580,
+                        "end_idx": 1587
+                    },
+                    {
+                        "start_idx": 1720,
+                        "end_idx": 1727
+                    },
+                    {
+                        "start_idx": 1860,
+                        "end_idx": 1867
+                    },
+                    {
+                        "start_idx": 1955,
+                        "end_idx": 1962
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-04-28T17:29:31.784Z"
+}

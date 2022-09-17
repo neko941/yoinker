@@ -1,0 +1,272 @@
+{
+    "url": "https://writing9.com/text/6309ec470751a40019b4d516-in-future-all-cars-and-buses-will-be-driverless-only",
+    "file": [
+        "data",
+        "45",
+        "6309ec470751a40019b4d516.json"
+    ],
+    "topics": [
+        "future",
+        "cars",
+        "buses",
+        "driverless",
+        "passengers",
+        "humans",
+        "vehicles"
+    ],
+    "question": "In future, all cars and buses will be driverless. Only passengers will be the humans traveling in this vehicles. Do you think the advantages of driverless cars outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Everything has two sides and autonomous driving is no exception. Due to advancement of technology, people will be able to drive automatically in the future and all kinds of transportation could be more convenient than in the past while there could be some issues about self-driving.",
+        "We need to acknowledge that autonomous driving can lead you to have a problem due to cyber -attack from criminals and other countries because this driving system is mainly organized by internet and cyber-terrorists could force cars to drive in a wrong way even if they protect it from the cyber-attack with high quality of net-security. In fact, although the website in US government have a great quality of security, they have been intruded illegally once or twice. Furthermore, self-driving may make people lose their job like a teacher in driving school because people will not have to acquire a driving skill.",
+        "However, autonomous driving could make your life more comfortable and there are more merits than demerits. Firstly, you can solve a problem related to manual driving because automatic system can help you to drive well if you do not feel good. According to research in Japan, most of the reasons for occurring car accidents in 2021 are because of drowsy driving and poor physical condition. In addition, it could be more useful for the elderly to travel by car. As you are getting older, you could lose your awareness and so you could have a car accident easily. In 2017, a certain elderly killed one woman and her child accidently by car and many TV news broadcasted it as a critical social issue.",
+        "In conclusion, this advancement of driving technology could help citizens to have more positive points than negative ones."
+    ],
+    "errors": {
+        "num_error": "17",
+        "error_list": [
+            {
+                "word": "advancement",
+                "start_idx": 71,
+                "end_idx": 82,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the advancement"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 83,
+                "end_idx": 85,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "while ",
+                "start_idx": 229,
+                "end_idx": 235,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "about",
+                "start_idx": 262,
+                "end_idx": 267,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "attack",
+                "start_idx": 375,
+                "end_idx": 381,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that attack may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "attacks"
+                ]
+            },
+            {
+                "word": "internet",
+                "start_idx": 467,
+                "end_idx": 475,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the internet"
+                ]
+            },
+            {
+                "word": "a",
+                "start_idx": 526,
+                "end_idx": 527,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 649,
+                "end_idx": 651,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "US",
+                "start_idx": 652,
+                "end_idx": 654,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the US"
+                ]
+            },
+            {
+                "word": "have",
+                "start_idx": 666,
+                "end_idx": 670,
+                "error": "Change the verb form",
+                "error_des": "The plural verb have does not appear to agree with the singular subject website. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "has"
+                ]
+            },
+            {
+                "word": "illegally",
+                "start_idx": 724,
+                "end_idx": 733,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on illegally"
+                ]
+            },
+            {
+                "word": "school",
+                "start_idx": 832,
+                "end_idx": 838,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that school may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "schools"
+                ]
+            },
+            {
+                "word": "a ",
+                "start_idx": 879,
+                "end_idx": 881,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "skill",
+                "start_idx": 889,
+                "end_idx": 894,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that skill may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "skills"
+                ]
+            },
+            {
+                "word": "automatic",
+                "start_idx": 1070,
+                "end_idx": 1079,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "an automatic"
+                ]
+            },
+            {
+                "word": "accidently",
+                "start_idx": 1516,
+                "end_idx": 1526,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want accidently to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "accidentally"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 1626,
+                "end_idx": 1628,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "Bishop0406",
+    "num_words": 289,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "furthermore",
+            "although",
+            "firstly",
+            "however",
+            "in addition",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "car",
+                "occurrences": [
+                    {
+                        "start_idx": 510,
+                        "end_idx": 513
+                    },
+                    {
+                        "start_idx": 1206,
+                        "end_idx": 1209
+                    },
+                    {
+                        "start_idx": 1353,
+                        "end_idx": 1356
+                    },
+                    {
+                        "start_idx": 1438,
+                        "end_idx": 1441
+                    },
+                    {
+                        "start_idx": 1531,
+                        "end_idx": 1534
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-27T10:04:57.060Z"
+}

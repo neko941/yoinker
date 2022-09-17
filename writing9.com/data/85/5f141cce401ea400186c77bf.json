@@ -1,0 +1,105 @@
+{
+    "url": "https://writing9.com/text/5f141cce401ea400186c77bf-the-system-used-for-rubbishgarbage-collection-in-your-local-area",
+    "file": [
+        "data",
+        "85",
+        "5f141cce401ea400186c77bf.json"
+    ],
+    "topics": [
+        "system",
+        "rubbish",
+        "garbage",
+        "collection",
+        "area",
+        "neighbours",
+        "council"
+    ],
+    "question": "The system used for rubbish/garbage collection in your local area is not working properly. This is causing problems for you and your neighbours.\n\nWrite a letter to the local council. In your letter\ndescribe how the rubbish collection system is not working properly\nexplain how this is affecting you and your neighbours\nsuggest what should be done about the problem",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "I am writing this letter to express the distressing situation that the community of Primary Garden is facing due to the faulty rubbish collection system.",
+        "Garbage is usually collected and thrown away, every alternate day at the dumping yard allocated to the neighbourhood. However, for the past week, we noticed that the garbage collector\u2019s lorry did not pass by our area to pick up the trash.",
+        "The accumulated waste that has piled-up through the week is posing health threats to the community. The pungent smell of rubbish is seeping into people\u2019s houses and as a result, children have started feeling sick from breathing the contaminated air.",
+        "I would like to suggest that the local council looks into this matter urgently. Kindly send over the garbage collector to our area as soon as possible. In the long run, we propose that a monitoring schedule be incorporated into the system. Such enhancements would assure people that their local area\u2019s garbage will definitely be picked up in a timely manner.",
+        "Thank you for your cooperation.",
+        "Yours faithfully,",
+        "Evgeniy Omelyanenko"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "piled-up",
+                "start_idx": 442,
+                "end_idx": 450,
+                "error": "Correct your spelling",
+                "error_des": "The word piled-up doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "piled up"
+                ]
+            }
+        ]
+    },
+    "submitter": "Eugene",
+    "num_words": 180,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "such",
+            "however",
+            "as a result",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "garbage",
+                "occurrences": [
+                    {
+                        "start_idx": 339,
+                        "end_idx": 346
+                    },
+                    {
+                        "start_idx": 763,
+                        "end_idx": 770
+                    },
+                    {
+                        "start_idx": 964,
+                        "end_idx": 971
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-14T11:45:28.238Z"
+}

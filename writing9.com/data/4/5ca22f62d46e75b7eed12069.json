@@ -1,0 +1,222 @@
+{
+    "url": "https://writing9.com/text/5ca22f62d46e75b7eed12069",
+    "file": [
+        "data",
+        "4",
+        "5ca22f62d46e75b7eed12069.json"
+    ],
+    "topics": [
+        "job",
+        "salary",
+        "consideration"
+    ],
+    "question": "When choosing a job, the salary is the most important consideration. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There would be a large number of factors impacting the job consideration. People often believed that salary is the most crucial element when choosing a company. However, I believe that other factors can play the alternative role towards remuneration.",
+        "First of all, a pleasant working environment makes a huge motivation to look for another enterprise. Working place where boss always helps their staffs to enhance their experiences on the job training is the place the staffs will put all their efforts to contribute to the company\u2019s development. The mutual assistance among the colleagues is also the key to increase their job satisfaction. Moreover, a clear promotion opportunities is the important pivot all staffs must considered when having a new offer. Having a job route means that leaders recognize their staffs abilities, which makes people not only feel to be recognized but also try to fulfill their knowledge to achieve next steps. All their contributions will come after by the unpredicted performance \u2013 based bonuses.",
+        "On the contrary, people believed that salary is the first thing in the list of consideration. High salary helps people to have more money to live their lives. It is also said that monthly payment has the power to boost people go to work. However, company tops require the higher productivities of the staffs they give more salary. People cannot earn their initial package due to the exhausted manner. Working under pressure and in an unpleasant working place leads people have less energy to lift themselves to this such place.",
+        "In conclusion, it is irrefragable the role of salary; however, it is more important to measure the working environment and promotion to satisfy at work."
+    ],
+    "errors": {
+        "num_error": "8",
+        "error_list": [
+            {
+                "word": "opportunities",
+                "start_idx": 669,
+                "end_idx": 682,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "opportunity"
+                ]
+            },
+            {
+                "word": "staffs must",
+                "start_idx": 710,
+                "end_idx": 721,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "staffs, must"
+                ]
+            },
+            {
+                "word": "considered",
+                "start_idx": 722,
+                "end_idx": 732,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "consider"
+                ]
+            },
+            {
+                "word": "staffs",
+                "start_idx": 812,
+                "end_idx": 818,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "staff's"
+                ]
+            },
+            {
+                "word": "recognized but",
+                "start_idx": 869,
+                "end_idx": 883,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "recognized, but"
+                ]
+            },
+            {
+                "word": "fulfill",
+                "start_idx": 896,
+                "end_idx": 903,
+                "error": "put in effect",
+                "error_des": "",
+                "suggetions": [
+                    "fulfil"
+                ]
+            },
+            {
+                "word": "consideration",
+                "start_idx": 1110,
+                "end_idx": 1123,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "considerations"
+                ]
+            },
+            {
+                "word": "staffs they",
+                "start_idx": 1332,
+                "end_idx": 1343,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "staffs, they"
+                ]
+            }
+        ]
+    },
+    "submitter": "hoangleminhthao",
+    "num_words": 279,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "also",
+            "on the contrary",
+            "first",
+            "such",
+            "however",
+            "next",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "place",
+                "occurrences": [
+                    {
+                        "start_idx": 360,
+                        "end_idx": 365
+                    },
+                    {
+                        "start_idx": 459,
+                        "end_idx": 464
+                    },
+                    {
+                        "start_idx": 1485,
+                        "end_idx": 1490
+                    },
+                    {
+                        "start_idx": 1553,
+                        "end_idx": 1558
+                    }
+                ]
+            },
+            {
+                "word": "salary",
+                "occurrences": [
+                    {
+                        "start_idx": 101,
+                        "end_idx": 107
+                    },
+                    {
+                        "start_idx": 1070,
+                        "end_idx": 1076
+                    },
+                    {
+                        "start_idx": 1131,
+                        "end_idx": 1137
+                    },
+                    {
+                        "start_idx": 1355,
+                        "end_idx": 1361
+                    },
+                    {
+                        "start_idx": 1606,
+                        "end_idx": 1612
+                    }
+                ]
+            },
+            {
+                "word": "job",
+                "occurrences": [
+                    {
+                        "start_idx": 55,
+                        "end_idx": 58
+                    },
+                    {
+                        "start_idx": 439,
+                        "end_idx": 442
+                    },
+                    {
+                        "start_idx": 624,
+                        "end_idx": 627
+                    },
+                    {
+                        "start_idx": 768,
+                        "end_idx": 771
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-04-01T15:33:54.000Z"
+}

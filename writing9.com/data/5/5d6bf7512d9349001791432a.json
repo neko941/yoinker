@@ -1,0 +1,239 @@
+{
+    "url": "https://writing9.com/text/5d6bf7512d9349001791432a",
+    "file": [
+        "data",
+        "5",
+        "5d6bf7512d9349001791432a.json"
+    ],
+    "topics": [
+        "education",
+        "health",
+        "care",
+        "government"
+    ],
+    "question": "Education and health care should be funded by the government and free for everyone.",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some people strongly believe that it is the responsibility of the government to provide free education and health facilities as they are the basic needs of a person.However,I think that providing free education and medication to all the people is unnecessary,especially to the ones who can afford those facilities.Therefore, I do not agree with the above statement.",
+        "It is undeniable that the education is essential and should be made compulsory to all the people.Educated people contribute the most towards the development of the nation and hence everyone should be given access for educating themselves.But I strongly believe that free education should be provided only to the poor,illiterate people who cannot afford education.This helps in boosting the development of a nation by increasing the literacy rates.For example, if free education is provided to all then people will not realize its importance and will not focus on the studies as the well known adage says one will never appreciate the value of something when it is easily obtained.",
+        "Moving on the health facilities I think that it is the responsibility of every individual to look after his/her own health.A educated person will know the importance of his/her health and therefore should maintain it properly.When the government making provisions of free education providing free health facilities as well is not necessary.Everyone should keep themselves fit and take care of their health.",
+        "In conclusion,I think government should provide free education and medication only to the poor and needy to ensure the proper use of the facilities provided and help the nation develop by using those funds in other important projects."
+    ],
+    "errors": {
+        "num_error": "10",
+        "error_list": [
+            {
+                "word": ",",
+                "start_idx": 172,
+                "end_idx": 173,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 258,
+                "end_idx": 259,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 444,
+                "end_idx": 446,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "for",
+                "start_idx": 578,
+                "end_idx": 581,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 682,
+                "end_idx": 683,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "then",
+                "start_idx": 862,
+                "end_idx": 866,
+                "error": "the cardinal number that is the sum of nine and one; the base of the decimal system",
+                "error_des": "",
+                "suggetions": [
+                    "ten"
+                ]
+            },
+            {
+                "word": "A",
+                "start_idx": 1170,
+                "end_idx": 1171,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "An"
+                ]
+            },
+            {
+                "word": "education providing",
+                "start_idx": 1318,
+                "end_idx": 1337,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "education, providing"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1467,
+                "end_idx": 1468,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1536,
+                "end_idx": 1538,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for"
+                ]
+            }
+        ]
+    },
+    "submitter": "mkd1289d",
+    "num_words": 266,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "hence",
+            "however",
+            "therefore",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 107,
+                        "end_idx": 113
+                    },
+                    {
+                        "start_idx": 1061,
+                        "end_idx": 1067
+                    },
+                    {
+                        "start_idx": 1163,
+                        "end_idx": 1169
+                    },
+                    {
+                        "start_idx": 1224,
+                        "end_idx": 1230
+                    },
+                    {
+                        "start_idx": 1344,
+                        "end_idx": 1350
+                    },
+                    {
+                        "start_idx": 1446,
+                        "end_idx": 1452
+                    }
+                ]
+            },
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 93,
+                        "end_idx": 102
+                    },
+                    {
+                        "start_idx": 201,
+                        "end_idx": 210
+                    },
+                    {
+                        "start_idx": 392,
+                        "end_idx": 401
+                    },
+                    {
+                        "start_idx": 637,
+                        "end_idx": 646
+                    },
+                    {
+                        "start_idx": 719,
+                        "end_idx": 728
+                    },
+                    {
+                        "start_idx": 834,
+                        "end_idx": 843
+                    },
+                    {
+                        "start_idx": 1319,
+                        "end_idx": 1328
+                    },
+                    {
+                        "start_idx": 1507,
+                        "end_idx": 1516
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-09-01T16:52:33.873Z"
+}

@@ -1,0 +1,153 @@
+{
+    "url": "https://writing9.com/text/62b77764a21aef00182b6253-some-older-people-struggle-with-use-of-modern-electronic-technology",
+    "file": [
+        "data",
+        "45",
+        "62b77764a21aef00182b6253.json"
+    ],
+    "topics": [
+        "people",
+        "struggle",
+        "technology",
+        "smartphones",
+        "computers",
+        "propose"
+    ],
+    "question": "Some older people struggle with use of modern electronic technology such as smartphones and computers . Writes the cause and the propose a solution",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "With the globalization of the world, technology has approached an immense level of development. This can clearly be seen in smartphones and computers. It has rapid development over a very fewer period of time. As the younger generation is always dealing with the technology, they can easily move forward with these improvements. Unfortunately, the smart world has become a serious challenge to the elderly generation.",
+        "Firstly, most of the older aged people still used to read newspapers and watch television to get daily updates of the world. Even though, the world has developed up to each and every aspect, the senior community is using very simple and uncomplicated mobile phones. As a result, they cannot access to online banking facilities, google maps and get the latest updates on the world. Therefore, they had to spend both time and money on the roads unnecessarily.",
+        "However, to overcome this problem, we can set up some useful strategies. As they are utilizing simple smart mobiles, easy accessing apps with large numerical can be introduced. Moreover, the advantages of modern technology can be educated through the commercials and newspapers, as they are more prefer to watch them. Furthermore, education campaigns can be conducted by the authorities of the local government.",
+        "To sum up, not only the younger generation but also the senior society should take benefit of these latest advancements to ease their daily activities. It will be more precise if the government tend to take more responsibility, not only to provide food and medication but also to ease their daily lifestyle patterns."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "the ",
+                "start_idx": 258,
+                "end_idx": 262,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 431,
+                "end_idx": 434,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 528,
+                "end_idx": 530,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 554,
+                "end_idx": 555,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction Even though. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 715,
+                "end_idx": 718,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "hasi13r",
+    "num_words": 259,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "also",
+            "furthermore",
+            "as a result",
+            "however",
+            "firstly",
+            "therefore",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "world",
+                "occurrences": [
+                    {
+                        "start_idx": 30,
+                        "end_idx": 35
+                    },
+                    {
+                        "start_idx": 354,
+                        "end_idx": 359
+                    },
+                    {
+                        "start_idx": 536,
+                        "end_idx": 541
+                    },
+                    {
+                        "start_idx": 560,
+                        "end_idx": 565
+                    },
+                    {
+                        "start_idx": 792,
+                        "end_idx": 797
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-25T21:17:20.534Z"
+}

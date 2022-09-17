@@ -1,0 +1,282 @@
+{
+    "url": "https://writing9.com/text/62fe46cc0751a40019b4c18a-you-are-planning-to-study-abroad-write-a-letter-of",
+    "file": [
+        "data",
+        "65",
+        "62fe46cc0751a40019b4c18a.json"
+    ],
+    "topics": [
+        "study",
+        "inquiry",
+        "information",
+        "\u2022ask",
+        "terms",
+        "admission",
+        "university",
+        "possibility",
+        "scholarship",
+        "addresses"
+    ],
+    "question": "You are planning to study abroad. Write a letter of inquiry to \u2022 give your brief personal information; \u2022ask for the terms of admission into that university \u2022 ask for the possibility of getting a scholarship Write at least 150 words. You do NOT need to write any addresses.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/Madam,",
+        "I am writing to inquire about the graduate admission into the Queens University. I am a general practitioner working in China. After practising in this community for 5 years, I realize that I would like to pursue a master degree in public health. I want to focus on how to promote public health as a family physician. The master of public health curriculum in Queens University is one of the top-ranking programms. I hope to apply for",
+        "I am wondering whether you could send the terms of admission into the master of public health programme to me. The listed information at your website is not complete. For example, I would like to know the requirement for the language test. In addition, is there a possibility to apply for a scholarship as a medical professionals working in another country?",
+        "I would be grateful that if you could send me the detailed information. I am looking forward to hearing you. I hope to become a future master student in the Queens University.",
+        "Yours sincerely,",
+        "Ada"
+    ],
+    "errors": {
+        "num_error": "16",
+        "error_list": [
+            {
+                "word": "the ",
+                "start_idx": 45,
+                "end_idx": 49,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 73,
+                "end_idx": 77,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "Queens",
+                "start_idx": 77,
+                "end_idx": 83,
+                "error": "Change to a genitive case",
+                "error_des": "It appears that the word Queens should use the genitive case. Consider changing the noun.",
+                "suggetions": [
+                    "Queen's"
+                ]
+            },
+            {
+                "word": "master",
+                "start_idx": 230,
+                "end_idx": 236,
+                "error": "Change noun form",
+                "error_des": "It seems that this noun form may be incorrect.",
+                "suggetions": [
+                    "master's"
+                ]
+            },
+            {
+                "word": "public",
+                "start_idx": 347,
+                "end_idx": 353,
+                "error": "Add an article",
+                "error_des": "The noun phrase public health curriculum seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the public"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 372,
+                "end_idx": 374,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 419,
+                "end_idx": 419,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want programms to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "programmes",
+                    "programs"
+                ]
+            },
+            {
+                "word": "programms",
+                "start_idx": 419,
+                "end_idx": 428,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want programms to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "programs"
+                ]
+            },
+            {
+                "word": "public",
+                "start_idx": 530,
+                "end_idx": 536,
+                "error": "Add an article",
+                "error_des": "The noun phrase public health programme seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the public"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 584,
+                "end_idx": 586,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "a medical professionals",
+                "start_idx": 756,
+                "end_idx": 779,
+                "error": "Correct the article-noun agreement",
+                "error_des": "The indefinite article a may not be required with the plural noun professionals in this sentence. Consider removing the article, or changing the noun to singular.",
+                "suggetions": [
+                    "medical professionals",
+                    "a medical professional"
+                ]
+            },
+            {
+                "word": "that ",
+                "start_idx": 828,
+                "end_idx": 833,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "master",
+                "start_idx": 943,
+                "end_idx": 949,
+                "error": "Change noun form",
+                "error_des": "It seems that this noun form may be incorrect.",
+                "suggetions": [
+                    "master's"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 958,
+                "end_idx": 960,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 961,
+                "end_idx": 965,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "Queens",
+                "start_idx": 965,
+                "end_idx": 971,
+                "error": "Change to a genitive case",
+                "error_des": "It appears that the word Queens should use the genitive case. Consider changing the noun.",
+                "suggetions": [
+                    "Queen's"
+                ]
+            }
+        ]
+    },
+    "submitter": "1123747551",
+    "num_words": 175,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "for example",
+            "in addition",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "health",
+                "occurrences": [
+                    {
+                        "start_idx": 255,
+                        "end_idx": 261
+                    },
+                    {
+                        "start_idx": 304,
+                        "end_idx": 310
+                    },
+                    {
+                        "start_idx": 355,
+                        "end_idx": 361
+                    },
+                    {
+                        "start_idx": 538,
+                        "end_idx": 544
+                    }
+                ]
+            },
+            {
+                "word": "master",
+                "occurrences": [
+                    {
+                        "start_idx": 231,
+                        "end_idx": 237
+                    },
+                    {
+                        "start_idx": 338,
+                        "end_idx": 344
+                    },
+                    {
+                        "start_idx": 521,
+                        "end_idx": 527
+                    },
+                    {
+                        "start_idx": 944,
+                        "end_idx": 950
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-18T14:03:58.425Z"
+}

@@ -1,0 +1,471 @@
+{
+    "url": "https://writing9.com/text/5e0f2f10bfa19600117b5cc3",
+    "file": [
+        "data",
+        "45",
+        "5e0f2f10bfa19600117b5cc3.json"
+    ],
+    "topics": [
+        "purpose",
+        "internship"
+    ],
+    "question": "write your essay related to statement of purpose for internship?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "I was born into a family where my education is most influenced by my father. My father love math so much and he taught me how to calculate when I was a little boy. He spent a lot of time solving problems related to math with me and when I got a difficult problem, he gave me intructions step by step. Day by day, I gradually became more interested in math and whenever I have met a problem, I feel very excited and want to solve it immediately.",
+        "When I entered my high school, I got into a natural  class so I was taught many science subjects especially physics and math. During every physics lecture, I could explain a new phenomena which I can not do it before. The most fascinating is that almost this phenomena I can explain by myself related to math and I realized that with a solid foundation of math knowledge, I can go futher in physics and dig deeper into  hidden valuable knowledge of humanity. The other crucial thing I got from my high school is inspiration. In each presentation, my physics teacher taught us with all his heart and soul, always listened our opinions and gave us hints whenever we needed. It was this drive that made me work hard to become a good physicist who can inspire physics for many people , who can transform complex physical issues into simpler cases that are accessible  to everyone. Because of all that reasons, I was trying all my best to fulfil my dream and eventually, I got admitted to the faculty of physics in HaNoi National University Of Education  (HNUE).",
+        "Over two years studying at my university, with the dedicated help by my professors, I dig more deeper in physics and the field that makes me feel excited is theoretical physcics, especially quantum mechanics. From knowledge I have learnt from that field, I can understand many problems that classical physics can not explain, mainly for atomic world. This field is the perfect combination between math and physics. And through Internet, I know that many people in foreign countries, they also love theoretical physics like me, so I always hope that one day I can meet them and learn from them. The Research Experience for Undergraduates program at the University of Notre Dame is exactly what I am looking for. When I read about information from this university\u2019s home page, I feel a strong pull toward theoretical physics, as well as the skills to communicate and collaborate with other people that I can learn here. It is a golden oppurtunity unlike any I have ever had. I will experience in one of the most dynamic educational in USA which is one of the most developed country. Moreover, I will directly be visting cutting-edge physics techonology that I have ever seen in reality and I think that is an amazing experience. Besides, I will gain many  distinct viewpoints on educational philosophy in diverse settings, which is enormously valuable to my goal of contributing to my home country\u2019s Physics education quality.",
+        "After ten weeks of the REU program, I can imagine myself being much more effective in furthering my lifelong goal with much richer learning from this experience. Within the next two years, I want to continue doing research physics to broaden my mind about the nature of physics and apply for Master\u2019s program in physics in developed countries where physics are advanced. Furthermore, if I can, I want to continue studying PhD physics programs in the next five years. With all my solid knowledges I acquire from higher academic physics programs, I really believe that I can make a contribution towards the field of physics and inspire  my future students to explore the ordinary yet extraordinary life happening around us.  Attending the REU program will not only help me unlock my potential and provide me a good environment to collaborate with others wonderful people, but also enable me to give inspiration to my future students and fellow classmates who will also be researchers and educators in the upcoming years."
+    ],
+    "errors": {
+        "num_error": "23",
+        "error_list": [
+            {
+                "word": "intructions",
+                "start_idx": 274,
+                "end_idx": 285,
+                "error": "a manual usually accompanying a technical device and explaining how to install or operate it",
+                "error_des": "",
+                "suggetions": [
+                    "instructions",
+                    "instruction"
+                ]
+            },
+            {
+                "word": "was taught",
+                "start_idx": 508,
+                "end_idx": 518,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "taught"
+                ]
+            },
+            {
+                "word": "by",
+                "start_idx": 727,
+                "end_idx": 729,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "futher",
+                "start_idx": 825,
+                "end_idx": 831,
+                "error": "to or at a greater extent or degree or a more advanced stage ('further' is used more often than 'farther' in this abstract sense)",
+                "error_des": "",
+                "suggetions": [
+                    "further",
+                    "farther"
+                ]
+            },
+            {
+                "word": "hidden",
+                "start_idx": 863,
+                "end_idx": 869,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "hiding"
+                ]
+            },
+            {
+                "word": "inspiration",
+                "start_idx": 956,
+                "end_idx": 967,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "inspiring"
+                ]
+            },
+            {
+                "word": " ,",
+                "start_idx": 1224,
+                "end_idx": 1226,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "reasons",
+                "start_idx": 1341,
+                "end_idx": 1348,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "reason"
+                ]
+            },
+            {
+                "word": "HaNoi National University",
+                "start_idx": 1454,
+                "end_idx": 1479,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the Hanoi National University",
+                    "Hanoi National University"
+                ]
+            },
+            {
+                "word": "Over",
+                "start_idx": 1502,
+                "end_idx": 1506,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "After"
+                ]
+            },
+            {
+                "word": "by",
+                "start_idx": 1568,
+                "end_idx": 1570,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "more deeper",
+                "start_idx": 1592,
+                "end_idx": 1603,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "deeper"
+                ]
+            },
+            {
+                "word": "physcics",
+                "start_idx": 1671,
+                "end_idx": 1679,
+                "error": "the science of matter and energy and their interactions",
+                "error_des": "",
+                "suggetions": [
+                    "physics"
+                ]
+            },
+            {
+                "word": "knowledge",
+                "start_idx": 1716,
+                "end_idx": 1725,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the knowledge"
+                ]
+            },
+            {
+                "word": "many problems",
+                "start_idx": 1774,
+                "end_idx": 1787,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the many problems"
+                ]
+            },
+            {
+                "word": "can not",
+                "start_idx": 1811,
+                "end_idx": 1818,
+                "error": "can not",
+                "error_des": "",
+                "suggetions": [
+                    "cannot"
+                ]
+            },
+            {
+                "word": "Internet",
+                "start_idx": 1929,
+                "end_idx": 1937,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the Internet"
+                ]
+            },
+            {
+                "word": "oppurtunity",
+                "start_idx": 2435,
+                "end_idx": 2446,
+                "error": "a possibility due to a favorable combination of circumstances",
+                "error_des": "",
+                "suggetions": [
+                    "opportunity",
+                    "opportunities"
+                ]
+            },
+            {
+                "word": "USA",
+                "start_idx": 2535,
+                "end_idx": 2538,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the USA"
+                ]
+            },
+            {
+                "word": "visting",
+                "start_idx": 2612,
+                "end_idx": 2619,
+                "error": "the activity of making visits",
+                "error_des": "",
+                "suggetions": [
+                    "visiting"
+                ]
+            },
+            {
+                "word": "techonology",
+                "start_idx": 2641,
+                "end_idx": 2652,
+                "error": "the practical application of science to commerce or industry",
+                "error_des": "",
+                "suggetions": [
+                    "technology"
+                ]
+            },
+            {
+                "word": "Master\u2019s ",
+                "start_idx": 3219,
+                "end_idx": 3228,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the Master\u2019s program"
+                ]
+            },
+            {
+                "word": "developed",
+                "start_idx": 3250,
+                "end_idx": 3259,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "developing"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 682,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "also",
+            "furthermore",
+            "besides",
+            "next",
+            "that is",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "math",
+                "occurrences": [
+                    {
+                        "start_idx": 92,
+                        "end_idx": 96
+                    },
+                    {
+                        "start_idx": 215,
+                        "end_idx": 219
+                    },
+                    {
+                        "start_idx": 351,
+                        "end_idx": 355
+                    },
+                    {
+                        "start_idx": 565,
+                        "end_idx": 569
+                    },
+                    {
+                        "start_idx": 749,
+                        "end_idx": 753
+                    },
+                    {
+                        "start_idx": 801,
+                        "end_idx": 805
+                    },
+                    {
+                        "start_idx": 1900,
+                        "end_idx": 1904
+                    }
+                ]
+            },
+            {
+                "word": "physics",
+                "occurrences": [
+                    {
+                        "start_idx": 553,
+                        "end_idx": 560
+                    },
+                    {
+                        "start_idx": 584,
+                        "end_idx": 591
+                    },
+                    {
+                        "start_idx": 836,
+                        "end_idx": 843
+                    },
+                    {
+                        "start_idx": 995,
+                        "end_idx": 1002
+                    },
+                    {
+                        "start_idx": 1201,
+                        "end_idx": 1208
+                    },
+                    {
+                        "start_idx": 1444,
+                        "end_idx": 1451
+                    },
+                    {
+                        "start_idx": 1608,
+                        "end_idx": 1615
+                    },
+                    {
+                        "start_idx": 1804,
+                        "end_idx": 1811
+                    },
+                    {
+                        "start_idx": 1909,
+                        "end_idx": 1916
+                    },
+                    {
+                        "start_idx": 2013,
+                        "end_idx": 2020
+                    },
+                    {
+                        "start_idx": 2318,
+                        "end_idx": 2325
+                    },
+                    {
+                        "start_idx": 2634,
+                        "end_idx": 2641
+                    },
+                    {
+                        "start_idx": 3151,
+                        "end_idx": 3158
+                    },
+                    {
+                        "start_idx": 3198,
+                        "end_idx": 3205
+                    },
+                    {
+                        "start_idx": 3240,
+                        "end_idx": 3247
+                    },
+                    {
+                        "start_idx": 3277,
+                        "end_idx": 3284
+                    },
+                    {
+                        "start_idx": 3354,
+                        "end_idx": 3361
+                    },
+                    {
+                        "start_idx": 3455,
+                        "end_idx": 3462
+                    },
+                    {
+                        "start_idx": 3542,
+                        "end_idx": 3549
+                    }
+                ]
+            },
+            {
+                "word": "field",
+                "occurrences": [
+                    {
+                        "start_idx": 1624,
+                        "end_idx": 1629
+                    },
+                    {
+                        "start_idx": 1751,
+                        "end_idx": 1756
+                    },
+                    {
+                        "start_idx": 1859,
+                        "end_idx": 1864
+                    },
+                    {
+                        "start_idx": 3533,
+                        "end_idx": 3538
+                    }
+                ]
+            },
+            {
+                "word": "program",
+                "occurrences": [
+                    {
+                        "start_idx": 2140,
+                        "end_idx": 2147
+                    },
+                    {
+                        "start_idx": 2955,
+                        "end_idx": 2962
+                    },
+                    {
+                        "start_idx": 3229,
+                        "end_idx": 3236
+                    },
+                    {
+                        "start_idx": 3362,
+                        "end_idx": 3369
+                    },
+                    {
+                        "start_idx": 3463,
+                        "end_idx": 3470
+                    },
+                    {
+                        "start_idx": 3669,
+                        "end_idx": 3676
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-01-03T12:09:52.127Z"
+}

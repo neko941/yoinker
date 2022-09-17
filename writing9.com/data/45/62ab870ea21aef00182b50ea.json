@@ -1,0 +1,345 @@
+{
+    "url": "https://writing9.com/text/62ab870ea21aef00182b50ea-educating-young-people-is-naturally-important-however-some-think-government",
+    "file": [
+        "data",
+        "45",
+        "62ab870ea21aef00182b50ea.json"
+    ],
+    "topics": [
+        "people",
+        "think",
+        "government",
+        "education",
+        "adults"
+    ],
+    "question": "Educating young people is naturally important, however some think government ought to invest more in education for adults in need.\nTo what extent do you agree or disagree.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the new world it is known that learning and academic improvement bring power. An increase in the academic ability of younger children is important. The federal government should concentrate more on the younger population than the older citizens.",
+        "In order to improve the academic standards, I am of the opinion that the federal government should focus more on the younger generation,  than making efforts to improve the academic performance of the older citizens. Teenagers are the leaders of tomorrow. Investing in the younger generation tends to promote the economic standard of the country because they develop new technology that can promote the country.",
+        "However, it is necessary for the government to train teenagers than older adults. It is said that the youths are the future of tomorrow. Both the government and parents are encouraged to promote the academic background of teenagers.",
+        "Furthermore instead of the government paying attention to the improvement of the older adult's academic performance, there should be other ways to focus on teenagers' training so that they will have the best education. Examples, training  60 years on man in school, and giving them free education. Then allowing the teenagers to be uneducated. It is known that the older adults have shorter life to live than the teenagers. So it is important to train them while young. And for teenagers to be great leaders tomorrow they need to be educated in order to meet the demands of the country.",
+        "On other hands,hand it is very important to train and improve the academic performance of a child then the government makes efforts to improve the academic standard of  older adults. Which it is known that the learning abilities and capabilities have decreased over the years. It is known that in the new age are new things. I think that investments made in the lives of the teenager will tend to increase the economy of the nation in the future. For example, when the youths are empowered through academic improvement it enables them to make new investments and develop new technology. This improvement leads to the development of the economy of the country.",
+        "In conclusion, I agree that it is more profitable to improve the academic performance of  teenagers than that of  older adults in the present country. This makes the country  have a brighter future and it also  proves the economic standard of the country."
+    ],
+    "errors": {
+        "num_error": "11",
+        "error_list": [
+            {
+                "word": "world",
+                "start_idx": 10,
+                "end_idx": 15,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase In the new world. Consider adding a comma.",
+                "suggetions": [
+                    ",world"
+                ]
+            },
+            {
+                "word": "power",
+                "start_idx": 73,
+                "end_idx": 78,
+                "error": "Add the particle",
+                "error_des": "It appears that the verb power should be in the to-infinitive form. Consider adding the word to.",
+                "suggetions": [
+                    "to power"
+                ]
+            },
+            {
+                "word": "Furthermore",
+                "start_idx": 893,
+                "end_idx": 904,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Furthermore. Consider adding a comma.",
+                "suggetions": [
+                    ",Furthermore"
+                ]
+            },
+            {
+                "word": "man",
+                "start_idx": 1144,
+                "end_idx": 1147,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that man may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "men"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1158,
+                "end_idx": 1159,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound predicate. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1254,
+                "end_idx": 1258,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1302,
+                "end_idx": 1306,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "other",
+                "start_idx": 1483,
+                "end_idx": 1488,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the other"
+                ]
+            },
+            {
+                "word": "hands",
+                "start_idx": 1489,
+                "end_idx": 1494,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that hands may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "hand"
+                ]
+            },
+            {
+                "word": "Which it",
+                "start_idx": 1663,
+                "end_idx": 1671,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "It"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1851,
+                "end_idx": 1855,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "snazari2006",
+    "num_words": 397,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "instead",
+            "also",
+            "then",
+            "however",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "6",
+        "list_repeated_words": [
+            {
+                "word": "performance",
+                "occurrences": [
+                    {
+                        "start_idx": 431,
+                        "end_idx": 442
+                    },
+                    {
+                        "start_idx": 998,
+                        "end_idx": 1009
+                    },
+                    {
+                        "start_idx": 1556,
+                        "end_idx": 1567
+                    },
+                    {
+                        "start_idx": 2215,
+                        "end_idx": 2226
+                    }
+                ]
+            },
+            {
+                "word": "improvement",
+                "occurrences": [
+                    {
+                        "start_idx": 56,
+                        "end_idx": 67
+                    },
+                    {
+                        "start_idx": 956,
+                        "end_idx": 967
+                    },
+                    {
+                        "start_idx": 1988,
+                        "end_idx": 1999
+                    },
+                    {
+                        "start_idx": 2073,
+                        "end_idx": 2084
+                    }
+                ]
+            },
+            {
+                "word": "country",
+                "occurrences": [
+                    {
+                        "start_idx": 587,
+                        "end_idx": 594
+                    },
+                    {
+                        "start_idx": 652,
+                        "end_idx": 659
+                    },
+                    {
+                        "start_idx": 1472,
+                        "end_idx": 1479
+                    },
+                    {
+                        "start_idx": 2132,
+                        "end_idx": 2139
+                    },
+                    {
+                        "start_idx": 2283,
+                        "end_idx": 2290
+                    },
+                    {
+                        "start_idx": 2307,
+                        "end_idx": 2314
+                    },
+                    {
+                        "start_idx": 2388,
+                        "end_idx": 2395
+                    }
+                ]
+            },
+            {
+                "word": "teenagers",
+                "occurrences": [
+                    {
+                        "start_idx": 714,
+                        "end_idx": 723
+                    },
+                    {
+                        "start_idx": 883,
+                        "end_idx": 892
+                    },
+                    {
+                        "start_idx": 1050,
+                        "end_idx": 1059
+                    },
+                    {
+                        "start_idx": 1210,
+                        "end_idx": 1219
+                    },
+                    {
+                        "start_idx": 1307,
+                        "end_idx": 1316
+                    },
+                    {
+                        "start_idx": 1372,
+                        "end_idx": 1381
+                    },
+                    {
+                        "start_idx": 2231,
+                        "end_idx": 2240
+                    }
+                ]
+            },
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 163,
+                        "end_idx": 173
+                    },
+                    {
+                        "start_idx": 330,
+                        "end_idx": 340
+                    },
+                    {
+                        "start_idx": 694,
+                        "end_idx": 704
+                    },
+                    {
+                        "start_idx": 807,
+                        "end_idx": 817
+                    },
+                    {
+                        "start_idx": 921,
+                        "end_idx": 931
+                    },
+                    {
+                        "start_idx": 1588,
+                        "end_idx": 1598
+                    }
+                ]
+            },
+            {
+                "word": "adults",
+                "occurrences": [
+                    {
+                        "start_idx": 735,
+                        "end_idx": 741
+                    },
+                    {
+                        "start_idx": 1265,
+                        "end_idx": 1271
+                    },
+                    {
+                        "start_idx": 1656,
+                        "end_idx": 1662
+                    },
+                    {
+                        "start_idx": 2261,
+                        "end_idx": 2267
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-16T19:58:35.118Z"
+}

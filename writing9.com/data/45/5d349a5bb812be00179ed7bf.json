@@ -1,0 +1,311 @@
+{
+    "url": "https://writing9.com/text/5d349a5bb812be00179ed7bf",
+    "file": [
+        "data",
+        "45",
+        "5d349a5bb812be00179ed7bf.json"
+    ],
+    "topics": [
+        "transport",
+        "tourists",
+        "zealand",
+        "five",
+        "countries",
+        "summaries",
+        "information",
+        "features",
+        "comparisons"
+    ],
+    "question": "The graph below shows the types of transport used by tourists who visited New\nZealand from five countries in 2004. Summaries the information by selecting and\nreporting the main features and make comparisons where relevant.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 4.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The given column graph illustrates the percentage of tourists from Britain, Germany, Japan, Korea and Australia who used different modes of transport, such as air, coach, car or ferry when they visited New Zealand in 2004. A quick glance at the graph is enough to make it clear that the Japanese preferred air travel the most, where as the other given countries used car the most.",
+        "60% British tourists and approximately 52, 50 and 45% German, Korean and Australian tourists used the car to visit various places in New Zealand. The least percentage of the Japanese tourists (25%) used the car to travel around New Zealand. The tourists from Japan were the most fond of air travel. Roughly 55% Japanese tourists used air transport to travel within New Zealand. Air transport was used by 35% British, 30% Korean and 25% German",
+        "tourists. By contrast only 11% Australians used air transport. A similar percentage (20%) British and German tourists used the coach, whereas the percentage of Koreans using the coach was almost double (40%) than that of the British and Germans. Coach was used the most (52%) by the Japanese tourists, whereas the least Australian tourists (8%) used the coach. Nearly 48% German tourists and 35% British tourists used the ferry. The tourists from",
+        "japan, Korea and Australia were less than 15% in each case, who used the ferry as a means of",
+        "transport.",
+        "Overall, coach was the least preferred mode of transport among the British, German and",
+        "Australian tourist, whereas the ferry was used the least by the Japanese and Koreans."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "where as",
+                "start_idx": 326,
+                "end_idx": 334,
+                "error": "on the other hand",
+                "error_des": "",
+                "suggetions": [
+                    "whereas"
+                ]
+            },
+            {
+                "word": "tourists",
+                "start_idx": 823,
+                "end_idx": 831,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Tourists"
+                ]
+            },
+            {
+                "word": "contrast only",
+                "start_idx": 836,
+                "end_idx": 849,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "contrast, only"
+                ]
+            },
+            {
+                "word": "japan",
+                "start_idx": 1270,
+                "end_idx": 1275,
+                "error": "a constitutional monarchy occupying the Japanese Archipelago; a world leader in electronics and automobile manufacture and ship building",
+                "error_des": "",
+                "suggetions": [
+                    "Japan"
+                ]
+            },
+            {
+                "word": "transport",
+                "start_idx": 1363,
+                "end_idx": 1372,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Transport"
+                ]
+            },
+            {
+                "word": "coach",
+                "start_idx": 1383,
+                "end_idx": 1388,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the coach"
+                ]
+            },
+            {
+                "word": "Australian tourist",
+                "start_idx": 1461,
+                "end_idx": 1479,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "An Australian tourist"
+                ]
+            }
+        ]
+    },
+    "submitter": "gperipatel1234",
+    "num_words": 261,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "such",
+            "by "
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "8",
+        "list_repeated_words": [
+            {
+                "word": "percentage",
+                "occurrences": [
+                    {
+                        "start_idx": 39,
+                        "end_idx": 49
+                    },
+                    {
+                        "start_idx": 537,
+                        "end_idx": 547
+                    },
+                    {
+                        "start_idx": 897,
+                        "end_idx": 907
+                    },
+                    {
+                        "start_idx": 970,
+                        "end_idx": 980
+                    }
+                ]
+            },
+            {
+                "word": "ferry",
+                "occurrences": [
+                    {
+                        "start_idx": 178,
+                        "end_idx": 183
+                    },
+                    {
+                        "start_idx": 1246,
+                        "end_idx": 1251
+                    },
+                    {
+                        "start_idx": 1344,
+                        "end_idx": 1349
+                    },
+                    {
+                        "start_idx": 1494,
+                        "end_idx": 1499
+                    }
+                ]
+            },
+            {
+                "word": "air",
+                "occurrences": [
+                    {
+                        "start_idx": 159,
+                        "end_idx": 162
+                    },
+                    {
+                        "start_idx": 306,
+                        "end_idx": 309
+                    },
+                    {
+                        "start_idx": 668,
+                        "end_idx": 671
+                    },
+                    {
+                        "start_idx": 715,
+                        "end_idx": 718
+                    },
+                    {
+                        "start_idx": 872,
+                        "end_idx": 875
+                    }
+                ]
+            },
+            {
+                "word": "travel",
+                "occurrences": [
+                    {
+                        "start_idx": 310,
+                        "end_idx": 316
+                    },
+                    {
+                        "start_idx": 595,
+                        "end_idx": 601
+                    },
+                    {
+                        "start_idx": 672,
+                        "end_idx": 678
+                    },
+                    {
+                        "start_idx": 732,
+                        "end_idx": 738
+                    }
+                ]
+            },
+            {
+                "word": "car",
+                "occurrences": [
+                    {
+                        "start_idx": 171,
+                        "end_idx": 174
+                    },
+                    {
+                        "start_idx": 367,
+                        "end_idx": 370
+                    },
+                    {
+                        "start_idx": 483,
+                        "end_idx": 486
+                    },
+                    {
+                        "start_idx": 588,
+                        "end_idx": 591
+                    }
+                ]
+            },
+            {
+                "word": "transport",
+                "occurrences": [
+                    {
+                        "start_idx": 140,
+                        "end_idx": 149
+                    },
+                    {
+                        "start_idx": 719,
+                        "end_idx": 728
+                    },
+                    {
+                        "start_idx": 763,
+                        "end_idx": 772
+                    },
+                    {
+                        "start_idx": 876,
+                        "end_idx": 885
+                    },
+                    {
+                        "start_idx": 1364,
+                        "end_idx": 1373
+                    },
+                    {
+                        "start_idx": 1422,
+                        "end_idx": 1431
+                    }
+                ]
+            },
+            {
+                "word": "coach",
+                "occurrences": [
+                    {
+                        "start_idx": 164,
+                        "end_idx": 169
+                    },
+                    {
+                        "start_idx": 951,
+                        "end_idx": 956
+                    },
+                    {
+                        "start_idx": 1002,
+                        "end_idx": 1007
+                    },
+                    {
+                        "start_idx": 1178,
+                        "end_idx": 1183
+                    },
+                    {
+                        "start_idx": 1384,
+                        "end_idx": 1389
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-21T17:01:15.000Z"
+}

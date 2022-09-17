@@ -1,0 +1,161 @@
+{
+    "url": "https://writing9.com/text/611d4ed0b1fa990019080ad4-the-internet-has-transformed-the-way-information-is-shared-and",
+    "file": [
+        "data",
+        "5",
+        "611d4ed0b1fa990019080ad4.json"
+    ],
+    "topics": [
+        "internet",
+        "information"
+    ],
+    "question": "The internet has transformed the way information is shared and consumed, but it has also created problems that did not exist before.What are the most serious problems associated with the internet and what solutions can you suggest?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The Internet has become an inevitable part of our life. However, it has led to some dramatic changes in terms of how the information is distributed and accessed by it. This essay will explore these two problems and changes which might have resulted for the same and  will also propose solutions which might address them.",
+        "One of the concerns of sharing information is that the data is vulnerable to theft because it is stored electronically rather than physically. So, it is easy for any person who infiltrates a website to steal any kind of personal information. Moreover, we come across a lot of online robberies rather than physical robberies. The possible solution for this could be that the companies which ask for personal data should install strict anti-hacking software to avoid security breaches.",
+        "Turning on the other concern of consuming information, earlier we used to rely on established newspapers for the information which was authenticated. However, nowadays we prefer the internet despite the fact that anyone can post any information on the internet and people trust that falsehood data and share it which leads to miss-informing the public. This problem could be mitigated if social network websites hire reliable fact-checkers who would check the validity of the content which is available online and then permit allow it to be shared.",
+        "In conclusion, these two problems of the vulnerability of data and the proliferation of fake news can be solved if we have good anti-hacking software and employ hire fact-checkers.We have to actually take certain measures do something about these troubles because actions speak louder than words."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "for",
+                "start_idx": 248,
+                "end_idx": 251,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "from"
+                ]
+            },
+            {
+                "word": "which",
+                "start_idx": 294,
+                "end_idx": 299,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "that"
+                ]
+            },
+            {
+                "word": "miss-informing",
+                "start_idx": 1130,
+                "end_idx": 1144,
+                "error": "Correct your spelling",
+                "error_des": "The word miss-informing doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "misinforming"
+                ]
+            },
+            {
+                "word": "do",
+                "start_idx": 1575,
+                "end_idx": 1577,
+                "error": "Fix the infinitive",
+                "error_des": "It seems that the use of particle to may be incorrect here.",
+                "suggetions": [
+                    "to do"
+                ]
+            }
+        ]
+    },
+    "submitter": "anna.bobryshova",
+    "num_words": 266,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "also",
+            "then",
+            "however",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "data",
+                "occurrences": [
+                    {
+                        "start_idx": 376,
+                        "end_idx": 380
+                    },
+                    {
+                        "start_idx": 728,
+                        "end_idx": 732
+                    },
+                    {
+                        "start_idx": 1098,
+                        "end_idx": 1102
+                    },
+                    {
+                        "start_idx": 1412,
+                        "end_idx": 1416
+                    }
+                ]
+            },
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 121,
+                        "end_idx": 132
+                    },
+                    {
+                        "start_idx": 352,
+                        "end_idx": 363
+                    },
+                    {
+                        "start_idx": 550,
+                        "end_idx": 561
+                    },
+                    {
+                        "start_idx": 847,
+                        "end_idx": 858
+                    },
+                    {
+                        "start_idx": 918,
+                        "end_idx": 929
+                    },
+                    {
+                        "start_idx": 1038,
+                        "end_idx": 1049
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-08-18T18:17:54.227Z"
+}

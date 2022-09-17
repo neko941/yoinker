@@ -1,0 +1,162 @@
+{
+    "url": "https://writing9.com/text/62fa6c72a70b55001806d7a3-the-tradition-of-families-getting-together-to-eat-meals-is",
+    "file": [
+        "data",
+        "8",
+        "62fa6c72a70b55001806d7a3.json"
+    ],
+    "topics": [
+        "tradition",
+        "families",
+        "meals",
+        "impacts"
+    ],
+    "question": "The tradition of families getting together to eat meals is disappearing. What are the reasons? What are the impacts?",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In recent years, there has emerged a situation in which fewer and fewer families are gathering together in order to have a meal. A number of people have attributed this phenomenon to the higher working hours and the soar in popularity of fast food. This has consequently resulted in several adverse impacts on the relationship and health of families.",
+        "To commence, one of the most prominent factors behind this trend appears in the increasing work demand from corporations in recent years. This has led to the common situation of labourers having to participate in overtime shifts more frequently, which greatly reduces the amount of time workers  have to spend with their families, thus, family meals tend to lack several family members. As a consequence, this can result in a general consensus that family meals are of little importance. In addition, the popularity of fast food may contribute to this trend as well, owing to the fact that junk food is widely recognized to be a quick, convenient and tasty alternative to fill people's stomachs, that the majority of individuals, nowadays, would prefer to consume takeaways to home-cooked meals.",
+        "Unfortunately, this habit of eating may do more harm than good. First of all, it is evident that gathering together to have a meal can considerably enhance the bonds between family members thanks to the fact that this is one of the rare moments of the day where kin could share with each other. Therefore, the absence of traditional family meals means that familiar relationships can be significantly more fragile, which may lead to disharmony between family members. Furthermore, the alleviation of homemade meals correlates with the increasing trend of people eating out. This, however, can deteriorate individuals' health conditions as a diet mostly consisting of fast food is unlikely to provide the adequate nutritional value that dishes from home can.",
+        "In conclusion, the increasing absence of family meals is believed to be rooted in the higher requirement of work as well as the escalating consumption of junk food. Meanwhile, this phenomenon brings a plethora of negative effects, for instance, the deprivation of familiar bonds and the deterioration of people's health."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "amount",
+                "start_idx": 622,
+                "end_idx": 628,
+                "error": "Change the quantifier",
+                "error_des": "It appears that the quantifier the amount does not fit with the countable noun workers. Consider changing the quantifier or the noun.",
+                "suggetions": [
+                    "number"
+                ]
+            }
+        ]
+    },
+    "submitter": "nghiemthanhlg432005",
+    "num_words": 359,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "thus",
+            "first",
+            "furthermore",
+            "however",
+            "in addition",
+            "consequently",
+            "therefore",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "meals",
+                "occurrences": [
+                    {
+                        "start_idx": 695,
+                        "end_idx": 700
+                    },
+                    {
+                        "start_idx": 807,
+                        "end_idx": 812
+                    },
+                    {
+                        "start_idx": 1140,
+                        "end_idx": 1145
+                    },
+                    {
+                        "start_idx": 1487,
+                        "end_idx": 1492
+                    },
+                    {
+                        "start_idx": 1656,
+                        "end_idx": 1661
+                    },
+                    {
+                        "start_idx": 1953,
+                        "end_idx": 1958
+                    }
+                ]
+            },
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 243,
+                        "end_idx": 247
+                    },
+                    {
+                        "start_idx": 875,
+                        "end_idx": 879
+                    },
+                    {
+                        "start_idx": 946,
+                        "end_idx": 950
+                    },
+                    {
+                        "start_idx": 1819,
+                        "end_idx": 1823
+                    },
+                    {
+                        "start_idx": 2064,
+                        "end_idx": 2068
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 141,
+                        "end_idx": 147
+                    },
+                    {
+                        "start_idx": 1028,
+                        "end_idx": 1034
+                    },
+                    {
+                        "start_idx": 1702,
+                        "end_idx": 1708
+                    },
+                    {
+                        "start_idx": 2209,
+                        "end_idx": 2215
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-15T16:04:24.382Z"
+}

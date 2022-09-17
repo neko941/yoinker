@@ -1,0 +1,280 @@
+{
+    "url": "https://writing9.com/text/62c6f21b8ee1ab00180e1a34-your-friend-wants-to-send-herhis-child-to-learn-music",
+    "file": [
+        "data",
+        "45",
+        "62c6f21b8ee1ab00180e1a34.json"
+    ],
+    "topics": [
+        "friend",
+        "child",
+        "music",
+        "information",
+        "academy",
+        "school",
+        "teacher",
+        "class"
+    ],
+    "question": "Your friend wants to send her/his child to learn music. He/she asked you for some information about the music academy that you went to.\nWrite him/her a letter. You should:\n- Describe the music school\n- Suggest a teacher or a class to go to\n- Explain why you recommend it.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Rohan,",
+        "Hello! I hope you and your family members are fine during this covid19 period. I am writing this letter to inform about my music class .",
+        "As you know, we are met in garden last week and you tell about your children that so much interest in music.",
+        "The music school is very near to my apartment so  i easily go to there and it's very big campus. There are many facilities available and so many  player instruments are here. Moreover, reena ma'am is very polite person and have lost of knowledge about music.",
+        "You will also put there children on her.",
+        "However, i know you also interested in music but you was not join music class because you have some family responsibilities . This school is very popular and trustable so i recommend this school .",
+        "Hope meet see you soon",
+        "Warm wishes,",
+        "Neha"
+    ],
+    "errors": {
+        "num_error": "17",
+        "error_list": [
+            {
+                "word": "about",
+                "start_idx": 125,
+                "end_idx": 130,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "you about"
+                ]
+            },
+            {
+                "word": "are ",
+                "start_idx": 164,
+                "end_idx": 168,
+                "error": "Unnecessary verb",
+                "error_des": "The verb are appears to be unnecessary here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "garden",
+                "start_idx": 175,
+                "end_idx": 181,
+                "error": "Add an article",
+                "error_des": "The noun phrase garden seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the garden"
+                ]
+            },
+            {
+                "word": "interest",
+                "start_idx": 238,
+                "end_idx": 246,
+                "error": "Replace the word",
+                "error_des": "The word interest doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "interested"
+                ]
+            },
+            {
+                "word": "  i",
+                "start_idx": 306,
+                "end_idx": 309,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 319,
+                "end_idx": 322,
+                "error": "Remove the preposition",
+                "error_des": "The preposition to seems unecessary after the verb go. Consider removing the preposition.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "very",
+                "start_idx": 337,
+                "end_idx": 341,
+                "error": "Add an article",
+                "error_des": "The noun phrase very big campus seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a very"
+                ]
+            },
+            {
+                "word": "reena",
+                "start_idx": 442,
+                "end_idx": 447,
+                "error": "Change the capitalization",
+                "error_des": "It appears that the word reena may be a proper noun in this context. Consider capitalizing the word.",
+                "suggetions": [
+                    "Reena"
+                ]
+            },
+            {
+                "word": "very",
+                "start_idx": 457,
+                "end_idx": 461,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a very"
+                ]
+            },
+            {
+                "word": "have",
+                "start_idx": 480,
+                "end_idx": 484,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb have does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "has"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 490,
+                "end_idx": 493,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "there",
+                "start_idx": 534,
+                "end_idx": 539,
+                "error": "Replace the word",
+                "error_des": "The word there may be used incorrectly. Review the following notes to determine the appropriate usage for your context.",
+                "suggetions": [
+                    "their"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 566,
+                "end_idx": 567,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "also",
+                "start_idx": 577,
+                "end_idx": 581,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "are also"
+                ]
+            },
+            {
+                "word": "was not join",
+                "start_idx": 610,
+                "end_idx": 622,
+                "error": "Change the verb form",
+                "error_des": "It appears that the form of the verb join does not work with was in this sentence.",
+                "suggetions": [
+                    "did not join"
+                ]
+            },
+            {
+                "word": "music",
+                "start_idx": 623,
+                "end_idx": 628,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the music"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 728,
+                "end_idx": 729,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            }
+        ]
+    },
+    "submitter": "s.a.patadiya",
+    "num_words": 147,
+    "num_paragraphs": 9,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "also",
+            "however",
+            "last",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "music",
+                "occurrences": [
+                    {
+                        "start_idx": 135,
+                        "end_idx": 140
+                    },
+                    {
+                        "start_idx": 251,
+                        "end_idx": 256
+                    },
+                    {
+                        "start_idx": 262,
+                        "end_idx": 267
+                    },
+                    {
+                        "start_idx": 510,
+                        "end_idx": 515
+                    },
+                    {
+                        "start_idx": 597,
+                        "end_idx": 602
+                    },
+                    {
+                        "start_idx": 624,
+                        "end_idx": 629
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-07T14:47:57.390Z"
+}

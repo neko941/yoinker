@@ -1,0 +1,135 @@
+{
+    "url": "https://writing9.com/text/5cf1e1acbde8cf00178599b2",
+    "file": [
+        "data",
+        "45",
+        "5cf1e1acbde8cf00178599b2.json"
+    ],
+    "topics": [
+        "proportion",
+        "people",
+        "countries",
+        "future",
+        "development"
+    ],
+    "question": "It is expected that there will be a higher proportion of older people than that of young people in many countries in the future? Do you think it is a positive or negative development?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Aging population is expected to become popular among many nations. As far as I am concerned, this trend is a two-edged sword with both advantages and disadvantages.",
+        "On the one hand, an increasing number of senior citizens might be beneficial to the society. With all the knowledge and experience they have accumulated at the workplace, the elders can play a pivotal role in educating and guiding the succeeding generations. This, in turn, maintains and enhances efficiency and productivity. Many countries, Japan in particular, enjoy a prosperous economy thanks to the contributions of their aging population. In addition, the elders in families are indispensable for the preservation of traditions and national identities. These people shoulder the responsibility to pass down customs to the young.",
+        "On the other hand, admittedly, an aging population can create financial burdens to their countries. A large share of national budgets needs to be allocated to medical health services to cater for the demand of the elders. Moreover, since many families are struggling to support themselves, the majority do not have enough time to take care of old people. The upshot can be daunting when a lot of them are abandoned by their own family members.",
+        "In conclusion, there are both merits and demerits to this change. Every country should contemplate their current situation to formulate the optimal policies regarding the aging population."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "Aging ",
+                "start_idx": 0,
+                "end_idx": 6,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "The aging population"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 785,
+                "end_idx": 787,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "budgets needs",
+                "start_idx": 925,
+                "end_idx": 938,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "budgets, needs"
+                ]
+            },
+            {
+                "word": "do not have",
+                "start_idx": 1102,
+                "end_idx": 1113,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "does not have"
+                ]
+            }
+        ]
+    },
+    "submitter": "tuquynh.nguyen0901",
+    "num_words": 226,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "in particular",
+            "in addition",
+            "on the other hand",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "population",
+                "occurrences": [
+                    {
+                        "start_idx": 6,
+                        "end_idx": 16
+                    },
+                    {
+                        "start_idx": 598,
+                        "end_idx": 608
+                    },
+                    {
+                        "start_idx": 840,
+                        "end_idx": 850
+                    },
+                    {
+                        "start_idx": 1421,
+                        "end_idx": 1431
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-01T02:23:40.000Z"
+}

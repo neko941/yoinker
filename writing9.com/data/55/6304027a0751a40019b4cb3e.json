@@ -1,0 +1,151 @@
+{
+    "url": "https://writing9.com/text/6304027a0751a40019b4cb3e-a-large-company-in-your-area-has-decided-to-spend",
+    "file": [
+        "data",
+        "55",
+        "6304027a0751a40019b4cb3e.json"
+    ],
+    "topics": [
+        "company",
+        "area",
+        "amount",
+        "money",
+        "sponsor",
+        "children",
+        "sport",
+        "team",
+        "two",
+        "years",
+        "concerts",
+        "feedback",
+        "summaries"
+    ],
+    "question": "A large company in your area has decided to spend a certain amount of money, either to sponsor a local children's sport team for two years, or two pay for two open-air concerts. It has asked for feedback from the general public. Write a letter to the company. In your letter describe the benefits of sponsoring the sport team. Summaries the benefits of paying for the concerts. And say how you think the company should spend the money.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "one_main_idea_per_paragraph": 4.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 6.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear sir or madam,",
+        "As a resident of White Deer Town for 40 years, I am so glad your company is going to invest in the community by sponsoring the running costs of a baseball team or organization of a couple of concerts. Without a local professional sports team here, I am sure a local sports team, even though it is an under-11 one,  will definitely draw cheering crowds every Saturday whenever opposing teams are visiting. Not only can it improve business opportunities for shops and restaurants but it can also enable the team members to develop a spirit of competitiveness, endurance and discipline. On the other hand, while organizing a couple of concerts can also draw crowds, probably from outside the town, and boost local businesses, and let the adolescents have a crazy night, the merits are not as long-lasting as that of running a baseball team. With that being said, I would root for the idea of sponsoring a local baseball team for two years and hope your prestigious company can consider.",
+        "Your faithfully,",
+        "Alan Heart"
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "and ",
+                "start_idx": 713,
+                "end_idx": 717,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "consider",
+                "start_idx": 992,
+                "end_idx": 1000,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "itconsider"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1002,
+                "end_idx": 1002,
+                "error": "Correct the word",
+                "error_des": "It appears that the word Your is not the correct form of the possessive pronoun. Consider changing it.",
+                "suggetions": [
+                    "Yours"
+                ]
+            },
+            {
+                "word": "Your",
+                "start_idx": 1002,
+                "end_idx": 1006,
+                "error": "Correct your spelling",
+                "error_des": "The word Your doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "Yours"
+                ]
+            }
+        ]
+    },
+    "submitter": "ABC_XYZ",
+    "num_words": 178,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "also",
+            "on the other hand"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "team",
+                "occurrences": [
+                    {
+                        "start_idx": 174,
+                        "end_idx": 178
+                    },
+                    {
+                        "start_idx": 256,
+                        "end_idx": 260
+                    },
+                    {
+                        "start_idx": 292,
+                        "end_idx": 296
+                    },
+                    {
+                        "start_idx": 404,
+                        "end_idx": 408
+                    },
+                    {
+                        "start_idx": 524,
+                        "end_idx": 528
+                    },
+                    {
+                        "start_idx": 851,
+                        "end_idx": 855
+                    },
+                    {
+                        "start_idx": 936,
+                        "end_idx": 940
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-08-22T22:29:29.114Z"
+}

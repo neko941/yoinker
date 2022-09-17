@@ -1,0 +1,239 @@
+{
+    "url": "https://writing9.com/text/606736197906a2001856e062-cbi-to-review-performance-of-investigators-each-month",
+    "file": [
+        "data",
+        "45",
+        "606736197906a2001856e062.json"
+    ],
+    "topics": [
+        "cbi",
+        "review",
+        "performance",
+        "investigators",
+        "month"
+    ],
+    "question": "CBI to review performance of investigators each month",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A person with Covid-19 should be considered a case of re-infection if they had a previous bout at least 102 days prior to their latest test result, and had at least one negative test in the period between, the Indian Council of Medical Research (ICMR) suggested after studying the case of 1,300 people, 4.5% of whom appeared to have caught the virus twice.",
+        "Published online by the Cambirdge Epidemiology and Infection journal as an accepted manuscript, the study is based on telephone interviews with people selected from ICMR\u2019s laboratory database of at least 80 million individuals tested during January 22 to October 7, 2020. The government has been working on a definition for \u2018re-infection\u2019 of cases since October.",
+        "The 4.5% who were found infected were people infected in the first wave. \u201cThis is an averaged out figure over a period of about eight months\u2014 January to October, 2020\u2014, which will vary with behaviour and intensity of epidemic,\u201d said Dr Balram Bhargava, director general, ICMR.",
+        "According to the study, the authors said: \u201cTaking available evidence into consideration, re-infection with Sars-CoV-2 in our study was defined as any individual who tested positive for SARS-CoV-2 on two separate occasions by either molecular tests or rapid antigen test at an interval of at least 102 days with one negative molecular test in between. In this archive based, telephonic survey, 58 out of 1,300 individuals (4.5%) fulfilled the above mentioned definition\u201d.",
+        "The study, the authors added, was meant to \u201cdevelop an epidemiological case definition of possible Sars-CoV-2 re-infection and assess its magnitude in India... While Sars-CoV-2 re-infection is still a rare phenomenon, there is a need for epidemiological definition of re-infection for establishing surveillance systems and this study contributes to such goal..,\u201d the paper said."
+    ],
+    "errors": {
+        "num_error": "7",
+        "error_list": [
+            {
+                "word": "Cambirdge",
+                "start_idx": 380,
+                "end_idx": 389,
+                "error": "Correct your spelling",
+                "error_des": "The word Cambirdge is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "Cambridge"
+                ]
+            },
+            {
+                "word": "during",
+                "start_idx": 590,
+                "end_idx": 596,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "from"
+                ]
+            },
+            {
+                "word": "re-infection\u2019",
+                "start_idx": 682,
+                "end_idx": 695,
+                "error": "Correct your spelling",
+                "error_des": "The word re-infection' is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "re-infection"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 880,
+                "end_idx": 881,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have incorrectly used a comma with a date. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "archive based",
+                "start_idx": 1355,
+                "end_idx": 1368,
+                "error": "Add a hyphen",
+                "error_des": "It appears that archive based is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "archive-based"
+                ]
+            },
+            {
+                "word": "above mentioned",
+                "start_idx": 1438,
+                "end_idx": 1453,
+                "error": "Add a hyphen",
+                "error_des": "It appears that above mentioned is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "above-mentioned"
+                ]
+            },
+            {
+                "word": "epidemiological",
+                "start_idx": 1705,
+                "end_idx": 1720,
+                "error": "Add an article",
+                "error_des": "The noun phrase epidemiological definition seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an epidemiological",
+                    "the epidemiological"
+                ]
+            }
+        ]
+    },
+    "submitter": "venkat33b",
+    "num_words": 290,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "such",
+            "first",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "test",
+                "occurrences": [
+                    {
+                        "start_idx": 130,
+                        "end_idx": 134
+                    },
+                    {
+                        "start_idx": 135,
+                        "end_idx": 139
+                    },
+                    {
+                        "start_idx": 178,
+                        "end_idx": 182
+                    },
+                    {
+                        "start_idx": 584,
+                        "end_idx": 588
+                    },
+                    {
+                        "start_idx": 1162,
+                        "end_idx": 1166
+                    },
+                    {
+                        "start_idx": 1239,
+                        "end_idx": 1243
+                    },
+                    {
+                        "start_idx": 1262,
+                        "end_idx": 1266
+                    },
+                    {
+                        "start_idx": 1331,
+                        "end_idx": 1335
+                    }
+                ]
+            },
+            {
+                "word": "study",
+                "occurrences": [
+                    {
+                        "start_idx": 268,
+                        "end_idx": 273
+                    },
+                    {
+                        "start_idx": 457,
+                        "end_idx": 462
+                    },
+                    {
+                        "start_idx": 1014,
+                        "end_idx": 1019
+                    },
+                    {
+                        "start_idx": 1122,
+                        "end_idx": 1127
+                    },
+                    {
+                        "start_idx": 1472,
+                        "end_idx": 1477
+                    },
+                    {
+                        "start_idx": 1796,
+                        "end_idx": 1801
+                    }
+                ]
+            },
+            {
+                "word": "re-infection",
+                "occurrences": [
+                    {
+                        "start_idx": 54,
+                        "end_idx": 66
+                    },
+                    {
+                        "start_idx": 682,
+                        "end_idx": 694
+                    },
+                    {
+                        "start_idx": 1086,
+                        "end_idx": 1098
+                    },
+                    {
+                        "start_idx": 1578,
+                        "end_idx": 1590
+                    },
+                    {
+                        "start_idx": 1645,
+                        "end_idx": 1657
+                    },
+                    {
+                        "start_idx": 1736,
+                        "end_idx": 1748
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-04-02T16:21:49.116Z"
+}

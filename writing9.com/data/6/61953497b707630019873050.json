@@ -1,0 +1,367 @@
+{
+    "url": "https://writing9.com/text/61953497b707630019873050-governments-should-spend-money-on-rails-rather-than-roads-to-what",
+    "file": [
+        "data",
+        "6",
+        "61953497b707630019873050.json"
+    ],
+    "topics": [
+        "governments",
+        "money",
+        "rails",
+        "roads"
+    ],
+    "question": "Governments should spend money on rails rather than roads.To what extend do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Governmental budget should be invested on rails rather roads by official authorities. I believe that allocating money for establishing or developing roads is more important than rails.",
+        "On the one hand, railway system needs special infrastructure such as rails and wagons as well as enough space to set them. Therefore, it cannot be used all over the country especially in high hills or mountain region .So, the route which is covered by train could be limited. Besides due to cost of maintaining and expanding the system, it is not economical to use it in small cities or remote areas with few commuters.",
+        "On the other hand, developing roads needs less budget rather than rails therefore it is more accessible for the governments especially in the poor or even underprivileged countries. It means that with less budget, it could be possible to cover more areas with roads and many people can access to this modes of transport. Additionally, in busy cities like metropolitan, because of space limitation, there is no enough space to set the infrastructure for railway systems so it is more beneficial to establish a road in noisy cities. Meanwhile, road can be used by different kinds of vehicle such as car, bus and truck which means that a large number of people and companies benefit from roads compare to rails.",
+        "In conclusion, from economical point of view, budget which is allocated on roads can be more beneficial both for people and companies because with less money and infrastructure government can establish more roads that can cover all around a country from mountain region to remote area."
+    ],
+    "errors": {
+        "num_error": "21",
+        "error_list": [
+            {
+                "word": "Governmental",
+                "start_idx": 0,
+                "end_idx": 12,
+                "error": "Add an article",
+                "error_des": "The noun phrase Governmental budget seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "The governmental",
+                    "A governmental"
+                ]
+            },
+            {
+                "word": "roads",
+                "start_idx": 54,
+                "end_idx": 59,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "than roads"
+                ]
+            },
+            {
+                "word": "railway",
+                "start_idx": 201,
+                "end_idx": 208,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the railway"
+                ]
+            },
+            {
+                "word": "region ",
+                "start_idx": 394,
+                "end_idx": 401,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that region may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "regions"
+                ]
+            },
+            {
+                "word": "cost",
+                "start_idx": 475,
+                "end_idx": 479,
+                "error": "Add an article",
+                "error_des": "The noun phrase cost seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the cost"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 897,
+                "end_idx": 900,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "this modes",
+                "start_idx": 900,
+                "end_idx": 910,
+                "error": "Change the determiner",
+                "error_des": "It appears that the singular demonstrative this is modifying the plural noun modes. Consider using a plural demonstrative or a singular noun instead.",
+                "suggetions": [
+                    "this mode",
+                    "these modes"
+                ]
+            },
+            {
+                "word": "limitation",
+                "start_idx": 990,
+                "end_idx": 1000,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that limitation may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "limitations"
+                ]
+            },
+            {
+                "word": "no",
+                "start_idx": 1011,
+                "end_idx": 1013,
+                "error": "Correct your spelling",
+                "error_des": "The word no doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "not"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1146,
+                "end_idx": 1146,
+                "error": "Add an article",
+                "error_des": "The noun phrase road seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the road"
+                ]
+            },
+            {
+                "word": "road",
+                "start_idx": 1146,
+                "end_idx": 1150,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that road may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "roads"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1185,
+                "end_idx": 1185,
+                "error": "Add an article",
+                "error_des": "The noun phrase vehicle seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the vehicle",
+                    "a vehicle"
+                ]
+            },
+            {
+                "word": "vehicle",
+                "start_idx": 1185,
+                "end_idx": 1192,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that vehicle may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "vehicles"
+                ]
+            },
+            {
+                "word": "car",
+                "start_idx": 1201,
+                "end_idx": 1204,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that car may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "cars"
+                ]
+            },
+            {
+                "word": "truck",
+                "start_idx": 1214,
+                "end_idx": 1219,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that truck may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "trucks"
+                ]
+            },
+            {
+                "word": "compare",
+                "start_idx": 1295,
+                "end_idx": 1302,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb compare. Consider changing it.",
+                "suggetions": [
+                    "compared"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1333,
+                "end_idx": 1333,
+                "error": "Add an article",
+                "error_des": "The noun phrase economical point seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an economical",
+                    "the economical"
+                ]
+            },
+            {
+                "word": "economical",
+                "start_idx": 1333,
+                "end_idx": 1343,
+                "error": "Replace the word",
+                "error_des": "The word economical doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "economic"
+                ]
+            },
+            {
+                "word": "budget",
+                "start_idx": 1359,
+                "end_idx": 1365,
+                "error": "Add an article",
+                "error_des": "The noun phrase budget seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the budget",
+                    "a budget"
+                ]
+            },
+            {
+                "word": "government",
+                "start_idx": 1490,
+                "end_idx": 1500,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the government"
+                ]
+            },
+            {
+                "word": "mountain",
+                "start_idx": 1567,
+                "end_idx": 1575,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the mountain"
+                ]
+            }
+        ]
+    },
+    "submitter": "tutoo.ir",
+    "num_words": 268,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "on the other hand",
+            "additionally",
+            "besides",
+            "therefore",
+            "such"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "roads",
+                "occurrences": [
+                    {
+                        "start_idx": 55,
+                        "end_idx": 60
+                    },
+                    {
+                        "start_idx": 149,
+                        "end_idx": 154
+                    },
+                    {
+                        "start_idx": 635,
+                        "end_idx": 640
+                    },
+                    {
+                        "start_idx": 865,
+                        "end_idx": 870
+                    },
+                    {
+                        "start_idx": 1290,
+                        "end_idx": 1295
+                    },
+                    {
+                        "start_idx": 1389,
+                        "end_idx": 1394
+                    },
+                    {
+                        "start_idx": 1521,
+                        "end_idx": 1526
+                    }
+                ]
+            },
+            {
+                "word": "rails",
+                "occurrences": [
+                    {
+                        "start_idx": 42,
+                        "end_idx": 47
+                    },
+                    {
+                        "start_idx": 178,
+                        "end_idx": 183
+                    },
+                    {
+                        "start_idx": 254,
+                        "end_idx": 259
+                    },
+                    {
+                        "start_idx": 671,
+                        "end_idx": 676
+                    },
+                    {
+                        "start_idx": 1307,
+                        "end_idx": 1312
+                    }
+                ]
+            },
+            {
+                "word": "budget",
+                "occurrences": [
+                    {
+                        "start_idx": 13,
+                        "end_idx": 19
+                    },
+                    {
+                        "start_idx": 652,
+                        "end_idx": 658
+                    },
+                    {
+                        "start_idx": 811,
+                        "end_idx": 817
+                    },
+                    {
+                        "start_idx": 1360,
+                        "end_idx": 1366
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-11-17T16:58:01.363Z"
+}

@@ -1,0 +1,432 @@
+{
+    "url": "https://writing9.com/text/6280f3fc4bf2c20018e20961-more-and-more-people-in-developing-countries-are-purchasing-cars",
+    "file": [
+        "data",
+        "45",
+        "6280f3fc4bf2c20018e20961.json"
+    ],
+    "topics": [
+        "people",
+        "countries",
+        "cars",
+        "first",
+        "time"
+    ],
+    "question": "More and more people in developing countries are purchasing cars for the first time. What problems does this cause? What do you think are the possible solutions?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many people living in developing country, buy automobile for the first time. It means that many residents cannot buy cars which results in increasing crime rate and restrict dreams. However, government can provide opportunity for their people to help them buy a means of transportation easily.",
+        "A country with worse economic situation in which people lived there buy cars for the first time, cause increasing robbery on the other side. In these society people cannot generally afford to buy a car. Consequently, many of them would encourage to steal them. moreover, citizens of that society would decrease the level of their willing to having a car. In a consequence, they do not dream big, and try to improve their living condition significantly, since they will never think about achieve high welfare.",
+        "However, by taking some actions, authorities may tackle this problem. many cannot afford to purchase vehicles as they are expensive. Nevertheless, by cutting down prices, everyone would own it. in addition, governors would much better off importing cheap cars from other countries, or bring industrial engineering to build less pricy cars. As a result, these items would not turn to something costly to have. In general, raising income can solve this issue immediately, which require a proper country economy.",
+        "In conclusion, cars in many developing societies have bought for the first time. It can rise crime rate or make adults, especially youngsters, to limit their wants from their future lives. Fortunately, humans leading these countries can order to reduce the cost of provide affordable cars for their people."
+    ],
+    "errors": {
+        "num_error": "30",
+        "error_list": [
+            {
+                "word": "developing",
+                "start_idx": 21,
+                "end_idx": 31,
+                "error": "Add an article",
+                "error_des": "The noun phrase developing country seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a developing"
+                ]
+            },
+            {
+                "word": "country",
+                "start_idx": 32,
+                "end_idx": 39,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that country may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "countries"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 45,
+                "end_idx": 45,
+                "error": "Add an article",
+                "error_des": "The noun phrase automobile seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an automobile"
+                ]
+            },
+            {
+                "word": "automobile",
+                "start_idx": 45,
+                "end_idx": 55,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that automobile may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "automobiles"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 138,
+                "end_idx": 138,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "an increasing"
+                ]
+            },
+            {
+                "word": "increasing",
+                "start_idx": 138,
+                "end_idx": 148,
+                "error": "Replace the word",
+                "error_des": "The word increasing doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "increased"
+                ]
+            },
+            {
+                "word": "restrict",
+                "start_idx": 164,
+                "end_idx": 172,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb restrict. Consider changing it.",
+                "suggetions": [
+                    "restricting"
+                ]
+            },
+            {
+                "word": "government",
+                "start_idx": 190,
+                "end_idx": 200,
+                "error": "Add an article",
+                "error_des": "The noun phrase government seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the government"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 213,
+                "end_idx": 213,
+                "error": "Add an article",
+                "error_des": "The noun phrase opportunity seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an opportunity",
+                    "the opportunity"
+                ]
+            },
+            {
+                "word": "opportunity",
+                "start_idx": 213,
+                "end_idx": 224,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that opportunity may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "opportunities"
+                ]
+            },
+            {
+                "word": "worse",
+                "start_idx": 308,
+                "end_idx": 313,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a worse"
+                ]
+            },
+            {
+                "word": "buy",
+                "start_idx": 361,
+                "end_idx": 364,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb buy. Consider changing it.",
+                "suggetions": [
+                    "buying"
+                ]
+            },
+            {
+                "word": "cause",
+                "start_idx": 390,
+                "end_idx": 395,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb cause. Consider changing it.",
+                "suggetions": [
+                    "causing"
+                ]
+            },
+            {
+                "word": "these",
+                "start_idx": 437,
+                "end_idx": 442,
+                "error": "Correct determiner usage",
+                "error_des": "It seems that determiner use may be incorrect here.",
+                "suggetions": [
+                    "this"
+                ]
+            },
+            {
+                "word": "society",
+                "start_idx": 443,
+                "end_idx": 450,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase In these society. Consider adding a comma.",
+                "suggetions": [
+                    ",society"
+                ]
+            },
+            {
+                "word": "willing",
+                "start_idx": 623,
+                "end_idx": 630,
+                "error": "Replace the word",
+                "error_des": "The word willing doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "willingness"
+                ]
+            },
+            {
+                "word": "having",
+                "start_idx": 634,
+                "end_idx": 640,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb having. Consider changing it.",
+                "suggetions": [
+                    "have"
+                ]
+            },
+            {
+                "word": "In",
+                "start_idx": 648,
+                "end_idx": 650,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "As"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 688,
+                "end_idx": 689,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound predicate. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "achieve",
+                "start_idx": 780,
+                "end_idx": 787,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb achieve. Consider changing it.",
+                "suggetions": [
+                    "achieving"
+                ]
+            },
+            {
+                "word": "much",
+                "start_idx": 1025,
+                "end_idx": 1029,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "be much"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1083,
+                "end_idx": 1084,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma in a compound predicate. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "bring",
+                "start_idx": 1087,
+                "end_idx": 1092,
+                "error": "Wrong verb form",
+                "error_des": "It appears that your sentence or clause uses an incorrect form of the verb bring. Consider changing it.",
+                "suggetions": [
+                    "bringing"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1182,
+                "end_idx": 1184,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "into"
+                ]
+            },
+            {
+                "word": "require",
+                "start_idx": 1278,
+                "end_idx": 1285,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb require does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "requires"
+                ]
+            },
+            {
+                "word": "bought",
+                "start_idx": 1366,
+                "end_idx": 1372,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "been bought"
+                ]
+            },
+            {
+                "word": "crime",
+                "start_idx": 1405,
+                "end_idx": 1410,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the crime"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 1455,
+                "end_idx": 1458,
+                "error": "Fix the infinitive",
+                "error_des": "It seems that the use of particle to may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 1476,
+                "end_idx": 1480,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "provide",
+                "start_idx": 1577,
+                "end_idx": 1584,
+                "error": "Change the verb form",
+                "error_des": "The verb provide may be in the wrong form after the preposition of. Consider changing it to the gerund form.",
+                "suggetions": [
+                    "providing"
+                ]
+            }
+        ]
+    },
+    "submitter": "kimiasphri",
+    "num_words": 259,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "first",
+            "nevertheless",
+            "as a result",
+            "however",
+            "consequently",
+            "in addition",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "cars",
+                "occurrences": [
+                    {
+                        "start_idx": 117,
+                        "end_idx": 121
+                    },
+                    {
+                        "start_idx": 366,
+                        "end_idx": 370
+                    },
+                    {
+                        "start_idx": 1058,
+                        "end_idx": 1062
+                    },
+                    {
+                        "start_idx": 1137,
+                        "end_idx": 1141
+                    },
+                    {
+                        "start_idx": 1328,
+                        "end_idx": 1332
+                    },
+                    {
+                        "start_idx": 1597,
+                        "end_idx": 1601
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 5,
+                        "end_idx": 11
+                    },
+                    {
+                        "start_idx": 236,
+                        "end_idx": 242
+                    },
+                    {
+                        "start_idx": 343,
+                        "end_idx": 349
+                    },
+                    {
+                        "start_idx": 452,
+                        "end_idx": 458
+                    },
+                    {
+                        "start_idx": 1612,
+                        "end_idx": 1618
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-05-15T12:37:17.743Z"
+}

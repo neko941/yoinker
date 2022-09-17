@@ -1,0 +1,119 @@
+{
+    "url": "https://writing9.com/text/62957f3ea7e4af0018bb7220-in-some-countries-more-and-more-people-are-becoming-interested",
+    "file": [
+        "data",
+        "8",
+        "62957f3ea7e4af0018bb7220.json"
+    ],
+    "topics": [
+        "countries",
+        "people",
+        "history",
+        "house",
+        "reason",
+        "research"
+    ],
+    "question": "In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in. What are the reason for this? How can people research this?",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Living spots are where we spend most of our time after having a hectic day in the office. In some nations, many folks are becoming curious about the story behind their houses. Due to planning to redevelop it, they could reach the information through the internet and local residents. This essay will elucidate more about the given topic.",
+        "Observing the historical story of the house has been popular since numerous dwelling places are found to have specialized materials with ancient designs. Thence, searching the previous materials used for constructing houses are required to get a good quality of housing. For instance, some traditional houses in Indonesia were made by particular woods which are currently difficult to be found. Thus, people have to find the other woods with the same characters.",
+        "Furthermore, there are multiple ways for reaching out the information about the house. Firstly, we might get a considerable amount of data by interviewing the local residents. Moreover, in some countryside, we still may find country folks who lived from one generation to another generation. They might provide valid answers as they have spent their time living in that place. Secondly, society could use the internet as it might provide the answers to every question. As an illustration, there are some blogs that are made for those who are into designing interiors and we could just ask the author about the materials that are suitable for our old-fashioned houses.",
+        "To conclude, it may become a new trend to find out the historical story of a building, primarily for those who plan to modernize the apartment. There are some methods for getting the answers, commonly people will certainly ask their neighbour and use online resources. As a result, they might get the right component for redecorating their places."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "by",
+                "start_idx": 669,
+                "end_idx": 671,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "from"
+                ]
+            },
+            {
+                "word": "neighbour",
+                "start_idx": 1701,
+                "end_idx": 1710,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that neighbour may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "neighbours"
+                ]
+            }
+        ]
+    },
+    "submitter": "wennyfatikas",
+    "num_words": 297,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "secondly",
+            "thus",
+            "furthermore",
+            "as a result",
+            "firstly",
+            "for instance",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "houses",
+                "occurrences": [
+                    {
+                        "start_idx": 168,
+                        "end_idx": 174
+                    },
+                    {
+                        "start_idx": 555,
+                        "end_idx": 561
+                    },
+                    {
+                        "start_idx": 640,
+                        "end_idx": 646
+                    },
+                    {
+                        "start_idx": 1461,
+                        "end_idx": 1467
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-05-31T02:44:53.726Z"
+}

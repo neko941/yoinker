@@ -1,0 +1,346 @@
+{
+    "url": "https://writing9.com/text/62d123bf8ee1ab00180e2a1f-you-have-finished-a-course-write-a-letter-to-the",
+    "file": [
+        "data",
+        "45",
+        "62d123bf8ee1ab00180e2a1f.json"
+    ],
+    "topics": [
+        "course",
+        "organizer",
+        "feedback"
+    ],
+    "question": "you have finished a course write a letter to the course organizer to give your feedback",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 5.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 6.0,
+            "use_an_appropriate_tone": 5.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir / Madam ,",
+        "I hereby write this letter to bring your kind attention on seminar has happened one week back.",
+        "I have participated a two day conference on 14th and 15th April,2022. Without a doubt I have gained enormous knowledge while attending the programme. Moreover, the conference was very useful for my future endaveours. I liked the way of teaching of most of the lectures and their topic of presentation. Most of them had a fomidable knowledge in theirown respective field. On the top of that, lectures dedication to teach the students were extremely remarkable.",
+        "On the one hand , I had noticed certain drawbacks also. Firstly, the power point presentation quality was not up to the mark and secondly , most of the time the audio was not audiable to the audiance.",
+        "I hope you can improve these demerits on next conference.",
+        "Iam looking forward to to hearing from you.",
+        "Yours Sincerley,",
+        "Krishna"
+    ],
+    "errors": {
+        "num_error": "27",
+        "error_list": [
+            {
+                "word": "on",
+                "start_idx": 74,
+                "end_idx": 76,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "seminar",
+                "start_idx": 77,
+                "end_idx": 84,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the seminar"
+                ]
+            },
+            {
+                "word": " a ",
+                "start_idx": 133,
+                "end_idx": 136,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in  a"
+                ]
+            },
+            {
+                "word": "two day",
+                "start_idx": 135,
+                "end_idx": 142,
+                "error": "Add a hyphen",
+                "error_des": "It appears that two day is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "two-day"
+                ]
+            },
+            {
+                "word": "14th",
+                "start_idx": 157,
+                "end_idx": 161,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the 14th"
+                ]
+            },
+            {
+                "word": "April",
+                "start_idx": 171,
+                "end_idx": 176,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of April"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 177,
+                "end_idx": 178,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have incorrectly used a comma with a date. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "doubt",
+                "start_idx": 193,
+                "end_idx": 198,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Without a doubt. Consider adding a comma.",
+                "suggetions": [
+                    ",doubt"
+                ]
+            },
+            {
+                "word": "endaveours",
+                "start_idx": 318,
+                "end_idx": 328,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want endaveours to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "endeavours"
+                ]
+            },
+            {
+                "word": "fomidable",
+                "start_idx": 434,
+                "end_idx": 443,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want fomidable to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "formidable"
+                ]
+            },
+            {
+                "word": "theirown",
+                "start_idx": 457,
+                "end_idx": 465,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want theirown to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "their own"
+                ]
+            },
+            {
+                "word": "field",
+                "start_idx": 477,
+                "end_idx": 482,
+                "error": "Change to a plural noun",
+                "error_des": "The singular noun field follows a number other than one. Consider changing the noun to the plural form.",
+                "suggetions": [
+                    "fields"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 487,
+                "end_idx": 491,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 504,
+                "end_idx": 504,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the lectures"
+                ]
+            },
+            {
+                "word": "lectures",
+                "start_idx": 504,
+                "end_idx": 512,
+                "error": "Change noun form",
+                "error_des": "It seems that this noun form may be incorrect.",
+                "suggetions": [
+                    "lectures'",
+                    "lecture's"
+                ]
+            },
+            {
+                "word": "teach",
+                "start_idx": 527,
+                "end_idx": 532,
+                "error": "Change the verb form",
+                "error_des": "The verb teach may be in the wrong form after the preposition to. Consider changing it to the gerund form.",
+                "suggetions": [
+                    "teaching"
+                ]
+            },
+            {
+                "word": "were",
+                "start_idx": 546,
+                "end_idx": 550,
+                "error": "Correct subject-verb agreement",
+                "error_des": "It seems that the verb were does not agree with the subject. Consider changing the verb form.",
+                "suggetions": [
+                    "was"
+                ]
+            },
+            {
+                "word": "power point",
+                "start_idx": 642,
+                "end_idx": 653,
+                "error": "Correct your spelling",
+                "error_des": "The word power point seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "powerpoint"
+                ]
+            },
+            {
+                "word": "audiable",
+                "start_idx": 748,
+                "end_idx": 756,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want audiable to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "audible"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 764,
+                "end_idx": 764,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want audiance to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "audience"
+                ]
+            },
+            {
+                "word": "audiance",
+                "start_idx": 764,
+                "end_idx": 772,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want audiance to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "audience"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 812,
+                "end_idx": 814,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            },
+            {
+                "word": "next",
+                "start_idx": 815,
+                "end_idx": 819,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the next"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 832,
+                "end_idx": 832,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Iam to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "I am",
+                    "I'm"
+                ]
+            },
+            {
+                "word": "Iam",
+                "start_idx": 832,
+                "end_idx": 835,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Iam to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "I am"
+                ]
+            },
+            {
+                "word": "to ",
+                "start_idx": 855,
+                "end_idx": 858,
+                "error": "Remove the redundancy",
+                "error_des": "Oops! It appears that you typed to twice in a row. Consider deleting one of them.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "Sincerley",
+                "start_idx": 882,
+                "end_idx": 891,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Sincerley to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "Sincerely"
+                ]
+            }
+        ]
+    },
+    "submitter": "nairrohith719",
+    "num_words": 156,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "secondly",
+            "also",
+            "firstly",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-07-15T08:22:24.872Z"
+}

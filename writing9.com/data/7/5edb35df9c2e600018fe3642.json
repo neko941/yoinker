@@ -1,0 +1,169 @@
+{
+    "url": "https://writing9.com/text/5edb35df9c2e600018fe3642",
+    "file": [
+        "data",
+        "7",
+        "5edb35df9c2e600018fe3642.json"
+    ],
+    "topics": [
+        "people",
+        "zoos",
+        "animals"
+    ],
+    "question": "Many people think that zoos are cruel. Others think they are helpful in protecting rare animals.Discuss both sides and give your own opinion.",
+    "scores": {
+        "overall_band_score": 7.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is commonly believed by some people that zoo is an unpleasant place for animals to live while others think that there several benefits of zoo for endangered animals. In my opinion, I agree with the latter statement.",
+        "To begin with, in the zoo, animals did not have freedom as they used to have when they lived in their natural habitat. Most of them are restricted and forced to live in the cages or constraint areas, which lead to health issues as well as mental problems, especially stress when they are imprisoned in the unfamiliar place. For instance, most of the aquarium that displays white sharks to attract more visitors is facing the challenging and dilemma as all white sharks were unable to survive more than five days after they had been moved into the new surroundings. This raises issues and concern among animal experts and protecting wildlife groups that animals are suffering to be apart from their family and lack the right to live freely in the suitable environment.",
+        "On the other hand, zoo also poses critical benefits to overall society. First, it plays an important role to protect some vulnerable species such as koalas and kangaroos. For example, from the recent bushfire in Australian that killed more than billion of wildlife, zoos across the country became the new shelters for million lost and weaken animals to stay and rest of this severe natural disaster. Second, zoos are also the place where schools used to educate young generation. It provides the place where children can learn and closely view a live rare species in the safest environment.",
+        "In conclusion, although zoo has posed negative impact to some vulnerable animals according to the restricted environment, it also brings various merits to protect nearly extinct species and to educate our future generation."
+    ],
+    "errors": {
+        "num_error": "4",
+        "error_list": [
+            {
+                "word": "zoo",
+                "start_idx": 43,
+                "end_idx": 46,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the zoo"
+                ]
+            },
+            {
+                "word": "zoo",
+                "start_idx": 140,
+                "end_idx": 143,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the zoo"
+                ]
+            },
+            {
+                "word": "zoo",
+                "start_idx": 1005,
+                "end_idx": 1008,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the zoo"
+                ]
+            },
+            {
+                "word": "bushfire",
+                "start_idx": 1186,
+                "end_idx": 1194,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            }
+        ]
+    },
+    "submitter": "lp.thunyaporn",
+    "num_words": 301,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "to begin",
+            "also",
+            "such",
+            "first",
+            "although",
+            "on the other hand",
+            "second",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "place",
+                "occurrences": [
+                    {
+                        "start_idx": 65,
+                        "end_idx": 70
+                    },
+                    {
+                        "start_idx": 536,
+                        "end_idx": 541
+                    },
+                    {
+                        "start_idx": 1413,
+                        "end_idx": 1418
+                    },
+                    {
+                        "start_idx": 1483,
+                        "end_idx": 1488
+                    }
+                ]
+            },
+            {
+                "word": "zoo",
+                "occurrences": [
+                    {
+                        "start_idx": 44,
+                        "end_idx": 47
+                    },
+                    {
+                        "start_idx": 141,
+                        "end_idx": 144
+                    },
+                    {
+                        "start_idx": 241,
+                        "end_idx": 244
+                    },
+                    {
+                        "start_idx": 1006,
+                        "end_idx": 1009
+                    },
+                    {
+                        "start_idx": 1253,
+                        "end_idx": 1256
+                    },
+                    {
+                        "start_idx": 1395,
+                        "end_idx": 1398
+                    },
+                    {
+                        "start_idx": 1602,
+                        "end_idx": 1605
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-06-06T06:25:00.899Z"
+}

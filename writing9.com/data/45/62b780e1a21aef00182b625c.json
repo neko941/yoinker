@@ -1,0 +1,515 @@
+{
+    "url": "https://writing9.com/text/62b780e1a21aef00182b625c-the-percentage-of-their-food-budget-the-average-family-spent",
+    "file": [
+        "data",
+        "45",
+        "62b780e1a21aef00182b625c.json"
+    ],
+    "topics": [
+        "percentage",
+        "food",
+        "budget",
+        "restaurant",
+        "meals",
+        "years",
+        "restaurants"
+    ],
+    "question": "the percentage of their food budget the average family spent on restaurant meals in different years. the number of meals eaten in fast food restaurants and sit-down restaurants.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 5.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The charts illustrate the proportions of the average family expenditure on restaurants food and home made meals in different years. In addition, the graph shows the number of meals eaten in fast food and sit-down restaurants.",
+        "Overall, it is clear from the data that the popularity of fast food between families increased significantly throughout the years compared to the consumption of home made food. Whereas picking food from restaurants in 2000, became more common than eating it inside these restaurants.",
+        "Focusing on the expenses, people were used to cook their meals in their homes in 1970, where they used to spend 90% of food budget on groceries. However, this proportion was decreased slightly by 5% in 1980, as families fast food expenses were third of total budget. Furthermore, consuming restaurants food increased significantly to 35% of the catering budget in 1990, while home cooking costs a family 65% at the same year. In 2000, the families finances for food were splited equally between cooking at home and food of restaurants.",
+        "Turning to the number of fast food meals, the amounts of fast food and dining meals were identical in 1970, where both began at 20 meals per year per family. These figures were rose in 1980, as it reached between 32 meals per year for dined food and 29 meals for fast food. Focusing on fast food meals, it numbers soared to about 51 meals annually in 1990, then witnessed a significant jump to 85 meals in 2000. In contrast, the number of consumed food in dining tables was increased gradually to 44 and 48 meals per year in 1990 and 2000 respectively."
+    ],
+    "errors": {
+        "num_error": "23",
+        "error_list": [
+            {
+                "word": "restaurants",
+                "start_idx": 74,
+                "end_idx": 85,
+                "error": "Change the noun form",
+                "error_des": "Your sentence appears to use the incorrect form of restaurants. Consider changing it to singular.",
+                "suggetions": [
+                    "restaurant"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 95,
+                "end_idx": 95,
+                "error": "Correct your spelling",
+                "error_des": "The word home made seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "homemade"
+                ]
+            },
+            {
+                "word": "home made",
+                "start_idx": 95,
+                "end_idx": 104,
+                "error": "Correct your spelling",
+                "error_des": "The word home made seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "homemade"
+                ]
+            },
+            {
+                "word": "between",
+                "start_idx": 293,
+                "end_idx": 300,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "among"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 386,
+                "end_idx": 386,
+                "error": "Correct your spelling",
+                "error_des": "The word home made seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "homemade"
+                ]
+            },
+            {
+                "word": "home made",
+                "start_idx": 386,
+                "end_idx": 395,
+                "error": "Correct your spelling",
+                "error_des": "The word home made seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "homemade"
+                ]
+            },
+            {
+                "word": "cook",
+                "start_idx": 555,
+                "end_idx": 559,
+                "error": "Change the verb form",
+                "error_des": "It appears that the verb cook is in the wrong form after be/get used to. Consider changing it to the gerund form.",
+                "suggetions": [
+                    "cooking"
+                ]
+            },
+            {
+                "word": "food",
+                "start_idx": 628,
+                "end_idx": 632,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "their food"
+                ]
+            },
+            {
+                "word": "was ",
+                "start_idx": 679,
+                "end_idx": 683,
+                "error": "Unnecessary verb",
+                "error_des": "The verb was appears to be unnecessary here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "families",
+                "start_idx": 720,
+                "end_idx": 728,
+                "error": "Change noun form",
+                "error_des": "It seems that this noun form may be incorrect.",
+                "suggetions": [
+                    "families'",
+                    "family's"
+                ]
+            },
+            {
+                "word": "total",
+                "start_idx": 762,
+                "end_idx": 767,
+                "error": "Add an article",
+                "error_des": "The noun phrase total budget seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the total"
+                ]
+            },
+            {
+                "word": "restaurants",
+                "start_idx": 799,
+                "end_idx": 810,
+                "error": "Change the noun form",
+                "error_des": "Your sentence appears to use the incorrect form of restaurants. Consider changing it to singular.",
+                "suggetions": [
+                    "restaurant"
+                ]
+            },
+            {
+                "word": "at",
+                "start_idx": 917,
+                "end_idx": 919,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "families",
+                "start_idx": 948,
+                "end_idx": 956,
+                "error": "Change noun form",
+                "error_des": "It seems that this noun form may be incorrect.",
+                "suggetions": [
+                    "family's",
+                    "families'"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 980,
+                "end_idx": 980,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want splited to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "split"
+                ]
+            },
+            {
+                "word": "splited",
+                "start_idx": 980,
+                "end_idx": 987,
+                "error": "Correct your spelling",
+                "error_des": "It appears that the verb splited is misspelled. Correct the spelling.",
+                "suggetions": [
+                    "split"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 1029,
+                "end_idx": 1031,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "from"
+                ]
+            },
+            {
+                "word": "fast ",
+                "start_idx": 1070,
+                "end_idx": 1075,
+                "error": "Add a hyphen",
+                "error_des": "It appears that fast food is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "fast-food"
+                ]
+            },
+            {
+                "word": "where",
+                "start_idx": 1153,
+                "end_idx": 1158,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "when"
+                ]
+            },
+            {
+                "word": "were ",
+                "start_idx": 1217,
+                "end_idx": 1222,
+                "error": "Unnecessary verb",
+                "error_des": "The verb were appears to be unnecessary here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 1239,
+                "end_idx": 1241,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "they"
+                ]
+            },
+            {
+                "word": "it",
+                "start_idx": 1348,
+                "end_idx": 1350,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "its"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 1498,
+                "end_idx": 1500,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at"
+                ]
+            }
+        ]
+    },
+    "submitter": "ali.amer47",
+    "num_words": 273,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "in contrast",
+            "furthermore",
+            "then",
+            "third",
+            "however",
+            "in addition",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "6",
+        "list_repeated_words": [
+            {
+                "word": "meals",
+                "occurrences": [
+                    {
+                        "start_idx": 106,
+                        "end_idx": 111
+                    },
+                    {
+                        "start_idx": 175,
+                        "end_idx": 180
+                    },
+                    {
+                        "start_idx": 567,
+                        "end_idx": 572
+                    },
+                    {
+                        "start_idx": 1081,
+                        "end_idx": 1086
+                    },
+                    {
+                        "start_idx": 1124,
+                        "end_idx": 1129
+                    },
+                    {
+                        "start_idx": 1177,
+                        "end_idx": 1182
+                    },
+                    {
+                        "start_idx": 1262,
+                        "end_idx": 1267
+                    },
+                    {
+                        "start_idx": 1299,
+                        "end_idx": 1304
+                    },
+                    {
+                        "start_idx": 1342,
+                        "end_idx": 1347
+                    },
+                    {
+                        "start_idx": 1379,
+                        "end_idx": 1384
+                    },
+                    {
+                        "start_idx": 1443,
+                        "end_idx": 1448
+                    },
+                    {
+                        "start_idx": 1553,
+                        "end_idx": 1558
+                    }
+                ]
+            },
+            {
+                "word": "home",
+                "occurrences": [
+                    {
+                        "start_idx": 96,
+                        "end_idx": 100
+                    },
+                    {
+                        "start_idx": 387,
+                        "end_idx": 391
+                    },
+                    {
+                        "start_idx": 582,
+                        "end_idx": 586
+                    },
+                    {
+                        "start_idx": 886,
+                        "end_idx": 890
+                    },
+                    {
+                        "start_idx": 1016,
+                        "end_idx": 1020
+                    }
+                ]
+            },
+            {
+                "word": "food",
+                "occurrences": [
+                    {
+                        "start_idx": 87,
+                        "end_idx": 91
+                    },
+                    {
+                        "start_idx": 195,
+                        "end_idx": 199
+                    },
+                    {
+                        "start_idx": 289,
+                        "end_idx": 293
+                    },
+                    {
+                        "start_idx": 397,
+                        "end_idx": 401
+                    },
+                    {
+                        "start_idx": 419,
+                        "end_idx": 423
+                    },
+                    {
+                        "start_idx": 629,
+                        "end_idx": 633
+                    },
+                    {
+                        "start_idx": 735,
+                        "end_idx": 739
+                    },
+                    {
+                        "start_idx": 812,
+                        "end_idx": 816
+                    },
+                    {
+                        "start_idx": 971,
+                        "end_idx": 975
+                    },
+                    {
+                        "start_idx": 1025,
+                        "end_idx": 1029
+                    },
+                    {
+                        "start_idx": 1076,
+                        "end_idx": 1080
+                    },
+                    {
+                        "start_idx": 1108,
+                        "end_idx": 1112
+                    },
+                    {
+                        "start_idx": 1287,
+                        "end_idx": 1291
+                    },
+                    {
+                        "start_idx": 1314,
+                        "end_idx": 1318
+                    },
+                    {
+                        "start_idx": 1337,
+                        "end_idx": 1341
+                    },
+                    {
+                        "start_idx": 1494,
+                        "end_idx": 1498
+                    }
+                ]
+            },
+            {
+                "word": "restaurants",
+                "occurrences": [
+                    {
+                        "start_idx": 75,
+                        "end_idx": 86
+                    },
+                    {
+                        "start_idx": 213,
+                        "end_idx": 224
+                    },
+                    {
+                        "start_idx": 429,
+                        "end_idx": 440
+                    },
+                    {
+                        "start_idx": 497,
+                        "end_idx": 508
+                    },
+                    {
+                        "start_idx": 800,
+                        "end_idx": 811
+                    },
+                    {
+                        "start_idx": 1033,
+                        "end_idx": 1044
+                    }
+                ]
+            },
+            {
+                "word": "year",
+                "occurrences": [
+                    {
+                        "start_idx": 125,
+                        "end_idx": 129
+                    },
+                    {
+                        "start_idx": 350,
+                        "end_idx": 354
+                    },
+                    {
+                        "start_idx": 930,
+                        "end_idx": 934
+                    },
+                    {
+                        "start_idx": 1187,
+                        "end_idx": 1191
+                    },
+                    {
+                        "start_idx": 1272,
+                        "end_idx": 1276
+                    },
+                    {
+                        "start_idx": 1563,
+                        "end_idx": 1567
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-25T21:40:51.363Z"
+}

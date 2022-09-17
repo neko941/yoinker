@@ -1,0 +1,275 @@
+{
+    "url": "https://writing9.com/text/6089f8e50bf7480018ae2c16-some-people-think-that-radio-is-the-best-way-to",
+    "file": [
+        "data",
+        "5",
+        "6089f8e50bf7480018ae2c16.json"
+    ],
+    "topics": [
+        "people",
+        "radio",
+        "news",
+        "television",
+        "purpose"
+    ],
+    "question": "Some people think that radio is the best way to get news while others think that television is better for this purpose. \nDiscuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "There are some ways of getting informed nowadays. Radio and television are devices that allow people to get news, each one has its own particularities and people has their preferences, considering advantages of them.",
+        "Radio is an old fashioned equipment that people used to listen to get news, games or chattering. to exemplify, people used to listen the firsts word cups of soccer by radio. This tool was invented a long time ago. Elderlies are more accostumated to it because when they were juvenals, they have only the radio to get informations. Nowadays, even with the invention of television, most of those people preferer radio. Although radio is lighter than television, it is only possible to listen to it and, as far as I gather, this is a crucial disadvantage. Therefore, most adolescents do not like it.",
+        "Television is a younger invention that people used to have at home since it becomes more popular, because when it was invented, it was quite expensive and only wealthy individual could pay for it. Currently, television has improved its services and can improve its broadcasts conditions. It is possible to watch movies, TV shows, novels and a plethora of kinds of programs. The innovation of TV shows has turned it the most popular device to get informed by adolescents and adults in the present. Television is immense and has the possibility to change channels faster and the visual effect is its most remarkable advantage.",
+        "In conclusion, from my perspective, there those people who preferer the radio due to the fact that they growing with it, when it was invented. On the other hand, there is the individual who has TV as their favourite device to get news. Both alternatives are available nowadays, with their own characteristics."
+    ],
+    "errors": {
+        "num_error": "12",
+        "error_list": [
+            {
+                "word": "an old fashioned equipment",
+                "start_idx": 225,
+                "end_idx": 251,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, an, may be redundant when used with the uncountable noun equipment in your sentence. Consider removing it.",
+                "suggetions": [
+                    "old fashioned equipment",
+                    "a piece of old fashioned equipment"
+                ]
+            },
+            {
+                "word": "listen",
+                "start_idx": 342,
+                "end_idx": 348,
+                "error": "Add the preposition",
+                "error_des": "The phrase following the intransitive verb listen seems to be missing a preposition. Consider adding one.",
+                "suggetions": [
+                    "tolisten"
+                ]
+            },
+            {
+                "word": "by",
+                "start_idx": 380,
+                "end_idx": 382,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on"
+                ]
+            },
+            {
+                "word": "radio",
+                "start_idx": 383,
+                "end_idx": 388,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "the radio"
+                ]
+            },
+            {
+                "word": "accostumated",
+                "start_idx": 449,
+                "end_idx": 461,
+                "error": "Correct your spelling",
+                "error_des": "The word accostumated is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "acculturated"
+                ]
+            },
+            {
+                "word": "informations",
+                "start_idx": 533,
+                "end_idx": 545,
+                "error": "Change the wording",
+                "error_des": "It appears that informations is an uncountable noun and should not be made plural. Consider changing the noun.",
+                "suggetions": [
+                    "information",
+                    "pieces of information"
+                ]
+            },
+            {
+                "word": "preferer",
+                "start_idx": 617,
+                "end_idx": 625,
+                "error": "Change the article",
+                "error_des": "It appears that the article usage in the phrase preferer radio is incorrect. Consider making a change.",
+                "suggetions": [
+                    "the preferer"
+                ]
+            },
+            {
+                "word": "radio",
+                "start_idx": 626,
+                "end_idx": 631,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "the radio"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 910,
+                "end_idx": 911,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma before the dependent clause marker because. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "only",
+                "start_idx": 968,
+                "end_idx": 972,
+                "error": "Add an article",
+                "error_des": "The noun phrase only wealthy individual seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the only",
+                    "an only"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 1228,
+                "end_idx": 1231,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "into the"
+                ]
+            },
+            {
+                "word": "TV",
+                "start_idx": 1632,
+                "end_idx": 1634,
+                "error": "Add an article",
+                "error_des": "The noun phrase TV seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a TV"
+                ]
+            }
+        ]
+    },
+    "submitter": "psjmario",
+    "num_words": 293,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "therefore",
+            "although",
+            "on the other hand",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "television",
+                "occurrences": [
+                    {
+                        "start_idx": 60,
+                        "end_idx": 70
+                    },
+                    {
+                        "start_idx": 585,
+                        "end_idx": 595
+                    },
+                    {
+                        "start_idx": 665,
+                        "end_idx": 675
+                    },
+                    {
+                        "start_idx": 1022,
+                        "end_idx": 1032
+                    }
+                ]
+            },
+            {
+                "word": "radio",
+                "occurrences": [
+                    {
+                        "start_idx": 384,
+                        "end_idx": 389
+                    },
+                    {
+                        "start_idx": 521,
+                        "end_idx": 526
+                    },
+                    {
+                        "start_idx": 627,
+                        "end_idx": 632
+                    },
+                    {
+                        "start_idx": 643,
+                        "end_idx": 648
+                    },
+                    {
+                        "start_idx": 1511,
+                        "end_idx": 1516
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 94,
+                        "end_idx": 100
+                    },
+                    {
+                        "start_idx": 155,
+                        "end_idx": 161
+                    },
+                    {
+                        "start_idx": 258,
+                        "end_idx": 264
+                    },
+                    {
+                        "start_idx": 328,
+                        "end_idx": 334
+                    },
+                    {
+                        "start_idx": 611,
+                        "end_idx": 617
+                    },
+                    {
+                        "start_idx": 853,
+                        "end_idx": 859
+                    },
+                    {
+                        "start_idx": 1487,
+                        "end_idx": 1493
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-04-29T00:09:31.925Z"
+}

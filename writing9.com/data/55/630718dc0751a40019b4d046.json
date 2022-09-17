@@ -1,0 +1,217 @@
+{
+    "url": "https://writing9.com/text/630718dc0751a40019b4d046-you-recently-notice-a-local-restaurant-that-was-offering-a",
+    "file": [
+        "data",
+        "55",
+        "630718dc0751a40019b4d046.json"
+    ],
+    "topics": [
+        "notice",
+        "restaurant",
+        "part",
+        "time",
+        "job",
+        "manager",
+        "times"
+    ],
+    "question": "You recently notice a local restaurant that was offering a part time job.Write a letter to restaurant manager. In your letter,\u2022\tExplain you would like to apply for a job\u2022\tGive some details of any relevant experience that you have\u2022\tSpecify the days and times that would suit you.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir/ Madam,",
+        "I am writing to express my interest in a part time job that you have advertised, in daily dawn newspaper on dated: 24th August 2022 on Sunday job classified section. I am keen interested in this post as part of my course.",
+        "As, I am currently enrolling in Master Degree program and my major is in Finance, moreover, I want to exploit my skills and enhance my capabilities in that particular area of my interest. In addition, with, I have also done my SAP certification, which also brings efficiency and effectiveness in your system, beside this I have well versed knowledge about the accounting system along with good communication skills which are crucial for any restaurant. I am free from Monday to Tuesday between 2 to 6.",
+        "I certainly sure that I can bring some skills which eventually will add the value in your existing system.",
+        "I am looking forward to hearing from you soon.",
+        "Yours faithfully,",
+        "Bhawani Shankar"
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "",
+                "start_idx": 57,
+                "end_idx": 57,
+                "error": "Add a hyphen",
+                "error_des": "It appears that part time is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "part-time"
+                ]
+            },
+            {
+                "word": "part time",
+                "start_idx": 57,
+                "end_idx": 66,
+                "error": "Add a hyphen",
+                "error_des": "It seems that part time is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "part-time"
+                ]
+            },
+            {
+                "word": "daily",
+                "start_idx": 100,
+                "end_idx": 105,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the daily"
+                ]
+            },
+            {
+                "word": "on ",
+                "start_idx": 121,
+                "end_idx": 124,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 148,
+                "end_idx": 150,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "Sunday",
+                "start_idx": 151,
+                "end_idx": 157,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the Sunday"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 241,
+                "end_idx": 242,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction As. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 270,
+                "end_idx": 270,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the Master"
+                ]
+            },
+            {
+                "word": "Master",
+                "start_idx": 270,
+                "end_idx": 276,
+                "error": "Change noun form",
+                "error_des": "It seems that this noun form may be incorrect.",
+                "suggetions": [
+                    "Master's"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 531,
+                "end_idx": 533,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            },
+            {
+                "word": "well versed",
+                "start_idx": 566,
+                "end_idx": 577,
+                "error": "Add a hyphen",
+                "error_des": "It appears that well versed is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "well-versed"
+                ]
+            },
+            {
+                "word": "I ",
+                "start_idx": 740,
+                "end_idx": 742,
+                "error": "Add a verb",
+                "error_des": "Your sentence appears to be missing a verb.",
+                "suggetions": [
+                    "amI",
+                    "wasI"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 812,
+                "end_idx": 816,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 822,
+                "end_idx": 824,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            }
+        ]
+    },
+    "submitter": "smkwarsi",
+    "num_words": 162,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "also",
+            "in addition",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-08-25T06:38:22.002Z"
+}

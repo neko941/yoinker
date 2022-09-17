@@ -1,0 +1,399 @@
+{
+    "url": "https://writing9.com/text/5cca8142a9e4124319a24849",
+    "file": [
+        "data",
+        "6",
+        "5cca8142a9e4124319a24849.json"
+    ],
+    "topics": [
+        "people",
+        "balance",
+        "work",
+        "parts",
+        "lives"
+    ],
+    "question": "Many people find it hard to balance their work with other parts of their lives.\n\nWhat are the reasons for this?  How this problem can be overcome?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Majority of population find it tough to balance their office work and personal and family life. There are lots of reasons for this unbalance life such as longer working hours, work load, improper working practices etc. However, these problems can be tackled by proper time management, adopting set working practices such as 3M and six-sigma, priority decisions etc.",
+        "Most of the employee\u2019s face this critical problem of unbalanced working style which compromises a lot of other counterpart of life. Nowadays, organization setting a lot of pressure on employee\u2019s in order to meet their targets and market demands. This phenomenon leads to longer work time, fatigue is common problem due to extra working hours and finally this will result in less efficiency and productivity at work. For example, Japanese people and their work culture are known for their hard work and extremely longer period of working hours. They spend their around 75% life in work only, in addition to this due to work fatigue many of them were found dead on their desk at office.",
+        "Nevertheless, this issue can be resolved by accepting and following proper work ethics and managements tools. Setting appropriate working hours, following time and work management tools such as six-sigma, 3M. People need to understand and decide their priorities to balance their life in order to spend time with friends and family. For example, The Tata organization in India initiated time management and focused on efficient working practices in order to minimize working hours by adopting PMP tool at Pune. Then, employees were interviewed and found that they have more time for their other life events and priorities.",
+        "In conclusion, there are many reasons why people are unable to balance their lives but this problem can be resolved by adopting proper working techniques and practices. At the end of the day, it is so important to balance work and other part of life."
+    ],
+    "errors": {
+        "num_error": "14",
+        "error_list": [
+            {
+                "word": "population",
+                "start_idx": 11,
+                "end_idx": 21,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the population"
+                ]
+            },
+            {
+                "word": "find",
+                "start_idx": 22,
+                "end_idx": 26,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "finds"
+                ]
+            },
+            {
+                "word": "life ",
+                "start_idx": 140,
+                "end_idx": 145,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "life, such"
+                ]
+            },
+            {
+                "word": "work load",
+                "start_idx": 175,
+                "end_idx": 184,
+                "error": "work that a person is expected to do in a specified time",
+                "error_des": "",
+                "suggetions": [
+                    "workload"
+                ]
+            },
+            {
+                "word": "organization",
+                "start_idx": 507,
+                "end_idx": 519,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the organization"
+                ]
+            },
+            {
+                "word": "common problem",
+                "start_idx": 665,
+                "end_idx": 679,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a common problem"
+                ]
+            },
+            {
+                "word": "extremely longer period",
+                "start_idx": 867,
+                "end_idx": 890,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "extremely long periods",
+                    "extremely long period",
+                    "an extremely long period"
+                ]
+            },
+            {
+                "word": "life",
+                "start_idx": 937,
+                "end_idx": 941,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "live"
+                ]
+            },
+            {
+                "word": "in ",
+                "start_idx": 942,
+                "end_idx": 945,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "in, work"
+                ]
+            },
+            {
+                "word": "office",
+                "start_idx": 1042,
+                "end_idx": 1048,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the office"
+                ]
+            },
+            {
+                "word": "managements",
+                "start_idx": 1141,
+                "end_idx": 1152,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "management"
+                ]
+            },
+            {
+                "word": "PMP tool",
+                "start_idx": 1543,
+                "end_idx": 1551,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a PMP tool"
+                ]
+            },
+            {
+                "word": "lives but",
+                "start_idx": 1750,
+                "end_idx": 1759,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "lives, but"
+                ]
+            },
+            {
+                "word": "other part",
+                "start_idx": 1904,
+                "end_idx": 1914,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "other parts"
+                ]
+            }
+        ]
+    },
+    "submitter": "rajvardhanmpatil",
+    "num_words": 316,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "such",
+            "nevertheless",
+            "then",
+            "however",
+            "in addition",
+            "finally",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 61,
+                        "end_idx": 65
+                    },
+                    {
+                        "start_idx": 161,
+                        "end_idx": 165
+                    },
+                    {
+                        "start_idx": 176,
+                        "end_idx": 180
+                    },
+                    {
+                        "start_idx": 196,
+                        "end_idx": 200
+                    },
+                    {
+                        "start_idx": 298,
+                        "end_idx": 302
+                    },
+                    {
+                        "start_idx": 430,
+                        "end_idx": 434
+                    },
+                    {
+                        "start_idx": 644,
+                        "end_idx": 648
+                    },
+                    {
+                        "start_idx": 694,
+                        "end_idx": 698
+                    },
+                    {
+                        "start_idx": 776,
+                        "end_idx": 780
+                    },
+                    {
+                        "start_idx": 821,
+                        "end_idx": 825
+                    },
+                    {
+                        "start_idx": 859,
+                        "end_idx": 863
+                    },
+                    {
+                        "start_idx": 895,
+                        "end_idx": 899
+                    },
+                    {
+                        "start_idx": 946,
+                        "end_idx": 950
+                    },
+                    {
+                        "start_idx": 984,
+                        "end_idx": 988
+                    },
+                    {
+                        "start_idx": 1126,
+                        "end_idx": 1130
+                    },
+                    {
+                        "start_idx": 1181,
+                        "end_idx": 1185
+                    },
+                    {
+                        "start_idx": 1215,
+                        "end_idx": 1219
+                    },
+                    {
+                        "start_idx": 1479,
+                        "end_idx": 1483
+                    },
+                    {
+                        "start_idx": 1518,
+                        "end_idx": 1522
+                    },
+                    {
+                        "start_idx": 1809,
+                        "end_idx": 1813
+                    },
+                    {
+                        "start_idx": 1896,
+                        "end_idx": 1900
+                    }
+                ]
+            },
+            {
+                "word": "balance",
+                "occurrences": [
+                    {
+                        "start_idx": 40,
+                        "end_idx": 47
+                    },
+                    {
+                        "start_idx": 133,
+                        "end_idx": 140
+                    },
+                    {
+                        "start_idx": 421,
+                        "end_idx": 428
+                    },
+                    {
+                        "start_idx": 1317,
+                        "end_idx": 1324
+                    },
+                    {
+                        "start_idx": 1737,
+                        "end_idx": 1744
+                    },
+                    {
+                        "start_idx": 1888,
+                        "end_idx": 1895
+                    }
+                ]
+            },
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 268,
+                        "end_idx": 272
+                    },
+                    {
+                        "start_idx": 649,
+                        "end_idx": 653
+                    },
+                    {
+                        "start_idx": 1206,
+                        "end_idx": 1210
+                    },
+                    {
+                        "start_idx": 1354,
+                        "end_idx": 1358
+                    },
+                    {
+                        "start_idx": 1438,
+                        "end_idx": 1442
+                    },
+                    {
+                        "start_idx": 1625,
+                        "end_idx": 1629
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 90,
+                        "end_idx": 94
+                    },
+                    {
+                        "start_idx": 141,
+                        "end_idx": 145
+                    },
+                    {
+                        "start_idx": 492,
+                        "end_idx": 496
+                    },
+                    {
+                        "start_idx": 938,
+                        "end_idx": 942
+                    },
+                    {
+                        "start_idx": 1331,
+                        "end_idx": 1335
+                    },
+                    {
+                        "start_idx": 1646,
+                        "end_idx": 1650
+                    },
+                    {
+                        "start_idx": 1919,
+                        "end_idx": 1923
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-05-02T05:33:54.000Z"
+}

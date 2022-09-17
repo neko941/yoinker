@@ -1,0 +1,300 @@
+{
+    "url": "https://writing9.com/text/5e8eadcbfe05da001899acb8",
+    "file": [
+        "data",
+        "5",
+        "5e8eadcbfe05da001899acb8.json"
+    ],
+    "topics": [
+        "tourists",
+        "places",
+        "conditions",
+        "sahara",
+        "desert",
+        "antarctic",
+        "advantage",
+        "tourist",
+        "visits"
+    ],
+    "question": "Today more and more tourists are visiting places where conditions are difficult, such as the Sahara desert or the Antarctic. What are the advantage and disadvantage of tourist who visits such places?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The places which face either excessive hotness or coldness comes in category of extreme weather conditions. Sahara desert and Antarctic region is one of the destinations where in the current situation, more and more people are becoming interested to travel. There are numerous benefits and drawbacks of such trips which are discussed in the upcoming paragraphs.",
+        "Travelling to the difficult weather conditions provide abdundant benefits to people. The first and foremost advantage is the exploration of living of people in those regions. The food, outfits and culture of residents of sich destinations are quite mysterious due to abnormal temperatures. Hence, a visit to these places would be extremely adventurous and informative for tourists. Furthermore, the second most exciting benefit is to enjoy the exceptional beauty of these wonderful places. To expemplify, the capital of Mauritania in the Sahara desert is one of crowd-pleasing destination which provides an outstanding experience of sand houses to people.",
+        "On the other side, visit to these amazing places also creates some challenges to visitors. Firstly, it can cause serious illness. For example, Antarctica is the most coldest region and the people from dry countries can not easily adopt this alteration of weather. Infact in the worst situation, travellers has become extremely sickened there by exposure of cold winds. Inspite this, other problematic situation is the unexpected changes in weather. For instance, many weather bureaucrats has always stated that there is no way of predicting the extreme conditions at such places. So, if there is any kind of sand storm like in the Sahara desert, it would become impossible for tourists to come out from these places and it may be life-threatening situation.",
+        "To conclude, the scenic beauty and exploration of a new culture are the advantages of visiting these destinations but people should also consider its negative sides."
+    ],
+    "errors": {
+        "num_error": "17",
+        "error_list": [
+            {
+                "word": "category",
+                "start_idx": 67,
+                "end_idx": 75,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the category"
+                ]
+            },
+            {
+                "word": "Sahara desert",
+                "start_idx": 107,
+                "end_idx": 120,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "The Sahara desert"
+                ]
+            },
+            {
+                "word": "provide",
+                "start_idx": 408,
+                "end_idx": 415,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "provides"
+                ]
+            },
+            {
+                "word": "abdundant",
+                "start_idx": 416,
+                "end_idx": 425,
+                "error": "present in great quantity",
+                "error_des": "",
+                "suggetions": [
+                    "abundant"
+                ]
+            },
+            {
+                "word": "residents",
+                "start_idx": 569,
+                "end_idx": 578,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the residents"
+                ]
+            },
+            {
+                "word": "sich",
+                "start_idx": 582,
+                "end_idx": 586,
+                "error": "to so extreme a degree",
+                "error_des": "",
+                "suggetions": [
+                    "such"
+                ]
+            },
+            {
+                "word": "expemplify",
+                "start_idx": 854,
+                "end_idx": 864,
+                "error": "be characteristic of",
+                "error_des": "",
+                "suggetions": [
+                    "exemplify"
+                ]
+            },
+            {
+                "word": "the most coldest",
+                "start_idx": 1174,
+                "end_idx": 1190,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the coldest"
+                ]
+            },
+            {
+                "word": "Infact in",
+                "start_idx": 1281,
+                "end_idx": 1290,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "In fact, in",
+                    "In fact in"
+                ]
+            },
+            {
+                "word": "has become",
+                "start_idx": 1323,
+                "end_idx": 1333,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "have become"
+                ]
+            },
+            {
+                "word": "Inspite",
+                "start_idx": 1386,
+                "end_idx": 1393,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "In spite"
+                ]
+            },
+            {
+                "word": "other",
+                "start_idx": 1400,
+                "end_idx": 1405,
+                "error": "any of various alternatives; some other",
+                "error_des": "",
+                "suggetions": [
+                    "another"
+                ]
+            },
+            {
+                "word": "has always stated",
+                "start_idx": 1505,
+                "end_idx": 1522,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "have always stated"
+                ]
+            },
+            {
+                "word": "of sand storm",
+                "start_idx": 1622,
+                "end_idx": 1635,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of a sand storm"
+                ]
+            },
+            {
+                "word": "to come",
+                "start_idx": 1703,
+                "end_idx": 1710,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "come"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 1715,
+                "end_idx": 1719,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "destinations but",
+                "start_idx": 1876,
+                "end_idx": 1892,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "destinations, but"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 303,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "also",
+            "such",
+            "first",
+            "furthermore",
+            "hence",
+            "firstly",
+            "second",
+            "for instance",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "situation",
+                "occurrences": [
+                    {
+                        "start_idx": 191,
+                        "end_idx": 200
+                    },
+                    {
+                        "start_idx": 1302,
+                        "end_idx": 1311
+                    },
+                    {
+                        "start_idx": 1419,
+                        "end_idx": 1428
+                    },
+                    {
+                        "start_idx": 1765,
+                        "end_idx": 1774
+                    }
+                ]
+            },
+            {
+                "word": "weather",
+                "occurrences": [
+                    {
+                        "start_idx": 88,
+                        "end_idx": 95
+                    },
+                    {
+                        "start_idx": 390,
+                        "end_idx": 397
+                    },
+                    {
+                        "start_idx": 1273,
+                        "end_idx": 1280
+                    },
+                    {
+                        "start_idx": 1458,
+                        "end_idx": 1465
+                    },
+                    {
+                        "start_idx": 1486,
+                        "end_idx": 1493
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-04-09T05:08:27.059Z"
+}

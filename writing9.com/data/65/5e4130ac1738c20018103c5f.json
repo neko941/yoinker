@@ -1,0 +1,160 @@
+{
+    "url": "https://writing9.com/text/5e4130ac1738c20018103c5f-a-large-company-in-your-area-has-decided-to-spend",
+    "file": [
+        "data",
+        "65",
+        "5e4130ac1738c20018103c5f.json"
+    ],
+    "topics": [
+        "company",
+        "area",
+        "amount",
+        "money",
+        "sponsor",
+        "children",
+        "sports",
+        "team",
+        "two",
+        "years",
+        "concerts",
+        "feedback",
+        "summarise"
+    ],
+    "question": "A large company in your area has decided to spend a certain amount of money, either to sponsor a local children's sports team for two years, or to pay for two open-air concerts. It has asked for feedback from the general public. \nWrite a letter to the company. In your letter \n\u2022 describe the benefits of sponsoring the sports team\n\u2022 summarise the benefits of paying for the concerts\n\u2022 say how you think the company should spend the money",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 6.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Sir or Madam,",
+        "I am writing to you regarding your recent and amazing social responsibility campaign in the downtown district, as it has grabbed my attention.",
+        "Relevantly, I believe that it is part of my responsibility as a citizen to participate in your survey and highlight why there are benefits for each of the options that you have mentioned in your advertisement.",
+        "Firstly, I believe that sponsoring a sport that depends on a group work is a strong statement for the youth, as it allows them to recognize the positive outcome of cooperation. Moreover, it improves their communication skills.",
+        "On the other hand, I think the there are many benefits of supporting local music events. Specifically, I believe that music is a crucial cultural element that influences and shapes our thinking, mood, and our approach towards life. As well, music has been part of what makes us more capable to endure our daily routine.",
+        "Accordingly, for all the reasons that makes me into music, I truly believe that supporting outdoor musicals, is a good idea to start with in your CSR campaign.",
+        "Thank you.",
+        "Yours Sincerely,",
+        "Mohamed Hawas"
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "a ",
+                "start_idx": 430,
+                "end_idx": 432,
+                "error": "Remove the article",
+                "error_des": "The indefinite article, a, may be redundant when used with the uncountable noun work in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 625,
+                "end_idx": 629,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "makes",
+                "start_idx": 956,
+                "end_idx": 961,
+                "error": "Change the verb form",
+                "error_des": "The singular verb makes does not appear to agree with the plural subject all the reasons. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "make"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1026,
+                "end_idx": 1027,
+                "error": "Remove the comma",
+                "error_des": "The comma may be separating the subject and verb in your sentence. Consider removing it.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "with in",
+                "start_idx": 1051,
+                "end_idx": 1058,
+                "error": "Correct your spelling",
+                "error_des": "The word with in seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "within"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 189,
+    "num_paragraphs": 9,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "accordingly",
+            "firstly",
+            "on the other hand",
+            "moreover"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "music",
+                "occurrences": [
+                    {
+                        "start_idx": 674,
+                        "end_idx": 679
+                    },
+                    {
+                        "start_idx": 717,
+                        "end_idx": 722
+                    },
+                    {
+                        "start_idx": 840,
+                        "end_idx": 845
+                    },
+                    {
+                        "start_idx": 971,
+                        "end_idx": 976
+                    },
+                    {
+                        "start_idx": 1018,
+                        "end_idx": 1023
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T18:57:21.930Z"
+}

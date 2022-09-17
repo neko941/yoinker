@@ -1,0 +1,90 @@
+{
+    "url": "https://writing9.com/text/62b05a99a21aef00182b5779-you-paid-a-refundable-deposit-when-you-rented-an-apartment",
+    "file": [
+        "data",
+        "8",
+        "62b05a99a21aef00182b5779.json"
+    ],
+    "topics": [
+        "deposit",
+        "apartment",
+        "condition",
+        "landlord",
+        "action"
+    ],
+    "question": "You paid a refundable deposit when you rented an apartment. You left the apartment in good condition but the Landlord won't return your deposit.Write a letter to the landlord. In your letterexplain why you are writingask for the return of your depositinform the landlord of possible legal action",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Mr Johnson,",
+        "My name is Artem and I was renting your apartment located near the Sherbrooke metro station. The reason I am writing to you is that I have not received the deposit I made to be able to move in with my cat.",
+        "Initially it was prohibited to have a cat due to the contract restrictions. But we agreed if I made a deposit that covers the cost of repairing the flat, it would be possible to add a pet-friendly option in the contract. Additionally, it was mentioned that the financials will be returned as soon as the lease is over. Unfortunately, it has been already a month since I moved out, but I have not received any money.",
+        "I am sure that there is some misunderstanding. Could you please clarify what is happening with the return? I am afraid I will have to go to court if the money will not be returned in the near future. Please feel free to contact 43838732202 if you have any information.",
+        "Yours faithfully,",
+        "Artem."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "Initially",
+                "start_idx": 222,
+                "end_idx": 231,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase Initially. Consider adding a comma.",
+                "suggetions": [
+                    ",Initially"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 426,
+                "end_idx": 428,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "to"
+                ]
+            }
+        ]
+    },
+    "submitter": "logan.keller",
+    "num_words": 174,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "2",
+        "list_linking_words": [
+            "additionally"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-06-20T11:32:42.599Z"
+}

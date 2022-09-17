@@ -1,0 +1,272 @@
+{
+    "url": "https://writing9.com/text/62b7279fa21aef00182b61e1-people-who-live-in-large-cities-face-a-range-of",
+    "file": [
+        "data",
+        "45",
+        "62b7279fa21aef00182b61e1.json"
+    ],
+    "topics": [
+        "people",
+        "cities",
+        "face",
+        "range",
+        "life"
+    ],
+    "question": "People who live in large cities face a range of problems in their daily life.\nWhat are the main problems people in cities face, and how can these problems be tackled?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Over the last two or three decades, due to the globalization and urbanization, people are being moved to the cities for the best life. However, people in cities must face several problems. This essay will discuss about some of the issues regarding this and solutions explained further.",
+        "To commence with, these days people are being migrated to big cities for better education and job oppurtunities. As a result, vehicles are increasing more then this leads to heavy traffic. To tackle this issue, Government should develop rural and local towns then employment would increase then public might live in their local areas. Moreover, the public sector should implement transportation facilities like metro and subways to control the traffic. One clear example is that, New Delhi implemented metro rails in that area then the most of them are using public transportations as a result traffic congestion is reduced.",
+        "Furthermore, due to the industrialization in urban areas, pollution is increasing enormously. However, to eradicate this issue, individuals should use electric vehicles and bicycles. Moreover, human beings influenced by celebrities so if they promote pollution free vehicles then everybody might live healthier life.  For instance, recently celebrities campaign on the \"Save Nallamala Forest and Stop Uranium\" in the Telengana district hence the Government stopped this activity. Additionally, industries should move to the city outs then air pollution might declined in the towns. Finally, environmental laws should be able to protect cities and foster a healthy lifestyle.",
+        "In conclusion, even though development promotes progress in the country but public and the Government should think about the consequences of over population. To tackle these problems, measurements should be taken individuals to achieve progress and great life."
+    ],
+    "errors": {
+        "num_error": "17",
+        "error_list": [
+            {
+                "word": "the ",
+                "start_idx": 42,
+                "end_idx": 46,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "about ",
+                "start_idx": 212,
+                "end_idx": 218,
+                "error": "Remove the preposition",
+                "error_des": "The preposition about seems unecessary after the verb discuss. Consider removing the preposition.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "solutions",
+                "start_idx": 256,
+                "end_idx": 265,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the solutions"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 383,
+                "end_idx": 383,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want oppurtunities to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "opportunities"
+                ]
+            },
+            {
+                "word": "oppurtunities",
+                "start_idx": 383,
+                "end_idx": 396,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want oppurtunities to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "opportunities"
+                ]
+            },
+            {
+                "word": "then",
+                "start_idx": 575,
+                "end_idx": 579,
+                "error": "Correct your spelling",
+                "error_des": "The word then doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": "metro",
+                "start_idx": 696,
+                "end_idx": 701,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the metro"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 764,
+                "end_idx": 765,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction that. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "influenced",
+                "start_idx": 1116,
+                "end_idx": 1126,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "are influenced"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1161,
+                "end_idx": 1161,
+                "error": "Add a hyphen",
+                "error_des": "It appears that pollution free is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "pollution-free"
+                ]
+            },
+            {
+                "word": "pollution free",
+                "start_idx": 1161,
+                "end_idx": 1175,
+                "error": "Add a hyphen",
+                "error_des": "It seems that pollution free is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "pollution-free"
+                ]
+            },
+            {
+                "word": "healthier",
+                "start_idx": 1211,
+                "end_idx": 1220,
+                "error": "Add an article",
+                "error_des": "The noun phrase healthier life seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a healthier"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 1272,
+                "end_idx": 1274,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "declined",
+                "start_idx": 1469,
+                "end_idx": 1477,
+                "error": "Change the verb form",
+                "error_des": "The verb declined after the modal verb might does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "decline"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1726,
+                "end_idx": 1726,
+                "error": "Correct your spelling",
+                "error_des": "The word over population seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "overpopulation"
+                ]
+            },
+            {
+                "word": "over population",
+                "start_idx": 1726,
+                "end_idx": 1741,
+                "error": "Correct your spelling",
+                "error_des": "The word over population seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "overpopulation"
+                ]
+            },
+            {
+                "word": "individuals",
+                "start_idx": 1798,
+                "end_idx": 1809,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "by individuals"
+                ]
+            }
+        ]
+    },
+    "submitter": "venkysai670",
+    "num_words": 280,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "12",
+        "list_linking_words": [
+            "further",
+            "furthermore",
+            "as a result",
+            "then",
+            "hence",
+            "however",
+            "last",
+            "additionally",
+            "finally",
+            "for instance",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "cities",
+                "occurrences": [
+                    {
+                        "start_idx": 109,
+                        "end_idx": 115
+                    },
+                    {
+                        "start_idx": 154,
+                        "end_idx": 160
+                    },
+                    {
+                        "start_idx": 348,
+                        "end_idx": 354
+                    },
+                    {
+                        "start_idx": 1547,
+                        "end_idx": 1553
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-25T15:28:20.708Z"
+}

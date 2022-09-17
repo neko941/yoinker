@@ -1,0 +1,109 @@
+{
+    "url": "https://writing9.com/text/629f82d0b948af001881c779-you-recently-stayed-at-your-friends-place-to-look-after",
+    "file": [
+        "data",
+        "85",
+        "629f82d0b948af001881c779.json"
+    ],
+    "topics": [
+        "friends",
+        "place",
+        "house",
+        "friend",
+        "accident",
+        "damage"
+    ],
+    "question": "You recently Stayed at your friends Place to look after the house while he/she is away. You accidentally damaged something in his/her house.write a letter to your friendIn your letter You Should :\n\u2022\tDescribe what the accident was\n\u2022\texplain when it happened\n\u2022\tSuggest how the damage can be fixed",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Joey,",
+        "I hope you are fit and fine. I beg your pardon to disturb you in between your trip as I feel it is essential to tell you that I inadvertently broke the door of your store.",
+        "There was a huge storm last Monday and it caused a fault in the electricity supply of your house. After reading your instruction book that you handed over to me before leaving for the trip, I tried to open the door of the store on the first floor for a tool kit. However, the door got stuck and when I pulled with a little force, it fell upon me.",
+        "To be honest, I accidentally damaged the door otherwise I had no intention to break anything. Nonetheless, to mend my mistake, I have talked to a carpenter  and he has given an estimate of $40 to replace the hinges. If you allow then I can call him and can get the damage fixed before you come back.",
+        "I hope to see you soon.",
+        "With love,",
+        "Harry"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "your",
+                "start_idx": 294,
+                "end_idx": 298,
+                "error": "Change the pronoun",
+                "error_des": "It appears that the pronoun your may not fit this context. Consider replacing it with an article.",
+                "suggetions": [
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "Mrjit147",
+    "num_words": 173,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "otherwise",
+            "first",
+            "then",
+            "however",
+            "last",
+            "nonetheless"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "door",
+                "occurrences": [
+                    {
+                        "start_idx": 163,
+                        "end_idx": 167
+                    },
+                    {
+                        "start_idx": 393,
+                        "end_idx": 397
+                    },
+                    {
+                        "start_idx": 459,
+                        "end_idx": 463
+                    },
+                    {
+                        "start_idx": 571,
+                        "end_idx": 575
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-07T16:54:41.685Z"
+}

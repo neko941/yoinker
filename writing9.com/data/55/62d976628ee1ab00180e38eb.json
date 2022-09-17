@@ -1,0 +1,175 @@
+{
+    "url": "https://writing9.com/text/62d976628ee1ab00180e38eb-the-education-you-receive-from-your-family-is-more-important",
+    "file": [
+        "data",
+        "55",
+        "62d976628ee1ab00180e38eb.json"
+    ],
+    "topics": [
+        "education",
+        "school"
+    ],
+    "question": "The education you receive from your family is more important than the education you receive from school. To what extent do you agree with this statement and why? Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Education comes from many places, not just formal schooling. People learn from their family, their friends, the television and personal experience among many other ways. Although these avenues of learning are certainly important, I believe that education within schools is much more important, as it lays the foundations for future achievement and wider success as I shall show. Firstly, formal qualifications which are earned at school are often the entry points to certain careers and jobs. In order to be a lawyer or doctor, you need to do well at school so you can go on to study for professional qualifications. Additionally, many jobs ask for basic qualifications in Maths and English when you apply. Without these qualifications, an individual could become limited in what they can do with their professional lives. In addition to this, school also prepares you for relationships outside your family, which is an important aspect of life. School is a good socialisation tool because a student needs to deal with relationships on many different levels, for example with teachers and school friends, and they also need to deal with threats to happiness such as bullying. Families are important as often children gain their moral outlook and aspirational goals from their parents. Although, children can succeed to a certain extent, without a favourable family setting, it is doubtful whether they could succeed without schooling. In conclusion, there are many beneficial forms of education, however, I believe schooling is more important than education within the family. This is because formal education gives you qualifications and socialisation that the family cannot offer."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "school",
+                "start_idx": 843,
+                "end_idx": 849,
+                "error": "Add an article",
+                "error_des": "The noun phrase school seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the school"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 1293,
+                "end_idx": 1294,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction Although. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "renjithaparappilly1994",
+    "num_words": 264,
+    "num_paragraphs": 1,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "also",
+            "such",
+            "although",
+            "firstly",
+            "additionally",
+            "in addition",
+            "however",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "school",
+                "occurrences": [
+                    {
+                        "start_idx": 50,
+                        "end_idx": 56
+                    },
+                    {
+                        "start_idx": 262,
+                        "end_idx": 268
+                    },
+                    {
+                        "start_idx": 430,
+                        "end_idx": 436
+                    },
+                    {
+                        "start_idx": 551,
+                        "end_idx": 557
+                    },
+                    {
+                        "start_idx": 844,
+                        "end_idx": 850
+                    },
+                    {
+                        "start_idx": 1089,
+                        "end_idx": 1095
+                    },
+                    {
+                        "start_idx": 1424,
+                        "end_idx": 1430
+                    },
+                    {
+                        "start_idx": 1515,
+                        "end_idx": 1521
+                    }
+                ]
+            },
+            {
+                "word": "education",
+                "occurrences": [
+                    {
+                        "start_idx": 245,
+                        "end_idx": 254
+                    },
+                    {
+                        "start_idx": 1485,
+                        "end_idx": 1494
+                    },
+                    {
+                        "start_idx": 1548,
+                        "end_idx": 1557
+                    },
+                    {
+                        "start_idx": 1600,
+                        "end_idx": 1609
+                    }
+                ]
+            },
+            {
+                "word": "qualifications",
+                "occurrences": [
+                    {
+                        "start_idx": 395,
+                        "end_idx": 409
+                    },
+                    {
+                        "start_idx": 601,
+                        "end_idx": 615
+                    },
+                    {
+                        "start_idx": 655,
+                        "end_idx": 669
+                    },
+                    {
+                        "start_idx": 721,
+                        "end_idx": 735
+                    },
+                    {
+                        "start_idx": 1620,
+                        "end_idx": 1634
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-21T15:53:08.372Z"
+}

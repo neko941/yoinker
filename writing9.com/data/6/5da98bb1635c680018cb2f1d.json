@@ -1,0 +1,134 @@
+{
+    "url": "https://writing9.com/text/5da98bb1635c680018cb2f1d",
+    "file": [
+        "data",
+        "6",
+        "5da98bb1635c680018cb2f1d.json"
+    ],
+    "topics": [
+        "time",
+        "population",
+        "countries",
+        "adults",
+        "people",
+        "situation"
+    ],
+    "question": "At the present time, the population of some countries includes a relatively large number of young adults, compared with the number of older people.\nDo the advantages of this situation outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is a well-established idea that nowadays, the majority of the population in some nations consists of younger individuals. There are a number of benefits as well as drawbacks for this situation. However, I believe that the benefits are more significant, and in the following I will make my reasons clear.",
+        "The larger number of youth can ameliorate the country's situation across the world, considering its economy and development. The fresh generation is likely to come up with brilliant, innovative ideas that would lead to great progresses for the nation. As an illustration, they can manufacture one-of-a-kind products, such as environmentally-friendly cars, and earn income for their country through exports. As a result, not only does the country benefits from raised funds but also it owns a better image compared to others. In addition, fewer elderly means less budget should be allocated to the pension and social services. So, the more is invested in a segment of society that is more likely to return profits to the government.",
+        "However, if the government does not have the required infrastructure, it is likely to suffer from enhanced number of young population. The possible benefits are tightly related to the provision of facilities to support the talented people. As an illustration, if the industries are dealing with economic crisis, they will be urged to downsize, if not be closed. As a result, the dearth of job opportunities will exert a profound negative impact on the future of the country. For instance, it will be exposed to brain-drain, as a result of massive immigration of youth in pursue of occupations in other countries.",
+        "In conclusion, although there should be some rudimentary resources to cultivate the young people in the country, it can considerably benefit from young people toward achieving a better economic condition."
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "raised",
+                "start_idx": 766,
+                "end_idx": 772,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "raising"
+                ]
+            },
+            {
+                "word": "enhanced number",
+                "start_idx": 1136,
+                "end_idx": 1151,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an enhanced number"
+                ]
+            },
+            {
+                "word": "economic crisis",
+                "start_idx": 1333,
+                "end_idx": 1348,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the economic crisis"
+                ]
+            }
+        ]
+    },
+    "submitter": "sahar.rezapour94",
+    "num_words": 299,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "also",
+            "such",
+            "although",
+            "as a result",
+            "however",
+            "in addition",
+            "that is",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "country",
+                "occurrences": [
+                    {
+                        "start_idx": 353,
+                        "end_idx": 360
+                    },
+                    {
+                        "start_idx": 689,
+                        "end_idx": 696
+                    },
+                    {
+                        "start_idx": 745,
+                        "end_idx": 752
+                    },
+                    {
+                        "start_idx": 1505,
+                        "end_idx": 1512
+                    },
+                    {
+                        "start_idx": 1756,
+                        "end_idx": 1763
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-18T09:53:53.846Z"
+}

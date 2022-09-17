@@ -1,0 +1,259 @@
+{
+    "url": "https://writing9.com/text/61152e2ba60e59001823b028-unmanned-vehicles-will-become-more-and-more-popular-in-the",
+    "file": [
+        "data",
+        "5",
+        "61152e2ba60e59001823b028.json"
+    ],
+    "topics": [
+        "vehicles",
+        "future",
+        "passengers",
+        "robot",
+        "cars",
+        "surpass"
+    ],
+    "question": "Unmanned vehicles will become more and more popular in the future. Passengers travelling inside these robot cars will be only human.Do you think the benefits of these surpass the drawbacks?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 7.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Self-driving transportations will become more and more common in the future. Travellers driving these robot cars will be only human. They might have some benefits, advantages or maybe anything you can\u2019t even imagine yet.",
+        "Firstly, unmanned vehicles can be very useful. People don\u2019t know how to drive will go from place to place a lot easier. People with any kind of problems such as sick, tired or even disabled, injured can use those vehicles perfectly as anyone else. It might help someone alone in areas without any other human around. It\u2019s hard to imagine all the possible abilities of this future technology.",
+        "Secondly, on the contrary, we might not be able to control this kind of technology so soon in the future. In the progess there might be some malfunctions. What if they don\u2019t do as what we said, what if someone else take advantage from our own vehicles to hurt us? There will be gaps in perfecting the technology to be safe, effective for their customers and i hope bad things are not going to be there very much.",
+        "Thirdly , what if i say that self-driving gives people the right to be lazy, they don\u2019t have to learn to drive at all and they can still drive just as anyone else. And maybe other traditional things will also be replaced with more and more mordern technologies just like this? Well it is a good thing but there will also be something not so pleasant.",
+        "In conclusion, technologies growing everyday surely have been will be something better for our life, even though there might be risk too but who knows how this will turn out. We should be capable to changes for the best of ours and the society\u2019s."
+    ],
+    "errors": {
+        "num_error": "18",
+        "error_list": [
+            {
+                "word": "don\u2019t",
+                "start_idx": 274,
+                "end_idx": 279,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "who don\u2019t"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 725,
+                "end_idx": 725,
+                "error": "Correct your spelling",
+                "error_des": "The word progess is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "process",
+                    "progress"
+                ]
+            },
+            {
+                "word": "progess",
+                "start_idx": 725,
+                "end_idx": 732,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase In the progess. Consider adding a comma.",
+                "suggetions": [
+                    ",progess"
+                ]
+            },
+            {
+                "word": "as ",
+                "start_idx": 789,
+                "end_idx": 792,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "what ",
+                "start_idx": 792,
+                "end_idx": 797,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "take",
+                "start_idx": 827,
+                "end_idx": 831,
+                "error": "Change the verb form",
+                "error_des": "It appears that the indefinite pronoun someone does not agree with the verb take in your sentence. Consider changing the form of the verb.",
+                "suggetions": [
+                    "takes"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 842,
+                "end_idx": 846,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 970,
+                "end_idx": 971,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 1043,
+                "end_idx": 1044,
+                "error": "Change the capitalization",
+                "error_des": "The pronoun I should always be capitalized.",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "as",
+                "start_idx": 1173,
+                "end_idx": 1175,
+                "error": "Replace the word",
+                "error_des": "You may be confusing the words like and as with each other. Consider replacing one with the other.",
+                "suggetions": [
+                    "like"
+                ]
+            },
+            {
+                "word": "mordern",
+                "start_idx": 1265,
+                "end_idx": 1272,
+                "error": "Correct your spelling",
+                "error_des": "The word mordern is not in our dictionary. If you\u2019re sure this spelling is correct, you can add it to your personal dictionary to prevent future alerts.",
+                "suggetions": [
+                    "modern"
+                ]
+            },
+            {
+                "word": "Well",
+                "start_idx": 1302,
+                "end_idx": 1306,
+                "error": "Add the punctuation",
+                "error_des": "It appears that you are missing a punctuation mark after the interjection Well. Consider adding a comma.",
+                "suggetions": [
+                    ",Well"
+                ]
+            },
+            {
+                "word": "everyday",
+                "start_idx": 1412,
+                "end_idx": 1420,
+                "error": "Replace the word",
+                "error_des": "The word everyday may be used incorrectly. Review the following notes to determine the appropriate usage for your context.",
+                "suggetions": [
+                    "every day"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1504,
+                "end_idx": 1504,
+                "error": "Add an article",
+                "error_des": "The noun phrase risk seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a risk"
+                ]
+            },
+            {
+                "word": "risk",
+                "start_idx": 1504,
+                "end_idx": 1508,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that risk may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "risks"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1572,
+                "end_idx": 1574,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1608,
+                "end_idx": 1612,
+                "error": "Correct article usage",
+                "error_des": "It seems that article use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "society\u2019s",
+                "start_idx": 1612,
+                "end_idx": 1621,
+                "error": "Change the noun form",
+                "error_des": "It appears that the noun society\u2019s should not be in the possessive form. Consider changing it to the non-possessive singular or plural form.",
+                "suggetions": [
+                    "societies",
+                    "society"
+                ]
+            }
+        ]
+    },
+    "submitter": "doibichhoa",
+    "num_words": 290,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "secondly",
+            "also",
+            "such",
+            "on the contrary",
+            "firstly",
+            "thirdly",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2021-08-12T14:41:16.844Z"
+}

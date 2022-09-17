@@ -1,0 +1,344 @@
+{
+    "url": "https://writing9.com/text/5d0df0fb6cc3890017eccb19",
+    "file": [
+        "data",
+        "5",
+        "5d0df0fb6cc3890017eccb19.json"
+    ],
+    "topics": [
+        "television",
+        "children",
+        "support"
+    ],
+    "question": "Do you agree or disagree with the following statement? Watching television is bad for children. Use specific details and examples to support your answer",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Today , everyone in modern era has television in their homes. Some people belive that watching television is bad for their kidshealth. So, they restrict their adolescence from watching tv. But others disagree with it. According to my view, television play pivotal role in infants development. In this essay, i will discuss both side of the arguments and represent my opinion.",
+        "First of all, television helps a child to extent his or her range of interests. Children can find out many new things and make many exiting discoveries for themselves. In addition to these practical benefits television improves children's vocabulary, their memory and gives them the opportunity to gain more knowledge. I think it is very essential for a child. Of cause, someone can say that there are plenty of different recourses of information such as books and teachers. But, I think, in our modern world children must learn faster and use all contemporary technology in order to succeed.",
+        "Second of all, watching cognitive programs helps children to learn more about wild life, our environment and about the importance of preserving our forest and wild animals that live there.",
+        "Scientists say that a child should not watch TV more then 40 minutes successively. For example, my mother always made us have a break after watching TV more then half an hour and let our eyes rest for several minutes before turning on the TV again. I think it is the best solution.",
+        "To sum up, I believe that television gives children and all people the opportunity to learn what can not be learn from books. Television and movies in particular allow people to feel the reality and see what they will most likely not be able to see in their lives. Personally, when I was a child I liked to watch cognitive programs about wild animals. Unfortunately, my family had only one TV, but these programs were the only ones we all wanted to watch. So, we gathered in our living room and watched them in complete silence and I always remember those moments with a smile on my face."
+    ],
+    "errors": {
+        "num_error": "19",
+        "error_list": [
+            {
+                "word": " ,",
+                "start_idx": 5,
+                "end_idx": 7,
+                "error": "Accept space",
+                "error_des": "",
+                "suggetions": [
+                    ","
+                ]
+            },
+            {
+                "word": "modern era",
+                "start_idx": 19,
+                "end_idx": 29,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the modern era"
+                ]
+            },
+            {
+                "word": "television",
+                "start_idx": 34,
+                "end_idx": 44,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a television"
+                ]
+            },
+            {
+                "word": "homes",
+                "start_idx": 54,
+                "end_idx": 59,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "home"
+                ]
+            },
+            {
+                "word": "belive",
+                "start_idx": 73,
+                "end_idx": 79,
+                "error": "accept as true; take to be true",
+                "error_des": "",
+                "suggetions": [
+                    "believe",
+                    "believed"
+                ]
+            },
+            {
+                "word": "kidshealth",
+                "start_idx": 122,
+                "end_idx": 132,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "kids' health",
+                    "kids health"
+                ]
+            },
+            {
+                "word": "infants",
+                "start_idx": 271,
+                "end_idx": 278,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "infant",
+                    "infant's",
+                    "infants'"
+                ]
+            },
+            {
+                "word": "i",
+                "start_idx": 307,
+                "end_idx": 308,
+                "error": "refers to the speaker or writer",
+                "error_des": "",
+                "suggetions": [
+                    "I"
+                ]
+            },
+            {
+                "word": "side",
+                "start_idx": 327,
+                "end_idx": 331,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "sides"
+                ]
+            },
+            {
+                "word": "extent",
+                "start_idx": 417,
+                "end_idx": 423,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "extend"
+                ]
+            },
+            {
+                "word": "exiting",
+                "start_idx": 507,
+                "end_idx": 514,
+                "error": "creating or arousing excitement",
+                "error_des": "",
+                "suggetions": [
+                    "exciting"
+                ]
+            },
+            {
+                "word": "cause",
+                "start_idx": 739,
+                "end_idx": 744,
+                "error": "education imparted in a series of lessons or meetings",
+                "error_des": "",
+                "suggetions": [
+                    "course"
+                ]
+            },
+            {
+                "word": "wild life",
+                "start_idx": 1046,
+                "end_idx": 1055,
+                "error": "all living things (except people) that are undomesticated",
+                "error_des": "",
+                "suggetions": [
+                    "wildlife"
+                ]
+            },
+            {
+                "word": "forest",
+                "start_idx": 1116,
+                "end_idx": 1122,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "forests"
+                ]
+            },
+            {
+                "word": "then",
+                "start_idx": 1210,
+                "end_idx": 1214,
+                "error": "conjunction used in comparatives",
+                "error_des": "",
+                "suggetions": [
+                    "than"
+                ]
+            },
+            {
+                "word": "then",
+                "start_idx": 1314,
+                "end_idx": 1318,
+                "error": "conjunction used in comparatives",
+                "error_des": "",
+                "suggetions": [
+                    "than"
+                ]
+            },
+            {
+                "word": "can not",
+                "start_idx": 1536,
+                "end_idx": 1543,
+                "error": "can not",
+                "error_des": "",
+                "suggetions": [
+                    "cannot"
+                ]
+            },
+            {
+                "word": "learn",
+                "start_idx": 1547,
+                "end_idx": 1552,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "learned"
+                ]
+            },
+            {
+                "word": "child I",
+                "start_idx": 1729,
+                "end_idx": 1736,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "child, I"
+                ]
+            }
+        ]
+    },
+    "submitter": "anushaari054",
+    "num_words": 350,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "in particular",
+            "such",
+            "first",
+            "in addition",
+            "second",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "child",
+                "occurrences": [
+                    {
+                        "start_idx": 409,
+                        "end_idx": 414
+                    },
+                    {
+                        "start_idx": 604,
+                        "end_idx": 609
+                    },
+                    {
+                        "start_idx": 730,
+                        "end_idx": 735
+                    },
+                    {
+                        "start_idx": 885,
+                        "end_idx": 890
+                    },
+                    {
+                        "start_idx": 1018,
+                        "end_idx": 1023
+                    },
+                    {
+                        "start_idx": 1180,
+                        "end_idx": 1185
+                    },
+                    {
+                        "start_idx": 1483,
+                        "end_idx": 1488
+                    },
+                    {
+                        "start_idx": 1730,
+                        "end_idx": 1735
+                    }
+                ]
+            },
+            {
+                "word": "television",
+                "occurrences": [
+                    {
+                        "start_idx": 35,
+                        "end_idx": 45
+                    },
+                    {
+                        "start_idx": 95,
+                        "end_idx": 105
+                    },
+                    {
+                        "start_idx": 240,
+                        "end_idx": 250
+                    },
+                    {
+                        "start_idx": 390,
+                        "end_idx": 400
+                    },
+                    {
+                        "start_idx": 584,
+                        "end_idx": 594
+                    },
+                    {
+                        "start_idx": 1466,
+                        "end_idx": 1476
+                    }
+                ]
+            },
+            {
+                "word": "tv",
+                "occurrences": [
+                    {
+                        "start_idx": 185,
+                        "end_idx": 187
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-06-22T09:12:27.000Z"
+}

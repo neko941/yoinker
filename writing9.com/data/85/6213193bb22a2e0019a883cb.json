@@ -1,0 +1,120 @@
+{
+    "url": "https://writing9.com/text/6213193bb22a2e0019a883cb-your-share-your-room-with-another-student-in-the-college",
+    "file": [
+        "data",
+        "85",
+        "6213193bb22a2e0019a883cb.json"
+    ],
+    "topics": [
+        "room",
+        "student",
+        "college",
+        "hostel",
+        "study",
+        "parties",
+        "friends",
+        "warden",
+        "displeasure",
+        "mate"
+    ],
+    "question": "Your share your room with another student in the college hostel. You find it very difficult to study there because he or she always has parties and friends visiting. Write a letter to the hostel warden complaining about your displeasure with the room mate.",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear sir or madam,",
+        "My name is Abhay, living in the new boys' hostel, room no:148. The purpose of writing this letter is to express sheer annoyance regarding irresponsible behaviour from my roommate, Harshal. For the last 2 months, he is organising parties on each alternate day in the hostel room.",
+        "During the parties, he invites most of his friends from outside of the hostel which is not permitted as per hostel rules and regulations. Firstly, I thought it will be ended in a few days but to my bitter ,surprise it is increasing day by day furthermore his outsider friends speak vulgar language and also plays the music at a high sound, subsequently it affects  my studies and sleeping pattern too.",
+        "Therefore, for the purpose of reducing this, I want to request you kindly take the appropriate action against him in the upcoming week. If you not taking this, then I have to leave the hostel immediately as semester exams are in next month. I don\u2019t want to lower my grades because of others.",
+        "Thanks in advance and looking to hearing from you.",
+        "Regards,",
+        "Abhay"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": " ",
+                "start_idx": 579,
+                "end_idx": 580,
+                "error": "Add an article",
+                "error_des": "The noun phrase vulgar language seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the"
+                ]
+            }
+        ]
+    },
+    "submitter": "akshay.thakare2804",
+    "num_words": 186,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "9",
+        "list_linking_words": [
+            "also",
+            "furthermore",
+            "then",
+            "firstly",
+            "last",
+            "subsequently",
+            "therefore",
+            "next",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "hostel",
+                "occurrences": [
+                    {
+                        "start_idx": 61,
+                        "end_idx": 67
+                    },
+                    {
+                        "start_idx": 285,
+                        "end_idx": 291
+                    },
+                    {
+                        "start_idx": 369,
+                        "end_idx": 375
+                    },
+                    {
+                        "start_idx": 406,
+                        "end_idx": 412
+                    },
+                    {
+                        "start_idx": 885,
+                        "end_idx": 891
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-02-21T05:01:05.888Z"
+}

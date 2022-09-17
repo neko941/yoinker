@@ -1,0 +1,111 @@
+{
+    "url": "https://writing9.com/text/62d82aff8ee1ab00180e36e0-people-today-can-use-the-internet-to-learn-about-lives",
+    "file": [
+        "data",
+        "8",
+        "62d82aff8ee1ab00180e36e0.json"
+    ],
+    "topics": [
+        "people",
+        "internet",
+        "lives",
+        "cultures",
+        "countries",
+        "travel"
+    ],
+    "question": "People today can use the internet to learn about lives and cultures in other countries, so it is not necessary to travel anymore. Do you agree?",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 7.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, the internet has a huge impact on gathering information. Travellers don't have to fly to a certain country, instead they can browse online about trademarks and living hood on another side of the world.",
+        "First, travelling requires a big amount of money, time, and effort. For example, to go to the United States, from Indonesia, takes a 12 hours flight. The currency in the United States is also 14 times higher. With the internet, data travels faster than aeroplanes. Pictures, videos, and information about a country can be found in seconds. All it needs is data to run the website, and nowadays data is much cheaper than aeroplane tickets or hotels.",
+        "In contrast, there are some things that cannot be found online. There are countries that are famous for their physical things and some people would rather spend more money to experience the live features of a country than sitting in front of a computer. For instance, Italy is famous for its foods, such as pasta, pizza, gelato, etc. People can find how to cook those meals, but cannot eat them from their origin country. Australia has some one-of-a-kind animals. Interaction via the internet is impossible. Those kinds of things state the differences between browsing and travelling.",
+        "In conclusion, there are some benefits and non-benefits between travelling and browsing online. In my opinion, I disagree with the unnecessary of travelling. Enjoying their trademark is another level of happiness and being in a different country is an experience that no website can interpret."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "instead",
+                "start_idx": 117,
+                "end_idx": 124,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase instead. Consider adding a comma.",
+                "suggetions": [
+                    ",instead"
+                ]
+            }
+        ]
+    },
+    "submitter": "cgarantfw",
+    "num_words": 253,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "also",
+            "such",
+            "in contrast",
+            "first",
+            "for instance",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "country",
+                "occurrences": [
+                    {
+                        "start_idx": 109,
+                        "end_idx": 116
+                    },
+                    {
+                        "start_idx": 519,
+                        "end_idx": 526
+                    },
+                    {
+                        "start_idx": 870,
+                        "end_idx": 877
+                    },
+                    {
+                        "start_idx": 1074,
+                        "end_idx": 1081
+                    },
+                    {
+                        "start_idx": 1484,
+                        "end_idx": 1491
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-20T16:25:47.069Z"
+}

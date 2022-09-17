@@ -1,0 +1,112 @@
+{
+    "url": "https://writing9.com/text/5e4a0bf11738c200181052c6",
+    "file": [
+        "data",
+        "45",
+        "5e4a0bf11738c200181052c6.json"
+    ],
+    "topics": [
+        "people",
+        "animals",
+        "zoos"
+    ],
+    "question": "Some people believe that it is wrong to keep animals in zoos, while others think that zoos are both entertaining and ecologically important. Discuss both views.",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Objective: To practice planning a meeting using the techniques from the course. You can choose your own meeting agenda.",
+        "Agenda: To launch a new health monitoring product specifically catering to consumers over 60 years of age. In addition to the current product portfolio of the company.",
+        "1) The first step in the planning process should be to determine the individuals (stakeholders) attending the meeting.",
+        "Determine the stakeholders attending the meeting.",
+        "2) Then the stakeholders need to understand the data.",
+        "Reach out to the stakeholder and get information about their expectation or information needed by them to make a decision.",
+        "Address concerns like previous failures with the launch of similar product 10 years ago. Provide details about how it is different and the risk management strategy.",
+        "Explain it from the stakeholder perspective. For example, for financial department head provide details on how and how much it is going to bring in additional revenue.",
+        "3) Use the decision tree to show all possible decisions that the stakeholders need to take with the consequences, cost and benefits.",
+        "Decision tree with conditions on potential revenue growth if the feature was included the next quarter.",
+        "4) Explain clearly how it affects the bottom line.",
+        "5) Come up with anecdotes and stories to relate to the presentation.",
+        "6) Gather details about how the risk will be identified, analyzed and managed."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "alyzed a",
+                "start_idx": 1383,
+                "end_idx": 1391,
+                "error": "examined carefully and methodically; broken down for consideration of constituent parts",
+                "error_des": "",
+                "suggetions": [
+                    "analysed"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 224,
+    "num_paragraphs": 13,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "first",
+            "then",
+            "next",
+            "in addition",
+            "for example"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "stakeholders",
+                "occurrences": [
+                    {
+                        "start_idx": 370,
+                        "end_idx": 382
+                    },
+                    {
+                        "start_idx": 421,
+                        "end_idx": 433
+                    },
+                    {
+                        "start_idx": 469,
+                        "end_idx": 481
+                    },
+                    {
+                        "start_idx": 1032,
+                        "end_idx": 1044
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-17T03:43:45.323Z"
+}

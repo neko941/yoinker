@@ -1,0 +1,191 @@
+{
+    "url": "https://writing9.com/text/5dbec842ed6fd80018112aa8",
+    "file": [
+        "data",
+        "4",
+        "5dbec842ed6fd80018112aa8.json"
+    ],
+    "topics": [
+        "countries",
+        "places",
+        "people",
+        "government",
+        "ban"
+    ],
+    "question": "Many countries have now banned smoking in public places. Some people feel that government should ban smoking entirely. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 4.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 4.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 4.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It has been known that there is huge correlation of smoking to lung cancer and most cardio-pulmonary diseases in the human body. The nicotine and tar, among which are the main hazardous components of each cigarette sticks, that one can get when the fumes are inhaled, are the ones responsible for the harmful effects, as these are toxic to the body. Even if these facts are made aware to the public with all the health-related advertisements and gentle reminders, people still have the choice to continue smoking, given that these products are just readily available for purchase in most retail stores.",
+        "Moreover, in the scope of environmental issues, the people are made aware of the damages inflicted by the tobacco industry go far beyond the effects of the smokes that cigarettes put into the air as when they are inhaled in the body. The industry itself and the production of them, accounts for the deforestation, climate change, cigarette butt litters and wildfires, which all have damaging impact to nature. They create environment hazards beginning from the use of pesticides, fertilizers, toxic chemicals that depletes the soil of its nutrients. Added to the list is that tobacco cultivation and farming balded our forests leading to hotter climate or global warming. The trash created by cigarette butts is also destroying our oceans and poisoning our marine animals.",
+        "In conclusion, a day would not be enough to discuss why smoking should be banned entirely. And it is just right when sometimes, the government will put the reins in it's own hands and induce measures in putting a stop to smoking by banning it entirely. This way, mortality rates from smoking-related illnesses will be significantly reduced and the environments will be much more conducive and healthier place for all it's inhabitants to live in as well as for the next generation of human race to come."
+    ],
+    "errors": {
+        "num_error": "12",
+        "error_list": [
+            {
+                "word": "huge correlation",
+                "start_idx": 31,
+                "end_idx": 47,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a huge correlation"
+                ]
+            },
+            {
+                "word": "cardio-pulmonary",
+                "start_idx": 83,
+                "end_idx": 99,
+                "error": "of or pertaining to or affecting both the heart and the lungs and their functions",
+                "error_des": "",
+                "suggetions": [
+                    "cardiopulmonary"
+                ]
+            },
+            {
+                "word": "sticks",
+                "start_idx": 214,
+                "end_idx": 220,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "stick"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 384,
+                "end_idx": 386,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "damaging impact",
+                "start_idx": 985,
+                "end_idx": 1000,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a damaging impact"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1001,
+                "end_idx": 1003,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "from",
+                "start_idx": 1054,
+                "end_idx": 1058,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "of"
+                ]
+            },
+            {
+                "word": "to hotter climate",
+                "start_idx": 1237,
+                "end_idx": 1254,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "to a hotter climate"
+                ]
+            },
+            {
+                "word": "it's",
+                "start_idx": 1540,
+                "end_idx": 1544,
+                "error": "of a thing, of it; possessive form of \"it\"",
+                "error_des": "",
+                "suggetions": [
+                    "its"
+                ]
+            },
+            {
+                "word": "it's",
+                "start_idx": 1792,
+                "end_idx": 1796,
+                "error": "of a thing, of it; possessive form of \"it\"",
+                "error_des": "",
+                "suggetions": [
+                    "its"
+                ]
+            },
+            {
+                "word": "to live",
+                "start_idx": 1809,
+                "end_idx": 1816,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "live"
+                ]
+            },
+            {
+                "word": "human race",
+                "start_idx": 1858,
+                "end_idx": 1868,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the human race"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 312,
+    "num_paragraphs": 3,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "also",
+            "next",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2019-11-03T12:29:54.286Z"
+}

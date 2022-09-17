@@ -1,0 +1,253 @@
+{
+    "url": "https://writing9.com/text/5d56feaa8482ba0017ec9b49",
+    "file": [
+        "data",
+        "5",
+        "5d56feaa8482ba0017ec9b49.json"
+    ],
+    "topics": [
+        "countries",
+        "people",
+        "newspapers",
+        "news",
+        "tv"
+    ],
+    "question": "In many countries, very few young people read newspapers or follow the news on TV. What do you think are the causes of this? What solutions can you suggest?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 5.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 5.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In the last ten years, news broadcasts on television are loosing rating. This trend, unfortunately, is happening also among the written journalism, and many news paper are closing down. The main reason for that, is that young people do not follow traditional media it as they did previously. There are several reasons why these changes are happening, and many journalists are trying to find solutions in order to change it.",
+        "The main reason, probably, why young people are not watching the news on television, or reading it on the newspaper, is based on the fact that with the introduction of smart phones and online data,  people are receiving their news from another source. There are many websites, such as Instagram, Facebook and Youtube for example, which provide fast and accurate news online. As a result, traditional news became irrelevant, and so people are not watching it any more.",
+        "Another reason, why people are watching the new less and less, reside in the fact, that most of the journalists on television are relatively old and formal, which appeals less to the young energetic croud. Even though young people are interested in the news, they want it presented in a non-formal way, using everyday words and phrases. As an example, one of the most watched Youtube channels in Israel, is maintained  by a young journalists who sits with his daily clothes, and interview politicians in his house in Tel Aviv.",
+        "Despite the above mentioned, I do think that traditional journalism can changed, and become relevant again. In order for this to happen, the media must addapt to the young and fast environment. For example, news papers should invest substantially more on their online version, rather than the printed news. Also, television news must become less formal, and incorporate young journalists and articles directed to the young population, so that people can relate. Last, presented articles should be changed focused more on in depth reviews, which can not be produced through online websited.",
+        "In conclusion, new media have affected the amount of people who consume traditional news. This is mostly due to the fact, that young people are gathering information from other sources online. In order to change the tide, news broadcasts must adapt and become less formal and more attractive to the young croud. Thie is the only ways to save the traditional journalism."
+    ],
+    "errors": {
+        "num_error": "15",
+        "error_list": [
+            {
+                "word": "news paper",
+                "start_idx": 156,
+                "end_idx": 166,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "news papers",
+                    "newspaper"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 522,
+                "end_idx": 524,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "Youtube ",
+                "start_idx": 732,
+                "end_idx": 740,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "YouTube, for",
+                    "YouTube for"
+                ]
+            },
+            {
+                "word": "the young",
+                "start_idx": 1070,
+                "end_idx": 1079,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the younger"
+                ]
+            },
+            {
+                "word": "croud",
+                "start_idx": 1090,
+                "end_idx": 1095,
+                "error": "a large number of things or people considered together",
+                "error_des": "",
+                "suggetions": [
+                    "crowd",
+                    "crowds"
+                ]
+            },
+            {
+                "word": "Youtube",
+                "start_idx": 1267,
+                "end_idx": 1274,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "YouTube"
+                ]
+            },
+            {
+                "word": "journalists",
+                "start_idx": 1321,
+                "end_idx": 1332,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "journalist"
+                ]
+            },
+            {
+                "word": "can changed",
+                "start_idx": 1486,
+                "end_idx": 1497,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "can change"
+                ]
+            },
+            {
+                "word": "addapt",
+                "start_idx": 1570,
+                "end_idx": 1576,
+                "error": "make fit for, or change to suit a new purpose",
+                "error_des": "",
+                "suggetions": [
+                    "adapt",
+                    "adapted"
+                ]
+            },
+            {
+                "word": "news papers",
+                "start_idx": 1625,
+                "end_idx": 1636,
+                "error": "a daily or weekly publication on folded sheets; contains news and articles and advertisements",
+                "error_des": "",
+                "suggetions": [
+                    "newspapers"
+                ]
+            },
+            {
+                "word": "the young",
+                "start_idx": 1831,
+                "end_idx": 1840,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the younger"
+                ]
+            },
+            {
+                "word": "can not",
+                "start_idx": 1963,
+                "end_idx": 1970,
+                "error": "can not",
+                "error_des": "",
+                "suggetions": [
+                    "cannot"
+                ]
+            },
+            {
+                "word": "websited",
+                "start_idx": 1998,
+                "end_idx": 2006,
+                "error": "a computer connected to the internet that maintains a series of web pages on the World Wide Web",
+                "error_des": "",
+                "suggetions": [
+                    "websites"
+                ]
+            },
+            {
+                "word": "croud",
+                "start_idx": 2313,
+                "end_idx": 2318,
+                "error": "a large number of things or people considered together",
+                "error_des": "",
+                "suggetions": [
+                    "crowd"
+                ]
+            },
+            {
+                "word": "Thie",
+                "start_idx": 2320,
+                "end_idx": 2324,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "This",
+                    "Thea",
+                    "That"
+                ]
+            }
+        ]
+    },
+    "submitter": "chilafp",
+    "num_words": 392,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "also",
+            "such",
+            "as a result",
+            "last",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "television",
+                "occurrences": [
+                    {
+                        "start_idx": 42,
+                        "end_idx": 52
+                    },
+                    {
+                        "start_idx": 497,
+                        "end_idx": 507
+                    },
+                    {
+                        "start_idx": 1007,
+                        "end_idx": 1017
+                    },
+                    {
+                        "start_idx": 1732,
+                        "end_idx": 1742
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-08-16T19:06:18.981Z"
+}

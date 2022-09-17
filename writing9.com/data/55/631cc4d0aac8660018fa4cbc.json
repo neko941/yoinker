@@ -1,0 +1,526 @@
+{
+    "url": "https://writing9.com/text/631cc4d0aac8660018fa4cbc-whether-or-not-a-person-achieves-their-aims-in-life",
+    "file": [
+        "data",
+        "55",
+        "631cc4d0aac8660018fa4cbc.json"
+    ],
+    "topics": [
+        "person",
+        "life",
+        "luck"
+    ],
+    "question": "Whether or not a person achieves their aims in life is mostly related to luck. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 4.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "A plethora of folks believe that individual\u2019s achievements are mostly related to the fortune. I am firmly opposite to that statement due to two main considerations, such as hard work and skills. This essay will shed light on both reasons to get better apprehending.",
+        "The foremost reason is toil or hard work . It is apparent that most succesfull individuals bravely begin working step -by-step to pursue their aspirations. Even, the barriers and risks that they face in each stages are only comprehended as the part of process to be the great person in the future by leveraging self-analysis of the difficulties and weaknesses to be challenges while the strenght and the opportunity to be advantages. So as, they can stabilize their motivation to be success even they have to sacrifice much at the first time. Taking Steve Jobs, the founder of Apple Inc,  as the example. When the first established the company, he faced many rejections to get funds from the investors and banks. Even, he was regarded as the crazy due to their strange ideas at that time. However, he still maintained his motivation although the money was the barriers. Subsequently, he tried to invite and cooperate with his peers to get along establishing the one of greatest inventions such as Iphone and Ipod.",
+        "Another reason is skills. This element is salient instead of merely depending on luck. Although those were separated into two sides (hard skill and soft skill). However, both of them can support each eather depending on the area and situation. For instance, the most notable player on football such as Cristiano Ronaldo and Lionel Messi will not get the thriumph of Ballon de \u2018or if they do not have skills on playing soccer. Compared to, Einstein who has been admitted as one great scientist in modern age with his concept of relativity. Those awards will not be received without the skills whether the skills related to physical strenght or brain capabilities.",
+        "To conclude, individual\u2019s accomplishments are not always in regard to the fortune. Hard work and skills are two substansial elements which support people to succeed on their lives."
+    ],
+    "errors": {
+        "num_error": "42",
+        "error_list": [
+            {
+                "word": "believe",
+                "start_idx": 19,
+                "end_idx": 26,
+                "error": "Change the verb form",
+                "error_des": "The plural verb believe does not appear to agree with the singular subject plethora. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "believes"
+                ]
+            },
+            {
+                "word": "individual\u2019s",
+                "start_idx": 32,
+                "end_idx": 44,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "an individual\u2019s"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 80,
+                "end_idx": 84,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "opposite",
+                "start_idx": 105,
+                "end_idx": 113,
+                "error": "Replace the word",
+                "error_des": "The word opposite doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "opposed"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 333,
+                "end_idx": 333,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want succesfull to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "successful"
+                ]
+            },
+            {
+                "word": "succesfull",
+                "start_idx": 333,
+                "end_idx": 343,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want succesfull to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "successful"
+                ]
+            },
+            {
+                "word": "step -by-step",
+                "start_idx": 378,
+                "end_idx": 391,
+                "error": "Add a hyphen",
+                "error_des": "It appears that step by-step is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "step-by-step"
+                ]
+            },
+            {
+                "word": "stages",
+                "start_idx": 473,
+                "end_idx": 479,
+                "error": "Change to a singular noun",
+                "error_des": "The singular quantifier each is followed by the plural noun stages. Consider changing the noun to the singular or using a different quantifier.",
+                "suggetions": [
+                    "stage"
+                ]
+            },
+            {
+                "word": "process",
+                "start_idx": 517,
+                "end_idx": 524,
+                "error": "Add an article",
+                "error_des": "The noun phrase process seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the process",
+                    "a process"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 531,
+                "end_idx": 534,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "be challenges",
+                "start_idx": 628,
+                "end_idx": 641,
+                "error": "Change the verb form",
+                "error_des": "It appears that the form of the verb challenges does not work with be in this sentence.",
+                "suggetions": [
+                    "be challenged",
+                    "be challenging"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 652,
+                "end_idx": 652,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want strenght to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "strength"
+                ]
+            },
+            {
+                "word": "strenght",
+                "start_idx": 652,
+                "end_idx": 660,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want strenght to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "strengths"
+                ]
+            },
+            {
+                "word": "to be",
+                "start_idx": 681,
+                "end_idx": 686,
+                "error": "Change the verb form",
+                "error_des": "To be doesn\u2019t seem to work here.",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "as",
+                "start_idx": 702,
+                "end_idx": 704,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "that"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 705,
+                "end_idx": 706,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction as. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 748,
+                "end_idx": 748,
+                "error": "Add an article",
+                "error_des": "The noun phrase success seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a success"
+                ]
+            },
+            {
+                "word": "success",
+                "start_idx": 748,
+                "end_idx": 755,
+                "error": "Replace the word",
+                "error_des": "The word success doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "successful"
+                ]
+            },
+            {
+                "word": "they",
+                "start_idx": 761,
+                "end_idx": 765,
+                "error": "Correct word choice",
+                "error_des": "It seems that conjunction use may be incorrect here.",
+                "suggetions": [
+                    "if they"
+                ]
+            },
+            {
+                "word": "the",
+                "start_idx": 857,
+                "end_idx": 860,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "an"
+                ]
+            },
+            {
+                "word": "to get",
+                "start_idx": 935,
+                "end_idx": 941,
+                "error": "Change the verb form",
+                "error_des": "To get doesn\u2019t seem to work here.",
+                "suggetions": [
+                    "getting"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 953,
+                "end_idx": 957,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 1003,
+                "end_idx": 1007,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "barriers",
+                "start_idx": 1125,
+                "end_idx": 1133,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that barriers may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "barrier"
+                ]
+            },
+            {
+                "word": "greatest",
+                "start_idx": 1234,
+                "end_idx": 1242,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the greatest"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1262,
+                "end_idx": 1262,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Iphone to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "iPhone"
+                ]
+            },
+            {
+                "word": "Iphone",
+                "start_idx": 1262,
+                "end_idx": 1268,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the Iphone"
+                ]
+            },
+            {
+                "word": "Ipod",
+                "start_idx": 1273,
+                "end_idx": 1277,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want Ipod to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "iPod"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1479,
+                "end_idx": 1479,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want eather to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "other"
+                ]
+            },
+            {
+                "word": "eather",
+                "start_idx": 1479,
+                "end_idx": 1485,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want eather to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "other"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 1561,
+                "end_idx": 1563,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "thriumph",
+                "start_idx": 1633,
+                "end_idx": 1641,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want thriumph to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "triumph"
+                ]
+            },
+            {
+                "word": "Ballon",
+                "start_idx": 1645,
+                "end_idx": 1651,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the Ballon"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 1686,
+                "end_idx": 1688,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "who ",
+                "start_idx": 1727,
+                "end_idx": 1731,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "modern",
+                "start_idx": 1775,
+                "end_idx": 1781,
+                "error": "Add an article",
+                "error_des": "The noun phrase modern age seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the modern"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1910,
+                "end_idx": 1910,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want strenght to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "strength"
+                ]
+            },
+            {
+                "word": "strenght",
+                "start_idx": 1910,
+                "end_idx": 1918,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want strenght to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "strength"
+                ]
+            },
+            {
+                "word": "individual\u2019s",
+                "start_idx": 1955,
+                "end_idx": 1967,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "an individual\u2019s"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 2012,
+                "end_idx": 2016,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "substansial",
+                "start_idx": 2054,
+                "end_idx": 2065,
+                "error": "Correct your spelling",
+                "error_des": "If you do not want substansial to be marked as misspelled in the future, you can add it to your personal dictionary.",
+                "suggetions": [
+                    "substantial"
+                ]
+            },
+            {
+                "word": "on",
+                "start_idx": 2107,
+                "end_idx": 2109,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "in"
+                ]
+            }
+        ]
+    },
+    "submitter": "IELTS_8",
+    "num_words": 355,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "instead",
+            "such",
+            "first",
+            "although",
+            "however",
+            "subsequently",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "skills",
+                "occurrences": [
+                    {
+                        "start_idx": 187,
+                        "end_idx": 193
+                    },
+                    {
+                        "start_idx": 1298,
+                        "end_idx": 1304
+                    },
+                    {
+                        "start_idx": 1680,
+                        "end_idx": 1686
+                    },
+                    {
+                        "start_idx": 1865,
+                        "end_idx": 1871
+                    },
+                    {
+                        "start_idx": 1884,
+                        "end_idx": 1890
+                    },
+                    {
+                        "start_idx": 2040,
+                        "end_idx": 2046
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-10T17:09:37.829Z"
+}

@@ -1,0 +1,154 @@
+{
+    "url": "https://writing9.com/text/5d2f2546f4a39d001721460f",
+    "file": [
+        "data",
+        "5",
+        "5d2f2546f4a39d001721460f.json"
+    ],
+    "topics": [
+        "families",
+        "activity",
+        "people",
+        "country"
+    ],
+    "question": "When families have a meal together it is considered social activity. Do you think eating together is important to people in your country?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is a good thing for a family to come together at the dining table to eat their meals regardless of their busy schedule. Doing this strengthens family bond as well as sharing daily activities with one another. For example, if a member of the family is absent, it becomes obvious to everyone present at the dining table.",
+        "To eat together as a family is to be considered as one of the first form of social activity for anyone who is a larger part of any society irrespective of the country in which being resided. In my opinion, having a meal together as a family is not an argument of whether it's a thing for the rich or for the poor. Sitting together especially at dinner time should be incorporated into the schedule of everyone but more often than not this is not the case.",
+        "In my country, the busy schedule of most people coupled with the fact that most people's parents do not get home in time as a result of the traffic as well as the bad roads which slows down the driving and due to all these factors, it makes it almost impossible to get home in time to sit with your loved ones at the dining table to have a decent meal.",
+        "To conclude, I would like to contribute to the fact that if there was less stressful situation to and fro work in my country, it would encourage more people who didn't or have  never taught about spending time with their loved ones will begin to consider and nuture the idea of eating together as a family."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "Doing ",
+                "start_idx": 122,
+                "end_idx": 128,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "Strengthens this",
+                    "Will this strengthen"
+                ]
+            },
+            {
+                "word": "together especially",
+                "start_idx": 643,
+                "end_idx": 662,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "together, especially"
+                ]
+            },
+            {
+                "word": "everyone but",
+                "start_idx": 722,
+                "end_idx": 734,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "everyone, but"
+                ]
+            },
+            {
+                "word": "less stressful situation",
+                "start_idx": 1200,
+                "end_idx": 1224,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "a less stressful situation"
+                ]
+            },
+            {
+                "word": "taught",
+                "start_idx": 1313,
+                "end_idx": 1319,
+                "error": "the content of cognition; the main thing you are thinking about",
+                "error_des": "",
+                "suggetions": [
+                    "thought"
+                ]
+            },
+            {
+                "word": "nuture",
+                "start_idx": 1389,
+                "end_idx": 1395,
+                "error": "help develop, help grow",
+                "error_des": "",
+                "suggetions": [
+                    "nurture"
+                ]
+            }
+        ]
+    },
+    "submitter": "eby3000us",
+    "num_words": 272,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "first",
+            "for example",
+            "as a result",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "time",
+                "occurrences": [
+                    {
+                        "start_idx": 674,
+                        "end_idx": 678
+                    },
+                    {
+                        "start_idx": 894,
+                        "end_idx": 898
+                    },
+                    {
+                        "start_idx": 1055,
+                        "end_idx": 1059
+                    },
+                    {
+                        "start_idx": 1336,
+                        "end_idx": 1340
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-17T13:40:22.000Z"
+}

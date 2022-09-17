@@ -1,0 +1,174 @@
+{
+    "url": "https://writing9.com/text/5e3871977a139900116abce1",
+    "file": [
+        "data",
+        "45",
+        "5e3871977a139900116abce1.json"
+    ],
+    "topics": [
+        "people",
+        "cities",
+        "face",
+        "life",
+        "government",
+        "move",
+        "towns"
+    ],
+    "question": "People living in large cities have to face many problems in everyday life. What are those problems?\n Should the government encourage people to move to regional towns?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "People living in large cities have to face many problems in everyday life. What are those problems?",
+        "Should the government encourage people to move to regional towns?",
+        "There is a growing number of people moving to the city in search of social and economic opportunity. Although these aims are achieved from all walks of life, it does not leave them without problems. Among the challenges facing urban dwellers are environmental pollution and traffic. I believe to tackle these, authority should make the countryside inhabitable, so that city-residents will be inspired to relocate.",
+        "It is no exaggeration to say that one of the great issues of residing in the Urban areas is pollution. This may be in the form of contamination of the land, water or air components of the earth. With a shortfall in the environmental protection within the city and immense population of people, they tend to produce enormous quantities of waste. These garbage, most of the time are not properly managed and some of them end up in the rivers and streams where they harm human and aquatic habitat. Alternatively, even the one's dumped in the  landfills, which is a site for waste disposal by burning, are left to accumulate forming mountains of rubbish along the roads. For instance, in Lagos Island City, Nigeria, you can not move from one pole to another or complete 50 km walk without seeing smelly rotten-heaps of trash occupying the streets. For these reasons, it is clear that pollution troubles urban life.",
+        "Another mishap facing densely  populated cities is traffic congestion. Amidst the grandiosity and competitive lifestyle of inhabiting in the metropolis, individuals are pressured to own cars. This, together with tremendous public bus already existing in the city has led to a growing number of vehicles flocking the roads. Consequently, the transportation is being stretched to a state of gridlock. An interesting phenomenon of this can be seen in Lagos City, Nigeria, where increased automobiles often queued up on the urban road networks.Thus, causing difficulties to the commuters.",
+        "In conclusion, there is no doubt occupant of big towns are encountering innumerable problems every day of life. Among the worries are traffic congestion and environmental pollution. From my own view, government should encourage urban to rural migration by making regional town livable through provision of desirable facilities."
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "is",
+                "start_idx": 171,
+                "end_idx": 173,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "are"
+                ]
+            },
+            {
+                "word": "authority",
+                "start_idx": 475,
+                "end_idx": 484,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the authority"
+                ]
+            },
+            {
+                "word": "immense population",
+                "start_idx": 843,
+                "end_idx": 861,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the immense population"
+                ]
+            },
+            {
+                "word": "Lagos Island City",
+                "start_idx": 1263,
+                "end_idx": 1280,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the Lagos Island City"
+                ]
+            },
+            {
+                "word": "can not",
+                "start_idx": 1295,
+                "end_idx": 1302,
+                "error": "can not",
+                "error_des": "",
+                "suggetions": [
+                    "cannot"
+                ]
+            }
+        ]
+    },
+    "submitter": "",
+    "num_words": 385,
+    "num_paragraphs": 6,
+    "linking_words": {
+        "num_linking_words": "5",
+        "list_linking_words": [
+            "thus",
+            "although",
+            "consequently",
+            "for instance",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "pollution",
+                "occurrences": [
+                    {
+                        "start_idx": 426,
+                        "end_idx": 435
+                    },
+                    {
+                        "start_idx": 672,
+                        "end_idx": 681
+                    },
+                    {
+                        "start_idx": 1460,
+                        "end_idx": 1469
+                    },
+                    {
+                        "start_idx": 2247,
+                        "end_idx": 2256
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 69,
+                        "end_idx": 73
+                    },
+                    {
+                        "start_idx": 318,
+                        "end_idx": 322
+                    },
+                    {
+                        "start_idx": 1485,
+                        "end_idx": 1489
+                    },
+                    {
+                        "start_idx": 1601,
+                        "end_idx": 1605
+                    },
+                    {
+                        "start_idx": 2182,
+                        "end_idx": 2186
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-02-03T19:16:39.153Z"
+}

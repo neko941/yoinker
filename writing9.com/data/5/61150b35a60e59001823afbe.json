@@ -1,0 +1,233 @@
+{
+    "url": "https://writing9.com/text/61150b35a60e59001823afbe-in-some-countries-the-difference-in-age-between-parents-and",
+    "file": [
+        "data",
+        "5",
+        "61150b35a60e59001823afbe.json"
+    ],
+    "topics": [
+        "countries",
+        "difference",
+        "age",
+        "parents",
+        "children",
+        "trend"
+    ],
+    "question": "In some countries, the difference in age between parents and children is generally greater than it was in the past. Do the advantages of this trend outweigh the disadvantages?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 4.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 4.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It appears that Miss Sylvia Marcellina Ahaotu arrived in the UK on 20th January 2011 as a student holding a student visa valid from 31st December 2010 to 31st October 2012. Before the expiry of her visa, she submitted an application to the Home Office for further leave to remain as a student under Tier 4 (General) Student. The Home Office granted her further leave to remain in the UK valid from 22nd June 2013 to 03rd December 2015. Subsequently, before the expiry of her visa, she submitted an application for further leave to remain in the UK and the Home Office granted her further leave to remain valid from 21st February 2016 to 7th August 2018. Finally, she submitted an application to the Home Office for further leave to remain before her visa expires and she was granted further leave to remain in the UK valid until 28th September 2021.",
+        "During her stay in the UK, Miss Ahaotu completed her Master of Science (MSc) in Project Management in Construction on 28th February 2013 and further, she completed her Doctor of Philosophy (PhD) on 31st January 2019. The enclosed education certificates meet English proficiency requirements for indefinite leave to remain in the UK. Further, our client has already passed her Life in the UK test and electronic reference has already been given in the online application form.",
+        "Since 20th January 2011, she has been residing in the UK legally and qualifies for indefinite leave to remain in the UK on the basis of completion of her 10 years of legal residence in the UK. During her stay, she has established a significantly strong private life apart from her family life. She has successfully completed the Life in the UK Test and a PhD Degree to meet the Life in the UK and English requirements.",
+        "Our client, Miss Ahaotu has completed more than 10 years of lawful residence in the UK having initially entered the UK as a student. Throughout, her stay in the UK, she has never been absent from the UK for more than six months during each year of her stay in the UK and she now wishes to submit an application to the Home Office for indefinite leave to remain in the UK on the basis of her long legal residence (10 Years).",
+        "Our client qualifies to take the benefit of the long residence concession on the basis of her 10 years of legal stay in the UK. It is submitted that residence, whether lawful or otherwise, must also be continuous residence. Continuous residence is not broken by an absence of six months or less, as long as the person had leave to remain at the time of their departure from and return to the UK. The requirements to be met by an applicant for indefinite leave to remain on the ground of long residence in the United Kingdom are that:"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "leave",
+                "start_idx": 2490,
+                "end_idx": 2495,
+                "error": "Change the verb form",
+                "error_des": "It appears that the verb leave should be in the past participle form. Consider changing it.",
+                "suggetions": [
+                    "left"
+                ]
+            }
+        ]
+    },
+    "submitter": "nasir-mah",
+    "num_words": 484,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "further",
+            "otherwise",
+            "also",
+            "initially",
+            "subsequently",
+            "finally"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "10",
+        "list_repeated_words": [
+            {
+                "word": "residence",
+                "occurrences": [
+                    {
+                        "start_idx": 1498,
+                        "end_idx": 1507
+                    },
+                    {
+                        "start_idx": 1812,
+                        "end_idx": 1821
+                    },
+                    {
+                        "start_idx": 2147,
+                        "end_idx": 2156
+                    },
+                    {
+                        "start_idx": 2222,
+                        "end_idx": 2231
+                    },
+                    {
+                        "start_idx": 2318,
+                        "end_idx": 2327
+                    },
+                    {
+                        "start_idx": 2382,
+                        "end_idx": 2391
+                    },
+                    {
+                        "start_idx": 2404,
+                        "end_idx": 2413
+                    },
+                    {
+                        "start_idx": 2661,
+                        "end_idx": 2670
+                    }
+                ]
+            },
+            {
+                "word": "office",
+                "occurrences": []
+            },
+            {
+                "word": "visa",
+                "occurrences": [
+                    {
+                        "start_idx": 116,
+                        "end_idx": 120
+                    },
+                    {
+                        "start_idx": 198,
+                        "end_idx": 202
+                    },
+                    {
+                        "start_idx": 475,
+                        "end_idx": 479
+                    },
+                    {
+                        "start_idx": 750,
+                        "end_idx": 754
+                    }
+                ]
+            },
+            {
+                "word": "life",
+                "occurrences": [
+                    {
+                        "start_idx": 1587,
+                        "end_idx": 1591
+                    },
+                    {
+                        "start_idx": 1614,
+                        "end_idx": 1618
+                    }
+                ]
+            },
+            {
+                "word": "uk",
+                "occurrences": []
+            },
+            {
+                "word": "home",
+                "occurrences": []
+            },
+            {
+                "word": "years",
+                "occurrences": [
+                    {
+                        "start_idx": 1483,
+                        "end_idx": 1488
+                    },
+                    {
+                        "start_idx": 1796,
+                        "end_idx": 1801
+                    },
+                    {
+                        "start_idx": 2266,
+                        "end_idx": 2271
+                    }
+                ]
+            },
+            {
+                "word": "application",
+                "occurrences": [
+                    {
+                        "start_idx": 221,
+                        "end_idx": 232
+                    },
+                    {
+                        "start_idx": 498,
+                        "end_idx": 509
+                    },
+                    {
+                        "start_idx": 680,
+                        "end_idx": 691
+                    },
+                    {
+                        "start_idx": 1308,
+                        "end_idx": 1319
+                    },
+                    {
+                        "start_idx": 2044,
+                        "end_idx": 2055
+                    }
+                ]
+            },
+            {
+                "word": "student",
+                "occurrences": [
+                    {
+                        "start_idx": 90,
+                        "end_idx": 97
+                    },
+                    {
+                        "start_idx": 108,
+                        "end_idx": 115
+                    },
+                    {
+                        "start_idx": 285,
+                        "end_idx": 292
+                    },
+                    {
+                        "start_idx": 1869,
+                        "end_idx": 1876
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-08-12T11:52:26.567Z"
+}

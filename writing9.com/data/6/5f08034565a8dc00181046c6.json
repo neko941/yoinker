@@ -1,0 +1,225 @@
+{
+    "url": "https://writing9.com/text/5f08034565a8dc00181046c6",
+    "file": [
+        "data",
+        "6",
+        "5f08034565a8dc00181046c6.json"
+    ],
+    "topics": [
+        "universities",
+        "numbers",
+        "students"
+    ],
+    "question": "Universities should accept equal numbers of male and female students in every subject. To what extent do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Many people think that government should position the same amount of men and women in various fields of study in higher education institution. Although I agree that this will prevent gender inequality in educational institution, I also think that this practice is unrealistic and both men and women should have the same educational opportunities.",
+        "On the one hand, having the same number of male and female students in different fields of study is unrealistic, since the number of possible students are based on the number of applications that the university receives. Therefore, if a university decides to fill in the courses with equal number of male and female students, they should have enough applications to do so. Moreover, the number of applicants who wish to study in a specific course depends on whether or not they are suitable and fitting for certain gender. For example, women are more fitted to nursing courses rather than men, resulting to a higher number of applications from female applicants.",
+        "On the other hand, it should not matter if a university decides to accept the same number of men and women applicants to study their courses, because it will help both genders to increase their communication skills when it comes to having a relationship with the opposite gender. It will also ensure that there will be lower chances of gender discrimination in classes and women will feel safer and comfortable around men. Additionally, more areas of research and employment would be explored and that would benefit the country as more students will contribute to various research fields. For example, if more women will apply to construction engineering, other women would be empowered and encouraged by their actions.",
+        "In conclusion, it is not necessary to hold balance in every study course, since different majors attract different gender, but it will be empowering and encouraging for other students."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "higher education institution",
+                "start_idx": 112,
+                "end_idx": 140,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "higher education institutions",
+                    "a higher education institution"
+                ]
+            },
+            {
+                "word": "educational institution",
+                "start_idx": 203,
+                "end_idx": 226,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "an educational institution",
+                    "educational institutions",
+                    "the educational institution"
+                ]
+            },
+            {
+                "word": "are based",
+                "start_idx": 497,
+                "end_idx": 506,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "is based"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 950,
+                "end_idx": 952,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "in"
+                ]
+            },
+            {
+                "word": "construction engineering",
+                "start_idx": 1639,
+                "end_idx": 1663,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "construction, engineering"
+                ]
+            },
+            {
+                "word": "different ",
+                "start_idx": 1834,
+                "end_idx": 1844,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "the different gender"
+                ]
+            }
+        ]
+    },
+    "submitter": "Alisa",
+    "num_words": 311,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "also",
+            "although",
+            "additionally",
+            "therefore",
+            "on the other hand",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "gender",
+                "occurrences": [
+                    {
+                        "start_idx": 183,
+                        "end_idx": 189
+                    },
+                    {
+                        "start_idx": 862,
+                        "end_idx": 868
+                    },
+                    {
+                        "start_idx": 1178,
+                        "end_idx": 1184
+                    },
+                    {
+                        "start_idx": 1282,
+                        "end_idx": 1288
+                    },
+                    {
+                        "start_idx": 1346,
+                        "end_idx": 1352
+                    },
+                    {
+                        "start_idx": 1845,
+                        "end_idx": 1851
+                    }
+                ]
+            },
+            {
+                "word": "study",
+                "occurrences": [
+                    {
+                        "start_idx": 104,
+                        "end_idx": 109
+                    },
+                    {
+                        "start_idx": 438,
+                        "end_idx": 443
+                    },
+                    {
+                        "start_idx": 767,
+                        "end_idx": 772
+                    },
+                    {
+                        "start_idx": 1131,
+                        "end_idx": 1136
+                    },
+                    {
+                        "start_idx": 1790,
+                        "end_idx": 1795
+                    }
+                ]
+            },
+            {
+                "word": "number",
+                "occurrences": [
+                    {
+                        "start_idx": 380,
+                        "end_idx": 386
+                    },
+                    {
+                        "start_idx": 470,
+                        "end_idx": 476
+                    },
+                    {
+                        "start_idx": 515,
+                        "end_idx": 521
+                    },
+                    {
+                        "start_idx": 637,
+                        "end_idx": 643
+                    },
+                    {
+                        "start_idx": 734,
+                        "end_idx": 740
+                    },
+                    {
+                        "start_idx": 963,
+                        "end_idx": 969
+                    },
+                    {
+                        "start_idx": 1093,
+                        "end_idx": 1099
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-07-10T05:57:27.701Z"
+}

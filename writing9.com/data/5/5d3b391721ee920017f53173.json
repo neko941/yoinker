@@ -1,0 +1,188 @@
+{
+    "url": "https://writing9.com/text/5d3b391721ee920017f53173",
+    "file": [
+        "data",
+        "5",
+        "5d3b391721ee920017f53173.json"
+    ],
+    "topics": [
+        "countries",
+        "people",
+        "jobs",
+        "situation"
+    ],
+    "question": "In many countries, young people are finding it harder and harder to find permanent jobs. Why is this? What can be done to improve the situation?",
+    "scores": {
+        "overall_band_score": 5.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 4.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It's believed that it's getting more difficult to land a fixed job nowadays, especially for the youth, and that with the passage of time it keeps inching closer and closer to the impossible. However, I think that this situation is getting blown out of proportion.",
+        "First, more than one factor has to be taken as a cause of this dilemma, starting with the employment rate, the number of jobs available, the general condition of the economy and the retirement age. These factors differ by country and should be taken in account as a cause for the decrease in the vacancy of work spots availability to all without regards to the factor of age.",
+        "Secondly, people think that most of the employers and bosses will only hire the middle-aged applicants, as they are more likely to have worked and achieved more in their work-life than their younger counterparts. This in turn leads to the younger generation being more prone to scrutinization due to their working experience. This can be fixed by the willingness of the job seekers to work more, no one can expect life to be easy, and if you want to live a good life you are likely to work tears and blood for it.",
+        "To conclude with, I think that the new wave of job hunters has a good number of exceptionally capable people, with a great magnitude of qualifications and work under their names. And that the problem of getting a job is more in the mind of the searcher than the country they live in."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "in",
+                "start_idx": 513,
+                "end_idx": 515,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "into"
+                ]
+            },
+            {
+                "word": "work",
+                "start_idx": 570,
+                "end_idx": 574,
+                "error": "wanting in physical strength",
+                "error_des": "",
+                "suggetions": [
+                    "weak"
+                ]
+            },
+            {
+                "word": "availability",
+                "start_idx": 581,
+                "end_idx": 593,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "available"
+                ]
+            },
+            {
+                "word": "scrutinization",
+                "start_idx": 917,
+                "end_idx": 931,
+                "error": "",
+                "error_des": "",
+                "suggetions": []
+            },
+            {
+                "word": "tears",
+                "start_idx": 1129,
+                "end_idx": 1134,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "tearing"
+                ]
+            },
+            {
+                "word": "that",
+                "start_idx": 1336,
+                "end_idx": 1340,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "that's"
+                ]
+            }
+        ]
+    },
+    "submitter": "hattanalturki89",
+    "num_words": 259,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "secondly",
+            "however",
+            "first",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "work",
+                "occurrences": [
+                    {
+                        "start_idx": 571,
+                        "end_idx": 575
+                    },
+                    {
+                        "start_idx": 776,
+                        "end_idx": 780
+                    },
+                    {
+                        "start_idx": 810,
+                        "end_idx": 814
+                    },
+                    {
+                        "start_idx": 946,
+                        "end_idx": 950
+                    },
+                    {
+                        "start_idx": 1025,
+                        "end_idx": 1029
+                    },
+                    {
+                        "start_idx": 1125,
+                        "end_idx": 1129
+                    },
+                    {
+                        "start_idx": 1309,
+                        "end_idx": 1313
+                    }
+                ]
+            },
+            {
+                "word": "job",
+                "occurrences": [
+                    {
+                        "start_idx": 63,
+                        "end_idx": 66
+                    },
+                    {
+                        "start_idx": 385,
+                        "end_idx": 388
+                    },
+                    {
+                        "start_idx": 1010,
+                        "end_idx": 1013
+                    },
+                    {
+                        "start_idx": 1201,
+                        "end_idx": 1204
+                    },
+                    {
+                        "start_idx": 1367,
+                        "end_idx": 1370
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-07-26T17:32:07.350Z"
+}

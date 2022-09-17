@@ -1,0 +1,139 @@
+{
+    "url": "https://writing9.com/text/62ab1d9ba21aef00182b504e-in-the-30-years-the-world-has-seen-an-increase",
+    "file": [
+        "data",
+        "8",
+        "62ab1d9ba21aef00182b504e.json"
+    ],
+    "topics": [
+        "years",
+        "world",
+        "immigration",
+        "people",
+        "point",
+        "negatives",
+        "positives",
+        "viewpoints"
+    ],
+    "question": "\u2022\tIn the 30 years the world has seen an increase in immigration. Many people point out the benefits of this, whereas others believe the negatives outweigh the positives.\n\u2022\tDiscuss both of these viewpoints and give your own opinions.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 9.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Over the last three decades, the number of individuals travelling overseas is drastically increased. Some embassies claim that immigrants migrating to their nations experience a better life. Although some citizens oppose it; however, I firmly believe overseas travel has more advantages than disadvantages. In the following paragraphs, I explore both views.",
+        "On the one hand, the advantages of migrating to foreign countries provide better international education and job opportunities. Firstly, many students travel to western nations to pursue higher studies in universities because they have the well-established infrastructure and world-class faculty which is not available in their home country. For instance, a lack of lecturers to teach masters in Nepal, due to which, learners migrate to other nations to obtain master's certificates. In addition to education, some people travel to other nations for better employment which provides higher compensation and perks for the same profession that they were working in their home country. To illustrate, an employer pays 1000$ per month for a software developer in India for the same job role in the USA same organisation pays 6000$ per month.",
+        "On the other hand, disadvantages of immigration are feeling homesick and visa issues. One cannot deny that being far from beloved parents and childhood friends is not easy, eventually, that leads to stress and depression for immigrants. It is scientifically proven that being far from close relatives for a long time makes you emotionally weak due to which your brain is overloaded with unwanted thoughts and you lose focus on your goals. Moreover, sometimes some countries reject visa renewal due to which all of a sudden foreigners have to leave for their home country. For example, Scrutiny to get a USA visa renewal is always high, and the rejection rate of L1B visa renewal is at 25%.",
+        "Finally, to recapitulate, due to globalization, traffic between nations is drastically increased. Although some may opine that immigration has more negative outcomes; nevertheless, personally, it provides more benefits due to the aforementioned advantages."
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "the",
+                "start_idx": 593,
+                "end_idx": 596,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a"
+                ]
+            }
+        ]
+    },
+    "submitter": "rana",
+    "num_words": 331,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "11",
+        "list_linking_words": [
+            "nevertheless",
+            "although",
+            "firstly",
+            "however",
+            "last",
+            "in addition",
+            "on the other hand",
+            "finally",
+            "for instance",
+            "for example",
+            "moreover"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "nations",
+                "occurrences": [
+                    {
+                        "start_idx": 157,
+                        "end_idx": 164
+                    },
+                    {
+                        "start_idx": 527,
+                        "end_idx": 534
+                    },
+                    {
+                        "start_idx": 801,
+                        "end_idx": 808
+                    },
+                    {
+                        "start_idx": 896,
+                        "end_idx": 903
+                    },
+                    {
+                        "start_idx": 1950,
+                        "end_idx": 1957
+                    }
+                ]
+            },
+            {
+                "word": "visa",
+                "occurrences": [
+                    {
+                        "start_idx": 1269,
+                        "end_idx": 1273
+                    },
+                    {
+                        "start_idx": 1677,
+                        "end_idx": 1681
+                    },
+                    {
+                        "start_idx": 1803,
+                        "end_idx": 1807
+                    },
+                    {
+                        "start_idx": 1862,
+                        "end_idx": 1866
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-06-16T12:16:51.438Z"
+}

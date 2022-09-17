@@ -1,0 +1,185 @@
+{
+    "url": "https://writing9.com/text/5ee998ac9f3c5b0018014808",
+    "file": [
+        "data",
+        "6",
+        "5ee998ac9f3c5b0018014808.json"
+    ],
+    "topics": [
+        "spite",
+        "advances",
+        "agriculture",
+        "people",
+        "world",
+        "case"
+    ],
+    "question": "In spite of the advances made in agriculture, many people around the world still go hungry. Why is the case? What can be done about this problem?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 6.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 5.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "The development of technologies and the growth of the world economy have allowed people to produce a remarkable amount of food. However, it is true that numerous people all over the world are still suffering from hunger. This essay will briefly explain why this situation has happened and provide some suggestions to deal with this issue.",
+        "One of the primary reasons for this is that significantly high rate of unemployment and the underemployment in low-income countries, particularly rural areas. As this state has lasted for a long period, a considerable number of people all over the world cannot afford to purchase an adequate amount of food. To cope with this problem, authorities should implement well-designed protection rules, especially for employment environments.",
+        "Another reason is an insufficient amount of investment. Many developed countries and world organizations have supported financially to address the world hunger problem over the last few decades. However, their support has tended to focus on some developing countries and it is not enough to cover up extremely poor countries\u2019 or isolated rural areas\u2019 hunger issues. Therefore, developed countries\u2019 governments and world organizations should approach this serious problem more detail and invest more in extremely poor areas that have not received adequate support.",
+        "In conclusion, it is clear that a substantial number of people all over the world still suffered from the hunger problem. However, if authorities and world organizations introduce well-organized regulations related to this issue and invest more money, the serious world hunger problem will be alleviated."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "development",
+                "start_idx": 3,
+                "end_idx": 14,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "developers"
+                ]
+            },
+            {
+                "word": "high",
+                "start_idx": 396,
+                "end_idx": 400,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "higher"
+                ]
+            }
+        ]
+    },
+    "submitter": "yujinkim970323",
+    "num_words": 250,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "however",
+            "last",
+            "therefore",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "world",
+                "occurrences": [
+                    {
+                        "start_idx": 54,
+                        "end_idx": 59
+                    },
+                    {
+                        "start_idx": 182,
+                        "end_idx": 187
+                    },
+                    {
+                        "start_idx": 587,
+                        "end_idx": 592
+                    },
+                    {
+                        "start_idx": 860,
+                        "end_idx": 865
+                    },
+                    {
+                        "start_idx": 922,
+                        "end_idx": 927
+                    },
+                    {
+                        "start_idx": 1189,
+                        "end_idx": 1194
+                    },
+                    {
+                        "start_idx": 1415,
+                        "end_idx": 1420
+                    },
+                    {
+                        "start_idx": 1489,
+                        "end_idx": 1494
+                    },
+                    {
+                        "start_idx": 1603,
+                        "end_idx": 1608
+                    }
+                ]
+            },
+            {
+                "word": "problem",
+                "occurrences": [
+                    {
+                        "start_idx": 665,
+                        "end_idx": 672
+                    },
+                    {
+                        "start_idx": 935,
+                        "end_idx": 942
+                    },
+                    {
+                        "start_idx": 1238,
+                        "end_idx": 1245
+                    },
+                    {
+                        "start_idx": 1452,
+                        "end_idx": 1459
+                    },
+                    {
+                        "start_idx": 1616,
+                        "end_idx": 1623
+                    }
+                ]
+            },
+            {
+                "word": "hunger",
+                "occurrences": [
+                    {
+                        "start_idx": 213,
+                        "end_idx": 219
+                    },
+                    {
+                        "start_idx": 928,
+                        "end_idx": 934
+                    },
+                    {
+                        "start_idx": 1126,
+                        "end_idx": 1132
+                    },
+                    {
+                        "start_idx": 1445,
+                        "end_idx": 1451
+                    },
+                    {
+                        "start_idx": 1609,
+                        "end_idx": 1615
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2020-06-17T04:16:54.899Z"
+}

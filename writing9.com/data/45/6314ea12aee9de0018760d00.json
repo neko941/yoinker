@@ -1,0 +1,334 @@
+{
+    "url": "https://writing9.com/text/6314ea12aee9de0018760d00-some-people-think-that-government-should-ban-dangerous-sports-such",
+    "file": [
+        "data",
+        "45",
+        "6314ea12aee9de0018760d00.json"
+    ],
+    "topics": [
+        "people",
+        "government",
+        "ban",
+        "sports",
+        "sky",
+        "rock"
+    ],
+    "question": "Some people think that government should ban dangerous sports, such as sky diving and rock climbing.Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 7.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 8.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Some people love to live adventurous life and like to explore the nature and do the thrilling activities. According to some, sports like sky diving and rock climbing should be banned which could hurt physically. As per me these sports should never banned. Although, these activities are some what dangerous but give chances to explore the nature and  if it is done under supervision with proper support they are less dangerous .",
+        "According to some such kind of  physical activity can bring lifetime disability so government should ban these. For example sky diving can give you a lifetime disability or some can die. Same for Rock climbing as well , if someone is climbing on a mountain with no rope or helmet and slips it can led to serious injury . One more example of such kind of sport is scuba diving where a person can interact with dangerous creatures and can be hurt. so as per some these kinds of activities should be completely banned so that there won't be any chances of mishappening in  sports.",
+        "However, understanding the negative effects,  If these games are performed under supervision and proper training will help people to learn more . On the other, hand government should encourage these kinds of games in early age like making similar kinds of replicas in parks or community centres so that kids can enjoy themselves and be more active. for example rock climbing can make kids more flexible. as per me driving a car is also dangerous but people do it after proper training so the same goes for adventurous games as well.",
+        "To sum up, instead of banning such kinds of games the government should encourage people to live happening life but providing proper trainers and by inspecting on a regular basis that such kind of games is not performed without trainers."
+    ],
+    "errors": {
+        "num_error": "19",
+        "error_list": [
+            {
+                "word": "adventurous",
+                "start_idx": 24,
+                "end_idx": 35,
+                "error": "Add an article",
+                "error_des": "The noun phrase adventurous life seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an adventurous"
+                ]
+            },
+            {
+                "word": "life",
+                "start_idx": 36,
+                "end_idx": 40,
+                "error": "Replace the word",
+                "error_des": "The word life doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "lives"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 61,
+                "end_idx": 65,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 79,
+                "end_idx": 83,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "As per",
+                "start_idx": 211,
+                "end_idx": 217,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "In"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 218,
+                "end_idx": 218,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "my"
+                ]
+            },
+            {
+                "word": "me",
+                "start_idx": 218,
+                "end_idx": 220,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase As per me. Consider adding a comma.",
+                "suggetions": [
+                    ",me"
+                ]
+            },
+            {
+                "word": "banned",
+                "start_idx": 247,
+                "end_idx": 253,
+                "error": "Change the verb form",
+                "error_des": "The verb banned after the modal verb should does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "be banned"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 286,
+                "end_idx": 286,
+                "error": "Correct your spelling",
+                "error_des": "The word some what seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "somewhat"
+                ]
+            },
+            {
+                "word": "some what",
+                "start_idx": 286,
+                "end_idx": 295,
+                "error": "Correct your spelling",
+                "error_des": "The word some what seems to be miswritten. Consider replacing it.",
+                "suggetions": [
+                    "somewhat"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 334,
+                "end_idx": 338,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "example",
+                "start_idx": 544,
+                "end_idx": 551,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase For example. Consider adding a comma.",
+                "suggetions": [
+                    ",example"
+                ]
+            },
+            {
+                "word": "led",
+                "start_idx": 725,
+                "end_idx": 728,
+                "error": "Change the verb form",
+                "error_des": "The verb led after the modal verb can does not appear to be in the correct form. Consider changing the verb form.",
+                "suggetions": [
+                    "lead",
+                    "be led"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 1087,
+                "end_idx": 1088,
+                "error": "Add an article",
+                "error_des": "The noun phrase supervision seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the"
+                ]
+            },
+            {
+                "word": ", hand",
+                "start_idx": 1165,
+                "end_idx": 1171,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the, hand"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1220,
+                "end_idx": 1220,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "at in"
+                ]
+            },
+            {
+                "word": "in",
+                "start_idx": 1220,
+                "end_idx": 1222,
+                "error": "Correct your spelling",
+                "error_des": "The word in doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "an"
+                ]
+            },
+            {
+                "word": "like",
+                "start_idx": 1233,
+                "end_idx": 1237,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "by"
+                ]
+            },
+            {
+                "word": "example",
+                "start_idx": 1359,
+                "end_idx": 1366,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase for example. Consider adding a comma.",
+                "suggetions": [
+                    ",example"
+                ]
+            }
+        ]
+    },
+    "submitter": "pooja.raikwar27",
+    "num_words": 308,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "6",
+        "list_linking_words": [
+            "for ",
+            "instead",
+            "also",
+            "such",
+            "although",
+            "however"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "3",
+        "list_repeated_words": [
+            {
+                "word": "kinds",
+                "occurrences": [
+                    {
+                        "start_idx": 896,
+                        "end_idx": 901
+                    },
+                    {
+                        "start_idx": 1206,
+                        "end_idx": 1211
+                    },
+                    {
+                        "start_idx": 1254,
+                        "end_idx": 1259
+                    },
+                    {
+                        "start_idx": 1575,
+                        "end_idx": 1580
+                    }
+                ]
+            },
+            {
+                "word": "games",
+                "occurrences": [
+                    {
+                        "start_idx": 1062,
+                        "end_idx": 1067
+                    },
+                    {
+                        "start_idx": 1215,
+                        "end_idx": 1220
+                    },
+                    {
+                        "start_idx": 1525,
+                        "end_idx": 1530
+                    },
+                    {
+                        "start_idx": 1584,
+                        "end_idx": 1589
+                    },
+                    {
+                        "start_idx": 1737,
+                        "end_idx": 1742
+                    }
+                ]
+            },
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 5,
+                        "end_idx": 11
+                    },
+                    {
+                        "start_idx": 1130,
+                        "end_idx": 1136
+                    },
+                    {
+                        "start_idx": 1457,
+                        "end_idx": 1463
+                    },
+                    {
+                        "start_idx": 1622,
+                        "end_idx": 1628
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-04T18:13:46.433Z"
+}

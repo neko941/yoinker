@@ -1,0 +1,113 @@
+{
+    "url": "https://writing9.com/text/6241cafae1797300188da2cd-you-are-a-student-at-a-university-in-the-uk",
+    "file": [
+        "data",
+        "85",
+        "6241cafae1797300188da2cd.json"
+    ],
+    "topics": [
+        "student",
+        "university",
+        "uk",
+        "id",
+        "card",
+        "police",
+        "station",
+        "record"
+    ],
+    "question": "you are a student at a university in the UK. you have recently lost your university id card.write to the local police station, giving details of who you are,what happened and ask to record your details so you can apply for a new id card.",
+    "scores": {
+        "overall_band_score": 8.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 8.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 8.0
+        },
+        "grammatical_range": {
+            "overall_score": 8.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 8.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "To local police station",
+        "Subject: Regarding lost university id card",
+        "Hi Madam/Sir,",
+        "My name is Sonia Devi and I am a student of Guru Nanak Dev University, Jalandhar, Punjab.  I am a student in my second year at the academy. Actually last night, I was studying in the library till late at night and I was too much tired and so, I had to come back  home. I do not know where I have drooped my Id badge. Next month, My final exams are coming and I hardly need my id card to access the facilities of the educational institution.",
+        "Furthermore, I would like to give you all details so that I could apply for a new identification label.  My id number is 005621 and on ,id there was the address of my academy as well. My email address is [email\u00a0protected] I would appreciate it if you can look up  the lost ID.",
+        "With Regards",
+        "Sonia Devi"
+    ],
+    "errors": {
+        "num_error": "1",
+        "error_list": [
+            {
+                "word": "local",
+                "start_idx": 2,
+                "end_idx": 7,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the local"
+                ]
+            }
+        ]
+    },
+    "submitter": "sia.devi66971",
+    "num_words": 157,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "furthermore",
+            "next",
+            "last",
+            "second"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "id",
+                "occurrences": [
+                    {
+                        "start_idx": 59,
+                        "end_idx": 61
+                    },
+                    {
+                        "start_idx": 457,
+                        "end_idx": 459
+                    },
+                    {
+                        "start_idx": 604,
+                        "end_idx": 606
+                    },
+                    {
+                        "start_idx": 630,
+                        "end_idx": 632
+                    },
+                    {
+                        "start_idx": 658,
+                        "end_idx": 660
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-03-28T14:54:57.051Z"
+}

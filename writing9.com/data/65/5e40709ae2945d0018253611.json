@@ -1,0 +1,149 @@
+{
+    "url": "https://writing9.com/text/5e40709ae2945d0018253611-a-friend-wants-to-spend-a-four-week-holiday-in-your",
+    "file": [
+        "data",
+        "65",
+        "5e40709ae2945d0018253611.json"
+    ],
+    "topics": [
+        "friend",
+        "holiday",
+        "country",
+        "advice",
+        "trip",
+        "offer",
+        "information",
+        "clothes"
+    ],
+    "question": "A friend wants to spend a four-week holiday in your country and has written asking for advice about the trip.\n Write a letter to your friend. In your letter: offer to find somewhere to stay, give advice about what to do, give information about what clothes to bring.",
+    "scores": {
+        "overall_band_score": 6.5,
+        "coherence_and_cohesion": {
+            "overall_score": 7.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Jim,",
+        "I hope you would be doing pretty well. I received your letter last night and I am extremely excited to hear about your holiday trip to my country. It\u2019s a wonderful country and you will enjoy every moment here!",
+        "Fortunately, I just bought a new apartment last month. So, if u haven\u2019t booked a place yet, you can crash on my sofa. You will feel at home here.",
+        "Furthermore, as you already know that my country is famous for its traditional cuisines and historical castles, so , keep that up the list. Since, we both are food and travel enthusiasts, it would be an enjoyable company. By the end of first week, we can also go to River Indus if you don\u2019t have any other plans.  It is a serene place with breath-taking sceneries.",
+        "In the end, you must not forget to bring winter clothes. It is the northern part of the country and winter here harsh and freezing.",
+        "I I\u2019ll be waiting to see you here soon !",
+        "Best regards,",
+        "Umer"
+    ],
+    "errors": {
+        "num_error": "5",
+        "error_list": [
+            {
+                "word": "the",
+                "start_idx": 495,
+                "end_idx": 498,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "on the"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 511,
+                "end_idx": 512,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction Since. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "first",
+                "start_idx": 601,
+                "end_idx": 606,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase first week does not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "the first"
+                ]
+            },
+            {
+                "word": "breath-taking",
+                "start_idx": 705,
+                "end_idx": 718,
+                "error": "Correct your spelling",
+                "error_des": "The word breath-taking doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "breathtaking"
+                ]
+            },
+            {
+                "word": "I ",
+                "start_idx": 862,
+                "end_idx": 864,
+                "error": "Correct pronoun usage",
+                "error_des": "It seems that there is a pronoun problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "umerahmad01",
+    "num_words": 174,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "4",
+        "list_linking_words": [
+            "also",
+            "furthermore",
+            "last"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "country",
+                "occurrences": [
+                    {
+                        "start_idx": 148,
+                        "end_idx": 155
+                    },
+                    {
+                        "start_idx": 174,
+                        "end_idx": 181
+                    },
+                    {
+                        "start_idx": 407,
+                        "end_idx": 414
+                    },
+                    {
+                        "start_idx": 819,
+                        "end_idx": 826
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2021-10-13T18:55:56.011Z"
+}

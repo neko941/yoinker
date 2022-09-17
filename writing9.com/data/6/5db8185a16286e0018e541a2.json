@@ -1,0 +1,144 @@
+{
+    "url": "https://writing9.com/text/5db8185a16286e0018e541a2",
+    "file": [
+        "data",
+        "6",
+        "5db8185a16286e0018e541a2.json"
+    ],
+    "topics": [
+        "parents",
+        "mothers",
+        "home",
+        "people",
+        "salary",
+        "government"
+    ],
+    "question": "Parents, usually mothers, stay at home to look after their family. People believe they should receive a salary from the government for that. Do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 6.0,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 6.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 4.5,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 4.5,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "It is believed by some people that the government should pay salaries to mothers who have to stay at home to take care of their family members. In my opinion, I completely disagree with this point of view because the government has many more inevitable responsibilities, obligations and there is no return for this remuneration.",
+        "The first and foremost reason why the legislative authority should not pay wages to the women, who look after their family, is that there are many sectors in the country where need funding. For example, the health and education sectors in Bangladesh cannot be developed according to up to date methods because of the shortage of money. Therefore, the government should spend money to meet the peoples' basic needs first.",
+        "Secondly, the government has an obligation to spend money, which is deducted as a tax from the general public, for the betterment of the infrastructure. If normal people do not receive any benefit from the authority against their tax payment, there is a chance to rebel against the government. For instance, South African people protested their government because of the mismanagement of the public fund.",
+        "Finally, housewives should not be paid from the bureaucratic authority as a form of salary because wages can only be paid in return for the service. In other words, there is no direct benefit, which would be received by the government, for which salary should be paid. For illustration, every company whether it is government or non-government pays remuneration to its employees after working eight hours a day in the office.",
+        "In conclusion, because of having other important sectors to invest, an obligation to the public and no direct return of service, the government should not pay remuneration to the mothers, who stay at home to take care of their family."
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "to",
+                "start_idx": 69,
+                "end_idx": 71,
+                "error": "Suggestion",
+                "error_des": "",
+                "suggetions": [
+                    "for"
+                ]
+            },
+            {
+                "word": "company whether",
+                "start_idx": 1447,
+                "end_idx": 1462,
+                "error": "Accept comma addition",
+                "error_des": "",
+                "suggetions": [
+                    "company, whether"
+                ]
+            }
+        ]
+    },
+    "submitter": "shawlin90",
+    "num_words": 301,
+    "num_paragraphs": 5,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "secondly",
+            "this",
+            "finally",
+            "for example",
+            "first",
+            "therefore",
+            "in other words",
+            "for instance"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "government",
+                "occurrences": [
+                    {
+                        "start_idx": 39,
+                        "end_idx": 49
+                    },
+                    {
+                        "start_idx": 217,
+                        "end_idx": 227
+                    },
+                    {
+                        "start_idx": 680,
+                        "end_idx": 690
+                    },
+                    {
+                        "start_idx": 764,
+                        "end_idx": 774
+                    },
+                    {
+                        "start_idx": 1032,
+                        "end_idx": 1042
+                    },
+                    {
+                        "start_idx": 1095,
+                        "end_idx": 1105
+                    },
+                    {
+                        "start_idx": 1379,
+                        "end_idx": 1389
+                    },
+                    {
+                        "start_idx": 1470,
+                        "end_idx": 1480
+                    },
+                    {
+                        "start_idx": 1488,
+                        "end_idx": 1498
+                    },
+                    {
+                        "start_idx": 1714,
+                        "end_idx": 1724
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2019-10-29T10:45:46.602Z"
+}

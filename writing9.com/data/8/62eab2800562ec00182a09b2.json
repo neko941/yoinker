@@ -1,0 +1,101 @@
+{
+    "url": "https://writing9.com/text/62eab2800562ec00182a09b2-you-and-your-friend-ate-a-meal-at-a-restaurant",
+    "file": [
+        "data",
+        "8",
+        "62eab2800562ec00182a09b2.json"
+    ],
+    "topics": [
+        "friend",
+        "restaurant",
+        "ocassion",
+        "food",
+        "service",
+        "manager",
+        "*give",
+        "visit",
+        "*explain",
+        "reason",
+        "celebration",
+        "*say"
+    ],
+    "question": "You and your friend ate a meal at a restaurant to celebrate a special ocassion and you were very pleased with the food and service.Write a letter to the manager of the restaurant. In you letter*Give details of your visit to the restaurant\n*Explain the reason for the celebration*Say what was good about the food and the service.",
+    "scores": {
+        "overall_band_score": 8.0,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "one_main_idea_per_paragraph": 9.0,
+            "include_greeting_and_closing": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 7.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 9.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 7.0
+        },
+        "grammatical_range": {
+            "overall_score": 7.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 7.0
+        },
+        "task_achievement": {
+            "overall_score": 8.0,
+            "answer_all_parts_of_the_question": 8.0,
+            "use_an_appropriate_tone": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Dear Manager,",
+        "My name is Jack. I am writing to let you know that, I and my friends had a meal at your restaurant yesterday, and we are all very happy with the food and service.",
+        "On August 3rd, I and some of my friends visited one of your restaurants located in Prague 4. We visited the place in the night around 7.00 pm and we had dinner served at 9.00 pm after the drinks.",
+        "It was my friend's 30th birthday on Monday, hence we planned to throw a surprise party. I would like to extend my intense pleasure for the great meal and service that we received. Firstly, we ordered some drinks followed by starters. Later we were served a non-vegetarian meal and desserts in the end.",
+        "My friend really enjoyed the delicious meal since it is freshly prepared food and the steak was cooked perfectly.",
+        "In the end, the chef suggested trying the restaurant's special delicious dessert which was cooked with all the seasonal fruits and dry fruits. Moreover, the cake was offered for free since, it was a birthday. We are extremely pleased with the service provided by your staff. I should appreciate the job done by Mr Oscar who served the food.",
+        "Yours faithfully,",
+        "Jack"
+    ],
+    "errors": {
+        "num_error": "2",
+        "error_list": [
+            {
+                "word": "in ",
+                "start_idx": 290,
+                "end_idx": 293,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": ",",
+                "start_idx": 977,
+                "end_idx": 978,
+                "error": "Remove the comma",
+                "error_des": "It appears that you have an unnecessary comma after the subordinating conjunction since. Consider removing the comma.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "sushmithakalluri",
+    "num_words": 209,
+    "num_paragraphs": 8,
+    "linking_words": {
+        "num_linking_words": "3",
+        "list_linking_words": [
+            "hence",
+            "firstly",
+            "moreover"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "0",
+        "list_repeated_words": []
+    },
+    "datetime_submitted": "2022-08-03T17:39:22.511Z"
+}

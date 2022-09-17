@@ -1,0 +1,178 @@
+{
+    "url": "https://writing9.com/text/62c7357a8ee1ab00180e1ab4-we-live-today-in-an-electronic-information-age-it-is",
+    "file": [
+        "data",
+        "55",
+        "62c7357a8ee1ab00180e1ab4.json"
+    ],
+    "topics": [
+        "information",
+        "age",
+        "technology",
+        "people",
+        "lives"
+    ],
+    "question": "We live today in an electronic information age. It is easier to be connected by technology yet many people seem to no closer to feeling happy in their lives. To what extend do you agree or disagree?",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 7.0
+        },
+        "lexical_resource": {
+            "overall_score": 5.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 5.0
+        },
+        "grammatical_range": {
+            "overall_score": 5.0,
+            "use_a_variety_of_complex_and_simple_sentences": 6.0,
+            "check_your_writing_for_errors": 5.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 9.0,
+            "present_and_fully_explain_ideas": 6.5,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Nowadays, technological advancement enabled us to stay connected with people from other parts of the world. Even though communication has never been easier, many believe that it does not improve their level of happiness. In this essay, I will explain why I agree with the statement supported with two arguments.",
+        "To begin with, human responds better to physical interaction. Communication, for humans, is more than just exchanging information with each other. Gestures, mimics, and facial expressions are also important parts of conversation; however, a conversation by phone or text messages eliminated these factors. With face-to-face interaction, there are more things involved and both parties are more engaged with each other. Clearly, in-person communication is better than virtual.",
+        "Another important reason is technology disconnects us from the people around us. For example, most teenagers nowadays prefer to talk about their problem to their social media friend rather than to their parents. As a result, parents may lose connection with their own children, and soon they are going to see each other as strangers. It is obvious that the more we connect with people virtually, the more distance we have with our surroundings.",
+        "In conclusion, connecting with each other is not as hard as it used to be. However, some people think this improvement does not lead to a happy life. I agree with this opinion because virtual communication is not an ideal way for human to interact with each other. Therefore, I think society should keep virtual communication to a minimum and engage more in face-to-face interaction."
+    ],
+    "errors": {
+        "num_error": "6",
+        "error_list": [
+            {
+                "word": "with",
+                "start_idx": 291,
+                "end_idx": 295,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "by"
+                ]
+            },
+            {
+                "word": "messages",
+                "start_idx": 582,
+                "end_idx": 590,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that messages may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "message"
+                ]
+            },
+            {
+                "word": "problem",
+                "start_idx": 932,
+                "end_idx": 939,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that problem may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "problems"
+                ]
+            },
+            {
+                "word": "friend",
+                "start_idx": 962,
+                "end_idx": 968,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that friend may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "friends"
+                ]
+            },
+            {
+                "word": "with",
+                "start_idx": 1209,
+                "end_idx": 1213,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "from"
+                ]
+            },
+            {
+                "word": "human",
+                "start_idx": 1462,
+                "end_idx": 1467,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that human may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "humans"
+                ]
+            }
+        ]
+    },
+    "submitter": "Another.Amount",
+    "num_words": 256,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "to begin",
+            "also",
+            "as a result",
+            "however",
+            "therefore",
+            "for example",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "people",
+                "occurrences": [
+                    {
+                        "start_idx": 70,
+                        "end_idx": 76
+                    },
+                    {
+                        "start_idx": 851,
+                        "end_idx": 857
+                    },
+                    {
+                        "start_idx": 1166,
+                        "end_idx": 1172
+                    },
+                    {
+                        "start_idx": 1322,
+                        "end_idx": 1328
+                    }
+                ]
+            },
+            {
+                "word": "communication",
+                "occurrences": [
+                    {
+                        "start_idx": 120,
+                        "end_idx": 133
+                    },
+                    {
+                        "start_idx": 750,
+                        "end_idx": 763
+                    },
+                    {
+                        "start_idx": 1425,
+                        "end_idx": 1438
+                    },
+                    {
+                        "start_idx": 1545,
+                        "end_idx": 1558
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-07T19:35:23.842Z"
+}

@@ -1,0 +1,392 @@
+{
+    "url": "https://writing9.com/text/6310588daee9de001876055b-people-who-live-in-large-cities-face-a-range-problems",
+    "file": [
+        "data",
+        "55",
+        "6310588daee9de001876055b.json"
+    ],
+    "topics": [
+        "people",
+        "cities",
+        "face",
+        "range",
+        "life"
+    ],
+    "question": "People who live in large cities face a range problems in their daily life. What are the main problems people in cities face, and how can these problems be tackled.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 9.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 9.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 7.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 5.0,
+            "answer_all_parts_of_the_question": 5.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "In this modern era, individuals who moved toward metropolitan cities have to face a number of difficulties. In upcoming paragraphs, I will discuss problems and how to overcome these problems.",
+        "To commence with, person who live in a locality has to Face so many problems. In big cities pollution is the main issue for everyone. As it rise  day by day citizens have to face difficulties related to health that make their life span shot. For example, A survey was conducted last year by \u2018The Times of India\u2019. It can be clearly seen that person who live in big town suffer from heart related problems that caused by increase in number of vehicles and observed pollution. Moreover, persons have to face difficulties in accommodations such as they do not get enough space for living with their whole family including parents and children.",
+        "On the other hand, there are some solutions related to the difficulties which were discussed in the above paragraph. However, pollution is a major problem. marshes use more and more private cars which take pollution at a high-level so government should aware the public to use public transport for short distances. It helps to reduce the level of contaminated air in surrounding. Although, it also helps people to stay fit and healthy as we all know \u201cHealth is wealth\u201d. Furthermore, person have to live in a nuclear family.",
+        "To conclude this, here we have so many problems of living in a big city. But pollution and health are main issues. Reduction in number of more private transport can help to overcome this mess."
+    ],
+    "errors": {
+        "num_error": "22",
+        "error_list": [
+            {
+                "word": "upcoming",
+                "start_idx": 110,
+                "end_idx": 118,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the upcoming"
+                ]
+            },
+            {
+                "word": "person",
+                "start_idx": 209,
+                "end_idx": 215,
+                "error": "Add an article",
+                "error_des": "The noun phrase person seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the person",
+                    "a person"
+                ]
+            },
+            {
+                "word": "live",
+                "start_idx": 220,
+                "end_idx": 224,
+                "error": "Replace the word",
+                "error_des": "The word live doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "lives"
+                ]
+            },
+            {
+                "word": "cities",
+                "start_idx": 276,
+                "end_idx": 282,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase In big cities. Consider adding a comma.",
+                "suggetions": [
+                    ",cities"
+                ]
+            },
+            {
+                "word": "rise  ",
+                "start_idx": 331,
+                "end_idx": 337,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun it and the verb rise are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "rises"
+                ]
+            },
+            {
+                "word": "shot",
+                "start_idx": 427,
+                "end_idx": 431,
+                "error": "Correct your spelling",
+                "error_des": "The word shot doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "short"
+                ]
+            },
+            {
+                "word": "person",
+                "start_idx": 532,
+                "end_idx": 538,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that person may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "people"
+                ]
+            },
+            {
+                "word": "live",
+                "start_idx": 543,
+                "end_idx": 547,
+                "error": "Change the verb form",
+                "error_des": "The plural verb live does not appear to agree with the singular subject that person. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "lives"
+                ]
+            },
+            {
+                "word": "town",
+                "start_idx": 555,
+                "end_idx": 559,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that town may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "towns"
+                ]
+            },
+            {
+                "word": "heart related",
+                "start_idx": 572,
+                "end_idx": 585,
+                "error": "Add a hyphen",
+                "error_des": "It appears that heart related is missing a hyphen. Consider adding the hyphen(s).",
+                "suggetions": [
+                    "heart-related"
+                ]
+            },
+            {
+                "word": "caused",
+                "start_idx": 600,
+                "end_idx": 606,
+                "error": "Add a missing verb",
+                "error_des": "It seems that you are missing a verb. Consider adding it.",
+                "suggetions": [
+                    "are caused"
+                ]
+            },
+            {
+                "word": "increase",
+                "start_idx": 610,
+                "end_idx": 618,
+                "error": "Add an article",
+                "error_des": "The noun phrase increase seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an increase",
+                    "the increase"
+                ]
+            },
+            {
+                "word": "number",
+                "start_idx": 622,
+                "end_idx": 628,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase number does not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "a number",
+                    "the number"
+                ]
+            },
+            {
+                "word": "persons",
+                "start_idx": 675,
+                "end_idx": 682,
+                "error": "Replace the word",
+                "error_des": "The word persons doesn\u2019t seem to fit this context. Consider replacing it with a different one.",
+                "suggetions": [
+                    "people"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 1198,
+                "end_idx": 1198,
+                "error": "Add an article",
+                "error_des": "The noun phrase surrounding seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the surrounding"
+                ]
+            },
+            {
+                "word": "surrounding",
+                "start_idx": 1198,
+                "end_idx": 1209,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that surrounding may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "surroundings"
+                ]
+            },
+            {
+                "word": "person",
+                "start_idx": 1314,
+                "end_idx": 1320,
+                "error": "Add an article",
+                "error_des": "The noun phrase person seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a person",
+                    "the person"
+                ]
+            },
+            {
+                "word": "have",
+                "start_idx": 1321,
+                "end_idx": 1325,
+                "error": "Change the verb form",
+                "error_des": "The plural verb have does not appear to agree with the singular subject person. Consider changing the verb form for subject-verb agreement.",
+                "suggetions": [
+                    "has"
+                ]
+            },
+            {
+                "word": "of",
+                "start_idx": 1403,
+                "end_idx": 1405,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "main",
+                "start_idx": 1457,
+                "end_idx": 1461,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the main"
+                ]
+            },
+            {
+                "word": "number",
+                "start_idx": 1483,
+                "end_idx": 1489,
+                "error": "Change the article",
+                "error_des": "It appears that the phrase number does not contain the correct article usage. Consider making a change.",
+                "suggetions": [
+                    "a number",
+                    "the number"
+                ]
+            },
+            {
+                "word": "more ",
+                "start_idx": 1493,
+                "end_idx": 1498,
+                "error": "Correct quantifier usage",
+                "error_des": "It seems that quantifier use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            }
+        ]
+    },
+    "submitter": "poam.tushir0099",
+    "num_words": 265,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "10",
+        "list_linking_words": [
+            "also",
+            "such",
+            "furthermore",
+            "although",
+            "however",
+            "last",
+            "on the other hand",
+            "for example",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "4",
+        "list_repeated_words": [
+            {
+                "word": "pollution",
+                "occurrences": [
+                    {
+                        "start_idx": 284,
+                        "end_idx": 293
+                    },
+                    {
+                        "start_idx": 655,
+                        "end_idx": 664
+                    },
+                    {
+                        "start_idx": 958,
+                        "end_idx": 967
+                    },
+                    {
+                        "start_idx": 1038,
+                        "end_idx": 1047
+                    },
+                    {
+                        "start_idx": 1433,
+                        "end_idx": 1442
+                    }
+                ]
+            },
+            {
+                "word": "problems",
+                "occurrences": [
+                    {
+                        "start_idx": 147,
+                        "end_idx": 155
+                    },
+                    {
+                        "start_idx": 182,
+                        "end_idx": 190
+                    },
+                    {
+                        "start_idx": 260,
+                        "end_idx": 268
+                    },
+                    {
+                        "start_idx": 587,
+                        "end_idx": 595
+                    },
+                    {
+                        "start_idx": 1395,
+                        "end_idx": 1403
+                    }
+                ]
+            },
+            {
+                "word": "face",
+                "occurrences": [
+                    {
+                        "start_idx": 77,
+                        "end_idx": 81
+                    },
+                    {
+                        "start_idx": 366,
+                        "end_idx": 370
+                    },
+                    {
+                        "start_idx": 692,
+                        "end_idx": 696
+                    }
+                ]
+            },
+            {
+                "word": "difficulties",
+                "occurrences": [
+                    {
+                        "start_idx": 94,
+                        "end_idx": 106
+                    },
+                    {
+                        "start_idx": 371,
+                        "end_idx": 383
+                    },
+                    {
+                        "start_idx": 697,
+                        "end_idx": 709
+                    },
+                    {
+                        "start_idx": 891,
+                        "end_idx": 903
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-09-01T07:00:31.546Z"
+}

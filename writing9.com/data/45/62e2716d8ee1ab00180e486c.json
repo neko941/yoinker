@@ -1,0 +1,385 @@
+{
+    "url": "https://writing9.com/text/62e2716d8ee1ab00180e486c-some-people-believe-that-its-good-to-share-as-much",
+    "file": [
+        "data",
+        "45",
+        "62e2716d8ee1ab00180e486c.json"
+    ],
+    "topics": [
+        "people",
+        "information",
+        "research",
+        "businesses",
+        "worlds"
+    ],
+    "question": "Some people believe that it's good to share as much as information as possible in scientific research, businesses and academic worlds. Others believe that some information is so important and valuable to be shared freely . Discuss both these views and give your own opinion",
+    "scores": {
+        "overall_band_score": 4.5,
+        "coherence_and_cohesion": {
+            "overall_score": 6.0,
+            "structure_your_answers_in_logical_paragraphs": 9.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 9.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 4.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 6.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 4.0
+        },
+        "grammatical_range": {
+            "overall_score": 4.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 4.0
+        },
+        "task_achievement": {
+            "overall_score": 4.0,
+            "answer_all_parts_of_the_question": 4.0,
+            "present_and_fully_explain_ideas": 9.0,
+            "support_ideas_with_relevant,_specific_examples": 9.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Technically, sharing of information plays a vital part in our lives. Some people believe that information should be shared freely, but others are of the view that important and valuable information should not be shared freely. This essay will discuss on the pros and cons of the both views.",
+        "Sharing of information for scientific research, businesses and academic purpose has it's own benefits. Firstly, scientist uses free information to make new discoveries. secondly,  companies benefit from free information to produce new products for example IPhone products which are more convenient for use. Thirdly, it helps to broaden knowledge and less cost for student who goes to make research online for assignment purpose. Gathering informations promotes better education and better education leads to better future. It also help for individual to secure knowledge with little or no cost irrespective of the class (rich or poor ).",
+        "On the other hand, sharing of valuable information should not be assessed free because a lot of time was spent on collecting data and cost is significant. People may find free information insignificant, and misinterpret it to be a threat. Thirdly, there should be valuable information which should not be shared free. Again most free information can give false reviews on some certain cases. Again, with no free information students will be able to visit there school library to make research for their assignments and projects. Also, caution will be applied in the collection of data to avoid displaying wrong facts to people.",
+        "In conclusion, it is beneficial to share informations free but also we should consider the valuable and crucial ones that will be shared to public."
+    ],
+    "errors": {
+        "num_error": "25",
+        "error_list": [
+            {
+                "word": "on ",
+                "start_idx": 250,
+                "end_idx": 253,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 274,
+                "end_idx": 278,
+                "error": "Remove the article",
+                "error_des": "It is unlikely that your sentence needs the article the before both. Consider deleting the article.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "has",
+                "start_idx": 370,
+                "end_idx": 373,
+                "error": "Change the verb form",
+                "error_des": "It appears that the singular verb has does not agree with the plural compound subject businesses and academic purpose. Consider changing the verb to the plural form.",
+                "suggetions": [
+                    "have"
+                ]
+            },
+            {
+                "word": "it's",
+                "start_idx": 374,
+                "end_idx": 378,
+                "error": "Replace the word",
+                "error_des": "It appears that the contraction it's should be a possessive pronoun instead. Consider changing it.",
+                "suggetions": [
+                    "its"
+                ]
+            },
+            {
+                "word": "scientist",
+                "start_idx": 402,
+                "end_idx": 411,
+                "error": "Add an article",
+                "error_des": "The noun phrase scientist seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the scientist"
+                ]
+            },
+            {
+                "word": "IPhone",
+                "start_idx": 546,
+                "end_idx": 552,
+                "error": "Fix capitalization",
+                "error_des": "IPhone does not appear to be a proper noun. Consider lowercasing it.",
+                "suggetions": [
+                    "iPhone"
+                ]
+            },
+            {
+                "word": "",
+                "start_idx": 654,
+                "end_idx": 654,
+                "error": "Add an article",
+                "error_des": "The noun phrase student seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a student"
+                ]
+            },
+            {
+                "word": "student",
+                "start_idx": 654,
+                "end_idx": 661,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that student may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "students"
+                ]
+            },
+            {
+                "word": "purpose",
+                "start_idx": 710,
+                "end_idx": 717,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that purpose may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "purposes"
+                ]
+            },
+            {
+                "word": "informations",
+                "start_idx": 729,
+                "end_idx": 741,
+                "error": "Change the wording",
+                "error_des": "It appears that informations is an uncountable noun and should not be made plural. Consider changing the noun.",
+                "suggetions": [
+                    "information",
+                    "pieces of information"
+                ]
+            },
+            {
+                "word": "better",
+                "start_idx": 798,
+                "end_idx": 804,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "a better"
+                ]
+            },
+            {
+                "word": "help",
+                "start_idx": 821,
+                "end_idx": 825,
+                "error": "Change the verb form",
+                "error_des": "It appears that the subject pronoun It and the verb help are not in agreement. Consider changing the verb.",
+                "suggetions": [
+                    "helps"
+                ]
+            },
+            {
+                "word": "for ",
+                "start_idx": 826,
+                "end_idx": 830,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "individual",
+                "start_idx": 830,
+                "end_idx": 840,
+                "error": "Add an article",
+                "error_des": "The noun phrase individual seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "an individual"
+                ]
+            },
+            {
+                "word": "the ",
+                "start_idx": 900,
+                "end_idx": 904,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "of ",
+                "start_idx": 954,
+                "end_idx": 957,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "free",
+                "start_idx": 1001,
+                "end_idx": 1005,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for free"
+                ]
+            },
+            {
+                "word": "cost",
+                "start_idx": 1061,
+                "end_idx": 1065,
+                "error": "Correct article usage",
+                "error_des": "It seems that there is an article usage problem here.",
+                "suggetions": [
+                    "the cost"
+                ]
+            },
+            {
+                "word": "free",
+                "start_idx": 1239,
+                "end_idx": 1243,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "for free"
+                ]
+            },
+            {
+                "word": "some ",
+                "start_idx": 1299,
+                "end_idx": 1304,
+                "error": "Correct quantifier usage",
+                "error_des": "It seems that quantifier use may be incorrect here.",
+                "suggetions": [
+                    "apply"
+                ]
+            },
+            {
+                "word": "information",
+                "start_idx": 1339,
+                "end_idx": 1350,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase with no free information. Consider adding a comma.",
+                "suggetions": [
+                    ",information"
+                ]
+            },
+            {
+                "word": "there",
+                "start_idx": 1382,
+                "end_idx": 1387,
+                "error": "Replace the word",
+                "error_des": "The word there may be used incorrectly. Review the following notes to determine the appropriate usage for your context.",
+                "suggetions": [
+                    "their"
+                ]
+            },
+            {
+                "word": "informations",
+                "start_idx": 1596,
+                "end_idx": 1608,
+                "error": "Change the wording",
+                "error_des": "It appears that informations is an uncountable noun and should not be made plural. Consider changing the noun.",
+                "suggetions": [
+                    "information",
+                    "pieces of information"
+                ]
+            },
+            {
+                "word": "to",
+                "start_idx": 1692,
+                "end_idx": 1694,
+                "error": "Change preposition",
+                "error_des": "It seems that preposition use may be incorrect here.",
+                "suggetions": [
+                    "with"
+                ]
+            },
+            {
+                "word": "public",
+                "start_idx": 1695,
+                "end_idx": 1701,
+                "error": "Add an article",
+                "error_des": "The noun phrase public seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "the public"
+                ]
+            }
+        ]
+    },
+    "submitter": "adaobihedioha12",
+    "num_words": 273,
+    "num_paragraphs": 4,
+    "linking_words": {
+        "num_linking_words": "7",
+        "list_linking_words": [
+            "secondly",
+            "also",
+            "firstly",
+            "on the other hand",
+            "for example",
+            "thirdly",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "1",
+        "list_repeated_words": [
+            {
+                "word": "information",
+                "occurrences": [
+                    {
+                        "start_idx": 24,
+                        "end_idx": 35
+                    },
+                    {
+                        "start_idx": 94,
+                        "end_idx": 105
+                    },
+                    {
+                        "start_idx": 186,
+                        "end_idx": 197
+                    },
+                    {
+                        "start_idx": 302,
+                        "end_idx": 313
+                    },
+                    {
+                        "start_idx": 423,
+                        "end_idx": 434
+                    },
+                    {
+                        "start_idx": 499,
+                        "end_idx": 510
+                    },
+                    {
+                        "start_idx": 730,
+                        "end_idx": 741
+                    },
+                    {
+                        "start_idx": 967,
+                        "end_idx": 978
+                    },
+                    {
+                        "start_idx": 1104,
+                        "end_idx": 1115
+                    },
+                    {
+                        "start_idx": 1201,
+                        "end_idx": 1212
+                    },
+                    {
+                        "start_idx": 1262,
+                        "end_idx": 1273
+                    },
+                    {
+                        "start_idx": 1340,
+                        "end_idx": 1351
+                    },
+                    {
+                        "start_idx": 1597,
+                        "end_idx": 1608
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-28T11:22:23.460Z"
+}

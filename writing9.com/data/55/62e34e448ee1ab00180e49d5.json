@@ -1,0 +1,156 @@
+{
+    "url": "https://writing9.com/text/62e34e448ee1ab00180e49d5-some-people-believe-that-children-should-study-all-subjects-at",
+    "file": [
+        "data",
+        "55",
+        "62e34e448ee1ab00180e49d5.json"
+    ],
+    "topics": [
+        "people",
+        "children",
+        "study",
+        "subjects",
+        "school"
+    ],
+    "question": "Some people believe that children should study all subjects at school, while others thinks they should only study subjects they are good at or find interesting. Discuss both views and give your opinion.",
+    "scores": {
+        "overall_band_score": 5.5,
+        "coherence_and_cohesion": {
+            "overall_score": 4.0,
+            "structure_your_answers_in_logical_paragraphs": 4.0,
+            "include_an_introduction_and_conclusion": 9.0,
+            "support_main_points_with_an_explanation_and_then_an_example": 6.0,
+            "use_cohesive_linking_words_accurately_and_appropriately": 9.0,
+            "vary_your_linking_phrases_using_synonyms": 6.0
+        },
+        "lexical_resource": {
+            "overall_score": 6.0,
+            "try_to_vary_your_vocabulary_using_accurate_synonyms": 8.0,
+            "check_your_work_for_spelling_and_word_formation_mistakes": 6.0
+        },
+        "grammatical_range": {
+            "overall_score": 6.0,
+            "use_a_variety_of_complex_and_simple_sentences": 9.0,
+            "check_your_writing_for_errors": 6.0
+        },
+        "task_achievement": {
+            "overall_score": 6.0,
+            "answer_all_parts_of_the_question": 7.0,
+            "present_and_fully_explain_ideas": 6.0,
+            "support_ideas_with_relevant,_specific_examples": 6.0,
+            "word_count": 0.0
+        }
+    },
+    "text": [
+        "Undoubtedly it is true fact that  the education  level is totally changed from the past . Few masses think that offspring should learn all subjects at the institute , whereas others opine they should only debate subjects they are well at or find interesting . This essay will discuss both  views . My interest  area is the latter sentiment .",
+        "To commence with , offspring should learn all subjects at the centre . To explain it , offspring get a chance to learn all subjects because it is very helpful for them . They get new information and they adopt new skills . For instance , a headline is stamped on Danik Bhaskar that is an offspring get success with the help of learning all subjects . Hence , it proves this criterion of study is good for increasing the level of offspring , moreover offspring get new experiences also .",
+        "I mean to say that when the offspring try this way of learning then they get new experience about the study .",
+        "Shifting towards the remaining approach , offspring should learn only  one apt . To explicate it , if offspring should learn one likely which is in",
+        "Interested . It has ample merits such as  saving offspring time , Moreover offspring get many new opportunities when they learn only one accountable . Hence , it is a good way of learning for offspring . So offspring get a chance for  should",
+        "study only one susceptible .",
+        "To sum up , both ways are good for learning but I think the latter opinion is well way rather than the former perception"
+    ],
+    "errors": {
+        "num_error": "3",
+        "error_list": [
+            {
+                "word": "moreover",
+                "start_idx": 782,
+                "end_idx": 790,
+                "error": "Add a comma",
+                "error_des": "It appears that you are missing a comma after the introductory phrase moreover. Consider adding a comma.",
+                "suggetions": [
+                    ",moreover"
+                ]
+            },
+            {
+                "word": " ",
+                "start_idx": 905,
+                "end_idx": 906,
+                "error": "Add an article",
+                "error_des": "The noun phrase new experience seems to be missing a determiner before it. Consider adding an article.",
+                "suggetions": [
+                    "a"
+                ]
+            },
+            {
+                "word": "experience",
+                "start_idx": 909,
+                "end_idx": 919,
+                "error": "Fix the agreement mistake",
+                "error_des": "It seems that experience may not agree in number with other words in this phrase.",
+                "suggetions": [
+                    "experiences"
+                ]
+            }
+        ]
+    },
+    "submitter": "godarashivam2",
+    "num_words": 272,
+    "num_paragraphs": 7,
+    "linking_words": {
+        "num_linking_words": "8",
+        "list_linking_words": [
+            "also",
+            "such",
+            "then",
+            "hence",
+            "that is",
+            "for instance",
+            "moreover",
+            "this"
+        ]
+    },
+    "repeated_words": {
+        "num_repeated_words": "2",
+        "list_repeated_words": [
+            {
+                "word": "one",
+                "occurrences": [
+                    {
+                        "start_idx": 1010,
+                        "end_idx": 1013
+                    },
+                    {
+                        "start_idx": 1064,
+                        "end_idx": 1067
+                    },
+                    {
+                        "start_idx": 1220,
+                        "end_idx": 1223
+                    },
+                    {
+                        "start_idx": 1340,
+                        "end_idx": 1343
+                    }
+                ]
+            },
+            {
+                "word": "subjects",
+                "occurrences": [
+                    {
+                        "start_idx": 139,
+                        "end_idx": 147
+                    },
+                    {
+                        "start_idx": 212,
+                        "end_idx": 220
+                    },
+                    {
+                        "start_idx": 388,
+                        "end_idx": 396
+                    },
+                    {
+                        "start_idx": 465,
+                        "end_idx": 473
+                    },
+                    {
+                        "start_idx": 682,
+                        "end_idx": 690
+                    }
+                ]
+            }
+        ]
+    },
+    "datetime_submitted": "2022-07-29T03:13:34.897Z"
+}
