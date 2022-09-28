@@ -242,7 +242,7 @@ if __name__ == "__main__":
         if not os.path.exists(os.path.join(data_dir, os.path.join(str(n).replace('.', '')))):
             os.mkdir(os.path.join(data_dir, os.path.join(str(n).replace('.', ''))))
 
-    with open('writing9.csv', newline='') as f:
+    with open('data/writing9.csv', newline='') as f:
         reader = csv.reader(f)
         for idx, row in enumerate(reader):
             print(f'Count: {idx}')

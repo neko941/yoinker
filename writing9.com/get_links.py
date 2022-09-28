@@ -46,7 +46,7 @@ class Writting9GetLinks():
                     else:
                         if save:
                             assert name, format
-                            data_file = f'{name}.{format}'
+                            data_file = f'data/{name}.{format}'
                             if format == 'csv':
                                 if not os.path.exists(data_file):
                                     with open(data_file, 'a+', newline='') as file:
