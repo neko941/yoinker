@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 import time
 
-def getThanhNien(path=None, id=None, mode='inc', overwrite=True):
+def getThanhNien(path=None, id=None, mode='inc', overwrite=True, sleep=3):
     if path is not None:
         uniqlines = list(set([l.replace('\n', '') for l in open(path).readlines()]))
         uniqlines.sort(key=lambda x: int(x.split('post')[-1].replace('.html', '')))
@@ -14,8 +14,8 @@ def getThanhNien(path=None, id=None, mode='inc', overwrite=True):
                 pathUserAgent='./data/user_agent.txt',
                 error_log='./data/thanhnien_vn/log',
                 savePath='./data/thanhnien_vn').execute(overwrite=overwrite, skipTopics=['Video'])
-            for i in range(3):
-                print(f'Sleeping: {i}/3')
+            for i in range(sleep):
+                print(f'Sleeping: {i+1}/{sleep}')
                 time.sleep(1)
     
     if id is not None:
@@ -29,14 +29,14 @@ def getThanhNien(path=None, id=None, mode='inc', overwrite=True):
                 savePath='./data/thanhnien_vn').execute(overwrite=overwrite, skipTopics=['Video'])
             if mode == 'inc': id += 1
             if mode == 'dec': id -= 1
-            for i in range(3):
-                print(f'Sleeping: {i+1}/3')
+            for i in range(sleep):
+                print(f'Sleeping: {i+1}/{sleep}')
                 time.sleep(1)
 
 if __name__ == '__main__':
     # getThanhNien(path='url/thanhnien.txt', overwrite=False)
 
-    start = 1501570 
+    start = 1405280  # 1495397 
     # end = 1520475
     end = 1520958
     # getThanhNien(id=end+1, overwrite=True, mode='inc')

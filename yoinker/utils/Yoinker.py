@@ -13,18 +13,18 @@ class Scarper():
         self.getSoup()
 
     def getUserAgents(self, pathUserAgent):
-        self.user_agents = self.readTXT(os.path.abspath(pathUserAgent))
+        self.userAgents = self.readTXT(os.path.abspath(pathUserAgent))
 
     def randomUserAgent(self):
-        random.shuffle(self.user_agents)
-        self.user_agent = self.user_agents[0].replace('\n','').strip()
-        print(f"{self.user_agent = }")
+        random.shuffle(self.userAgents)
+        self.userAgent = self.userAgents[0].replace('\n','').strip()
+        print(f"{self.userAgent = }")
         return self
 
     def getSoup(self):
         try:
-            if not self.user_agent: self.randomUserAgent()
-            self.response = requests.get(self.url, headers={"User-Agent": f"{self.user_agent}"})
+            if not self.userAgent: self.randomUserAgent()
+            self.response = requests.get(self.url, headers={"User-Agent": f"{self.userAgent}"})
             if self.response.status_code == 200:
                 self.soup = BeautifulSoup(self.response.content, "html.parser")
             else:

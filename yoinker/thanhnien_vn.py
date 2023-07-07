@@ -1,7 +1,6 @@
 from yoinker.utils.Yoinker import Scarper
 from urlextract import URLExtract
 from urllib.parse import urljoin
-from googlesearch import search
 from bs4 import BeautifulSoup
 from pathlib import Path
 import urllib.request
@@ -30,15 +29,18 @@ class ThanhNien_VN(Scarper):
         assert(any([url is not None, id is not None]))
         self.id = id
         self.url = url
-        if self.url is None:
+        if userAgent is None:
             self.getUserAgents(pathUserAgent) 
             self.randomUserAgent()
+        else:
+            self.userAgent = userAgent
+        if self.url is None:
             self.getURL()
         if self.id is None:
             self.getID()
         print(f'{self.url = }')
         print(f'{self.id = }')
-        Scarper.__init__(self, url=self.url, userAgent=userAgent, pathUserAgent=Path(pathUserAgent))
+        Scarper.__init__(self, url=self.url, userAgent=self.userAgent, pathUserAgent=Path(pathUserAgent))
         self.error_log = error_log
         
         self.savePath = Path(savePath)
@@ -57,7 +59,7 @@ class ThanhNien_VN(Scarper):
         #         return self
         response = requests.get(
             url=f"https://www.google.com/search?q=allinurl%3Apost{self.id}", 
-            headers={"User-Agent": f"{self.user_agent}"})
+            headers={"User-Agent": f"{self.userAgent}"})
         if response.status_code == 200:
             soup = BeautifulSoup(response.content, "html.parser")
         try:
@@ -318,7 +320,7 @@ class ThanhNien_VN(Scarper):
                 if skipVideo and any([r in medium['file'] for r in ['mp4', 'mkv']]): continue
                 try:
                     opener = urllib.request.build_opener()
-                    opener.addheaders = [('User-agent', self.user_agent)]
+                    opener.addheaders = [('User-agent', self.userAgent)]
                     urllib.request.install_opener(opener)
                     path = os.path.join(self.savePath, self.year, self.month, str(self.id), medium['file'])
                     print(f"Retrieving ==> {medium['url']}")
